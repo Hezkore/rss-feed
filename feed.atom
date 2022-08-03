@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://hezkore.github.io/rss-feed/index.html</id>
+    <id>https://hezweb.github.io/rss-feed/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-03T10:28:58.599Z</updated>
+    <updated>2022-08-03T10:34:28.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
-    <link rel="alternate" href="https://hezkore.github.io/rss-feed/index.html"/>
-    <link rel="self" href="https://hezkore.github.io/rss-feed/feed.atom"/>
+    <link rel="alternate" href="https://hezweb.github.io/rss-feed/index.html"/>
+    <link rel="self" href="https://hezweb.github.io/rss-feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Best PC and Laptop Deals]]></title>
+        <id>MckYZQqDYNe5oYuCQLcNCf</id>
+        <link href="https://www.tomshardware.com/news/best-gaming-pc-deals"/>
+        <updated>2022-08-03T10:23:53.000Z</updated>
+        <summary type="html"><![CDATA[We've gathered the top pre-built desktop and laptop deals you can find.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This week's Sea of Thieves update lets you be the captain of your very own ship]]></title>
         <id>https://www.vg247.com/sea-of-thieves-captaincy-update</id>
