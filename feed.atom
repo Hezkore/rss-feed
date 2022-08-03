@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-03T09:57:03.305Z</id>
+    <id>urn:2022-08-03T10:01:11.576Z</id>
     <title>osmos::feed</title>
-    <updated>2022-08-03T09:57:03.305Z</updated>
+    <updated>2022-08-03T10:01:11.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.0 Graphics Driver Changes Preparing For Intel DG2/Alchemist & AMD RDNA3]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.0-DRM-Graphics</id>
+        <link href="https://www.phoronix.com/news/Linux-6.0-DRM-Graphics"/>
+        <updated>2022-08-03T09:50:09.000Z</updated>
+        <summary type="html"><![CDATA[Direct Rendering Manager (DRM) subsystem maintainer David Airlie has submitted all of the open-source GPU/display driver updates for the Linux 6.0 (nee 5.20) merge window. Much of this work is centered around bringing up the Intel Arc Graphics DG2/Alchemist discrete graphics cards and on the AMD side continued work around enabling RDNA3 and Instinct MI300 graphics processors...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel's Open-Source SVT-AV1 v1.2 Video Encoder Released - More AVX2 Optimizations]]></title>
+        <id>https://www.phoronix.com/news/SVT-AV1-1.2-Released</id>
+        <link href="https://www.phoronix.com/news/SVT-AV1-1.2-Released"/>
+        <updated>2022-08-03T09:33:23.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this year Intel released SVT-AV1 1.0 as a big update to this leading open-source AV1 video encoder. Since then they have not let up and now three months after v1.1, SVT-AV1 1.2 is now shipped as the latest update to this cross-platform, high performance AV1 encoder...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chunky Steam Deck update adds overheat warning, docked mode improvements, performance fixes and more]]></title>
         <id>https://www.rockpapershotgun.com/chunky-steam-deck-update-adds-overheat-warning-docked-mode-improvements-performance-fixes-and-more</id>
@@ -44,6 +64,16 @@ South of the Circle got me thinking about this again. It's a smallish game that 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Linux 6.0 HID Brings AMD SFH v1.1 Support, XP-PEN Deco L Tablet Support]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.0-HID</id>
+        <link href="https://www.phoronix.com/news/Linux-6.0-HID"/>
+        <updated>2022-08-03T09:09:28.000Z</updated>
+        <summary type="html"><![CDATA[The HID subsystem updates for the Linux 6.0 (nee 5.20) kernel have been submitted...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SteamOS 3.3 and Steam Deck Client updates released for all users]]></title>
         <id>https://www.gamingonlinux.com/2022/08/steamos-33-and-steam-deck-client-updates-released-for-all-users/</id>
         <link href="https://www.gamingonlinux.com/2022/08/steamos-33-and-steam-deck-client-updates-released-for-all-users/"/>
@@ -64,6 +94,16 @@ South of the Circle got me thinking about this again. It's a smallish game that 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[OBS Studio 28 Beta 1 Brings 10-bit & HDR Video Encoding, Qt6 Toolkit]]></title>
+        <id>https://www.phoronix.com/news/OBS-Studio-28-Beta</id>
+        <link href="https://www.phoronix.com/news/OBS-Studio-28-Beta"/>
+        <updated>2022-08-03T08:29:14.000Z</updated>
+        <summary type="html"><![CDATA[OBS Studio as the popular, cross-platform, open-source software widely used by live-streamers is working on its next major release...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Play Crossword Puzzle Games on Linux Desktop With this Brand New GNOME App]]></title>
         <id>https://itsfoss.com/?p=100467</id>
         <link href="https://itsfoss.com/crosswords/"/>
@@ -71,6 +111,26 @@ South of the Circle got me thinking about this again. It's a smallish game that 
         <summary type="html"><![CDATA[Like solving crosswords? Exercise your brain by solving crossword puzzles from various news outlets and websites on your Linux desktop.]]></summary>
         <author>
             <name>Abhishek Prakash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SteamOS 3.3 Now Available With Many Improvements For The Steam Deck]]></title>
+        <id>https://www.phoronix.com/news/Steam-OS-3.3-Steam-Deck</id>
+        <link href="https://www.phoronix.com/news/Steam-OS-3.3-Steam-Deck"/>
+        <updated>2022-08-03T01:00:12.000Z</updated>
+        <summary type="html"><![CDATA[Valve this evening has begun shipping SteamOS 3.3 to Steam Deck customers as the latest version of their Arch Linux based software stack initially targeting their handheld game console...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fedora 37 To Offer Official Support On Raspberry Pi 4 Devices]]></title>
+        <id>https://www.phoronix.com/news/Raspberry-Pi-4-Fedora-37</id>
+        <link href="https://www.phoronix.com/news/Raspberry-Pi-4-Fedora-37"/>
+        <updated>2022-08-02T23:19:21.000Z</updated>
+        <summary type="html"><![CDATA[A month ago there was the Fedora 37 change proposal for Fedora to officially support the Raspberry Pi 4, including its accelerated Broadcom graphics and to better advertise Fedora for the Raspberry Pi. The Fedora Engineering and Steering Committee (FESCo) has now signed off on this "official" support for the Raspberry Pi 4...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -132,6 +192,26 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome 104 Released With Region Capture Support, WebGL Canvas Color Management]]></title>
+        <id>https://www.phoronix.com/news/Chrome-104-Released</id>
+        <link href="https://www.phoronix.com/news/Chrome-104-Released"/>
+        <updated>2022-08-02T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Google has promoted Chrome 104 to stable today as their newest feature update to this leading, cross-platform web browser...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GCC 12 Profile Guided Optimization Benchmarks With The AMD Threadripper 3990X]]></title>
+        <id>https://www.phoronix.com/news/GCC-12-PGO-TR-3990X-AMD</id>
+        <link href="https://www.phoronix.com/news/GCC-12-PGO-TR-3990X-AMD"/>
+        <updated>2022-08-02T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Last month I ran a number of GCC 12 compiler optimization benchmarks for this latest-stable compiler atop an AMD Ryzen Threadripper 3990X workstation. Those tests included various optimization levels as well as link-time optimizations (LTO). Some Phoronix Premium  supporters also requested to see some fresh GCC 12 Profile Guided Optimization (PGO) benchmarks, so here in this article are those PGO benchmark results...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -238,6 +318,26 @@ Having bought the game and played it myself, I can tell you it is a worthless, m
 Read more]]></summary>
         <author>
             <name>Tom Phillips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DXVK 1.10.3 Released With Shared Fences - Needed By Halo Infinite On Linux]]></title>
+        <id>https://www.phoronix.com/news/DXVK-1.10.3-Released</id>
+        <link href="https://www.phoronix.com/news/DXVK-1.10.3-Released"/>
+        <updated>2022-08-02T16:01:07.000Z</updated>
+        <summary type="html"><![CDATA[DXVK 1.10.3 has been released as the newest update for an upcoming Proton release, which powers Steam Play for allowing Windows games to run often very well under Linux...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPI Seeing Some Nice Performance Optimizations With Linux 6.0]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.0-SPI-Better-Perf</id>
+        <link href="https://www.phoronix.com/news/Linux-6.0-SPI-Better-Perf"/>
+        <updated>2022-08-02T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Performance tuning work to the Linux kernel's Serial Peripheral Interface (SPI) subsystem will pay off for embedded systems and other SPI-heavy platforms with Linux 6.0...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -352,6 +452,26 @@ As the name would suggest, Haunted PS1 is a community dedicated to indie games t
 Read more]]></summary>
         <author>
             <name>Liv Ngan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CXL 3.0 Specification Released - Doubles The Data Rate Of CXL 2.0]]></title>
+        <id>https://www.phoronix.com/news/CXL-3.0-Specification-Released</id>
+        <link href="https://www.phoronix.com/news/CXL-3.0-Specification-Released"/>
+        <updated>2022-08-02T13:30:55.000Z</updated>
+        <summary type="html"><![CDATA[The CXL Consortium today announced the Compute Express Link 3.0 specification that doubles the data rate of CXL 2.0 to 64 GT/s while introducing no added latency...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA 515.65.01 Linux Driver Released With Fixes]]></title>
+        <id>https://www.phoronix.com/news/NVIDIA-515.65.01-Linux</id>
+        <link href="https://www.phoronix.com/news/NVIDIA-515.65.01-Linux"/>
+        <updated>2022-08-02T13:30:00.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIA today released their 515.65.01 Linux driver as the newest in the stable R515 series...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -576,6 +696,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GNOME Console Could Be Ubuntu 22.10's GNOME Terminal Replacement]]></title>
+        <id>https://www.phoronix.com/news/GNOME-Console-Ubuntu-22.10</id>
+        <link href="https://www.phoronix.com/news/GNOME-Console-Ubuntu-22.10"/>
+        <updated>2022-08-02T10:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Back in May was a proposal by Canonical desktop software engineer Jeremy Bicha to use the new GNOME Console as the default terminal application in Ubuntu 22.10, replacing the GNOME Terminal. That default change hasn't happened yet but some necessary improvements have now been made to Ubuntu Kinetic's gnome-console package ahead of that possible shift...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ubisoft's ex-Division developer boss joins PlayerUnknown Productions]]></title>
         <id>https://www.eurogamer.net/ubisofts-ex-division-developer-boss-joins-playerunknown-productions</id>
         <link href="https://www.eurogamer.net/ubisofts-ex-division-developer-boss-joins-playerunknown-productions"/>
@@ -652,6 +782,16 @@ Here’s how it works. You first start with Velma’s Spread the Knowledge (down
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Rust Code For The Linux Kernel Updated With More Features Implemented]]></title>
+        <id>https://www.phoronix.com/news/Rust-v8-For-Linux-Kernel</id>
+        <link href="https://www.phoronix.com/news/Rust-v8-For-Linux-Kernel"/>
+        <updated>2022-08-02T10:10:54.000Z</updated>
+        <summary type="html"><![CDATA[Miguel Ojeda has posted the newest patch series implementing the Rust programming language infrastructure and initial sample code for the Linux kernel...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Marvel's Spider-Man Remastered PC price drop means pre-order customers now need to re-purchase the game]]></title>
         <id>https://www.eurogamer.net/marvels-spider-man-remastered-pc-price-drop-means-pre-order-customers-now-need-to-re-purchase-the-game</id>
         <link href="https://www.eurogamer.net/marvels-spider-man-remastered-pc-price-drop-means-pre-order-customers-now-need-to-re-purchase-the-game"/>
@@ -667,6 +807,16 @@ The new price is £49.99, down from £54.99. Customers will now need to cancel t
 Read more]]></summary>
         <author>
             <name>Ed Nightingale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Btrfs With Linux 6.0: Send Protocol v2, ~3x Boost For Direct Read Performance]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.0-Btrfs</id>
+        <link href="https://www.phoronix.com/news/Linux-6.0-Btrfs"/>
+        <updated>2022-08-02T09:55:44.000Z</updated>
+        <summary type="html"><![CDATA[SUSE's David Sterba sent in the Btrfs file-system updates on Monday for the in-development Linux 6.0 kernel...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -693,6 +843,26 @@ The rework improves the flow of the map by adding a lot more cover, changing the
  Read more]]></summary>
         <author>
             <name>Sherif Saed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Prepares Linux Support For L3SBE Slow Memory Bandwidth Configuration, BMEC]]></title>
+        <id>https://www.phoronix.com/news/AMD-QoS-L3SBE-BMEC</id>
+        <link href="https://www.phoronix.com/news/AMD-QoS-L3SBE-BMEC"/>
+        <updated>2022-08-02T09:25:57.000Z</updated>
+        <summary type="html"><![CDATA[Some of the newest Linux patches out of AMD for new processors are implementing support for some recently-documented Quality of Service extensions: L3SBE and BMEC...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNU C Library 2.36 Released With New Functions, More Optimizations]]></title>
+        <id>https://www.phoronix.com/news/GNU-C-Library-Glibc-2.36</id>
+        <link href="https://www.phoronix.com/news/GNU-C-Library-Glibc-2.36"/>
+        <updated>2022-08-02T09:08:39.000Z</updated>
+        <summary type="html"><![CDATA[Released overnight was a new version of Glibc, the GNU C Library, commonly used by Linux systems as the default libc implementation...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -729,6 +899,36 @@ The esports arm of Formula E grew during the pandemic and a need to engage racin
 Read more]]></summary>
         <author>
             <name>Ed Nightingale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.0 To Disable Printing On Consoles With Real-Time Kernels]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.0-RT-Skip-Console-Print</id>
+        <link href="https://www.phoronix.com/news/Linux-6.0-RT-Skip-Console-Print"/>
+        <updated>2022-08-02T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[As part of getting PREEMPT_RT support ready to be mainlined at long last for real-time kernel builds, a number of Linux 6.0 (nee 5.20) pull requests have revolved around additional RT preparatory changes. With the printk changes for Linux 6.0, the console drivers will now be skipped in RT mode...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam For Linux In July Shows A 1.23% Marketshare, AMD CPUs Now More Common Than Intel On Linux]]></title>
+        <id>https://www.phoronix.com/news/Steam-Linux-July-2022</id>
+        <link href="https://www.phoronix.com/news/Steam-Linux-July-2022"/>
+        <updated>2022-08-02T00:55:48.000Z</updated>
+        <summary type="html"><![CDATA[During the month of June the Steam on Linux usage hit a multi-year high point of 1.18% while for July there is another tick upwards thanks to the continued interest in Linux gaming around the Steam Deck...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Long-Obsolete DECnet Networking Code In The Linux Kernel Expected To Finally Be Removed]]></title>
+        <id>https://www.phoronix.com/news/Linux-DECnet-2022-Removal</id>
+        <link href="https://www.phoronix.com/news/Linux-DECnet-2022-Removal"/>
+        <updated>2022-08-01T22:44:09.000Z</updated>
+        <summary type="html"><![CDATA[DECnet as a set of networking protocols from Digital Equipment Corporation (DEC) that date back to 1975 are expected to be finally removed from the Linux kernel. The DECnet protocols have long been obsolete, the Linux kernel implementation has been orphaned for more than one decade, and is code that belongs more in a history museum than the mainline kernel...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -799,6 +999,36 @@ Edgerunners, which was announced back in June 2020, is a 10-episode collaboratio
 Read more]]></summary>
         <author>
             <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IO_uring To Ring In Some Awesome Improvements With Linux 6.0]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.0-IO-Block-IO_uring</id>
+        <link href="https://www.phoronix.com/news/Linux-6.0-IO-Block-IO_uring"/>
+        <updated>2022-08-01T18:47:55.000Z</updated>
+        <summary type="html"><![CDATA[IO_uring continues to be one of the greatest Linux kernel innovations in recent years and with the in-development Linux 6.0 kernel is getting even better along with some nice block updates and other storage-related enhancements...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.0 Has Some Big Scheduler Changes, Including Improved NUMA Balancing For AMD Zen]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.0-Scheduler</id>
+        <link href="https://www.phoronix.com/news/Linux-6.0-Scheduler"/>
+        <updated>2022-08-01T18:00:33.000Z</updated>
+        <summary type="html"><![CDATA[Ingo Molnar today submitted the main set of kernel scheduler updates for the in-development Linux 6.0 (nee 5.20). The scheduler updates contain some notable changes that will be interesting to benchmark in the days ahead...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Driver Posted Enabling Bluetooth Support For Apple M1/M2, Some x86 Macs]]></title>
+        <id>https://www.phoronix.com/news/Linux-Bluetooth-Apple-Silicon</id>
+        <link href="https://www.phoronix.com/news/Linux-Bluetooth-Apple-Silicon"/>
+        <updated>2022-08-01T17:44:39.000Z</updated>
+        <summary type="html"><![CDATA[Sven Peter who has worked a lot on various aspects of Apple Silicon enablement for Linux today posted the patches enabling Apple Bluetooth driver support for Apple Silicon M1/M2 hardware and also for some Apple x86 Macs...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -1156,6 +1386,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Linux 6.0 Has Temperature Monitoring For Upcoming AMD CPUs, MWAIT For HPC Customers]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.0-More-AMD-k10temp</id>
+        <link href="https://www.phoronix.com/news/Linux-6.0-More-AMD-k10temp"/>
+        <updated>2022-08-01T13:30:54.000Z</updated>
+        <summary type="html"><![CDATA[Among the early pull requests for the now-open Linux 6.0 merge window (nee Linux 5.20) are a few AMD additions worth mentioning...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pokémon Presents broadcast scheduled for this week]]></title>
         <id>https://www.eurogamer.net/pokemon-presents-broadcast-scheduled-for-this-week</id>
         <link href="https://www.eurogamer.net/pokemon-presents-broadcast-scheduled-for-this-week"/>
@@ -1316,6 +1556,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mesa's Radeon R600g Driver Adds NIR Support For Pre-Evergreen GPUs]]></title>
+        <id>https://www.phoronix.com/news/R600g-NIR-For-Older-GPUs</id>
+        <link href="https://www.phoronix.com/news/R600g-NIR-For-Older-GPUs"/>
+        <updated>2022-08-01T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Merged in early July to Mesa 22.2 was the rewritten R600g NIR back-end for improving older AMD Radeon HD 5000/6000 series graphics cards on Linux with this open-source OpenGL driver. That NIR code was limited to "newer" Radeon GPUs supported by the R600g driver while now it's been extended for supporting pre-Evergreen GPUs too...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Modders discover Elden Ring's toughest boss used to be even tougher]]></title>
         <id>https://www.eurogamer.net/modders-discover-elden-rings-toughest-boss-used-to-be-even-tougher</id>
         <link href="https://www.eurogamer.net/modders-discover-elden-rings-toughest-boss-used-to-be-even-tougher"/>
@@ -1384,6 +1634,26 @@ Okay, so what does this actually mean? Well, in the simplest terms, it means tha
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Unvanquished 0.53 Released For This Leading Open-Source FPS Game]]></title>
+        <id>https://www.phoronix.com/news/Unvanquished-0.53-Beta</id>
+        <link href="https://www.phoronix.com/news/Unvanquished-0.53-Beta"/>
+        <updated>2022-08-01T10:00:54.000Z</updated>
+        <summary type="html"><![CDATA[Released on Sunday was Unvanquished 0.53 Beta as the latest in a long string of betas for this one of the most promising open-source first person shooter (FPS) games...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.0 To Continue Advancing Its Random Number Generator (RNG)]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.0-RNG</id>
+        <link href="https://www.phoronix.com/news/Linux-6.0-RNG"/>
+        <updated>2022-08-01T09:49:31.000Z</updated>
+        <summary type="html"><![CDATA[In addition to being busy leading WireGuard, Jason Donenfeld continues working heavily on the Linux kernel's random number generator (RNG) code. For Linux 6.0, a number of RNG improvements are ready...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Steam Survival Fest starts stockpiling demos and discounts today]]></title>
         <id>https://www.rockpapershotgun.com/steam-survival-fest-starts-stockpiling-demos-and-discounts-today</id>
         <link href="https://www.rockpapershotgun.com/steam-survival-fest-starts-stockpiling-demos-and-discounts-today"/>
@@ -1404,6 +1674,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[MangoHud is probably one of my favourite open source projects giving Linux gamers a fancy HUD to display various performance metrics in a nice overlay. Version 0.6.8 is out now!]]></summary>
         <author>
             <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNU Linux-libre 5.19-gnu Released - Continues The Uphill Battle Against Firmware Blobs]]></title>
+        <id>https://www.phoronix.com/news/GNU-Linux-Libre-5.19</id>
+        <link href="https://www.phoronix.com/news/GNU-Linux-Libre-5.19"/>
+        <updated>2022-08-01T09:32:22.000Z</updated>
+        <summary type="html"><![CDATA[Following yesterday's release of Linux 5.19 stable the FSFLA folks maintaining the GNU Linux-libre kernel released their downstream version that strips out support for loading proprietary kernel modules as well as stripping out drivers/support that requires non-free/closed-source microcode/firmware files...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -1435,6 +1715,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Linux 5.20 Likely To Be Called Linux 6.0]]></title>
+        <id>https://www.phoronix.com/news/Linux-5.20-Is-Linux-6.0</id>
+        <link href="https://www.phoronix.com/news/Linux-5.20-Is-Linux-6.0"/>
+        <updated>2022-08-01T09:18:55.000Z</updated>
+        <summary type="html"><![CDATA[In case you missed it in yesterday's Linux 5.19 announcement and to avoid reader questions/confusion in the days ahead, just making it loud and clear here: what was referred to as the Linux 5.20 kernel in development will most likely be called Linux 6.0...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Linux 5.19 is out now, Torvalds released it using an Apple silicon MacBook]]></title>
         <id>https://www.gamingonlinux.com/2022/08/linux-519-is-out-now-torvalds-released-it-using-an-apple-silicon-macbook/</id>
         <link href="https://www.gamingonlinux.com/2022/08/linux-519-is-out-now-torvalds-released-it-using-an-apple-silicon-macbook/"/>
@@ -1442,6 +1732,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[The latest kernel release is out with Linux 5.19 and showing just how far Linux support for the newer Apple silicon MacBooks has come, Linus Torvalds did the release on one!]]></summary>
         <author>
             <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Systemd Creator At Microsoft, Retbleed, Rust's Continued Growth & Other July Highlights]]></title>
+        <id>https://www.phoronix.com/news/July-2022-Highlights</id>
+        <link href="https://www.phoronix.com/news/July-2022-Highlights"/>
+        <updated>2022-08-01T09:05:21.000Z</updated>
+        <summary type="html"><![CDATA[July was another exciting month for Linux and open-source software fans from being the first to report on the news of systemd creator Lennart Poettering joining Microsoft, Linux 5.19 getting wrapped up, popularity of the Rust programming language continues to climb, lots of open-source graphics driver news, and much more...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -3505,6 +3805,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Retbleed Impact, Overall CPU Security Mitigation Cost For Intel Xeon E3 v5 Skylake]]></title>
+        <id>https://www.phoronix.com/review/xeon-skylake-retbleed</id>
+        <link href="https://www.phoronix.com/review/xeon-skylake-retbleed"/>
+        <updated>2022-07-28T09:55:18.000Z</updated>
+        <summary type="html"><![CDATA[Since the disclosure of Retbleed earlier this month as the newest CPU security vulnerability around speculative execution, I've posted some Intel/AMD benchmarks looking at the mitigation cost for the affected older generations of processors. Last week I also looked at the accumulated CPU mitigation cost on AMD Zen 1. Today is a similar comparison over on the Intel Xeon E3 v5 "Skylake" side with looking at the cost of just the Retbleed mitigations and then the overall CPU mitigation cost when toggling all of the various vulnerabilities with the "mitigations=off" flag.]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Why does the Nier: Automata secret church include references to Replicant?]]></title>
         <id>https://www.eurogamer.net/why-does-the-nier-automata-secret-church-include-references-to-replicant</id>
         <link href="https://www.eurogamer.net/why-does-the-nier-automata-secret-church-include-references-to-replicant"/>
@@ -4417,6 +4727,16 @@ Footage of the mod has been shared online by YouTuber and modder Waikuteru, and 
 Read more]]></summary>
         <author>
             <name>CJ Wheeler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Radeon 680M Graphics Are A Great Upgrade With RDNA2, Excellent On Linux]]></title>
+        <id>https://www.phoronix.com/review/amd-radeon-680m</id>
+        <link href="https://www.phoronix.com/review/amd-radeon-680m"/>
+        <updated>2022-07-25T15:15:24.000Z</updated>
+        <summary type="html"><![CDATA[Last week when posting my initial Linux benchmarks of the AMD Ryzen 7 PRO 6850U performance (and also looking at the AMD Rembrandt Windows vs. Linux speed), there were two main areas to get excited about with these AMD Zen 3+ SoCs: nice power efficiency improvements across many real-world workloads and the graphics upgrade with the integrated Radeon 680M. In this article are more tests of the Radoen 680M graphics looking at the integrated graphics speed-up with RDNA2 finally replacing Vega as a big upgrade and also how this compares to the Intel Alder Lake P Xe Graphics performance for Linux laptops.]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
