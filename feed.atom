@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-03T20:24:00.956Z</updated>
+    <updated>2022-08-03T21:20:29.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Record-short days could speed up debate on leap seconds]]></title>
+        <id>https://arstechnica.com/?p=1871355</id>
+        <link href="https://arstechnica.com/?p=1871355"/>
+        <updated>2022-08-03T21:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Leap seconds cause network turmoil. Meta wants to end them before the next one.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50 state AGs vow action against carriers that bring foreign robocalls to US]]></title>
+        <id>https://arstechnica.com/?p=1871384</id>
+        <link href="https://arstechnica.com/?p=1871384"/>
+        <updated>2022-08-03T20:45:33.000Z</updated>
+        <summary type="html"><![CDATA[AGs send demands to carriers allegedly responsible for most foreign robocalls.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facing quality and pacing issues, Apple reportedly delays iPadOS 16]]></title>
+        <id>https://arstechnica.com/?p=1871362</id>
+        <link href="https://arstechnica.com/?p=1871362"/>
+        <updated>2022-08-03T20:33:04.000Z</updated>
+        <summary type="html"><![CDATA[Delay will give Apple more time to catch up with iOS 16 for September.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Serpent Canyon NUC Surfaces With Arc A770M, A730M GPUs]]></title>
+        <id>H8CxSBY7BFkZt5NKC4ENCn</id>
+        <link href="https://www.tomshardware.com/news/intel-serpent-canyon-nuc-12-arc-alder-lake"/>
+        <updated>2022-08-03T20:21:05.000Z</updated>
+        <summary type="html"><![CDATA[Intel's Serpent Canyon NUC 12 systems pair 12th Gen Alder Lake CPUs with Arc A-Series mobile GPUs.]]></summary>
+        <author>
+            <name>brandon.hill@futurenet.com (Brandon Hill)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD's 64-Core Zen 3 Threadripper CPU Sets Cinebench R23 World Record at 5.2 GHz]]></title>
         <id>4rRgv5qL5mYMS7cFxbjDvF</id>

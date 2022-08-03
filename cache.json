@@ -4631,6 +4631,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "H8CxSBY7BFkZt5NKC4ENCn",
+          "author": "brandon.hill@futurenet.com (Brandon Hill)",
+          "description": "Intel's Serpent Canyon NUC 12 systems pair 12th Gen Alder Lake CPUs with Arc A-Series mobile GPUs.",
+          "link": "https://www.tomshardware.com/news/intel-serpent-canyon-nuc-12-arc-alder-lake",
+          "publishedOn": "2022-08-03T20:21:05.000Z",
+          "wordCount": 17458,
+          "title": "Intel Serpent Canyon NUC Surfaces With Arc A770M, A730M GPUs",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/7aM6eVmnQpXLrotVXHto9o.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/7aM6eVmnQpXLrotVXHto9o.jpg"
+        },
+        {
           "id": "4rRgv5qL5mYMS7cFxbjDvF",
           "author": null,
           "description": "A Ryzen Threadripper Pro 5995WX 64-core chip has officially broken the Cinebench R23 world record holder with a multi-threaded score of over 11,600 points.",
@@ -5626,6 +5641,36 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1871355",
+          "author": "Kevin Purdy",
+          "description": "Leap seconds cause network turmoil. Meta wants to end them before the next one.",
+          "link": "https://arstechnica.com/?p=1871355",
+          "publishedOn": "2022-08-03T21:00:59.000Z",
+          "wordCount": 1548,
+          "title": "Record-short days could speed up debate on leap seconds",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/07/atomic-clock1-640x215.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1871384",
+          "author": "Jon Brodkin",
+          "description": "AGs send demands to carriers allegedly responsible for most foreign robocalls.",
+          "link": "https://arstechnica.com/?p=1871384",
+          "publishedOn": "2022-08-03T20:45:33.000Z",
+          "wordCount": 1457,
+          "title": "50 state AGs vow action against carriers that bring foreign robocalls to US",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-unknown-caller-id-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1871362",
+          "author": "Samuel Axon",
+          "description": "Delay will give Apple more time to catch up with iOS 16 for September.",
+          "link": "https://arstechnica.com/?p=1871362",
+          "publishedOn": "2022-08-03T20:33:04.000Z",
+          "wordCount": 1505,
+          "title": "Facing quality and pacing issues, Apple reportedly delays iPadOS 16",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/iPadOS-15-cover-760x380.png"
+        },
         {
           "id": "https://arstechnica.com/?p=1871325",
           "author": "Sam Machkovech",
