@@ -316,6 +316,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/08/marvels-spider-man-remastered-is-steam-deck-verified-ahead-of-release/",
+          "author": "Liam Dawe",
+          "description": "Good news web slingers, as Marvel's Spider-Man Remastered from Insomniac Games and Nixxes Software has been Steam Deck Verified ahead of the upcoming release.",
+          "link": "https://www.gamingonlinux.com/2022/08/marvels-spider-man-remastered-is-steam-deck-verified-ahead-of-release/",
+          "publishedOn": "2022-08-03T19:14:21.000Z",
+          "wordCount": 1259,
+          "title": "Marvel's Spider-Man Remastered is Steam Deck Verified ahead of release",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/408882019id21401gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/08/get-a-bunch-of-the-walking-dead-in-the-latest-humble-bundle/",
           "author": "Liam Dawe",
           "description": "Love The Walking Dead? Now you can pick up a whole bunch of the games thanks to the Walking Dead 10th Anniversary Bundle.",
@@ -3137,6 +3147,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Google-GloFo-GF180MCU",
+          "author": null,
+          "description": "Over the past two years Google has been spearheading an effort to make silicon design more open-source and allowing more projects to get started in chip fabrication. That got started with a partnership with SkyWater Technology and Google covering the costs for open-source projects to see their initial chips fabricated on a 130nm process. Google's Open-Source Silicon Design Initiative recently announced SkyWater 90mm manufacturing will get underway for future manufacturing runs. Today the news out of Google's open-source group is that GlobalFoundries has joined this initiative and is providing 180nm manufacturing access...",
+          "link": "https://www.phoronix.com/news/Google-GloFo-GF180MCU",
+          "publishedOn": "2022-08-03T18:30:00.000Z",
+          "wordCount": 1390,
+          "title": "GlobalFoundries Partners With Google's Open-Source Silicon Effort To Provide 180nm Tech",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-6.0-Runtime-Verification",
           "author": null,
           "description": "Another big ticket feature has made it for the Linux 6.0 kernel: the Runtime Verification infrastructure for running Linux on safety-critical systems...",
@@ -4611,6 +4631,51 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "9BP3cf7dWvaL5a2mqktYjh",
+          "author": "francisco.pires@outlook.com (Francisco Pires)",
+          "description": "Chinese manufacturer YMTC has announced the third generation of its Xtacking 3D TLC technology, increasing NAND speed and density while cutting power consumption by 25%.",
+          "link": "https://www.tomshardware.com/news/ymtc-announces-xtacking-30-for-faster-denser-3d-tlc-nand",
+          "publishedOn": "2022-08-03T18:49:57.000Z",
+          "wordCount": 17567,
+          "title": "YMTC Announces Xtacking 3.0 for Faster, Denser 3D TLC NAND",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/6jm2vefnCVPjJ9dsjhCXUW.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/6jm2vefnCVPjJ9dsjhCXUW.jpg"
+        },
+        {
+          "id": "ADASzcgE7WXGrc6WHDXDs6",
+          "author": null,
+          "description": "We've benchmarked all the latest GPUs to select the best graphics cards for gaming. These graphics cards offer the best performance at their price and resolution, from 1080p to 4K.",
+          "link": "https://www.tomshardware.com/reviews/best-gpus,4380.html",
+          "publishedOn": "2022-08-03T18:36:00.000Z",
+          "wordCount": 27603,
+          "title": "Best Graphics Cards for Gaming in 2022",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/ojsvrqhnYFHNRDrfQLJTVD.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/ojsvrqhnYFHNRDrfQLJTVD.jpg"
+        },
+        {
+          "id": "BXgL3jmmP7ZRF2HDAfS4x5",
+          "author": null,
+          "description": "Intel AV1 encoding has finally been tested in its Arc GPUs, and is very fast compared to H.264 encoders.",
+          "link": "https://www.tomshardware.com/news/intel-arc-av1-encoder-dominates-nvenc",
+          "publishedOn": "2022-08-03T18:23:44.000Z",
+          "wordCount": 17918,
+          "title": "Intel Arc AV1 Encoder Is Faster Than Nvidia NVENC H.264",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/rG6aKpdX9hikRvo8Qri6nU.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/rG6aKpdX9hikRvo8Qri6nU.jpg"
+        },
+        {
           "id": "CuyTmKbPEF82VWZfLzqHE6",
           "author": null,
           "description": "Western Digital's latest WD Black SN850X PCIe 4.0 NVMe SSDs are finally available.",
@@ -5531,6 +5596,16 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1871281",
+          "author": "Jon Brodkin",
+          "description": "Starlink still trying to get $886M in FCC funds awarded by Ajit Pai in 2020.",
+          "link": "https://arstechnica.com/?p=1871281",
+          "publishedOn": "2022-08-03T18:38:13.000Z",
+          "wordCount": 1601,
+          "title": "SpaceX and Viasat fight over whether Starlink can meet FCC speed obligations",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/spacex-starlink-dish-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1871269",
           "author": "Ashley Belanger",
