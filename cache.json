@@ -7108,6 +7108,33 @@
           "imageUrl": "https://loadingartist.com/comic/much-to-do-about-nothing/thumb.png"
         }
       ]
+    },
+    {
+      "title": "Moonbeard",
+      "feedUrl": "https://moonbeard.com/feed/atom/",
+      "siteUrl": "https://moonbeard.com",
+      "articles": [
+        {
+          "id": "https://moonbeard.com/2022/07/earth/",
+          "author": null,
+          "description": "<p><a href=\"https://moonbeard.com/2022/07/earth/\" title=\"Earth\"><img src=\"https://moonbeard.com/comics-rss/2022-07-25-MB-2022-07%20Earth.png\" alt=\"Earth\" class=\"comicthumbnail\" title=\"Earth\" />\r\n</a></p><p>earth comic See also: Squires.nz &#124; Instagram &#124; Twitter</p>\n<p>The post <a rel=\"nofollow\" href=\"https://moonbeard.com/2022/07/earth/\">Earth</a> appeared first on <a rel=\"nofollow\" href=\"https://moonbeard.com\">Moonbeard</a>.</p>",
+          "link": "https://moonbeard.com/2022/07/earth/",
+          "publishedOn": "2022-07-24T12:01:00.000Z",
+          "wordCount": 422,
+          "title": "Earth",
+          "imageUrl": null
+        },
+        {
+          "id": "https://moonbeard.com/2022/07/pain/",
+          "author": null,
+          "description": "<p><a href=\"https://moonbeard.com/2022/07/pain/\" title=\"Pain\"><img src=\"https://moonbeard.com/comics-rss/2022-07-10-MB-2022-07%20Pain.png\" alt=\"Pain\" class=\"comicthumbnail\" title=\"Pain\" />\r\n</a></p><p>pain comic See also: Squires.nz &#124; Instagram &#124; Twitter</p>\n<p>The post <a rel=\"nofollow\" href=\"https://moonbeard.com/2022/07/pain/\">Pain</a> appeared first on <a rel=\"nofollow\" href=\"https://moonbeard.com\">Moonbeard</a>.</p>",
+          "link": "https://moonbeard.com/2022/07/pain/",
+          "publishedOn": "2022-07-09T12:01:00.000Z",
+          "wordCount": 423,
+          "title": "Pain",
+          "imageUrl": null
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
