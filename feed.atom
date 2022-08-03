@@ -1,41 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-03T00:22:54.571Z</id>
+    <id>urn:2022-08-03T00:28:52.677Z</id>
     <title>osmos::feed</title>
-    <updated>2022-08-03T00:22:54.571Z</updated>
+    <updated>2022-08-03T00:28:52.677Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Public-private partnerships in health: The journey ahead for open source]]></title>
-        <id>https://www.linux.com/news/public-private-partnerships-in-health-the-journey-ahead-for-open-source/</id>
-        <link href="https://www.linux.com/news/public-private-partnerships-in-health-the-journey-ahead-for-open-source/"/>
-        <updated>2022-08-02T23:53:36.000Z</updated>
-        <summary type="html"><![CDATA[The past three years have redefined the practice and management of public health on a global scale. What will we need in order to support innovation over the next three years?
-The post Public-private partnerships in health: The journey ahead for open source appeared first on Linux.com.]]></summary>
+        <title type="html"><![CDATA[KDE Plasma 5.25.4 Improves Plasma Wayland for Steam Proton Games, Fixes More Bugs]]></title>
+        <id>https://9to5linux.com/?p=13506</id>
+        <link href="https://9to5linux.com/kde-plasma-5-25-4-improves-plasma-wayland-for-steam-proton-games-fixes-more-bugs"/>
+        <updated>2022-08-02T14:19:24.000Z</updated>
+        <summary type="html"><![CDATA[KDE Plasma 5.25.4 is now available as a bugfix release to the latest Plasma 5.25 desktop environment series improving the Plasma Wayland session, Discover, and many other components.
+The post KDE Plasma 5.25.4 Improves Plasma Wayland for Steam Proton Games, Fixes More Bugs appeared first on 9to5Linux - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.]]></summary>
         <author>
-            <name>The Linux Foundation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s new for NFS in Unbreakable Enterprise Kernel Release 7?]]></title>
-        <id>https://www.linux.com/news/whats-new-for-nfs-in-unbreakable-enterprise-kernel-release-7/</id>
-        <link href="https://www.linux.com/news/whats-new-for-nfs-in-unbreakable-enterprise-kernel-release-7/"/>
-        <updated>2022-08-02T22:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This article illustrates some of the hig Click to Read More at Oracle Linux Kernel Development
-The post What’s new for NFS in Unbreakable Enterprise Kernel Release 7? appeared first on Linux.com.]]></summary>
-        <author>
-            <name>Calum Mackay</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to limit container privilege with socket activation]]></title>
-        <id>https://www.linux.com/news/how-to-limit-container-privilege-with-socket-activation/</id>
-        <link href="https://www.linux.com/news/how-to-limit-container-privilege-with-socket-activation/"/>
-        <updated>2022-08-02T16:01:48.000Z</updated>
-        <summary type="html"><![CDATA[Using socket activation with the –network=none option limits an intruder’s ability to use a compromised container as a starting point for attacks on other devices. Read More at Enable Sysadmin
-The post How to limit container privilege with socket activation appeared first on Linux.com.]]></summary>
-        <author>
-            <name>Erik Sjölund</name>
+            <name>Marius Nestor</name>
         </author>
     </entry>
     <entry>
@@ -63,17 +41,6 @@ Love this? sudo share_on: Twitter - Facebook - LinkedIn - Whatsapp - Reddit
 The post DNS settings to avoid email spoofing and phishing for unused domain appeared first on nixCraft.]]></summary>
         <author>
             <name>Vivek Gite</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to manage pods in Podman with the REST API]]></title>
-        <id>https://www.linux.com/news/how-to-manage-pods-in-podman-with-the-rest-api/</id>
-        <link href="https://www.linux.com/news/how-to-manage-pods-in-podman-with-the-rest-api/"/>
-        <updated>2022-08-01T16:01:35.000Z</updated>
-        <summary type="html"><![CDATA[Learn how to configure, inspect, and start pods in Podman with the REST API. Read More at Enable Sysadmin
-The post How to manage pods in Podman with the REST API appeared first on Linux.com.]]></summary>
-        <author>
-            <name>Jakub Guzik</name>
         </author>
     </entry>
     <entry>
@@ -411,39 +378,6 @@ Read more of this story at Slashdot.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[People of Open Source: Neville Spiteri, Wevr]]></title>
-        <id>https://www.linux.com/news/people-of-open-source-neville-spiteri-wevr/</id>
-        <link href="https://www.linux.com/news/people-of-open-source-neville-spiteri-wevr/"/>
-        <updated>2022-07-29T22:41:06.000Z</updated>
-        <summary type="html"><![CDATA[Neville Spiteri is the co-founder/CEO of Wevr and a member of the Academy Software Foundation. Learn more about Neville here.
-The post People of Open Source: Neville Spiteri, Wevr appeared first on Linux.com.]]></summary>
-        <author>
-            <name>The Linux Foundation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Sysadmin Appreciation Day: 2022’s top articles for sysadmins]]></title>
-        <id>https://www.linux.com/news/happy-sysadmin-appreciation-day-2022s-top-articles-for-sysadmins/</id>
-        <link href="https://www.linux.com/news/happy-sysadmin-appreciation-day-2022s-top-articles-for-sysadmins/"/>
-        <updated>2022-07-29T16:01:34.000Z</updated>
-        <summary type="html"><![CDATA[Thank you to all of the system administrators who keep our systems up and running, patched, and deployed every day of the year. Check out our most popular articles for sysadmins. Read More at Enable Sysadmin
-The post Happy Sysadmin Appreciation Day: 2022’s top articles for sysadmins appeared first on Linux.com.]]></summary>
-        <author>
-            <name>Tyler Carrigan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is the OpenGEH (Green Energy Hub) Project]]></title>
-        <id>https://www.linux.com/news/what-is-the-opengeh-green-energy-hub-project/</id>
-        <link href="https://www.linux.com/news/what-is-the-opengeh-green-energy-hub-project/"/>
-        <updated>2022-07-29T05:36:20.000Z</updated>
-        <summary type="html"><![CDATA[OpenGEH ( GEH stands for Green Energy Hub ) enables fast, flexible settlement and hourly measurements of production and consumption of electricity.
-The post What is the OpenGEH (Green Energy Hub) Project appeared first on Linux.com.]]></summary>
-        <author>
-            <name>The Linux Foundation</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[7 Docks to Customize Your Linux Desktop]]></title>
         <id>https://itsfoss.com/?p=99401</id>
         <link href="https://itsfoss.com/best-linux-docks/"/>
@@ -454,17 +388,6 @@ The post What is the OpenGEH (Green Energy Hub) Project appeared first on Linux.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5 things sysadmins should know about software development]]></title>
-        <id>https://www.linux.com/news/5-things-sysadmins-should-know-about-software-development/</id>
-        <link href="https://www.linux.com/news/5-things-sysadmins-should-know-about-software-development/"/>
-        <updated>2022-07-28T16:01:38.000Z</updated>
-        <summary type="html"><![CDATA[Advances in edge computing, machine learning, and intelligent applications make sysadmins more important than ever in the software development process. Read More at Enable Sysadmin
-The post 5 things sysadmins should know about software development appeared first on Linux.com.]]></summary>
-        <author>
-            <name>Nicole Lama</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[LibreOffice vs OpenOffice: All You Need to Know?]]></title>
         <id>https://itsfoss.com/?p=100117</id>
         <link href="https://itsfoss.com/libreoffice-vs-openoffice/"/>
@@ -472,28 +395,6 @@ The post 5 things sysadmins should know about software development appeared firs
         <summary type="html"><![CDATA[A comparison of the two of the most popular open source office software that are also similar in many respects. This article explains the similarities and differences between LibreOffice and OpenOffice.]]></summary>
         <author>
             <name>Ankush Das</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRob on Software Security Education and SIRTs]]></title>
-        <id>https://www.linux.com/news/crob-on-software-security-education-and-sirts/</id>
-        <link href="https://www.linux.com/news/crob-on-software-security-education-and-sirts/"/>
-        <updated>2022-07-28T02:58:34.000Z</updated>
-        <summary type="html"><![CDATA[CRob, with Intel and the OpenSSF, talks about open source software security education and training with Alan Shimel of TechStrong TV.
-The post CRob on Software Security Education and SIRTs appeared first on Linux.com.]]></summary>
-        <author>
-            <name>Dan Whiting</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux tool alternatives: 6 replacements for traditional favorites]]></title>
-        <id>https://www.linux.com/news/linux-tool-alternatives-6-replacements-for-traditional-favorites/</id>
-        <link href="https://www.linux.com/news/linux-tool-alternatives-6-replacements-for-traditional-favorites/"/>
-        <updated>2022-07-27T16:01:49.000Z</updated>
-        <summary type="html"><![CDATA[Consider swapping Linux tools for these alternatives that provide more features and functionality. Read More at Enable Sysadmin
-The post Linux tool alternatives: 6 replacements for traditional favorites appeared first on Linux.com.]]></summary>
-        <author>
-            <name>Jose Vicente Nunez</name>
         </author>
     </entry>
     <entry>
@@ -647,6 +548,17 @@ Read more of this story at Slashdot.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GNOME 43 Alpha Released to Kick Off GUADEC 2022 in Guadalajara, Mexico]]></title>
+        <id>https://9to5linux.com/?p=13345</id>
+        <link href="https://9to5linux.com/gnome-43-alpha-released-to-kick-off-guadec-2022-in-guadalajara-mexico"/>
+        <updated>2022-07-20T09:44:26.000Z</updated>
+        <summary type="html"><![CDATA[GNOME 43 alpha is now available for public testing as the first development milestone towards the final GNOME 43 desktop environment, due for release in late September 2022.
+The post GNOME 43 Alpha Released to Kick Off GUADEC 2022 in Guadalajara, Mexico appeared first on 9to5Linux - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.]]></summary>
+        <author>
+            <name>Marius Nestor</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Update a Single Package With apt Command in Ubuntu and Debian]]></title>
         <id>https://itsfoss.com/?p=99346</id>
         <link href="https://itsfoss.com/apt-upgrade-single-package/"/>
@@ -756,6 +668,17 @@ Read more of this story at Slashdot.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GNOME 42.3 Released with Screenshot UI Fixes, Better Flatpak Support, and More]]></title>
+        <id>https://9to5linux.com/?p=13318</id>
+        <link href="https://9to5linux.com/gnome-42-3-released-with-screenshot-ui-fixes-better-flatpak-support-and-more"/>
+        <updated>2022-07-14T22:19:42.000Z</updated>
+        <summary type="html"><![CDATA[GNOME 42.3 is now available as the third point release in the GNOME 42 desktop environment series with more bug fixes and improvements. Here’s what’s new!
+The post GNOME 42.3 Released with Screenshot UI Fixes, Better Flatpak Support, and More appeared first on 9to5Linux - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.]]></summary>
+        <author>
+            <name>Marius Nestor</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fixing “Command ‘python’ not found” Error in Ubuntu Linux]]></title>
         <id>https://itsfoss.com/?p=98306</id>
         <link href="https://itsfoss.com/python-not-found-ubuntu/"/>
@@ -785,6 +708,17 @@ Read more of this story at Slashdot.]]></summary>
 As for Hicks, he's a popular figure in the company. He's known as a hands-on leader. Hicks joined Red Hat in 2006 as a developer working on porting…]]></summary>
         <author>
             <name>BeauHD</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Plasma 5.25.3 Is Out Now with More Plasma Wayland Fixes, Various Other Changes]]></title>
+        <id>https://9to5linux.com/?p=13267</id>
+        <link href="https://9to5linux.com/kde-plasma-5-25-3-is-out-now-with-more-plasma-wayland-fixes-various-other-changes"/>
+        <updated>2022-07-12T11:42:59.000Z</updated>
+        <summary type="html"><![CDATA[KDE Plasma 5.25.3 is now available as the third maintenance update to the latest Plasma 5.25 desktop environment series with more bug fixes. All users should update their installations as soon as possible!
+The post KDE Plasma 5.25.3 Is Out Now with More Plasma Wayland Fixes, Various Other Changes appeared first on 9to5Linux - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.]]></summary>
+        <author>
+            <name>Marius Nestor</name>
         </author>
     </entry>
     <entry>
@@ -818,6 +752,17 @@ The post How to protect Linux against rogue USB devices using USBGuard appeared 
         <summary type="html"><![CDATA[An app to help you explore research photos, and documents without losing out on important contextual information about them.]]></summary>
         <author>
             <name>Ankush Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Plasma 5.24.6 LTS Brings Many Fixes to Plasma Wayland, System Settings, and More]]></title>
+        <id>https://9to5linux.com/?p=13186</id>
+        <link href="https://9to5linux.com/kde-plasma-5-24-6-lts-brings-many-fixes-to-plasma-wayland-system-settings-and-more"/>
+        <updated>2022-07-11T12:21:53.000Z</updated>
+        <summary type="html"><![CDATA[KDE Plasma 5.24.6 is now available as the sixth maintenance update to the Plasma 5.24 LTS desktop environment series with many bug fixes and improvements for more reliable and stable Plasma sessions.
+The post KDE Plasma 5.24.6 LTS Brings Many Fixes to Plasma Wayland, System Settings, and More appeared first on 9to5Linux - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.]]></summary>
+        <author>
+            <name>Marius Nestor</name>
         </author>
     </entry>
     <entry>
