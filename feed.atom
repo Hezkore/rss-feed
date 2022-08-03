@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-08-03T00:28:52.677Z</id>
+    <id>urn:2022-08-03T00:32:40.128Z</id>
     <title>osmos::feed</title>
-    <updated>2022-08-03T00:28:52.677Z</updated>
+    <updated>2022-08-03T00:32:40.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -14,16 +14,6 @@
 The post KDE Plasma 5.25.4 Improves Plasma Wayland for Steam Proton Games, Fixes More Bugs appeared first on 9to5Linux - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.]]></summary>
         <author>
             <name>Marius Nestor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SQL Server Sample Bulk Data]]></title>
-        <id>https://linuxhint.com/?p=202706</id>
-        <link href="https://linuxhint.com/sql-server-sample-bulk-data/"/>
-        <updated>2022-08-01T18:55:27.000Z</updated>
-        <summary type="html"><![CDATA[This is comma seperated value data useful for other tutorials such as: https://linuxhint.com/sql-server-bulk-insert/ id,firstname,lastname,email,Country,profession 100,Emilia,Vastah,Emilia.Vastah@mail.io,Saint Vincent and the Grenadines,developer 101,Edith,Masao,Edith.Masao@mail.io,Colombia,doctor 102,Kellen,Yusuk,Kellen.Yusuk@mail.io,Nicaragua,police officer 103,Amara,Roscoe,Amara.Roscoe@mail.io,Saint Vincent and the Grenadines,police officer 104,Consuela,Karylin,Consuela.Karylin@mail.io,Chad,doctor 105,Vevay,Ellord,Vevay.Ellord@mail.io,Afghanistan,worker 106,Valli,Ackerley,Valli.Ackerley@mail.io,Trinidad and Tobago,firefighter 107,Rubie,Jefferey,Rubie.Jefferey@mail.io,Monaco,developer 108,Netty,Gualtiero,Netty.Gualtiero@mail.io,Armenia,doctor 109,Adriana,Lunsford,Adriana.Lunsford@mail.io,Aruba,developer 110,Annora,Garek,Annora.Garek@mail.io,Indonesia,doctor 111,Viki,Thomasina,Viki.Thomasina@mail.io,Mali,doctor 112,Aeriela,Bivins,Aeriela.Bivins@mail.io,Canada,firefighter 113,Jennica,Mata,Jennica.Mata@mail.io,Madagascar,developer 114,Harmonia,Karna,Harmonia.Karna@mail.io,Norway,police officer 115,Nanete,Vivle,Nanete.Vivle@mail.io,Belarus,worker 116,Johna,Bates,Johna.Bates@mail.io,Liechtenstein,doctor 117,Therine,Lacombe,Therine.Lacombe@mail.io,Kazakhstan,doctor 118,Sharlene,Kathie,Sharlene.Kathie@mail.io,Ethiopia,worker 119,Marline,Calhoun,Marline.Calhoun@mail.io,Anguilla,doctor 120,Fayre,Reinke,Fayre.Reinke@mail.io,Samoa,firefighter 121,Kristina,Kaja,Kristina.Kaja@mail.io,Maldives,developer 122,Winny,Kaja,Winny.Kaja@mail.io,Holy See (Vatican City State),developer 123,Kathi,Sheng,Kathi.Sheng@mail.io,Belize,developer […]]]></summary>
-        <author>
-            <name>Admin</name>
         </author>
     </entry>
     <entry>
@@ -51,16 +41,6 @@ The post DNS settings to avoid email spoofing and phishing for unused domain app
         <summary type="html"><![CDATA[An open-source password manager with a pleasing user interface, available cross-platform. Let's take a look!]]></summary>
         <author>
             <name>Ankush Das</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YAML Comments]]></title>
-        <id>https://linuxhint.com/?p=192638</id>
-        <link href="https://linuxhint.com/yaml-comments/"/>
-        <updated>2022-08-01T03:44:12.000Z</updated>
-        <summary type="html"><![CDATA[A guide on understanding the concept of the YAML comments and using the conventional method to add comments in a YAML file using the “#” character.]]></summary>
-        <author>
-            <name>Kevin Reursora</name>
         </author>
     </entry>
     <entry>
@@ -106,26 +86,6 @@ Blueberry depended on gnome-bluetooth, which was developed exclusively for GNOME
 Out of the box Blueman features bet…]]></summary>
         <author>
             <name>EditorDavid</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use AWS IAM PassRole Permission]]></title>
-        <id>https://linuxhint.com/?p=170317</id>
-        <link href="https://linuxhint.com/aws-iam-passrole-permission/"/>
-        <updated>2022-07-31T09:44:59.000Z</updated>
-        <summary type="html"><![CDATA[Practical guide on how to use the “IAM Passrole” permission in AWS to connect an EC2 instance with the S3 bucket following specific steps and policy.]]></summary>
-        <author>
-            <name>Kevin Reursora</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are Linux NIS and NIS+]]></title>
-        <id>https://linuxhint.com/?p=201364</id>
-        <link href="https://linuxhint.com/linux-nis-nis-plus/"/>
-        <updated>2022-07-30T22:26:12.000Z</updated>
-        <summary type="html"><![CDATA[Practical guide on how NIS and NIS+ work and the key differences and similarities between the two frameworks in considering when to use them.]]></summary>
-        <author>
-            <name>Kennedy Brian</name>
         </author>
     </entry>
     <entry>
@@ -175,206 +135,6 @@ Read more of this story at Slashdot.]]></summary>
         <summary type="html"><![CDATA[SpiralLinux aims to provide a simplified and out-of-the-box Debian experience. Does it succeed in doing so? Read in this review.]]></summary>
         <author>
             <name>Sagar Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Flush the DNS Cache on Ubuntu 22.04]]></title>
-        <id>https://linuxhint.com/?p=200221</id>
-        <link href="https://linuxhint.com/flush-dns-cache-ubuntu-22-04/"/>
-        <updated>2022-07-30T06:58:17.000Z</updated>
-        <summary type="html"><![CDATA[A step-by-step guide on how to manually flush the DNS cache on Ubuntu 22.04, what DNS is and its benefits, and why it’s essential to flush DNS cache.]]></summary>
-        <author>
-            <name>Karim Buzdar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logical NOT in PyTorch]]></title>
-        <id>https://linuxhint.com/?p=201148</id>
-        <link href="https://linuxhint.com/logical-not-pytorch/"/>
-        <updated>2022-07-30T06:51:33.000Z</updated>
-        <summary type="html"><![CDATA[This article explains the torch.logical_not() in PyTorch is performed on a single tensor object. It returns True if the value is False or 0 and vice versa.]]></summary>
-        <author>
-            <name>Gottumukkala Sravan Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Install Terminator on Ubuntu 22.04]]></title>
-        <id>https://linuxhint.com/?p=200264</id>
-        <link href="https://linuxhint.com/install-terminator-ubuntu-22-04/"/>
-        <updated>2022-07-30T06:50:52.000Z</updated>
-        <summary type="html"><![CDATA[A step-by-step guide on how to install Terminator on Ubuntu 22.04 by showing how to install and uninstall Terminator and more.]]></summary>
-        <author>
-            <name>Karim Buzdar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to if the Object is a PyTorch Tensor and Return the Metadata of a Tensor in PyTorch?]]></title>
-        <id>https://linuxhint.com/?p=200223</id>
-        <link href="https://linuxhint.com/object-pytorch-tensor-return-metadata-tensor-pytorch/"/>
-        <updated>2022-07-30T06:50:30.000Z</updated>
-        <summary type="html"><![CDATA[It is possible to check whether the given object is a tensor or not. torch.is_tensor() is used to check whether the given object is tensor or not.]]></summary>
-        <author>
-            <name>Gottumukkala Sravan Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install AnyDesk on Ubuntu 22.04]]></title>
-        <id>https://linuxhint.com/?p=200225</id>
-        <link href="https://linuxhint.com/install-anydesk-ubuntu-22-04/"/>
-        <updated>2022-07-30T06:50:07.000Z</updated>
-        <summary type="html"><![CDATA[The AnyDesk is a smart application that is supported by almost all operating systems. This article explains all steps to install the AnyDesk in Ubuntu 22.04.]]></summary>
-        <author>
-            <name>Karim Buzdar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How To Exit a Function in Python]]></title>
-        <id>https://linuxhint.com/?p=200208</id>
-        <link href="https://linuxhint.com/exit-function-python/"/>
-        <updated>2022-07-30T06:49:25.000Z</updated>
-        <summary type="html"><![CDATA[A step-by-step guide that shows how to exit a function in Python using explicit and implicit return statements so that the program can quit.]]></summary>
-        <author>
-            <name>Shalini Salotra</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epoll 7 C Function]]></title>
-        <id>https://linuxhint.com/?p=200134</id>
-        <link href="https://linuxhint.com/epoll-7-c-function/"/>
-        <updated>2022-07-30T06:48:53.000Z</updated>
-        <summary type="html"><![CDATA[Guide on the use of epoll 7 C function to perform the socket programming and check the various file descriptors to determine if the input and output are viable.]]></summary>
-        <author>
-            <name>Omar Farooq</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gawk Scripting Usage Examples]]></title>
-        <id>https://linuxhint.com/?p=200135</id>
-        <link href="https://linuxhint.com/gawk-scripting-usage/"/>
-        <updated>2022-07-30T06:48:49.000Z</updated>
-        <summary type="html"><![CDATA[Practical guide on how to use gawk scripting in Linux by using the different patterns to extract and manipulate the lines of data and the examples of its usage.]]></summary>
-        <author>
-            <name>Denis Kariuki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dlsym() 3 C Function]]></title>
-        <id>https://linuxhint.com/?p=200133</id>
-        <link href="https://linuxhint.com/dlsym-3-c-function/"/>
-        <updated>2022-07-30T06:48:27.000Z</updated>
-        <summary type="html"><![CDATA[The dlsym() function goal is to find the address of a defined symbol specified in a DLL that has been made accessible via a dlopen() function call.]]></summary>
-        <author>
-            <name>Omar Farooq</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Random Color]]></title>
-        <id>https://linuxhint.com/?p=200132</id>
-        <link href="https://linuxhint.com/css-random-color/"/>
-        <updated>2022-07-30T06:48:15.000Z</updated>
-        <summary type="html"><![CDATA[A guide on using simple CSS Random Color techniques to randomly change the color of some HTML elements by the “pickColor” function to randomly pick one color.]]></summary>
-        <author>
-            <name>Aqsa Yasin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Order]]></title>
-        <id>https://linuxhint.com/?p=200131</id>
-        <link href="https://linuxhint.com/css-order/"/>
-        <updated>2022-07-30T06:48:01.000Z</updated>
-        <summary type="html"><![CDATA[A guide that explains how to use “order” CSS property in the HTML code, containing an example that used “div” elements to portray “order” CSS property.]]></summary>
-        <author>
-            <name>Aqsa Yasin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS List Style Type]]></title>
-        <id>https://linuxhint.com/?p=200064</id>
-        <link href="https://linuxhint.com/css-list-style-type/"/>
-        <updated>2022-07-30T06:47:38.000Z</updated>
-        <summary type="html"><![CDATA[Tutorial on the CSS list style with their types, ordered and unordered lists, and implementing a few styles to see how these properties work using examples.]]></summary>
-        <author>
-            <name>Aqsa Yasin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Indent Second Line]]></title>
-        <id>https://linuxhint.com/?p=200063</id>
-        <link href="https://linuxhint.com/css-indent-second-line/"/>
-        <updated>2022-07-30T06:47:16.000Z</updated>
-        <summary type="html"><![CDATA[A step-by-step guide that shows how to indent a second line in CSS including two examples and an explanation of text indent property.]]></summary>
-        <author>
-            <name>Aqsa Yasin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Flex Order]]></title>
-        <id>https://linuxhint.com/?p=200062</id>
-        <link href="https://linuxhint.com/css-flex-order/"/>
-        <updated>2022-07-30T06:47:02.000Z</updated>
-        <summary type="html"><![CDATA[A guide on using the CSS flex order property to create a flexbox and flex counters inside it. The order of the flex is applied by adding colors and text.]]></summary>
-        <author>
-            <name>Aqsa Yasin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Delay]]></title>
-        <id>https://linuxhint.com/?p=200065</id>
-        <link href="https://linuxhint.com/css-delay/"/>
-        <updated>2022-07-30T06:46:32.000Z</updated>
-        <summary type="html"><![CDATA[A step-by-step guide on how to utilize the CSS delay property in HTML including transition delay widthwise, height-wise, and animation delay.]]></summary>
-        <author>
-            <name>Aqsa Yasin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CSS Counters]]></title>
-        <id>https://linuxhint.com/?p=200061</id>
-        <link href="https://linuxhint.com/css-counters/"/>
-        <updated>2022-07-30T06:46:08.000Z</updated>
-        <summary type="html"><![CDATA[A guide on using CSS counters by maximizing several functions of the CSS counter property in the Hypertext Markup language to assign numbers to any element.]]></summary>
-        <author>
-            <name>Aqsa Yasin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create First Spring Boot Application]]></title>
-        <id>https://linuxhint.com/?p=200018</id>
-        <link href="https://linuxhint.com/create-first-spring-boot-application/"/>
-        <updated>2022-07-30T06:45:39.000Z</updated>
-        <summary type="html"><![CDATA[Practical guide on the steps to create a simple spring boot application and how to add more dependencies to create a more functional and web-based applications.]]></summary>
-        <author>
-            <name>Irfan Khan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Counting Sort Complexity]]></title>
-        <id>https://linuxhint.com/?p=200017</id>
-        <link href="https://linuxhint.com/counting-sort-time-complexity/"/>
-        <updated>2022-07-30T06:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Comprehensive guide about the counting sort, its algorithm, operations, time complexity, the memory space and coding illustrated by sorting the integers.]]></summary>
-        <author>
-            <name>Chrysanthus Forcha</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compute the Logarithm of Elements of a Tensor in PyTorch]]></title>
-        <id>https://linuxhint.com/?p=200016</id>
-        <link href="https://linuxhint.com/compute-logarithm-elements-tensor-pytorch/"/>
-        <updated>2022-07-30T06:30:53.000Z</updated>
-        <summary type="html"><![CDATA[This article explains log() in PyTorch is used to return the natural logarithm of all the elements present in the tensor object. It takes only one parameter.]]></summary>
-        <author>
-            <name>Gottumukkala Sravan Kumar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Change the View of PyTorch Tensor]]></title>
-        <id>https://linuxhint.com/?p=200015</id>
-        <link href="https://linuxhint.com/change-view-pytorch-tensor/"/>
-        <updated>2022-07-30T06:30:23.000Z</updated>
-        <summary type="html"><![CDATA[This article explains the view() in PyTorch is used to change the tensor object view by converting it into a specified number of rows and columns.]]></summary>
-        <author>
-            <name>Gottumukkala Sravan Kumar</name>
         </author>
     </entry>
     <entry>
