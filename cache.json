@@ -7061,6 +7061,53 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "title": "Loading Artist",
+      "feedUrl": "https://loadingartist.com/index.xml",
+      "siteUrl": "https://loadingartist.com/",
+      "articles": [
+        {
+          "id": "https://loadingartist.com/comic/behind-the-curve/",
+          "author": "Gregor",
+          "description": "a comic about shooting your screenshot",
+          "link": "https://loadingartist.com/comic/behind-the-curve/",
+          "publishedOn": "2022-07-29T09:07:13.000Z",
+          "wordCount": 131,
+          "title": "Behind the Curve",
+          "imageUrl": "https://loadingartist.com/comic/behind-the-curve/thumb.png"
+        },
+        {
+          "id": "https://loadingartist.com/comic/lost-in-transmission/",
+          "author": "Gregor",
+          "description": "a comic about a ruff ride",
+          "link": "https://loadingartist.com/comic/lost-in-transmission/",
+          "publishedOn": "2022-07-22T10:03:47.000Z",
+          "wordCount": 159,
+          "title": "Lost in Transmission",
+          "imageUrl": "https://loadingartist.com/comic/lost-in-transmission/thumb.png"
+        },
+        {
+          "id": "https://loadingartist.com/comic/down-memory-lame/",
+          "author": "Gregor",
+          "description": "a comic about suggesting what to watch",
+          "link": "https://loadingartist.com/comic/down-memory-lame/",
+          "publishedOn": "2022-07-15T10:26:34.000Z",
+          "wordCount": 136,
+          "title": "Down Memory Lame",
+          "imageUrl": "https://loadingartist.com/comic/down-memory-lame/thumb.png"
+        },
+        {
+          "id": "https://loadingartist.com/comic/much-to-do-about-nothing/",
+          "author": "Gregor",
+          "description": "Absence makes the list grow longer",
+          "link": "https://loadingartist.com/comic/much-to-do-about-nothing/",
+          "publishedOn": "2022-07-08T10:05:43.000Z",
+          "wordCount": 136,
+          "title": "Much To-do About Nothing",
+          "imageUrl": "https://loadingartist.com/comic/much-to-do-about-nothing/thumb.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
