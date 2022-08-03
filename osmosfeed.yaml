@@ -6,7 +6,5 @@
 # cacheUrl: https://hezkore.github.io/rss-feed/cache.json
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
-  - href: https://www.cyberciti.biz/feed/
   - href: https://itsfoss.com/feed/
   - href: https://9to5linux.com/category/news/desktop-environment/feed
-  - href: http://rss.slashdot.org/Slashdot/slashdotLinux
