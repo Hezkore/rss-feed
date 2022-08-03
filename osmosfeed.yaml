@@ -3,7 +3,8 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-# cacheUrl: https://hezkore.github.io/rss-feed/cache.json
+cacheUrl: https://hezkore.github.io/rss-feed/cache.json
+
 sources:
   - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
   - href: https://itsfoss.com/feed/
@@ -14,3 +15,7 @@ sources:
   - href: https://www.phoronix.com/phoronix-rss.php
   - href: https://www.rockpapershotgun.com/feed
   - href: https://www.tomshardware.com/feeds/all
+
+siteTitle: "Hez News"
+
+timezone: Europe/Stockholm
