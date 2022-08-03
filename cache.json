@@ -823,6 +823,26 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/latest-steamos-update-includes-temperature-notifications",
+          "author": "Liv Ngan",
+          "description": "Valve has released SteamOS 3.3 along with a stable, updated version of the Steam Deck client.\r\n\n\r\nThe new version of SteamOS has plenty of new features as well as bug fixes.\r\n\n\r\nFollowing Valve's warning a couple of weeks ago about the Steam Deck's performance in high temperatures,  temperature notifications have been added which warn you when the console goes outside of the safe operating range. Fashionably late to the heatwave, but handy for anyone who's enjoying the last of the summer time. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/latest-steamos-update-includes-temperature-notifications",
+          "publishedOn": "2022-08-03T10:37:31.000Z",
+          "wordCount": 4385,
+          "title": "Latest SteamOS update includes temperature notifications",
+          "imageUrl": "https://assets.reedpopcdn.com/steam-deck_JWP4J9f.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/steam-deck_JWP4J9f.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/final-fantasy-14-servers-suffering-ddos-attack-in-north-america",
+          "author": "Ed Nightingale",
+          "description": "Final Fantasy 14 players are struggling to log in to servers due to a DDoS attack.\r\n\n\r\nA new post on The Lodestone states \"technical difficulties due to a DDoS attack\", meaning players in North American data centre Worlds may be disconnected, have difficulty logging in, or difficulty accessing, sending, and receiving data.\r\n\n\r\n\"We are investigating the attack and taking countermeasures. Additional information will be provided as the situation develops,\" reads the post.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/final-fantasy-14-servers-suffering-ddos-attack-in-north-america",
+          "publishedOn": "2022-08-03T10:35:26.000Z",
+          "wordCount": 4384,
+          "title": "Final Fantasy 14 servers suffering DDoS attack in North America",
+          "imageUrl": "https://assets.reedpopcdn.com/FFXIV_ENDWALKER_ISLAND-SANCTUARY.png/BROK/thumbnail/1600x900/format/jpg/quality/80/FFXIV_ENDWALKER_ISLAND-SANCTUARY.png"
+        },
+        {
           "id": "https://www.eurogamer.net/nintendo-blames-component-shortages-as-switch-sales-slow",
           "author": "Tom Phillips",
           "description": "Nintendo has blamed component shortages for a further slowing of Switch hardware sales, which have impacted the company's overall sales and profit for the past financial quarter. \r\n\n\r\nIt's not all bad news, however. Switch game sales remain brisk, with more games sold to consumers year-on-year and a solid start for Nintendo Switch Sports (which has now notched up 4.84m copies).\r\n\n\r\nNintendo highlighted several other first-party games to have sold well over the past three months: Mario Strikers Battle League shifted 1.91m copies, while Kirby and the Forgotten Land sold another 1.88m, taking it to a total of 4.53m and making it the best-selling Kirby game ever.\r\n \nRead more",
@@ -4359,6 +4379,560 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/fZUknBWcAkSGQ7thqmokhZ.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Planet Debian",
+      "feedUrl": "https://planet.debian.org/rss20.xml",
+      "siteUrl": "https://planet.debian.org/",
+      "articles": [
+        {
+          "id": "http://blog.sesse.net/blog/tech/2022-08-02-23-11_av1_live_streaming_the_bitrate_difference.html",
+          "author": null,
+          "description": "As part of looking into AV1, I wanted to get a feel for what kind of bitrate\nto aim for. Of course, Intel and others have made exquisite graphs containing\nresults for many different encoders (although they might have wanted to spend\na little more pixels on that latest one…), but you always feel suspicious\nthat the results might be a bit cherry-picked. In particular, SVT-AV1 always\nseems to run on pretty wide machines (in this case, 48 cores/96 threads),\nand I wondered whether this was the primary reason for it doing so ell.\nSo I made my own test, with the kind of footage I care about (a sports clip)\nat the speeds that I care about (realtime).\nI intentionally restricted the encoders to 16 cores (no HT, since that was\nthe easiest), and tried various bitrates until I hit VMAF 85, which felt l…",
+          "link": "http://blog.sesse.net/blog/tech/2022-08-02-23-11_av1_live_streaming_the_bitrate_difference.html",
+          "publishedOn": "2022-08-02T21:15:22.000Z",
+          "wordCount": 564,
+          "title": "Steinar H. Gunderson: AV1 live streaming: The bitrate difference",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:venthur.de,2022-08-01:/2022-08-01-keychron-keyboards-fixed-on-linux.html",
+          "author": null,
+          "description": "Last year, I wrote about on how to get my\nbuggy Keychron C1 keyboard working properly on Linux by setting a kernel module\nparameter. Afterwards, I contacted Hans de Goede since he was the last\none that contributed a major patch to the relevant kernel module. After some\ndebugging, it turned out that the Keychron keyboards are indeed misbehaving\nwhen set to Windows mode. Almost a year later, Bryan Cain provided a\npatch fixing the behavior, which has now been merged to the Linux kernel in\n5.19.\nThank you, Hans and Bryan!",
+          "link": "https://venthur.de/2022-08-01-keychron-keyboards-fixed-on-linux.html",
+          "publishedOn": "2022-08-01T20:00:00.000Z",
+          "wordCount": 146,
+          "title": "Bastian Venthur: Keychron keyboards fixed on Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://blogops.mixinet.net/posts/using_git_server_hooks/",
+          "author": null,
+          "description": "Since a long time ago I’ve been a\ngitlab-ce user, in fact I’ve set\nit up on three of the last four companies I’ve worked for (initially I installed\nit using the omnibus packages on a\ndebian server but on the last two places I moved to\nthe docker based installation,\nas it is easy to maintain and we don’t need a big installation as the teams\nusing it are small).\nOn the company I work for now (kyso) we are using it\nto host all our internal repositories and to do all the CI/CD work (the\nautomatic deployments are triggered by web hooks in some cases, but the rest is\nall done using gitlab-ci).\nThe majority of projects are using nodejs as programming\nlanguage and we have automated the publication of npm packages on our gitlab\ninstance npm registry\nand even the publication into the npmjs registry.…",
+          "link": "https://blogops.mixinet.net/posts/using_git_server_hooks/",
+          "publishedOn": "2022-08-01T11:00:00.000Z",
+          "wordCount": 2926,
+          "title": "Sergio Talens-Oliag: Using Git Server Hooks on GitLab CE to Validate Tags",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.netfort.gr.jp/~dancer/diary/daily/2022-Aug-1.html.en#2022-Aug-1-09:07:37",
+          "author": null,
+          "description": "August. I think I finally understood what's going on in io_uring.",
+          "link": "http://www.netfort.gr.jp/~dancer/diary/daily/2022-Aug-1.html.en#2022-Aug-1-09:07:37",
+          "publishedOn": "2022-08-01T00:07:37.000Z",
+          "wordCount": 51,
+          "title": "Junichi Uekawa: August.",
+          "imageUrl": null
+        },
+        {
+          "id": "https://etbe.coker.com.au/?p=5123",
+          "author": null,
+          "description": "Darren Hayes wrote an interesting article about his battle with depression and his journey to accepting being gay [1]. Savage Garden had some great songs, Affirmation is relevant to this topic.\nRorodi wrote an interesting article about the biggest crypto lending company being a Ponzi scheme [2]. One thing I find particularly noteworthy is how obviously scammy it is, even to the extent of having an ex porn star as an executive! Celsuis is now in the process of going bankrupt, 7 months after that article was published.\nQuora has an interesting discussion about different type casts in C++ [3]. C style casts shouldn’t be used!\nMamaMia has an interesting article about “Action Faking” which means procrastination by doing tasks marginally related to the end goal [3]. This can mean include excessi…",
+          "link": "https://etbe.coker.com.au/2022/07/31/links-july-2022/",
+          "publishedOn": "2022-07-31T11:51:51.000Z",
+          "wordCount": 4122,
+          "title": "Russell Coker: Links July 2022",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "http://www.joachim-breitner.de/blog/791-The_Via_Alpina_red_trail_through_Slovenia",
+          "author": "mail@joachim-breitner.de (Joachim Breitner)",
+          "description": "This July my girlfriend and I hiked the Slovenian part of the Red Trail of the Via Alpina, from the edge of the Julian Alps to Trieste, and I’d like to share some observations and tips that we might have found useful before our trip.\nGetting there\nAs we traveled with complete camping gear and wanted to stay in our tent, we avoided the high alpine parts of the trail and started just where the trail came down from the Alps and entered the Karst. A great way to get there is to take the night train from Zurich or Munich towards Ljubljana, get off at Jesenice, have breakfast, take the local train to Podbrdo and you can start your tour at 9:15am. From there you can reach the trail at Pedrovo Brdo within 1½h.\nFinding the way\nWe did not use any paper maps, and instead relied on the OpenStreetMap d…",
+          "link": "http://www.joachim-breitner.de/blog/791-The_Via_Alpina_red_trail_through_Slovenia",
+          "publishedOn": "2022-07-31T09:19:01.000Z",
+          "wordCount": 757,
+          "title": "Joachim Breitner: The Via Alpina red trail through Slovenia",
+          "imageUrl": null
+        },
+        {
+          "id": "https://etbe.coker.com.au/?p=5121",
+          "author": null,
+          "description": "The last new PC I bought was a Dell PowerEdge T110II in 2013. That model had been out for a while and I got it for under $2000. Since then the CPI has gone up by about 20% so it’s probably about $2000 in today’s money. Currently Dell has a special on the T150 tower server (the latest replacement for the T110II) which has a G6405T CPU that isn’t even twice as fast as the i3-3220 (3746 vs 2219) in the T110II according to passmark.com (AKA cpubenchmark.net). The special price is $2600. I can’t remember the details of my choices when purchasing the T110II but I recall that CPU speed wasn’t a priority and I wanted a cheap reliable server for storage and for light desktop use. So it seems that the current entry model in the Dell T1xx server line is less than twice as fast as fast as it was in 20…",
+          "link": "https://etbe.coker.com.au/2022/07/31/workstations-ecc-ram/",
+          "publishedOn": "2022-07-31T08:27:16.000Z",
+          "wordCount": 4270,
+          "title": "Russell Coker: Workstations With ECC RAM",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "https://glandium.org/blog/?p=4284",
+          "author": null,
+          "description": "Git-cinnabar is a git remote helper to interact with mercurial repositories. It allows to clone, pull and push from/to mercurial remote repositories, using git.\nGet it on github.\nThese release notes are also available on the git-cinnabar wiki.\nWhat’s new since 0.5.9?\nFixed exceptions during config initialization.\nFixed swapped error messages.\nFixed correctness issues with bundle chunks with no delta node.\nThis is probably the last 0.5.x release before 0.6.0.",
+          "link": "https://glandium.org/blog/?p=4284",
+          "publishedOn": "2022-07-30T21:35:25.000Z",
+          "wordCount": 355,
+          "title": "Mike Hommey: Announcing git-cinnabar 0.5.10",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:dreamwidth.org,2009-05-21:377446:11840",
+          "author": null,
+          "description": "Two weeks ago I upgraded chiark from Debian jessie i386 to bullseye amd64, after nearly 30 years running Debian i386. This went really quite well, in fact!\nBackground\nchiark is my “colo” - a server I run, which lives in a data centre in London. It hosts ~200 users with shell accounts, various websites and mailing lists, moderators for a number of USENET newsgroups, and countless other services. chiark’s internal setup is designed to enable my users to do a maximum number of exciting things with a minimum of intervention from me.\nchiark’s OS install dates to 1993, when I installed Debian 0.93R5, the first version of Debian to advertise the ability to be upgraded without reinstalling. I think that makes it one of the oldest Debian installations in existence.\nObviously it’s had several new ha…",
+          "link": "https://diziet.dreamwidth.org/11840.html",
+          "publishedOn": "2022-07-30T11:27:58.000Z",
+          "wordCount": null,
+          "title": "Ian Jackson: chiark’s skip-skip-cross-up-grade",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:bits.debian.org,2022-07-29:/2022/07/new-developers-2022-06.html",
+          "author": null,
+          "description": "The following contributors got their Debian Developer accounts in the last two months:\nGeoffroy Berret (kaliko)\nArnaud Ferraris (aferraris)\nThe following contributors were added as Debian Maintainers in the last two months:\nAlec Leanas\nChristopher Michael Obbard\nLance Lin\nStefan Kropp\nMatteo Bini\nTino Didriksen\nCongratulations!",
+          "link": "https://bits.debian.org/2022/07/new-developers-2022-06.html",
+          "publishedOn": "2022-07-29T14:00:00.000Z",
+          "wordCount": 357,
+          "title": "Bits from Debian: New Debian Developers and Maintainers (May and June 2022)",
+          "imageUrl": "https://www.debian.org/logos/openlogo-100.png"
+        },
+        {
+          "id": "https://diffoscope.org/news/diffoscope-220-released/",
+          "author": null,
+          "description": "The diffoscope maintainers are pleased to announce the release of diffoscope\nversion 220. This version includes the following changes:\n\n* Support Haskell 9.x series files and update the test files to match. Thanks\n  to Scott Talbert for the relevant info about the new format.\n  (Closes: reproducible-builds/diffoscope#309)\n* Fix a regression introduced in diffoscope version 207 where diffoscope\n  would crash if one directory contained a directory that wasn't in the\n  other. Thanks to Alderico Gallo for the report and the testcase.\n  (Closes: reproducible-builds/diffoscope#310)\n\n\nYou find out more by visiting the project homepage.",
+          "link": "https://diffoscope.org/news/diffoscope-220-released/",
+          "publishedOn": "2022-07-29T00:00:00.000Z",
+          "wordCount": 137,
+          "title": "Reproducible Builds (diffoscope): diffoscope 220 released",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mjg59.dreamwidth.org/60654.html",
+          "author": null,
+          "description": "Kaspersky describes a UEFI-implant used to attack Windows systems. Based on it appearing to require patching of the system firmware image, they hypothesise that it's propagated by manually dumping the contents of the system flash, modifying it, and then reflashing it back to the board. This probably requires physical access to the board, so it's not especially terrifying - if you're in a situation where someone's sufficiently enthusiastic about targeting you that they're reflashing your computer by hand, it's likely that you're going to have a bad time regardless.\nBut let's think about why this is in the firmware at all. Sophos previously discussed an implant that's sufficiently similar in some technical details that Kaspersky suggest they may be related to some degree. One notable differe…",
+          "link": "https://mjg59.dreamwidth.org/60654.html",
+          "publishedOn": "2022-07-28T22:19:03.000Z",
+          "wordCount": null,
+          "title": "Matthew Garrett: UEFI rootkits and UEFI secure boot",
+          "imageUrl": null
+        },
+        {
+          "id": "http://ddumont.wordpress.com/?p=1046",
+          "author": null,
+          "description": "Hi\nMy name is Dominhique Dumont, DevOps freelance in Grenoble, France.\nMy goal is to share my experience regarding a production issue that occurred last week where my client complained that the applications was very slow and sometime showed 5xx errors. The production service is hosted on a Kubernetes cluster on Azure and use a MongoDB on ScaleGrid.\nI reproduced the issue on my side and found that the API calls were randomly failing due to timeouts on server side.\nThe server logs were showing some MongoDB disconnections and reconnections and some time-out on MongoDB connections, but did not give any clue on why some connections to MongoDB server were failing.\nSince there was not clue in the cluster logs, I looked at ScaleGrid monitoring. There was about 2500 connections on MongoDB:  That se…",
+          "link": "https://ddumont.wordpress.com/2022/07/28/how-i-investigated-connection-hogs-on-kubernetes/",
+          "publishedOn": "2022-07-28T12:10:00.000Z",
+          "wordCount": 3570,
+          "title": "Dominique Dumont: How I investigated connection hogs on Kubernetes",
+          "imageUrl": "https://ddumont.files.wordpress.com/2022/07/2022-07-19-scalegrid-connection-leak.png"
+        },
+        {
+          "id": "http://www.luffy.cx/en/blog/2022-clickhouse-meetup-akvorado.html",
+          "author": null,
+          "description": "Here are the slides I presented for a ClickHouse SF Bay Area Meetup in\nJuly 2022, hosted by Altinity. They are about Akvorado, a\nnetwork flow collector and visualizer, and notably on how it relies on\nClickHouse, a column-oriented database.\nSlides in PDF format\n\nThe meetup was recorded and available on YouTube. Here is the part\nrelevant to my presentation, with subtitles:1\n\n\nI got a few questions about how to get information from the higher\nlayers, like HTTP. As my use case for Akvorado was at the network\nedge, my answers were mostly negative. However, as sFlow is\nextensible, when collecting flows from Linux servers instead, you\ncould embed additional data and they could be exported as well.\nI also got a question about doing aggregation in a single table.\nClickHouse can aggregate automatically data using TTL. My answer for\nnot doing that is partial. There is another reason: the retention\nperiods of the various tables may overlap. For example, the main table\nkeeps data for 15 days, but even in these 15 days, if I do a query on\na 12-hour window, it is faster to use the flows_1m0s aggregated\ntable, unless I request something about ports and IP addresses.\nTo generate the subtitles, I have used Amazon\nTranscribe, the speech-to-text solution from Amazon AWS.\nUnfortunately, there is no en-FR language available, which would\nhave been useful for my terrible accent. While the\nsubtitles were 100% accurate when the host, Robert Hodge from\nAltinity, was speaking, the success rate on my talk was quite\nlower. I had to rewrite almost all sentences. However, using\nspeech-to-text is still useful to get the timings, as it is also\nsomething requiring a lot of work to do manually. ↩︎",
+          "link": "https://vincent.bernat.ch/en/blog/2022-clickhouse-meetup-akvorado",
+          "publishedOn": "2022-07-27T21:00:00.000Z",
+          "wordCount": 471,
+          "title": "Vincent Bernat: ClickHouse SF Bay Area Meetup: Akvorado",
+          "imageUrl": null
+        },
+        {
+          "id": "https://raphaelhertzog.com/?p=4052",
+          "author": null,
+          "description": "Like each month, have a look at the work funded by Freexian’s Debian LTS offering.\nDebian project funding\nNo any major updates on running projects.\nTwo 1, 2 projects are in the pipeline now.\nTryton project is in a review phase. Gradle projects is still fighting in work.\nIn June, we put aside 2254 EUR to fund Debian projects.\nWe’re looking forward to receive more projects from various Debian teams! Learn more about the rationale behind this initiative in this article.\nDebian LTS contributors\nIn June, 15 contributors have been paid to work on Debian LTS, their reports are available:\nAbhijith PA did 14.00h (out of 14.00h assigned).\nAndreas Rönnquist did 14.50h (out of 14.50h assigned and 10.50h from previous period, thus carrying over 10.50h to the next month).\nAnton Gladky did 16.00h (out of…",
+          "link": "https://raphaelhertzog.com/2022/07/26/freexians-report-about-debian-long-term-support-june-2022/",
+          "publishedOn": "2022-07-26T08:38:30.000Z",
+          "wordCount": 2052,
+          "title": "Rapha&#235;l Hertzog: Freexian’s report about Debian Long Term Support, June 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://abbbi.github.io//virtnbdbackup-remote",
+          "author": null,
+          "description": "Latest virtnbdbackup version now\nsupports backing up remote libvirt hosts, too. No installation on the\nhypervisor required anymore:\nvirtnbdbackup -U qemu+ssh://usr@hypervisor/system -d vm1 -o /backup/vm1\n\n\nSame applies for restore operations, other enhancements are:\nNew backup mode auto which allows \neasy backup rotation.\nOption to freeze only specific filesystems within backed up domain.\nRemote backup via dedicated network: use --nbd-ip to bind the remote\nNDB service to an specific interface.\nIf virtual machine requires additional files like specific UEFI/Kernel\nimage, these are saved via SFTP from the remote host, too.\nRestore operation can now\nadjust\ndomain config accordingly (and redefine it if desired).\nNext up: add TLS support for remote NBD connections.",
+          "link": "https://abbbi.github.io//virtnbdbackup-remote/",
+          "publishedOn": "2022-07-26T00:00:00.000Z",
+          "wordCount": 139,
+          "title": "Michael Ablassmeier: Added remote capability to virtnbdbackup",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:bits.debian.org,2022-07-25:/2022/07/debconf22-closes.html",
+          "author": null,
+          "description": "On Sunday 24 July 2022, the annual Debian Developers and\nContributors Conference came to a close. \nHosting 260 attendees\nfrom 38 different countries over a combined 91 event talks, discussion\nsessions, Birds of a Feather (BoF) gatherings, workshops, and\nactivities, DebConf22 was a large\nsuccess.\nThe conference was preceded by the annual DebCamp held 10 July to 16\nJuly which focused on individual work and team sprints for in-person\ncollaboration towards developing Debian. In particular, this year there\nhave been sprints to advance development of Mobian/Debian on mobile,\nreproducible builds and Python in Debian, and a BootCamp for newcomers,\nto get introduced to Debian and have some hands-on experience with using\nit and contributing to the community.\nThe actual Debian Developers Conference s…",
+          "link": "https://bits.debian.org/2022/07/debconf22-closes.html",
+          "publishedOn": "2022-07-25T08:30:00.000Z",
+          "wordCount": 1157,
+          "title": "Bits from Debian: DebConf22 closes in Prizren and DebConf23 dates announced",
+          "imageUrl": "https://bits.debian.org//images/debconf22_group_small.jpg"
+        },
+        {
+          "id": "http://blog.sesse.net/blog/tech/2022-07-24-15-40_av1_live_streaming_exploring_svt_av1_rate_control.html",
+          "author": null,
+          "description": "I'm looking into AV1 live streaming these days; it's still very early,\nbut it looks like enough of the required parts may finally align,\nand it seems it's the way I'll have to go to get to that next quality\nlevel. (Specifically, I'd like to go from 720p60 to 1080p60 for sports,\nand it seems this is hard to do under H.264 as-is without making pretty\nbig concessions in terms of artifacts/smudges, or else jack up the\nbitrate so much that clients will start having viewing problems.)\nAfter some brief testing, it seems\nSVT-AV1 is the obvious choice;\nif you've got the cores, it produces pretty good-looking 10-bit AV1 using\nless CPU time than x264 veryfast (!), possibly mostly due to better\nparallelization. But information about using it for live streaming was hard\nto find, and asking online turne…",
+          "link": "http://blog.sesse.net/blog/tech/2022-07-24-15-40_av1_live_streaming_exploring_svt_av1_rate_control.html",
+          "publishedOn": "2022-07-24T14:40:00.000Z",
+          "wordCount": 1817,
+          "title": "Steinar H. Gunderson: AV1 live streaming: Exploring SVT-AV1 rate control",
+          "imageUrl": null
+        },
+        {
+          "id": "https://grep.be/blog//en/computer/Planet_Grep_now_running_PtLink/",
+          "author": null,
+          "description": "Almost 2 decades ago, Planet Debian was\ncreated using the \"planetplanet\" RSS aggregator. A short while later, I\ncreated Planet Grep using the same software.\nOver the years, the blog aggregator landscape has changed a bit. First\nof all, planetplanet was abandoned, forked into Planet\nVenus, and then abandoned again.\nSecond, the world of blogging (aka the \"blogosphere\") has disappeared\nmuch, and the more modern world uses things like \"Social Networks\", etc,\nmaking blogs less relevant these days.\nA blog aggregator community site is still useful, however, and so I've\nnever taken Planet Grep down, even though over the years the number of\nblogs that was carried on Planet Grep has been reducing. In the past\nalmost 20 years, I've just run Planet Grep on my personal server,\nupgrading its Debian rele…",
+          "link": "https://grep.be/blog//en/computer/Planet_Grep_now_running_PtLink/",
+          "publishedOn": "2022-07-23T18:48:27.000Z",
+          "wordCount": 617,
+          "title": "Wouter Verhelst: Planet Grep now running PtLink",
+          "imageUrl": null
+        },
+        {
+          "id": "http://aigarius.com/blog/2022/07/22/debconf22-photos/",
+          "author": null,
+          "description": "Finally after a long break, the in-person Debconf is a thing again, this time\nDebconf 22 is happening in Prizren, Kosovo.\nAnd it has been my pleasure to again be here and take lots of pictures of the\nevent and of the surroundings.\nThe photos can be found in this Google Photo shared album and also on\nthis git-lfs share.\nBut the main photographic delight, as always is the DebConf 22 Group Photo.\nAnd here it is!!!\n\nYou can also see it in:\non Google Photos\non git-lfs",
+          "link": "http://aigarius.com/blog/2022/07/22/debconf22-photos/",
+          "publishedOn": "2022-07-22T13:54:13.000Z",
+          "wordCount": 140,
+          "title": "Aigars Mahinovs: Debconf 22 photos",
+          "imageUrl": null
+        },
+        {
+          "id": "https://anarc.at/blog/2022-07-20-debian-relay-no-dkim/",
+          "author": null,
+          "description": "Back in 2020, I wrote this article about using DKIM to sign outgoing\ndebian.org mail. This worked well\nfor me for a while: outgoing mail was signed with DKIM and somehow was\ndelivered. Maybe. Who knows.\nBut now we have a relay server which makes this kind of moot. So\nI have changed my configuration to use that relay instead of sending\nemail on my own. It seems more reliable that mail seems to be coming\nfrom a real debian.org machine, so I'm hoping this will have better\nreputation than my current setup.\nIn general, you should follow the DSA documentation which includes a\nPostfix configuration. In my case, it was basically this patch:\ndiff --git a/postfix/main.cf b/postfix/main.cf\nindex 7fe6dd9e..eabe714a 100644\n--- a/postfix/main.cf\n+++ b/postfix/main.cf\n@@ -55,3 +55,4 @@ smtp_sasl_security…",
+          "link": "https://anarc.at/blog/2022-07-20-debian-relay-no-dkim/",
+          "publishedOn": "2022-07-20T17:22:18.000Z",
+          "wordCount": 441,
+          "title": "Antoine Beaupré: Relaying mail through debian.org",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.enricozini.org/blog/2022/debian/deconstruction-of-the-dam-hat",
+          "author": null,
+          "description": "Slides\nTalk page\nVideo of the talk\nFurther reading\nWell-Kept Gardens Die By Pacifism\nYou cannot create or curate a community where everyone is welcome\nTalk notes\nIntro\nI'm not speaking for the whole of DAM\nMotivation in part is personal frustration, and need to set boundaries and\n  negotiate expectations\nDebian Account Managers\nhistory\nResponsibility for official membership\napprove account creation\nmanage the New Member Process and nm.debian.org\nclose MIA accounts\noccasional emergency termination of accounts\nhandle Emeritus\nwith lots of help from FrontDesk and MIA teams (big shoutout)\nWhat DAM is not\nwe are not mediators\nwe are not a community management team\na list or IRC moderation team\nwe are not responsible for vision or strategic choices about how\n  people are expected to interact in …",
+          "link": "http://www.enricozini.org/blog/2022/debian/deconstruction-of-the-dam-hat",
+          "publishedOn": "2022-07-20T05:55:05.000Z",
+          "wordCount": 1979,
+          "title": "Enrico Zini: Deconstruction of the DAM hat",
+          "imageUrl": null
+        },
+        {
+          "id": "https://etbe.coker.com.au/?p=5119",
+          "author": null,
+          "description": "With the recent resurgence in Covid19 I’ve been working from home a lot and using both my work laptop and personal PC on the same monitor. HDMI KVM switches start at $150 and I didn’t feel like buying one. So I wrote a script to change inputs on my monitor. The following script locks the session on the local machine and switches the monitor’s input to the other machine. I ran the command “ddcutil  vcpinfo| grep Input” which shows that (on my monitor at least) 60 is the VCP for input. Then I ran the command “ddcutil getvcp 60” to get the current value and tried setting values sequentially to find the value for the other port.\nBelow is the script I’m using on one system, the other is the same but setting the different port via setvcp. The loginctl command is to lock the screen to prevent accidental keyboard or mouse input from messing anything up.\n# lock the session, assumes that seat0 is the only session\nloginctl lock-session $(loginctl list-sessions|grep \"seat0 *$\"|cut -c1-7)\n# 0xf is DisplayPort, 0x11 is HDMI-1\nddcutil setvcp 60 0x11\nFor keyboard, mouse, and speakers I’m using a USB 2.0 hub that I can switch between computers. I idly considered getting a three-pole double-throw switch (four pole switches aren’t available at my local electronic store) to switch USB 2.0 as I only need to switch 3 of the 4 wires. But for the moment just plugging the hub into different systems is enough, I only do that a couple of times a day.\nRelated posts:\n\nSwitches and Cables  I’ve just read an amusing series of blog posts about...\nLoad Average Monitoring  For my ETBE-Mon [1] monitoring system I recently added a...\nhow to run dynamic ssh tunnels  service smtps { disable = no socket_type = stream wait...",
+          "link": "https://etbe.coker.com.au/2022/07/19/ddc-switch/",
+          "publishedOn": "2022-07-19T11:55:59.000Z",
+          "wordCount": 4243,
+          "title": "Russell Coker: DDC as a KVM Switch",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
+          "id": "https://dropbear.xyz/?p=1634",
+          "author": null,
+          "description": "Pretty much everyone who has spent some time on a command line in Linux would have looked at the free command. This command provides some overall statistics on the memory and how it is used. Typical output looks something like this:\n             total        used        free      shared  buff/cache  available\nMem:      32717924     3101156    26950016      143608     2666752  29011928\nSwap:      1000444           0     1000444\n\n\nMemory sits in the first row after the headers then we have the swap statistics. Most of the numbers are directly fetched from the procfs file /proc/meminfo which are scaled and presented to the user.  A good example of a “simple” stat is total, which is just the MemTotal row located in that file. For the rest of this post, I’ll make the rows from /proc/meminfo hav…",
+          "link": "https://dropbear.xyz/2022/07/19/linux-memory-statistics/",
+          "publishedOn": "2022-07-19T11:53:12.000Z",
+          "wordCount": null,
+          "title": "Craig Small: Linux Memory Statistics",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:bits.debian.org,2022-07-18:/2022/07/debconf22-welcomes-sponsors.html",
+          "author": null,
+          "description": "DebConf22 is taking place in Prizren, Kosovo,\nfrom 17th to 24th July, 2022.\nIt is the 23rd edition of the Debian conference and organizers are working hard\nto create another interesting and fruitful event for attendees.\nWe would like to warmly welcome the sponsors of DebConf22, and\nintroduce you to them.\nWe have four Platinum sponsors.\nOur first Platinum sponsor is Lenovo.\nAs a global technology leader manufacturing a wide portfolio of connected products,\nincluding smartphones, tablets, PCs and workstations as well as AR/VR devices,\nsmart home/office and data center solutions, Lenovo\nunderstands how critical open systems and platforms are to a connected world.\nInfomaniak is our second Platinum sponsor.\nInfomaniak is Switzerland's largest web-hosting company,\nalso offering backup and storag…",
+          "link": "https://bits.debian.org/2022/07/debconf22-welcomes-sponsors.html",
+          "publishedOn": "2022-07-18T07:00:00.000Z",
+          "wordCount": 1032,
+          "title": "Bits from Debian: DebConf22 welcomes its sponsors!",
+          "imageUrl": "https://bits.debian.org//images/debconf22-official-logo.png"
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-20663524.post-5583426356397693138",
+          "author": "noreply@blogger.com (Martin-Éric)",
+          "description": "Among my collection of PC hardware, I have a few rarities whose netboot implementation predates PXE. Since I recently managed to configure dnsmasq as a potent TFTP and PXE server, I figured that I'd try chainloading iPXE via BOOTP options. This required preparing a boot image using antiquated tools:\n$ sudo mkelf-linux --param=autoboot --output=/srv/tftp/ipxe.nbi /srv/tftp/ipxe.lkrn\n\nThe host succesufully loads the boot image, except that the iPXE blob fails to find the network card:\n\nAny ideas?",
+          "link": "http://q-funk.blogspot.com/2022/07/trying-to-chainload-ipxe-on-old.html",
+          "publishedOn": "2022-07-17T19:10:14.000Z",
+          "wordCount": 2162,
+          "title": "Martin-&#201;ric Racine: Trying to chainload iPXE on old Etherboot hardware",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAmZ-7zHHydvSJ_lOz9CaKNz0zonuRNVIFL-TZzq-jcHHuheMDxP9lCp55UPDaywehR-OsWN6wWuiHqtbXKOT1VI5VQO72Y3s06Gh-gR_g9ldvHhjHubFY4-8y_0UaVavASympve6aA9fOKoWEDHUIQJphdXwKkLqzV-KkTjSiNWHmVHcaPQ/w1200-h630-p-k-no-nu/IMG_20220717_210749.jpg"
+        },
+        {
+          "id": "tag:bits.debian.org,2022-07-17:/2022/07/debconf22-starts.html",
+          "author": null,
+          "description": "DebConf22, the 23rd annual\nDebian Conference, is taking place in Prizren, Kosovo\nfrom July 17th to 24th, 2022.\nDebian contributors from all over the world have come together at\nInnovation and Training Park (ITP)\nin Prizren, Kosovo, to participate and work in a conference exclusively\nrun by volunteers.\nToday the main conference starts with over 270 attendants expected\nand 82 activities scheduled,\nincluding 45-minute and 20-minute talks and team meetings (\"BoF\"),\nworkshops, and a job fair, as well as a variety of other events.\nThe full schedule at\nhttps://debconf2.debconf.org/schedule/\nis updated every day, including activities planned ad-hoc\nby attendees during the whole conference.\nIf you want to engage remotely, you can follow the\nvideo streaming available from the DebConf22 website\nof the events happening in the three talk rooms:\nDrini, Lumbardhi and Ereniku.\nOr you can join the conversation about what is happening\nin the talk rooms:\n  #debconf-drini,\n  #debconf-lumbardhi and\n  #debconf-ereniku\n(all those channels in the OFTC IRC network).\nYou can also follow the live coverage of news about DebConf22 on\nhttps://micronews.debian.org or the @debian\nprofile in your favorite social network.\nDebConf is committed to a safe and welcoming environment for all participants.\nSee the web page about the Code of Conduct in DebConf22's website\nfor more details on this.\nDebian thanks the commitment of numerous sponsors\nto support DebConf22, particularly our Platinum Sponsors:\nLenovo,\nInfomaniak,\nITP Prizren\nand Google.",
+          "link": "https://bits.debian.org/2022/07/debconf22-starts.html",
+          "publishedOn": "2022-07-17T07:00:00.000Z",
+          "wordCount": 530,
+          "title": "Bits from Debian: DebConf22 starts today in Prizren",
+          "imageUrl": "https://bits.debian.org//images/debconf22-banner-700px.png"
+        },
+        {
+          "id": "https://www.eyrie.org/~eagle/reviews/books/trang.html",
+          "author": null,
+          "description": "Review: Trang, by Mary Sisson\n\n    Series:\n    Trang #1\n  \nPublisher:\n    Mary Sisson\n  \nCopyright:\n    2011\n  \nPrinting:\n    December 2013\n  \nASIN:\n    B004I6DAQ8\n  \nFormat:\n    Kindle\n  \nPages:\n    374\n  \n\nSector General novels, except\nwith a diplomat rather than a doctor.  The aliens are moderately strange\n(not just humans in prosthetic makeup), but are mostly earnest,\nwell-meaning, and welcoming.  Trang's security escort is more military\nthan he expects, but that becomes a satisfying negotiation rather than an\nongoing problem.  There is confusion, misunderstandings, and even\nviolence, but most of it is sorted out by earnest discussion and attempts\nat mutual understanding.\n\n\n\nThis is, in other words, diplomat\ncompetence\nporn (albeit written by someone who is not a diplomat, so I wouldn'…",
+          "link": "https://www.eyrie.org/~eagle/reviews/books/trang.html",
+          "publishedOn": "2022-07-17T04:06:00.000Z",
+          "wordCount": 801,
+          "title": "Russ Allbery: Review: Trang",
+          "imageUrl": null
+        },
+        {
+          "id": "https://people.skolelinux.org/pere/blog/Automatic_LinuxCNC_servo_PID_tuning_.html",
+          "author": null,
+          "description": "While working on a CNC with servo motors controlled by the\nLinuxCNC\nPID\ncontroller, I recently had to learn how to tune the collection of values\nthat control such mathematical machinery that a PID controller is.  It\nproved to be a lot harder than I hoped, and I still have not succeeded\nin getting the Z PID controller to successfully defy gravity, nor X\nand Y to move accurately and reliably.  But while climbing up this\nrather steep learning curve, I discovered that some motor control\nsystems are able to tune their PID controllers.  I got the impression\nfrom the documentation that LinuxCNC were not.  This proved to be not\ntrue\nThe LinuxCNC\npid\ncomponent is the recommended PID controller to use.  It uses eight\nconstants Pgain, Igain, Dgain,\nbias, FF0, FF1, FF2 and\nFF3 to calculate the output …",
+          "link": "https://people.skolelinux.org/pere/blog/Automatic_LinuxCNC_servo_PID_tuning_.html",
+          "publishedOn": "2022-07-16T20:30:00.000Z",
+          "wordCount": 2074,
+          "title": "Petter Reinholdtsen: Automatic LinuxCNC servo PID tuning?",
+          "imageUrl": null
+        },
+        {
+          "id": "http://thomas.goirand.fr/blog/?p=402",
+          "author": null,
+          "description": "I arrived in Prizren late on Wednesday. Here’s what I did during debcamp (so over 3 days). I hope this post just motivates others to contribute more to Debian.\nAt least 2 DDs want to upload packages that need a new version of python3-jsonschema (ie: version > 4.x). Unfortunately, version 4 broke a few packages. I therefore uploaded it to Experimental a few months/week, so I could see the result of autopkgtest reading the pseudo excuse page. And it showed a few packages broke. Here’s the one used (or part of) OpenStack:\nNova\nDesignate\nIronic\npython-warlock\nSahara\nVitrage\n\n\n\n\nThanks to a reactive upstream, I was able to fix the first 4 above, but not Sahara yet. Vitrage poped-up when I uploade Debian release 2 of jsonschema, surprisingly. Also python3-jsonschema autopkgtest itself was broken…",
+          "link": "http://thomas.goirand.fr/blog/?p=402",
+          "publishedOn": "2022-07-16T20:22:09.000Z",
+          "wordCount": 628,
+          "title": "Thomas Goirand: My work during debcamp",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.eyrie.org/~eagle/journal/2022-07/001.html",
+          "author": null,
+          "description": "INN 2.7.0 NEWS file for all\nof the details, including breaking changes to watch out for when\nupgrading.\n\n\n\nINN 2.7 is now the stable branch, and will be maintained on the 2.7 Git\nbranch.  The main branch is now open for development targeting 2.8.0.\n(I'm still hoping to get to the build system overhaul before 2.8.0 is\nreleased.)  As of tonight, if all goes well, the nightly stable snapshots\nwill be generated from the 2.7 branch instead of the 2.6 branch, so be\naware that you will need to pay close attention to the upgrade if you're\nusing a snapshot.\n\n\n\nAs always, thanks to Julien ÉLIE for preparing this release and doing most\nof the maintenance work on INN!\n\n\n\nYou can get the latest version from\nthe official ISC download\npage or from my personal INN pages.  The\nlatter also has links to the other INN documentation.",
+          "link": "https://www.eyrie.org/~eagle/journal/2022-07/001.html",
+          "publishedOn": "2022-07-16T18:16:00.000Z",
+          "wordCount": 266,
+          "title": "Russ Allbery: INN 2.7.0",
+          "imageUrl": null
+        },
+        {
+          "id": "http://blog.sesse.net/blog/tech/2022-07-16-11-13_rust_gui_advice.html",
+          "author": null,
+          "description": "The piece is largely about Rust, but Raph Levien's blog post about Rust GUI toolkits\ncontains some of the most thoughtful writings on GUI toolkits that I've seen\nin a while, regardless of language. Recommended.",
+          "link": "http://blog.sesse.net/blog/tech/2022-07-16-11-13_rust_gui_advice.html",
+          "publishedOn": "2022-07-16T10:13:00.000Z",
+          "wordCount": 83,
+          "title": "Steinar H. Gunderson: Rust GUI advice",
+          "imageUrl": null
+        },
+        {
+          "id": "https://glandium.org/blog/?p=4282",
+          "author": null,
+          "description": "Git-cinnabar is a git remote helper to interact with mercurial repositories. It allows to clone, pull and push from/to mercurial remote repositories, using git.\nGet it on github.\nThese release notes are also available on the git-cinnabar wiki.\nWhat’s new since 0.5.8?\nUpdated git to 2.37.1 for the helper.\nVarious python 3 fixes.\nFixed stream bundle\nAdded python and py.exe as executables tried on top of python3 and python2.\nImproved handling of ill-formed local urls.\nFixed using old mercurial libraries that don’t support bundlev2 with a server that does.\nWhen fsck reports the metadata as broken, prevent further updates to the repo.\nWhen issue #207 is detected, mark the metadata as broken\nAdded support for logging redirection to a file\nNow ignore refs/cinnabar/replace/ refs, and always use the corresponding metadata instead.\nVarious git cinnabar fsck fixes.",
+          "link": "https://glandium.org/blog/?p=4282",
+          "publishedOn": "2022-07-15T22:11:55.000Z",
+          "wordCount": 421,
+          "title": "Mike Hommey: Announcing git-cinnabar 0.5.9",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:bits.debian.org,2022-07-15:/2022/07/debian-perl-sprint-2022.html",
+          "author": null,
+          "description": "Three members of the Debian Perl Group\nmet in Hamburg between May 23 and May 30 2022 as part of the \nDebian Reunion Hamburg\nto continue perl development work for Bookworm and to work on QA tasks across\nour 3800+ packages.\nThe participants had a good time and met other Debian friends. The\nsprint was also productive:\npkg-perl-tools and dh-make-perl were improved and extended.\nMore than 50 uploads were done, and more than 30 bugs were fixed or at least triaged.\nautopkgtests were added to lots of packages.\nSome requests to remove obsolete packages were filed as well.\nThe more detailed report\nwas posted to the Debian Perl mailing list.\nThe participants would like to thank the Debian Reunion Hamburg organizers\nfor providing the framework for our sprint, all sponsors of the event, and\nall donors to the Debian project who helped to cover parts of our expenses.",
+          "link": "https://bits.debian.org/2022/07/debian-perl-sprint-2022.html",
+          "publishedOn": "2022-07-15T15:35:00.000Z",
+          "wordCount": 453,
+          "title": "Bits from Debian: (Unofficial) Debian Perl Sprint 2022",
+          "imageUrl": "https://bits.debian.org//images/debianreunion2022_groupphoto.png"
+        },
+        {
+          "id": "https://blog.steve.fi/so_we_come_to_lisp.html",
+          "author": null,
+          "description": "Recently I've been working with simple/trivial scripting languages, and I guess I finally reached a point where I thought \"Lisp?  Why not\".  One of the reasons for recent experimentation was thinking about the kind of minimalism that makes implementing a language less work - being able to actually use the language to write itself.\nFORTH is my recurring example, because implementing it mostly means writing a virtual machine which consists of memory (\"cells\") along with a pair of stacks, and some primitives for operating upon them.   Once you have that groundwork in place you can layer the higher-level constructs (such as \"for\", \"if\", etc).\nLisp allows a similar approach, albeit with slightly fewer low-level details required, and far less tortuous thinking.  Lisp always feels higher-level to…",
+          "link": "https://blog.steve.fi/so_we_come_to_lisp.html",
+          "publishedOn": "2022-07-15T01:00:21.000Z",
+          "wordCount": 1032,
+          "title": "Steve Kemp: So we come to Lisp",
+          "imageUrl": null
+        },
+        {
+          "id": "https://diffoscope.org/news/diffoscope-219-released/",
+          "author": null,
+          "description": "The diffoscope maintainers are pleased to announce the release of diffoscope\nversion 219. This version includes the following changes:\n\n* Don't traceback if we encounter an invalid Unicode character in Haskell\n  versioning headers. (Closes: reproducible-builds/diffoscope#307)\n* Update various copyright years.\n\n\nYou find out more by visiting the project homepage.",
+          "link": "https://diffoscope.org/news/diffoscope-219-released/",
+          "publishedOn": "2022-07-15T00:00:00.000Z",
+          "wordCount": 95,
+          "title": "Reproducible Builds (diffoscope): diffoscope 219 released",
+          "imageUrl": null
+        },
+        {
+          "id": "https://prezu.ca/post/2022-07-13-nk3-pc-usbip-1/",
+          "author": "patryk@cisek.emai (l (Patryk Cisek)",
+          "description": "I’ve been wanting to use my brand new NitroKey 3, but TOTP is not supported yet. So, I’m looking to implement it myself, since firmware and tooling are open-source.\nNitroKey 3’s firmware is based on Trussed framework. In essence, it’s been designed so that anyone can implement an independent Trussed application. Each such application is like a module that can be added to Trussed-based product. So if I write a Trussed app, I’d be able to add it to NK3’s firmware.",
+          "link": "https://prezu.ca/post/2022-07-13-nk3-pc-usbip-1/",
+          "publishedOn": "2022-07-14T23:01:56.000Z",
+          "wordCount": 1476,
+          "title": "Patryk Cisek: Playing with NitroKey 3 -- PC runner using USBIP",
+          "imageUrl": null
+        },
+        {
+          "id": "http://dirk.eddelbuettel.com/blog/2022/07/13#rfoaas_2.3.2",
+          "author": null,
+          "description": "FOAAS by now moved to version 2.3.2 in its repo. This releases 2.3.2 of rfoaas catches up, and brings the first release in about two and a half years.\nThis 2.3.2 release of FOAAS brings us six new REST access points: absolutely(), dense(), dumbledore(), lowpoly(), understand(), and yeah(). Along with these new functions, documentation and tests were updated.\nMy CRANberries service provides a diff to the previous CRAN release. Questions, comments etc should go to the GitHub issue tracker. More background information is on the project page as well as on the github repo\nIf you like this or other open-source work I do, you can sponsor me at GitHub.\nDirk Eddelbuettel originated on his Thinking inside the box blog. Please report excessive re-aggregation in third-party for-profit settings.",
+          "link": "http://dirk.eddelbuettel.com/blog/2022/07/13#rfoaas_2.3.2",
+          "publishedOn": "2022-07-13T23:08:00.000Z",
+          "wordCount": 791,
+          "title": "Dirk Eddelbuettel: rfoaas 2.3.2: New upstream accessors",
+          "imageUrl": null
+        },
+        {
+          "id": "https://reproducible-builds.org/reports/2022-06/",
+          "author": null,
+          "description": "Welcome to the June 2022 report from the Reproducible Builds project. In these reports, we outline the most important things that we have been up to over the past month. As a quick recap, whilst anyone may inspect the source code of free software for malicious flaws, almost all software is distributed to end users as pre-compiled binaries.\n\nSave the date!\nDespite several delays, we are pleased to announce dates for our in-person summit this year:\nNovember 1st 2022 — November 3rd 2022\n\n\n\nThe event will happen in/around Venice (Italy), and we intend to pick a venue reachable via the train station and an international airport. However, the precise venue will depend on the number of attendees.\nPlease see the announcement mail from Mattia Rizzolo, and do keep an eye on the mailing list for furt…",
+          "link": "https://reproducible-builds.org/reports/2022-06/",
+          "publishedOn": "2022-07-13T13:58:37.000Z",
+          "wordCount": 1986,
+          "title": "Reproducible Builds: Reproducible Builds in June 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mjg59.dreamwidth.org/60248.html",
+          "author": null,
+          "description": "After I mentioned that Lenovo are now shipping laptops that only boot Windows by default, a few people pointed to a Lenovo document that says:\nStarting in 2022 for Secured-core PCs it is a Microsoft requirement for the 3rd Party Certificate to be disabled by default.\n\"Secured-core\" is a term used to describe machines that meet a certain set of Microsoft requirements around firmware security, and by and large it's a good thing - devices that meet these requirements are resilient against a whole bunch of potential attacks in the early boot process. But unfortunately the 2022 requirements don't seem to be publicly available, so it's difficult to know what's being asked for and why. But first, some background.\nMost x86 UEFI systems that support Secure Boot trust at least two certificate author…",
+          "link": "https://mjg59.dreamwidth.org/60248.html",
+          "publishedOn": "2022-07-12T05:50:57.000Z",
+          "wordCount": null,
+          "title": "Matthew Garrett: Responsible stewardship of the UEFI secure boot ecosystem",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-8085113335874848981.post-3368530751937676042",
+          "author": "noreply@blogger.com (Andrew Cater)",
+          "description": "I've just finished my last test: Sledge is finishing his and will then push the release out. Today's been a bit slow and steady - but we've finally got there.\nThanks, as ever, due to the release team for actually giving us an update, the press team for announcements - and, of course, the various sponsors, administrators and maintainers of Debian infrastructure like cdimage.debian.org and the CD building machines.\nIt's been a quiet release for the media team in terms of participation - we've not had our usual tester for debian-edu and it's been a bit subdued altogether.\nNot even as many blog posts as usual: I suppose I'll make up for it in August at the BBQ in Cambridge - if we don't all get another lockdown / COVID-19 variants / fuel prices at ££££ per litre to dissuade us.",
+          "link": "http://flosslinuxblog.blogspot.com/2022/07/20220709-2100-utc-finished-debian-media.html",
+          "publishedOn": "2022-07-09T21:07:19.000Z",
+          "wordCount": 1612,
+          "title": "Andrew Cater: 20220709 2100 UTC - Finished Debian media testing for the day",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-8085113335874848981.post-1368341897686343733",
+          "author": "noreply@blogger.com (Andrew Cater)",
+          "description": "We're flagging a bit now, I think but close to the end. The standard Debian images caused no problems: Sledge and I are just finishing up the last few live images to test now.\nThanks, as ever, to the crew: RattusRattus and Isy, Sledge struggling through feeling awful. No debian-edu testing today, unfortunately, but that almost never breaks anyway.\nEveryone's getting geared up for Kosovo - you'll see the other three there with any luck - and you'd catch all of us at the BBQ in Cambridge. It's going to be a hugely busy month and a bit for Steve and the others. :)",
+          "link": "http://flosslinuxblog.blogspot.com/2022/07/testing-114-debian-media-images-almost.html",
+          "publishedOn": "2022-07-09T19:34:06.000Z",
+          "wordCount": 1583,
+          "title": "Andrew Cater: Testing 11.4 Debian media images - almost finished - 20220709 1933 UTC",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blogger.com,1999:blog-8085113335874848981.post-4281568085031494945",
+          "author": "noreply@blogger.com (Andrew Cater)",
+          "description": "A lower profile release today: Sledge working in the background as affected by COVID. RattusRattus and Isy doing sterling service on the other side of Cambridge, /me over here.\nTesting on the standard install media is pretty much done: Isy, Andy and Sledge have moved on to testing the live images.\nStupidly hot for UK - it's 28 degrees indoors with windows open.\nAll good so far :)",
+          "link": "http://flosslinuxblog.blogspot.com/2022/07/as-has-become-traditional-blogging-as.html",
+          "publishedOn": "2022-07-09T14:37:57.000Z",
+          "wordCount": 1572,
+          "title": "Andrew Cater: As has become traditional - blogging as part of the media release for Debian 11.4 - 202207091436 UTC",
+          "imageUrl": null
+        },
+        {
+          "id": "http://dirk.eddelbuettel.com/blog/2022/07/09#rcpp_1.0.9",
+          "author": null,
+          "description": "The Rcpp team is please to announce the newest release 1.0.9 of Rcpp which hit CRAN late yesterday, and has been uploaded to Debian as well. Windows and macOS builds should appear at CRAN in the next few days, as will builds in different Linux distribution and of course at r2u. The release was prepared om July 2, but it took a few days to clear a handful of spurious errors as false positives with CRAN — this can when the set of reverse dependencies is so large, and the CRAN team remains busy. This release continues with the six-months cycle started with release 1.0.5 in July 2020. (This time, CRAN had asked for an interim release to silence a C++ warning; we then needed a quick follow-up to tweak tests.) As a reminder, interim ‘dev’ or ‘rc’ releases should generally be available in the Rcp…",
+          "link": "http://dirk.eddelbuettel.com/blog/2022/07/09#rcpp_1.0.9",
+          "publishedOn": "2022-07-09T14:08:00.000Z",
+          "wordCount": 1256,
+          "title": "Dirk Eddelbuettel: Rcpp 1.0.9 on CRAN: Regular Updates",
+          "imageUrl": null
+        },
+        {
+          "id": "https://mjg59.dreamwidth.org/59931.html",
+          "author": null,
+          "description": "I finally managed to get hold of a Thinkpad Z13 to examine a functional implementation of Microsoft's Pluton security co-processor. Trying to boot Linux from a USB stick failed out of the box for no obvious reason, but after further examination the cause became clear - the firmware defaults to not trusting bootloaders or drivers signed with the Microsoft 3rd Party UEFI CA key. This means that given the default firmware configuration, nothing other than Windows will boot. It also means that you won't be able to boot from any third-party external peripherals that are plugged in via Thunderbolt.\nThere's no security benefit to this. If you want security here you're paying attention to the values measured into the TPM, and thanks to Microsoft's own specification for measurements made into PCR 7, switching from booting Windows to booting something signed with the 3rd party signing key will change the measurements and invalidate any sealed secrets. It's trivial to detect this. Distrusting the 3rd party CA by default doesn't improve security, it just makes it harder for users to boot alternative operating systems.\nLenovo, this isn't OK. The entire architecture of UEFI secure boot is that it allows for security without compromising user choice of OS. Restricting boot to Windows by default provides no security benefit but makes it harder for people to run the OS they want to. Please fix it.\n comments",
+          "link": "https://mjg59.dreamwidth.org/59931.html",
+          "publishedOn": "2022-07-08T06:49:40.000Z",
+          "wordCount": null,
+          "title": "Matthew Garrett: Lenovo shipping new laptops that only boot Windows by default",
+          "imageUrl": null
+        },
+        {
+          "id": "https://diffoscope.org/news/diffoscope-218-released/",
+          "author": null,
+          "description": "The diffoscope maintainers are pleased to announce the release of diffoscope\nversion 218. This version includes the following changes:\n\n* Improve output of Markdown and reStructuredText to use code blocks with\n  syntax highlighting. (Closes: reproducible-builds/diffoscope#306)\n\n\nYou find out more by visiting the project homepage.",
+          "link": "https://diffoscope.org/news/diffoscope-218-released/",
+          "publishedOn": "2022-07-08T00:00:00.000Z",
+          "wordCount": 90,
+          "title": "Reproducible Builds (diffoscope): diffoscope 218 released",
+          "imageUrl": null
+        },
+        {
+          "id": "https://jmtd.net/log/Musick_To_Play_In_The_Dark_2/",
+          "author": null,
+          "description": "This took a while to arrive! After the success of the reissue of\nCoil's Musick To Play In The Dark, it was inevitable that the\nsecond edition would also be reissued. The pre-order opened late\nNovember 2021 and mine arrived in late April this year.\n\n\n\n\n\n\nI was toying with the idea of ordering one of the most exclusive editions\ndirect from DAIS Records, in particular the\nglow in the dark one, but with international shipping the cost was pretty high.\nI went with a UK distributor\n(Boomkat)\ninstead, who had their own exclusive edition: black-in-purple-in-clear.\n\n\n\n\n\n\nI'm happy with my decision: it's one of the most interesting variants I own,\nand from what I've read, glow in the dark vinyl never sounds great anyway.\n(I think I have at least one glow in the dark 7\" single somewhere)\nStand-out track: Tiny Golden Books\nSince I didn't say so last time, the stand-out track on volume one is Red\nBirds Will Fly Out of the East and Destroy Paris in a\nNight,\nbut both volumes are full of really interesting moments (🎵 One day, your eggs\nare going to hatch and some very strange birds are going to emerge. 🎵)",
+          "link": "https://jmtd.net/log/Musick_To_Play_In_The_Dark_2/",
+          "publishedOn": "2022-07-07T13:54:25.000Z",
+          "wordCount": 245,
+          "title": "Jonathan Dowland: Musick To Play In The Dark 2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.eyrie.org/~eagle/reviews/books/1-250-26767-6.html",
+          "author": null,
+          "description": "Review: A Master of Djinn, by P. Djèlí Clark\n\n    Series:\n    Dead Djinn Universe #1\n  \nPublisher:\n    Tordotcom\n  \nCopyright:\n    2021\n  \nISBN:\n    1-250-26767-6\n  \nFormat:\n    Kindle\n  \nPages:\n    391\n  \n\nA Master of Djinn is the first novel in the Dead Djinn Universe,\nbut (as you might guess from the series title) is a direct sequel to the\nnovelette \"A Dead Djinn in Cairo\".  The\nnovelette is not as good as the novel, but I recommend reading it first\nfor the character introductions and some plot elements that carry over.\nReading The Haunting of Tram Car 015\nfirst is entirely optional.\n\n\n\nIn 1912 in a mansion in Giza, a secret society of (mostly) British men is\nmeeting.  The Hermetic Brotherhood of Al-Jahiz is devoted to unlocking the\nmysteries of the Soudanese mystic al-Jahiz.  In our wo…",
+          "link": "https://www.eyrie.org/~eagle/reviews/books/1-250-26767-6.html",
+          "publishedOn": "2022-07-06T03:04:00.000Z",
+          "wordCount": 1060,
+          "title": "Russ Allbery: Review: A Master of Djinn",
+          "imageUrl": null
+        },
+        {
+          "id": "http://blogs.igalia.com/berto/?p=783",
+          "author": null,
+          "description": "Introduction\nThe Steam Deck is a handheld gaming computer that runs a Linux-based operating system called SteamOS. The machine comes with SteamOS 3 (code name “holo”), which is in turn based on Arch Linux.\nAlthough there is no SteamOS 3 installer for a generic PC (yet), it is very easy to install on a virtual machine using QEMU. This post explains how to do it.\nThe goal of this VM is not to play games (you can already install Steam on your computer after all) but to use SteamOS in desktop mode. The Gamescope mode (the console-like interface you normally see when you use the machine) requires additional development to make it work with QEMU and will not work with these instructions.\nA SteamOS VM can be useful for debugging, development, and generally playing and tinkering with the OS withou…",
+          "link": "https://blogs.igalia.com/berto/2022/07/05/running-the-steam-decks-os-in-a-virtual-machine-using-qemu/",
+          "publishedOn": "2022-07-05T19:11:37.000Z",
+          "wordCount": 2301,
+          "title": "Alberto García: Running the Steam Deck’s OS in a virtual machine using QEMU",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.eyrie.org/~eagle/reviews/books/1-250-76665-6.html",
+          "author": null,
+          "description": "Review: A Mirror Mended, by Alix E. Harrow\n\n    Series:\n    Fractured Fables #2\n  \nPublisher:\n    Tordotcom\n  \nCopyright:\n    2022\n  \nISBN:\n    1-250-76665-6\n  \nFormat:\n    Kindle\n  \nPages:\n    129\n  \n\nA Spindle\nSplintered and will completely spoil that story, so start there rather\nthan here.\n\n\n\nA Mirror Mended opens with a glimpse at yet another version of the\nSleeping Beauty story, this one (delightfully) a Spanish telenovela.\nZinnia is world-hopping, something that's lost some of the meaning from\nA Spindle Splintered and become an escape from other problems.\nShe's about ready to leave this world as well when she sees a face that is\nnot hers in the bathroom mirror, pleading for help.  Zinnia assumes this\nis yet another sleeping beauty, albeit an unusual one.  Zinnia is wrong.\n\n\n\nReaders …",
+          "link": "https://www.eyrie.org/~eagle/reviews/books/1-250-76665-6.html",
+          "publishedOn": "2022-07-05T02:27:00.000Z",
+          "wordCount": 625,
+          "title": "Russ Allbery: Review: A Mirror Mended",
+          "imageUrl": null
+        }
+      ]
+    },
+    {
+      "title": "xkcd.com",
+      "feedUrl": "https://xkcd.com/atom.xml",
+      "siteUrl": "https://xkcd.com/",
+      "articles": [
+        {
+          "id": "https://xkcd.com/2653/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/omnitaur.png\" title=\"&quot;My parents were both omnitaurs, which is how I got interested in recombination,&quot; said the normal human.\" alt=\"&quot;My parents were both omnitaurs, which is how I got interested in recombination,&quot; said the normal human.\" />",
+          "link": "https://xkcd.com/2653/",
+          "publishedOn": "2022-08-01T00:00:00.000Z",
+          "wordCount": 230,
+          "title": "Omnitaur",
+          "imageUrl": "https://imgs.xkcd.com/comics/omnitaur_2x.png"
+        },
+        {
+          "id": "https://xkcd.com/2652/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/proxy_variable.png\" title=\"Our work has produced great answers. Now someone just needs to figure out which questions they go with.\" alt=\"Our work has produced great answers. Now someone just needs to figure out which questions they go with.\" />",
+          "link": "https://xkcd.com/2652/",
+          "publishedOn": "2022-07-29T00:00:00.000Z",
+          "wordCount": 232,
+          "title": "Proxy Variable",
+          "imageUrl": "https://imgs.xkcd.com/comics/proxy_variable_2x.png"
+        },
+        {
+          "id": "https://xkcd.com/2651/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/air_gap.png\" title=\"You can still do powerline networking, but the bitrate does drop a little depending on the lightbulb warmup and cooldown delay.\" alt=\"You can still do powerline networking, but the bitrate does drop a little depending on the lightbulb warmup and cooldown delay.\" />",
+          "link": "https://xkcd.com/2651/",
+          "publishedOn": "2022-07-27T00:00:00.000Z",
+          "wordCount": 232,
+          "title": "Air Gap",
+          "imageUrl": "https://imgs.xkcd.com/comics/air_gap_2x.png"
+        },
+        {
+          "id": "https://xkcd.com/2650/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/deepfakes.png\" title=\"If so great a deductive mind as Arthur Conan Doyle can be fooled by the Cottingley Deepfakes, what chance do we mortals have? Soon our very reality will be dictated by the whims of Frances (9) and Elsie (16).\" alt=\"If so great a deductive mind as Arthur Conan Doyle can be fooled by the Cottingley Deepfakes, what chance do we mortals have? Soon our very reality will be dictated by the whims of Frances (9) and Elsie (16).\" />",
+          "link": "https://xkcd.com/2650/",
+          "publishedOn": "2022-07-25T00:00:00.000Z",
+          "wordCount": 230,
+          "title": "Deepfakes",
+          "imageUrl": "https://imgs.xkcd.com/comics/deepfakes_2x.png"
         }
       ]
     }
