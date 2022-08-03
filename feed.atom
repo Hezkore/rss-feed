@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-03T12:08:08.606Z</updated>
+    <updated>2022-08-03T13:18:14.056Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.0 Networking Brings Performance Optimizations, Early Preparations For WiFi 7]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.0-Networking</id>
+        <link href="https://www.phoronix.com/news/Linux-6.0-Networking"/>
+        <updated>2022-08-03T13:00:01.000Z</updated>
+        <summary type="html"><![CDATA[With the Linux 5.19 kernel there are some exciting networking improvements like big TCP support, PureLiFi drivers for light-based networking, WFX WiFi being promoted out of staging, and much more. Now with the in-development Linux 6.0 there is a lot more work in store...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Bomberman game coming to Apple Arcade]]></title>
+        <id>https://www.eurogamer.net/new-bomberman-game-coming-to-apple-arcade</id>
+        <link href="https://www.eurogamer.net/new-bomberman-game-coming-to-apple-arcade"/>
+        <updated>2022-08-03T12:49:52.000Z</updated>
+        <summary type="html"><![CDATA[Apple Arcade users will soon be getting a new game in the Bomberman series to add to their collection.
+
+
+Amazing Bomberman will be available to download on the iOS Apple Arcade this Friday (5th August).
+
+
+The release of Amazing Bomberman will introduce "musical mayhem to the storied series" and see players "use various bomb types to smash obstacles and collect special items as the stage changes to match different songs". You can check out the new trailer for it all below.
+ 
+Read more]]></summary>
+        <author>
+            <name>Victoria Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Survival Fest is live now until August 8th]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/steam-survival-fest-is-live-now-until-august-8th/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/steam-survival-fest-is-live-now-until-august-8th/"/>
+        <updated>2022-08-03T12:29:21.000Z</updated>
+        <summary type="html"><![CDATA[Yet another event is happening now on Steam with the Survival Fest, giving you a showcase of various games that in some way force you to survive the elements.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel 13th-Gen Raptor Lake Specs, Rumored Release Date, Benchmarks, and More]]></title>
+        <id>phD5H6ZPRfdX4oEQ6giK7N</id>
+        <link href="https://www.tomshardware.com/news/intel-13th-gen-raptor-lake-release-date-specifications-pricing-benchmarks-all-we-know-specs"/>
+        <updated>2022-08-03T12:19:03.000Z</updated>
+        <summary type="html"><![CDATA[Here's the Intel 13th-Gen Raptor Lake release date, benchmarks, specifications, pricing, and all we know about the new chip architecture.]]></summary>
+        <author>
+            <name>palcorn@outlook.com (Paul Alcorn)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi 4 gets a graphics bump with Vulkan 1.2 conformance]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/raspberry-pi-4-gets-a-graphics-bump-with-vulkan-12-conformance/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/raspberry-pi-4-gets-a-graphics-bump-with-vulkan-12-conformance/"/>
+        <updated>2022-08-03T12:13:34.000Z</updated>
+        <summary type="html"><![CDATA[Are you still enjoying your Raspberry Pi 4? Well, there's a graphics bump coming thanks to all the work in the drivers with it hitting Vulkan 1.2 conformance.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MSI Pro B660M-A DDR4 Motherboard Review: Pro Board on a Budget]]></title>
         <id>qqKu33ku4nMn3d2TsxGaPQ</id>

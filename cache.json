@@ -316,6 +316,26 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/08/steam-survival-fest-is-live-now-until-august-8th/",
+          "author": "Liam Dawe",
+          "description": "Yet another event is happening now on Steam with the Survival Fest, giving you a showcase of various games that in some way force you to survive the elements.",
+          "link": "https://www.gamingonlinux.com/2022/08/steam-survival-fest-is-live-now-until-august-8th/",
+          "publishedOn": "2022-08-03T12:29:21.000Z",
+          "wordCount": 1096,
+          "title": "Steam Survival Fest is live now until August 8th",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2011449596id21396gol.jpg"
+        },
+        {
+          "id": "https://www.gamingonlinux.com/2022/08/raspberry-pi-4-gets-a-graphics-bump-with-vulkan-12-conformance/",
+          "author": "Liam Dawe",
+          "description": "Are you still enjoying your Raspberry Pi 4? Well, there's a graphics bump coming thanks to all the work in the drivers with it hitting Vulkan 1.2 conformance.",
+          "link": "https://www.gamingonlinux.com/2022/08/raspberry-pi-4-gets-a-graphics-bump-with-vulkan-12-conformance/",
+          "publishedOn": "2022-08-03T12:13:34.000Z",
+          "wordCount": 1113,
+          "title": "Raspberry Pi 4 gets a graphics bump with Vulkan 1.2 conformance",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/tagline_gallery/raspberrypi.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/08/steamos-33-and-steam-deck-client-updates-released-for-all-users/",
           "author": "Liam Dawe",
           "description": "All the latest Beta and Preview changes from Valve have gone live with SteamOS 3.3 and all the Steam Deck Client updates are now available for all users.",
@@ -822,6 +842,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/new-bomberman-game-coming-to-apple-arcade",
+          "author": "Victoria Kennedy",
+          "description": "Apple Arcade users will soon be getting a new game in the Bomberman series to add to their collection.\r\n\n\r\nAmazing Bomberman will be available to download on the iOS Apple Arcade this Friday (5th August).\r\n\n\r\nThe release of Amazing Bomberman will introduce \"musical mayhem to the storied series\" and see players \"use various bomb types to smash obstacles and collect special items as the stage changes to match different songs\". You can check out the new trailer for it all below.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/new-bomberman-game-coming-to-apple-arcade",
+          "publishedOn": "2022-08-03T12:49:52.000Z",
+          "wordCount": 4452,
+          "title": "New Bomberman game coming to Apple Arcade",
+          "imageUrl": "https://assets.reedpopcdn.com/apple-arcade-bomberman.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/apple-arcade-bomberman.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/crystal-dynamics-issues-takedown-notice-following-tomb-raider-leak",
           "author": "Victoria Kennedy",
@@ -2917,6 +2947,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-6.0-Networking",
+          "author": null,
+          "description": "With the Linux 5.19 kernel there are some exciting networking improvements like big TCP support, PureLiFi drivers for light-based networking, WFX WiFi being promoted out of staging, and much more. Now with the in-development Linux 6.0 there is a lot more work in store...",
+          "link": "https://www.phoronix.com/news/Linux-6.0-Networking",
+          "publishedOn": "2022-08-03T13:00:01.000Z",
+          "wordCount": 1532,
+          "title": "Linux 6.0 Networking Brings Performance Optimizations, Early Preparations For WiFi 7",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/review/intel-1280p-windows-linux",
           "author": null,
           "description": "After recently looking at the AMD Rembrandt Windows 11 vs. Linux performance using the new Ryzen 7 PRO 6850U laptop SoC, you may be wondering about the latest Windows vs. Linux performance over on the Intel side with their latest \"Alder Lake P\" wares. If so, today's benchmarks are for you with putting the Core i7 1280P on Windows 11 up against Ubuntu 22.04 LTS and Intel's own Clear Linux platform.",
@@ -4270,6 +4310,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "phD5H6ZPRfdX4oEQ6giK7N",
+          "author": "palcorn@outlook.com (Paul Alcorn)",
+          "description": "Here's the Intel 13th-Gen Raptor Lake release date, benchmarks, specifications, pricing, and all we know about the new chip architecture.",
+          "link": "https://www.tomshardware.com/news/intel-13th-gen-raptor-lake-release-date-specifications-pricing-benchmarks-all-we-know-specs",
+          "publishedOn": "2022-08-03T12:19:03.000Z",
+          "wordCount": 24745,
+          "title": "Intel 13th-Gen Raptor Lake Specs, Rumored Release Date, Benchmarks, and More",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/ZYt6TgCrj7nQFdiiBNHeUG.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/ZYt6TgCrj7nQFdiiBNHeUG.jpg"
+        },
         {
           "id": "qqKu33ku4nMn3d2TsxGaPQ",
           "author": null,
