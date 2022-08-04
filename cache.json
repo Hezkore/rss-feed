@@ -3157,6 +3157,26 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Valve-Steam-Deck-In-Asia",
+          "author": null,
+          "description": "In addition to continuing to ramp up their Steam Deck production to fulfill existing pre-order reservations this calendar year thanks to addressing supply chain bottlenecks, Valve announced today that in partnership with Komodo they are bringing this Linux-powered gaming console to Asian markets...",
+          "link": "https://www.phoronix.com/news/Valve-Steam-Deck-In-Asia",
+          "publishedOn": "2022-08-04T00:45:19.000Z",
+          "wordCount": 1391,
+          "title": "Valve Expanding Steam Deck Availability To Asian Markets",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Mesa-22.2-rc1-Released",
+          "author": null,
+          "description": "After a few week delay to allow additional features to land, feature development on Mesa 22.2 has ended with Mesa 22.2-rc1 now being available ahead of its stable release in the coming weeks...",
+          "link": "https://www.phoronix.com/news/Mesa-22.2-rc1-Released",
+          "publishedOn": "2022-08-03T23:30:00.000Z",
+          "wordCount": 1793,
+          "title": "Mesa 22.2-rc1 Released With AMD RDNA3 & Intel Alchemist Primed, Vulkan Additions",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Google-GloFo-GF180MCU",
           "author": null,
           "description": "Over the past two years Google has been spearheading an effort to make silicon design more open-source and allowing more projects to get started in chip fabrication. That got started with a partnership with SkyWater Technology and Google covering the costs for open-source projects to see their initial chips fabricated on a 130nm process. Google's Open-Source Silicon Design Initiative recently announced SkyWater 90mm manufacturing will get underway for future manufacturing runs. Today the news out of Google's open-source group is that GlobalFoundries has joined this initiative and is providing 180nm manufacturing access...",
@@ -4651,6 +4671,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "KjcGXpdCaxTgSUvSE7wq5R",
+          "author": null,
+          "description": "Valve is opening reservations for the Steam Deck in Japan, South Korea, Hong Kong and Taiwan. It says it can do this without affecting estimates for North America, Europe and the UK.",
+          "link": "https://www.tomshardware.com/news/steam-deck-reservations-now-live-for-japan-taiwan-hong-kong-south-korea",
+          "publishedOn": "2022-08-04T00:00:00.000Z",
+          "wordCount": 17457,
+          "title": "Steam Deck Reservations Now Live for Japan, Taiwan, Hong Kong, South Korea",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/krwUrHEPv6XuPAxn73usxm.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/krwUrHEPv6XuPAxn73usxm.jpg"
+        },
+        {
           "id": "KC5jWopSEk7fro7jZRh2Ug",
           "author": null,
           "description": "Wi-Fi 7 may make Ethernet obsolete already in 2024 if everything goes well.",
@@ -5676,6 +5711,26 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1871426",
+          "author": "Dan Goodin",
+          "description": "SHARPEXT has slurped up thousands of emails in the past year and keeps getting better.",
+          "link": "https://arstechnica.com/?p=1871426",
+          "publishedOn": "2022-08-03T23:43:46.000Z",
+          "wordCount": 1975,
+          "title": "North Korea-backed hackers have a clever way to read your Gmail",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/gmail-targeting-malware-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1871427",
+          "author": "Beth Mole",
+          "description": "More people are getting seriously ill as BA.5 floods country and protection wanes.",
+          "link": "https://arstechnica.com/?p=1871427",
+          "publishedOn": "2022-08-03T22:36:49.000Z",
+          "wordCount": 1498,
+          "title": "With help from BA.5, new COVID hospitalizations quadrupled since April",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/05/GettyImages-1208282169-760x380.jpeg"
+        },
         {
           "id": "https://arstechnica.com/?p=1871375",
           "author": "Eric Berger",
