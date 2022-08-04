@@ -913,6 +913,26 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/spider-man-remastered-will-be-playable-on-steam-deck",
+          "author": "Ed Nightingale",
+          "description": "Spider-Man Remastered, the PC release of Sony's PS5 game, will be playable on the Steam Deck.\r\n\n\r\nInsomniac confirmed the news in a tweet, noting the game is Steam Deck verified.\r\n\n\r\nIt means you can swing through New York City on the go... in actual New York City if you want.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/spider-man-remastered-will-be-playable-on-steam-deck",
+          "publishedOn": "2022-08-04T10:51:51.000Z",
+          "wordCount": 4354,
+          "title": "Spider-Man Remastered will be playable on Steam Deck",
+          "imageUrl": "https://assets.reedpopcdn.com/spider-man-remastered-pc.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/spider-man-remastered-pc.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/microsofts-new-windows-11-widget-connects-to-your-game-pass-library",
+          "author": "Ishraq Subhan",
+          "description": "Microsoft has revealed a new widget for Windows, showcasing the latest games available on PC Game Pass.\r\n\n\r\nIt's the first widget to be released for Windows 11 since the operating system was released in October 2021.\r\n\n\r\nThe widget is currently under preview and only available to Windows Insiders running the latest Windows 11 Preview Build. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/microsofts-new-windows-11-widget-connects-to-your-game-pass-library",
+          "publishedOn": "2022-08-04T10:46:45.000Z",
+          "wordCount": 4404,
+          "title": "Microsoft's new Windows 11 widget connects to your Game Pass library",
+          "imageUrl": "https://assets.reedpopcdn.com/xbox-game-pass-tv-streaming-rumor-gamesbeat.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/xbox-game-pass-tv-streaming-rumor-gamesbeat.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/red-dead-online-a-playground-to-make-your-own-fun",
           "author": "Emma Kent",
           "description": "Have you ever met a cheater in Red Dead Online? I have - a few times, in fact. The latest encounter came at the worst possible moment, after I had spent an hour painstakingly hunting animals to fill up my wagon with pelts. I had set off on a trader mission across the map, opting for a risky long-haul voyage that left me open to attack.\nA potential shootout with a player was a risk I could accept: combating an invisible god-like assailant, however, was something I really hadn't signed up for. Out of nowhere, I was transformed into a flying saucer. It didn't take long for me to realise what was happening - Red Dead Online is notorious for its cheaters, and one of them had decided to spend their evening targeting me. \r\n\n\r\nIt turns out that driving a wagon as a spaceship is quite difficult. The ship was so vast that it obscured my view, and the glow from its lights made navigating the pitch-black desert almost impossible. Using my mini-map to steer, I somehow made my way to my destination, but my ordeal wasn't over quite yet. I had some bandits to deal with.\n Read more",
@@ -2130,6 +2150,16 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/the-sims-4-patch-gets-rid-of-aging-bug-and-incest-after-accidentally-adding-them",
+          "author": "Kelsey Raynor",
+          "description": "If you have spent any amount of time with The Sims 4, or even appreciating one of the communities many content creators, you'll know that the simulation title can be chaotic. Half the charm of The Sims 4 is undoubtedly wedding the weirdest of couples and ultimately finding unique ways to kill them off, but the latest bugs to plague players have taken this to an unprecedented level of strange.\nFollowing last weeks' free update to The Sims 4, which now allows players to choose the sexual orientation of their sims, a couple of unusual bugs emerged as a result.\nThe first of the bugs to emerge saw sims rapidly aging in a matter of minutes. For those who hate to look after toddlers, this wasn't a terrible thing, but seeing entire families turn into seniors was frustrating for many.\n Read more",
+          "link": "https://www.vg247.com/the-sims-4-patch-gets-rid-of-aging-bug-and-incest-after-accidentally-adding-them",
+          "publishedOn": "2022-08-04T11:11:43.000Z",
+          "wordCount": 4782,
+          "title": "The Sims 4 patch gets rid of aging bug and incest after accidentally adding them",
+          "imageUrl": "https://asset.vg247.com/TS4-High-School-3-(1).jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/TS4-High-School-3-(1).jpg"
+        },
+        {
           "id": "https://www.vg247.com/call-of-duty-modern-warfare-2-dmz-leak-escape-from-tarkov-rumour",
           "author": "Sherif Saed",
           "description": "It seems part of the plan at this point, but a few things from the upcoming Call of Duty: Modern Warfare 2 have leaked thanks to a private event with NFL players. \nActivision invited the Los Angeles Rams to play an early version of the multiplayer shooter this week, resulting in a few of the players showing content that's yet to be officially announced, before they deleted their tweets, replacing them with generic shots of event banners.\nNothing can ever be truly gone from the internet, however, so Call of Duty fans anxious for some new information about Modern Warfare 2 saved and analysed the images for all for all of us. The first one of these is a fairly benign shot of the game's lobby, which shows a similar layout to the more recent Call of Duty games.\n Read more",
@@ -3207,6 +3237,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-Accelerator-Subsystem-AI",
+          "author": null,
+          "description": "With there recently being a number of new driver proposals for various AI-focused accelerators for the Linux kernel, currently they either go into \"char/misc\" as the random catch-all area of the kernel or within the Direct Rendering Manager (DRM) subsystem traditionally used for GPU drivers. There's been yet another discussion happening this week over introducing a formal \"accelerator\" subsystem in the kernel for the growing number of AI devices that may be seeking to provide open-source drivers...",
+          "link": "https://www.phoronix.com/news/Linux-Accelerator-Subsystem-AI",
+          "publishedOn": "2022-08-04T10:55:30.000Z",
+          "wordCount": 1769,
+          "title": "There Is Another Debate Over An AI Accelerator Subsystem For Linux",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Intel-SGX2-Linux-6.0",
           "author": null,
           "description": "Back in 2020 with Linux 5.11 Intel SGX support was finally merged after undergoing 40+ revisions over the span of years. Fortunately, not taking as long is now Intel SGX2 support that is set to be mainlined with the new Linux 6.0 kernel...",
@@ -3643,6 +3683,16 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/crown-jewel-of-srpgs-tactics-ogre-reborn-comes-to-pc-on-november-11th",
+          "author": "CJ Wheeler",
+          "description": "Strategy RPG revamp Tactics Ogre: Reborn is coming to PC exclusively for Steam on November 11th, confirming earlier leaks. This “crown jewel” of tactical role-playing, according to Square Enix, is being updated with enhanced graphics and sound, fully-voiced cutscenes and a redesigned battle system. Watch the announcement trailer below and pretend it’s 1995 again.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/crown-jewel-of-srpgs-tactics-ogre-reborn-comes-to-pc-on-november-11th",
+          "publishedOn": "2022-08-04T10:40:03.000Z",
+          "wordCount": 4828,
+          "title": "\"Crown jewel” of SRPGs Tactics Ogre: Reborn comes to PC on November 11th",
+          "imageUrl": "https://assets2.rockpapershotgun.com/Tactics-Ogre-Reborn-main.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Tactics-Ogre-Reborn-main.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/multiversus-season-one-has-been-postponed-indefinitely",
           "author": "CJ Wheeler",
@@ -4770,6 +4820,36 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "vnsiEZTe49beWsoRouBYKH",
+          "author": null,
+          "description": "We're rounding up the best deals on CPUs.",
+          "link": "https://www.tomshardware.com/features/best-cpu-deals",
+          "publishedOn": "2022-08-04T10:56:28.000Z",
+          "wordCount": 18493,
+          "title": "Best CPU Deals: Save on AMD and Intel",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/GJnQxsii8vgdgDVZPGYHVD.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/GJnQxsii8vgdgDVZPGYHVD.jpg"
+        },
+        {
+          "id": "H8j8FJesm47HqhyoP9jdR9",
+          "author": null,
+          "description": "These are the best SSD and HDD deals — guaranteed to expand the storage on your PC without emptying your wallet.",
+          "link": "https://www.tomshardware.com/features/best-deals-on-ssds",
+          "publishedOn": "2022-08-04T10:49:03.000Z",
+          "wordCount": 19091,
+          "title": "Best SSD and Hard Drive Deals 2022",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/6crC2XE5J6sgVFWpvDbssN.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/6crC2XE5J6sgVFWpvDbssN.jpg"
+        },
         {
           "id": "LiTZA3R2xj7mjn9pYej7fE",
           "author": null,
@@ -6214,6 +6294,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291003",
+          "author": null,
+          "description": "Game Awards-avslöjande...? \"Mycket logiskt\".",
+          "link": "https://www.fz.se/artikel/291003-liket-lever-dead-island-2-pastas-avslojas-i-ar-ska-ha-kommit-hyfsat-langt",
+          "publishedOn": "2022-08-04T11:08:00.000Z",
+          "wordCount": 1931,
+          "title": "Liket!? Lever!? Dead Island 2 påstås avslöjas i år, ska ha kommit \"hyfsat\" långt",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291003"
+        },
+        {
           "id": "https://www.fz.se/artikel/290993",
           "author": null,
           "description": "Tick, tack. Vad är det du hör? Jo visst, det är skolklockan som snart ringer in.",
@@ -6790,6 +6880,16 @@
       "feedUrl": "https://www.sweclockers.com/feeds/nyheter",
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
+        {
+          "id": "https://www.sweclockers.com/artikel/34703",
+          "author": null,
+          "description": "Den här veckan består utmaningen av tio mystiska silhuetter. Kan du lista ut vad som gömmer sig bakom de olika skuggfigurerna?",
+          "link": "https://www.sweclockers.com/artikel/34703-quiz-identifiera-silhuetterna",
+          "publishedOn": "2022-08-04T10:42:23.000Z",
+          "wordCount": 1542,
+          "title": "Quiz: Identifiera silhuetterna",
+          "imageUrl": "https://www.sweclockers.com/artikel/34703/og-image"
+        },
         {
           "id": "https://www.sweclockers.com/artikel/34702",
           "author": null,
