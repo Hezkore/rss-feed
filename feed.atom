@@ -2,10 +2,88 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-04T19:18:57.479Z</updated>
+    <updated>2022-08-04T20:24:25.323Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Postpones Production of Meteor Lake's 3nm GPU Tile at TSMC, Trendforce Claims]]></title>
+        <id>BECDP6dyB2Zp8gzMmdwFiN</id>
+        <link href="https://www.tomshardware.com/news/intel-postpones-production-of-meteor-lake-3nm-gpu-tile"/>
+        <updated>2022-08-04T20:04:57.000Z</updated>
+        <summary type="html"><![CDATA[As Intel delays volume production of Meteor Lake's GPU Tile, TSMC might need to reconsider expansion plan.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypt Of The NecroDancer's developers just surprise announced a successor]]></title>
+        <id>https://www.rockpapershotgun.com/crypt-of-the-necrodancers-developers-just-surprise-announced-a-successor</id>
+        <link href="https://www.rockpapershotgun.com/crypt-of-the-necrodancers-developers-just-surprise-announced-a-successor"/>
+        <updated>2022-08-04T19:55:19.000Z</updated>
+        <summary type="html"><![CDATA[The developers of Crypt Of The NecroDancer just sneakily announced a followup. It's called Rift Of The NecroDancer, and it's a "standalone rhythm game in the NecroDancer universe." You can watch its surprise reveal below, at the end of the trailer for the newly released Synchrony DLC for Crypt Of The NecroDancer.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia GeForce GTX 1630 Review: Lobotomized Turing]]></title>
+        <id>85iX2zN2A5gzwEQXk9dJMG</id>
+        <link href="https://www.tomshardware.com/reviews/nvidia-geforce-gtx-1630-review"/>
+        <updated>2022-08-04T19:33:59.000Z</updated>
+        <summary type="html"><![CDATA[We tested Nvidia's GeForce GTX 1630, a blast from the past with half its "brain" removed. Turing TU117 was already slow, and Nvidia just made it even slower, but without the necessary accompanying price cut.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sherlock Holmes: The Awakened remake now has a trailer and Kickstarter]]></title>
+        <id>https://www.rockpapershotgun.com/sherlock-holmes-the-awakened-remake-now-has-a-trailer-and-kickstarter</id>
+        <link href="https://www.rockpapershotgun.com/sherlock-holmes-the-awakened-remake-now-has-a-trailer-and-kickstarter"/>
+        <updated>2022-08-04T19:30:47.000Z</updated>
+        <summary type="html"><![CDATA[My first encounter with Frogwares' Sherlock Holmes games was the Consolevania drubbing of Sherlock Holmes: The Awakened, but the series has come a long way since. Alice loved last year's Sherlock Holmes: Chapter One, which stars a young, hot Holmes.
+
+As CJ reported last week, Frogwares now intend to close the circle by pitting hot Holmes against (hot?) Cthulhu creatures in a remake of 2007's The Awakened. Its Kickstarter project launched today and there's a reveal trailer below.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Almost two years after Apple’s M1 launch, Microsoft Teams goes native]]></title>
+        <id>https://arstechnica.com/?p=1871531</id>
+        <link href="https://arstechnica.com/?p=1871531"/>
+        <updated>2022-08-04T19:22:33.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft says it will roll out incrementally "in the coming months."]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden administration declares monkeypox outbreak a public health emergency]]></title>
+        <id>https://arstechnica.com/?p=1871618</id>
+        <link href="https://arstechnica.com/?p=1871618"/>
+        <updated>2022-08-04T19:16:24.000Z</updated>
+        <summary type="html"><![CDATA[The US has the largest monkeypox case tally of any country in the world.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Key Russian official confirms his country’s commitment to the space station]]></title>
+        <id>https://arstechnica.com/?p=1871603</id>
+        <link href="https://arstechnica.com/?p=1871603"/>
+        <updated>2022-08-04T19:10:00.000Z</updated>
+        <summary type="html"><![CDATA["It was very heartening to hear the support across the board of the partnership."]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Koch Media have changed their name to Plaion]]></title>
         <id>https://www.rockpapershotgun.com/koch-media-have-changed-their-name-to-plaion</id>
@@ -382,6 +460,24 @@ Plus, additional bonuses will be unlocked for Galarian Zigzagoon Community Day o
 Read more]]></summary>
         <author>
             <name>Alice O'Connor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reproducible Builds: Reproducible Builds in July 2022]]></title>
+        <id>https://reproducible-builds.org/reports/2022-07/</id>
+        <link href="https://reproducible-builds.org/reports/2022-07/"/>
+        <updated>2022-08-04T15:35:26.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the July 2022 report from the Reproducible Builds project!
+In our reports we attempt to outline the most relevant things that have been going on in the past month. As a brief introduction, the reproducible builds effort is concerned with ensuring no flaws have been introduced during this compilation process by promising identical results are always generated from a given source, thus allowing multiple third-parties to come to a consensus on whether a build was compromised. As ever, if you are interested in contributing to the project, please visit our Contribute page on our website.
+
+Reproducible Builds summit 2022
+Despite several delays, we are pleased to announce that registration is open for our in-person summit this year:
+
+November 1st → November 3rd
+
+The event will happen i…]]></summary>
+        <author>
+            <name>Planet Debian</name>
         </author>
     </entry>
     <entry>
@@ -1263,6 +1359,29 @@ Nothing can ever be truly gone from the internet, however, so Call of Duty fans 
  Read more]]></summary>
         <author>
             <name>Sherif Saed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Abhijith PA: Trip to misty mountains in Munnar]]></title>
+        <id>https://abhijithpa.me/2022/Trip-to-misty-mountains-in-munnar/</id>
+        <link href="https://abhijithpa.me/2022/Trip-to-misty-mountains-in-munnar/"/>
+        <updated>2022-08-04T09:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Munnar is a hill station in Idukki district of Kerala, India. Home to 
+2nd largest tea plantation in the country. Lot of people 
+visit here on summer and in winter as well. I live in the neighboring district of Munnar though I never made a visit. In my mind I pictured Munnar as a Tourist trap 
+with lots of garbage lying around.
+I recently made a visit and it changed my perception of this place.
+
+Little background
+I never liked tea much. I am also not a coffee person either. But if I 
+have to choose over two that will be coffee because of the strong aroma. 
+Going to relatives house, they always offered hot tea defacto. I 
+always find difficult say ‘no’ to their friendly gesture. But I hate 
+tea.
+A generation before me drinks lot of tea here at my place. You can see 
+tea stalls in every corn…]]></summary>
+        <author>
+            <name>Planet Debian</name>
         </author>
     </entry>
     <entry>

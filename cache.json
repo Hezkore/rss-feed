@@ -4074,6 +4074,26 @@
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
         {
+          "id": "https://www.rockpapershotgun.com/crypt-of-the-necrodancers-developers-just-surprise-announced-a-successor",
+          "author": "Graham Smith",
+          "description": "The developers of Crypt Of The NecroDancer just sneakily announced a followup. It's called Rift Of The NecroDancer, and it's a \"standalone rhythm game in the NecroDancer universe.\" You can watch its surprise reveal below, at the end of the trailer for the newly released Synchrony DLC for Crypt Of The NecroDancer.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/crypt-of-the-necrodancers-developers-just-surprise-announced-a-successor",
+          "publishedOn": "2022-08-04T19:55:19.000Z",
+          "wordCount": 4705,
+          "title": "Crypt Of The NecroDancer's developers just surprise announced a successor",
+          "imageUrl": "https://assets2.rockpapershotgun.com/rift-of-the-nercrodancer-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/rift-of-the-nercrodancer-header.jpg"
+        },
+        {
+          "id": "https://www.rockpapershotgun.com/sherlock-holmes-the-awakened-remake-now-has-a-trailer-and-kickstarter",
+          "author": "Graham Smith",
+          "description": "My first encounter with Frogwares' Sherlock Holmes games was the Consolevania drubbing of Sherlock Holmes: The Awakened, but the series has come a long way since. Alice loved last year's Sherlock Holmes: Chapter One, which stars a young, hot Holmes.\r\n\nAs CJ reported last week, Frogwares now intend to close the circle by pitting hot Holmes against (hot?) Cthulhu creatures in a remake of 2007's The Awakened. Its Kickstarter project launched today and there's a reveal trailer below.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/sherlock-holmes-the-awakened-remake-now-has-a-trailer-and-kickstarter",
+          "publishedOn": "2022-08-04T19:30:47.000Z",
+          "wordCount": 4747,
+          "title": "Sherlock Holmes: The Awakened remake now has a trailer and Kickstarter",
+          "imageUrl": "https://assets2.rockpapershotgun.com/Sherlock-Holmes-The-Awakened-remake.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Sherlock-Holmes-The-Awakened-remake.jpg"
+        },
+        {
           "id": "https://www.rockpapershotgun.com/koch-media-have-changed-their-name-to-plaion",
           "author": "Graham Smith",
           "description": "If you're changing your company's name in part because it's hard to pronounce, you'd presumably want to change it to something with zero ambiguity. Seemingly not, if publisher Koch Media are any indication, as they announced today that they've changed their name to Plaion. At least the mispronunciations are now lower stakes.\r\n\n \nRead more",
@@ -5371,6 +5391,36 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "BECDP6dyB2Zp8gzMmdwFiN",
+          "author": null,
+          "description": "As Intel delays volume production of Meteor Lake's GPU Tile, TSMC might need to reconsider expansion plan.",
+          "link": "https://www.tomshardware.com/news/intel-postpones-production-of-meteor-lake-3nm-gpu-tile",
+          "publishedOn": "2022-08-04T20:04:57.000Z",
+          "wordCount": 18413,
+          "title": "Intel Postpones Production of Meteor Lake's 3nm GPU Tile at TSMC, Trendforce Claims",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/BueuEFFESMHpkrbvGQapCU.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/BueuEFFESMHpkrbvGQapCU.jpg"
+        },
+        {
+          "id": "85iX2zN2A5gzwEQXk9dJMG",
+          "author": null,
+          "description": "We tested Nvidia's GeForce GTX 1630, a blast from the past with half its \"brain\" removed. Turing TU117 was already slow, and Nvidia just made it even slower, but without the necessary accompanying price cut.",
+          "link": "https://www.tomshardware.com/reviews/nvidia-geforce-gtx-1630-review",
+          "publishedOn": "2022-08-04T19:33:59.000Z",
+          "wordCount": 18297,
+          "title": "Nvidia GeForce GTX 1630 Review: Lobotomized Turing",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/P3if5kqcBRMfC7L5jNPUYf.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/P3if5kqcBRMfC7L5jNPUYf.jpg"
+        },
+        {
           "id": "Eqf47vTTAmbMupUHfqZEjA",
           "author": "francisco.pires@outlook.com (Francisco Pires)",
           "description": "A team of Chinese researchers put 512 GPUs and a \"super algorithm\" through their paces in an attempt to solve the same theoretical problem that Google crunched with its Sycamore quantum computer back in 2019. The result proves that there's still a long way ahead for quantum supremacy - but the road is being walked as we speak.",
@@ -6128,6 +6178,26 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "https://reproducible-builds.org/reports/2022-07/",
+          "author": null,
+          "description": "Welcome to the July 2022 report from the Reproducible Builds project!\nIn our reports we attempt to outline the most relevant things that have been going on in the past month. As a brief introduction, the reproducible builds effort is concerned with ensuring no flaws have been introduced during this compilation process by promising identical results are always generated from a given source, thus allowing multiple third-parties to come to a consensus on whether a build was compromised. As ever, if you are interested in contributing to the project, please visit our Contribute page on our website.\n\nReproducible Builds summit 2022\nDespite several delays, we are pleased to announce that registration is open for our in-person summit this year:\n\nNovember 1st → November 3rd\n\nThe event will happen i…",
+          "link": "https://reproducible-builds.org/reports/2022-07/",
+          "publishedOn": "2022-08-04T15:35:26.000Z",
+          "wordCount": 1297,
+          "title": "Reproducible Builds: Reproducible Builds in July 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://abhijithpa.me/2022/Trip-to-misty-mountains-in-munnar/",
+          "author": null,
+          "description": "Munnar is a hill station in Idukki district of Kerala, India. Home to \n2nd largest tea plantation in the country. Lot of people \nvisit here on summer and in winter as well. I live in the neighboring district of Munnar though I never made a visit. In my mind I pictured Munnar as a Tourist trap \nwith lots of garbage lying around.\nI recently made a visit and it changed my perception of this place.\n\nLittle background\nI never liked tea much. I am also not a coffee person either. But if I \nhave to choose over two that will be coffee because of the strong aroma. \nGoing to relatives house, they always offered hot tea defacto. I \nalways find difficult say ‘no’ to their friendly gesture. But I hate \ntea.\nA generation before me drinks lot of tea here at my place. You can see \ntea stalls in every corn…",
+          "link": "https://abhijithpa.me/2022/Trip-to-misty-mountains-in-munnar/",
+          "publishedOn": "2022-08-04T09:53:00.000Z",
+          "wordCount": 600,
+          "title": "Abhijith PA: Trip to misty mountains in Munnar",
+          "imageUrl": "/images/favicons/favicon-194x194.png"
+        },
+        {
           "id": "http://blog.sesse.net/blog/tech/2022-08-02-23-11_av1_live_streaming_the_bitrate_difference.html",
           "author": null,
           "description": "As part of looking into AV1, I wanted to get a feel for what kind of bitrate\nto aim for. Of course, Intel and others have made exquisite graphs containing\nresults for many different encoders (although they might have wanted to spend\na little more pixels on that latest one…), but you always feel suspicious\nthat the results might be a bit cherry-picked. In particular, SVT-AV1 always\nseems to run on pretty wide machines (in this case, 48 cores/96 threads),\nand I wondered whether this was the primary reason for it doing so ell.\nSo I made my own test, with the kind of footage I care about (a sports clip)\nat the speeds that I care about (realtime).\nI intentionally restricted the encoders to 16 cores (no HT, since that was\nthe easiest), and tried various bitrates until I hit VMAF 85, which felt l…",
@@ -6661,6 +6731,36 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1871531",
+          "author": "Samuel Axon",
+          "description": "Microsoft says it will roll out incrementally \"in the coming months.\"",
+          "link": "https://arstechnica.com/?p=1871531",
+          "publishedOn": "2022-08-04T19:22:33.000Z",
+          "wordCount": 1417,
+          "title": "Almost two years after Apple’s M1 launch, Microsoft Teams goes native",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/Mac-Light-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1871618",
+          "author": "Beth Mole",
+          "description": "The US has the largest monkeypox case tally of any country in the world.",
+          "link": "https://arstechnica.com/?p=1871618",
+          "publishedOn": "2022-08-04T19:16:24.000Z",
+          "wordCount": 1746,
+          "title": "Biden administration declares monkeypox outbreak a public health emergency",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1412757326-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1871603",
+          "author": "Eric Berger",
+          "description": "\"It was very heartening to hear the support across the board of the partnership.\"",
+          "link": "https://arstechnica.com/?p=1871603",
+          "publishedOn": "2022-08-04T19:10:00.000Z",
+          "wordCount": 1676,
+          "title": "Key Russian official confirms his country’s commitment to the space station",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/NHQ201910250033_medium-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1871583",
           "author": "Jon Brodkin",
