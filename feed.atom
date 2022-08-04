@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-04T03:57:47.117Z</updated>
+    <updated>2022-08-04T04:54:12.296Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MGLRU & Maple Tree Miss Out On Linux 6.0 But Will Aim For Linux 6.1]]></title>
+        <id>https://www.phoronix.com/news/MGLRU-Maple-Tree-Miss-6.0</id>
+        <link href="https://www.phoronix.com/news/MGLRU-Maple-Tree-Miss-6.0"/>
+        <updated>2022-08-04T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A lot of great features are landing for Linux 6.0 but two more are now confirmed to partake in this next major kernel version: Multi-Gen LRU (MGLRU) and the Maple Leaf data structure...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Far Cry 6 kan spelas gratis i helgen]]></title>
         <id>https://www.fz.se/artikel/290997</id>
