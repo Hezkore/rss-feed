@@ -316,6 +316,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/08/heres-the-current-most-played-games-on-steam-deck/",
+          "author": "Liam Dawe",
+          "description": "A little while ago Valve showed the current top 10 most played games on Steam Deck and now we have an update on what people are currently playing.",
+          "link": "https://www.gamingonlinux.com/2022/08/heres-the-current-most-played-games-on-steam-deck/",
+          "publishedOn": "2022-08-04T08:42:19.000Z",
+          "wordCount": 1141,
+          "title": "Here's the current most-played games on Steam Deck",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1517218452id21403gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/08/valve-teams-with-komodo-to-bring-the-steam-deck-to-asia/",
           "author": "Liam Dawe",
           "description": "Some huge news for the future of the Steam Deck, as Valve has announced a teaming up with Komodo for the release of the Steam Deck in Asia.",
@@ -902,6 +912,26 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/red-dead-online-a-playground-to-make-your-own-fun",
+          "author": "Emma Kent",
+          "description": "Have you ever met a cheater in Red Dead Online? I have - a few times, in fact. The latest encounter came at the worst possible moment, after I had spent an hour painstakingly hunting animals to fill up my wagon with pelts. I had set off on a trader mission across the map, opting for a risky long-haul voyage that left me open to attack.\nA potential shootout with a player was a risk I could accept: combating an invisible god-like assailant, however, was something I really hadn't signed up for. Out of nowhere, I was transformed into a flying saucer. It didn't take long for me to realise what was happening - Red Dead Online is notorious for its cheaters, and one of them had decided to spend their evening targeting me. \r\n\n\r\nIt turns out that driving a wagon as a spaceship is quite difficult. The ship was so vast that it obscured my view, and the glow from its lights made navigating the pitch-black desert almost impossible. Using my mini-map to steer, I somehow made my way to my destination, but my ordeal wasn't over quite yet. I had some bandits to deal with.\n Read more",
+          "link": "https://www.eurogamer.net/red-dead-online-a-playground-to-make-your-own-fun",
+          "publishedOn": "2022-08-04T09:04:48.000Z",
+          "wordCount": 6443,
+          "title": "Red Dead Online - an untamed playground to make your own fun",
+          "imageUrl": "https://assets.reedpopcdn.com/RDROnline-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/RDROnline-header.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/rare-talks-captaincy-personalisation-and-waterfalls-ahead-of-sea-of-thieves-big-new-update",
+          "author": "Matt Wales",
+          "description": "For those who've been with Sea of Thieves since its release back in 2018, the captaincy update is a thing of legend; originally intended to be the multiplayer pirate adventure's very first post-launch update, it would give players the opportunity to acquire their own persistent vessel on the seas, and - in a proposition that still excites the pirate in me to this day - start their sessions in a gloriously dramatic fashion, bursting through the Legendary Hideout's massive waterfall out into the world. But then Sea of Thieves' slightly wobbly launch happened, and Rare shifted its focus to fleshing out the game's sandbox following criticism of its limited core. With that, the captaincy update was set aside, but never quite forgotten by the player base, gradually becoming the stuff of legend with the passing of time.\r\n\n\r\nBut then, earlier this year, it returned. As announced during Microsoft's June showcase, captaincy and boat ownership were, after all this time, back on the cards. Now, the wait is finally over, with Sea of Thieves' near-five-years-in-the-making captaincy update launching later today. It promises to deliver an elaborate new framework for adventures to come - minus any waterfall-busting ship shenanigans, unfortunately - and ahead of its arrival Eurogamer had the opportunity to chat with Rare about what it hopes captaincy will bring to the Sea of Thieves.\r\n\n\r\n\"I think even before we released Sea of Thieves,\" explains creative director Mike Chapman on the update's genesis, \"we all knew that the idea of being a ship captain in a game about delivering the ultimate pirate fantasy - the idea of a ship captain, and that ship captain's identity being personified through a ship - was just something that we always wanted to do.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/rare-talks-captaincy-personalisation-and-waterfalls-ahead-of-sea-of-thieves-big-new-update",
+          "publishedOn": "2022-08-04T09:00:00.000Z",
+          "wordCount": 6304,
+          "title": "Rare talks captaincy, personalisation, and waterfalls ahead of Sea of Thieves' big new update",
+          "imageUrl": "https://assets.reedpopcdn.com/sea-of-thieves-captaincy-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sea-of-thieves-captaincy-header.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/nba-2k23-bigs-up-authenticity-in-detailed-new-gameplay-breakdown",
           "author": "Matt Wales",
@@ -3167,6 +3197,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Vulkan-1.3.224-Released",
+          "author": null,
+          "description": "Vulkan 1.3.224 was released earlier today and with this spec update comes VK_EXT_attachment_feedback_loop_layout as another extension started by Valve developers and will help their Steam Play (Proton) efforts...",
+          "link": "https://www.phoronix.com/news/Vulkan-1.3.224-Released",
+          "publishedOn": "2022-08-04T09:04:24.000Z",
+          "wordCount": 1413,
+          "title": "Vulkan 1.3.224 Introduces Another New Extension To Help Valve's Steam Play",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/MGLRU-Maple-Tree-Miss-6.0",
           "author": null,
           "description": "A lot of great features are landing for Linux 6.0 but two more are now confirmed to partake in this next major kernel version: Multi-Gen LRU (MGLRU) and the Maple Leaf data structure...",
@@ -4691,6 +4731,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "LiTZA3R2xj7mjn9pYej7fE",
+          "author": null,
+          "description": "The Gigabyte UD750GM won't give any trouble to the competition, but it has a reasonable price tag.",
+          "link": "https://www.tomshardware.com/reviews/gigabyte-ud750gm-power-supply-review",
+          "publishedOn": "2022-08-04T09:00:07.000Z",
+          "wordCount": 20487,
+          "title": "Gigabyte UD750GM Power Supply Review",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/AbfpkNvWV49JhJERDXYznk.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/AbfpkNvWV49JhJERDXYznk.jpg"
+        },
+        {
           "id": "KjcGXpdCaxTgSUvSE7wq5R",
           "author": null,
           "description": "Valve is opening reservations for the Steam Deck in Japan, South Korea, Hong Kong and Taiwan. It says it can do this without affecting estimates for North America, Europe and the UK.",
@@ -6118,6 +6173,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291002",
+          "author": null,
+          "description": "Rykten, rykten. Vem ska man tro på, tro på?",
+          "link": "https://www.fz.se/artikel/291002-utover-black-panther-pastas-ea-ha-ett-singleplayer-spel-pa-gang-med-iron-man",
+          "publishedOn": "2022-08-04T09:12:00.000Z",
+          "wordCount": 1807,
+          "title": "Utöver Black Panther påstås EA ha ett singleplayer-spel på gång – med Iron Man?",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291002"
+        },
         {
           "id": "https://www.fz.se/artikel/291001",
           "author": null,
