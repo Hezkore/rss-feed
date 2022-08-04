@@ -5646,16 +5646,6 @@
           "wordCount": 1060,
           "title": "Russ Allbery: Review: A Master of Djinn",
           "imageUrl": null
-        },
-        {
-          "id": "http://blogs.igalia.com/berto/?p=783",
-          "author": null,
-          "description": "Introduction\nThe Steam Deck is a handheld gaming computer that runs a Linux-based operating system called SteamOS. The machine comes with SteamOS 3 (code name “holo”), which is in turn based on Arch Linux.\nAlthough there is no SteamOS 3 installer for a generic PC (yet), it is very easy to install on a virtual machine using QEMU. This post explains how to do it.\nThe goal of this VM is not to play games (you can already install Steam on your computer after all) but to use SteamOS in desktop mode. The Gamescope mode (the console-like interface you normally see when you use the machine) requires additional development to make it work with QEMU and will not work with these instructions.\nA SteamOS VM can be useful for debugging, development, and generally playing and tinkering with the OS withou…",
-          "link": "https://blogs.igalia.com/berto/2022/07/05/running-the-steam-decks-os-in-a-virtual-machine-using-qemu/",
-          "publishedOn": "2022-07-05T19:11:37.000Z",
-          "wordCount": 2301,
-          "title": "Alberto García: Running the Steam Deck’s OS in a virtual machine using QEMU",
-          "imageUrl": null
         }
       ]
     },
@@ -6118,6 +6108,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/290998",
+          "author": null,
+          "description": "Kanske en Modern Warfare 2-expansion?",
+          "link": "https://www.fz.se/artikel/290998-call-of-duty-ska-fa-premiuminnehall-dlc-istallet-for-nytt-spel-nasta-ar",
+          "publishedOn": "2022-08-04T06:59:00.000Z",
+          "wordCount": 1835,
+          "title": "Call of Duty ska få \"premiuminnehåll\" – DLC istället för nytt spel nästa år?",
+          "imageUrl": "https://www.fz.se/artikel/og-image/290998"
+        },
         {
           "id": "https://www.fz.se/artikel/290997",
           "author": null,
