@@ -3587,6 +3587,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-6.0-KVM",
+          "author": null,
+          "description": "There are a few notable changes worth mentioning when it comes to KVM virtualization with Linux 6.0...",
+          "link": "https://www.phoronix.com/news/Linux-6.0-KVM",
+          "publishedOn": "2022-08-04T18:47:41.000Z",
+          "wordCount": 1444,
+          "title": "Linux 6.0 KVM Brings Intel IPI Virtualization, AMD x2AVIC",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Ubuntu-22.04.1-LTS-Delayed",
           "author": null,
           "description": "Ubuntu 22.04.1 LTS had been due for release today but has now been pushed back by one week after discovering an installer issue that led to Snaps like the default Mozilla Firefox browser failing to launch once installed...",
@@ -4063,6 +4073,16 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/koch-media-have-changed-their-name-to-plaion",
+          "author": "Graham Smith",
+          "description": "If you're changing your company's name in part because it's hard to pronounce, you'd presumably want to change it to something with zero ambiguity. Seemingly not, if publisher Koch Media are any indication, as they announced today that they've changed their name to Plaion. At least the mispronunciations are now lower stakes.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/koch-media-have-changed-their-name-to-plaion",
+          "publishedOn": "2022-08-04T18:54:38.000Z",
+          "wordCount": 4680,
+          "title": "Koch Media have changed their name to Plaion",
+          "imageUrl": "https://assets2.rockpapershotgun.com/plaion-logo.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/plaion-logo.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/beyond-good-evil-2-has-a-new-lead-writer-and-still-exists",
           "author": "Graham Smith",
@@ -5351,6 +5371,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "Eqf47vTTAmbMupUHfqZEjA",
+          "author": "francisco.pires@outlook.com (Francisco Pires)",
+          "description": "A team of Chinese researchers put 512 GPUs and a \"super algorithm\" through their paces in an attempt to solve the same theoretical problem that Google crunched with its Sycamore quantum computer back in 2019. The result proves that there's still a long way ahead for quantum supremacy - but the road is being walked as we speak.",
+          "link": "https://www.tomshardware.com/news/computer-with-512-gpus-tests-googles-quantum-supremacy-claim",
+          "publishedOn": "2022-08-04T18:18:47.000Z",
+          "wordCount": 17699,
+          "title": "Computer With 512 GPUs Tests Google's 'Quantum Supremacy' Claim",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/CDqAvUjANSzwKTY5fKtiZc.jpeg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/CDqAvUjANSzwKTY5fKtiZc.jpeg"
+        },
+        {
           "id": "cXhN5wVPUrFUd9ahpEusNJ",
           "author": null,
           "description": "Whether you're having technical issues or errors, are preparing to sell your PC, or things just aren't running right, it may be time to reset Windows 10 or 11.",
@@ -6627,6 +6662,56 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1871583",
+          "author": "Jon Brodkin",
+          "description": "Confidential settlements could lead to more terminations of Internet subscribers.",
+          "link": "https://arstechnica.com/?p=1871583",
+          "publishedOn": "2022-08-04T18:26:25.000Z",
+          "wordCount": 1794,
+          "title": "Record labels’ war on ISPs and piracy nets multiple settlements with Charter",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-keyboard-pirate-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1871545",
+          "author": "Ashley Belanger",
+          "description": "Visa can now only be used on MindGeek sites featuring \"legal adult entertainment.\"",
+          "link": "https://arstechnica.com/?p=1871545",
+          "publishedOn": "2022-08-04T17:43:53.000Z",
+          "wordCount": 1602,
+          "title": "Accused of profiting on child sexual abuse, Visa halts Pornhub ad payments",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1365234919-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1871493",
+          "author": "Ron Amadeo",
+          "description": "Duo is being rebranded to Google Meet, and old Google Meet is still sticking around?",
+          "link": "https://arstechnica.com/?p=1871493",
+          "publishedOn": "2022-08-04T17:26:25.000Z",
+          "wordCount": 1765,
+          "title": "Google’s video chat merger begins: Now there are two “Google Meet” apps",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/17-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1871474",
+          "author": "Scharon Harding",
+          "description": "Intel sees enough time before Wi-Fi 7's release date to improve processing speeds.",
+          "link": "https://arstechnica.com/?p=1871474",
+          "publishedOn": "2022-08-04T17:18:26.000Z",
+          "wordCount": 1515,
+          "title": "Wi-Fi 7 PCs should be available by 2025, could surpass 5.8Gbps, Intel says",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-951894836-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1871488",
+          "author": "Kevin Purdy",
+          "description": "It's too early to assume Thread products mean easy compatibility—or Matter support.",
+          "link": "https://arstechnica.com/?p=1871488",
+          "publishedOn": "2022-08-04T17:13:38.000Z",
+          "wordCount": 1445,
+          "title": "Wemo’s confused Smart Dimmer shows how hard standardizing IoT may be",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/Wemo-Dimmer_lifestyle-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1871522",
           "author": "Jonathan M. Gitlin",
           "description": "Chattanooga is now assembling the EV crossovers with 62 kWh or 82 kWh packs.",
@@ -7053,6 +7138,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291009",
+          "author": null,
+          "description": "Kvällsmys! Kvällsrys!",
+          "link": "https://www.fz.se/artikel/291009-fanskapad-unreal-engine-5-trailer-for-hur-indiana-jones-spelet-skulle-kunna-se-ut",
+          "publishedOn": "2022-08-04T18:30:00.000Z",
+          "wordCount": 1808,
+          "title": "Fanskapad Unreal Engine 5-trailer för hur Indiana Jones-spelet skulle kunna se ut",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291009"
+        },
         {
           "id": "https://www.fz.se/artikel/291008",
           "author": null,
