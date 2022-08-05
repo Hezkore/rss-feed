@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-05T20:23:49.271Z</updated>
+    <updated>2022-08-05T21:19:44.567Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
@@ -1237,6 +1237,16 @@ I have now been part of the Eurogamer team for six wonderful months (woo). Howev
         <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
         <author>
             <name>Explosm.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asking Scientists Questions]]></title>
+        <id>https://xkcd.com/2655/</id>
+        <link href="https://xkcd.com/2655/"/>
+        <updated>2022-08-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/asking_scientists_questions.png" title="'Does the substance feel weird to the touch?' is equally likely to get the answers 'Don't be ridiculous, you would never put your hand near a sample. We have safety protocols.' and 'Yeah, and it tastes AWFUL.'" alt="'Does the substance feel weird to the touch?' is equally likely to get the answers 'Don't be ridiculous, you would never put your hand near a sample. We have safety protocols.' and 'Yeah, and it tastes AWFUL.'" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
