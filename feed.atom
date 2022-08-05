@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-05T18:28:14.612Z</updated>
+    <updated>2022-08-05T19:18:32.032Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Steam Beta Allows PC Gamers to Use Nintendo Joy-Con Controllers]]></title>
+        <id>zEzWxVn3MceEiQhwfAqwc8</id>
+        <link href="https://www.tomshardware.com/news/nintendo-joy-cons-steam-pc"/>
+        <updated>2022-08-05T18:31:40.000Z</updated>
+        <summary type="html"><![CDATA[If you have a Nintendo Switch in the house, you now have two spare Bluetooth PC game controllers. Available in the beta client for now, alongside improved Nintendo Online Classic controller support.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sämre kvartal för Square Enix, räddas delvis av Final Fantasy XIV]]></title>
+        <id>https://www.fz.se/artikel/291023</id>
+        <link href="https://www.fz.se/artikel/291023-samre-kvartal-for-square-enix-raddas-delvis-av-final-fantasy-xiv"/>
+        <updated>2022-08-05T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Andra spel går inte alls lika bra.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DreamWorks Animation To Open-Source MoonRay Renderer]]></title>
         <id>https://www.phoronix.com/news/DreamWorks-MoonRay-Open-Source</id>
