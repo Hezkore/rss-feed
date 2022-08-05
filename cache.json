@@ -3607,6 +3607,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-6.0-USB-Thunderbolt",
+          "author": null,
+          "description": "Greg Kroah-Hartman has submitted all of the USB and Thunderbolt driver changes targeting the Linux 6.0 kernel of which there is a lot of new hardware enablement and enhancements to existing driver support...",
+          "link": "https://www.phoronix.com/news/Linux-6.0-USB-Thunderbolt",
+          "publishedOn": "2022-08-04T23:31:07.000Z",
+          "wordCount": 1518,
+          "title": "Intel Raptor Lake Thunderbolt, CL1 Low-Power State Coming With Linux 6.0",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-6.0-KVM",
           "author": null,
           "description": "There are a few notable changes worth mentioning when it comes to KVM virtualization with Linux 6.0...",
@@ -5411,6 +5421,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "jBy6rbDkn7ZXSYyGvCirt5",
+          "author": null,
+          "description": "Asus, ASRock, Biostar, Gigabyte, and MSI reveal upcoming AM5 motherboards for AMD's Ryzen 7000-series Zen 4 (Raphael) processors.",
+          "link": "https://www.tomshardware.com/news/vendors-show-off-first-x670-x670e-am5-motherboards-for-zen-4-cpus",
+          "publishedOn": "2022-08-05T00:57:34.000Z",
+          "wordCount": 19734,
+          "title": "Vendors Show Off First X670, X670E AM5 Motherboards for Zen 4 CPUs",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/yUh7Rcy3d9ib5BFjybV9kP.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/yUh7Rcy3d9ib5BFjybV9kP.png"
+        },
+        {
           "id": "BECDP6dyB2Zp8gzMmdwFiN",
           "author": null,
           "description": "As Intel delays volume production of Meteor Lake's GPU Tile, TSMC might need to reconsider expansion plan.",
@@ -6751,6 +6776,16 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1871767",
+          "author": "Dan Goodin",
+          "description": "Hackers can disrupt legit warnings or issue fake ones of their own.",
+          "link": "https://arstechnica.com/?p=1871767",
+          "publishedOn": "2022-08-05T00:32:44.000Z",
+          "wordCount": 1611,
+          "title": "“Huge flaw” threatens US emergency alert system, DHS researcher warns",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/emergency-760x380.jpeg"
+        },
         {
           "id": "https://arstechnica.com/?p=1871675",
           "author": "Aurich Lawson",
