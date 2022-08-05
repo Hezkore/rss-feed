@@ -2,10 +2,126 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-05T14:22:05.424Z</updated>
+    <updated>2022-08-05T15:24:53.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GNU Binutils 2.39 Released - ELF Linker Now Warns If A Stack Is Made Executable]]></title>
+        <id>https://www.phoronix.com/news/GNU-Binutils-2.39-Released</id>
+        <link href="https://www.phoronix.com/news/GNU-Binutils-2.39-Released"/>
+        <updated>2022-08-05T15:16:28.000Z</updated>
+        <summary type="html"><![CDATA[Following the release of GNU Glibc 2.36 earlier this week, GNU Binutils 2.39 released today for this common set of binary utilities on open-source systems...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi Gives 80s-Era Typewriter a New Lease on Life]]></title>
+        <id>5GivWBhFZyXeJUcB3Czr9X</id>
+        <link href="https://www.tomshardware.com/news/typewriter-hacked-with-raspberry-pi"/>
+        <updated>2022-08-05T15:00:44.000Z</updated>
+        <summary type="html"><![CDATA[Ingenuous hacker uses Raspberry Pi and Arduino boards to output a Linux Terminal on a typewriter form the '80s.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Det här spelar FZ i helgen - Vad spelar du?]]></title>
+        <id>https://www.fz.se/artikel/291019</id>
+        <link href="https://www.fz.se/artikel/291019-det-har-spelar-fz-i-helgen-vad-spelar-du"/>
+        <updated>2022-08-05T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Björnbestyr, pizzaälskande skölpaddor, vilsna katter med mera. Det blir en fin spelhelg.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mario Kart 8 Deluxe's unmissable second DLC polishes some of the series' best tracks]]></title>
+        <id>https://www.eurogamer.net/mario-kart-8-deluxes-unmissable-second-dlc-polishes-some-of-the-series-best-tracks</id>
+        <link href="https://www.eurogamer.net/mario-kart-8-deluxes-unmissable-second-dlc-polishes-some-of-the-series-best-tracks"/>
+        <updated>2022-08-05T14:55:24.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo has finally delivered its second dollop of downloadable tracks for Mario Kart 8 Deluxe, and it's a doozy. Some of Mario Kart's finest moments are included here, alongside a few other enjoyable additions, throwbacks, and a brand-new entry. 
+As with the first wave, Nintendo has added eight courses divided into two cups. (Sadly, there's still no sign of extra kart pieces or characters, including Birdo.) And if you're not up to speed (sorry), players have already worked out what many other upcoming DLC courses will likely be. 
+
+Up first  is New York Minute, a lively track from mobile game Mario Kart Tour's roster featuring a checklist of city landmarks. I'll get this out the way now - I am not enamoured with Mario Kart Tour, and the Mushroom Kingdom purist in me bristles at the inclusion of real-world cities. 
+ 
+Read more]]></summary>
+        <author>
+            <name>Tom Phillips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Descenders is a fun mountain biking game wrapped in a bland roguelike]]></title>
+        <id>https://www.rockpapershotgun.com/descenders-is-a-bland-roguelike-but-a-lovely-mountain-biking-game</id>
+        <link href="https://www.rockpapershotgun.com/descenders-is-a-bland-roguelike-but-a-lovely-mountain-biking-game"/>
+        <updated>2022-08-05T14:51:11.000Z</updated>
+        <summary type="html"><![CDATA[I don't think I like the game Descenders ostensibly is, but I enjoy playing. It's a downhill mountain biking game with dangerous speeds and even more dangerous stunts, including leaping through a ring of fire over of a moving train. This is fun. The roguelikelike campaign structure this is all built into, eh, I don't think it has added any enjoyment. But it is very fun to stack a double-backflip, slam into a rock, and watch your ragdoll corpse rocket downhill. It's a good reminder to ride whichever way you enjoy, expectations and pressures be damned.
+Read more]]></summary>
+        <author>
+            <name>Alice O'Connor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open source game development advances with Godot Engine 3.5 out now]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/open-source-game-development-advances-with-godot-engine-35-out-now/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/open-source-game-development-advances-with-godot-engine-35-out-now/"/>
+        <updated>2022-08-05T14:48:24.000Z</updated>
+        <summary type="html"><![CDATA[Godot Engine, the free and open source full game development engine has a big new release available with version 3.5.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon buys Roomba maker for $1.7 billion]]></title>
+        <id>https://arstechnica.com/?p=1871788</id>
+        <link href="https://arstechnica.com/?p=1871788"/>
+        <updated>2022-08-05T14:40:31.000Z</updated>
+        <summary type="html"><![CDATA[Amazon says it wants to help customers handle chores like vacuuming.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Confirms Poor Arc GPU DX11 Performance Is a Work in Progress]]></title>
+        <id>4kN23jtiz8vKFvdVSv4BaW</id>
+        <link href="https://www.tomshardware.com/news/poor-dx11-performance-arc-gpus-constant-work-in-progress"/>
+        <updated>2022-08-05T14:39:13.000Z</updated>
+        <summary type="html"><![CDATA[Intel's poor performance on its Arc GPUs surrounding DirectX 11 games, will be a constant issue, that will take a lot of time to work out.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayStation 3 emulator RPCS3 gets Save States support]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/playstation-3-emulator-rpcs3-gets-save-states-support/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/playstation-3-emulator-rpcs3-gets-save-states-support/"/>
+        <updated>2022-08-05T14:28:47.000Z</updated>
+        <summary type="html"><![CDATA[A huge advancement for the PlayStation 3 emulator project RPCS3 as it now has support for RPCS3, which is pretty awesome.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stardew Valley-skaparen släpper ett litet livstecken från Haunted Chocolatier]]></title>
+        <id>https://www.fz.se/artikel/291021</id>
+        <link href="https://www.fz.se/artikel/291021-stardew-valley-skaparen-slapper-ett-litet-livstecken-fran-haunted-chocolatier"/>
+        <updated>2022-08-05T14:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Vilket räcker för att få 80 000 likes.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google and GloFo to Collaborate in Open-Source Chip-Making Venture]]></title>
+        <id>sfGzPrSvb2BpEGsZgxM4gG</id>
+        <link href="https://www.tomshardware.com/news/google-gloflo-open-source-chips"/>
+        <updated>2022-08-05T14:12:49.000Z</updated>
+        <summary type="html"><![CDATA[The partners are encouraging students, hobbyists, engineers, start ups and others to bring the spark of open-source innovation to the hardware realm.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekly 12: The Red Dead Online problem, morgues and so much more]]></title>
         <id>https://www.eurogamer.net/weekly-12-the-red-dead-online-problem-morgues-and-so-much-more</id>
@@ -17,6 +133,16 @@ She's also been turning out some great pieces for us, including two State of the
  Read more]]></summary>
         <author>
             <name>Robert Purchese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HighPoint Readies Next-Gen SSD Card With Up to 55GBps Throughput]]></title>
+        <id>bL3dVVtRsSqUJEnQCC2Yqh</id>
+        <link href="https://www.tomshardware.com/news/highpoint-readies-next-generation-ssd-card-up-to-55gbps"/>
+        <updated>2022-08-05T14:02:34.000Z</updated>
+        <summary type="html"><![CDATA[HighPoint's SSD7749E E1.S RAID card promises extreme speeds and extreme capacities for workstations and servers.]]></summary>
+        <author>
+            <name>Tomshardware</name>
         </author>
     </entry>
     <entry>
