@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-05T17:29:58.312Z</updated>
+    <updated>2022-08-05T18:28:14.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DreamWorks Animation To Open-Source MoonRay Renderer]]></title>
+        <id>https://www.phoronix.com/news/DreamWorks-MoonRay-Open-Source</id>
+        <link href="https://www.phoronix.com/news/DreamWorks-MoonRay-Open-Source"/>
+        <updated>2022-08-05T18:04:31.000Z</updated>
+        <summary type="html"><![CDATA[DreamWorks Animation announced today that they intend to release their MoonRay production renderer as open-source softwate later in 2022. DreamWorks' MoonRay renderer has been used for films such as How To Train Your Dragon: The Hidden World, The Bad Guys, Puss In Boots: The Last Wish, and other animated films...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust For Linux Kernel v9 Patches Trim Things Down Greatly For Easier Upstreaming]]></title>
+        <id>https://www.phoronix.com/news/Rust-For-Linux-v9-Patches</id>
+        <link href="https://www.phoronix.com/news/Rust-For-Linux-v9-Patches"/>
+        <updated>2022-08-05T17:53:57.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this week saw the Rust for Linux v8 patches posted that introduced a number of new abstractions and expanding the Rust programming language integration to more areas of the kernel. Those patches amounted to 43.6k lines of new code while "Rust for Linux v9" was posted today and comes in at just 12.5k lines of new code...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sonic the Hedgehog doesn’t need easily legible legends on his mechanical keyboard]]></title>
+        <id>https://arstechnica.com/?p=1871810</id>
+        <link href="https://arstechnica.com/?p=1871810"/>
+        <updated>2022-08-05T17:47:11.000Z</updated>
+        <summary type="html"><![CDATA[Retro keyboards commemorate some of Sega's most memorable brands.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Zen 4 Specs Leak: 16-Core Ryzen 9 7950X Allegedly Hits 5.7 GHz]]></title>
+        <id>b3wySs47DQKkiWoWmrh2YP</id>
+        <link href="https://www.tomshardware.com/news/amd-zen4-ryzen-9-7950x"/>
+        <updated>2022-08-05T17:32:04.000Z</updated>
+        <summary type="html"><![CDATA[Hardware leaker reveals the specifications for AMD's forthcoming Ryzen 7000 (Raphael) processors based on the Zen 4 microarchitecture.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Wireless Mouse 2022: Premium Productivity Mice]]></title>
+        <id>VL9QeNGUYKG4ZHLtSih7Kc</id>
+        <link href="https://www.tomshardware.com/best-picks/best-wireless-mouse"/>
+        <updated>2022-08-05T17:31:14.000Z</updated>
+        <summary type="html"><![CDATA[Looking for the best wireless mouse for productivity? These are our top picks for cable-free work.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Latest Sonic Origins patch takes aim at Sonic the Hedgehog 2's wonky Tails AI]]></title>
         <id>https://www.eurogamer.net/latest-sonic-origins-patch-takes-aim-at-sonic-2s-wonky-tails-ai</id>

@@ -3967,6 +3967,26 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/DreamWorks-MoonRay-Open-Source",
+          "author": null,
+          "description": "DreamWorks Animation announced today that they intend to release their MoonRay production renderer as open-source softwate later in 2022. DreamWorks' MoonRay renderer has been used for films such as How To Train Your Dragon: The Hidden World, The Bad Guys, Puss In Boots: The Last Wish, and other animated films...",
+          "link": "https://www.phoronix.com/news/DreamWorks-MoonRay-Open-Source",
+          "publishedOn": "2022-08-05T18:04:31.000Z",
+          "wordCount": 1296,
+          "title": "DreamWorks Animation To Open-Source MoonRay Renderer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Rust-For-Linux-v9-Patches",
+          "author": null,
+          "description": "Earlier this week saw the Rust for Linux v8 patches posted that introduced a number of new abstractions and expanding the Rust programming language integration to more areas of the kernel. Those patches amounted to 43.6k lines of new code while \"Rust for Linux v9\" was posted today and comes in at just 12.5k lines of new code...",
+          "link": "https://www.phoronix.com/news/Rust-For-Linux-v9-Patches",
+          "publishedOn": "2022-08-05T17:53:57.000Z",
+          "wordCount": 1621,
+          "title": "Rust For Linux Kernel v9 Patches Trim Things Down Greatly For Easier Upstreaming",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/review/ryzen7-6850u-acpi",
           "author": null,
           "description": "As with many new Intel/AMD laptops these days, the recently launched Lenovo ThinkPad X13 Gen3 with AMD Ryzen 7 PRO 6850U \"Rembrandt\" SoC boasts ACPI Platform Profile support that is exposed under Linux for switching between low-power, balanced (default), and performance modes. For those curious about this ACPI Platform Profile impact, here are some benchmarks from this 6850U laptop under Ubuntu Linux and its impact on power and thermal efficiency too.",
@@ -5891,6 +5911,36 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "b3wySs47DQKkiWoWmrh2YP",
+          "author": null,
+          "description": "Hardware leaker reveals the specifications for AMD's forthcoming Ryzen 7000 (Raphael) processors based on the Zen 4 microarchitecture.",
+          "link": "https://www.tomshardware.com/news/amd-zen4-ryzen-9-7950x",
+          "publishedOn": "2022-08-05T17:32:04.000Z",
+          "wordCount": 19434,
+          "title": "AMD Zen 4 Specs Leak: 16-Core Ryzen 9 7950X Allegedly Hits 5.7 GHz",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/qUAPezz9c9NiNw56DR6cBF.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/qUAPezz9c9NiNw56DR6cBF.jpg"
+        },
+        {
+          "id": "VL9QeNGUYKG4ZHLtSih7Kc",
+          "author": null,
+          "description": "Looking for the best wireless mouse for productivity? These are our top picks for cable-free work.",
+          "link": "https://www.tomshardware.com/best-picks/best-wireless-mouse",
+          "publishedOn": "2022-08-05T17:31:14.000Z",
+          "wordCount": 24350,
+          "title": "Best Wireless Mouse 2022: Premium Productivity Mice",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/HVJBf8JcMj7qJJtsHX3PG8.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/HVJBf8JcMj7qJJtsHX3PG8.jpg"
+        },
+        {
           "id": "CFteXJTkF6LaNCoUcMtUPh",
           "author": null,
           "description": "AMD Ryzen 7000 and AM5 motherboards are confirmed to be launching on September 15th, just a month away from now.",
@@ -7456,6 +7506,16 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1871810",
+          "author": "Scharon Harding",
+          "description": "Retro keyboards commemorate some of Sega's most memorable brands.",
+          "link": "https://arstechnica.com/?p=1871810",
+          "publishedOn": "2022-08-05T17:47:11.000Z",
+          "wordCount": 1508,
+          "title": "Sonic the Hedgehog doesn’t need easily legible legends on his mechanical keyboard",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/293099341_443407024048448_7694724969889348897_n-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1871817",
           "author": "Jon Brodkin",
