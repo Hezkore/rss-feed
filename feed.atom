@@ -2,10 +2,145 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-05T12:48:17.429Z</updated>
+    <updated>2022-08-05T13:46:19.523Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Valve spoke to IGN Japan about the Steam Deck, here's a few takeaway points]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/valve-spoke-to-ign-japan-about-the-steam-deck-heres-a-few-takeaway-points/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/valve-spoke-to-ign-japan-about-the-steam-deck-heres-a-few-takeaway-points/"/>
+        <updated>2022-08-05T13:28:32.000Z</updated>
+        <summary type="html"><![CDATA[As Valve expands the Steam Deck into Asia, they've begun a series of interviews and one on video with IGN Japan was quite interesting so here's the main points.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breeze through Elden Ring with Sekiro's final boss moveset]]></title>
+        <id>https://www.eurogamer.net/breeze-through-elden-ring-with-sekiros-final-boss-moveset</id>
+        <link href="https://www.eurogamer.net/breeze-through-elden-ring-with-sekiros-final-boss-moveset"/>
+        <updated>2022-08-05T13:26:04.000Z</updated>
+        <summary type="html"><![CDATA[Sekiro: Shadows Die Twice is arguably FromSoftware's most difficult game, but now you can use that to your advantage in Elden Ring.
+
+
+Modder Hotbite has ported over animations from Sekiro's final boss, so now your Tarnished can adventure through The Lands Between with some incredibly flashy moves - spotted by PC Gamer.
+
+
+Spoilers for Sekiro's final boss follow.
+ 
+Read more]]></summary>
+        <author>
+            <name>Ed Nightingale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fyra spelare delar Game Pass-konto i Microsofts testlansering]]></title>
+        <id>https://www.sweclockers.com/artikel/34711</id>
+        <link href="https://www.sweclockers.com/artikel/34711-fyra-spelare-delar-game-pass-konto-i-microsofts-testlansering"/>
+        <updated>2022-08-05T13:21:56.000Z</updated>
+        <summary type="html"><![CDATA[Microsofts speltjänst Game Pass följer devisen en spelare, ett abonnemang. Nu sjösätter företaget ett test där tjänsten kan delas av flera.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi Twitch TV Plays Streams When They Go Live]]></title>
+        <id>FrcVQhFHUxGXBMadpvJqRc</id>
+        <link href="https://www.tomshardware.com/news/raspberry-pi-twitch-tv-tv"/>
+        <updated>2022-08-05T13:21:40.000Z</updated>
+        <summary type="html"><![CDATA[Rsheldiii (aka Bob) is using a Raspberry Pi to power his custom, 3D-printed TV that plays Twitch streams automatically as soon as they’re live.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dirk Eddelbuettel: RcppXts 0.0.5 on CRAN: Routine Refreshment]]></title>
+        <id>http://dirk.eddelbuettel.com/blog/2022/08/05#rcppxts_0.0.5</id>
+        <link href="http://dirk.eddelbuettel.com/blog/2022/08/05#rcppxts_0.0.5"/>
+        <updated>2022-08-05T13:07:00.000Z</updated>
+        <summary type="html"><![CDATA[A full eight and half years (!!) since its 0.0.4 release, version 0.0.5 of RcppXts is now on CRAN. The RcppXts package demonstrates how to access the export C API of xts which we contributed a looong time ago.
+This release contains an accumulated small set of updates made as the CRAN Policies evolved. We now register and use the shared library routines (updates in both src/init.c and NAMESPACE), turned on continuous integration, switched it from the now disgraces service to another, adopted our portable r-ci along with r2, added badges to the README.md, updated to https URLs, and made sure the methods package (from base R) was actually imported (something Rcpp has a need for at startup). That latter part now triggered a recent email from the CRAN maintainers which prompted this release.
+The NEWS entries follow.
+Changes in version 0.0.5 (2022-08-05)
+Depends on xts 0.9-6 now on CRAN
+
+
+Exports (and documents) a number of additional functions
+
+
+Switch CI use to r-ci and r2u
+
+
+README.md, DESCRIPTION and NEWS.Rd were updated and expanded
+
+
+NAMESPACE import of the shared library uses registration
+
+
+
+Courtesy of my CRANberries, there is also a diffstat report for this release. A bit more information about the package is available here as well as at the GitHub repo.
+If you like this or other open-source work I do, you can now sponsor me at GitHub.
+Dirk Eddelbuettel originated on his Thinking inside the box blog. Please report excessive re-aggregation in third-party for-profit settings.]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hell or Bust]]></title>
+        <id>https://tapas.io/episode/2606569</id>
+        <link href="https://tapas.io/episode/2606569"/>
+        <updated>2022-08-05T13:05:02.000Z</updated>
+        <author>
+            <name>J. L. Westover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New study claims Belgium's loot box law isn't being enforced]]></title>
+        <id>https://www.eurogamer.net/new-study-claims-belgiums-loot-box-law-isnt-being-enforced</id>
+        <link href="https://www.eurogamer.net/new-study-claims-belgiums-loot-box-law-isnt-being-enforced"/>
+        <updated>2022-08-05T12:54:28.000Z</updated>
+        <summary type="html"><![CDATA[Back in 2018, Belgium declared loot boxes in games were a form of gambling and therefore illegal, but it appears this law isn't being enforced.
+
+
+Loot box researcher Leon Y Xiao has written a report stating the country's gambling law regulation of video game loot boxes has been ineffective, as reported by GamesIndustry.biz.
+
+
+Despite the ban, paid loot boxes remained widespread in the top 100 grossing iPhone games in Belgium from 2021, with 82 percent including some form of random monetisation mechanic.
+ 
+Read more]]></summary>
+        <author>
+            <name>Ed Nightingale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New developer kit from Microsoft improves Xbox Series S memory]]></title>
+        <id>https://www.eurogamer.net/new-developer-kit-from-microsoft-improves-xbox-series-s-memory</id>
+        <link href="https://www.eurogamer.net/new-developer-kit-from-microsoft-improves-xbox-series-s-memory"/>
+        <updated>2022-08-05T12:50:59.000Z</updated>
+        <summary type="html"><![CDATA[A new game development kit (GDK) for the Xbox Series S will "optimise" the console's memory allocation, Microsoft has revealed.
+
+
+"Hundreds of additional megabytes of memory are now available to Xbox Series S developers," explained the game dev team in a new video (see below) all about the GDK's updates (thanks, The Verge). 
+
+
+Microsoft says this will give developers "more control over memory", and as such will allow for "[improved] graphics performance in memory-constrained conditions." So, good news indeed.
+ 
+Read more]]></summary>
+        <author>
+            <name>Victoria Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Äger 5 %, nu rapporteras Tencent vara på jakt efter större andel Ubisoft-aktier]]></title>
+        <id>https://www.fz.se/artikel/291017</id>
+        <link href="https://www.fz.se/artikel/291017-ager-5-nu-rapporteras-tencent-vara-pa-jakt-efter-storre-andel-ubisoft-aktier"/>
+        <updated>2022-08-05T12:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Ska vara i kontakt med Ubisofts grundare.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VG247's The Best Games Ever Podcast – Ep.11: Best game that you were ridiculously hyped for as a teen]]></title>
         <id>https://www.vg247.com/vg247s-best-games-ever-podcast-ep11</id>
@@ -26,6 +161,24 @@ It takes a lot to get a teenager out of bed on a Sunday morning, and if there’
  Read more]]></summary>
         <author>
             <name>Tom Orry</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The best Warhammer 40k games to play in 2022]]></title>
+        <id>https://www.eurogamer.net/the-best-warhammer-40k-games-to-play-in-2022-20261</id>
+        <link href="https://www.eurogamer.net/the-best-warhammer-40k-games-to-play-in-2022-20261"/>
+        <updated>2022-08-05T12:03:31.000Z</updated>
+        <summary type="html"><![CDATA[In the grim darkness of the far future there is only war... and if Games Workshop has its way, plenty of Warhammer 40,000 video games to play. 
+
+
+The sci-fi tabletop universe is enjoying a video game boom, with a handful of great games set within its very grim and very dark universe launched in recent years. Where there was nothing but an endless stream of mediocre Warhammer 40,000 games to play, like the terrifying Tyranids, the genre has adapted, improved and launched yet another wave, better than what came before.
+
+
+Below you can find our recommendations for the best Warhammer 40,000 games!
+ 
+Read more]]></summary>
+        <author>
+            <name>Wesley Yin-Poole</name>
         </author>
     </entry>
     <entry>
