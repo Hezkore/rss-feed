@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-05T13:46:19.523Z</updated>
+    <updated>2022-08-05T14:22:05.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Weekly 12: The Red Dead Online problem, morgues and so much more]]></title>
+        <id>https://www.eurogamer.net/weekly-12-the-red-dead-online-problem-morgues-and-so-much-more</id>
+        <link href="https://www.eurogamer.net/weekly-12-the-red-dead-online-problem-morgues-and-so-much-more"/>
+        <updated>2022-08-05T14:05:26.000Z</updated>
+        <summary type="html"><![CDATA[Another Friday, another Weekly - the show where we recap the week on Eurogamer for you. Remember, premium supporters listen from Friday whereas everyone else listens from Monday.
+Today, we've got former Eurogamer writer Emma Kent back! And it turns out that since moving on from Eurogamer, she's rediscovered a passion for football. And she's thrown herself so fully into it that she'll soon be in the FA Cup! 
+She's also been turning out some great pieces for us, including two State of the Game pieces - one on Valheim and one, more recently, on Red Dead Online. And it's that that we dive into first today. 
+ Read more]]></summary>
+        <author>
+            <name>Robert Purchese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This Mario 64 first-person horror game is terrifying]]></title>
+        <id>https://www.eurogamer.net/this-mario-64-first-person-horror-game-is-terrifying</id>
+        <link href="https://www.eurogamer.net/this-mario-64-first-person-horror-game-is-terrifying"/>
+        <updated>2022-08-05T14:00:57.000Z</updated>
+        <summary type="html"><![CDATA[You step quietly into the castle, holding a lantern aloft in your gloved hand. You creep up the stairs into a room of stained glass windows. Then, turning to leave, the horrific ghost of Princess Peach lurches through the doorway to scare the crap out of you. Game Over.
+
+Another Princess Is In Our Castle is a horror game based on the N64 classic Super Mario 64 that has you exploring Peach's famous castle in first person, spotted by Nintendo Life.
+
+
+ Read more]]></summary>
+        <author>
+            <name>Ed Nightingale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diskutera - Vilka sidor ogillar du hos dina favoritspel?]]></title>
+        <id>https://www.fz.se/artikel/291018</id>
+        <link href="https://www.fz.se/artikel/291018-diskutera-vilka-sidor-ogillar-du-hos-dina-favoritspel"/>
+        <updated>2022-08-05T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Kloakbanor? Blå skal? Gummiskepp i Kingdom Hearts? Även solen har sina fläckar.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FZ Play ikväll - Skolstart i Two Point Campus]]></title>
+        <id>https://www.fz.se/artikel/291024</id>
+        <link href="https://www.fz.se/artikel/291024-fz-play-ikvall-skolstart-i-two-point-campus"/>
+        <updated>2022-08-05T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Klockan ringer in för Mirror_Hime.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Valve spoke to IGN Japan about the Steam Deck, here's a few takeaway points]]></title>
         <id>https://www.gamingonlinux.com/2022/08/valve-spoke-to-ign-japan-about-the-steam-deck-heres-a-few-takeaway-points/</id>
@@ -749,6 +797,42 @@ The immediate catch right now is that the test is only available to those in Col
 Read more]]></summary>
         <author>
             <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jamie McClelland: Fine tuning Thunderbird's end-to-end encryption]]></title>
+        <id>https://current.workingdirectory.net/posts/2022/thunderbird-and-openpgpg/</id>
+        <link href="https://current.workingdirectory.net/posts/2022/thunderbird-and-openpgpg/"/>
+        <updated>2022-08-04T22:27:10.000Z</updated>
+        <summary type="html"><![CDATA[I love that Thunderbird really tackled OpenPGP head on and incorporated it
+directly into the client. I know it’s been a bit rough for some users, but I
+think it’s a good long term investment.
+And to demonstrate I’ll now complain about a minor issue :).
+I replied to an encrypted message but couldn’t send the response using
+encryption. I got an error message indicating that “End-to-end encryption
+requires resolving certificate issues for” … and it listed the recipient
+email address.
+
+I spent an enormous amount of time examining the recipient’s OpenPGP key. I
+made sure it was not expired. I made sure it was actually in my Thunderbird key
+store not just in my OpenPGP keychain. I made sure I had indicated that I trust it
+enough to use. I re-downloaded it.
+I eventually gave up and didn’t send the email. Then I responded to another
+encrypted email and it worked. What!?!?
+I spent more time comparing the recipients before I realized the problem was
+the sending address, not the recipient address.
+I have an OpenPGP key that lists several identities. I have a Thunderbird
+Account that uses the Identities feature to add several from addresses. And, it
+turns out that in Thunderbird, you need to indicate which OpenPGP key to use
+for your main account… but also for each identity. When you drill down to
+Manage Identities for your account, you are able to indicate which OpenPGP key
+you want to use for each identity. Once I indicated that each identity should
+use my OpenPGP key, the issue was resolved.
+And here’s my Thunderbird bug asking for an error message pointing to the
+sender address, not the recipient
+address.]]></summary>
+        <author>
+            <name>Planet Debian</name>
         </author>
     </entry>
     <entry>

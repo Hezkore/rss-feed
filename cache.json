@@ -993,6 +993,26 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/weekly-12-the-red-dead-online-problem-morgues-and-so-much-more",
+          "author": "Robert Purchese",
+          "description": "Another Friday, another Weekly - the show where we recap the week on Eurogamer for you. Remember, premium supporters listen from Friday whereas everyone else listens from Monday.\nToday, we've got former Eurogamer writer Emma Kent back! And it turns out that since moving on from Eurogamer, she's rediscovered a passion for football. And she's thrown herself so fully into it that she'll soon be in the FA Cup! \nShe's also been turning out some great pieces for us, including two State of the Game pieces - one on Valheim and one, more recently, on Red Dead Online. And it's that that we dive into first today. \n Read more",
+          "link": "https://www.eurogamer.net/weekly-12-the-red-dead-online-problem-morgues-and-so-much-more",
+          "publishedOn": "2022-08-05T14:05:26.000Z",
+          "wordCount": 4051,
+          "title": "Weekly 12: The Red Dead Online problem, morgues and so much more",
+          "imageUrl": "https://assets.reedpopcdn.com/Weekly-12_-The-Red-Dead-Online-problem%2C-morgues-and-so-much-more-thumbnail-2.jfif/BROK/thumbnail/1600x900/format/jpg/quality/80/Weekly-12_-The-Red-Dead-Online-problem%2C-morgues-and-so-much-more-thumbnail-2.jfif"
+        },
+        {
+          "id": "https://www.eurogamer.net/this-mario-64-first-person-horror-game-is-terrifying",
+          "author": "Ed Nightingale",
+          "description": "You step quietly into the castle, holding a lantern aloft in your gloved hand. You creep up the stairs into a room of stained glass windows. Then, turning to leave, the horrific ghost of Princess Peach lurches through the doorway to scare the crap out of you. Game Over.\r\n\nAnother Princess Is In Our Castle is a horror game based on the N64 classic Super Mario 64 that has you exploring Peach's famous castle in first person, spotted by Nintendo Life.\r\n\r\n\n Read more",
+          "link": "https://www.eurogamer.net/this-mario-64-first-person-horror-game-is-terrifying",
+          "publishedOn": "2022-08-05T14:00:57.000Z",
+          "wordCount": 4424,
+          "title": "This Mario 64 first-person horror game is terrifying",
+          "imageUrl": "https://assets.reedpopcdn.com/Another-Princess-Is-In-Our-Castle---A-Mario-64-Horror-Game-Where-Peach-REALLY-Hates-Visitors!-1-31-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Another-Princess-Is-In-Our-Castle---A-Mario-64-Horror-Game-Where-Peach-REALLY-Hates-Visitors!-1-31-screenshot.png"
+        },
+        {
           "id": "https://www.eurogamer.net/breeze-through-elden-ring-with-sekiros-final-boss-moveset",
           "author": "Ed Nightingale",
           "description": "Sekiro: Shadows Die Twice is arguably FromSoftware's most difficult game, but now you can use that to your advantage in Elden Ring.\r\n\n\r\nModder Hotbite has ported over animations from Sekiro's final boss, so now your Tarnished can adventure through The Lands Between with some incredibly flashy moves - spotted by PC Gamer.\r\n\n\r\nSpoilers for Sekiro's final boss follow.\r\n \nRead more",
@@ -6618,6 +6638,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://current.workingdirectory.net/posts/2022/thunderbird-and-openpgpg/",
+          "author": null,
+          "description": "I love that Thunderbird really tackled OpenPGP head on and incorporated it\ndirectly into the client. I know it’s been a bit rough for some users, but I\nthink it’s a good long term investment.\nAnd to demonstrate I’ll now complain about a minor issue :).\nI replied to an encrypted message but couldn’t send the response using\nencryption. I got an error message indicating that “End-to-end encryption\nrequires resolving certificate issues for” … and it listed the recipient\nemail address.\n\nI spent an enormous amount of time examining the recipient’s OpenPGP key. I\nmade sure it was not expired. I made sure it was actually in my Thunderbird key\nstore not just in my OpenPGP keychain. I made sure I had indicated that I trust it\nenough to use. I re-downloaded it.\nI eventually gave up and didn’t send the email. Then I responded to another\nencrypted email and it worked. What!?!?\nI spent more time comparing the recipients before I realized the problem was\nthe sending address, not the recipient address.\nI have an OpenPGP key that lists several identities. I have a Thunderbird\nAccount that uses the Identities feature to add several from addresses. And, it\nturns out that in Thunderbird, you need to indicate which OpenPGP key to use\nfor your main account… but also for each identity. When you drill down to\nManage Identities for your account, you are able to indicate which OpenPGP key\nyou want to use for each identity. Once I indicated that each identity should\nuse my OpenPGP key, the issue was resolved.\nAnd here’s my Thunderbird bug asking for an error message pointing to the\nsender address, not the recipient\naddress.",
+          "link": "https://current.workingdirectory.net/posts/2022/thunderbird-and-openpgpg/",
+          "publishedOn": "2022-08-04T22:27:10.000Z",
+          "wordCount": 344,
+          "title": "Jamie McClelland: Fine tuning Thunderbird's end-to-end encryption",
+          "imageUrl": null
+        },
+        {
           "id": "https://reproducible-builds.org/reports/2022-07/",
           "author": null,
           "description": "Welcome to the July 2022 report from the Reproducible Builds project!\nIn our reports we attempt to outline the most relevant things that have been going on in the past month. As a brief introduction, the reproducible builds effort is concerned with ensuring no flaws have been introduced during this compilation process by promising identical results are always generated from a given source, thus allowing multiple third-parties to come to a consensus on whether a build was compromised. As ever, if you are interested in contributing to the project, please visit our Contribute page on our website.\n\nReproducible Builds summit 2022\nDespite several delays, we are pleased to announce that registration is open for our in-person summit this year:\n\nNovember 1st → November 3rd\n\nThe event will happen i…",
@@ -7758,6 +7788,26 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291018",
+          "author": null,
+          "description": "Kloakbanor? Blå skal? Gummiskepp i Kingdom Hearts? Även solen har sina fläckar.",
+          "link": "https://www.fz.se/artikel/291018-diskutera-vilka-sidor-ogillar-du-hos-dina-favoritspel",
+          "publishedOn": "2022-08-05T14:00:00.000Z",
+          "wordCount": 1776,
+          "title": "Diskutera - Vilka sidor ogillar du hos dina favoritspel?",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291018"
+        },
+        {
+          "id": "https://www.fz.se/artikel/291024",
+          "author": null,
+          "description": "Klockan ringer in för Mirror_Hime.",
+          "link": "https://www.fz.se/artikel/291024-fz-play-ikvall-skolstart-i-two-point-campus",
+          "publishedOn": "2022-08-05T14:00:00.000Z",
+          "wordCount": 1621,
+          "title": "FZ Play ikväll - Skolstart i Two Point Campus",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291024"
+        },
         {
           "id": "https://www.fz.se/artikel/291017",
           "author": null,
