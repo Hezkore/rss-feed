@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-06T11:17:44.362Z</updated>
+    <updated>2022-08-06T12:37:23.715Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dygma Raise Review: An Easy Split Decision]]></title>
+        <id>M5SxbyhP77U9AY6q3eu52U</id>
+        <link href="https://www.tomshardware.com/reviews/dygma-raise"/>
+        <updated>2022-08-06T12:00:21.000Z</updated>
+        <summary type="html"><![CDATA[The Dygma Raise is one of the most expensive keyboards we’ve tested, but its stellar configurability, luxury build quality, and ability to adapt to your most comfortable writing position are worth the investment.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nu finns det en fan-remaster av det osläppta Warcraft Adventures]]></title>
+        <id>https://www.fz.se/artikel/291026</id>
+        <link href="https://www.fz.se/artikel/291026-nu-finns-det-en-fan-remaster-av-det-oslappta-warcraft-adventures"/>
+        <updated>2022-08-06T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Högupplösta orcher.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Partnertillverkare tveksamma till Intel Arc "Alchemist"]]></title>
+        <id>https://www.sweclockers.com/artikel/34710</id>
+        <link href="https://www.sweclockers.com/artikel/34710-partnertillverkare-tveksamma-till-intel-arc-alchemist"/>
+        <updated>2022-08-06T11:49:59.000Z</updated>
+        <summary type="html"><![CDATA[Igor's Lab rapporterar om hur branschen mottar Intel Arc. Ointresse och skepsis sammanfattar situationen bra.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nemesis is Numskull's next Resident Evil collectible figurine]]></title>
+        <id>https://www.eurogamer.net/nemesis-is-numskulls-next-resident-evil-collectible-figurine</id>
+        <link href="https://www.eurogamer.net/nemesis-is-numskulls-next-resident-evil-collectible-figurine"/>
+        <updated>2022-08-06T11:40:25.000Z</updated>
+        <summary type="html"><![CDATA[Gaming merchandiser Numskull has confirmed the next addition to its Resident Evil statue line-up: Nemesis.
+
+Standing 10.9 inches (27.7cm) high, the Nemesis figurine includes "hand-painted features for extra detail" - including the cracked tarmac base and hazard tape - and has been developed in conjunction with Capcom.
+
+You can see him in all his grotesque glory in the video reveal below:
+ Read more]]></summary>
+        <author>
+            <name>Vikki Blake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PUBG dev is creating an "ambitious" new fantasy game based upon the Korean novel, The Bird That Drinks Tears]]></title>
+        <id>https://www.eurogamer.net/pubg-dev-is-creating-an-ambitious-new-fantasy-game-based-upon-the-korean-novel-the-bird-that-drinks-tears</id>
+        <link href="https://www.eurogamer.net/pubg-dev-is-creating-an-ambitious-new-fantasy-game-based-upon-the-korean-novel-the-bird-that-drinks-tears"/>
+        <updated>2022-08-06T11:19:56.000Z</updated>
+        <summary type="html"><![CDATA[PUBG developer Krafton has announced it's making a new game based upon the Korean fantasy book, The Bird That Drinks Tears.
+
+Krafton says it is an "ambitious project" that "aims to bring the original fantasy universe of The Bird That Drinks Tears to life through its unique and refreshing fantasy races, beautiful, haunting landscapes, and gripping, immersive, and poignant stories".
+
+"The Bird That Drinks Tears is a novel series that was created and written by Yeong-do Lee, who is widely acknowledged as the pioneer of the Korean fantasy genre," Krafton explains. "As one of the best-selling fantasy authors in Korea with millions of copies sold, Mr. Lee is an exceptionally imaginative writer who builds elaborate worlds and fills them with complex characters."
+ 
+Read more]]></summary>
+        <author>
+            <name>Vikki Blake</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ASUS Linux Driver Gets Patches For RGB Keyboard Controls]]></title>
         <id>https://www.phoronix.com/news/ASUS-WMI-Linux-RGB-Keyboard</id>
@@ -12174,23 +12235,6 @@ Lenovo, this isn't OK. The entire architecture of UEFI secure boot is that it al
         <summary type="html"><![CDATA[Want to set up a homelab but not comfortable with all the complexity? Umbrel enables you to self host multiple open source software easily.]]></summary>
         <author>
             <name>Pratham Patel</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reproducible Builds (diffoscope): diffoscope 218 released]]></title>
-        <id>https://diffoscope.org/news/diffoscope-218-released/</id>
-        <link href="https://diffoscope.org/news/diffoscope-218-released/"/>
-        <updated>2022-07-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The diffoscope maintainers are pleased to announce the release of diffoscope
-version 218. This version includes the following changes:
-
-* Improve output of Markdown and reStructuredText to use code blocks with
-  syntax highlighting. (Closes: reproducible-builds/diffoscope#306)
-
-
-You find out more by visiting the project homepage.]]></summary>
-        <author>
-            <name>Planet Debian</name>
         </author>
     </entry>
 </feed>
