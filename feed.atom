@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-06T10:23:19.594Z</updated>
+    <updated>2022-08-06T11:17:44.362Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[ASUS Linux Driver Gets Patches For RGB Keyboard Controls]]></title>
+        <id>https://www.phoronix.com/news/ASUS-WMI-Linux-RGB-Keyboard</id>
+        <link href="https://www.phoronix.com/news/ASUS-WMI-Linux-RGB-Keyboard"/>
+        <updated>2022-08-06T11:00:17.000Z</updated>
+        <summary type="html"><![CDATA[For those with a newer ASUS gaming laptop boasting RGB lighting for the keyboard, that functionality could soon be working nicely thanks to work happening within the Linux kernel and the open-source Asusctl project...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Find out more about Redfall at QuakeCon]]></title>
+        <id>https://www.eurogamer.net/find-out-more-about-redfall-at-quakecon</id>
+        <link href="https://www.eurogamer.net/find-out-more-about-redfall-at-quakecon"/>
+        <updated>2022-08-06T10:36:55.000Z</updated>
+        <summary type="html"><![CDATA[Bethesda has confirmed that Arkane's new vampire game, Redfall, will get a 30-minute slot at its upcoming QuakeCon event.
+
+QuakeCon itself is set to kick off at 6pm UK time on 18th August, whilst the Redfall-flavoured reveal will run for 30 minutes from 6.15pm and "takes you inside [Arkane's] upcoming squad-based vampire shooter with new insights, gameplay details and more!"
+
+Other games set to feature in the presentation include The Elder Scrolls Online, Fallout 76, Fallout 4, Ghostwire: Tokyo, Deathloop, and Quake, of course. There'll also be Q&As, quizzes, cosplay, and more.
+ 
+Read more]]></summary>
+        <author>
+            <name>Vikki Blake</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PUBG: Battlegrounds' update 19.1 is coming to PC next week]]></title>
         <id>https://www.eurogamer.net/pubg-battlegrounds-update-191-is-coming-to-pc-next-week</id>
