@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-06T05:19:36.510Z</updated>
+    <updated>2022-08-06T06:26:42.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
@@ -14,6 +14,16 @@
         <summary type="html"><![CDATA[While OpenRISC has been around a decade longer than RISC-V and its original support in the Linux kernel dates back to the v3.1 days, on the hardware side OpenRISC hasn't enjoyed nearly as much success as RISC-V and its kernel support not advancing nearly as rapidly. Now with Linux 6.0, OpenRISC is finally exposing PCI bus support...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comic for 2022.08.06 - Straight Up]]></title>
+        <id>https://explosm.net/comics/30425</id>
+        <link href="https://explosm.net/comics/30425"/>
+        <updated>2022-08-06T00:00:10.000Z</updated>
+        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
+        <author>
+            <name>Explosm.net</name>
         </author>
     </entry>
     <entry>
