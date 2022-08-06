@@ -2,10 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-06T09:20:26.347Z</updated>
+    <updated>2022-08-06T10:23:19.594Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PUBG: Battlegrounds' update 19.1 is coming to PC next week]]></title>
+        <id>https://www.eurogamer.net/pubg-battlegrounds-update-191-is-coming-to-pc-next-week</id>
+        <link href="https://www.eurogamer.net/pubg-battlegrounds-update-191-is-coming-to-pc-next-week"/>
+        <updated>2022-08-06T10:14:32.000Z</updated>
+        <summary type="html"><![CDATA[PUBG: Battlegrounds' next big update, 19.1, is slated to release on 10th August for PC and 18th August for consoles. 
+
+It includes a new MP9 weapon - the first fully-automatic SMG that uses 9mm - a new vehicle that will see you "zipping down roads with sirens ablaze" (so not for the stealthy, it seems), and the Blue Chip Detector tactical gear which uses primary weapon slots but can be used to scan for enemies within a 100m radius; you'll see the nearest 12 enemies on the map.
+
+We'll also get our collective hands on the brand-new 1500hp Folding Shield and "once again have the opportunity to drop onto the Haven map". The update also brings "familiar foes" from the recently-announced Assassin's Creed season. 
+ 
+Read more]]></summary>
+        <author>
+            <name>Vikki Blake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel's Open-Source Vulkan Driver Moves Closer To Working Ray-Tracing Support]]></title>
+        <id>https://www.phoronix.com/news/Intel-Vulkan-Closer-RT</id>
+        <link href="https://www.phoronix.com/news/Intel-Vulkan-Closer-RT"/>
+        <updated>2022-08-06T10:13:20.000Z</updated>
+        <summary type="html"><![CDATA[Going back to late 2020 there has been bits of Intel Vulkan ray-tracing preparations landing within their Mesa "ANV" open-source Vulkan driver in anticipation of Xe HPG with hardware ray-tracing capabilities...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.0 Drops Support For Old NEC VR4100 MIPS CPUs Found In The IBM WorkPad & More]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.0-Drops-VR41xx</id>
+        <link href="https://www.phoronix.com/news/Linux-6.0-Drops-VR41xx"/>
+        <updated>2022-08-06T09:49:03.000Z</updated>
+        <summary type="html"><![CDATA[Support for old NEC VR4100 CPUs based on the MIPS R4000 core is being removed with the Linux 6.0 kernel leading to devices like the old IBM WorkPad Z50 no longer being supported...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helgsnack: När byter du ut din kringutrustning?]]></title>
+        <id>https://www.sweclockers.com/artikel/34713</id>
+        <link href="https://www.sweclockers.com/artikel/34713-helgsnack-nar-byter-du-ut-din-kringutrustning"/>
+        <updated>2022-08-06T09:40:05.000Z</updated>
+        <summary type="html"><![CDATA[Hamrar du på tangentbordet och snurrar på scrollhjulet tills de är utnötta, eller lockar nya prylar och uppgraderingar oftare? Helgens snack handlar om kringutrustning!]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Kicks Off August With More Desktop Bug Fixes]]></title>
+        <id>https://www.phoronix.com/news/KDE-Starts-August-2022-Fixes</id>
+        <link href="https://www.phoronix.com/news/KDE-Starts-August-2022-Fixes"/>
+        <updated>2022-08-06T09:26:04.000Z</updated>
+        <summary type="html"><![CDATA[KDE developers have started the month of August to a lot of fixes and polishing for the Plasma desktop...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Can we really only be wowed by something once?]]></title>
         <id>https://www.eurogamer.net/can-we-really-only-be-wowed-by-something-once</id>
