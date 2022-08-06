@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-06T06:26:42.459Z</updated>
+    <updated>2022-08-06T07:20:26.939Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenJ9 v0.33 Released For Eclipse's High Performance JVM]]></title>
+        <id>https://www.phoronix.com/news/OpenJ9-0.33-Released</id>
+        <link href="https://www.phoronix.com/news/OpenJ9-0.33-Released"/>
+        <updated>2022-08-06T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenJ9 v0.33 was released on Friday as the newest version of this Eclipse Foundation Java Virtual Machine (JVM) that was formerly developed by IBM...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam får nu officiellt Joy-Con-stöd]]></title>
+        <id>https://www.fz.se/artikel/291025</id>
+        <link href="https://www.fz.se/artikel/291025-steam-far-nu-officiellt-joy-con-stod"/>
+        <updated>2022-08-06T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Nintendo + Steam = Sant]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenRISC Enables PCI Support With Linux 6.0]]></title>
         <id>https://www.phoronix.com/news/OpenRISC-PCI-Linux-6.0</id>
