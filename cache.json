@@ -240,16 +240,6 @@
           "wordCount": 8873,
           "title": "How to Use Microsoft Office on Linux",
           "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/07/use-msoffice-in-linux.jpg"
-        },
-        {
-          "id": "https://itsfoss.com/?p=98941",
-          "author": "Pratham Patel",
-          "description": "Want to set up a homelab but not comfortable with all the complexity? Umbrel enables you to self host multiple open source software easily.",
-          "link": "https://itsfoss.com/umbrel-review/",
-          "publishedOn": "2022-07-08T04:05:24.000Z",
-          "wordCount": 8188,
-          "title": "Umbrel: Unique Linux Distro for Self Hosting Open Source Software for Your Homelab",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/07/umbrel.png"
         }
       ]
     },
@@ -1042,6 +1032,26 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/gamestop-nft-creator-is-suspended-for-selling-nfts-of-indie-games-they-didnt-own",
+          "author": "Vikki Blake",
+          "description": "An NFT minter on GameStop's newly launched NFT marketplace has been caught selling games they didn't make and had no authority to sell.\r\n\nAs first reported by Ars Technica, the \"interactive NFTs\" of the NiFTy Arcade collection were being minted and sold without the creators' permission, \"much less any arrangement for the creators to share in any crypto profits\".\r\n\nGameStop has since confirmed that the person behind NiFTy Arcade has been suspended, but Ars reports that he is still \"holding onto the tends of thousands of dollars in cryptocurrency he made by selling those NFTs before the suspension\". Furthermore, the unlicensed games are also still fully accessible from GameStop's servers. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/gamestop-nft-creator-is-suspended-for-selling-nfts-of-indie-games-they-didnt-own",
+          "publishedOn": "2022-08-06T16:16:51.000Z",
+          "wordCount": 4759,
+          "title": "GameStop NFT \"creator\" is suspended for selling NFTs of indie games they didn't own",
+          "imageUrl": "https://assets.reedpopcdn.com/Screenshot-2022-08-06-at-17.06.15.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Screenshot-2022-08-06-at-17.06.15.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/bbc-proms-game-music-concert-is-now-available-on-bbc-iplayer",
+          "author": "Vikki Blake",
+          "description": "A concert celebrating video game music at this year's BBC Proms is now available to watch online.\r\n\nThe annual music festival is held each summer in London's Royal Albert Hall, but this is the first time the classical music festival has featured a concert dedicated to game music.\r\n\nThe event - titled Gaming Prom – From 8-Bit to Infinity - took place earlier this week, hosted by BBC gaming reporter Steffan Powell and Louise Blain, who hosts the excellent Sound of Gaming podcast on BBC Sounds.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/bbc-proms-game-music-concert-is-now-available-on-bbc-iplayer",
+          "publishedOn": "2022-08-06T15:38:07.000Z",
+          "wordCount": 4606,
+          "title": "BBC Proms' game music concert is now available on BBC iPlayer",
+          "imageUrl": "https://assets.reedpopcdn.com/kingdom_hearts_3_e3_2018_trailer.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/kingdom_hearts_3_e3_2018_trailer.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/nemesis-is-numskulls-next-resident-evil-collectible-figurine",
           "author": "Vikki Blake",
@@ -2820,6 +2830,16 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/kraftons-on-a-hiring-spree-for-its-game-based-on-korean-fantasy-series-the-bird-that-drinks-tears",
+          "author": "Stephany Nunneley",
+          "description": "Krafton, the developer of PUBG, is currently hiring for the fantasy game it has in the works, known as Project Windless.\nBased on the popular Korean fantasy series The Bird That Drinks Tears by author Yeong-do Lee, nothing is really known about the in-development title other than the IP it is based on.\nLee's novel was first serialized on an internet forum, and after the conclusion of the series, the book was published in four hardcover volumes. The series features four different races and stars five characters, three of which are tasked with rescuing a Nhaga from its own people.\n Read more",
+          "link": "https://www.vg247.com/kraftons-on-a-hiring-spree-for-its-game-based-on-korean-fantasy-series-the-bird-that-drinks-tears",
+          "publishedOn": "2022-08-06T15:41:18.000Z",
+          "wordCount": 4609,
+          "title": "Krafton's on a hiring spree for its game based on Korean fantasy series The Bird That Drinks Tears",
+          "imageUrl": "https://asset.vg247.com/unannounced_krafton_game_project_windless-(3).jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/unannounced_krafton_game_project_windless-(3).jpg"
+        },
+        {
           "id": "https://www.vg247.com/what-are-you-playing-this-weekend-17",
           "author": "Stephany Nunneley",
           "description": "It's Friday, and you're just ticking away the moments that make up a dull day. You look at the clock constantly. Wondering when the arms will finally hit the magic five and 12 positions.\nAnd then it happens. Huzzah! Time to go home.\nBut what are you going to do once you arrive? Take care of the yard? No, it's finally raining. Should you clean the house? Do laundry? Organize your chest of drawers? Probably, but don't do any of it. Those things can wait.\n Read more",
@@ -4056,6 +4076,16 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/NetBSD-9.3-Released",
+          "author": null,
+          "description": "NetBSD 9.3 has been released as the newest version of this open-source BSD operating system known for running on many diverse platforms thanks to its focus oncode portability...",
+          "link": "https://www.phoronix.com/news/NetBSD-9.3-Released",
+          "publishedOn": "2022-08-06T16:03:01.000Z",
+          "wordCount": 1241,
+          "title": "NetBSD 9.3 Released With Better Support For Newer Intel & AMD Chipsets",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/ASUS-WMI-Linux-RGB-Keyboard",
           "author": null,
