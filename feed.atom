@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-06T18:26:26.434Z</updated>
+    <updated>2022-08-06T19:17:15.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Support for Nintendo Joy-Con controllers added to Steam]]></title>
+        <id>https://www.vg247.com/support-for-nintendo-joy-con-controllers-added-to-steam</id>
+        <link href="https://www.vg247.com/support-for-nintendo-joy-con-controllers-added-to-steam"/>
+        <updated>2022-08-06T18:47:35.000Z</updated>
+        <summary type="html"><![CDATA[Quick bit of news for you: Steam now supports Nintendo Switch's Joy-Con controllers.
+Support was added by Valve via the latest Steam Client Beta which was released earlier this week.
+The update supports the controllers both individually as a mini-gamepad and combined into pairs.
+ Read more]]></summary>
+        <author>
+            <name>Stephany Nunneley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD Ryzen 5000 Embedded: Up to 12 Zen 3 Cores at 105W]]></title>
         <id>oD9P5FmBBN3i4QJouMSEuY</id>
@@ -12432,19 +12445,6 @@ All good so far :)]]></summary>
         <summary type="html"><![CDATA[Absence makes the list grow longer]]></summary>
         <author>
             <name>Gregor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matthew Garrett: Lenovo shipping new laptops that only boot Windows by default]]></title>
-        <id>https://mjg59.dreamwidth.org/59931.html</id>
-        <link href="https://mjg59.dreamwidth.org/59931.html"/>
-        <updated>2022-07-08T06:49:40.000Z</updated>
-        <summary type="html"><![CDATA[I finally managed to get hold of a Thinkpad Z13 to examine a functional implementation of Microsoft's Pluton security co-processor. Trying to boot Linux from a USB stick failed out of the box for no obvious reason, but after further examination the cause became clear - the firmware defaults to not trusting bootloaders or drivers signed with the Microsoft 3rd Party UEFI CA key. This means that given the default firmware configuration, nothing other than Windows will boot. It also means that you won't be able to boot from any third-party external peripherals that are plugged in via Thunderbolt.
-There's no security benefit to this. If you want security here you're paying attention to the values measured into the TPM, and thanks to Microsoft's own specification for measurements made into PCR 7, switching from booting Windows to booting something signed with the 3rd party signing key will change the measurements and invalidate any sealed secrets. It's trivial to detect this. Distrusting the 3rd party CA by default doesn't improve security, it just makes it harder for users to boot alternative operating systems.
-Lenovo, this isn't OK. The entire architecture of UEFI secure boot is that it allows for security without compromising user choice of OS. Restricting boot to Windows by default provides no security benefit but makes it harder for people to run the OS they want to. Please fix it.
- comments]]></summary>
-        <author>
-            <name>Planet Debian</name>
         </author>
     </entry>
 </feed>

@@ -2840,6 +2840,16 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/support-for-nintendo-joy-con-controllers-added-to-steam",
+          "author": "Stephany Nunneley",
+          "description": "Quick bit of news for you: Steam now supports Nintendo Switch's Joy-Con controllers.\nSupport was added by Valve via the latest Steam Client Beta which was released earlier this week.\nThe update supports the controllers both individually as a mini-gamepad and combined into pairs.\n Read more",
+          "link": "https://www.vg247.com/support-for-nintendo-joy-con-controllers-added-to-steam",
+          "publishedOn": "2022-08-06T18:47:35.000Z",
+          "wordCount": 4331,
+          "title": "Support for Nintendo Joy-Con controllers added to Steam",
+          "imageUrl": "https://asset.vg247.com/joy_con.png/BROK/thumbnail/1600x900/format/jpg/quality/80/joy_con.png"
+        },
+        {
           "id": "https://www.vg247.com/monster-hunter-rise-sunbreak-title-update-1-stream",
           "author": "Stephany Nunneley",
           "description": "Capcom plans to host a Monster Hunter Rise: Sunbreak digital stream next week full of news on Title Update 1.\nYou can tune-in to the stream on Tuesday, August 9 at 7am PT/10am ET/3pm UK via Twitch.\nDuring the digital event, Capcom will provide news on upcoming Title Update 1, which includes Lucent Nargacuga, Seething Bazelgeuse, and more.\n Read more",
@@ -7820,16 +7830,6 @@
           "publishedOn": "2022-07-09T14:08:00.000Z",
           "wordCount": 1256,
           "title": "Dirk Eddelbuettel: Rcpp 1.0.9 on CRAN: Regular Updates",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mjg59.dreamwidth.org/59931.html",
-          "author": null,
-          "description": "I finally managed to get hold of a Thinkpad Z13 to examine a functional implementation of Microsoft's Pluton security co-processor. Trying to boot Linux from a USB stick failed out of the box for no obvious reason, but after further examination the cause became clear - the firmware defaults to not trusting bootloaders or drivers signed with the Microsoft 3rd Party UEFI CA key. This means that given the default firmware configuration, nothing other than Windows will boot. It also means that you won't be able to boot from any third-party external peripherals that are plugged in via Thunderbolt.\nThere's no security benefit to this. If you want security here you're paying attention to the values measured into the TPM, and thanks to Microsoft's own specification for measurements made into PCR 7, switching from booting Windows to booting something signed with the 3rd party signing key will change the measurements and invalidate any sealed secrets. It's trivial to detect this. Distrusting the 3rd party CA by default doesn't improve security, it just makes it harder for users to boot alternative operating systems.\nLenovo, this isn't OK. The entire architecture of UEFI secure boot is that it allows for security without compromising user choice of OS. Restricting boot to Windows by default provides no security benefit but makes it harder for people to run the OS they want to. Please fix it.\n comments",
-          "link": "https://mjg59.dreamwidth.org/59931.html",
-          "publishedOn": "2022-07-08T06:49:40.000Z",
-          "wordCount": null,
-          "title": "Matthew Garrett: Lenovo shipping new laptops that only boot Windows by default",
           "imageUrl": null
         }
       ]
