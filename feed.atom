@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-06T07:20:26.939Z</updated>
+    <updated>2022-08-06T08:26:50.650Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What are we all playing this weekend?]]></title>
+        <id>https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-202</id>
+        <link href="https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-202"/>
+        <updated>2022-08-06T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We're entering another stretch of summer games busyness, following NotE3. This month we have events including German game bonanza Gamescom, Bethesda's QuakeCon, the indie horror showcase EEK3, and, starting today, Japanese indie fest BitSummit. But those are futuregames. For now, what are you playing this weekend? Here's what we're clicking on!
+Read more]]></summary>
+        <author>
+            <name>Alice O'Connor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenJ9 v0.33 Released For Eclipse's High Performance JVM]]></title>
         <id>https://www.phoronix.com/news/OpenJ9-0.33-Released</id>
