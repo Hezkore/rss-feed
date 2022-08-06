@@ -316,6 +316,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/08/proton-experimental-gets-halo-infinite-working-plus-airborne-kingdom/",
+          "author": "Liam Dawe",
+          "description": "Hot on the heels of Proton 7.0-4 getting a Release Candidate, Valve has put up a new build of Proton Experimental and it's quite an exciting one. This is the special version of Proton you can try, that often pulls in new features and fixes earlier to get more Windows games working on Linux desktop and Steam Deck.",
+          "link": "https://www.gamingonlinux.com/2022/08/proton-experimental-gets-halo-infinite-working-plus-airborne-kingdom/",
+          "publishedOn": "2022-08-06T12:53:24.000Z",
+          "wordCount": 1227,
+          "title": "Proton Experimental gets Halo Infinite working plus Airborne Kingdom",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1338071315id21416gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/08/proton-70-4-is-coming-to-bring-more-compatibility-to-linux-and-steam-deck/",
           "author": "Liam Dawe",
           "description": "Valve are preparing to ship the next version of Proton, their compatibility layer that runs Windows games on Steam Deck and Linux desktop with Proton 7.0-4 having a Release Candidate ready to test.",
@@ -6050,6 +6060,36 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "H69gLnwX8DZS9tYFQh4CKA",
+          "author": null,
+          "description": "An Intel Core i9-13900K sample was seen clocking as high as 5.77 GHz in a recent Geekbench 5 benchmark result.",
+          "link": "https://www.tomshardware.com/news/13900k-raptor-lake-5-77ghz-geekbench",
+          "publishedOn": "2022-08-06T13:06:21.000Z",
+          "wordCount": 18054,
+          "title": "Prototype Core i9-13900K Raptor Lake Chip Blasts Off To 5.77GHz",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/u3UW2XDSVq3mYpjaDKmpiA.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/u3UW2XDSVq3mYpjaDKmpiA.jpg"
+        },
+        {
+          "id": "Z9PZ2cpYGTgD4Fy7q44VVS",
+          "author": null,
+          "description": "The Raspberry Pi Pico W is cheap enough to forget about it and in this project we do just that. We build a sensor platform from the Pico W and send live data to the cloud using Node-RED to create our own web application.",
+          "link": "https://www.tomshardware.com/how-to/raspberry-pi-pico-w-node-red",
+          "publishedOn": "2022-08-06T13:00:13.000Z",
+          "wordCount": 20381,
+          "title": "How to Use Raspberry Pi Pico W With Node-RED",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/RUfnqaCdfphNF9YUo7q63A.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/RUfnqaCdfphNF9YUo7q63A.jpg"
+        },
         {
           "id": "M5SxbyhP77U9AY6q3eu52U",
           "author": null,

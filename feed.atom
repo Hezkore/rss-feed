@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-06T12:37:23.715Z</updated>
+    <updated>2022-08-06T13:29:52.527Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Prototype Core i9-13900K Raptor Lake Chip Blasts Off To 5.77GHz]]></title>
+        <id>H69gLnwX8DZS9tYFQh4CKA</id>
+        <link href="https://www.tomshardware.com/news/13900k-raptor-lake-5-77ghz-geekbench"/>
+        <updated>2022-08-06T13:06:21.000Z</updated>
+        <summary type="html"><![CDATA[An Intel Core i9-13900K sample was seen clocking as high as 5.77 GHz in a recent Geekbench 5 benchmark result.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Use Raspberry Pi Pico W With Node-RED]]></title>
+        <id>Z9PZ2cpYGTgD4Fy7q44VVS</id>
+        <link href="https://www.tomshardware.com/how-to/raspberry-pi-pico-w-node-red"/>
+        <updated>2022-08-06T13:00:13.000Z</updated>
+        <summary type="html"><![CDATA[The Raspberry Pi Pico W is cheap enough to forget about it and in this project we do just that. We build a sensor platform from the Pico W and send live data to the cloud using Node-RED to create our own web application.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proton Experimental gets Halo Infinite working plus Airborne Kingdom]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/proton-experimental-gets-halo-infinite-working-plus-airborne-kingdom/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/proton-experimental-gets-halo-infinite-working-plus-airborne-kingdom/"/>
+        <updated>2022-08-06T12:53:24.000Z</updated>
+        <summary type="html"><![CDATA[Hot on the heels of Proton 7.0-4 getting a Release Candidate, Valve has put up a new build of Proton Experimental and it's quite an exciting one. This is the special version of Proton you can try, that often pulls in new features and fixes earlier to get more Windows games working on Linux desktop and Steam Deck.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dygma Raise Review: An Easy Split Decision]]></title>
         <id>M5SxbyhP77U9AY6q3eu52U</id>
