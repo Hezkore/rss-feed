@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-06T03:46:24.365Z</updated>
+    <updated>2022-08-06T04:29:48.562Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenRISC Enables PCI Support With Linux 6.0]]></title>
+        <id>https://www.phoronix.com/news/OpenRISC-PCI-Linux-6.0</id>
+        <link href="https://www.phoronix.com/news/OpenRISC-PCI-Linux-6.0"/>
+        <updated>2022-08-06T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While OpenRISC has been around a decade longer than RISC-V and its original support in the Linux kernel dates back to the v3.1 days, on the hardware side OpenRISC hasn't enjoyed nearly as much success as RISC-V and its kernel support not advancing nearly as rapidly. Now with Linux 6.0, OpenRISC is finally exposing PCI bus support...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft trackers run afoul of DuckDuckGo, get added to blocklist]]></title>
         <id>https://arstechnica.com/?p=1871913</id>
