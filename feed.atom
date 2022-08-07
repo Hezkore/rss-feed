@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-07T20:22:59.034Z</updated>
+    <updated>2022-08-07T21:18:32.730Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.0 SMB3 Client Code Brings Multi-Channel Performance Improvement]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.0-SM3-Client-Perf-MC</id>
+        <link href="https://www.phoronix.com/news/Linux-6.0-SM3-Client-Perf-MC"/>
+        <updated>2022-08-07T20:52:44.000Z</updated>
+        <summary type="html"><![CDATA[The Linux CIFS/SMB3 client updates were merged on Sunday for the Linux 6.0 merge window. Notable with this round of updates is a performance improvement for the multi-channel mode...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nyhetsquiz vecka 31 2022: Winamp, Ryzen 7000 och Intel Arc]]></title>
+        <id>https://www.sweclockers.com/artikel/34717</id>
+        <link href="https://www.sweclockers.com/artikel/34717-nyhetsquiz-vecka-31-2022-winamp-ryzen-7000-och-intel-arc"/>
+        <updated>2022-08-07T20:33:54.000Z</updated>
+        <summary type="html"><![CDATA[Förväntan och besvikelse löper parallellt i nyhetsflödet, när färska processorer och tveksamma grafikkort trängs. Får du alla rätt den här veckan?]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OpenSUSE Tumblewed Planning To Finally End ReiserFS Support]]></title>
         <id>https://www.phoronix.com/news/OpenSUSE-Drop-ReiserFS</id>
@@ -452,6 +472,32 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<h4>Plus: That Twitter privacy leak, scammers send Ubers for victims, critical flaw in Cisco gear, and more</h4> <p><strong>In brief</strong>  DuckDuckGo has finally mostly cracked down on the third-party Microsoft tracking scripts that got the alternative search engine into hot water earlier this year.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dirk Eddelbuettel: RcppCCTZ 0.2.11 on CRAN: Updates]]></title>
+        <id>http://dirk.eddelbuettel.com/blog/2022/08/06#rcppcctz_0.2.11</id>
+        <link href="http://dirk.eddelbuettel.com/blog/2022/08/06#rcppcctz_0.2.11"/>
+        <updated>2022-08-06T18:52:00.000Z</updated>
+        <summary type="html"><![CDATA[A new release 0.2.11 of RcppCCTZ is now on CRAN.
+RcppCCTZ uses Rcpp to bring CCTZ to R. CCTZ is a C++ library for translating between absolute and civil times using the rules of a time zone. In fact, it is two libraries. One for dealing with civil time: human-readable dates and times, and one for converting between between absolute and civil times via time zones. And while CCTZ is made by Google(rs), it is not an official Google product. The RcppCCTZ page has a few usage examples and details. This package was the first CRAN package to use CCTZ; by now four others packages include its sources too. Not ideal, but beyond our control.
+This version updates the include headers used in the interface API header thanks to a PR by Jing Lu, updates to upstream changes, and switched r-ci CI to r2u.
+Changes in version 0.2.11 (2022-08-06)
+More specific includes in RcppCCTZ_API.h (Jing Lu in #42 closing #41).
+
+
+Synchronized with upstream CCTZ (Dirk in #43).
+
+
+Switched r-ci to r2u use.
+
+
+
+Courtesy of my CRANberries, there is also a diffstat to the previous version. More details are at the RcppCCTZ page; code, issue tickets etc at the GitHub repository.
+If you like this or other open-source work I do, you can now sponsor me at GitHub.
+Dirk Eddelbuettel originated on his Thinking inside the box blog. Please report excessive re-aggregation in third-party for-profit settings.]]></summary>
+        <author>
+            <name>Planet Debian</name>
         </author>
     </entry>
     <entry>

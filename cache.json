@@ -4217,6 +4217,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-6.0-SM3-Client-Perf-MC",
+          "author": null,
+          "description": "The Linux CIFS/SMB3 client updates were merged on Sunday for the Linux 6.0 merge window. Notable with this round of updates is a performance improvement for the multi-channel mode...",
+          "link": "https://www.phoronix.com/news/Linux-6.0-SM3-Client-Perf-MC",
+          "publishedOn": "2022-08-07T20:52:44.000Z",
+          "wordCount": 1382,
+          "title": "Linux 6.0 SMB3 Client Code Brings Multi-Channel Performance Improvement",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/OpenSUSE-Drop-ReiserFS",
           "author": null,
           "description": "SUSE had been one of the big supporters of ReiserFS two decades ago when it was using the ReiserFS file-system by default but that practice ended in 2006. While SUSE/openSUSE hasn't defaulted to ReiserFS for many years, it has remained an install-time option and retained support for mounting ReiserFS file-systems, but that practice is likely soon ending...",
@@ -7648,6 +7658,16 @@
           "imageUrl": null
         },
         {
+          "id": "http://dirk.eddelbuettel.com/blog/2022/08/06#rcppcctz_0.2.11",
+          "author": null,
+          "description": "A new release 0.2.11 of RcppCCTZ is now on CRAN.\nRcppCCTZ uses Rcpp to bring CCTZ to R. CCTZ is a C++ library for translating between absolute and civil times using the rules of a time zone. In fact, it is two libraries. One for dealing with civil time: human-readable dates and times, and one for converting between between absolute and civil times via time zones. And while CCTZ is made by Google(rs), it is not an official Google product. The RcppCCTZ page has a few usage examples and details. This package was the first CRAN package to use CCTZ; by now four others packages include its sources too. Not ideal, but beyond our control.\nThis version updates the include headers used in the interface API header thanks to a PR by Jing Lu, updates to upstream changes, and switched r-ci CI to r2u.\nChanges in version 0.2.11 (2022-08-06)\nMore specific includes in RcppCCTZ_API.h (Jing Lu in #42 closing #41).\n\n\nSynchronized with upstream CCTZ (Dirk in #43).\n\n\nSwitched r-ci to r2u use.\n\n\n\nCourtesy of my CRANberries, there is also a diffstat to the previous version. More details are at the RcppCCTZ page; code, issue tickets etc at the GitHub repository.\nIf you like this or other open-source work I do, you can now sponsor me at GitHub.\nDirk Eddelbuettel originated on his Thinking inside the box blog. Please report excessive re-aggregation in third-party for-profit settings.",
+          "link": "http://dirk.eddelbuettel.com/blog/2022/08/06#rcppcctz_0.2.11",
+          "publishedOn": "2022-08-06T18:52:00.000Z",
+          "wordCount": 898,
+          "title": "Dirk Eddelbuettel: RcppCCTZ 0.2.11 on CRAN: Updates",
+          "imageUrl": null
+        },
+        {
           "id": "http://blog.alteholz.eu/?p=1433",
           "author": null,
           "description": "FTP master\nThis month I accepted 420 and rejected 44 packages. The overall number of packages that got accepted was 422.\nI am sad to write the following lines, but unfortunately there are people who rather take advantage of others instead of doing a proper maintenance of their packages.\nSo, in order to find time slots for as much packages in NEW as possible, I no longer write a debian/copyright for others. I know it is a boring task to collect the copyright information, but our policy still requires this. Of course nobody is perfect and certainly one or the other license or copyright holder can be overlooked. Luckily most of the contributors maintain their debian/copyright very thouroughly with a terrific result.\nOn the other hand some contributors upload only some crap and demand that I e…",
@@ -9775,6 +9795,16 @@
       "feedUrl": "https://www.sweclockers.com/feeds/nyheter",
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
+        {
+          "id": "https://www.sweclockers.com/artikel/34717",
+          "author": null,
+          "description": "Förväntan och besvikelse löper parallellt i nyhetsflödet, när färska processorer och tveksamma grafikkort trängs. Får du alla rätt den här veckan?",
+          "link": "https://www.sweclockers.com/artikel/34717-nyhetsquiz-vecka-31-2022-winamp-ryzen-7000-och-intel-arc",
+          "publishedOn": "2022-08-07T20:33:54.000Z",
+          "wordCount": 1516,
+          "title": "Nyhetsquiz vecka 31 2022: Winamp, Ryzen 7000 och Intel Arc",
+          "imageUrl": "https://www.sweclockers.com/artikel/34717/og-image"
+        },
         {
           "id": "https://www.sweclockers.com/artikel/34716",
           "author": null,
