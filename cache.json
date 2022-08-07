@@ -7613,6 +7613,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "http://dirk.eddelbuettel.com/blog/2022/08/07#rapiserialize_0.1.1",
+          "author": null,
+          "description": "A new release 0.1.1 of RApiSerialize is now on CRAN. While this is the first release in seven years (!!), it brings mostly minor internal updates along with the option of using serialization format 3.\nThe package is used by both my RcppRedis as well as by Travers excellent qs package. Neither one of us has a need to switch to format 3 yet so format 2 remains the default. But along with other standard updates to package internals, it was straightforward to offer the newer format so that is what we did.\nChanges in version 0.1.1 (2022-08-07)\nUpdated CI use to r-ci\n\n\nExpanded and updated both DESCRIPTION and README.md\n\n\nUpdated package internals to register compiled functions\n\n\nAdd support for serialization format 3, default remains 2\n\n\nMinor synchronization with upstream\n\n\n\nCourtesy of my CRANberries, there is also a diffstat to the previous version. More details are at the RApiSerialize page; code, issue tickets etc at the GitHub repository.\nIf you like this or other open-source work I do, you can now sponsor me at GitHub.\nDirk Eddelbuettel originated on his Thinking inside the box blog. Please report excessive re-aggregation in third-party for-profit settings.",
+          "link": "http://dirk.eddelbuettel.com/blog/2022/08/07#rapiserialize_0.1.1",
+          "publishedOn": "2022-08-07T16:38:00.000Z",
+          "wordCount": 856,
+          "title": "Dirk Eddelbuettel: RApiSerialize 0.1.1 on CRAN: Updates",
+          "imageUrl": null
+        },
+        {
           "id": "http://blog.alteholz.eu/?p=1433",
           "author": null,
           "description": "FTP master\nThis month I accepted 420 and rejected 44 packages. The overall number of packages that got accepted was 422.\nI am sad to write the following lines, but unfortunately there are people who rather take advantage of others instead of doing a proper maintenance of their packages.\nSo, in order to find time slots for as much packages in NEW as possible, I no longer write a debian/copyright for others. I know it is a boring task to collect the copyright information, but our policy still requires this. Of course nobody is perfect and certainly one or the other license or copyright holder can be overlooked. Luckily most of the contributors maintain their debian/copyright very thouroughly with a terrific result.\nOn the other hand some contributors upload only some crap and demand that I e…",
@@ -8873,6 +8883,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291030",
+          "author": null,
+          "description": "Spela som Albert Wesker i Dead by Daylight",
+          "link": "https://www.fz.se/artikel/291030-dead-by-daylight-far-mer-resident-evil-innehall",
+          "publishedOn": "2022-08-07T16:26:17.000Z",
+          "wordCount": 1774,
+          "title": "Dead by Daylight får mer Resident Evil-innehåll",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291030"
+        },
         {
           "id": "https://www.fz.se/artikel/291029",
           "author": null,

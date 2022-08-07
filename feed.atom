@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-07T16:29:18.710Z</updated>
+    <updated>2022-08-07T17:20:53.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dirk Eddelbuettel: RApiSerialize 0.1.1 on CRAN: Updates]]></title>
+        <id>http://dirk.eddelbuettel.com/blog/2022/08/07#rapiserialize_0.1.1</id>
+        <link href="http://dirk.eddelbuettel.com/blog/2022/08/07#rapiserialize_0.1.1"/>
+        <updated>2022-08-07T16:38:00.000Z</updated>
+        <summary type="html"><![CDATA[A new release 0.1.1 of RApiSerialize is now on CRAN. While this is the first release in seven years (!!), it brings mostly minor internal updates along with the option of using serialization format 3.
+The package is used by both my RcppRedis as well as by Travers excellent qs package. Neither one of us has a need to switch to format 3 yet so format 2 remains the default. But along with other standard updates to package internals, it was straightforward to offer the newer format so that is what we did.
+Changes in version 0.1.1 (2022-08-07)
+Updated CI use to r-ci
+
+
+Expanded and updated both DESCRIPTION and README.md
+
+
+Updated package internals to register compiled functions
+
+
+Add support for serialization format 3, default remains 2
+
+
+Minor synchronization with upstream
+
+
+
+Courtesy of my CRANberries, there is also a diffstat to the previous version. More details are at the RApiSerialize page; code, issue tickets etc at the GitHub repository.
+If you like this or other open-source work I do, you can now sponsor me at GitHub.
+Dirk Eddelbuettel originated on his Thinking inside the box blog. Please report excessive re-aggregation in third-party for-profit settings.]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dead by Daylight får mer Resident Evil-innehåll]]></title>
+        <id>https://www.fz.se/artikel/291030</id>
+        <link href="https://www.fz.se/artikel/291030-dead-by-daylight-far-mer-resident-evil-innehall"/>
+        <updated>2022-08-07T16:26:17.000Z</updated>
+        <summary type="html"><![CDATA[Spela som Albert Wesker i Dead by Daylight]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MSI bekräftar datumet för Ryzen 7000-lanseringen]]></title>
         <id>https://www.sweclockers.com/artikel/34716</id>
