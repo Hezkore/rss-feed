@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-07T19:17:29.570Z</updated>
+    <updated>2022-08-07T20:22:59.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenSUSE Tumblewed Planning To Finally End ReiserFS Support]]></title>
+        <id>https://www.phoronix.com/news/OpenSUSE-Drop-ReiserFS</id>
+        <link href="https://www.phoronix.com/news/OpenSUSE-Drop-ReiserFS"/>
+        <updated>2022-08-07T19:38:02.000Z</updated>
+        <summary type="html"><![CDATA[SUSE had been one of the big supporters of ReiserFS two decades ago when it was using the ReiserFS file-system by default but that practice ended in 2006. While SUSE/openSUSE hasn't defaulted to ReiserFS for many years, it has remained an install-time option and retained support for mounting ReiserFS file-systems, but that practice is likely soon ending...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EVGA Slashes $1,000 Off GeForce RTX 3090 Ti GPUs, Starting at $1,149]]></title>
         <id>VBGmQEjTxzNQLPt4mnhBz3</id>
@@ -13398,16 +13408,6 @@ All good so far :)]]></summary>
 <p>The post <a rel="nofollow" href="https://moonbeard.com/2022/07/pain/">Pain</a> appeared first on <a rel="nofollow" href="https://moonbeard.com">Moonbeard</a>.</p>]]></summary>
         <author>
             <name>Moonbeard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Microsoft Office on Linux]]></title>
-        <id>https://itsfoss.com/?p=99173</id>
-        <link href="https://itsfoss.com/use-microsoft-office-linux/"/>
-        <updated>2022-07-09T07:20:30.000Z</updated>
-        <summary type="html"><![CDATA[In dire need of using Microsoft Office on your Linux desktop? Here are your options for getting MS Office on Linux.]]></summary>
-        <author>
-            <name>Sagar Sharma</name>
         </author>
     </entry>
 </feed>

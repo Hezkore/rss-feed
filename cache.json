@@ -240,16 +240,6 @@
           "wordCount": 7308,
           "title": "Tropy: An Open-Source App to Organize Your Research Photos",
           "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/07/tropy-app-of-the-week.jpg"
-        },
-        {
-          "id": "https://itsfoss.com/?p=99173",
-          "author": "Sagar Sharma",
-          "description": "In dire need of using Microsoft Office on your Linux desktop? Here are your options for getting MS Office on Linux.",
-          "link": "https://itsfoss.com/use-microsoft-office-linux/",
-          "publishedOn": "2022-07-09T07:20:30.000Z",
-          "wordCount": 8873,
-          "title": "How to Use Microsoft Office on Linux",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/07/use-msoffice-in-linux.jpg"
         }
       ]
     },
@@ -4226,6 +4216,16 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/OpenSUSE-Drop-ReiserFS",
+          "author": null,
+          "description": "SUSE had been one of the big supporters of ReiserFS two decades ago when it was using the ReiserFS file-system by default but that practice ended in 2006. While SUSE/openSUSE hasn't defaulted to ReiserFS for many years, it has remained an install-time option and retained support for mounting ReiserFS file-systems, but that practice is likely soon ending...",
+          "link": "https://www.phoronix.com/news/OpenSUSE-Drop-ReiserFS",
+          "publishedOn": "2022-08-07T19:38:02.000Z",
+          "wordCount": 1294,
+          "title": "OpenSUSE Tumblewed Planning To Finally End ReiserFS Support",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Linux-6.0-Staging",
           "author": null,
