@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-07T10:23:37.625Z</updated>
+    <updated>2022-08-07T11:17:30.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RADV Lands Rewritten Acceleration Structures For Ray-Tracing In Mesa 22.3]]></title>
+        <id>https://www.phoronix.com/news/RADV-RT-New-Accel-Structs</id>
+        <link href="https://www.phoronix.com/news/RADV-RT-New-Accel-Structs"/>
+        <updated>2022-08-07T10:53:51.000Z</updated>
+        <summary type="html"><![CDATA[Being merged into Mesa 22.3 this morning for the open-source Radeon Vulkan driver "RADV" are rewritten acceleration structures for the ray-tracing support...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Core i9-13900 "Raptor Lake" på operationsbordet]]></title>
+        <id>https://www.sweclockers.com/artikel/34715</id>
+        <link href="https://www.sweclockers.com/artikel/34715-intel-core-i9-13900-raptor-lake-pa-operationsbordet"/>
+        <updated>2022-08-07T10:47:58.000Z</updated>
+        <summary type="html"><![CDATA[Med rakblad och värmepistol avlägsnas värmespridaren från ett utvecklingsexemplar av Core i9-13900. Under huven hittas en krets på 257 mm².]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zenless Zone Zero's beta test shows some flashy looking gameplay]]></title>
+        <id>https://www.vg247.com/zenless-zone-zero-gameplay</id>
+        <link href="https://www.vg247.com/zenless-zone-zero-gameplay"/>
+        <updated>2022-08-07T10:43:37.000Z</updated>
+        <summary type="html"><![CDATA[The first beta test for Zenless Zone Zero is underway, and gameplay has started appearing online giving us a first proper look.
+First revealed back in May, Zenless Zone Zero is the next big title from HoYoverse, obviously best known for the insatiably popular Genshin Impact. There's been tasty morsels of gameplay shown here and there since its announcement, but never anything too substantial. August 5 saw the start of the game's first beta test however, and so far it's looking pretty action packed based on gameplay shared online (thanks, PCGamer).
+Where Genshin Impact's genre is obviously fantasy, Zenless Zone Zero is much more modern, with some strong Jet Set Radio and The World Ends With You vibes. It also differs in that it's a roguelike, where you explore areas called Hollows to take down monsters. It seems that each mission is made up of various screens, in the very literal TV sense, which each contain their own levels.
+ Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BUS1 Working On "r-linux" - A Rust Capability-Based Linux Runtime]]></title>
         <id>https://www.phoronix.com/news/BUS1-r-linux</id>
@@ -78,6 +111,16 @@ In response to a follower asking if Finn would be receiving a particular nerf, H
         <summary type="html"><![CDATA[Mer cyberpunk åt folket!]]></summary>
         <author>
             <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK wants criminal migrants to scan their faces up to five times a day using a watch]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/07/in_breif_ai/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/07/in_breif_ai/"/>
+        <updated>2022-08-07T08:21:11.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Plus: Meta launches prototype AI chatbot, and cities reverse facial recognition bans</h4> <p><strong>In brief</strong>  The UK's Home Office and Ministry of Justice want migrants with criminal convictions to scan their faces up to five times a day using a smartwatch kitted out with facial-recognition software.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
         </author>
     </entry>
     <entry>
@@ -177,6 +220,16 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DuckDuckGo says Hell, Hell, No to those Microsoft trackers after web revolt]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/06/in_brief_security/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/06/in_brief_security/"/>
+        <updated>2022-08-06T19:41:14.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Plus: That Twitter privacy leak, scammers send Ubers for victims, critical flaw in Cisco gear, and more</h4> <p><strong>In brief</strong>  DuckDuckGo has finally mostly cracked down on the third-party Microsoft tracking scripts that got the alternative search engine into hot water earlier this year.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
         </author>
     </entry>
     <entry>
@@ -433,6 +486,16 @@ But what are you going to do once you arrive? Take care of the yard? No, it's fi
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[FauxPilot: It's like GitHub Copilot but doesn't phone home to Microsoft]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/06/fauxpilot_github_copilot/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/06/fauxpilot_github_copilot/"/>
+        <updated>2022-08-06T11:56:09.000Z</updated>
+        <summary type="html"><![CDATA[<h4>And if you train your own AI model for it, you can worry less about licensing</h4> <p><strong>Updated</strong>  GitHub Copilot, one of several recent tools for generating programming code suggestions with the help of AI models, remains problematic for some users due to licensing concerns and to the telemetry the software sends back to the Microsoft-owned company.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Partnertillverkare tveksamma till Intel Arc "Alchemist"]]></title>
         <id>https://www.sweclockers.com/artikel/34710</id>
         <link href="https://www.sweclockers.com/artikel/34710-partnertillverkare-tveksamma-till-intel-arc-alchemist"/>
@@ -569,6 +632,16 @@ On the one hand, that's fair enough - the old Deus Ex was good, and it was a pro
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hi, I'll be your ransomware negotiator today – but don't tell the crooks that]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/06/interview_ransomware_negotiator/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/06/interview_ransomware_negotiator/"/>
+        <updated>2022-08-06T08:19:05.000Z</updated>
+        <summary type="html"><![CDATA[<h4>What it's like bargaining with criminals ... and advising clients suffering their worst day yet</h4> <p><strong>Interview</strong>  The first rule of being a ransomware negotiator is that you don't admit you're a ransomware negotiator — at least not to LockBit or another cybercrime gang. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[What are we all playing this weekend?]]></title>
         <id>https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-202</id>
         <link href="https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-202"/>
@@ -620,6 +693,36 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Remember the humanoid Tesla robot? It's ready for September reveal, says Musk]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/05/tesla_musk_robot/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/05/tesla_musk_robot/"/>
+        <updated>2022-08-05T23:37:05.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Find it next to the Cybertruck, Boring tunnel maps, Twitter acquisition and my sense of commitment</h4> <p>If Elon Musk's claims made during Tesla's shareholder meeting this week are accurate, get ready for that humanoid robot he promised, some self-driving software update, and an overhauled Cybertruck. Then again, this is Elon we're talking about.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple tells suppliers to use 'Taiwan, China' or 'Chinese Taipei' to appease Beijing]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/05/apple_warns_suppliers_in_taiwan/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/05/apple_warns_suppliers_in_taiwan/"/>
+        <updated>2022-08-05T22:47:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>That's the way the Cook he crumbles</h4> <p>Apple, which celebrates its self-professed commitment to free expression and human rights, has reportedly told its suppliers in Taiwan to label their components so they describe Taiwan as a province of the People's Republic of China (PRC).…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russia: Hey, don't act surprised if we're still on the ISS in 2030]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/05/roscosmos_nasa_iss/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/05/roscosmos_nasa_iss/"/>
+        <updated>2022-08-05T22:10:32.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Yeah, they do have a habit of being in places where they are no longer welcome</h4> <p>Russia's space agency has signaled it may well continue maintaining its chunk of the International Space Station to potentially as far out as 2030. Or as early as 2025.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Microsoft trackers run afoul of DuckDuckGo, get added to blocklist]]></title>
         <id>https://arstechnica.com/?p=1871913</id>
         <link href="https://arstechnica.com/?p=1871913"/>
@@ -657,6 +760,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Whatever you do, don't get the water in your mouth.]]></summary>
         <author>
             <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nomad to crypto thieves: Please give us back 90%, keep 10% as a reward. Deal?]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/05/nomad_white_hat_payback/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/05/nomad_white_hat_payback/"/>
+        <updated>2022-08-05T19:43:59.000Z</updated>
+        <summary type="html"><![CDATA[<h4>The Feds may see things differently</h4> <p>Cryptocurrency bridge Nomad sent a message to the looters who drained nearly $200 million in tokens from its coffers earlier this week: return at least 90 percent of the ill-gotten gains, keep 10 percent as a bounty for discovering the security flaw, and Nomad will consider this a "white-hat" hack, as opposed to plain old theft, and not take legal action.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
         </author>
     </entry>
     <entry>
@@ -718,6 +831,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Too little, too late: Intel's legacy is eroding]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/05/intel_is_late_again/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/05/intel_is_late_again/"/>
+        <updated>2022-08-05T18:52:13.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Can Pat stop the rot – or is the chip giant facing a Kodak moment?</h4> <p><strong>Comment</strong>  Intel CEO Pat Gelsinger's carefully assembled house of cards is collapsing around him. And it's not really that surprising when you look at the hand he's been dealt.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Steam Beta Allows PC Gamers to Use Nintendo Joy-Con Controllers]]></title>
         <id>zEzWxVn3MceEiQhwfAqwc8</id>
         <link href="https://www.tomshardware.com/news/nintendo-joy-cons-steam-pc"/>
@@ -735,6 +858,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Andra spel går inte alls lika bra.]]></summary>
         <author>
             <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warning! Critical flaws found in US Emergency Alert System]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/05/eas_vulnerabilities_dhs/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/05/eas_vulnerabilities_dhs/"/>
+        <updated>2022-08-05T18:05:55.000Z</updated>
+        <summary type="html"><![CDATA[<h4>DEF CON may be about to blow lid off security hole</h4> <p>The US government is warning of critical vulnerabilities in its Emergency Alert System (EAS) systems that, if exploited, could enable intruders to send fake alerts out over television, radio, and cable networks.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
         </author>
     </entry>
     <entry>
@@ -849,6 +982,16 @@ To participate in the preview, you need to purchase the Xbox Game Pass – Insid
  Read more]]></summary>
         <author>
             <name>Stephany Nunneley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fancy a freshened up SLAX or ChromeOS replacement Peppermint OS?]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/05/peppermint_os_and_slax_both/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/05/peppermint_os_and_slax_both/"/>
+        <updated>2022-08-05T16:31:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Two lightweight distros get updated after extended pauses</h4> <p>Slax, one of the lightest-weight Linux distros around, and Peppermint OS, a web-centric Debian remix, both put out new versions this week.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
         </author>
     </entry>
     <entry>
@@ -992,6 +1135,16 @@ On the other hand some contributors upload only some crap and demand that I e…
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Amazon buys Roomba maker iRobot for $1.7b]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/05/amazon_robot_ecommerce_giant_buys/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/05/amazon_robot_ecommerce_giant_buys/"/>
+        <updated>2022-08-05T15:30:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Bezos empire continues to clean up, but did it pick the proper postulates?</h4> <p><strong>Updated</strong>  Megacorp Amazon wants to buy iRobot, a company that is best known for its Roomba autonomous vacuum cleaner.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Corsair’s RM750 PSU Is Back Down to $99: Real Deals]]></title>
         <id>5VqP2RgJypnm4YXX5bt9L6</id>
         <link href="https://www.tomshardware.com/news/corsairs-rm750-psu-is-back-down-to-dollar99-real-deals"/>
@@ -1009,6 +1162,16 @@ On the other hand some contributors upload only some crap and demand that I e…
         <summary type="html"><![CDATA[Following the release of GNU Glibc 2.36 earlier this week, GNU Binutils 2.39 released today for this common set of binary utilities on open-source systems...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flash memory vendors unveil PCIe 5.0 SSDs, latest spec for CXL interconnect tech]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/05/pcie_50_ssds_cxl_30/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/05/pcie_50_ssds_cxl_30/"/>
+        <updated>2022-08-05T15:05:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Folk of flash meet in person as Compute Express Link 3.0 debuts</h4> <p><strong>Flash Memory Summit</strong>  The Flash Memory Summit 2022 was held as an in-person event again this week for the first time since 2019, at the Santa Clara Convention Center San Francisco, showcasing the latest developments in memory and storage.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
         </author>
     </entry>
     <entry>
@@ -1176,6 +1339,16 @@ Another Princess Is In Our Castle is a horror game based on the N64 classic Supe
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Scientist shares spicy pic of 'James Webb' discovery]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/05/scientist_shares_spicy_pic_of/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/05/scientist_shares_spicy_pic_of/"/>
+        <updated>2022-08-05T13:38:57.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Set hyperdrives for the Chorizos system ... oh actually it's baloney</h4> <p>A French scientist's spicy tweet fooled the internet into believing a slice of chorizo was a detailed picture of a star captured by the James Webb Space Telescope. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Valve spoke to IGN Japan about the Steam Deck, here's a few takeaway points]]></title>
         <id>https://www.gamingonlinux.com/2022/08/valve-spoke-to-ign-japan-about-the-steam-deck-heres-a-few-takeaway-points/</id>
         <link href="https://www.gamingonlinux.com/2022/08/valve-spoke-to-ign-japan-about-the-steam-deck-heres-a-few-takeaway-points/"/>
@@ -1265,6 +1438,16 @@ Dirk Eddelbuettel originated on his Thinking inside the box blog. Please report 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Major IT outage forces UK emergency call handlers to use 'pen and paper']]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/05/major_outage_at_it_service/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/05/major_outage_at_it_service/"/>
+        <updated>2022-08-05T13:00:11.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Suspected cyberattack at Advanced takes down part of server estate that hosted range of apps</h4> <p><strong>Updated</strong>  Tech services provider Advanced has taken part of its infrastructure offline as it tries to contain a suspected security incident, with a range of hosted applications not available to health customers, including NHS 111 emergency services.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[New study claims Belgium's loot box law isn't being enforced]]></title>
         <id>https://www.eurogamer.net/new-study-claims-belgiums-loot-box-law-isnt-being-enforced</id>
         <link href="https://www.eurogamer.net/new-study-claims-belgiums-loot-box-law-isnt-being-enforced"/>
@@ -1308,6 +1491,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Ska vara i kontakt med Ubisofts grundare.]]></summary>
         <author>
             <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Virgin Galactic delays commercial suborbital flights again]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/05/virgin_galactic/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/05/virgin_galactic/"/>
+        <updated>2022-08-05T12:31:11.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Buys up land to train and entertain space tourists when they do start</h4> <p>Virgin Galactic (VG) is once again delaying its commercial service, shifting the expected launch of well-to-do space tourists from the first three months of 2023 to Q2, amid widening losses for the business.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
         </author>
     </entry>
     <entry>
@@ -1386,6 +1579,16 @@ Blizzard exec Jon Spector tweeted the news last night, in response to questions 
 Read more]]></summary>
         <author>
             <name>Liv Ngan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel close to deal for semiconductor plant in Italy]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/05/intel_italy/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/05/intel_italy/"/>
+        <updated>2022-08-05T11:44:27.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Chip giant's efforts to building production capacity outside of Asia gains steam</h4> <p><strong>Updated</strong>  Intel is preparing to close a deal worth at least $5 billion that will see the chip giant build a semiconductor plant in Italy.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
         </author>
     </entry>
     <entry>
@@ -1639,6 +1842,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[China-linked fake news site shows disinformation on the rise]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/05/china_fake_news/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/05/china_fake_news/"/>
+        <updated>2022-08-05T10:32:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Beijing-backed PR firm is behind at least 72 ersatz web titles, Mandiant says</h4> <p>A Beijing-backed PR firm has been accused of being behind at least 72 fake-news websites and social media accounts pushing pro-China propaganda and criticizing the US and its allies. …</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Mario Kart 8 Deluxe DLC music leak points to many future tracks]]></title>
         <id>https://www.eurogamer.net/mario-kart-8-deluxe-dlc-music-leak-points-to-many-future-tracks</id>
         <link href="https://www.eurogamer.net/mario-kart-8-deluxe-dlc-music-leak-points-to-many-future-tracks"/>
@@ -1736,6 +1949,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Enough with the notifications! Focus Assist will shut them u… 'But I'm too important!']]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/05/something_for_the_weekend/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/05/something_for_the_weekend/"/>
+        <updated>2022-08-05T09:30:13.000Z</updated>
+        <summary type="html"><![CDATA[<h4>An app will always find a way to interrupt what you’re doing</h4> <p><strong>Something for the Weekend</strong>  Mme D and I are in the cellar, listening intently. Nothing.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Play Far Cry 6, and it's DLC for free this weekend]]></title>
         <id>https://www.vg247.com/play-far-cry-6-and-its-dlc-for-free-this-weekend</id>
         <link href="https://www.vg247.com/play-far-cry-6-and-its-dlc-for-free-this-weekend"/>
@@ -1813,6 +2036,16 @@ I have now been part of the Eurogamer team for six wonderful months (woo). Howev
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Be careful where you install software, and who installs it]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/05/on_call/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/05/on_call/"/>
+        <updated>2022-08-05T08:30:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>I have bigger problems than where you put our code</h4> <p><strong>On Call</strong>  Be careful where you install stuff, and who is doing the installing. Welcome to an <a target="_blank" href="https://www.theregister.com/Tag/on-call">On Call</a> in which normal service is interrupted by a military intervention.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Xbox har börjat testa en familjeprenumeration för Game Pass]]></title>
         <id>https://www.fz.se/artikel/291013</id>
         <link href="https://www.fz.se/artikel/291013-xbox-har-borjat-testa-en-familjeprenumeration-for-game-pass"/>
@@ -1820,6 +2053,16 @@ I have now been part of the Eurogamer team for six wonderful months (woo). Howev
         <summary type="html"><![CDATA[Men än så länge bara i Colombia och på Irland.]]></summary>
         <author>
             <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Claims of AI sentience branded 'pure clickbait']]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/05/ai-sentience-rubbish/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/05/ai-sentience-rubbish/"/>
+        <updated>2022-08-05T07:27:09.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Stanford academics peeved over LaMDA chatbot brouhaha</h4> <p>AI chatbots are not sentient – they have just got better at tricking humans into thinking they might be, experts at Stanford University conclude.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
         </author>
     </entry>
     <entry>
@@ -1833,6 +2076,16 @@ I have now been part of the Eurogamer team for six wonderful months (woo). Howev
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Critical flaws found in four Cisco SMB router ranges – for the second time this year]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/05/cisco_smb_routers_critical_flaws/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/05/cisco_smb_routers_critical_flaws/"/>
+        <updated>2022-08-05T06:57:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>At least Switchzilla thinks they're salvageable, unlike the boxes it ordered binned back in June</h4> <p>Cisco has revealed four of its small business router ranges have critical flaws – for the second time in 2022 alone.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sherlock Holmes The Awakened nådde sitt Kickstarter-mål på sex timmar]]></title>
         <id>https://www.fz.se/artikel/291012</id>
         <link href="https://www.fz.se/artikel/291012-sherlock-holmes-the-awakened-nadde-sitt-kickstarter-mal-pa-sex-timmar"/>
@@ -1840,6 +2093,36 @@ I have now been part of the Eurogamer team for six wonderful months (woo). Howev
         <summary type="html"><![CDATA[Spana in trailern för denna remake.]]></summary>
         <author>
             <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[South Korea's lunar orbiter launches and phones home happily]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/05/ground_comms_established_with_south/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/05/ground_comms_established_with_south/"/>
+        <updated>2022-08-05T06:31:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Moon probe will play BTS to test space internet. Also for fun</h4> <p>South Korea's first lunar orbiter, which is about to test disruption-tolerant, network-based space communications, successfully made contact with its Australian ground station after launching on Thursday.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Citrix adds Hypervisor Cloud to bring more and faster updates]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/05/citrix_hypervisor_cloud/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/05/citrix_hypervisor_cloud/"/>
+        <updated>2022-08-05T05:45:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Years after the company quit server virtualization, but may be handy for hybrid work</h4> <p>Citrix has added a development stream to its hypervisor that promises fast and frequent enhancements, plus a cloud service to deliver them to users.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China's internet companies are decelerating cloud consumption, says Alibaba]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/05/alibaba_q2_2022/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/05/alibaba_q2_2022/"/>
+        <updated>2022-08-05T03:15:13.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Starts chasing industrial digitization as its next big opportunity</h4> <p>Alibaba's cloud operation thinks it's reached market saturation among China's big internet companies, but sees a new wave of demand coming from industrial outfits.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
         </author>
     </entry>
     <entry>
@@ -1883,6 +2166,16 @@ I have now been part of the Eurogamer team for six wonderful months (woo). Howev
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[GitLab U-turns on deleting dormant projects after backlash]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/05/gitlab_reverses_deletion_policy/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/05/gitlab_reverses_deletion_policy/"/>
+        <updated>2022-08-05T00:30:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Now makes vague pledge to shove inactive repos into slow object storage</h4> <p><strong>Updated</strong>  GitLab has reversed its decision to automatically delete projects that are inactive for more than a year and belong to its free-tier users.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Comic for 2022.08.05 - Millennial]]></title>
         <id>https://explosm.net/comics/millennial</id>
         <link href="https://explosm.net/comics/millennial"/>
@@ -1900,6 +2193,16 @@ I have now been part of the Eurogamer team for six wonderful months (woo). Howev
         <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/asking_scientists_questions.png" title="'Does the substance feel weird to the touch?' is equally likely to get the answers 'Don't be ridiculous, you would never put your hand near a sample. We have safety protocols.' and 'Yeah, and it tastes AWFUL.'" alt="'Does the substance feel weird to the touch?' is equally likely to get the answers 'Don't be ridiculous, you would never put your hand near a sample. We have safety protocols.' and 'Yeah, and it tastes AWFUL.'" />]]></summary>
         <author>
             <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bloke robbed of $800,000 in cryptocurrency by fake wallet app wants payback from Google]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/04/google_wallet_crypto_lawsuit/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/google_wallet_crypto_lawsuit/"/>
+        <updated>2022-08-04T23:45:04.000Z</updated>
+        <summary type="html"><![CDATA[<h4>I got played via the Play store</h4> <p>Last October, California resident Jacob Pearlman downloaded an Android version of a cryptocurrency wallet app called Phantom from the Google Play app store.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
         </author>
     </entry>
     <entry>
@@ -1995,6 +2298,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[US-funded breakthrough battery tech just simply handed over to China]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/04/doe_battery_tech_china/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/doe_battery_tech_china/"/>
+        <updated>2022-08-04T21:28:35.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Licencing snafu sends American invention overseas</h4> <p>When US national laboratories develop a new technology, Uncle Sam is supposed to ensure it is commercialized in America. But that's not what happened with what's said to be a breakthrough battery design. …</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Twitter subpoenas emails, texts from Tesla bigwigs and Musk’s BFFs]]></title>
         <id>https://arstechnica.com/?p=1871713</id>
         <link href="https://arstechnica.com/?p=1871713"/>
@@ -2022,6 +2335,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Exact boost amount still unclear—but early analysis suggests it's great news.]]></summary>
         <author>
             <name>Sam Machkovech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One to watch: Open-source code that measures your exposure to CCTV]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/04/cctv_exposure_tool/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/cctv_exposure_tool/"/>
+        <updated>2022-08-04T20:27:44.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Like a Geiger counter but for surveillance cameras</h4> <p>With an estimated billion surveillance cameras capturing people's daily activities, chances are you're regularly recorded if you live in a densely populated area.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
         </author>
     </entry>
     <entry>
@@ -2101,6 +2424,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Specs leak of 5.7GHz AMD Ryzen 7000 chips with double the L2 cache]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/04/amd_ryzen_7000/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/amd_ryzen_7000/"/>
+        <updated>2022-08-04T19:27:14.000Z</updated>
+        <summary type="html"><![CDATA[<h4>These might be the 5nm Zen 4 desktop processors due to land this quarter</h4> <p>AMD's Ryzen 7000 desktop processors will reportedly top 5.7 GHz in the case of the Zen giant's top-of-the-line 7950X, when they launch later this quarter.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Almost two years after Apple’s M1 launch, Microsoft Teams goes native]]></title>
         <id>https://arstechnica.com/?p=1871531</id>
         <link href="https://arstechnica.com/?p=1871531"/>
@@ -2151,6 +2484,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[There are a few notable changes worth mentioning when it comes to KVM virtualization with Linux 6.0...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft's Teams goes native on Apple, retains a human touch]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/04/teams_apple_wales/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/teams_apple_wales/"/>
+        <updated>2022-08-04T18:47:11.000Z</updated>
+        <summary type="html"><![CDATA[<h4>There'll be a welcome in valleys of Wales for language translation</h4> <p>It's been a busy week for Microsoft Teams, as the Windows giant unveiled a version of the platform optimized for Apple Silicon as well as simplified human language translation for scheduled meetings.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
         </author>
     </entry>
     <entry>
@@ -2222,6 +2565,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Whether you're having technical issues or errors, are preparing to sell your PC, or things just aren't running right, it may be time to reset Windows 10 or 11.]]></summary>
         <author>
             <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia releases first Jetson AGX Orin module for production deployment]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/04/nvidia_delivers_first_jetson_agx/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/nvidia_delivers_first_jetson_agx/"/>
+        <updated>2022-08-04T18:00:13.000Z</updated>
+        <summary type="html"><![CDATA[<h4>More expensive than a Pi but with a lot more oomph, platform to be embedded in devices at the edge</h4> <p>Nvidia is rolling out a production module of its Jetson AGX Orin platform, designed to be embedded inside devices and enable AI acceleration for a variety of applications such as robotics and edge computing.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
         </author>
     </entry>
     <entry>
@@ -2303,6 +2656,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Intel sees enough time before Wi-Fi 7's release date to improve processing speeds.]]></summary>
         <author>
             <name>Scharon Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu Focal user? Expect a Jammy upgrade popup soon]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/04/upgrade_time_for_ubuntu_focal/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/upgrade_time_for_ubuntu_focal/"/>
+        <updated>2022-08-04T17:15:13.000Z</updated>
+        <summary type="html"><![CDATA[<h4>If you're on the HWE stack, you'll get the Jammy kernel*</h4> <p><strong>Updated</strong>  Ubuntu 20.04 is nowhere near end of life, but 22.04 is starting to hit its stride.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
         </author>
     </entry>
     <entry>
@@ -2713,6 +3076,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Infrastructure services giants still weighed down by clouds]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/04/infrastructure_services_giants_still_being/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/infrastructure_services_giants_still_being/"/>
+        <updated>2022-08-04T15:00:05.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Kyndryl and DXC Technology report declining revenues and worsening bottom line</h4> <p>Infrastructure service providers Kyndryl and DXC Technology are off to an inauspicious start in their new financial year, recording double digit revenue declines as cloud giants continue to eat into their sales.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hard West 2 Review: rootin' tootin' tactical shootin']]></title>
         <id>https://www.rockpapershotgun.com/hard-west-2-review-rootin-tootin-tactical-shootin</id>
         <link href="https://www.rockpapershotgun.com/hard-west-2-review-rootin-tootin-tactical-shootin"/>
@@ -2769,6 +3142,16 @@ Building focuses on a strategic, block-based design where you will draw from a c
         <summary type="html"><![CDATA[Popular Linux distro Fedora will support the Raspberry Pi 4 family with version 37.]]></summary>
         <author>
             <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HPE says $30m Solaris verdict against it didn't provide 'evidence' of copyright]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/04/hpe_vs_oracle_solaris_patches/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/hpe_vs_oracle_solaris_patches/"/>
+        <updated>2022-08-04T14:30:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Alleges Oracle did not register the patches it claims were infringed</h4> <p>Hewlett Packard Enterprise has come out swinging two months after a $30 million verdict against it in a long-running case, saying claims by Oracle it directly infringed copyrights in the Solaris OS are not backed by enough evidence.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
         </author>
     </entry>
     <entry>
@@ -2889,6 +3272,16 @@ The tweet received death threats in response, which was followed by several Bung
 Read more]]></summary>
         <author>
             <name>Ed Nightingale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why you should start paying attention to CXL now]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/04/cxl_time_now/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/cxl_time_now/"/>
+        <updated>2022-08-04T13:45:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>The next server you buy will support it, but what's it good for?</h4> <p>After more than three years of development, compute express link (CXL) is nearly here. The long-awaited interconnect tech will make its debut alongside Intel's upcoming Sapphire Rapids and AMD's Genoa processor families.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
         </author>
     </entry>
     <entry>
@@ -3040,6 +3433,16 @@ Neon Giant today revealed Cyber Heist, a major new DLC for The Ascent. The add-o
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[US aims to step up security for federal datacenters: Both physical and cyber]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/04/us_aims_to_step_up/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/us_aims_to_step_up/"/>
+        <updated>2022-08-04T13:00:09.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Bit barns threatened by malware flingers, but fire, storms, or bad guys arriving at the sites are also bad news</h4> <p>Proposed legislation in the US will seek to ensure greater protection for government datacenters from the threat of cyberattacks, but also physical dangers such as natural disasters and terrorism.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Ascent gets brand-new story DLC later this month]]></title>
         <id>https://www.eurogamer.net/the-ascent-gets-brand-new-story-dlc-later-this-month</id>
         <link href="https://www.eurogamer.net/the-ascent-gets-brand-new-story-dlc-later-this-month"/>
@@ -3104,6 +3507,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[1,5 miljarder fler visningar än GTA V.]]></summary>
         <author>
             <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taiwanese military reports DDoS in wake of Pelosi visit]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/04/taiwanese_military_reports_ddos_in/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/taiwanese_military_reports_ddos_in/"/>
+        <updated>2022-08-04T12:23:31.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Controversial visit to Taiwan continues to reverberate through cyberspace, the real world, and the semiconductor industry</h4> <p>Taiwan's Ministry of National Defense confirmed it was hit by a DDoS attack on Wednesday in what has been an eventful week for the island nation, US-Sino relations, and semiconductors.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
         </author>
     </entry>
     <entry>
@@ -3273,6 +3686,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fortinet's latest hyperscale kit packs 2.4Tbit/sec of firewall into a 4U chassis]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/04/fortinets_firewall_datacenter/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/fortinets_firewall_datacenter/"/>
+        <updated>2022-08-04T11:15:06.000Z</updated>
+        <summary type="html"><![CDATA[<h4>And it only took 16 ASICs</h4> <p>As port speeds creep ever higher to support larger hyperscale workloads and bandwidth-hungry 5G applications, Fortinet says its latest generation of firewalls should keep even the largest data flows safe from would-be attackers.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Sims 4 patch gets rid of aging bug and incest after accidentally adding them]]></title>
         <id>https://www.vg247.com/the-sims-4-patch-gets-rid-of-aging-bug-and-incest-after-accidentally-adding-them</id>
         <link href="https://www.vg247.com/the-sims-4-patch-gets-rid-of-aging-bug-and-incest-after-accidentally-adding-them"/>
@@ -3385,6 +3808,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Obscure Asian fintech AMTD Digital becomes the new GameStop]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/04/amtd_digital_share_price/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/amtd_digital_share_price/"/>
+        <updated>2022-08-04T10:27:13.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Social media suspected as shares surge 20,000 percent and company admits there's no good explanation</h4> <p>An obscure Asian financial services startup's share price has exploded, seemingly after social media users decided to pile into the stock.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Quiz – Vad kan du om skolor i spel?]]></title>
         <id>https://www.fz.se/artikel/290993</id>
         <link href="https://www.fz.se/artikel/290993-quiz-vad-kan-du-om-skolor-i-spel"/>
@@ -3451,6 +3884,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Back in 2020 with Linux 5.11 Intel SGX support was finally merged after undergoing 40+ revisions over the span of years. Fortunately, not taking as long is now Intel SGX2 support that is set to be mainlined with the new Linux 6.0 kernel...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The many derivatives of the CP/M operating system]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/04/the_many_derivatives_of_cpm/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/the_many_derivatives_of_cpm/"/>
+        <updated>2022-08-04T09:32:12.000Z</updated>
+        <summary type="html"><![CDATA[<h4>After a long and surprisingly varied dynasty, it's possible they're all FOSS now</h4> <p>Its new licence says that <em>"CP/M and its derivatives"</em> are free for anyone to modify and redistribute. But <strong>which</strong> derivatives?…</p>]]></summary>
+        <author>
+            <name>The Register</name>
         </author>
     </entry>
     <entry>
@@ -3547,6 +3990,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Strike days should serve as 'wake-up call' to BT's top brass, says union]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/04/strike_days_should_serve_as/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/strike_days_should_serve_as/"/>
+        <updated>2022-08-04T08:30:12.000Z</updated>
+        <summary type="html"><![CDATA[<h4>We kept network running 'safely and effectively' on those days, nothing to see here, says Brit telco</h4> <p>The two days of strike action by BT call center operators and engineers at the Openreach subsidiary should act as a “wake-up call” to the executive management team at the British telco but no further dates are yet scheduled.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Massa nytt om Pokémon Scarlet och Violet: världen, berättelsen, trailer]]></title>
         <id>https://www.fz.se/artikel/291001</id>
         <link href="https://www.fz.se/artikel/291001-massa-nytt-om-pokemon-scarlet-och-violet-varlden-berattelsen-trailer"/>
@@ -3587,6 +4040,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pull jet fuel from thin air? We can do that, say scientists]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/04/solar_hydrocarbon_production/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/solar_hydrocarbon_production/"/>
+        <updated>2022-08-04T07:27:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Thanks, we'll take any good news, large or small, right now</h4> <p><strong>Vid</strong>  The aviation industry's attempts to go green are getting a boost from an unlikely place: carbon-neutral jet fuel pulled from thin air.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Call of Duty ska få "premiuminnehåll" – DLC istället för nytt spel nästa år?]]></title>
         <id>https://www.fz.se/artikel/290998</id>
         <link href="https://www.fz.se/artikel/290998-call-of-duty-ska-fa-premiuminnehall-dlc-istallet-for-nytt-spel-nasta-ar"/>
@@ -3597,6 +4060,46 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[India scraps data protection law in favor of better law coming … sometime]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/04/india_scraps_data_protection_law/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/india_scraps_data_protection_law/"/>
+        <updated>2022-08-04T06:58:12.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Tech giants and digital rights groups didn't like it, but at least it was a law</h4> <p>The government of India has scrapped the Personal Data Protection Bill it's worked on for three years, and announced it will – eventually – unveil a superior bill.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Student crashes Cloudflare beta party, redirects email, bags a bug bounty]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/04/cloudflare_email_beta_bug/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/cloudflare_email_beta_bug/"/>
+        <updated>2022-08-04T06:31:14.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Simple to exploit, enough to pocket $3,000</h4> <p>A Danish ethical hacker was able to work his way uninvited into a closed Cloudflare beta and found a vulnerability that could have been exploited by a cybercriminal to hijack and steal someone else's email.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK Parliament bins its TikTok account over China surveillance fears]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/04/uk_parliament_tiktok_account_discontinued/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/uk_parliament_tiktok_account_discontinued/"/>
+        <updated>2022-08-04T05:58:13.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Plan to educate the children turned out to be a 'won't someone think of the children?' moment</h4> <p>The UK's Parliament has ended its presence on TikTok after MPs pointed out the made-in-China social media service probably sends data about its users back to Beijing.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Financial exchange's efforts to replace core systems with blockchain founder – again]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/04/asx_blockchain_delayed_again/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/asx_blockchain_delayed_again/"/>
+        <updated>2022-08-04T04:30:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Accenture roped in to find the weakest link</h4> <p>One of the world's most prominent and mission–critical uses of the blockchain - The Australian Securities Exchange's (ASX) project to replace its CHESS core trading systems with a distributed ledger – has struck further trouble.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[MGLRU & Maple Tree Miss Out On Linux 6.0 But Will Aim For Linux 6.1]]></title>
         <id>https://www.phoronix.com/news/MGLRU-Maple-Tree-Miss-6.0</id>
         <link href="https://www.phoronix.com/news/MGLRU-Maple-Tree-Miss-6.0"/>
@@ -3604,6 +4107,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[A lot of great features are landing for Linux 6.0 but two more are now confirmed to partake in this next major kernel version: Multi-Gen LRU (MGLRU) and the Maple Leaf data structure...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solana, Phantom blame Slope after millions in crypto-coins stolen from 8,000 wallets]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/04/solana_wallet_slope/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/solana_wallet_slope/"/>
+        <updated>2022-08-04T03:26:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>SOL holders literally S.O.L.</h4> <p>Millions of dollars worth of Solana cryptocurrency and other tokens were stolen from seemingly thousands of netizens this week by thieves exploiting some kind of security weakness or blunder.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
         </author>
     </entry>
     <entry>
@@ -3624,6 +4137,26 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Blizzard och Netease ska inte ha kunnat komma överens.]]></summary>
         <author>
             <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GitLab plans to delete dormant projects in free accounts]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/04/gitlab_data_retention_policy/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/gitlab_data_retention_policy/"/>
+        <updated>2022-08-04T01:33:12.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Hopes to save a quarter of hosting costs by binning repos that haven't been touched for a year</h4> <p><strong>Exclusive</strong>  GitLab plans to automatically delete projects if they've been inactive for a year and are owned by users of its free tier.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Education officials urged to curb student snoopware]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/04/cdt_school_surveillance/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/cdt_school_surveillance/"/>
+        <updated>2022-08-04T00:58:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Or just see it as preparing them for the future</h4> <p>What with American students increasingly subject to surveillance software, 15 advocacy groups want the US Department of Education to set monitoring policies that are consistent with civil rights laws.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
         </author>
     </entry>
     <entry>
