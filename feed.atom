@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-07T21:18:32.730Z</updated>
+    <updated>2022-08-07T22:21:19.111Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Aurelien Jarno: GNU libc 2.34 in unstable]]></title>
+        <id>tag:blog.aurel32.net,2022-08-07:/glibc-2.34-unstable.html</id>
+        <link href="https://blog.aurel32.net/glibc-2.34-unstable.html"/>
+        <updated>2022-08-07T21:25:00.000Z</updated>
+        <summary type="html"><![CDATA[The GNU libc version 2.34 has just been
+accepted
+into unstable. Getting it ready has been more challenging than other versions,
+as this version integrates a few libraries (libpthread, libdl, libutil,
+libanl) into libc. While this is handled transparently at runtime, there are a
+few corner cases at build time:
+For backwards compatibility, empty static archives (e.g. libpthread.a) are
+    provided, so that the linker options keep working. However a few cmake
+    files shipped in some packages still reference the path to the shared
+    library symlink (e.g. libpthread.so) which is now removed.
+A few symbols have also been moved from libresolv to libc and their __
+    prefix removed. While compatibily symbols are provided in the shared
+    library for runtime compatiblity, this does not work at link time for
+    static libraries referencing this symbol.
+The next challenge is to get it migrating into testing!
+For the adventurous persons, GNU libc 2.35 is now
+available
+in experimental. And as people keep asking, the goal is to get the just released
+GNU libc 2.36 into Bookworm.]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux 6.0 SMB3 Client Code Brings Multi-Channel Performance Improvement]]></title>
         <id>https://www.phoronix.com/news/Linux-6.0-SM3-Client-Perf-MC</id>
@@ -128,6 +156,16 @@ QuakeCon, unsurprisingly, is generally all things Quake, but other Bethesda titl
  Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comic for 2022.08.07 - New Puppy]]></title>
+        <id>https://explosm.net/comics/new-puppy</id>
+        <link href="https://explosm.net/comics/new-puppy"/>
+        <updated>2022-08-07T15:54:50.000Z</updated>
+        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
+        <author>
+            <name>Explosm.net</name>
         </author>
     </entry>
     <entry>

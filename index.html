@@ -22,11 +22,102 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-07 datetime="2022-08-07T20:52:44.000Z">2022-08-07</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-07 datetime="2022-08-07T20:52:44.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-08-07 datetime="2022-08-07T21:25:00.000Z">2022-08-07</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-08-07 datetime="2022-08-07T21:25:00.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Planet Debian</button>
+                  <a class="source-heading__link" href="https://planet.debian.org/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="tag:blog.aurel32.net,2022-08-07:/glibc-2.34-unstable.html"
+                        open
+                      >
+                        <summary class="article-expander__title">Aurelien Jarno: GNU libc 2.34 in unstable</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://blog.aurel32.net/glibc-2.34-unstable.html">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>The GNU libc version 2.34 has just been
+accepted
+into unstable. Getting it ready has been more challenging than other versions,
+as this version integrates a few libraries (libpthread, libdl, libutil,
+libanl) into libc. While this is handled transparently at runtime, there are a
+few corner cases at build time:
+For backwards compatibility, empty static archives (e.g. libpthread.a) are
+    provided, so that the linker options keep working. However a few cmake
+    files shipped in some packages still reference the path to the shared
+    library symlink (e.g. libpthread.so) which is now removed.
+A few symbols have also been moved from libresolv to libc and their __
+    prefix removed. While compatibily symbols are provided in the shared
+    library for runtime compatiblity, this does not work at link time for
+    static libraries referencing this symbol.
+The next challenge is to get it migrating into testing!
+For the adventurous persons, GNU libc 2.35 is now
+available
+in experimental. And as people keep asking, the goal is to get the just released
+GNU libc 2.36 into Bookworm.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://dirk.eddelbuettel.com/blog/2022/08/07#rapiserialize_0.1.1"
+                        open
+                      >
+                        <summary class="article-expander__title">Dirk Eddelbuettel: RApiSerialize 0.1.1 on CRAN: Updates</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="http://dirk.eddelbuettel.com/blog/2022/08/07#rapiserialize_0.1.1">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>A new release 0.1.1 of RApiSerialize is now on CRAN. While this is the first release in seven years (!!), it brings mostly minor internal updates along with the option of using serialization format 3.
+The package is used by both my RcppRedis as well as by Travers excellent qs package. Neither one of us has a need to switch to format 3 yet so format 2 remains the default. But along with other standard updates to package internals, it was straightforward to offer the newer format so that is what we did.
+Changes in version 0.1.1 (2022-08-07)
+Updated CI use to r-ci
+
+
+Expanded and updated both DESCRIPTION and README.md
+
+
+Updated package internals to register compiled functions
+
+
+Add support for serialization format 3, default remains 2
+
+
+Minor synchronization with upstream
+
+
+
+Courtesy of my CRANberries, there is also a diffstat to the previous version. More details are at the RApiSerialize page; code, issue tickets etc at the GitHub repository.
+If you like this or other open-source work I do, you can now sponsor me at GitHub.
+Dirk Eddelbuettel originated on his Thinking inside the box blog. Please report excessive re-aggregation in third-party for-profit settings.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -408,60 +499,6 @@
                     class="source-heading__name"
                     data-action="toggle-accordions"
                     title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Planet Debian</button>
-                  <a class="source-heading__link" href="https://planet.debian.org/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://dirk.eddelbuettel.com/blog/2022/08/07#rapiserialize_0.1.1"
-                        open
-                      >
-                        <summary class="article-expander__title">Dirk Eddelbuettel: RApiSerialize 0.1.1 on CRAN: Updates</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="http://dirk.eddelbuettel.com/blog/2022/08/07#rapiserialize_0.1.1">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>A new release 0.1.1 of RApiSerialize is now on CRAN. While this is the first release in seven years (!!), it brings mostly minor internal updates along with the option of using serialization format 3.
-The package is used by both my RcppRedis as well as by Travers excellent qs package. Neither one of us has a need to switch to format 3 yet so format 2 remains the default. But along with other standard updates to package internals, it was straightforward to offer the newer format so that is what we did.
-Changes in version 0.1.1 (2022-08-07)
-Updated CI use to r-ci
-
-
-Expanded and updated both DESCRIPTION and README.md
-
-
-Updated package internals to register compiled functions
-
-
-Add support for serialization format 3, default remains 2
-
-
-Minor synchronization with upstream
-
-
-
-Courtesy of my CRANberries, there is also a diffstat to the previous version. More details are at the RApiSerialize page; code, issue tickets etc at the GitHub repository.
-If you like this or other open-source work I do, you can now sponsor me at GitHub.
-Dirk Eddelbuettel originated on his Thinking inside the box blog. Please report excessive re-aggregation in third-party for-profit settings.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;3
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
                   >FZ.se</button>
                   <a class="source-heading__link" href="https://www.fz.se">Open</a>
                 </h3>
@@ -718,6 +755,39 @@ We&#x27;ve had our hands on the Smash Bros-like MultiVersus for coming up to two
 In response to a follower asking if Finn would be receiving a particular nerf, Huynh said &quot;We’ll be looking at Finn in sections, we are working on a big overhaul of our hitbox/hurtbox system so don’t want too many moving parts.&quot;
  Read more</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;15
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Explosm.net</button>
+                  <a class="source-heading__link" href="https://explosm.net">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://explosm.net/comics/new-puppy"
+                        open
+                      >
+                        <summary class="article-expander__title">Comic for 2022.08.07 - New Puppy</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://explosm.net/comics/new-puppy">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>New Cyanide and Happiness Comic</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -27156,8 +27226,8 @@ The post Pain appeared first on Moonbeard.</span>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/hezweb/news/actions/runs/2814099348">
-        <time id="build-timestamp" datetime="2022-08-07T21:18:32.656Z">2022-08-07T21:18:32.656Z</time>
+      <a class="footer-link" href="https://github.com/hezweb/news/actions/runs/2814267696">
+        <time id="build-timestamp" datetime="2022-08-07T22:21:19.025Z">2022-08-07T22:21:19.025Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

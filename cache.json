@@ -7648,6 +7648,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "tag:blog.aurel32.net,2022-08-07:/glibc-2.34-unstable.html",
+          "author": null,
+          "description": "The GNU libc version 2.34 has just been\naccepted\ninto unstable. Getting it ready has been more challenging than other versions,\nas this version integrates a few libraries (libpthread, libdl, libutil,\nlibanl) into libc. While this is handled transparently at runtime, there are a\nfew corner cases at build time:\nFor backwards compatibility, empty static archives (e.g. libpthread.a) are\n    provided, so that the linker options keep working. However a few cmake\n    files shipped in some packages still reference the path to the shared\n    library symlink (e.g. libpthread.so) which is now removed.\nA few symbols have also been moved from libresolv to libc and their __\n    prefix removed. While compatibily symbols are provided in the shared\n    library for runtime compatiblity, this does not work at link time for\n    static libraries referencing this symbol.\nThe next challenge is to get it migrating into testing!\nFor the adventurous persons, GNU libc 2.35 is now\navailable\nin experimental. And as people keep asking, the goal is to get the just released\nGNU libc 2.36 into Bookworm.",
+          "link": "https://blog.aurel32.net/glibc-2.34-unstable.html",
+          "publishedOn": "2022-08-07T21:25:00.000Z",
+          "wordCount": 206,
+          "title": "Aurelien Jarno: GNU libc 2.34 in unstable",
+          "imageUrl": null
+        },
+        {
           "id": "http://dirk.eddelbuettel.com/blog/2022/08/07#rapiserialize_0.1.1",
           "author": null,
           "description": "A new release 0.1.1 of RApiSerialize is now on CRAN. While this is the first release in seven years (!!), it brings mostly minor internal updates along with the option of using serialization format 3.\nThe package is used by both my RcppRedis as well as by Travers excellent qs package. Neither one of us has a need to switch to format 3 yet so format 2 remains the default. But along with other standard updates to package internals, it was straightforward to offer the newer format so that is what we did.\nChanges in version 0.1.1 (2022-08-07)\nUpdated CI use to r-ci\n\n\nExpanded and updated both DESCRIPTION and README.md\n\n\nUpdated package internals to register compiled functions\n\n\nAdd support for serialization format 3, default remains 2\n\n\nMinor synchronization with upstream\n\n\n\nCourtesy of my CRANberries, there is also a diffstat to the previous version. More details are at the RApiSerialize page; code, issue tickets etc at the GitHub repository.\nIf you like this or other open-source work I do, you can now sponsor me at GitHub.\nDirk Eddelbuettel originated on his Thinking inside the box blog. Please report excessive re-aggregation in third-party for-profit settings.",
@@ -10526,6 +10536,16 @@
       "feedUrl": "https://explosm.net/rss.xml",
       "siteUrl": "https://explosm.net",
       "articles": [
+        {
+          "id": "https://explosm.net/comics/new-puppy",
+          "author": null,
+          "description": "New Cyanide and Happiness Comic",
+          "link": "https://explosm.net/comics/new-puppy",
+          "publishedOn": "2022-08-07T15:54:50.000Z",
+          "wordCount": 1476,
+          "title": "Comic for 2022.08.07 - New Puppy",
+          "imageUrl": null
+        },
         {
           "id": "https://explosm.net/comics/30425",
           "author": null,
