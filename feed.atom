@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-07T11:18:35.710Z</updated>
+    <updated>2022-08-07T11:33:55.120Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Beyond Good and Evil 2, despite all odds, is still kicking as it takes on new lead writer]]></title>
+        <id>https://www.vg247.com/beyond-good-and-evil-2-new-lead-writer</id>
+        <link href="https://www.vg247.com/beyond-good-and-evil-2-new-lead-writer"/>
+        <updated>2022-08-07T11:24:07.000Z</updated>
+        <summary type="html"><![CDATA[Somehow, despite everything suggesting it should be dead in the water, Beyond Good and Evil 2 is still in development, as it just got a new lead writer.
+Beyond Good and Evil 2, the supposedly upcoming sequel to the cult classic original, hasn't exactly had a smooth development. Some version of it has been in development since at least 2008, though its first teaser trailer was the only evidence of its existence until the re-reveal in 2017. In 2020 the game's director Michel Ancel left the games industry entirely, though in 2021 Ubisoft did say it's still in development. And that somehow does still seem to be the case, as the game recently took on a new lead writer, as reported by PC Gamer.
+Sarah Arellano, who has done work for Blizzard and Volition, announced the news via her personal Twitter account, which is the most we've heard about the game in the last year.
+ Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RADV Lands Rewritten Acceleration Structures For Ray-Tracing In Mesa 22.3]]></title>
         <id>https://www.phoronix.com/news/RADV-RT-New-Accel-Structs</id>
