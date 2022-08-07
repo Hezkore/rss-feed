@@ -4217,6 +4217,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/AMD-Sabrina-Mendocino",
+          "author": null,
+          "description": "You may recall the Phoronix news earlier this year around an AMD \"Sabrina\" SoC appearing in Coreboot for open-source system firmware support. Over the past few months we've cited a number of AMD Sabrina hits in open-source code but outside of that haven't heard much else about \"Sabrina\" or seen it on AMD's roadmaps...",
+          "link": "https://www.phoronix.com/news/AMD-Sabrina-Mendocino",
+          "publishedOn": "2022-08-07T23:00:00.000Z",
+          "wordCount": 1406,
+          "title": "AMD's \"Sabrina\" SoC Is Mendocino - Coreboot Enablement Continues",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-6.0-SM3-Client-Perf-MC",
           "author": null,
           "description": "The Linux CIFS/SMB3 client updates were merged on Sunday for the Linux 6.0 merge window. Notable with this round of updates is a performance improvement for the multi-channel mode...",

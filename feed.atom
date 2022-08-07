@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-07T22:21:19.111Z</updated>
+    <updated>2022-08-07T23:21:22.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AMD's "Sabrina" SoC Is Mendocino - Coreboot Enablement Continues]]></title>
+        <id>https://www.phoronix.com/news/AMD-Sabrina-Mendocino</id>
+        <link href="https://www.phoronix.com/news/AMD-Sabrina-Mendocino"/>
+        <updated>2022-08-07T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You may recall the Phoronix news earlier this year around an AMD "Sabrina" SoC appearing in Coreboot for open-source system firmware support. Over the past few months we've cited a number of AMD Sabrina hits in open-source code but outside of that haven't heard much else about "Sabrina" or seen it on AMD's roadmaps...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aurelien Jarno: GNU libc 2.34 in unstable]]></title>
         <id>tag:blog.aurel32.net,2022-08-07:/glibc-2.34-unstable.html</id>
