@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-07T02:17:57.703Z</updated>
+    <updated>2022-08-07T03:48:05.785Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
@@ -7420,6 +7420,61 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/omnitaur.png" title="&quot;My parents were both omnitaurs, which is how I got interested in recombination,&quot; said the normal human." alt="&quot;My parents were both omnitaurs, which is how I got interested in recombination,&quot; said the normal human." />]]></summary>
         <author>
             <name>xkcd.com</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paul Wise: FLOSS Activities July 2022]]></title>
+        <id>http://bonedaddy.net/pabs3/log/2022/08/01/floss-activities/</id>
+        <link href="http://bonedaddy.net/pabs3/log/2022/08/01/floss-activities/"/>
+        <updated>2022-07-31T23:02:48.000Z</updated>
+        <summary type="html"><![CDATA[Focus
+This month I didn't have any particular focus.
+I just worked on issues in my info bubble.
+Changes
+SPTAG:
+print error reason
+duck:
+add
+(1
+2),
+sort
+indicator phrases
+aptitude:
+fix GCC 12 FTBFS
+Debian security tracker:
+link GitHub advisories
+Debian packages website:
+sync contact footer
+Debian sysadmin scripts:
+use TLS not StartTLS
+Debian BTS usertags:
+fix some Hurd, ftp-master and release manager usertags
+Debian package uploads:
+tldextract,
+sptag
+Debian wiki pages:
+Arturo_Teslao,
+DebConf
+(23/Artwork,
+24/Artwork/LogoProposals),
+DebianDay/2022/Netherlands/Breda,
+DebianRepository/SetupWithReprepro,
+DebianUnstable,
+Derivatives/Census
+(BOSSlinux,
+Ubuntu),
+ExternalEntities,
+Games/PlayIt,
+Hardware/Wanted,
+ICTL/TrustedOrganizationCriteria,
+KernelDKMS,
+LoongArch,
+MemberBenefits,
+Mobile,
+mtr,
+qa.…]]></summary>
+        <author>
+            <name>Planet Debian</name>
         </author>
     </entry>
     <entry>
