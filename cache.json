@@ -1083,6 +1083,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/fall-guys-sonic-the-hedgehog-event-starts-this-week-according-to-latest-leak",
+          "author": "Matt Wales",
+          "description": "Fall Guys' latest Sonic the Hedgehog collaboration will kick off later this week according to a new leak, with Dr Robotnik and Super Sonic outfits also on the way.\r\n\n\r\nA new Sonic/Fall Guys collaboration was, of course, officially announced during June's Sonic Central livestream. However, all Sega was saying at the time was that the game's previously released Sonic and Knuckles skins would be returning this August alongside a new addition - Tails - as part of the hedgehog's 30th Anniversreay celbrations.\r\n\n\r\nSince then, data miners have discovered Fall Guys developer Mediatonic and Sega might have something a little more substantial planned than mere skins, with a special Green Hill Zone inspired stage having recently been discovered squirrelled away in the files.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/fall-guys-sonic-the-hedgehog-event-starts-this-week-according-to-latest-leak",
+          "publishedOn": "2022-08-08T16:43:19.000Z",
+          "wordCount": 4584,
+          "title": "Fall Guys' Sonic the Hedgehog event starts this week according to latest leak",
+          "imageUrl": "https://assets.reedpopcdn.com/fall-guys-knuckles.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/fall-guys-knuckles.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/compound-is-a-vibrant-and-exciting-vr-rogue-lite-that-embraces-the-90s",
           "author": "Ian Higton",
           "description": "As someone who was brought up on a diet of 90s FPS games, I'm easily enticed by modern video games that embrace the aesthetic of that era.\nThis is exactly why I purchased the Early Access build of Compound a couple of years ago and why, on this week's episode of VR Corner, I'm showcasing the final 1.0 release of the game.\nCompound is a vibrant, exciting and suprisingly punchy VR rogue-lite that features gorgeous retro graphics and a whole lot of fun. Check it out in action in the video below for 30 minutes of totally radical gameplay, yo!\n Read more",
@@ -4576,6 +4586,26 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Intel-OpenPGL",
+          "author": null,
+          "description": "Intel used SIGGRAPH today to announce OpenPGL as what they say is the industry's first open-source library for path guiding so renderer developers can integrate \"start of the art\" path-guiding methods...",
+          "link": "https://www.phoronix.com/news/Intel-OpenPGL",
+          "publishedOn": "2022-08-08T16:49:39.000Z",
+          "wordCount": 1382,
+          "title": "Intel Releases Open-Source OpenPGL To Further Enhance Renderers",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Anaconda-Web-UI-FESCo-F37",
+          "author": null,
+          "description": "Red Hat has been working on a web-based UI for its Anaconda operating system installer and for the Fedora 37 release this autumn they are planning to have an optional preview of this new installer interface...",
+          "link": "https://www.phoronix.com/news/Anaconda-Web-UI-FESCo-F37",
+          "publishedOn": "2022-08-08T16:34:32.000Z",
+          "wordCount": 1597,
+          "title": "Fedora 37 Cleared To Ship Experimental Web UI Based Installer",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/review/amd-threadripper-5965wx",
           "author": null,
@@ -8897,6 +8927,56 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1872126",
+          "author": "Undark Magazine",
+          "description": "Surveys suggest most LIS patients are happy. Researchers want that more widely understood.",
+          "link": "https://arstechnica.com/?p=1872126",
+          "publishedOn": "2022-08-08T16:55:58.000Z",
+          "wordCount": 1695,
+          "title": "Locked-in syndrome and the misplaced presumption of misery",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/window-rain-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1872090",
+          "author": "Jon Brodkin",
+          "description": "Debate will happen at the Delaware Court of Chancery.",
+          "link": "https://arstechnica.com/?p=1872090",
+          "publishedOn": "2022-08-08T16:55:05.000Z",
+          "wordCount": 1492,
+          "title": "Musk challenges Twitter CEO to debate—Twitter will stick to its lawsuit instead",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-musk-twitter-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1872074",
+          "author": "Ron Amadeo",
+          "description": "After losing a volume control lawsuit, Google hopes it can get leverage over Sonos.",
+          "link": "https://arstechnica.com/?p=1872074",
+          "publishedOn": "2022-08-08T16:45:28.000Z",
+          "wordCount": 1390,
+          "title": "Google, still reeling from an earlier ruling, sues Sonos over voice patents",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/sonos-beam-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1872071",
+          "author": "Scharon Harding",
+          "description": "Fitbit points PC syncers to Pandora, Deezer subscriptions for downloading music.",
+          "link": "https://arstechnica.com/?p=1872071",
+          "publishedOn": "2022-08-08T16:29:36.000Z",
+          "wordCount": 1428,
+          "title": "Fitbits will soon lose the ability to sync with computers",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2017/09/DSC_2078-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1872072",
+          "author": "The Conversation",
+          "description": "77,000 studies were scoured to map the pathways.",
+          "link": "https://arstechnica.com/?p=1872072",
+          "publishedOn": "2022-08-08T16:15:48.000Z",
+          "wordCount": 1594,
+          "title": "58% of human infectious diseases can be worsened by climate change",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/flooding-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1872056",
           "author": "Jonathan M. Gitlin",
           "description": "NHTSA is investigating bike deaths as California says Tesla statements are \"untrue.\"",
@@ -9603,6 +9683,26 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291035",
+          "author": null,
+          "description": "Häng med på höstens stora äventyr när FZ intar det berömda kryssningsfartyget Viking Cinderella. Detta får inte missas!",
+          "link": "https://www.fz.se/artikel/291035-premiar-for-moderskeppet-kryssningen-for-alla-som-alskar-spel-och-hardvara",
+          "publishedOn": "2022-08-08T17:00:00.000Z",
+          "wordCount": 2172,
+          "title": "Premiär för Moderskeppet – kryssningen för alla som älskar spel och hårdvara",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291035"
+        },
+        {
+          "id": "https://www.fz.se/artikel/291044",
+          "author": null,
+          "description": "Avhopp har annars präglat spelet.",
+          "link": "https://www.fz.se/artikel/291044-utvecklingen-av-nya-perfect-dark-ska-enligt-uppgift-ga-riktigt-bra",
+          "publishedOn": "2022-08-08T16:44:00.000Z",
+          "wordCount": 1879,
+          "title": "Utvecklingen av nya Perfect Dark ska, enligt uppgift, gå \"riktigt bra\"",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291044"
+        },
         {
           "id": "https://www.fz.se/artikel/291043",
           "author": null,
@@ -10580,6 +10680,16 @@
       "feedUrl": "https://www.sweclockers.com/feeds/nyheter",
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
+        {
+          "id": "https://www.sweclockers.com/artikel/34707",
+          "author": null,
+          "description": "Putsa handkontrollen och damma av modermodemet, för snart intar SweClockers det berömda kryssningsfartyget Viking Cinderella. Följ med på höstens stora äventyr!",
+          "link": "https://www.sweclockers.com/artikel/34707-premiar-for-moderskeppet-kryssningen-for-alla-som-alskar-spel-och-hardvara",
+          "publishedOn": "2022-08-08T17:00:00.000Z",
+          "wordCount": 1981,
+          "title": "Premiär för Moderskeppet – kryssningen för alla som älskar spel och hårdvara",
+          "imageUrl": "https://www.sweclockers.com/artikel/34707/og-image"
+        },
         {
           "id": "https://www.sweclockers.com/artikel/34721",
           "author": null,
@@ -11708,6 +11818,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/08/microsoft_edge_security_browsing/",
+          "author": null,
+          "description": "<h4>We're pretty sure that doesn't mean it's safe to click on sketchy popups</h4> <p>Microsoft wants to make it safer for Edge users to browse and visit unfamiliar websites by automatically applying stronger security settings.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/08/microsoft_edge_security_browsing/",
+          "publishedOn": "2022-08-08T17:15:08.000Z",
+          "wordCount": 1532,
+          "title": "Microsoft tightens Edge security for less visited websites",
+          "imageUrl": "https://regmedia.co.uk/2021/02/03/microsoftedge.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/08/aws_lamda_pricing/",
+          "author": null,
+          "description": "<h4>'Time to update your spreadsheets,' expert says of 'inscrutable' changes</h4> <p>AWS has introduced tiered pricing for its Lambda serverless computing platform, claiming this will save on monthly costs for customers who use it to operate large workloads. It will, however, likely add to the complexity of estimating costs for many developers hoping to run a project on AWS.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/08/aws_lamda_pricing/",
+          "publishedOn": "2022-08-08T16:45:14.000Z",
+          "wordCount": 1462,
+          "title": "Tiers before bedtime: AWS updates Lambda pricing structure",
+          "imageUrl": "https://regmedia.co.uk/2019/12/03/aws-vegas.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/08/lego_vcs_2600/",
           "author": null,
