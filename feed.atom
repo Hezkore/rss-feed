@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-07T23:21:22.236Z</updated>
+    <updated>2022-08-08T02:04:57.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[China allows robo taxis – without backup drivers – in parts of two major cities]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/08/baidu_robot_taxi_license/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/08/baidu_robot_taxi_license/"/>
+        <updated>2022-08-08T02:01:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Baidu gets the fare in Chongqing and Wuhan</h4> <p>China has issued two licences for robot taxi operations, according to local tech giant Baidu.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ian Jackson: dkim-rotate - rotation and revocation of DKIM signing keys]]></title>
+        <id>tag:dreamwidth.org,2009-05-21:377446:12191</id>
+        <link href="https://diziet.dreamwidth.org/12191.html"/>
+        <updated>2022-08-08T00:20:56.000Z</updated>
+        <summary type="html"><![CDATA[Background
+Internet email is becoming more reliant on DKIM, a scheme for having mail servers cryptographically sign emails. The Big Email providers have started silently spambinning messages that lack either DKIM signatures, or SPF. DKIM is arguably less broken than SPF, so I wanted to deploy it.
+But it has a problem: if done in a naive way, it makes all your emails non-repudiable, forever. This is not really a desirable property - at least, not desirable for you, although it can be nice for someone who (for example) gets hold of leaked messages obtained by hacking mailboxes.
+This problem was described at some length in Matthew Green’s article Ok Google: please publish your DKIM secret keys. Following links from that article does get you to a short script to achieve key rotation but it had…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[India proposes increased power to vet tech mergers]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/08/asia_tech_news_roundup/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/08/asia_tech_news_roundup/"/>
+        <updated>2022-08-08T00:15:15.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Chinese phone makers' tax deals probed; PayPal back in Indonesia; Boeing seeks sustainability in Japan; and more</h4> <p><strong>Asia In brief</strong>  India's parliament will this week debate a bill that would see the nation's competition regulator add officers with technology industry expertise to its ranks, and gain the power to review and veto takeovers.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD's "Sabrina" SoC Is Mendocino - Coreboot Enablement Continues]]></title>
         <id>https://www.phoronix.com/news/AMD-Sabrina-Mendocino</id>
@@ -13490,18 +13523,6 @@ All good so far :)]]></summary>
         <summary type="html"><![CDATA[The Rcpp team is please to announce the newest release 1.0.9 of Rcpp which hit CRAN late yesterday, and has been uploaded to Debian as well. Windows and macOS builds should appear at CRAN in the next few days, as will builds in different Linux distribution and of course at r2u. The release was prepared om July 2, but it took a few days to clear a handful of spurious errors as false positives with CRAN — this can when the set of reverse dependencies is so large, and the CRAN team remains busy. This release continues with the six-months cycle started with release 1.0.5 in July 2020. (This time, CRAN had asked for an interim release to silence a C++ warning; we then needed a quick follow-up to tweak tests.) As a reminder, interim ‘dev’ or ‘rc’ releases should generally be available in the Rcp…]]></summary>
         <author>
             <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pain]]></title>
-        <id>https://moonbeard.com/2022/07/pain/</id>
-        <link href="https://moonbeard.com/2022/07/pain/"/>
-        <updated>2022-07-09T12:01:00.000Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://moonbeard.com/2022/07/pain/" title="Pain"><img src="https://moonbeard.com/comics-rss/2022-07-10-MB-2022-07%20Pain.png" alt="Pain" class="comicthumbnail" title="Pain" />
-</a></p><p>pain comic See also: Squires.nz &#124; Instagram &#124; Twitter</p>
-<p>The post <a rel="nofollow" href="https://moonbeard.com/2022/07/pain/">Pain</a> appeared first on <a rel="nofollow" href="https://moonbeard.com">Moonbeard</a>.</p>]]></summary>
-        <author>
-            <name>Moonbeard</name>
         </author>
     </entry>
 </feed>

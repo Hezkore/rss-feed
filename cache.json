@@ -7658,6 +7658,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "tag:dreamwidth.org,2009-05-21:377446:12191",
+          "author": null,
+          "description": "Background\nInternet email is becoming more reliant on DKIM, a scheme for having mail servers cryptographically sign emails. The Big Email providers have started silently spambinning messages that lack either DKIM signatures, or SPF. DKIM is arguably less broken than SPF, so I wanted to deploy it.\nBut it has a problem: if done in a naive way, it makes all your emails non-repudiable, forever. This is not really a desirable property - at least, not desirable for you, although it can be nice for someone who (for example) gets hold of leaked messages obtained by hacking mailboxes.\nThis problem was described at some length in Matthew Green’s article Ok Google: please publish your DKIM secret keys. Following links from that article does get you to a short script to achieve key rotation but it had…",
+          "link": "https://diziet.dreamwidth.org/12191.html",
+          "publishedOn": "2022-08-08T00:20:56.000Z",
+          "wordCount": null,
+          "title": "Ian Jackson: dkim-rotate - rotation and revocation of DKIM signing keys",
+          "imageUrl": null
+        },
+        {
           "id": "tag:blog.aurel32.net,2022-08-07:/glibc-2.34-unstable.html",
           "author": null,
           "description": "The GNU libc version 2.34 has just been\naccepted\ninto unstable. Getting it ready has been more challenging than other versions,\nas this version integrates a few libraries (libpthread, libdl, libutil,\nlibanl) into libc. While this is handled transparently at runtime, there are a\nfew corner cases at build time:\nFor backwards compatibility, empty static archives (e.g. libpthread.a) are\n    provided, so that the linker options keep working. However a few cmake\n    files shipped in some packages still reference the path to the shared\n    library symlink (e.g. libpthread.so) which is now removed.\nA few symbols have also been moved from libresolv to libc and their __\n    prefix removed. While compatibily symbols are provided in the shared\n    library for runtime compatiblity, this does not work at link time for\n    static libraries referencing this symbol.\nThe next challenge is to get it migrating into testing!\nFor the adventurous persons, GNU libc 2.35 is now\navailable\nin experimental. And as people keep asking, the goal is to get the just released\nGNU libc 2.36 into Bookworm.",
@@ -10528,16 +10538,6 @@
           "wordCount": 422,
           "title": "Earth",
           "imageUrl": null
-        },
-        {
-          "id": "https://moonbeard.com/2022/07/pain/",
-          "author": null,
-          "description": "<p><a href=\"https://moonbeard.com/2022/07/pain/\" title=\"Pain\"><img src=\"https://moonbeard.com/comics-rss/2022-07-10-MB-2022-07%20Pain.png\" alt=\"Pain\" class=\"comicthumbnail\" title=\"Pain\" />\r\n</a></p><p>pain comic See also: Squires.nz &#124; Instagram &#124; Twitter</p>\n<p>The post <a rel=\"nofollow\" href=\"https://moonbeard.com/2022/07/pain/\">Pain</a> appeared first on <a rel=\"nofollow\" href=\"https://moonbeard.com\">Moonbeard</a>.</p>",
-          "link": "https://moonbeard.com/2022/07/pain/",
-          "publishedOn": "2022-07-09T12:01:00.000Z",
-          "wordCount": 423,
-          "title": "Pain",
-          "imageUrl": null
         }
       ]
     },
@@ -10893,6 +10893,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/08/baidu_robot_taxi_license/",
+          "author": null,
+          "description": "<h4>Baidu gets the fare in Chongqing and Wuhan</h4> <p>China has issued two licences for robot taxi operations, according to local tech giant Baidu.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/08/baidu_robot_taxi_license/",
+          "publishedOn": "2022-08-08T02:01:07.000Z",
+          "wordCount": 1257,
+          "title": "China allows robo taxis – without backup drivers – in parts of two major cities",
+          "imageUrl": "https://regmedia.co.uk/2022/08/08/supplied_baidu_5th_gen_apollo_robotaxi.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/08/asia_tech_news_roundup/",
+          "author": null,
+          "description": "<h4>Chinese phone makers' tax deals probed; PayPal back in Indonesia; Boeing seeks sustainability in Japan; and more</h4> <p><strong>Asia In brief</strong>  India's parliament will this week debate a bill that would see the nation's competition regulator add officers with technology industry expertise to its ranks, and gain the power to review and veto takeovers.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/08/asia_tech_news_roundup/",
+          "publishedOn": "2022-08-08T00:15:15.000Z",
+          "wordCount": 1949,
+          "title": "India proposes increased power to vet tech mergers",
+          "imageUrl": "https://regmedia.co.uk/2022/02/17/shutterstock_asia_pacific.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/07/in_breif_ai/",
           "author": null,
