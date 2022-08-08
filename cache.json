@@ -4587,6 +4587,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Intel-Arc-Pro-A-Series",
+          "author": null,
+          "description": "Intel used SIGGRAPH to announce their forthcoming Arc Pro A-series professional GPUs. The initial products include the Arc A30M mobile GPU, the Arc Pro A40 single-slot GPU, and the Arc Pro A50 dual-slot GPU...",
+          "link": "https://www.phoronix.com/news/Intel-Arc-Pro-A-Series",
+          "publishedOn": "2022-08-08T17:38:03.000Z",
+          "wordCount": 1284,
+          "title": "Intel Announces Arc Pro A-Series Professional GPUs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Intel-OpenPGL",
           "author": null,
           "description": "Intel used SIGGRAPH today to announce OpenPGL as what they say is the industry's first open-source library for path guiding so renderer developers can integrate \"start of the art\" path-guiding methods...",
@@ -6931,6 +6941,36 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "MoKGnatvfNhLk8bx9Jjkhj",
+          "author": null,
+          "description": "Nvidia is discounting its RTX 30-series GPUs at a steep rate, in an apparent attempt to deplete its overabundance of 30-series GPUs prior to the 40-series launch.",
+          "link": "https://www.tomshardware.com/news/steep-rtx-30-series-discounts",
+          "publishedOn": "2022-08-08T17:57:44.000Z",
+          "wordCount": 18366,
+          "title": "Steep RTX 30-Series Discounts Suggest Impending 40-Series Launch",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/eGD8qXssCB6EGXk6VXQJq4.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/eGD8qXssCB6EGXk6VXQJq4.jpg"
+        },
+        {
+          "id": "fJc4qyF8AZaQD4uQ6PByWU",
+          "author": null,
+          "description": "You can get your hands on an Nvidia RTX 3060 Ti FE at Best Buy for $399, making it one of the cheapest 3060 Ti's on the market currently.",
+          "link": "https://www.tomshardware.com/news/nvidia-rtx-3060-ti-fe-real-deal",
+          "publishedOn": "2022-08-08T17:24:11.000Z",
+          "wordCount": 20166,
+          "title": "Nvidia's RTX 3060 Ti Founders Edition Is in Stock for $399: Real Deals",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/UYspZGWQxcPk6rU4nHzDPe.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/UYspZGWQxcPk6rU4nHzDPe.jpg"
+        },
+        {
           "id": "uPcotSpTTynD3un3U3KApc",
           "author": null,
           "description": "Intel has taken the lid off its professional range of GPUs, the Arc Pro line aimed at rendering, ray tracing, and movie editing.",
@@ -8926,6 +8966,16 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1872055",
+          "author": "Eric Berger",
+          "description": "\"Our cadence today is 100 percent driven by market demand.\"",
+          "link": "https://arstechnica.com/?p=1872055",
+          "publishedOn": "2022-08-08T17:32:21.000Z",
+          "wordCount": 1543,
+          "title": "Peter Beck explains why Electron may only ever launch 10-15 times a year",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/52262617030_1e255a23e0_k-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1872126",
           "author": "Undark Magazine",
@@ -11818,6 +11868,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/08/twilio_phishing_attack/",
+          "author": null,
+          "description": "<h4>Comms giant says several other firms targeted in 'sophisticated attack'</h4> <p>Twilio confirmed a breach of the communication giant's network and accessed \"a limited number\" of customer accounts after tricking some employees into falling for a phishing attack.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/08/twilio_phishing_attack/",
+          "publishedOn": "2022-08-08T17:45:05.000Z",
+          "wordCount": 1317,
+          "title": "Twilio customer data exposed after its staffers got phished",
+          "imageUrl": "https://regmedia.co.uk/2022/08/08/twilio_two_factor_authentication_app_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/08/microsoft_edge_security_browsing/",
           "author": null,

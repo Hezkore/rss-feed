@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-08T17:26:28.041Z</updated>
+    <updated>2022-08-08T18:28:34.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Steep RTX 30-Series Discounts Suggest Impending 40-Series Launch]]></title>
+        <id>MoKGnatvfNhLk8bx9Jjkhj</id>
+        <link href="https://www.tomshardware.com/news/steep-rtx-30-series-discounts"/>
+        <updated>2022-08-08T17:57:44.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia is discounting its RTX 30-series GPUs at a steep rate, in an apparent attempt to deplete its overabundance of 30-series GPUs prior to the 40-series launch.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twilio customer data exposed after its staffers got phished]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/08/twilio_phishing_attack/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/08/twilio_phishing_attack/"/>
+        <updated>2022-08-08T17:45:05.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Comms giant says several other firms targeted in 'sophisticated attack'</h4> <p>Twilio confirmed a breach of the communication giant's network and accessed "a limited number" of customer accounts after tricking some employees into falling for a phishing attack.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Announces Arc Pro A-Series Professional GPUs]]></title>
+        <id>https://www.phoronix.com/news/Intel-Arc-Pro-A-Series</id>
+        <link href="https://www.phoronix.com/news/Intel-Arc-Pro-A-Series"/>
+        <updated>2022-08-08T17:38:03.000Z</updated>
+        <summary type="html"><![CDATA[Intel used SIGGRAPH to announce their forthcoming Arc Pro A-series professional GPUs. The initial products include the Arc A30M mobile GPU, the Arc Pro A40 single-slot GPU, and the Arc Pro A50 dual-slot GPU...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peter Beck explains why Electron may only ever launch 10-15 times a year]]></title>
+        <id>https://arstechnica.com/?p=1872055</id>
+        <link href="https://arstechnica.com/?p=1872055"/>
+        <updated>2022-08-08T17:32:21.000Z</updated>
+        <summary type="html"><![CDATA["Our cadence today is 100 percent driven by market demand."]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia's RTX 3060 Ti Founders Edition Is in Stock for $399: Real Deals]]></title>
+        <id>fJc4qyF8AZaQD4uQ6PByWU</id>
+        <link href="https://www.tomshardware.com/news/nvidia-rtx-3060-ti-fe-real-deal"/>
+        <updated>2022-08-08T17:24:11.000Z</updated>
+        <summary type="html"><![CDATA[You can get your hands on an Nvidia RTX 3060 Ti FE at Best Buy for $399, making it one of the cheapest 3060 Ti's on the market currently.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft tightens Edge security for less visited websites]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/08/microsoft_edge_security_browsing/</id>
