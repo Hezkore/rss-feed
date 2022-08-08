@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-08T22:24:34.790Z</updated>
+    <updated>2022-08-08T23:23:58.716Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[US treasury whips up sanctions for crypto mixer Tornado Cash]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/08/treasury_sanctions_tornado_cash_korea/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/08/treasury_sanctions_tornado_cash_korea/"/>
+        <updated>2022-08-08T23:00:06.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Being the money launderer for North Korea’s Lazarus Group comes at a price</h4> <p>The US Treasury Department is levying sanctions against Tornado Cash, a notorious cryptocurrency mixer that it says has been used by threat groups like ransomware gang Lazarus to launder stolen digital assets.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[It’s possible no electric vehicles will qualify for the new tax credit]]></title>
         <id>https://arstechnica.com/?p=1872266</id>
