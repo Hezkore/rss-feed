@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-09T18:27:15.334Z</updated>
+    <updated>2022-08-09T19:22:41.931Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wave of corruption claims crash into China's chip Big Fund]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/09/china_chip_fund/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/09/china_chip_fund/"/>
+        <updated>2022-08-09T19:01:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>On the same day the United States kickstarts one of its own</h4> <p>China’s semiconductor investment fund — better known as the Big Fund — has become mired in controversy over the past few weeks as the country’s corruption watchdog continues to sniff out allegations of misconduct.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden signs bill injecting billions into US chipmaking to combat shortage]]></title>
+        <id>https://arstechnica.com/?p=1872458</id>
+        <link href="https://arstechnica.com/?p=1872458"/>
+        <updated>2022-08-09T19:00:04.000Z</updated>
+        <summary type="html"><![CDATA[The CHIPS and Science Act authorizes subsidies up to $200 billion over 10 years.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marvel's Spider-Man Remastered Gets Nvidia Game Ready Driver]]></title>
+        <id>ucbYzMgYg77uTGTcAtmXx6</id>
+        <link href="https://www.tomshardware.com/news/spider-man-nvidia-game-ready-driver"/>
+        <updated>2022-08-09T18:56:09.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia has officially released a Game Ready driver for Sony's upcoming feature rich Spider-Man Remastered PC port.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Two Point Campus from the dev of Two Point Hospital out now]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/two-point-campus-from-the-dev-of-two-point-hospital-out-now/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/two-point-campus-from-the-dev-of-two-point-hospital-out-now/"/>
+        <updated>2022-08-09T18:51:54.000Z</updated>
+        <summary type="html"><![CDATA[Two Point Campus is the next game from Two Point Studios and SEGA, the same lot that gave us Two Point Hospital. It comes with Native Linux support and works on the Steam Deck right away.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[President Biden signs CHIPS and Science Act into law]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/09/biden_signs_chips_act/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/09/biden_signs_chips_act/"/>
+        <updated>2022-08-09T18:34:24.000Z</updated>
+        <summary type="html"><![CDATA[<h4>American semiconductor manufacturing is back, baby!</h4> <p>On Tuesday, US President Joe Biden signed the CHIPS and Science Act into law.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US blacklisting of Tornado Cash sparks outcry from cryptocurrency industry]]></title>
+        <id>https://arstechnica.com/?p=1872426</id>
+        <link href="https://arstechnica.com/?p=1872426"/>
+        <updated>2022-08-09T18:31:14.000Z</updated>
+        <summary type="html"><![CDATA[Tornado Cash banned over money laundering but has legitimate uses as privacy tool.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD Details "SQUIP" Side Channel Vulnerability For Zen's Execution Unit Scheduler]]></title>
         <id>https://www.phoronix.com/news/AMD-Side-Channel-SQUIP</id>
@@ -14,6 +74,16 @@
         <summary type="html"><![CDATA[In addition to Intel's busy Patch Tuesday, AMD today made public CVE-2021-46778 that university researchers have dubbed the "SQUIP" attack as a side channel vulnerability affecting the execution unit scheduler across Zen 1/2/3 processors...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10 malicious Python packages exposed in latest repository attack]]></title>
+        <id>https://arstechnica.com/?p=1872326</id>
+        <link href="https://arstechnica.com/?p=1872326"/>
+        <updated>2022-08-09T18:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Supply-chain attacks are moving GitHub toward digitally signed packages.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
         </author>
     </entry>
     <entry>
@@ -35,6 +105,36 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<h4>Covid lockdowns, Chinese regulations and SEC threats make Alibaba's job numbers worrying</h4> <p>Alibaba's woes continue, with the Chinese tech giant's latest financial reports indicating it cut nearly 10,000 jobs, or around 3.8 percent of its workforce, in the second quarter of 2022. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nokia lawsuit forces Oppo and OnePlus out of the German market]]></title>
+        <id>https://arstechnica.com/?p=1872325</id>
+        <link href="https://arstechnica.com/?p=1872325"/>
+        <updated>2022-08-09T17:41:07.000Z</updated>
+        <summary type="html"><![CDATA[Nokia and Oppo fight over patent renewal fees, just like in a TV carriage dispute.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The next desktop-sized OLED monitor will cost $3,500]]></title>
+        <id>https://arstechnica.com/?p=1872312</id>
+        <link href="https://arstechnica.com/?p=1872312"/>
+        <updated>2022-08-09T17:35:38.000Z</updated>
+        <summary type="html"><![CDATA[The 31.5-inch PA32C targets appropriately sized work, not big-screen entertainment.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 11 encryption bug could cause data loss, temporary slowdowns on newer PCs]]></title>
+        <id>https://arstechnica.com/?p=1872353</id>
+        <link href="https://arstechnica.com/?p=1872353"/>
+        <updated>2022-08-09T17:31:50.000Z</updated>
+        <summary type="html"><![CDATA[Recent Windows updates can resolve the problem but not undo damage.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
         </author>
     </entry>
     <entry>
