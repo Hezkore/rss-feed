@@ -12,6 +12,16 @@
       "siteUrl": "https://itsfoss.com",
       "articles": [
         {
+          "id": "http://itsfoss.com/?p=9090",
+          "author": "Abhishek Prakash",
+          "description": "Looking for Fedora derivatives? Here are best Fedora based Linux distributions.",
+          "link": "https://itsfoss.com/best-fedora-linux-distributions/",
+          "publishedOn": "2022-08-09T02:57:00.000Z",
+          "wordCount": 7635,
+          "title": "7 Best Distributions Based on Fedora Linux",
+          "imageUrl": "https://itsfoss.com/wp-content/uploads/2015/12/best-distros-based-on-fedora.png"
+        },
+        {
           "id": "https://itsfoss.com/?p=100353",
           "author": "Sagar Sharma",
           "description": "Want to control your music using a beautiful widget on Linux? Sunamu is for you to try! It can even detect and show lyrics for currently playing music.",
@@ -10074,6 +10084,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291047",
+          "author": null,
+          "description": "Patrick Söderlund & Co behöver mer tid.",
+          "link": "https://www.fz.se/artikel/291047-dice-veteranernas-skjutarspel-arc-raiders-forsenas-till-2023",
+          "publishedOn": "2022-08-09T03:00:03.000Z",
+          "wordCount": 1737,
+          "title": "Dice-veteranernas skjutarspel Arc Raiders försenas till 2023",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291047"
+        },
+        {
           "id": "https://www.fz.se/artikel/291045",
           "author": null,
           "description": "Uppföljaren \"fått grönt ljus\", bekräftar SNK.",
@@ -12218,6 +12238,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/09/digital_ocean_q2_2022/",
+          "author": null,
+          "description": "<h4>Junior cloud growing nicely, but calls out customers' easing ardor for distributed ledgers</h4> <p>Junior cloud Digital Ocean has reported a marked dip in customers using its IaaS services to run blockchains.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/09/digital_ocean_q2_2022/",
+          "publishedOn": "2022-08-09T03:45:08.000Z",
+          "wordCount": 1404,
+          "title": "Digital Ocean customers back away from blockchains",
+          "imageUrl": "https://regmedia.co.uk/2022/08/09/shutterstock_77895853.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/09/china_minors_gaming/",
+          "author": null,
+          "description": "<h4>Cyberspace regulator's fraud report finds all is not well behind the Great Firewall</h4> <p>Fraudsters in China have targeted a child with promises of allowing them to get around the nation's time limits on playing computer games – for a mere $560, according to the nation's cyberspace administration. Yesterday the CAC detailed some of the 12,000 acts of online fraud perpetrated against minors it handled this year.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/09/china_minors_gaming/",
+          "publishedOn": "2022-08-09T02:45:07.000Z",
+          "wordCount": 1241,
+          "title": "Chinese scammers target kids with promise of extra gaming hours",
+          "imageUrl": "https://regmedia.co.uk/2021/08/31/shutterstock_gaming_ban_china.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/09/intel_arc_pro/",
           "author": null,
