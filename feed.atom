@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-09T16:32:07.572Z</updated>
+    <updated>2022-08-09T17:23:55.010Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Releases New "20220809" CPU Microcode For Latest Security Vulnerability]]></title>
+        <id>https://www.phoronix.com/news/Intel-20220809-Microcode</id>
+        <link href="https://www.phoronix.com/news/Intel-20220809-Microcode"/>
+        <updated>2022-08-09T17:14:08.000Z</updated>
+        <summary type="html"><![CDATA[As part of today's "Patch Tuesday", Intel has made a new round of security vulnerabilities public -- including a new processor advisory that affects their latest Xeon Scalable and Core wares resulting in new CPU microcode being required...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SGX, Intel’s supposedly impregnable data fortress, has been breached yet again]]></title>
+        <id>https://arstechnica.com/?p=1872343</id>
+        <link href="https://arstechnica.com/?p=1872343"/>
+        <updated>2022-08-09T17:01:16.000Z</updated>
+        <summary type="html"><![CDATA[ÆPIC Leak spills users' most sensitive secrets in seconds from SGX enclaves.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[APIC fail: Intel 'Sunny Cove' chips with SGX spill secrets]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/09/intel_sunny_cove/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/09/intel_sunny_cove/"/>
+        <updated>2022-08-09T17:00:15.000Z</updated>
+        <summary type="html"><![CDATA[<h4>AMD Zen chips, meanwhile, are vulnerable to side-channel data scrying</h4> <p>A group of computer scientists has identified an architectural error in certain recent Intel CPUs that can be abused to expose SGX enclave data like private encryption keys.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grab a Lenovo Legion 5 Pro 16 for $1,599: Real Deals]]></title>
+        <id>rcC68cKZ27jtLk3oqaNEu4</id>
+        <link href="https://www.tomshardware.com/news/grab-a-lenovo-legion-5-pro-16-for-dollar1599-real-deals"/>
+        <updated>2022-08-09T16:57:58.000Z</updated>
+        <summary type="html"><![CDATA[If you're looking for a gaming laptop at a good price, then this offering ticks a lot of boxes to power the latest and greatest titles.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RTX 4080 and RTX 4070 Power Consumption Dropped By Up to 30%]]></title>
+        <id>V5ccAderXrRFsWRoxyrnnN</id>
+        <link href="https://www.tomshardware.com/news/40-percent-power-reduction-rtx-4080-4070"/>
+        <updated>2022-08-09T16:41:30.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia's RTX 4080 and RTX 4070 have reportedly dropped in estimated power consumption by up to 30%, with the RTX 4080 falling to 320W.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Internationella kattdagen firas av Stalker 2-teamet – till vår fasa!]]></title>
+        <id>https://www.fz.se/artikel/291060</id>
+        <link href="https://www.fz.se/artikel/291060-internationella-kattdagen-firas-av-stalker-2-teamet-till-var-fasa"/>
+        <updated>2022-08-09T16:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Sov gott i natt.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dragon Quest Builders 2 showed us the potential of Minecraft clones – so where's Dragon Quest Builders 3?]]></title>
         <id>https://www.vg247.com/dragon-quest-builders-2-minecraft-clone-genre</id>
