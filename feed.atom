@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-09T17:23:55.010Z</updated>
+    <updated>2022-08-09T18:27:15.334Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AMD Details "SQUIP" Side Channel Vulnerability For Zen's Execution Unit Scheduler]]></title>
+        <id>https://www.phoronix.com/news/AMD-Side-Channel-SQUIP</id>
+        <link href="https://www.phoronix.com/news/AMD-Side-Channel-SQUIP"/>
+        <updated>2022-08-09T18:10:25.000Z</updated>
+        <summary type="html"><![CDATA[In addition to Intel's busy Patch Tuesday, AMD today made public CVE-2021-46778 that university researchers have dubbed the "SQUIP" attack as a side channel vulnerability affecting the execution unit scheduler across Zen 1/2/3 processors...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Razer's Iskur XL gaming chair is down to £287 on Amazon]]></title>
+        <id>https://www.rockpapershotgun.com/razers-iskur-xl-gaming-chair-is-down-to-287-on-amazon</id>
+        <link href="https://www.rockpapershotgun.com/razers-iskur-xl-gaming-chair-is-down-to-287-on-amazon"/>
+        <updated>2022-08-09T18:00:38.000Z</updated>
+        <summary type="html"><![CDATA[The XL version of the Razer Iskur gaming chair is down to £287, nearly half the price it is on Razer's official website and an all-time historic low price. Curiously, it's also nearly £230 cheaper than the regular size version! Katharine reviewed that Iskur previously and rated it highly, so if this size fits you then this is a nice chance to pick it up at a very fair price. 
+Read more]]></summary>
+        <author>
+            <name>Will Judd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alibaba mimics Amazon by slashing jobs after poor results]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/09/alibaba_cuts_jobs/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/09/alibaba_cuts_jobs/"/>
+        <updated>2022-08-09T18:00:14.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Covid lockdowns, Chinese regulations and SEC threats make Alibaba's job numbers worrying</h4> <p>Alibaba's woes continue, with the Chinese tech giant's latest financial reports indicating it cut nearly 10,000 jobs, or around 3.8 percent of its workforce, in the second quarter of 2022. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Northrop Grumman to use Firefly Aerospace tech in its de-Russianized Antares]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/09/antares_firefly/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/09/antares_firefly/"/>
+        <updated>2022-08-09T17:30:09.000Z</updated>
+        <summary type="html"><![CDATA[<h4>SpaceX to pick up the slack while the rocket is updated yet again</h4> <p>Russia's invasion of Ukraine is being felt at Northrop Grumman, forcing it to make alternative plans that now include asking Firefly Aerospace to build the first stage of its Antares rocket.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Kernel Patched For "PBRSB" After Intel eIBRS CPUs Found To Be Insufficient]]></title>
+        <id>https://www.phoronix.com/news/Linux-PBRSB-Mitigation</id>
+        <link href="https://www.phoronix.com/news/Linux-PBRSB-Mitigation"/>
+        <updated>2022-08-09T17:28:26.000Z</updated>
+        <summary type="html"><![CDATA[Today's busy patch Tuesday for Intel continues with the Linux kernel getting mitigated for EIBRS Post-barrier Return Stack Buffer (PBRSB). This PBRSB is the latest handling on the "CPU vulnerability nightmares front", the pull request calls it...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easy Come Easy Golf - Everybody's Golf-gänget tycks ha mer golf på gång]]></title>
+        <id>https://www.fz.se/artikel/291062</id>
+        <link href="https://www.fz.se/artikel/291062-easy-come-easy-golf-everybodys-golf-ganget-tycks-ha-mer-golf-pa-gang"/>
+        <updated>2022-08-09T17:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Lutar åt mer lättsamt golfande?]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intel Releases New "20220809" CPU Microcode For Latest Security Vulnerability]]></title>
         <id>https://www.phoronix.com/news/Intel-20220809-Microcode</id>
