@@ -326,6 +326,36 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/08/emberbane-is-a-pixel-action-platformer-inspired-by-avatar-the-last-airbender/",
+          "author": "Liam Dawe",
+          "description": "The popular Avatar the Last Airbender series continues to have an influence on game developers, with Emberbane being announced as an upcoming pixel action-platformer with combat revolving around a mixture of four elements with unique abilities.",
+          "link": "https://www.gamingonlinux.com/2022/08/emberbane-is-a-pixel-action-platformer-inspired-by-avatar-the-last-airbender/",
+          "publishedOn": "2022-08-09T09:05:33.000Z",
+          "wordCount": 1179,
+          "title": "Emberbane is a pixel action-platformer inspired by Avatar the Last Airbender",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/153498449id21425gol.jpg"
+        },
+        {
+          "id": "https://www.gamingonlinux.com/2022/08/justin-wack-and-the-big-time-hack-is-another-fun-looking-point-and-clicker-coming/",
+          "author": "Liam Dawe",
+          "description": "Do you love your point and click adventures? We have another to highlight with Justin Wack and the Big Time Hack that will have Native Linux support.",
+          "link": "https://www.gamingonlinux.com/2022/08/justin-wack-and-the-big-time-hack-is-another-fun-looking-point-and-clicker-coming/",
+          "publishedOn": "2022-08-09T08:55:56.000Z",
+          "wordCount": 1098,
+          "title": "Justin Wack and the Big Time Hack is another fun looking point and clicker coming",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1976003609id21424gol.jpg"
+        },
+        {
+          "id": "https://www.gamingonlinux.com/2022/08/adventure-game-nine-noir-lives-seems-to-let-you-lick-everything/",
+          "author": "Liam Dawe",
+          "description": "Nine Noir Lives is an upcoming point and click adventure game that follows feline private investigator Cuddles Nutterbutter. A new brief trailer is out, showing off a very important game mechanic.",
+          "link": "https://www.gamingonlinux.com/2022/08/adventure-game-nine-noir-lives-seems-to-let-you-lick-everything/",
+          "publishedOn": "2022-08-09T08:41:06.000Z",
+          "wordCount": 1301,
+          "title": "Adventure game Nine Noir Lives seems to let you lick everything",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/65915556id21423gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/08/steam-deck-gets-a-performance-fix-available-in-preview/",
           "author": "Liam Dawe",
           "description": "After the recent SteamOS 3.3 release, it came with some unfortunate performance issues for the Steam Deck that Valve continues to address.",
@@ -4646,6 +4676,26 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/FreeBSD-Q2-2022",
+          "author": null,
+          "description": "The FreeBSD project has published their latest quarterly status report highlighting the advancements made to this open-source BSD operating system...",
+          "link": "https://www.phoronix.com/news/FreeBSD-Q2-2022",
+          "publishedOn": "2022-08-09T09:21:27.000Z",
+          "wordCount": 1331,
+          "title": "FreeBSD In Q2-2022: More Than 30k Ports, Driver Improvements, Better Linux Compatibility",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.0-Hostname",
+          "author": null,
+          "description": "A patch coming about earlier this year allows setting the system's hostname before user-space starts by way of the hostname= kernel parameter. That patch has now landed as part of Andrew Morton's accumulated changes for Linux 6.0...",
+          "link": "https://www.phoronix.com/news/Linux-6.0-Hostname",
+          "publishedOn": "2022-08-09T08:30:00.000Z",
+          "wordCount": 1312,
+          "title": "Linux 6.0 Allows Setting The Hostname Via New \"hostname=\" Parameter",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Linux-6.0-Media",
           "author": null,
@@ -10104,6 +10154,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291052",
+          "author": null,
+          "description": "Utvecklingen rullar på, säger chefen för Rockstars moderbolag.",
+          "link": "https://www.fz.se/artikel/291052-gta-6-ska-hoja-den-kreativa-ribban-for-hela-underhallningsbranschen",
+          "publishedOn": "2022-08-09T08:49:03.000Z",
+          "wordCount": 1924,
+          "title": "GTA 6 ska höja den kreativa ribban för hela underhållningsbranschen",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291052"
+        },
+        {
           "id": "https://www.fz.se/artikel/291050",
           "author": null,
           "description": "Den mest sedda filmen just nu på plattformen.",
@@ -12308,6 +12368,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/09/scitech_superpower/",
+          "author": null,
+          "description": "<h4>Lords cite 'frequent' policy changes, lack of metrics, post-Brexit funding issues as top issues</h4> <p>How's the UK doing in its ambitions to become a sci-tech \"superpower\" by 2030? According to a report by the Lords Science and Technology Committee, it's currently on track to make the phrase an \"empty slogan.\"…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/09/scitech_superpower/",
+          "publishedOn": "2022-08-09T08:30:10.000Z",
+          "wordCount": 2498,
+          "title": "Report slams UK plan to become 'science superpower' by 2030",
+          "imageUrl": "https://regmedia.co.uk/2022/08/08/shutterstock_microscope.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/09/ai_cancer_multimodal/",
           "author": null,

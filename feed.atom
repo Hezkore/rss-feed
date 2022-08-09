@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-09T08:27:44.882Z</updated>
+    <updated>2022-08-09T09:23:30.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FreeBSD In Q2-2022: More Than 30k Ports, Driver Improvements, Better Linux Compatibility]]></title>
+        <id>https://www.phoronix.com/news/FreeBSD-Q2-2022</id>
+        <link href="https://www.phoronix.com/news/FreeBSD-Q2-2022"/>
+        <updated>2022-08-09T09:21:27.000Z</updated>
+        <summary type="html"><![CDATA[The FreeBSD project has published their latest quarterly status report highlighting the advancements made to this open-source BSD operating system...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emberbane is a pixel action-platformer inspired by Avatar the Last Airbender]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/emberbane-is-a-pixel-action-platformer-inspired-by-avatar-the-last-airbender/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/emberbane-is-a-pixel-action-platformer-inspired-by-avatar-the-last-airbender/"/>
+        <updated>2022-08-09T09:05:33.000Z</updated>
+        <summary type="html"><![CDATA[The popular Avatar the Last Airbender series continues to have an influence on game developers, with Emberbane being announced as an upcoming pixel action-platformer with combat revolving around a mixture of four elements with unique abilities.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Justin Wack and the Big Time Hack is another fun looking point and clicker coming]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/justin-wack-and-the-big-time-hack-is-another-fun-looking-point-and-clicker-coming/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/justin-wack-and-the-big-time-hack-is-another-fun-looking-point-and-clicker-coming/"/>
+        <updated>2022-08-09T08:55:56.000Z</updated>
+        <summary type="html"><![CDATA[Do you love your point and click adventures? We have another to highlight with Justin Wack and the Big Time Hack that will have Native Linux support.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GTA 6 ska höja den kreativa ribban för hela underhållningsbranschen]]></title>
+        <id>https://www.fz.se/artikel/291052</id>
+        <link href="https://www.fz.se/artikel/291052-gta-6-ska-hoja-den-kreativa-ribban-for-hela-underhallningsbranschen"/>
+        <updated>2022-08-09T08:49:03.000Z</updated>
+        <summary type="html"><![CDATA[Utvecklingen rullar på, säger chefen för Rockstars moderbolag.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adventure game Nine Noir Lives seems to let you lick everything]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/adventure-game-nine-noir-lives-seems-to-let-you-lick-everything/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/adventure-game-nine-noir-lives-seems-to-let-you-lick-everything/"/>
+        <updated>2022-08-09T08:41:06.000Z</updated>
+        <summary type="html"><![CDATA[Nine Noir Lives is an upcoming point and click adventure game that follows feline private investigator Cuddles Nutterbutter. A new brief trailer is out, showing off a very important game mechanic.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Report slams UK plan to become 'science superpower' by 2030]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/09/scitech_superpower/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/09/scitech_superpower/"/>
+        <updated>2022-08-09T08:30:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Lords cite 'frequent' policy changes, lack of metrics, post-Brexit funding issues as top issues</h4> <p>How's the UK doing in its ambitions to become a sci-tech "superpower" by 2030? According to a report by the Lords Science and Technology Committee, it's currently on track to make the phrase an "empty slogan."…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.0 Allows Setting The Hostname Via New "hostname=" Parameter]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.0-Hostname</id>
+        <link href="https://www.phoronix.com/news/Linux-6.0-Hostname"/>
+        <updated>2022-08-09T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[A patch coming about earlier this year allows setting the system's hostname before user-space starts by way of the hostname= kernel parameter. That patch has now landed as part of Andrew Morton's accumulated changes for Linux 6.0...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Steam Deck gets a performance fix available in Preview]]></title>
         <id>https://www.gamingonlinux.com/2022/08/steam-deck-gets-a-performance-fix-available-in-preview/</id>
