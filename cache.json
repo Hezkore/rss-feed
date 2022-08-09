@@ -1143,6 +1143,36 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/gta6-will-set-creative-benchmarks-for-all-entertainment-take-two-says",
+          "author": "Tom Phillips",
+          "description": "Take-Two has talked bullishly of its hopes for the success of Grand Theft Auto 6, amidst a mixed picture of financial results. \r\n\n\r\nSpeaking to GamesIndustry.biz, Take-Two boss Strauss Zelnick blamed a \"softer economy\" for a downturn in revenue for both halves of the now-combined Take-Two and mobile giant Zynga. \r\n\n\r\nThe now-completed buyout has also left a $117m hole in the company's bottom line due to business acquisition costs.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/gta6-will-set-creative-benchmarks-for-all-entertainment-take-two-says",
+          "publishedOn": "2022-08-09T11:02:06.000Z",
+          "wordCount": 4622,
+          "title": "GTA6 will set \"creative benchmarks\" for \"all entertainment\", Take-Two says",
+          "imageUrl": "https://assets.reedpopcdn.com/gta_ulNGkq1.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/gta_ulNGkq1.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/david-cage-defends-response-to-allegations-of-unhealthy-studio-culture-at-quantic-dream-in-new-interview",
+          "author": "Ed Nightingale",
+          "description": "David Cage has responded to allegations of unhealthy studio culture and inappropriate behaviour at Quantic Dream, which he previously described as a \"smear campaign\".\r\n\r\n\n\r\nPublished in this month's Edge Magazine, Cage discusses in depth the company culture of the studio and denies a lack of humility in its response to allegations.\r\n\n\r\n\"I don't think we had an aggressive attitude,\" he said. \"When you're accused of things that go against everything you believe in, everything you've done in your life, it hurts. It went beyond just attacking the studio culture.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/david-cage-defends-response-to-allegations-of-unhealthy-studio-culture-at-quantic-dream-in-new-interview",
+          "publishedOn": "2022-08-09T10:58:21.000Z",
+          "wordCount": 5084,
+          "title": "David Cage defends response to allegations of unhealthy studio culture at Quantic Dream",
+          "imageUrl": "https://assets.reedpopcdn.com/quantic-dream-logo.png/BROK/thumbnail/1600x900/format/jpg/quality/80/quantic-dream-logo.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/less-than-1-of-netflix-subscribers-play-its-games-daily",
+          "author": "Victoria Kennedy",
+          "description": "There are roughly 221 million Netflix subscribers, but only 1.7 million actually engage with the subscription service's games on a daily basis.\r\n\n\r\nTo put that into perspective, that is less than one percent of users.\r\n\n\r\nAccording to Apptopia (via CNBC), Netflix's game offerings have only been downloaded a total of 23.3m times since the company's foray into this market. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/less-than-1-of-netflix-subscribers-play-its-games-daily",
+          "publishedOn": "2022-08-09T10:24:12.000Z",
+          "wordCount": 4438,
+          "title": "Less than 1% of Netflix subscribers play its games daily",
+          "imageUrl": "https://assets.reedpopcdn.com/Netflix-Emblem.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Netflix-Emblem.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/sonic-the-hedgehog-3-movie-locks-down-2024-release-date",
           "author": "Tom Phillips",
           "description": "It's still nearly two and a half years away, but the Sonic the Hedgehog 3 movie now has a firm release date. \r\n\n\r\nSonic, Tails and Knuckles will return to a big screen near you on 20th December 2024. \r\n\n\r\nFun fact for film fans - that's the same day as Avatar 3, the sequel to the upcoming Avatar sequel that's not even out yet.\r\n \nRead more",
@@ -4737,6 +4767,26 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/NVIDIA-3D-Headers-Fermi-Ampere",
+          "author": null,
+          "description": "In addition to NVIDIA being busy working on transitioning to an open-source GPU kernel driver, yesterday they made a rare public open-source documentation contribution... NVIDIA quietly published 73k lines worth of header files to document the 3D classes for their Fermi through current-generation Ampere GPUs!..",
+          "link": "https://www.phoronix.com/news/NVIDIA-3D-Headers-Fermi-Ampere",
+          "publishedOn": "2022-08-09T10:56:39.000Z",
+          "wordCount": 1518,
+          "title": "NVIDIA Publishes 73k Lines Worth Of 3D Header Files For Fermi Through Ampere GPUs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/AMD-AOMP-15.0-3",
+          "author": null,
+          "description": "AMD engineers have released an updated version of AOMP, their LLVM/Clang downstream that carries the company's latest patches around OpenMP offloading to Radeon GPUs...",
+          "link": "https://www.phoronix.com/news/AMD-AOMP-15.0-3",
+          "publishedOn": "2022-08-09T10:38:16.000Z",
+          "wordCount": 1434,
+          "title": "AMD Releases AOMP 15.0-3 Compiler",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/GNOME-Deep-Color-30-bit-August",
           "author": null,
           "description": "Going back years has been an effort to get 30-bit deep color support on the GNOME desktop under Wayland. Ubuntu and others have been interested in getting 30-bit color support working nicely for the Linux desktop, but while that milestone hasn't yet been crossed, thankfully there is some renewed work in that direction...",
@@ -5613,6 +5663,16 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/co-op-alien-robot-shooter-arc-raiders-delayed-into-2023",
+          "author": "Jay Castello",
+          "description": "Cooperative shooter Arc Raiders has been delayed. Though the alien robot invasion was originally scheduled for some time this year, it'll now be descending from the upper atmosphere in 2023.\nRead more",
+          "link": "https://www.rockpapershotgun.com/co-op-alien-robot-shooter-arc-raiders-delayed-into-2023",
+          "publishedOn": "2022-08-09T10:52:14.000Z",
+          "wordCount": 4683,
+          "title": "Co-op alien robot shooter Arc Raiders delayed into 2023",
+          "imageUrl": "https://assets2.rockpapershotgun.com/arc-raiders_XQ2tYGb_XN774FT.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/arc-raiders_XQ2tYGb_XN774FT.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/this-skyrim-mod-adds-a-shadow-of-mordor-inspired-nemesis-system",
           "author": "Alice O'Connor",
@@ -11311,6 +11371,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34723",
+          "author": null,
+          "description": "Den senaste kvartalsrapporten från Nvidia visar på ett sjunkande intresse för grafikkort för spel, något bolaget ska stävja med justerade priser.",
+          "link": "https://www.sweclockers.com/artikel/34723-nvidia-lovar-prissankningar-efter-missade-omsattningsmal",
+          "publishedOn": "2022-08-09T10:54:05.000Z",
+          "wordCount": 1819,
+          "title": "Nvidia lovar prissänkningar efter missade omsättningsmål",
+          "imageUrl": "https://www.sweclockers.com/artikel/34723/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34727",
           "author": null,
           "description": "Arbetsstationer utan höga krav på beräkningskraft kan framöver bestyckas med Intels Arc-familj, där hårdvaruaccelererade funktioner lyfts som trumfkort.",
@@ -12478,6 +12548,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/09/parallels_desktop_18/",
+          "author": null,
+          "description": "<h4>Running Windows apps on your M1 Mac just got a bit more expensive</h4> <p>Corel-owned Parallels has put out an update for its Windows-on-a-Mac Desktop product with a few neat new features and an eye-watering price.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/09/parallels_desktop_18/",
+          "publishedOn": "2022-08-09T11:15:10.000Z",
+          "wordCount": 1517,
+          "title": "Parallels increases prices with Desktop version 18",
+          "imageUrl": "https://regmedia.co.uk/2022/08/08/parallels_18.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/09/china_crypto_marketing_removal_blitz/",
+          "author": null,
+          "description": "<h4>Cyberspace Administration of China closes accounts and removes to 'rectify the chaos'</h4> <p>China's internet regulator, the Cyberspace Administration of China (CAC) vowed on Tuesday to clean up what it sees as bad and blatantly misleading marketing of virtual currencies.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/09/china_crypto_marketing_removal_blitz/",
+          "publishedOn": "2022-08-09T10:40:17.000Z",
+          "wordCount": 1189,
+          "title": "Beijing blitz of crypto promotions and marketing underway",
+          "imageUrl": "https://regmedia.co.uk/2022/02/24/shutterstock_china_cryptocurrency_ban.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/09/bt_demos_4carrier_5g_aggregation/",
           "author": null,
