@@ -9193,6 +9193,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "https://etbe.coker.com.au/?p=5126",
+          "author": null,
+          "description": "A common error when using the sssd daemon to authenticate via Active Directory on Linux seems to be:\nsssd[$PID]: ; TSIG error with server: tsig verify failure\nThis is from sssd launching the command “nsupdate -g” to do dynamic DNS updates. It is possible to specify the DNS server in /etc/sssd/sssd.conf but that will only be used AFTER the default servers have been attempted, so it seems impossible to stop this error from happening. It doesn’t appear to do any harm as the correct server is discovered and used eventually. The commands piped to the nsupdate command will be something like:\nserver $SERVERIP\nrealm $DOMAIN\nupdate delete $HOSTNAME.$DOMAIN. in A\nupdate add $HOSTNAME.$DOMAIN. 3600 in A $HOSTIP\nsend\nupdate delete $HOSTNAME.$DOMAIN. in AAAA\nsend\nRelated posts:\n\nDynamic DNS  The Problem My SE Linux Play Machine has been down...\nBizarre “No space left on device” error from Xen  What should have been a routine “remove DIMMs and run...\nFinding Corrupt Files that cause a Kernel Error  There is a BTRFS bug in kernel 3.13 which is...",
+          "link": "https://etbe.coker.com.au/2022/08/10/tsig-error-sssd/",
+          "publishedOn": "2022-08-10T03:03:38.000Z",
+          "wordCount": 3974,
+          "title": "Russell Coker: TSIG Error From SSSD",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "tag:bits.debian.org,2022-08-08:/2022/08/debianday2022-call-for-celebration.html",
           "author": null,
           "description": "Every year on August 16th, the anniversary of the Debian Project takes place.\nAnd several communities around the world celebrate this date by organizing local\nmeetings in an event called \"Debian Day\".\nSo, how about celebrating the 29th anniversary of the Debian Project in 2022 in\nyour city?\nWe invite you and your local community to organize Debian Day by hosting an\nevent with talks, workshops, bug squashing party,\nOpenPGP keysigning, etc.\nOr simply holding a meeting between people who like Debian in a\nbar/pizzeria/cafeteria/restaurant to celebrate. In other words, any type of\nmeeting is valid!\nBut remember that the COVID-19 pandemic is not over yet, so take all necessary\nmeasures to protect attendees.\nAs the 16th of August falls on a Tuesday, if you think it's better to organize\nit during the weekend, no problem. The importance is to celebrate the Debian\nProject.\nRemember to add your city to the\nDebian Day wiki page\nThere is a list of Debian Local Groups\naround the world. If your city is listed, talk to them to organize DebianDay\ntogether.\nThere is a list of Debian Local Groups\naround the world. If your city is listed, talk to them to organized the Debian\nDay together.\nLet's use hashtags #DebianDay #DebianDay2022 on social media.",
@@ -11003,6 +11013,26 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291064",
+          "author": null,
+          "description": "Waka waka?",
+          "link": "https://www.fz.se/artikel/291064-efter-sonic-nu-ska-aven-pac-man-bli-till-live-action-film",
+          "publishedOn": "2022-08-10T04:05:58.000Z",
+          "wordCount": 1752,
+          "title": "Efter Sonic: Nu ska även Pac-Man bli till live action-film",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291064"
+        },
+        {
+          "id": "https://www.fz.se/artikel/291063",
+          "author": null,
+          "description": "Covid, saknad källkod och brist på ledarskap som kunde stampa på bromsen.",
+          "link": "https://www.fz.se/artikel/291063-nightdive-berattar-varfor-blade-runner-remastern-blev-som-den-blev",
+          "publishedOn": "2022-08-10T03:34:39.000Z",
+          "wordCount": 1882,
+          "title": "Nightdive berättar varför Blade Runner-remastern blev som den blev",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291063"
+        },
         {
           "id": "https://www.fz.se/artikel/291062",
           "author": null,
@@ -13368,6 +13398,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/10/iran_pays_for_imports_in_crypto/",
+          "author": null,
+          "description": "<h4>Trade minister says to expect more of this sanctions-busting stuff starting in September</h4> <p>Iran has announced it used cryptocurrency to pay for imports, raising the prospect that the nation is using digital assets to evade sanctions.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/10/iran_pays_for_imports_in_crypto/",
+          "publishedOn": "2022-08-10T03:43:10.000Z",
+          "wordCount": 1173,
+          "title": "Iran cheerfully admits using cryptocurrency to pay for imports",
+          "imageUrl": "https://regmedia.co.uk/2020/12/08/iran.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/10/github_tornado_cookies/",
           "author": null,

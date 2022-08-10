@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-10T03:08:56.945Z</updated>
+    <updated>2022-08-10T04:28:31.950Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Efter Sonic: Nu ska även Pac-Man bli till live action-film]]></title>
+        <id>https://www.fz.se/artikel/291064</id>
+        <link href="https://www.fz.se/artikel/291064-efter-sonic-nu-ska-aven-pac-man-bli-till-live-action-film"/>
+        <updated>2022-08-10T04:05:58.000Z</updated>
+        <summary type="html"><![CDATA[Waka waka?]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iran cheerfully admits using cryptocurrency to pay for imports]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/10/iran_pays_for_imports_in_crypto/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/10/iran_pays_for_imports_in_crypto/"/>
+        <updated>2022-08-10T03:43:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Trade minister says to expect more of this sanctions-busting stuff starting in September</h4> <p>Iran has announced it used cryptocurrency to pay for imports, raising the prospect that the nation is using digital assets to evade sanctions.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nightdive berättar varför Blade Runner-remastern blev som den blev]]></title>
+        <id>https://www.fz.se/artikel/291063</id>
+        <link href="https://www.fz.se/artikel/291063-nightdive-berattar-varfor-blade-runner-remastern-blev-som-den-blev"/>
+        <updated>2022-08-10T03:34:39.000Z</updated>
+        <summary type="html"><![CDATA[Covid, saknad källkod och brist på ledarskap som kunde stampa på bromsen.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russell Coker: TSIG Error From SSSD]]></title>
+        <id>https://etbe.coker.com.au/?p=5126</id>
+        <link href="https://etbe.coker.com.au/2022/08/10/tsig-error-sssd/"/>
+        <updated>2022-08-10T03:03:38.000Z</updated>
+        <summary type="html"><![CDATA[A common error when using the sssd daemon to authenticate via Active Directory on Linux seems to be:
+sssd[$PID]: ; TSIG error with server: tsig verify failure
+This is from sssd launching the command “nsupdate -g” to do dynamic DNS updates. It is possible to specify the DNS server in /etc/sssd/sssd.conf but that will only be used AFTER the default servers have been attempted, so it seems impossible to stop this error from happening. It doesn’t appear to do any harm as the correct server is discovered and used eventually. The commands piped to the nsupdate command will be something like:
+server $SERVERIP
+realm $DOMAIN
+update delete $HOSTNAME.$DOMAIN. in A
+update add $HOSTNAME.$DOMAIN. 3600 in A $HOSTIP
+send
+update delete $HOSTNAME.$DOMAIN. in AAAA
+send
+Related posts:
+
+Dynamic DNS  The Problem My SE Linux Play Machine has been down...
+Bizarre “No space left on device” error from Xen  What should have been a routine “remove DIMMs and run...
+Finding Corrupt Files that cause a Kernel Error  There is a BTRFS bug in kernel 3.13 which is...]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub courts controversy by suspending Tornado Cash developers and reneging on cookie commitments]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/10/github_tornado_cookies/</id>
