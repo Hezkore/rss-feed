@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-10T01:55:11.486Z</updated>
+    <updated>2022-08-10T03:08:56.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GitHub courts controversy by suspending Tornado Cash developers and reneging on cookie commitments]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/10/github_tornado_cookies/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/10/github_tornado_cookies/"/>
+        <updated>2022-08-10T02:38:26.000Z</updated>
+        <summary type="html"><![CDATA[<h4>If you're looking for free speech or privacy, move along</h4> <p>GitHub over the past week has tested the trust of its users by enacting policies that call into question its commitment to free speech and privacy.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Cloud expands to Thailand, Malaysia and New Zealand]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/10/google_cloud_malaysia_thailand_nz/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/10/google_cloud_malaysia_thailand_nz/"/>
+        <updated>2022-08-10T02:03:16.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Hopes to tap expected growth as it levels up to match rivals' presences</h4> <p>Google Cloud has announced it will build facilities in Thailand, Malaysia, and New Zealand.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Phishers who breached Twilio and fooled Cloudflare could easily get you, too]]></title>
         <id>https://arstechnica.com/?p=1872696</id>
@@ -16854,16 +16874,6 @@ Most x86 UEFI systems that support Secure Boot trust at least two certificate au
         <summary type="html"><![CDATA[You don't always have to upgrade all the packages at once. With apt command, you can list the upgradable packages first and then decide which ones to upgrade.]]></summary>
         <author>
             <name>Abhishek Prakash</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tropy: An Open-Source App to Organize Your Research Photos]]></title>
-        <id>https://itsfoss.com/?p=99405</id>
-        <link href="https://itsfoss.com/tropy/"/>
-        <updated>2022-07-11T14:14:42.000Z</updated>
-        <summary type="html"><![CDATA[An app to help you explore research photos, and documents without losing out on important contextual information about them.]]></summary>
-        <author>
-            <name>Ankush Das</name>
         </author>
     </entry>
 </feed>
