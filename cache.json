@@ -7581,6 +7581,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "DPtkjkhUDkXVEVXAosCeyc",
+          "author": null,
+          "description": "Stylish, durable NVIDIA Studio laptops featuring 4k displays and NVIDIA RTX GPUs are ideal for students and creatives with processing-intensive workflows",
+          "link": "https://www.tomshardware.com/features/tackle-3d-modeling-and-video-editing-with-nvidia-studio-laptops",
+          "publishedOn": "2022-08-10T04:20:34.000Z",
+          "wordCount": 18092,
+          "title": "Tackle 3D modeling and video editing with NVIDIA Studio laptops",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/AXGDYkv6BxfCvNdpxestFo.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/AXGDYkv6BxfCvNdpxestFo.jpg"
+        },
+        {
           "id": "K8sybgdXiZKtieqAxCjmzX",
           "author": null,
           "description": "An anonymous source has provided news outlet VideoCardz with the alleged packaging and pricing for AMD's Ryzen 7000 processors.",
@@ -13398,6 +13413,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/10/nasa_sunrise_telescope/",
+          "author": null,
+          "description": "<h4>Interferometry will be used to turn six toaster-sized satellites into one giant solar observatory</h4> <p>NASA has plans to build a telescope six miles (9.66km) wide in Earth orbit, comprised of a constellation of six toaster-sized satellites. The first of those toasters has just been finished. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/10/nasa_sunrise_telescope/",
+          "publishedOn": "2022-08-10T04:30:12.000Z",
+          "wordCount": 1336,
+          "title": "NASA's six-mile-wide orbital telescope is 1/6th built",
+          "imageUrl": "https://regmedia.co.uk/2022/08/09/nasa-sunrise-tinysat.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/10/iran_pays_for_imports_in_crypto/",
           "author": null,
