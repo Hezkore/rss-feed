@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-09T23:22:50.955Z</updated>
+    <updated>2022-08-10T01:55:11.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Phishers who breached Twilio and fooled Cloudflare could easily get you, too]]></title>
+        <id>https://arstechnica.com/?p=1872696</id>
+        <link href="https://arstechnica.com/?p=1872696"/>
+        <updated>2022-08-09T23:33:48.000Z</updated>
+        <summary type="html"><![CDATA[Unusually resourced threat actor has targeted multiple companies in recent days.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US claims Chinese supplier violated export rules by helping ZTE sell telco equipment to Iran]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/09/us_zte_sanctions/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/09/us_zte_sanctions/"/>
+        <updated>2022-08-09T23:31:31.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Far East Cable acted as a broker in between ZTE and Iranian companies, it's alleged</h4> <p>The US Bureau of Industry and Security has accused China's Far East Cable Co. of violating export controls by selling telecommunications equipment to Iran on behalf of supplier ZTE.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[These researchers watched dead fish rot for 70 days—for science]]></title>
         <id>https://arstechnica.com/?p=1872329</id>
@@ -16844,17 +16864,6 @@ Most x86 UEFI systems that support Secure Boot trust at least two certificate au
         <summary type="html"><![CDATA[An app to help you explore research photos, and documents without losing out on important contextual information about them.]]></summary>
         <author>
             <name>Ankush Das</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDE Plasma 5.24.6 LTS Brings Many Fixes to Plasma Wayland, System Settings, and More]]></title>
-        <id>https://9to5linux.com/?p=13186</id>
-        <link href="https://9to5linux.com/kde-plasma-5-24-6-lts-brings-many-fixes-to-plasma-wayland-system-settings-and-more"/>
-        <updated>2022-07-11T12:21:53.000Z</updated>
-        <summary type="html"><![CDATA[KDE Plasma 5.24.6 is now available as the sixth maintenance update to the Plasma 5.24 LTS desktop environment series with many bug fixes and improvements for more reliable and stable Plasma sessions.
-The post KDE Plasma 5.24.6 LTS Brings Many Fixes to Plasma Wayland, System Settings, and More appeared first on 9to5Linux - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.]]></summary>
-        <author>
-            <name>Marius Nestor</name>
         </author>
     </entry>
 </feed>
