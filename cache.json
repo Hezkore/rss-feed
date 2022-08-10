@@ -8011,6 +8011,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "sf7RUTHtnRhi6iEGpdSND8",
+          "author": null,
+          "description": "Gigabyte has revealed some new quality-of-life updates for its motherboards, featuring a latchless PCIe slot and a screwless M.2 slot.",
+          "link": "https://www.tomshardware.com/news/gigabyte-x670-motherboards-feature-screwless-and-latchless-m2-pcie-slots",
+          "publishedOn": "2022-08-10T19:52:40.000Z",
+          "wordCount": 17752,
+          "title": "Gigabyte X670 Motherboards Feature Screwless and Latchless M.2, PCIe Slots",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/KV4qVkceoH5DsWPtep4JuT.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/KV4qVkceoH5DsWPtep4JuT.png"
+        },
+        {
           "id": "dC9GnReRNWjUvnm37xkydi",
           "author": "palcorn@outlook.com (Paul Alcorn)",
           "description": "AMD makes big gains in desktop, mobile and server CPU markets.",
@@ -9863,6 +9878,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "http://flossexperiences.wordpress.com/?p=7283",
+          "author": null,
+          "description": "Mum\nI dunno from where to start. While I’m not supposed to announce it, mum left this earth a  month ago (thirteen days when I started to write this blog post) ago. I am still in part denial, part shock, and morose. Of all the seasons in a year, the rainy season used to be my favorite, now would I ever be able to look and feel other than the emptiness that this season has given me? In some senses, it is and was very ironic, when she became ill about last year, I had promised myself I would be by her side for 5-6 years, not go anywhere either Hillhacks or Debconf or any meetup and I was ok with that. Now that she’s no more I have no clue why am I living. What is the purpose, the utility? When she was alive, the utility was understandable. We had an unspoken agreement, I would like after her…",
+          "link": "https://flossexperiences.wordpress.com/2022/08/11/mum-samsung-galaxy-m-52/",
+          "publishedOn": "2022-08-10T19:44:09.000Z",
+          "wordCount": 4825,
+          "title": "Shirish Agarwal: Mum, Samsung Galaxy M-52",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "https://etbe.coker.com.au/?p=5126",
           "author": null,
           "description": "A common error when using the sssd daemon to authenticate via Active Directory on Linux seems to be:\nsssd[$PID]: ; TSIG error with server: tsig verify failure\nThis is from sssd launching the command “nsupdate -g” to do dynamic DNS updates. It is possible to specify the DNS server in /etc/sssd/sssd.conf but that will only be used AFTER the default servers have been attempted, so it seems impossible to stop this error from happening. It doesn’t appear to do any harm as the correct server is discovered and used eventually. The commands piped to the nsupdate command will be something like:\nserver $SERVERIP\nrealm $DOMAIN\nupdate delete $HOSTNAME.$DOMAIN. in A\nupdate add $HOSTNAME.$DOMAIN. 3600 in A $HOSTIP\nsend\nupdate delete $HOSTNAME.$DOMAIN. in AAAA\nsend\nRelated posts:\n\nDynamic DNS  The Problem My SE Linux Play Machine has been down...\nBizarre “No space left on device” error from Xen  What should have been a routine “remove DIMMs and run...\nFinding Corrupt Files that cause a Kernel Error  There is a BTRFS bug in kernel 3.13 which is...",
@@ -10466,6 +10491,36 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1872964",
+          "author": "Samuel Axon",
+          "description": "The technology has drawn scrutiny from privacy activists and politicians.",
+          "link": "https://arstechnica.com/?p=1872964",
+          "publishedOn": "2022-08-10T20:14:35.000Z",
+          "wordCount": 1453,
+          "title": "Amazon begins large-scale rollout of palm print-based payments",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/Screen-Shot-2022-08-10-at-2.16.45-PM-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1861820",
+          "author": "Jennifer Ouellette",
+          "description": "Visitor accounts, artwork describe exact locations of three mass graves",
+          "link": "https://arstechnica.com/?p=1861820",
+          "publishedOn": "2022-08-10T20:00:53.000Z",
+          "wordCount": 1562,
+          "title": "Were bones of Waterloo soldiers sold as fertilizer? It’s not yet case closed",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/waterlooTOP-CROP-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1872985",
+          "author": "Jon Brodkin",
+          "description": "FCC: \"Nascent\" Starlink tech has capacity limits, may not deliver required speed.",
+          "link": "https://arstechnica.com/?p=1872985",
+          "publishedOn": "2022-08-10T19:23:03.000Z",
+          "wordCount": 1900,
+          "title": "FCC cancels Starlink’s $886 million grant from Ajit Pai’s mismanaged auction",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/06/getty-money-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1872969",
           "author": "The Conversation",
@@ -14378,6 +14433,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/10/meta_abortion_charges/",
+          "author": null,
+          "description": "<h4>'If your business model depends on more aggressive surveillance, maybe you need a new business model'</h4> <p>Private Facebook chats between a Nebraska mother and her daughter has been used by law enforcement to build a criminal case against the teen for getting a now-illegal abortion in her home state.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/10/meta_abortion_charges/",
+          "publishedOn": "2022-08-10T19:59:36.000Z",
+          "wordCount": 1404,
+          "title": "Facebook hands over chats to cops in post-Roe abortion case",
+          "imageUrl": "https://regmedia.co.uk/2022/08/10/woman_chatting_on_phone_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/10/maui_ransomware_andariel/",
           "author": null,
