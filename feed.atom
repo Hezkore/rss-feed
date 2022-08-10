@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-10T18:27:27.055Z</updated>
+    <updated>2022-08-10T19:18:16.978Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AMD Continues PC and Server Market Share Gains Amid Slumping Market]]></title>
+        <id>dC9GnReRNWjUvnm37xkydi</id>
+        <link href="https://www.tomshardware.com/news/amd-continues-pc-and-server-market-share-gains-amid-slumping-market"/>
+        <updated>2022-08-10T19:03:15.000Z</updated>
+        <summary type="html"><![CDATA[AMD makes big gains in desktop, mobile and server CPU markets.]]></summary>
+        <author>
+            <name>palcorn@outlook.com (Paul Alcorn)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["CC_OPTIMIZE_FOR_PERFORMANCE_O3" Performance Tunable Dropped In Linux 6.0]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.0-Drops-O3-Kconfig</id>
+        <link href="https://www.phoronix.com/news/Linux-6.0-Drops-O3-Kconfig"/>
+        <updated>2022-08-10T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Following recent upstream discussions around the -O3 compiler optimizations for the Linux kernel, the Kconfig switch advertising this option is being removed in Linux 6.0...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It’s not just social media: Cable news has bigger effect on polarization]]></title>
+        <id>https://arstechnica.com/?p=1872969</id>
+        <link href="https://arstechnica.com/?p=1872969"/>
+        <updated>2022-08-10T18:59:45.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to echo chambers, TV trumps online.]]></summary>
+        <author>
+            <name>The Conversation</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MSI Introduces World's First ATX 3.0 PSU, Ready for 2,600W Power Spikes]]></title>
+        <id>iFd6wf3GiLoSZL9XnvujeF</id>
+        <link href="https://www.tomshardware.com/news/msi-first-atx-3-compliant-psu"/>
+        <updated>2022-08-10T18:46:21.000Z</updated>
+        <summary type="html"><![CDATA[MSI releases the world's first PSU, that is compatible with Intel's new ATX 3.0 power supply standard. The new standard focuses on improving power-delivery and reliability, and features 600W power connectors for video cards.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spider-Man Remastered pc-debuterar på fredag, lagom till fredagsgroggen]]></title>
+        <id>https://www.fz.se/artikel/291076</id>
+        <link href="https://www.fz.se/artikel/291076-spider-man-remastered-pc-debuterar-pa-fredag-lagom-till-fredagsgroggen"/>
+        <updated>2022-08-10T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Exakt releasetid spikad.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Norwood Suite dev's surreal dice-chucker Betrayal At Club Low out in September]]></title>
         <id>https://www.eurogamer.net/norwood-suite-devs-surreal-dice-chucker-betrayal-at-club-low-out-in-september</id>

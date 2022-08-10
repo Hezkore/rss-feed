@@ -5237,6 +5237,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-6.0-Drops-O3-Kconfig",
+          "author": null,
+          "description": "Following recent upstream discussions around the -O3 compiler optimizations for the Linux kernel, the Kconfig switch advertising this option is being removed in Linux 6.0...",
+          "link": "https://www.phoronix.com/news/Linux-6.0-Drops-O3-Kconfig",
+          "publishedOn": "2022-08-10T19:00:00.000Z",
+          "wordCount": 1322,
+          "title": "\"CC_OPTIMIZE_FOR_PERFORMANCE_O3\" Performance Tunable Dropped In Linux 6.0",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-6.0-Intel-TCC-Raptor-Lake",
           "author": null,
           "description": "While last week saw the main set of thermal and power management updates for Linux 6.0, a few more items were sent in this week for the v6.0 merge window...",
@@ -8001,6 +8011,36 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "dC9GnReRNWjUvnm37xkydi",
+          "author": "palcorn@outlook.com (Paul Alcorn)",
+          "description": "AMD makes big gains in desktop, mobile and server CPU markets.",
+          "link": "https://www.tomshardware.com/news/amd-continues-pc-and-server-market-share-gains-amid-slumping-market",
+          "publishedOn": "2022-08-10T19:03:15.000Z",
+          "wordCount": 19285,
+          "title": "AMD Continues PC and Server Market Share Gains Amid Slumping Market",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/H4iUrPiPEasYitX4ZiG7uJ.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/H4iUrPiPEasYitX4ZiG7uJ.png"
+        },
+        {
+          "id": "iFd6wf3GiLoSZL9XnvujeF",
+          "author": null,
+          "description": "MSI releases the world's first PSU, that is compatible with Intel's new ATX 3.0 power supply standard. The new standard focuses on improving power-delivery and reliability, and features 600W power connectors for video cards.",
+          "link": "https://www.tomshardware.com/news/msi-first-atx-3-compliant-psu",
+          "publishedOn": "2022-08-10T18:46:21.000Z",
+          "wordCount": 17652,
+          "title": "MSI Introduces World's First ATX 3.0 PSU, Ready for 2,600W Power Spikes",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/UrsXbYvTeJnTkUBkCKs2ni.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/UrsXbYvTeJnTkUBkCKs2ni.jpg"
+        },
+        {
           "id": "fiSSWz4EU2BddzZazvj6D3",
           "author": null,
           "description": "TrendForce expects consumer DRAM prices to drop 13% – 18% in Q3, then collapse further in Q4.",
@@ -10427,6 +10467,16 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1872969",
+          "author": "The Conversation",
+          "description": "When it comes to echo chambers, TV trumps online.",
+          "link": "https://arstechnica.com/?p=1872969",
+          "publishedOn": "2022-08-10T18:59:45.000Z",
+          "wordCount": 1981,
+          "title": "It’s not just social media: Cable news has bigger effect on polarization",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/cable-news-724x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1872910",
           "author": "Jon Brodkin",
           "description": "ISP's history suggests you can expect only limited availability in each area.",
@@ -11753,6 +11803,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291076",
+          "author": null,
+          "description": "Exakt releasetid spikad.",
+          "link": "https://www.fz.se/artikel/291076-spider-man-remastered-pc-debuterar-pa-fredag-lagom-till-fredagsgroggen",
+          "publishedOn": "2022-08-10T18:30:00.000Z",
+          "wordCount": 1734,
+          "title": "Spider-Man Remastered pc-debuterar på fredag, lagom till fredagsgroggen",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291076"
+        },
         {
           "id": "https://www.fz.se/artikel/291074",
           "author": null,
