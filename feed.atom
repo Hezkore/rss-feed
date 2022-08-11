@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-11T06:28:05.075Z</updated>
+    <updated>2022-08-11T07:22:32.075Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel, Amazon, and SpaceX asked to tuck into DARPA's Space-BACN]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/11/intel_amazon_spacex_darpa_space_bacn/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/11/intel_amazon_spacex_darpa_space_bacn/"/>
+        <updated>2022-08-11T07:06:36.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Internetwork of satellite networks advances to 'actually building' stuff stage</h4> <p>DARPA's attempt to build an internetwork of communications satellites – which operates under the fabulous name Space-BACN – has tapped Intel, SpaceX and others to build kit that will make its planned "Space-Based Adaptive Communications Node" a reality.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saints Row peppar oss med en videogenomgång inför släppet]]></title>
+        <id>https://www.fz.se/artikel/291079</id>
+        <link href="https://www.fz.se/artikel/291079-saints-row-peppar-oss-med-en-videogenomgang-infor-slappet"/>
+        <updated>2022-08-11T06:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Bekanta er med gängen, karaktärerna och "affärsmöjligheterna" i Santo Ileso.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cisco admits corporate network compromised by gang with links to Lapsus$]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/11/cisco_corporate_network_compromised/</id>
