@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-10T23:21:32.065Z</updated>
+    <updated>2022-08-11T01:58:56.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meta privacy red team lead: Does your business know its privacy adversaries?]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/11/meta_privacy_red_team/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/11/meta_privacy_red_team/"/>
+        <updated>2022-08-11T01:15:40.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Ethical hackers, but for privacy programs</h4> <p><strong>Black Hat</strong>  Miscreants aren't only working to exploit flaws in an enterprise's security posture, they're also looking for holes in organizations' privacy programs to steal user data, according to Meta's Scott Tenaglia.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boffins rate npm and PyPI package security and it's not good]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/11/npm_pypi_security/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/11/npm_pypi_security/"/>
+        <updated>2022-08-11T00:54:25.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Guess what? Open source security still has gaps</h4> <p>The Open Source Security Foundation (OpenSSF), as its name plainly states, aims to help make open source software more secure, but improvements flowing from its efforts are hard to find.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tech industry stuck over patent problems with AI algorithms]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/10/ai_patent_ip/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/10/ai_patent_ip/"/>
+        <updated>2022-08-10T23:59:18.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Lawyers at Google are unsure if they can patent chip floorplans created by machines</h4> <p>The question of whether AI-generated outputs can be patented is impacting how technology companies can protect their intellectual property.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-CISA chief Krebs calls for US to get serious on security]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/10/krebs_black_hat/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/10/krebs_black_hat/"/>
+        <updated>2022-08-10T23:26:34.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Black Hat kicks off with call for single infosec agency with real clout and less confused crossover</h4> <p><strong>Black Hat</strong>  It's time to reorganize the US government and create a new agency focused solely on on digital risk management services, according to former CISA director Chris Krebs.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google tells Apple to 'fix text messaging' in bid to promote RCS protocol]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/10/google_tells_apple_to_fix/</id>
@@ -18369,26 +18409,6 @@ Please see the announcement mail from Mattia Rizzolo, and do keep an eye on the 
         <updated>2022-07-12T15:17:29.000Z</updated>
         <author>
             <name>Shen Comix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Must Be Fun]]></title>
-        <id>https://tapas.io/episode/2584549</id>
-        <link href="https://tapas.io/episode/2584549"/>
-        <updated>2022-07-12T12:59:24.000Z</updated>
-        <author>
-            <name>J. L. Westover</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDE Plasma 5.25.3 Is Out Now with More Plasma Wayland Fixes, Various Other Changes]]></title>
-        <id>https://9to5linux.com/?p=13267</id>
-        <link href="https://9to5linux.com/kde-plasma-5-25-3-is-out-now-with-more-plasma-wayland-fixes-various-other-changes"/>
-        <updated>2022-07-12T11:42:59.000Z</updated>
-        <summary type="html"><![CDATA[KDE Plasma 5.25.3 is now available as the third maintenance update to the latest Plasma 5.25 desktop environment series with more bug fixes. All users should update their installations as soon as possible!
-The post KDE Plasma 5.25.3 Is Out Now with More Plasma Wayland Fixes, Various Other Changes appeared first on 9to5Linux - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.]]></summary>
-        <author>
-            <name>Marius Nestor</name>
         </author>
     </entry>
 </feed>
