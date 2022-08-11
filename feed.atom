@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-11T05:21:07.172Z</updated>
+    <updated>2022-08-11T06:28:05.075Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cisco admits corporate network compromised by gang with links to Lapsus$]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/11/cisco_corporate_network_compromised/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/11/cisco_corporate_network_compromised/"/>
+        <updated>2022-08-11T05:59:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Voice-phished their way in, but Switchzilla claims no damage done</h4> <p>Cisco disclosed on Wednesday that its corporate network was accessed by cyber-criminals in May after an employee's personal Google account was compromised – an act a ransomware gang named "Yanluowang" has now claimed as its work.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SoftBank offloads part of Alibaba stake to raise much-needed cash]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/11/softbank_offloads_alibaba_stake/</id>
