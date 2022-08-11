@@ -1153,6 +1153,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/ex-bioware-boss-victorian-fantasy-adventure-nightingale-delayed-into-next-year",
+          "author": "Matt Wales",
+          "description": "Inflexion Games, the studio founded by former BioWare boss Aaryn Flynn, has announced a delay for its Victorian fantasy adventure Nightingale, with the game now expected to enter early access some time next year.\r\n\n\r\nNightingale, described as a \"shared world survival crafting game\", was initially announced a few years back, but got its first proper unveiling at last year's The Game Awards. Its reveal was accompanied by an eye-catching trailer in which well-dressed ladies and gents travelled through portals to strange new worlds, full of wonderfully unsettling eldritch creatures.\r\n\n\r\nInflexion was initially aiming to launch Nightingale into early access at some point this year, but the developer has now revised that plan, pushing the game's early access release back into the \"first half of 2023\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/ex-bioware-boss-victorian-fantasy-adventure-nightingale-delayed-into-next-year",
+          "publishedOn": "2022-08-11T18:56:08.000Z",
+          "wordCount": 4543,
+          "title": "Ex-BioWare boss' Victorian fantasy adventure Nightingale delayed into next year",
+          "imageUrl": "https://assets.reedpopcdn.com/nightingale-(3).jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/nightingale-(3).jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/are-sony-and-microsofts-squabbles-over-call-of-duty-just-business-as-usual",
           "author": "Tom Phillips",
           "description": "This week on the Eurogamer Newscast, we discuss the ongoing fallout from Microsoft and Sony's squabbling over Activision Blizzard and it's blockbuster franchise Call of Duty.\r\n\n\r\nIf you've been living under a rock for the last six months, this all stems from Microsoft's intent to buy Activision for 68.7bn, which Sony isn't too happy about. Recently we've heard arguments from Sony offering some of its views on the deal - that it would be bad news for PlayStation, essentially - and now Microsoft itself has hit back. \n\r\nMicrosoft has reiterated that it does not want to make Call of Duty an Xbox exclusive - for now, at least - and even said it would be an unprofitable move if it did so. Even more remarkably, it has also hit out at Sony for suggesting the Microsoft-Activision deal would stifle competition - and claimed PlayStation itself pays out money to block games coming to Xbox Game Pass.\n Read more",
@@ -8501,6 +8511,36 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "pLP2MQXS9bgvaNsQbDKFCf",
+          "author": null,
+          "description": "Cooler Master reveals two new cases in its CMP lineup, featuring front mesh panels and ARGB fans.",
+          "link": "https://www.tomshardware.com/news/cooler-master-cmp-520-320",
+          "publishedOn": "2022-08-11T18:21:02.000Z",
+          "wordCount": 18693,
+          "title": "Cooler Master Launches Airflow-Focused PC Cases With Aggressive Front Ends",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/kY7doYAsLAafRjojbuKATX.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/kY7doYAsLAafRjojbuKATX.png"
+        },
+        {
+          "id": "xKyZdyYDoK5GzK6fLpxCt4",
+          "author": "francisco.pires@outlook.com (Francisco Pires)",
+          "description": "Ethereum today successfully transited its last testnet, Goerli, towards the final code to be implemented in mainnet. The software update to Ethereum's Virtual Machine will enable the transition to Proof-of-Stake, besides other upgrades.",
+          "link": "https://www.tomshardware.com/news/ethereum-the-merge-september-testnet",
+          "publishedOn": "2022-08-11T18:13:43.000Z",
+          "wordCount": 17849,
+          "title": "Ethereum Testnet Success Paves Way for 'The Merge' in September",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/mvqSwjKgBmKDkMc89idiMF.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/mvqSwjKgBmKDkMc89idiMF.jpg"
+        },
+        {
           "id": "g2P3Dgjqav3T8yZpazWbdT",
           "author": null,
           "description": "Highlighting precise DRAM chip error locations could open up repair and salvage options. Only works on Intel Alder Lake DDR5 and Z690 platforms for now.",
@@ -12614,6 +12654,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291089",
+          "author": null,
+          "description": "Lutar åt ett strategiskt Subnautica – eller?",
+          "link": "https://www.fz.se/artikel/291089-ta-ett-djupt-andetag-subnautica-studion-visar-sitt-nya-spel-pa-gamescom",
+          "publishedOn": "2022-08-11T18:30:00.000Z",
+          "wordCount": 1705,
+          "title": "Ta ett djupt andetag! Subnautica-studion visar sitt nya spel på Gamescom",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291089"
+        },
+        {
           "id": "https://www.fz.se/artikel/291088",
           "author": null,
           "description": "Kirby's Dream Buffet är Switch-exklusivt.",
@@ -15358,6 +15408,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/11/sonatype/",
+          "author": null,
+          "description": "<h4>Identity of a real person was used to lend credence to a package that dropped cryptominer in memory</h4> <p>Sonatype has unearthed yet more malware lurking on PyPI, this time a fileless Linux nasty designed to mine Monero and using the identity of a real person to lend credibility to the package.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/11/sonatype/",
+          "publishedOn": "2022-08-11T18:30:13.000Z",
+          "wordCount": 1311,
+          "title": "Sonatype spots another PyPI package behaving badly",
+          "imageUrl": "https://regmedia.co.uk/2017/10/04/fake_moustache_disguise_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/11/gm_makes_onstar_addon_mandatory/",
           "author": null,

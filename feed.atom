@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-11T18:27:40.298Z</updated>
+    <updated>2022-08-11T19:16:43.034Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ex-BioWare boss' Victorian fantasy adventure Nightingale delayed into next year]]></title>
+        <id>https://www.eurogamer.net/ex-bioware-boss-victorian-fantasy-adventure-nightingale-delayed-into-next-year</id>
+        <link href="https://www.eurogamer.net/ex-bioware-boss-victorian-fantasy-adventure-nightingale-delayed-into-next-year"/>
+        <updated>2022-08-11T18:56:08.000Z</updated>
+        <summary type="html"><![CDATA[Inflexion Games, the studio founded by former BioWare boss Aaryn Flynn, has announced a delay for its Victorian fantasy adventure Nightingale, with the game now expected to enter early access some time next year.
+
+
+Nightingale, described as a "shared world survival crafting game", was initially announced a few years back, but got its first proper unveiling at last year's The Game Awards. Its reveal was accompanied by an eye-catching trailer in which well-dressed ladies and gents travelled through portals to strange new worlds, full of wonderfully unsettling eldritch creatures.
+
+
+Inflexion was initially aiming to launch Nightingale into early access at some point this year, but the developer has now revised that plan, pushing the game's early access release back into the "first half of 2023".
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sonatype spots another PyPI package behaving badly]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/11/sonatype/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/11/sonatype/"/>
+        <updated>2022-08-11T18:30:13.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Identity of a real person was used to lend credence to a package that dropped cryptominer in memory</h4> <p>Sonatype has unearthed yet more malware lurking on PyPI, this time a fileless Linux nasty designed to mine Monero and using the identity of a real person to lend credibility to the package.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ta ett djupt andetag! Subnautica-studion visar sitt nya spel på Gamescom]]></title>
+        <id>https://www.fz.se/artikel/291089</id>
+        <link href="https://www.fz.se/artikel/291089-ta-ett-djupt-andetag-subnautica-studion-visar-sitt-nya-spel-pa-gamescom"/>
+        <updated>2022-08-11T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Lutar åt ett strategiskt Subnautica – eller?]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cooler Master Launches Airflow-Focused PC Cases With Aggressive Front Ends]]></title>
+        <id>pLP2MQXS9bgvaNsQbDKFCf</id>
+        <link href="https://www.tomshardware.com/news/cooler-master-cmp-520-320"/>
+        <updated>2022-08-11T18:21:02.000Z</updated>
+        <summary type="html"><![CDATA[Cooler Master reveals two new cases in its CMP lineup, featuring front mesh panels and ARGB fans.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ethereum Testnet Success Paves Way for 'The Merge' in September]]></title>
+        <id>xKyZdyYDoK5GzK6fLpxCt4</id>
+        <link href="https://www.tomshardware.com/news/ethereum-the-merge-september-testnet"/>
+        <updated>2022-08-11T18:13:43.000Z</updated>
+        <summary type="html"><![CDATA[Ethereum today successfully transited its last testnet, Goerli, towards the final code to be implemented in mainnet. The software update to Ethereum's Virtual Machine will enable the transition to Proof-of-Stake, besides other upgrades.]]></summary>
+        <author>
+            <name>francisco.pires@outlook.com (Francisco Pires)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Asahi Linux May Pursue Writing Apple Silicon GPU Driver In Rust]]></title>
         <id>https://www.phoronix.com/news/Asahi-Apple-DRM-In-Rust</id>
