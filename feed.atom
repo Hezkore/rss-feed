@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-11T09:23:15.999Z</updated>
+    <updated>2022-08-11T10:25:36.553Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Quiz – Vad kan du om änglar och demoner?]]></title>
+        <id>https://www.fz.se/artikel/291037</id>
+        <link href="https://www.fz.se/artikel/291037-quiz-vad-kan-du-om-anglar-och-demoner"/>
+        <updated>2022-08-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Himmel och helvete. Veckans quiz handlar om både det saliga och det syndiga.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNOME Mutter & Shell 43 Beta Bring Several Very Exciting Changes]]></title>
+        <id>https://www.phoronix.com/news/GNOME-Mutter-Shell-43-Beta</id>
+        <link href="https://www.phoronix.com/news/GNOME-Mutter-Shell-43-Beta"/>
+        <updated>2022-08-11T09:58:21.000Z</updated>
+        <summary type="html"><![CDATA[GNOME's Shell and Mutter components have released their beta versions for this GNOME 43 milestone. Particularly on the Mutter side are some very exciting changes from improvements to direct scan-out, high resolution scroll wheel support being completed and merged, various Wayland improvements, and more performance optimizations...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nothing Phone 1 en pina att reparera]]></title>
+        <id>https://www.sweclockers.com/artikel/34738</id>
+        <link href="https://www.sweclockers.com/artikel/34738-nothing-phone-1-en-pina-att-reparera"/>
+        <updated>2022-08-11T09:49:31.000Z</updated>
+        <summary type="html"><![CDATA[Bakom den exponerande glasbaksidan finns en fasad av plast, LED och dolda skruvar, som gör Phone 1 till en mycket svårarbetad telefon.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PS Plus August Extra and Premium lineup revealed, and it’s packed with Yakuza]]></title>
+        <id>https://www.vg247.com/ps-plus-lineup-august</id>
+        <link href="https://www.vg247.com/ps-plus-lineup-august"/>
+        <updated>2022-08-11T09:45:05.000Z</updated>
+        <summary type="html"><![CDATA[The next batch of games being added to PlayStation Plus Extra and Premium has been revealed by Sony.
+For owners of PS Plus Extra, you'll be able to pick up three different Yakuza titles, which is just the beginning for Yakuza fans or those keen to try out the series for the first time.
+Ultimately, the full Yakuza series is going to be coming to PS Plus before the end of 2022. So, if you've never tried the games out, now's the time to start.
+ Read more]]></summary>
+        <author>
+            <name>Kelsey Raynor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genre-blending dystopia Sunday Gold releases next month, with a free prologue available now]]></title>
+        <id>https://www.rockpapershotgun.com/genre-blending-dystopia-sunday-gold-releases-next-month-with-a-free-prologue-available-now</id>
+        <link href="https://www.rockpapershotgun.com/genre-blending-dystopia-sunday-gold-releases-next-month-with-a-free-prologue-available-now"/>
+        <updated>2022-08-11T09:41:16.000Z</updated>
+        <summary type="html"><![CDATA[Turn-based-combat-escape-room-puzzler-RPG blend Sunday Gold will be coming out on September 13th. But if you want to get acquainted with its Cockney cast early, and get some practice with making your best comic book WHAP!s and POW!s, there's also a free prologue available on Steam now.
+Read more]]></summary>
+        <author>
+            <name>Jay Castello</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.0 Fixes Touchpad & Keyboard Issues After Suspend For Many TUXEDO Laptops]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.0-Fixes-TUXEDO-Input</id>
+        <link href="https://www.phoronix.com/news/Linux-6.0-Fixes-TUXEDO-Input"/>
+        <updated>2022-08-11T09:37:57.000Z</updated>
+        <summary type="html"><![CDATA[A number of TUXEDO Computers' Linux laptops and Clevo laptops that have had keyboard and/or touchpad issues after system suspend cycles should be properly working now with Linux 6.0...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supermicro pulls in a strong quarter thanks to rack-scale demand]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/11/supermicro_q4_2022/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/11/supermicro_q4_2022/"/>
+        <updated>2022-08-11T09:34:14.000Z</updated>
+        <summary type="html"><![CDATA[<h4>More customers also adopting the server maker's green computing products, CEO says</h4> <p>Supermicro, server provider to the hyperscale cloud providers, has delivered better than expected figures for its fiscal Q4 2022, attributing it to a growing number of customers adopting its rack-scale solutions.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[X.Org Protocols 2022.2 Released With XWAYLAND Extension, DRI3 v1.3]]></title>
         <id>https://www.phoronix.com/news/xorgproto-2022.2</id>
