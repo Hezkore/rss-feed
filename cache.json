@@ -8041,6 +8041,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "8HAfBHLjbTaogCavAkt8Zo",
+          "author": null,
+          "description": "Intel shares new gaming benchmarks for the Arc A750 graphics card at 1080p and 1440p on various DirectX 12 and Vulkan titles.",
+          "link": "https://www.tomshardware.com/news/arc-a750-trades-blows-with-rtx-3060-across-nearly-50-games",
+          "publishedOn": "2022-08-11T01:54:01.000Z",
+          "wordCount": 18723,
+          "title": "Arc A750 Trades Blows With RTX 3060 Across Nearly 50 Games",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/4jq9rXGAKE5hWUY376hbBC.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/4jq9rXGAKE5hWUY376hbBC.jpg"
+        },
+        {
           "id": "JcKHdXQSXuygd99CyhAzFK",
           "author": null,
           "description": "Jon Peddie Research estimates Intel's GPU endeavors have resulting in $3.5 billion in losses and suggests Intel might want to sell it off after multiple failures.",
@@ -10577,6 +10592,16 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1873050",
+          "author": "Beth Mole",
+          "description": "The healthy boy died a week after falling ill with the tricky-to-diagnose infection.",
+          "link": "https://arstechnica.com/?p=1873050",
+          "publishedOn": "2022-08-10T22:22:27.000Z",
+          "wordCount": 2056,
+          "title": "New tragic details of US child who died from tropical bacteria in room spray",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/GettyImages-509399588-760x380.jpeg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1872971",
           "author": "Sam Machkovech",
           "description": "After service's June revision, we review how poorly its \"classic\" library is going.",
@@ -11953,6 +11978,26 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291078",
+          "author": null,
+          "description": "Två karaktärer från spelet och två som är unika för serien.",
+          "link": "https://www.fz.se/artikel/291078-fyra-nya-skadespelare-i-the-last-of-us-serien-avslojade",
+          "publishedOn": "2022-08-11T03:08:29.000Z",
+          "wordCount": 1820,
+          "title": "Fyra nya skådespelare i The Last of Us-serien avslöjade",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291078"
+        },
+        {
+          "id": "https://www.fz.se/artikel/291077",
+          "author": null,
+          "description": "Men bara för Extra- och Premium-medlemmar.",
+          "link": "https://www.fz.se/artikel/291077-playstation-plus-katalogen-utokas-med-yakuza-trials-of-mana-och-andra-titlar",
+          "publishedOn": "2022-08-11T02:52:25.000Z",
+          "wordCount": 1821,
+          "title": "Playstation Plus-katalogen utökas med Yakuza, Trials of Mana och andra titlar",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291077"
+        },
         {
           "id": "https://www.fz.se/artikel/291076",
           "author": null,
@@ -14500,16 +14545,6 @@
           "wordCount": 718,
           "title": "Untitled",
           "imageUrl": "https://64.media.tumblr.com/8bab7bc435a78dabb57f2ffc9fce22ef/ea758dac2ea2f0ca-41/s1280x1920/42d6e3cb45a1e4f13a040d9be24045ecda5ebd46.png"
-        },
-        {
-          "id": "https://shencomix.tumblr.com/post/689584523494735872",
-          "author": null,
-          "description": "",
-          "link": "https://shencomix.tumblr.com/post/689584523494735872",
-          "publishedOn": "2022-07-12T15:17:29.000Z",
-          "wordCount": 708,
-          "title": "Untitled",
-          "imageUrl": "https://64.media.tumblr.com/261e97cfa919bda19e0e3dea7998dacc/4e5d7e9698f8b97f-4b/s1280x1920/f6c5585af0f24edcc680d6cf5f3c630bec102701.png"
         }
       ]
     },
@@ -14518,6 +14553,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/11/microsoft_joins_ondc_india/",
+          "author": null,
+          "description": "<h4>The Open Network for Digital Commerce could hardly ask for a more credible participant</h4> <p>Microsoft has decided to open a store in India's Open Network for Digital Commerce (ONDC) – an effort the nation hopes will make it harder for the likes of Amazon and Walmart-controlled Flipkart to dominate e-commerce in the world's second most populous nation.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/11/microsoft_joins_ondc_india/",
+          "publishedOn": "2022-08-11T03:01:59.000Z",
+          "wordCount": 1222,
+          "title": "Microsoft joins India's monopoly-busting e-commerce multi-mart",
+          "imageUrl": "https://regmedia.co.uk/2020/04/14/india_flag_digital_code.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/11/meta_privacy_red_team/",
           "author": null,
