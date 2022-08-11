@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-11T03:23:35.134Z</updated>
+    <updated>2022-08-11T04:31:32.957Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Economic uncertainty can't stop cloud growth]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/11/cloud_growth_market/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/11/cloud_growth_market/"/>
+        <updated>2022-08-11T04:01:09.000Z</updated>
+        <summary type="html"><![CDATA[<h4>You may have had your fill of chips – but AWS, GCP, and Azure are still hungry, analyst tells El Reg</h4> <p>The hyperscalers and public cloud providers are barreling ahead, unfazed by a rapidly deteriorating economic outlook, according to a recent Dell'Oro Group report.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesa 22.2-rc2 Released With Many Fixes - Heavy On Zink]]></title>
+        <id>https://www.phoronix.com/news/Mesa-22.2-rc2</id>
+        <link href="https://www.phoronix.com/news/Mesa-22.2-rc2"/>
+        <updated>2022-08-11T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Following last week's branching and feature freeze along with the Mesa 22.2-rc1 release, released on Wednesday evening was Mesa 22.2-rc2 as the first week's worth of bug fixing...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fyra nya skådespelare i The Last of Us-serien avslöjade]]></title>
         <id>https://www.fz.se/artikel/291078</id>
