@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-11T22:21:52.191Z</updated>
+    <updated>2022-08-11T23:22:56.318Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Higher risks and premiums are creating critical gap in cyber insurance]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/11/insurance_ransomware_blackberry/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/11/insurance_ransomware_blackberry/"/>
+        <updated>2022-08-11T23:03:21.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Most organizations don’t have the financial resources necessary to address ransomware and other cyberattacks, BlackBerry says</h4> <p><strong>Black Hat</strong>  Many organizations are increasingly unprepared to deal with the skyrocketing costs of a ransomware attacks, at a time when the number of incidents and the payments demanded by cybercriminals are rising rapidly.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’m a security reporter and got fooled by a blatant phish]]></title>
+        <id>https://arstechnica.com/?p=1873356</id>
+        <link href="https://arstechnica.com/?p=1873356"/>
+        <updated>2022-08-11T22:57:39.000Z</updated>
+        <summary type="html"><![CDATA[Think you're too smart to be fooled by a phisher? Think again.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russian-Made Baikal M1-Based Laptop Shows Up in Pre-Production]]></title>
+        <id>U6THvNzTFgMskDbYBXSRCF</id>
+        <link href="https://www.tomshardware.com/news/russian-baikal-m1-based-pre-production-laptop-shows-up"/>
+        <updated>2022-08-11T22:33:29.000Z</updated>
+        <summary type="html"><![CDATA[Pre-Production BitBlaze Titan notebook based on Russian Baikal-M CPU demonstrated.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security needs to learn from the aviation biz to avoid crashing]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/11/wheeler_black_hat/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/11/wheeler_black_hat/"/>
+        <updated>2022-08-11T22:30:15.000Z</updated>
+        <summary type="html"><![CDATA[<h4>'Until someone has to go to jail for doing it wrong the teeth are not going to be the same'</h4> <p><strong>Black Hat video</strong>  The security industry needs to take a leaf from the manual of an industry where smart incident response is literally life and death, if it is to fix systemic problems.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Desktop CPU Sales Lowest in 30 Years, AMD Gains Market Share Anyway]]></title>
+        <id>KnB5CXZdJLhoFrHS3poBFG</id>
+        <link href="https://www.tomshardware.com/news/lowest-cpu-shipments-in-30-years-amd-intel-q2-2022-cpu-market-share"/>
+        <updated>2022-08-11T22:19:23.000Z</updated>
+        <summary type="html"><![CDATA[AMD makes big gains in desktop, mobile and server CPU markets.]]></summary>
+        <author>
+            <name>palcorn@outlook.com (Paul Alcorn)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon studio plans lighthearted show of Ring surveillance footage]]></title>
+        <id>https://arstechnica.com/?p=1873311</id>
+        <link href="https://arstechnica.com/?p=1873311"/>
+        <updated>2022-08-11T22:13:24.000Z</updated>
+        <summary type="html"><![CDATA[Company with notable footage-sharing issues wants to do it more, but funny.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scientists unveil a physics-defying curved space robot]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/11/curved_space_robot/</id>
@@ -660,6 +720,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[There are vulnerabilities in 5G platforms carriers offer to wrangle embedded device data.]]></summary>
         <author>
             <name>WIRED</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intels Arc A750 besegrar Geforce RTX 3060 i 50 testade spel]]></title>
+        <id>https://www.sweclockers.com/artikel/34743</id>
+        <link href="https://www.sweclockers.com/artikel/34743-intels-arc-a750-besegrar-geforce-rtx-3060-i-50-testade-spel"/>
+        <updated>2022-08-11T14:37:10.000Z</updated>
+        <summary type="html"><![CDATA[I väntan på lanseringen av Arc A750 presenterar Intel prestandasiffror från en hel hög spel, som pekar på att kortet i bästa fall slår Nvidias populära mellanklassmodell.]]></summary>
+        <author>
+            <name>SweClockers</name>
         </author>
     </entry>
     <entry>
@@ -19872,16 +19942,6 @@ Please see the announcement mail from Mattia Rizzolo, and do keep an eye on the 
         <updated>2022-07-13T12:55:24.000Z</updated>
         <author>
             <name>Shen Comix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9 Rather Unknown Ways of Using Neofetch in Linux]]></title>
-        <id>https://itsfoss.com/?p=99461</id>
-        <link href="https://itsfoss.com/using-neofetch/"/>
-        <updated>2022-07-13T10:46:49.000Z</updated>
-        <summary type="html"><![CDATA[Neofetch displays the system information and distribution logo in the terminal. It can be tweaked to change the looks and feel of its output in surprising new ways.]]></summary>
-        <author>
-            <name>Abhishek Prakash</name>
         </author>
     </entry>
 </feed>

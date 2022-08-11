@@ -250,16 +250,6 @@
           "wordCount": 7360,
           "title": "Fixing “Command ‘python’ not found” Error in Ubuntu Linux",
           "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/07/python-command-not-found-error-in-ubuntu.png"
-        },
-        {
-          "id": "https://itsfoss.com/?p=99461",
-          "author": "Abhishek Prakash",
-          "description": "Neofetch displays the system information and distribution logo in the terminal. It can be tweaked to change the looks and feel of its output in surprising new ways.",
-          "link": "https://itsfoss.com/using-neofetch/",
-          "publishedOn": "2022-07-13T10:46:49.000Z",
-          "wordCount": 8310,
-          "title": "9 Rather Unknown Ways of Using Neofetch in Linux",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/07/neofetch-tweaks.png"
         }
       ]
     },
@@ -8571,6 +8561,36 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "U6THvNzTFgMskDbYBXSRCF",
+          "author": null,
+          "description": "Pre-Production BitBlaze Titan notebook based on Russian Baikal-M CPU demonstrated.",
+          "link": "https://www.tomshardware.com/news/russian-baikal-m1-based-pre-production-laptop-shows-up",
+          "publishedOn": "2022-08-11T22:33:29.000Z",
+          "wordCount": 17898,
+          "title": "Russian-Made Baikal M1-Based Laptop Shows Up in Pre-Production",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/5uSMMT98rHdr7ERUCyLxE4.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/5uSMMT98rHdr7ERUCyLxE4.png"
+        },
+        {
+          "id": "KnB5CXZdJLhoFrHS3poBFG",
+          "author": "palcorn@outlook.com (Paul Alcorn)",
+          "description": "AMD makes big gains in desktop, mobile and server CPU markets.",
+          "link": "https://www.tomshardware.com/news/lowest-cpu-shipments-in-30-years-amd-intel-q2-2022-cpu-market-share",
+          "publishedOn": "2022-08-11T22:19:23.000Z",
+          "wordCount": 19559,
+          "title": "Desktop CPU Sales Lowest in 30 Years, AMD Gains Market Share Anyway",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/DUWJifnecQNAhqrYNpA92c.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/DUWJifnecQNAhqrYNpA92c.jpg"
+        },
+        {
           "id": "uAZsehVvn5C3zQqU5Mbe7a",
           "author": null,
           "description": "Out of nowhere, a \"GTX 2080\" prototype has surfaced online. It gives us a clue that Nvidia was considering extending its GTX 16 series lineup into an 80 series product.",
@@ -11311,6 +11331,26 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1873356",
+          "author": "Dan Goodin",
+          "description": "Think you're too smart to be fooled by a phisher? Think again.",
+          "link": "https://arstechnica.com/?p=1873356",
+          "publishedOn": "2022-08-11T22:57:39.000Z",
+          "wordCount": 1717,
+          "title": "I’m a security reporter and got fooled by a blatant phish",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/GettyImages-91891102-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1873311",
+          "author": "Kevin Purdy",
+          "description": "Company with notable footage-sharing issues wants to do it more, but funny.",
+          "link": "https://arstechnica.com/?p=1873311",
+          "publishedOn": "2022-08-11T22:13:24.000Z",
+          "wordCount": 1405,
+          "title": "Amazon studio plans lighthearted show of Ring surveillance footage",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1170779505-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1873118",
           "author": "Jennifer Ouellette",
@@ -14249,6 +14289,16 @@
           "id": "https://www.sweclockers.com/artikel/34743",
           "author": null,
           "description": "I väntan på lanseringen av Arc A750 presenterar Intel prestandasiffror från en hel hög spel, som pekar på att kortet i bästa fall slår Nvidias populära mellanklassmodell.",
+          "link": "https://www.sweclockers.com/artikel/34743-intels-arc-a750-besegrar-geforce-rtx-3060-i-50-testade-spel",
+          "publishedOn": "2022-08-11T14:37:10.000Z",
+          "wordCount": 2019,
+          "title": "Intels Arc A750 besegrar Geforce RTX 3060 i 50 testade spel",
+          "imageUrl": "https://www.sweclockers.com/artikel/34743/og-image"
+        },
+        {
+          "id": "https://www.sweclockers.com/artikel/34743",
+          "author": null,
+          "description": "I väntan på lanseringen av Arc A750 presenterar Intel prestandasiffror från en hel hög spel, som pekar på att kortet i bästa fall slår Nvidias populära mellanklassmodell.",
           "link": "https://www.sweclockers.com/artikel/34743-intel-besegrar-geforce-rtx-3060-i-50-testade-spel",
           "publishedOn": "2022-08-11T14:37:10.000Z",
           "wordCount": 1964,
@@ -15583,6 +15633,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/11/insurance_ransomware_blackberry/",
+          "author": null,
+          "description": "<h4>Most organizations don’t have the financial resources necessary to address ransomware and other cyberattacks, BlackBerry says</h4> <p><strong>Black Hat</strong>  Many organizations are increasingly unprepared to deal with the skyrocketing costs of a ransomware attacks, at a time when the number of incidents and the payments demanded by cybercriminals are rising rapidly.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/11/insurance_ransomware_blackberry/",
+          "publishedOn": "2022-08-11T23:03:21.000Z",
+          "wordCount": 1643,
+          "title": "Higher risks and premiums are creating critical gap in cyber insurance",
+          "imageUrl": "https://regmedia.co.uk/2021/03/03/umbrella_storm_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/11/wheeler_black_hat/",
+          "author": null,
+          "description": "<h4>'Until someone has to go to jail for doing it wrong the teeth are not going to be the same'</h4> <p><strong>Black Hat video</strong>  The security industry needs to take a leaf from the manual of an industry where smart incident response is literally life and death, if it is to fix systemic problems.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/11/wheeler_black_hat/",
+          "publishedOn": "2022-08-11T22:30:15.000Z",
+          "wordCount": 1361,
+          "title": "Security needs to learn from the aviation biz to avoid crashing",
+          "imageUrl": "https://regmedia.co.uk/2022/08/11/security_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/11/curved_space_robot/",
           "author": null,
