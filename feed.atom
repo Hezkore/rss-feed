@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-12T05:22:40.189Z</updated>
+    <updated>2022-08-12T06:28:59.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[After eleven-year wait, Atlassian customers promised custom domains in 2023]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/12/atlassian_cloud_6999_2023/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/12/atlassian_cloud_6999_2023/"/>
+        <updated>2022-08-12T06:05:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Some got so cranky waiting they made a t-shirt celebrating the 'CLOUD-6999' Jira ticket</h4> <p>On July 8, 2011, Atlassian Cloud posted a Jira ticket titled "<a target="_blank" href="https://jira.atlassian.com/browse/CLOUD-6999">Allow custom domains for Cloud apps</a>".…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VMware offers cloudy upgrade lifeline to legacy vCenter users]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/12/vsphere_8_upcoming_major_release/</id>
@@ -54,6 +64,16 @@
         <summary type="html"><![CDATA[<h4>Time to call in the legal team</h4> <p><strong>Black Hat</strong>  Dylan Ayrey, a bug hunter and CEO of Truffle Security, discovered a big data company credential dump containing personal information belonging to about 50,000 of its users, and still hasn't fixed it. …</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comic for 2022.08.12 - Imagine Dragons]]></title>
+        <id>https://explosm.net/comics/imagine-dragons</id>
+        <link href="https://explosm.net/comics/imagine-dragons"/>
+        <updated>2022-08-12T00:00:04.000Z</updated>
+        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
+        <author>
+            <name>Explosm.net</name>
         </author>
     </entry>
     <entry>
