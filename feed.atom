@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-12T20:22:45.305Z</updated>
+    <updated>2022-08-12T21:19:52.291Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Meta iOS apps accused of injecting code into third-party websites]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/12/meta_ios_privacy/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/12/meta_ios_privacy/"/>
+        <updated>2022-08-12T21:03:01.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Company insists it's doing so 'to honor people’s App Tracking Transparency (ATT) choices'</h4> <p>Meta's Instagram and Facebook apps on iOS devices have been injecting JavaScript code into third-party websites from their custom in-app browser, gaining access to data that would be unavailable were those pages loaded in a stand-alone, WebKit-based iOS browser.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twitter unveils US midterm election integrity plans, upsets almost everyone]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/12/twitter_midterm_integrity_plan/</id>
