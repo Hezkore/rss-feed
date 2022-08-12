@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-12T04:37:28.229Z</updated>
+    <updated>2022-08-12T05:22:40.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VMware offers cloudy upgrade lifeline to legacy vCenter users]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/12/vsphere_8_upcoming_major_release/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/12/vsphere_8_upcoming_major_release/"/>
+        <updated>2022-08-12T04:59:13.000Z</updated>
+        <summary type="html"><![CDATA[<h4>But warns 'upcoming major release of vSphere' will break some plugins</h4> <p>It's not often that a double dot release of a product adds significant functionality, but VMware did just that on Thursday with version 4.4.1 of its Cloud Director Availability product, which adds the ability to migrate aged and unsupported versions of vCenter to the cloud.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[David Braben slutar som VD för Elite-utvecklaren Frontier Developments]]></title>
         <id>https://www.fz.se/artikel/291091</id>
