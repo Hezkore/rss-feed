@@ -5837,6 +5837,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Radeon-Pro-22-Q2-Linux",
+          "author": null,
+          "description": "Released in June was the Radeon PRO Software for Enterprise 21.Q2 to deliver AMD's enterprise-vetted graphics driver stack to Windows users. Meanwhile recently debuting is the long-awaited adjacent Radeon Pro Software for Enterprise for Linux driver update...",
+          "link": "https://www.phoronix.com/news/Radeon-Pro-22-Q2-Linux",
+          "publishedOn": "2022-08-12T16:45:13.000Z",
+          "wordCount": 1583,
+          "title": "Radeon Pro Software For Enterprise 22.Q2 For Linux Released",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/AMD-ACP-Pink-Sardine-Linux",
           "author": null,
           "description": "The colorful fishy codenames are not over for AMD's Linux driver crew! While on the GPU side they have moved to IP block-by-block enablement strategy for their future GPUs, over on the audio co-processor side AMD posted a series of patches today under the \"Pink Sardine\" codename...",
@@ -15061,6 +15071,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34748",
+          "author": null,
+          "description": "Studion ekar tom denna fredag, men för den som vill skaffa sig en bild av veckans tekniknyheter sammanfattar @wittwang ett enkelt fredagspanelssubstitut.",
+          "link": "https://www.sweclockers.com/artikel/34748-nyhetssammanfattning-intel-arc-nvidias-priser-och-samsungs-vikbara-drommar",
+          "publishedOn": "2022-08-12T16:37:58.000Z",
+          "wordCount": 2415,
+          "title": "Nyhetssammanfattning: Intel Arc, Nvidias priser och Samsungs vikbara drömmar",
+          "imageUrl": "https://www.sweclockers.com/artikel/34748/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34737",
           "author": null,
           "description": "Säkerhetsfunktionen SGX är inte helt säker hos arkitekturerna \"Ice Lake\" och \"Alder Lake\", där skyddad data kan läsas på grund av en bugg.",
@@ -16508,6 +16528,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/12/aws_private_5g/",
+          "author": null,
+          "description": "<h4>Well, more like 4G LTE right now, and you'll probably need someone to put up the radio</h4> <p>Amazon Web Services has waded into the private mobile network marketplace with AWS Private 5G.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/12/aws_private_5g/",
+          "publishedOn": "2022-08-12T17:00:10.000Z",
+          "wordCount": 1200,
+          "title": "AWS takes a shot at the private 5G network",
+          "imageUrl": "https://regmedia.co.uk/2019/07/24/5g_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/12/bt_union_announces_48hour_strike/",
+          "author": null,
+          "description": "<h4>26,000 engineers and call center operators to down tools again this month</h4> <p>The union representing upset BT workers has served notice on the one-time UK state owned telco that tens of thousands of engineers and call center operators will down tools for two more days of strikes this month.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/12/bt_union_announces_48hour_strike/",
+          "publishedOn": "2022-08-12T16:41:08.000Z",
+          "wordCount": 1446,
+          "title": "BT union announces 48-hour strike action in protest over pay",
+          "imageUrl": "https://regmedia.co.uk/2021/11/24/shutterstock_war.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/12/ubuntu_22041/",
           "author": null,
