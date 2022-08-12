@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-12T22:23:14.381Z</updated>
+    <updated>2022-08-12T23:21:37.309Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Palo Alto bug used for DDoS attacks and there's no fix yet]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/12/palo_alto_bug/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/12/palo_alto_bug/"/>
+        <updated>2022-08-12T23:17:05.000Z</updated>
+        <summary type="html"><![CDATA[<h4>There goes the weekend...</h4> <p>A high-severity Palo Alto Networks denial-of-service (DoS) vulnerability has been exploited by miscreants looking to launch DDoS attacks, and several of the affected products won't have a patch until next week.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starlink satellite dish cracked on stage at Black Hat]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/12/starlink_terminal_hack_black_hat/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/12/starlink_terminal_hack_black_hat/"/>
+        <updated>2022-08-12T22:40:19.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Once the modchip plans are live, you can, too</h4> <p><strong>Black Hat</strong>  A security researcher has shown how to, with physical access at least, fully take over a Starlink satellite terminal using a homemade modchip.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Here's everything shown during tonight's THQ Nordic showcase]]></title>
         <id>https://www.eurogamer.net/heres-everything-shown-during-tonights-thq-nordic-showcase</id>

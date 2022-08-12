@@ -16774,6 +16774,26 @@
       "siteUrl": "https://www.theregister.com/",
       "articles": [
         {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/12/palo_alto_bug/",
+          "author": null,
+          "description": "<h4>There goes the weekend...</h4> <p>A high-severity Palo Alto Networks denial-of-service (DoS) vulnerability has been exploited by miscreants looking to launch DDoS attacks, and several of the affected products won't have a patch until next week.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/12/palo_alto_bug/",
+          "publishedOn": "2022-08-12T23:17:05.000Z",
+          "wordCount": 1367,
+          "title": "Palo Alto bug used for DDoS attacks and there's no fix yet",
+          "imageUrl": "https://regmedia.co.uk/2022/08/12/palo_alto_networks_building_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/12/starlink_terminal_hack_black_hat/",
+          "author": null,
+          "description": "<h4>Once the modchip plans are live, you can, too</h4> <p><strong>Black Hat</strong>  A security researcher has shown how to, with physical access at least, fully take over a Starlink satellite terminal using a homemade modchip.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/12/starlink_terminal_hack_black_hat/",
+          "publishedOn": "2022-08-12T22:40:19.000Z",
+          "wordCount": 1447,
+          "title": "Starlink satellite dish cracked on stage at Black Hat",
+          "imageUrl": "https://regmedia.co.uk/2022/08/12/starlink_satellite_dish_on_solar_paneled_roof_shutterstock.jpg"
+        },
+        {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/12/meta_ios_privacy/",
           "author": null,
           "description": "<h4>Company insists it's doing so 'to honor people’s App Tracking Transparency (ATT) choices'</h4> <p>Meta's Instagram and Facebook apps on iOS devices have been injecting JavaScript code into third-party websites from their custom in-app browser, gaining access to data that would be unavailable were those pages loaded in a stand-alone, WebKit-based iOS browser.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
