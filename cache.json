@@ -5837,6 +5837,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/FFmpeg-Intel-oneVPL",
+          "author": null,
+          "description": "Intel has contributed support for their oneVPL open-source video processing library to the upstream FFmpeg project for that widely-used, cross-platform multimedia library...",
+          "link": "https://www.phoronix.com/news/FFmpeg-Intel-oneVPL",
+          "publishedOn": "2022-08-12T19:15:32.000Z",
+          "wordCount": 1523,
+          "title": "FFmpeg Begins Integrating Intel oneVPL Support",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-i915-HWMON-Linux",
           "author": null,
           "description": "While much of the Intel Arc Graphics \"Alchemist\" (DG2) support appears squared away for Linux 6.0 besides the support still being hidden behind the flag requiring i915.force_probe= to actually enable the experimental support, there still are various DG2 discrete GPU features being tackled by the open-source Intel kernel graphics drivers. One of those \"extras\" still working its way to the kernel is HWMON subsystem integration to be able to expose power / voltage / energy reporting...",
@@ -11318,6 +11328,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "http://flossexperiences.wordpress.com/?p=7298",
+          "author": null,
+          "description": "The last day \n\n\n\n\nThe first lesson I would like everybody to know and have is to buy two machines, especially a machine to check low blood pressure. I had actually ordered one from Amazon but they never delivered. I hope to sue them in consumer court in due course of time. The other one is a blood sugar machine which I ordered and did get, but the former is more important than the latter, and the reason why will be known soon. \nMum had stopped eating solids and was entirely on liquids for the last month of her life. I did try enticing her however I could with aromatic food but failed. Add to that we had weird weather this entire year. June is supposed to be when the weather turns and we have gentle showers, but this whole June it felt like we were in an oven. She asked for liquids whenever…",
+          "link": "https://flossexperiences.wordpress.com/2022/08/13/mum-and-books/",
+          "publishedOn": "2022-08-12T18:33:43.000Z",
+          "wordCount": 5110,
+          "title": "Shirish Agarwal: Mum and Books",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "https://grep.be/blog//en/computer/Upgrading_a_Windows_10_VM_to_Windows_11/",
           "author": null,
           "description": "I run Debian on my laptop (obviously); but occasionally, for $DYAJOB, I\nhave some work to do on Windows. In order to do so, I have had a Windows\n10 VM in my libvirt configuration that I can use.\nA while ago, Microsoft issued Windows 11. I recently found out that all\nthe components for running Windows 11 inside a libvirt VM are available,\nand so I set out to upgrade my VM from Windows 10 to Windows 11. This\nwasn't as easy as I thought, so here's a bit of a writeup of all the\nthings I ran against, and how I fixed them.\nWindows 11 has a number of hardware requirements that aren't necessary\nfor Windows 10. There are a number of them, but the most important three\nare:\nSecure Boot is required (Windows 10 would still boot on a machine\nwithout Secure Boot, although buying hardware without at least…",
@@ -13608,6 +13628,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291096",
+          "author": null,
+          "description": "Kanske något för Spelhelgen™?",
+          "link": "https://www.fz.se/artikel/291096-cult-of-the-lamb-slappt-och-betygen-ar-riktigt-riktigt-bra",
+          "publishedOn": "2022-08-12T18:30:00.000Z",
+          "wordCount": 1782,
+          "title": "Cult of the Lamb släppt och betygen är riktigt, riktigt bra",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291096"
+        },
         {
           "id": "https://www.fz.se/artikel/291101",
           "author": null,
@@ -16613,6 +16643,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/12/earth_gasses_moon/",
+          "author": null,
+          "description": "<h4>The discovery could help scientists further understand the origins of life</h4> <p>Moon meteorites found on Earth contain trace gasses that lend further support to the widely held belief that our largest natural satellite formed from chunks of our planet that were ejected in a massive impact.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/12/earth_gasses_moon/",
+          "publishedOn": "2022-08-12T19:00:05.000Z",
+          "wordCount": 1305,
+          "title": "Scientists find gasses from Earth in rocks from early Moon",
+          "imageUrl": "https://regmedia.co.uk/2022/08/12/lap-02436-moon-meteorite.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/12/microsoft_bug_bounty/",
           "author": null,

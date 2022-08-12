@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-12T18:27:52.284Z</updated>
+    <updated>2022-08-12T19:18:03.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FFmpeg Begins Integrating Intel oneVPL Support]]></title>
+        <id>https://www.phoronix.com/news/FFmpeg-Intel-oneVPL</id>
+        <link href="https://www.phoronix.com/news/FFmpeg-Intel-oneVPL"/>
+        <updated>2022-08-12T19:15:32.000Z</updated>
+        <summary type="html"><![CDATA[Intel has contributed support for their oneVPL open-source video processing library to the upstream FFmpeg project for that widely-used, cross-platform multimedia library...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists find gasses from Earth in rocks from early Moon]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/12/earth_gasses_moon/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/12/earth_gasses_moon/"/>
+        <updated>2022-08-12T19:00:05.000Z</updated>
+        <summary type="html"><![CDATA[<h4>The discovery could help scientists further understand the origins of life</h4> <p>Moon meteorites found on Earth contain trace gasses that lend further support to the widely held belief that our largest natural satellite formed from chunks of our planet that were ejected in a massive impact.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shirish Agarwal: Mum and Books]]></title>
+        <id>http://flossexperiences.wordpress.com/?p=7298</id>
+        <link href="https://flossexperiences.wordpress.com/2022/08/13/mum-and-books/"/>
+        <updated>2022-08-12T18:33:43.000Z</updated>
+        <summary type="html"><![CDATA[The last day 
+
+
+
+
+The first lesson I would like everybody to know and have is to buy two machines, especially a machine to check low blood pressure. I had actually ordered one from Amazon but they never delivered. I hope to sue them in consumer court in due course of time. The other one is a blood sugar machine which I ordered and did get, but the former is more important than the latter, and the reason why will be known soon. 
+Mum had stopped eating solids and was entirely on liquids for the last month of her life. I did try enticing her however I could with aromatic food but failed. Add to that we had weird weather this entire year. June is supposed to be when the weather turns and we have gentle showers, but this whole June it felt like we were in an oven. She asked for liquids whenever…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cult of the Lamb släppt och betygen är riktigt, riktigt bra]]></title>
+        <id>https://www.fz.se/artikel/291096</id>
+        <link href="https://www.fz.se/artikel/291096-cult-of-the-lamb-slappt-och-betygen-ar-riktigt-riktigt-bra"/>
+        <updated>2022-08-12T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Kanske något för Spelhelgen™?]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intel Preps HWMON Support For Linux Driver To Expose Power / Voltage / Energy Reporting]]></title>
         <id>https://www.phoronix.com/news/Linux-i915-HWMON-Linux</id>
