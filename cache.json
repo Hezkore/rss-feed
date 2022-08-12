@@ -1213,6 +1213,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/arcade-paradise-review-wash-clothes-and-play-games-in-this-feat-of-grime-caked-memory",
+          "author": "Christian Donlan",
+          "description": "Let me keep this brief, as I have a wash on - a wash full of briefs! Arcade Paradise is a game about running a laundrette - at first it is anyway. It's one of those jobs a lot of us start out in even if you don't, as is the case here, have a family in the laundrette biz. You run the laundrette, day by day, bussing in and out. You collect trash, you wash and fold clothes, you unclog the toilet and empty the coin hopper in the tokens machine. You put the laundrette's income in the safe and you chat to your friends on a messenger app accessed via the 56k set-up in the back office.\r\n\n\r\nBut in another back room there are arcade games - cabinets with playable games! It's like opening a door and finding that aliens have landed. You can play these games - play clever spins on match-three, on Mr Driller, on plenty of others - but you can also earn money from them too. You can collect the money in their coin hoppers and whack that in the safe. And what if all this money you're collecting, what if you used it to expand? To buy new cabinets, to create more room to store them in? Onwards.\r\n\n\r\nSo Arcade Paradise moves on, in step with the rolling Katamari of commerce and capitalism. More, brighter, shinier. But also quicker, more efficient. More free time in the day is opened up by the right upgrades, so that the time, along with the money, can be reinvested. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/arcade-paradise-review-wash-clothes-and-play-games-in-this-feat-of-grime-caked-memory",
+          "publishedOn": "2022-08-12T13:21:50.000Z",
+          "wordCount": 5202,
+          "title": "Arcade Paradise review: wash clothes and play games in this feat of grime-caked memory",
+          "imageUrl": "https://assets.reedpopcdn.com/Arcade-Paradise-2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Arcade-Paradise-2.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/destiny-2-getting-weapon-balance-changes-as-lord-of-wolves-gets-nerfed",
           "author": "Victoria Kennedy",
           "description": "Bungie has detailed some of the changes that are coming to Destiny 2. \r\n\n\r\nIn its weekly blog post, or TWAB, the company explained some of the weapon balance changes players can expect, which includes buffing some of the game's under-utilised weapon archetypes.\r\n\n\r\nFor example, lightweight bows will get faster draw times as well as an increased \"perfect draw\" window to make things a bit easier for players. \r\n \nRead more",
@@ -5737,6 +5747,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/AMD-ACP-Pink-Sardine-Linux",
+          "author": null,
+          "description": "The colorful fishy codenames are not over for AMD's Linux driver crew! While on the GPU side they have moved to IP block-by-block enablement strategy for their future GPUs, over on the audio co-processor side AMD posted a series of patches today under the \"Pink Sardine\" codename...",
+          "link": "https://www.phoronix.com/news/AMD-ACP-Pink-Sardine-Linux",
+          "publishedOn": "2022-08-12T13:00:20.000Z",
+          "wordCount": 1452,
+          "title": "AMD Posts Linux Audio Driver For The \"Pink Sardine\"",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/review/mesa-222-rdna2",
           "author": null,
           "description": "With Mesa 22.2 bringing many new features, you may be curious about how the performance of this next Mesa3D release is looking. For your viewing pleasure today are benchmarks of Mesa 22.2 back from the day it was branched against that of the stock Mesa 22.0 on Ubuntu 22.04 if you have been wondering whether it's worthwhile upgrading... Benchmarks for this article from the current-generation Radeon RX 6700 XT and RX 6800 XT graphics cards.",
@@ -8850,6 +8870,51 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "r2RrSUixGRgdHBZ7J59y6A",
+          "author": null,
+          "description": "Dmytro Panin uses a Raspberry Pi Pico to monitor MacBook stats by outputting data to a Pimoroni Pico Display Pack module.",
+          "link": "https://www.tomshardware.com/news/raspberry-pi-pico-system-monitor",
+          "publishedOn": "2022-08-12T13:29:02.000Z",
+          "wordCount": 18615,
+          "title": "Raspberry Pi Pico Used in Plug and Play System Monitor",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/W7jo7UM7KcUH2bcxE4WaUo.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/W7jo7UM7KcUH2bcxE4WaUo.jpg"
+        },
+        {
+          "id": "tohGmbWERE36w3xvqDc2V7",
+          "author": null,
+          "description": "AMD's final 96-core EPYC 9654 'Genoa' processors are presumably shipping to the company's partners.",
+          "link": "https://www.tomshardware.com/news/amd-production-96-core-epyc-9654-pictured",
+          "publishedOn": "2022-08-12T13:23:27.000Z",
+          "wordCount": 17740,
+          "title": "AMD's EPYC 9654 96-Core Genoa \nCPU Pictured as Launch Is Looming",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/KN3kLjc8FTusxkWStK2LGa.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/KN3kLjc8FTusxkWStK2LGa.png"
+        },
+        {
+          "id": "8autC23tQ2cACVDSXv8MQ6",
+          "author": "stldenise@gmail.com (Denise Bertacchi)",
+          "description": "Mingda’s Magician Pro is an easy to use printer with a massive build volume.",
+          "link": "https://www.tomshardware.com/reviews/mingda-magician-pro",
+          "publishedOn": "2022-08-12T13:08:08.000Z",
+          "wordCount": 19182,
+          "title": "Mingda Magician Pro Review: More Bed, More Magic",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/QAYGa4abGfaccSMVFn8qBD.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/QAYGa4abGfaccSMVFn8qBD.jpg"
+        },
         {
           "id": "YTLj3MrHu7wmqwLjySmSdf",
           "author": null,
@@ -13194,6 +13259,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291094",
+          "author": null,
+          "description": "",
+          "link": "https://www.fz.se/artikel/291094-gotham-knights-visar-sitt-gotham-city-betydligt-storre-an-i-nagot-arkham-spel",
+          "publishedOn": "2022-08-12T13:28:00.000Z",
+          "wordCount": 1779,
+          "title": "Gotham Knights visar sitt Gotham City, betydligt större än i något Arkham-spel",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291094"
+        },
+        {
           "id": "https://www.fz.se/artikel/291100",
           "author": null,
           "description": "Usla presentationer som dödat hypen för ett spel - berätta vilka du minns.",
@@ -14691,6 +14766,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34747",
+          "author": null,
+          "description": "Höga priser och mindre beprövad teknik avskräcker nog många från att hoppa på det vikbara tåget, men inom tre år tror Samsung att detta har vänt.",
+          "link": "https://www.sweclockers.com/artikel/34747-samsung-ar-2025-ar-vikbara-standard-i-premiumsegmentet",
+          "publishedOn": "2022-08-12T13:17:50.000Z",
+          "wordCount": 1800,
+          "title": "Samsung: \"År 2025 är vikbara standard i premiumsegmentet\"",
+          "imageUrl": "https://www.sweclockers.com/artikel/34747/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34746",
           "author": null,
           "description": "En energiintensiv produktionsfas kompenserar för det lägre effektuttaget SSD-enheter har vid drift, men studien förbiser och förenklar ett antal parametrar.",
@@ -15839,6 +15924,16 @@
       "siteUrl": "https://tapas.io/series/3346",
       "articles": [
         {
+          "id": "https://tapas.io/episode/2613061",
+          "author": "J. L. Westover",
+          "description": "",
+          "link": "https://tapas.io/episode/2613061",
+          "publishedOn": "2022-08-12T13:18:17.000Z",
+          "wordCount": null,
+          "title": "Force Feed",
+          "imageUrl": null
+        },
+        {
           "id": "https://tapas.io/episode/2610359",
           "author": "J. L. Westover",
           "description": "",
@@ -15941,6 +16036,16 @@
       "feedUrl": "http://shencomix.tumblr.com/rss",
       "siteUrl": "https://shencomix.tumblr.com/",
       "articles": [
+        {
+          "id": "https://shencomix.tumblr.com/post/692383625470148608",
+          "author": null,
+          "description": "",
+          "link": "https://shencomix.tumblr.com/post/692383625470148608",
+          "publishedOn": "2022-08-12T12:48:00.000Z",
+          "wordCount": 711,
+          "title": "Untitled",
+          "imageUrl": "https://64.media.tumblr.com/adefa9a2eab35d7ba41bb9c3f1dad899/f561044d47782ae3-29/s1280x1920/ab498f003016db7b4c80ebce1925a3f766f20982.png"
+        },
         {
           "id": "https://shencomix.tumblr.com/post/692293926543114240",
           "author": null,
@@ -16098,6 +16203,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/12/advanced_confirms_ransomware_forced_it/",
+          "author": null,
+          "description": "<h4>Advanced's infrastructure <b>still</b> down and out, recovery to take weeks or more</h4> <p>Advanced, the MSP forced to shut down some of its servers last week after identifying an \"issue\" with its infrastructure hosting products, has confirmed a ransomware attack and says recovery will be in the order of weeks.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/12/advanced_confirms_ransomware_forced_it/",
+          "publishedOn": "2022-08-12T13:06:23.000Z",
+          "wordCount": 1591,
+          "title": "Emergency services call-handling provider: Ransomware forced it to pull servers offline",
+          "imageUrl": "https://regmedia.co.uk/2018/08/06/ransomware_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/12/outlook_crash/",
           "author": null,
