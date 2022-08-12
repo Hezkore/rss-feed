@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-12T17:27:50.251Z</updated>
+    <updated>2022-08-12T18:27:52.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Preps HWMON Support For Linux Driver To Expose Power / Voltage / Energy Reporting]]></title>
+        <id>https://www.phoronix.com/news/Linux-i915-HWMON-Linux</id>
+        <link href="https://www.phoronix.com/news/Linux-i915-HWMON-Linux"/>
+        <updated>2022-08-12T18:21:39.000Z</updated>
+        <summary type="html"><![CDATA[While much of the Intel Arc Graphics "Alchemist" (DG2) support appears squared away for Linux 6.0 besides the support still being hidden behind the flag requiring i915.force_probe= to actually enable the experimental support, there still are various DG2 discrete GPU features being tackled by the open-source Intel kernel graphics drivers. One of those "extras" still working its way to the kernel is HWMON subsystem integration to be able to expose power / voltage / energy reporting...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Save data from Splatoon 2 can be transferred to Splatoon 3]]></title>
+        <id>https://www.vg247.com/save-data-from-splatoon-2-can-be-transferred-to-splatoon-3</id>
+        <link href="https://www.vg247.com/save-data-from-splatoon-2-can-be-transferred-to-splatoon-3"/>
+        <updated>2022-08-12T18:15:27.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that save data from Splatoon 2 can be transferred to Splatoon 3? Well, now you know.
+And there's even better news: according to the official Splatoon 3 website, you will also receive save data bonuses.
+You can transfer save data once per Nintendo Account by launching Splatoon 3 or entering the lobby while connected to the internet. To transfer, and save data from Splatoon 2 must be on the same system with the same user account.
+ Read more]]></summary>
+        <author>
+            <name>Stephany Nunneley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to upgrade to Windows 11, whether your PC is supported or not]]></title>
+        <id>https://arstechnica.com/?p=1800798</id>
+        <link href="https://arstechnica.com/?p=1800798"/>
+        <updated>2022-08-12T18:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Supported or not, new or old, this is everything you need to know.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft trumps Google for 2021-22 bug bounty payouts]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/12/microsoft_bug_bounty/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/12/microsoft_bug_bounty/"/>
+        <updated>2022-08-12T18:00:13.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Another $13.7m handed out to researchers, but then again it does have an awful lot of attack surfaces</h4> <p>Microsoft appears to have beat Google on the bug bounty front, with $13.7 million in rewards spread out over 335 researchers.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD RDNA 3 GPU Specs: Up To 12,288 ALUs, 96MB Infinity Cache]]></title>
+        <id>WsrVyyAXzGZC7VmZcxNGRK</id>
+        <link href="https://www.tomshardware.com/news/amd-rdna-3-gpus"/>
+        <updated>2022-08-12T17:55:29.000Z</updated>
+        <summary type="html"><![CDATA[Angstronomics reveals the potential specifications for AMD's looming RDNA 3 silicon.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Betelgeuse is bouncing back after blowing its top in 2019]]></title>
+        <id>https://arstechnica.com/?p=1873393</id>
+        <link href="https://arstechnica.com/?p=1873393"/>
+        <updated>2022-08-12T17:28:56.000Z</updated>
+        <summary type="html"><![CDATA["We're watching stellar evolution in real time."]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xiaomi clones the Galaxy Fold, makes it 40% thinner, adds a bigger battery]]></title>
+        <id>https://arstechnica.com/?p=1873429</id>
+        <link href="https://arstechnica.com/?p=1873429"/>
+        <updated>2022-08-12T17:12:26.000Z</updated>
+        <summary type="html"><![CDATA[Samsung hasn't changed the Galaxy Fold battery density for four years, and it shows.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS takes a shot at the private 5G network]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/12/aws_private_5g/</id>
@@ -17,6 +90,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[US approves Google plan to let political emails bypass Gmail spam filter]]></title>
+        <id>https://arstechnica.com/?p=1873460</id>
+        <link href="https://arstechnica.com/?p=1873460"/>
+        <updated>2022-08-12T16:55:02.000Z</updated>
+        <summary type="html"><![CDATA[Plan came after GOP complaints, but FEC says it doesn't violate ban on contributions.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Soviet Union once hunted endangered whales to the brink of extinction]]></title>
+        <id>https://arstechnica.com/?p=1873465</id>
+        <link href="https://arstechnica.com/?p=1873465"/>
+        <updated>2022-08-12T16:48:57.000Z</updated>
+        <summary type="html"><![CDATA[Scientists opposed whaling and secretly tracked its toll.]]></summary>
+        <author>
+            <name>The Conversation</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Radeon Pro Software For Enterprise 22.Q2 For Linux Released]]></title>
         <id>https://www.phoronix.com/news/Radeon-Pro-22-Q2-Linux</id>
         <link href="https://www.phoronix.com/news/Radeon-Pro-22-Q2-Linux"/>
@@ -24,6 +117,16 @@
         <summary type="html"><![CDATA[Released in June was the Radeon PRO Software for Enterprise 21.Q2 to deliver AMD's enterprise-vetted graphics driver stack to Windows users. Meanwhile recently debuting is the long-awaited adjacent Radeon Pro Software for Enterprise for Linux driver update...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epson’s bricked printers highlight the industry’s reparability problem]]></title>
+        <id>https://arstechnica.com/?p=1873396</id>
+        <link href="https://arstechnica.com/?p=1873396"/>
+        <updated>2022-08-12T16:44:37.000Z</updated>
+        <summary type="html"><![CDATA[Printer makers have a history of invasive practices that hurt user repairability, experience.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
         </author>
     </entry>
     <entry>
@@ -21125,16 +21228,6 @@ NitroKey 3’s firmware is based on Trussed framework. In essence, it’s been d
 The post GNOME 42.3 Released with Screenshot UI Fixes, Better Flatpak Support, and More appeared first on 9to5Linux - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.]]></summary>
         <author>
             <name>Marius Nestor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fixing “Command ‘python’ not found” Error in Ubuntu Linux]]></title>
-        <id>https://itsfoss.com/?p=98306</id>
-        <link href="https://itsfoss.com/python-not-found-ubuntu/"/>
-        <updated>2022-07-14T06:13:42.000Z</updated>
-        <summary type="html"><![CDATA[Tried running python command but Ubuntu complains that python command is not found? It may already be installed but you'll still see the error. Here's why!]]></summary>
-        <author>
-            <name>Abhishek Prakash</name>
         </author>
     </entry>
 </feed>

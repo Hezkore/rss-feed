@@ -250,16 +250,6 @@
           "wordCount": 8586,
           "title": "The Ultimate Guide to Epic Games Store on Linux",
           "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/07/using-epic-games-store-on-linux-guide.jpg"
-        },
-        {
-          "id": "https://itsfoss.com/?p=98306",
-          "author": "Abhishek Prakash",
-          "description": "Tried running python command but Ubuntu complains that python command is not found? It may already be installed but you'll still see the error. Here's why!",
-          "link": "https://itsfoss.com/python-not-found-ubuntu/",
-          "publishedOn": "2022-07-14T06:13:42.000Z",
-          "wordCount": 7360,
-          "title": "Fixing “Command ‘python’ not found” Error in Ubuntu Linux",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/07/python-command-not-found-error-in-ubuntu.png"
         }
       ]
     },
@@ -4040,6 +4030,16 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/save-data-from-splatoon-2-can-be-transferred-to-splatoon-3",
+          "author": "Stephany Nunneley",
+          "description": "Did you know that save data from Splatoon 2 can be transferred to Splatoon 3? Well, now you know.\nAnd there's even better news: according to the official Splatoon 3 website, you will also receive save data bonuses.\nYou can transfer save data once per Nintendo Account by launching Splatoon 3 or entering the lobby while connected to the internet. To transfer, and save data from Splatoon 2 must be on the same system with the same user account.\n Read more",
+          "link": "https://www.vg247.com/save-data-from-splatoon-2-can-be-transferred-to-splatoon-3",
+          "publishedOn": "2022-08-12T18:15:27.000Z",
+          "wordCount": 4934,
+          "title": "Save data from Splatoon 2 can be transferred to Splatoon 3",
+          "imageUrl": "https://asset.vg247.com/splatoon_3_0987654321.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/splatoon_3_0987654321.jpg"
+        },
+        {
           "id": "https://www.vg247.com/netflix-subscribers-excellent-free-games-warning",
           "author": "Dom Peppiatt",
           "description": "No-one is playing Netflix’s games. Well, no, that’s not true – 1% of Netflix subscribers are. But that means that over 200 million people have access to, say, one of the best strategy games out there… and probably don’t even know about it.\nFor the more casual players, interested in less intensive and more cosy affairs, there’s the likes of Poinpy, Krispee Street, and Knittens. If you’re a nut for Stranger Things and have been humming Running Up That Hill and Master of Puppets since the one-two punch of those musical finales, you’ll probably find the likes of Stranger Things 3: The Game and Stranger Things: 1984 both worth your time.\r\n\nBut the odds are you don’t even know these games are available as part of your subscription fee. Until I started writing this piece, I didn’t even know how difficult it was to access the games on various platforms – Netflix hasn’t exactly been communicative about promoting them to its still-humongus user base, has it? To make matters more complicated, you can’t play the games via the app, but instead you need to head to the mobile store of your platform of choice (iOS or Android) and download the games from there. Anything viable with your Netflix subscription will be indicated with that trademark red N logo , and listed via a dedicated in-app tab on the homescreen. Clicking that – or finding a relevant game in your storefront of choice – will prompt a Netflix log-in, and from there you can play the game. For free. \r\n \nRead more",
@@ -5836,6 +5836,16 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Linux-i915-HWMON-Linux",
+          "author": null,
+          "description": "While much of the Intel Arc Graphics \"Alchemist\" (DG2) support appears squared away for Linux 6.0 besides the support still being hidden behind the flag requiring i915.force_probe= to actually enable the experimental support, there still are various DG2 discrete GPU features being tackled by the open-source Intel kernel graphics drivers. One of those \"extras\" still working its way to the kernel is HWMON subsystem integration to be able to expose power / voltage / energy reporting...",
+          "link": "https://www.phoronix.com/news/Linux-i915-HWMON-Linux",
+          "publishedOn": "2022-08-12T18:21:39.000Z",
+          "wordCount": 1439,
+          "title": "Intel Preps HWMON Support For Linux Driver To Expose Power / Voltage / Energy Reporting",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Radeon-Pro-22-Q2-Linux",
           "author": null,
@@ -9021,6 +9031,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "WsrVyyAXzGZC7VmZcxNGRK",
+          "author": null,
+          "description": "Angstronomics reveals the potential specifications for AMD's looming RDNA 3 silicon.",
+          "link": "https://www.tomshardware.com/news/amd-rdna-3-gpus",
+          "publishedOn": "2022-08-12T17:55:29.000Z",
+          "wordCount": 17800,
+          "title": "AMD RDNA 3 GPU Specs: Up To 12,288 ALUs, 96MB Infinity Cache",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/Y8G9mkbHNwpTVPnJMYqMMY.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/Y8G9mkbHNwpTVPnJMYqMMY.jpg"
+        },
+        {
           "id": "zmVBCB6XWt8wuxhXtdenh3",
           "author": null,
           "description": "Gen 2 X-NAND technology may increase the throughput of our SSDs at no extra cost, according to a California company.",
@@ -11936,6 +11961,66 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1800798",
+          "author": "Andrew Cunningham",
+          "description": "Supported or not, new or old, this is everything you need to know.",
+          "link": "https://arstechnica.com/?p=1800798",
+          "publishedOn": "2022-08-12T18:00:31.000Z",
+          "wordCount": 2850,
+          "title": "How to upgrade to Windows 11, whether your PC is supported or not",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/DSC00361-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1873393",
+          "author": "Jennifer Ouellette",
+          "description": "\"We're watching stellar evolution in real time.\"",
+          "link": "https://arstechnica.com/?p=1873393",
+          "publishedOn": "2022-08-12T17:28:56.000Z",
+          "wordCount": 1872,
+          "title": "Betelgeuse is bouncing back after blowing its top in 2019",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/betel2-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1873429",
+          "author": "Ron Amadeo",
+          "description": "Samsung hasn't changed the Galaxy Fold battery density for four years, and it shows.",
+          "link": "https://arstechnica.com/?p=1873429",
+          "publishedOn": "2022-08-12T17:12:26.000Z",
+          "wordCount": 1539,
+          "title": "Xiaomi clones the Galaxy Fold, makes it 40% thinner, adds a bigger battery",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/30-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1873460",
+          "author": "Jon Brodkin",
+          "description": "Plan came after GOP complaints, but FEC says it doesn't violate ban on contributions.",
+          "link": "https://arstechnica.com/?p=1873460",
+          "publishedOn": "2022-08-12T16:55:02.000Z",
+          "wordCount": 1593,
+          "title": "US approves Google plan to let political emails bypass Gmail spam filter",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-spam-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1873465",
+          "author": "The Conversation",
+          "description": "Scientists opposed whaling and secretly tracked its toll.",
+          "link": "https://arstechnica.com/?p=1873465",
+          "publishedOn": "2022-08-12T16:48:57.000Z",
+          "wordCount": 1646,
+          "title": "The Soviet Union once hunted endangered whales to the brink of extinction",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1205993604-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1873396",
+          "author": "Scharon Harding",
+          "description": "Printer makers have a history of invasive practices that hurt user repairability, experience.",
+          "link": "https://arstechnica.com/?p=1873396",
+          "publishedOn": "2022-08-12T16:44:37.000Z",
+          "wordCount": 1811,
+          "title": "Epson’s bricked printers highlight the industry’s reparability problem",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-157481080-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1873397",
           "author": "Kevin Purdy",
@@ -16528,6 +16613,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/12/microsoft_bug_bounty/",
+          "author": null,
+          "description": "<h4>Another $13.7m handed out to researchers, but then again it does have an awful lot of attack surfaces</h4> <p>Microsoft appears to have beat Google on the bug bounty front, with $13.7 million in rewards spread out over 335 researchers.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/12/microsoft_bug_bounty/",
+          "publishedOn": "2022-08-12T18:00:13.000Z",
+          "wordCount": 1352,
+          "title": "Microsoft trumps Google for 2021-22 bug bounty payouts",
+          "imageUrl": "https://regmedia.co.uk/2022/03/15/bug_in_code_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/12/aws_private_5g/",
           "author": null,
