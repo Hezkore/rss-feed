@@ -276,6 +276,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/08/windows-compatibility-layer-wine-version-715-out-now/",
+          "author": "Liam Dawe",
+          "description": "Wine is a compatibility layer that aims to let you run games and applications designed for Windows on Linux and a new release version 7.15 is out now.",
+          "link": "https://www.gamingonlinux.com/2022/08/windows-compatibility-layer-wine-version-715-out-now/",
+          "publishedOn": "2022-08-13T19:39:09.000Z",
+          "wordCount": 1162,
+          "title": "Windows compatibility layer Wine version 7.15 out now",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/tagline_gallery/wine-generic.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/08/humble-bundle-have-another-interesting-set-of-games-in-the-tactical-combat-bundle/",
           "author": "Liam Dawe",
           "description": "Need more games to fill up your library? Humble Bundle have put up another one that looks pretty good with the Tactical Combat Bundle. So here's what to expect on Linux desktop and Steam Deck.",
@@ -6056,6 +6066,16 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Wine-7.15-Released",
+          "author": null,
+          "description": "Wine 7.15 is out a day late as the newest development snapshot of this open-source software for enjoying Windows games and applications on Linux and other platforms. Wine is also what serves as the base for Valve's Proton that powers Steam Play...",
+          "link": "https://www.phoronix.com/news/Wine-7.15-Released",
+          "publishedOn": "2022-08-13T20:10:20.000Z",
+          "wordCount": 1224,
+          "title": "Wine 7.15 Adds RSA Encryption, Direct2D Command Lists",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/AMD-Radeon-680M-Linux-Mesa",
           "author": null,
