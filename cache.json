@@ -277,16 +277,6 @@
           "wordCount": 11337,
           "title": "GNOME 43 Alpha Released to Kick Off GUADEC 2022 in Guadalajara, Mexico",
           "imageUrl": "https://9to5linux.com/wp-content/uploads/2022/07/g43a.webp"
-        },
-        {
-          "id": "https://9to5linux.com/?p=13318",
-          "author": "Marius Nestor",
-          "description": "GNOME 42.3 is now available as the third point release in the GNOME 42 desktop environment series with more bug fixes and improvements. Here’s what’s new!\nThe post GNOME 42.3 Released with Screenshot UI Fixes, Better Flatpak Support, and More appeared first on 9to5Linux - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.",
-          "link": "https://9to5linux.com/gnome-42-3-released-with-screenshot-ui-fixes-better-flatpak-support-and-more",
-          "publishedOn": "2022-07-14T22:19:42.000Z",
-          "wordCount": 11376,
-          "title": "GNOME 42.3 Released with Screenshot UI Fixes, Better Flatpak Support, and More",
-          "imageUrl": "https://9to5linux.com/wp-content/uploads/2022/07/g423.webp"
         }
       ]
     },
@@ -1212,6 +1202,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/pubg-battlegrounds-boasts-80000-more-daily-players-since-going-free-to-play",
+          "author": "Vikki Blake",
+          "description": "PUBG: Battlegrounds has clocked up 80,000 new players daily since going free-to-play earlier this year.\r\n\nConfirming the new figures in its latest financial report, developer/publisher Krafton confirmed that net profit for the company was up 37 per cent when compared with the same quarter last year, even though both operating profit and revenue were down by 6.9 per cent and 7.8 per cent respectively. \r\n\n94 per cent of the battle royale's revenue is generated outside of South Korea, where the game is made. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/pubg-battlegrounds-boasts-80000-more-daily-players-since-going-free-to-play",
+          "publishedOn": "2022-08-13T10:11:21.000Z",
+          "wordCount": 4709,
+          "title": "PUBG: Battlegrounds boasts 80,000 more daily players since going free-to-play",
+          "imageUrl": "https://assets.reedpopcdn.com/8.-18.2-Ascender-1024x576.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/8.-18.2-Ascender-1024x576.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/heres-everything-shown-during-tonights-thq-nordic-showcase",
           "author": "Matt Wales",
@@ -5897,6 +5897,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-6.0-More-RISC-V",
+          "author": null,
+          "description": "Last week was the main set of RISC-V updates for Linux 6.0 that included improving Svpbmt support, a more robust default kernel configuration, and other improvements. A secondary set of RISC-V CPU architecture updates has now been merged for Linux 6.0...",
+          "link": "https://www.phoronix.com/news/Linux-6.0-More-RISC-V",
+          "publishedOn": "2022-08-13T09:32:07.000Z",
+          "wordCount": 1419,
+          "title": "RISC-V Lands New Extensions In Linux 6.0",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/KDE-5.26-Widget-Accessible",
           "author": null,
           "description": "It's been another busy summer week for KDE developers with many new features and fixes landing within this open-source desktop stack...",
@@ -5904,6 +5914,16 @@
           "publishedOn": "2022-08-13T09:11:13.000Z",
           "wordCount": 1339,
           "title": "Plasma 5.26 Improving Widget Accessibility, Kickoff Gets Compact Mode + Wayland Fixes",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.0-VirtIO",
+          "author": null,
+          "description": "A number of changes were merged into Linux 6.0 for benefiting virtualization when making use of VirtIO...",
+          "link": "https://www.phoronix.com/news/Linux-6.0-VirtIO",
+          "publishedOn": "2022-08-13T08:49:31.000Z",
+          "wordCount": 1303,
+          "title": "Many VirtIO Changes Land For Linux 6.0",
           "imageUrl": null
         },
         {
@@ -15366,6 +15386,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34749",
+          "author": null,
+          "description": "Med en ny uppdatering ska minnestestet kunna peka på precis var felet ligger, förutsatt att systemet i fråga använder Intels \"Alder Lake\" med DDR5-minne.",
+          "link": "https://www.sweclockers.com/artikel/34749-uppdatering-for-memtest86-ska-visa-vilken-minneskrets-som-felar",
+          "publishedOn": "2022-08-13T10:07:45.000Z",
+          "wordCount": 1647,
+          "title": "Uppdatering för Memtest86 ska visa vilken minneskrets som felar",
+          "imageUrl": "https://www.sweclockers.com/artikel/34749/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34748",
           "author": null,
           "description": "Studion ekar tom denna fredag, men för den som vill skaffa sig en bild av veckans tekniknyheter sammanfattar @wittwang ett enkelt fredagspanelssubstitut.",
@@ -16833,6 +16863,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/13/in_brief_security_black_hat/",
+          "author": null,
+          "description": "<h4>Tl;DR - the news isn't good</h4> <p><strong>Black Hat In Brief</strong>  Victor Zhora, Ukraine's lead cybersecurity official, made an unannounced visit to Black Hat in Las Vegas this week, where he spoke to attendees about the state of cyberwarfare in the country's conflict with Russia. The picture Zhora painted was bleak.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/13/in_brief_security_black_hat/",
+          "publishedOn": "2022-08-13T10:00:09.000Z",
+          "wordCount": 2441,
+          "title": "Ukraine's cyber chief comes to Black Hat in surprise visit",
+          "imageUrl": "https://regmedia.co.uk/2022/03/14/shutterstock_ukrainelaptop.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/13/intel_software_focus/",
           "author": null,
