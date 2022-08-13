@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-13T04:30:35.235Z</updated>
+    <updated>2022-08-13T05:19:31.516Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hogwarts Legacy släpps den 10:e februari i år]]></title>
+        <id>https://www.fz.se/artikel/291106</id>
+        <link href="https://www.fz.se/artikel/291106-hogwarts-legacy-slapps-den-10e-februari-i-ar"/>
+        <updated>2022-08-13T05:02:37.000Z</updated>
+        <summary type="html"><![CDATA[Polera trollstavarna och ta fram kvastarna.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Let there be ambient light sensing, without fear of data theft]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/13/ambient_light_security/</id>
