@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-13T10:23:56.317Z</updated>
+    <updated>2022-08-13T11:18:03.301Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[There's a new South Park game on the way]]></title>
+        <id>https://www.eurogamer.net/theres-a-new-south-park-game-on-the-way</id>
+        <link href="https://www.eurogamer.net/theres-a-new-south-park-game-on-the-way"/>
+        <updated>2022-08-13T11:10:18.000Z</updated>
+        <summary type="html"><![CDATA[THQ Nordic rounded out its 2022 Showcase by teasing a new South Park game.
+
+"As of today, THQ Nordic (HandyGames not included) has 43 games in development. Thereof 26 still unannounced AFTER this showcase," the broadcast confirmed at the end of the presentation. "Thank you for watching."
+
+Moments later, though, the 26 is crossed out, and the text fades to the South Park Digital Studios logo - head to 55min and 11secs on the video below to see for yourself:
+ 
+Read more]]></summary>
+        <author>
+            <name>Vikki Blake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Gets New Patch To Fix AMD Retbleed Mitigation - STIBP Needed With IBPB]]></title>
+        <id>https://www.phoronix.com/news/AMD-Linux-Retbleed-STIBP-IBPB</id>
+        <link href="https://www.phoronix.com/news/AMD-Linux-Retbleed-STIBP-IBPB"/>
+        <updated>2022-08-13T11:05:00.000Z</updated>
+        <summary type="html"><![CDATA[Sent out this morning is a Linux kernel "fix" that now enabled STIBP when using the IBPB mode for Retbleed mitigations on AMD processors. In other words, more protections needed for this enhanced mode of Retbleed mitigation...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI laser probe for prostate cancer enters clinical trials]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/13/ai_prostate_cancer/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/13/ai_prostate_cancer/"/>
+        <updated>2022-08-13T11:00:06.000Z</updated>
+        <summary type="html"><![CDATA[<h4>FDA says yes to the tests</h4> <p>AI software capable of mapping tumor tissue more accurately to help surgeons treat and shrink prostate cancer using a laser-powered needle will soon be tested in real patients during clinical trials.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alone in the Dark återskapas av manusskrivaren bakom Soma]]></title>
+        <id>https://www.fz.se/artikel/291108</id>
+        <link href="https://www.fz.se/artikel/291108-alone-in-the-dark-aterskapas-av-manusskrivaren-bakom-soma"/>
+        <updated>2022-08-13T10:53:32.000Z</updated>
+        <summary type="html"><![CDATA[Vågar du vara ensam i mörkret?]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How long will it take to understand long COVID?]]></title>
+        <id>https://arstechnica.com/?p=1873313</id>
+        <link href="https://arstechnica.com/?p=1873313"/>
+        <updated>2022-08-13T10:44:54.000Z</updated>
+        <summary type="html"><![CDATA[Researchers have proposed a variety of theories to explain symptoms of COVID long-haulers.]]></summary>
+        <author>
+            <name>Knowable Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NBA 2K23 reveals more about its upcoming mode The Jordan Challenge]]></title>
+        <id>https://www.eurogamer.net/nba-2k23-reveals-more-about-its-upcoming-mode-the-jordan-challenge-1</id>
+        <link href="https://www.eurogamer.net/nba-2k23-reveals-more-about-its-upcoming-mode-the-jordan-challenge-1"/>
+        <updated>2022-08-13T10:42:39.000Z</updated>
+        <summary type="html"><![CDATA[NBA 2K23 is inviting you to "experience Michael Jordan's most iconic moments" in its upcoming Jordan Challenge mode.
+
+The game mode will include 15 "playable moments from Jordan's career that let players relive his legacy from the early days as a college sensation, to his game-winning shot in the 1998 NBA Finals".  
+
+Each challenge will include a pre-game interview with a "luminary who was part of what made every game special" and a new presentation package that recreates how the games would've looked as they were originally broadcast in the 80s and 90s. 
+ 
+Read more]]></summary>
+        <author>
+            <name>Vikki Blake</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PUBG: Battlegrounds boasts 80,000 more daily players since going free-to-play]]></title>
         <id>https://www.eurogamer.net/pubg-battlegrounds-boasts-80000-more-daily-players-since-going-free-to-play</id>
@@ -21610,17 +21682,6 @@ version 219. This version includes the following changes:
 You find out more by visiting the project homepage.]]></summary>
         <author>
             <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patryk Cisek: Playing with NitroKey 3 -- PC runner using USBIP]]></title>
-        <id>https://prezu.ca/post/2022-07-13-nk3-pc-usbip-1/</id>
-        <link href="https://prezu.ca/post/2022-07-13-nk3-pc-usbip-1/"/>
-        <updated>2022-07-14T23:01:56.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been wanting to use my brand new NitroKey 3, but TOTP is not supported yet. So, I’m looking to implement it myself, since firmware and tooling are open-source.
-NitroKey 3’s firmware is based on Trussed framework. In essence, it’s been designed so that anyone can implement an independent Trussed application. Each such application is like a module that can be added to Trussed-based product. So if I write a Trussed app, I’d be able to add it to NK3’s firmware.]]></summary>
-        <author>
-            <name>patryk@cisek.emai (l (Patryk Cisek)</name>
         </author>
     </entry>
 </feed>

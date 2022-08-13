@@ -1203,6 +1203,26 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/theres-a-new-south-park-game-on-the-way",
+          "author": "Vikki Blake",
+          "description": "THQ Nordic rounded out its 2022 Showcase by teasing a new South Park game.\r\n\n\"As of today, THQ Nordic (HandyGames not included) has 43 games in development. Thereof 26 still unannounced AFTER this showcase,\" the broadcast confirmed at the end of the presentation. \"Thank you for watching.\"\r\n\nMoments later, though, the 26 is crossed out, and the text fades to the South Park Digital Studios logo - head to 55min and 11secs on the video below to see for yourself:\r\n \nRead more",
+          "link": "https://www.eurogamer.net/theres-a-new-south-park-game-on-the-way",
+          "publishedOn": "2022-08-13T11:10:18.000Z",
+          "wordCount": 4558,
+          "title": "There's a new South Park game on the way",
+          "imageUrl": "https://assets.reedpopcdn.com/Screenshot-2022-08-13-at-11.54.51.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Screenshot-2022-08-13-at-11.54.51.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/nba-2k23-reveals-more-about-its-upcoming-mode-the-jordan-challenge-1",
+          "author": "Vikki Blake",
+          "description": "NBA 2K23 is inviting you to \"experience Michael Jordan's most iconic moments\" in its upcoming Jordan Challenge mode.\r\n\nThe game mode will include 15 \"playable moments from Jordan's career that let players relive his legacy from the early days as a college sensation, to his game-winning shot in the 1998 NBA Finals\".  \r\n\nEach challenge will include a pre-game interview with a \"luminary who was part of what made every game special\" and a new presentation package that recreates how the games would've looked as they were originally broadcast in the 80s and 90s. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/nba-2k23-reveals-more-about-its-upcoming-mode-the-jordan-challenge-1",
+          "publishedOn": "2022-08-13T10:42:39.000Z",
+          "wordCount": 4713,
+          "title": "NBA 2K23 reveals more about its upcoming mode The Jordan Challenge",
+          "imageUrl": "https://assets.reedpopcdn.com/NBA-2K23-JORDAN-CHALLENGE-SCREENSHOT-9_Lr4qsJB.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/NBA-2K23-JORDAN-CHALLENGE-SCREENSHOT-9_Lr4qsJB.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/pubg-battlegrounds-boasts-80000-more-daily-players-since-going-free-to-play",
           "author": "Vikki Blake",
           "description": "PUBG: Battlegrounds has clocked up 80,000 new players daily since going free-to-play earlier this year.\r\n\nConfirming the new figures in its latest financial report, developer/publisher Krafton confirmed that net profit for the company was up 37 per cent when compared with the same quarter last year, even though both operating profit and revenue were down by 6.9 per cent and 7.8 per cent respectively. \r\n\n94 per cent of the battle royale's revenue is generated outside of South Korea, where the game is made. \r\n \nRead more",
@@ -5896,6 +5916,16 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/AMD-Linux-Retbleed-STIBP-IBPB",
+          "author": null,
+          "description": "Sent out this morning is a Linux kernel \"fix\" that now enabled STIBP when using the IBPB mode for Retbleed mitigations on AMD processors. In other words, more protections needed for this enhanced mode of Retbleed mitigation...",
+          "link": "https://www.phoronix.com/news/AMD-Linux-Retbleed-STIBP-IBPB",
+          "publishedOn": "2022-08-13T11:05:00.000Z",
+          "wordCount": 1534,
+          "title": "Linux Gets New Patch To Fix AMD Retbleed Mitigation - STIBP Needed With IBPB",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Linux-6.0-More-RISC-V",
           "author": null,
@@ -12026,16 +12056,6 @@
           "wordCount": 95,
           "title": "Reproducible Builds (diffoscope): diffoscope 219 released",
           "imageUrl": null
-        },
-        {
-          "id": "https://prezu.ca/post/2022-07-13-nk3-pc-usbip-1/",
-          "author": "patryk@cisek.emai (l (Patryk Cisek)",
-          "description": "I’ve been wanting to use my brand new NitroKey 3, but TOTP is not supported yet. So, I’m looking to implement it myself, since firmware and tooling are open-source.\nNitroKey 3’s firmware is based on Trussed framework. In essence, it’s been designed so that anyone can implement an independent Trussed application. Each such application is like a module that can be added to Trussed-based product. So if I write a Trussed app, I’d be able to add it to NK3’s firmware.",
-          "link": "https://prezu.ca/post/2022-07-13-nk3-pc-usbip-1/",
-          "publishedOn": "2022-07-14T23:01:56.000Z",
-          "wordCount": 1476,
-          "title": "Patryk Cisek: Playing with NitroKey 3 -- PC runner using USBIP",
-          "imageUrl": null
         }
       ]
     },
@@ -12141,6 +12161,16 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1873313",
+          "author": "Knowable Magazine",
+          "description": "Researchers have proposed a variety of theories to explain symptoms of COVID long-haulers.",
+          "link": "https://arstechnica.com/?p=1873313",
+          "publishedOn": "2022-08-13T10:44:54.000Z",
+          "wordCount": 1792,
+          "title": "How long will it take to understand long COVID?",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/long-covid-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1873536",
           "author": "Beth Mole",
@@ -13808,6 +13838,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291108",
+          "author": null,
+          "description": "Vågar du vara ensam i mörkret?",
+          "link": "https://www.fz.se/artikel/291108-alone-in-the-dark-aterskapas-av-manusskrivaren-bakom-soma",
+          "publishedOn": "2022-08-13T10:53:32.000Z",
+          "wordCount": 1779,
+          "title": "Alone in the Dark återskapas av manusskrivaren bakom Soma",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291108"
+        },
         {
           "id": "https://www.fz.se/artikel/291106",
           "author": null,
@@ -16863,6 +16903,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/13/ai_prostate_cancer/",
+          "author": null,
+          "description": "<h4>FDA says yes to the tests</h4> <p>AI software capable of mapping tumor tissue more accurately to help surgeons treat and shrink prostate cancer using a laser-powered needle will soon be tested in real patients during clinical trials.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/13/ai_prostate_cancer/",
+          "publishedOn": "2022-08-13T11:00:06.000Z",
+          "wordCount": 1358,
+          "title": "AI laser probe for prostate cancer enters clinical trials",
+          "imageUrl": "https://regmedia.co.uk/2021/12/21/shutterstock_doctor.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/13/in_brief_security_black_hat/",
           "author": null,
