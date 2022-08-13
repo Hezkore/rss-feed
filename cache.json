@@ -240,16 +240,6 @@
           "wordCount": 9299,
           "title": "13 Ways to Tweak Nautilus File Manager in Linux to Get More Out of it",
           "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/07/customizing-GNOME-Nautilus-File-Manager.png"
-        },
-        {
-          "id": "https://itsfoss.com/?p=99483",
-          "author": "Ankush Das",
-          "description": "Though it is not officially available, it's not that complicated to use Epic Games Store on Linux. Here are various ways you can play Epic games in Linux.",
-          "link": "https://itsfoss.com/epic-games-linux/",
-          "publishedOn": "2022-07-15T05:51:10.000Z",
-          "wordCount": 8586,
-          "title": "The Ultimate Guide to Epic Games Store on Linux",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/07/using-epic-games-store-on-linux-guide.jpg"
         }
       ]
     },
@@ -285,6 +275,16 @@
       "feedUrl": "http://www.gamingonlinux.com/news_rss.php",
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
+        {
+          "id": "https://www.gamingonlinux.com/2022/08/humble-bundle-have-another-interesting-set-of-games-in-the-tactical-combat-bundle/",
+          "author": "Liam Dawe",
+          "description": "Need more games to fill up your library? Humble Bundle have put up another one that looks pretty good with the Tactical Combat Bundle. So here's what to expect on Linux desktop and Steam Deck.",
+          "link": "https://www.gamingonlinux.com/2022/08/humble-bundle-have-another-interesting-set-of-games-in-the-tactical-combat-bundle/",
+          "publishedOn": "2022-08-13T17:54:12.000Z",
+          "wordCount": 1083,
+          "title": "Humble Bundle have another interesting set of games in the Tactical Combat Bundle",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1174418888id21436gol.jpg"
+        },
         {
           "id": "https://www.gamingonlinux.com/2022/08/spider-man-remastered-is-awesome-on-steam-deck/",
           "author": "Liam Dawe",
@@ -4160,6 +4160,26 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/outcast-2-a-new-beginning-gameplay-trailer",
+          "author": "Stephany Nunneley",
+          "description": "A new story and gameplay trailer for Outcast 2: A New Beginning was shown during THQ Nordic's digital showcase yesterday.\nThe sequel is in development at Appeal Studios which developed the original title.\nSet 20 years after the original game, in it, you play as ex-Navy SEAL Cutter Slade who has returned to the alien world of Adelpha.\n Read more",
+          "link": "https://www.vg247.com/outcast-2-a-new-beginning-gameplay-trailer",
+          "publishedOn": "2022-08-13T18:15:27.000Z",
+          "wordCount": 4554,
+          "title": "Outcast 2: A New Beginning trailer gives us a story background and a look at gameplay",
+          "imageUrl": "https://asset.vg247.com/outcast_2_main_art.png/BROK/thumbnail/1600x900/format/jpg/quality/80/outcast_2_main_art.png"
+        },
+        {
+          "id": "https://www.vg247.com/final-fantasy-14-online-buried-memory-release-date",
+          "author": "Stephany Nunneley",
+          "description": "A release date has been set for Final Fantasy 14 Online patch 6.2, Buried Memory.\nReleasing August 23, provided during the latest Letter from the Producer Live broadcast presented by producer and director Naoki Yoshida, the news was accompanied by a new trailer and information on the latest chapter that includes fresh battle challenges and the Island Sanctuary.\nDuring the broadcast, Yoshida offered viewers a demonstration of Island Sanctuary, a new type of casual solo content that allows you to build and customize your own farm on a deserted island. You will do this by gathering materials, building facilities, caring for creatures, and more, without the need for prior crafting or gathering experience.\n Read more",
+          "link": "https://www.vg247.com/final-fantasy-14-online-buried-memory-release-date",
+          "publishedOn": "2022-08-13T17:44:53.000Z",
+          "wordCount": 4602,
+          "title": "Final Fantasy 14 Online patch 6.2, Buried Memory, has a release date",
+          "imageUrl": "https://asset.vg247.com/final-fantasy-14-buried-memory-(9).png/BROK/thumbnail/1600x900/format/jpg/quality/80/final-fantasy-14-buried-memory-(9).png"
+        },
+        {
           "id": "https://www.vg247.com/marvels-spider-man-remastered-pc-recommended-optimized-settings",
           "author": "Stephany Nunneley",
           "description": "Digital Foundry has given Marvel's Spider-Man Remastered a go on PC, and to help you get the best experience, a chart featuring recommended Optimized Settings was provided.\nIf you head over through the link, you will see the chart, as well as a breakdown of how each setting affects the game for good or ill.\nOn PC, Marvel's Spider-Man features ray-traced reflections with varying quality levels, one of which is a new, higher-quality ray-traced mode that offers even more city detail.\n Read more",
@@ -6036,6 +6056,16 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/AMD-Radeon-680M-Linux-Mesa",
+          "author": null,
+          "description": "With the Ryzen 6000 \"Rembrandt\" mobile processors most exciting about these Zen 3+ SoCs has been the energy efficiency improvements and moving from Vega to RDNA2 graphics as with the Radeon 680M found on the Ryzen 7 PRO 6850U that I have been running many Linux benchmarks on over the past several weeks. For those wondering if it pays off moving to a newer Linux kernel or Mesa version with Radeon 680M integrated graphics, here are some reference benchmarks I recently conducted...",
+          "link": "https://www.phoronix.com/news/AMD-Radeon-680M-Linux-Mesa",
+          "publishedOn": "2022-08-13T17:20:54.000Z",
+          "wordCount": 1593,
+          "title": "AMD Radeon 680M Graphics Benchmarks Across Various Linux Kernel, Mesa Versions",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/AMD-Linux-Retbleed-STIBP-IBPB",
           "author": null,
@@ -9340,6 +9370,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "MsAuGxAypWHjRrZwa4VUKF",
+          "author": null,
+          "description": "Intel has changed the prize pool in its GPU-focused scavenger hunt to include an alternative Core i5-12600K or Core i7-12700K prize for the original Arc A750 and A770 prizes.",
+          "link": "https://www.tomshardware.com/news/intel-inadvertently-narrows-down-arc-a770-a750-gpu-pricing",
+          "publishedOn": "2022-08-13T17:34:09.000Z",
+          "wordCount": 17760,
+          "title": "Intel Inadvertently Narrows Down Arc A770, A750 GPU Pricing",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/VaXgJ8Ww5nnYBZ5LAzchqV.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/VaXgJ8Ww5nnYBZ5LAzchqV.jpg"
+        },
         {
           "id": "L3xrB8nsL3rjMAfr69EDBc",
           "author": null,
@@ -15625,6 +15670,16 @@
       "feedUrl": "https://www.sweclockers.com/feeds/nyheter",
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
+        {
+          "id": "https://www.sweclockers.com/artikel/34751",
+          "author": null,
+          "description": "Sötebrödsdagarna ser ut att vara över, men AMD trotsar trenden och kniper marknadsandelar.",
+          "link": "https://www.sweclockers.com/artikel/34751-forsaljningen-av-processorer-for-stationara-nar-bottenniva",
+          "publishedOn": "2022-08-13T17:45:01.000Z",
+          "wordCount": 1750,
+          "title": "Försäljningen av processorer för stationära når bottennivå",
+          "imageUrl": "https://www.sweclockers.com/artikel/34751/og-image"
+        },
         {
           "id": "https://www.sweclockers.com/artikel/34750",
           "author": null,

@@ -2,10 +2,76 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-13T17:21:01.464Z</updated>
+    <updated>2022-08-13T18:26:11.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Outcast 2: A New Beginning trailer gives us a story background and a look at gameplay]]></title>
+        <id>https://www.vg247.com/outcast-2-a-new-beginning-gameplay-trailer</id>
+        <link href="https://www.vg247.com/outcast-2-a-new-beginning-gameplay-trailer"/>
+        <updated>2022-08-13T18:15:27.000Z</updated>
+        <summary type="html"><![CDATA[A new story and gameplay trailer for Outcast 2: A New Beginning was shown during THQ Nordic's digital showcase yesterday.
+The sequel is in development at Appeal Studios which developed the original title.
+Set 20 years after the original game, in it, you play as ex-Navy SEAL Cutter Slade who has returned to the alien world of Adelpha.
+ Read more]]></summary>
+        <author>
+            <name>Stephany Nunneley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Humble Bundle have another interesting set of games in the Tactical Combat Bundle]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/humble-bundle-have-another-interesting-set-of-games-in-the-tactical-combat-bundle/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/humble-bundle-have-another-interesting-set-of-games-in-the-tactical-combat-bundle/"/>
+        <updated>2022-08-13T17:54:12.000Z</updated>
+        <summary type="html"><![CDATA[Need more games to fill up your library? Humble Bundle have put up another one that looks pretty good with the Tactical Combat Bundle. So here's what to expect on Linux desktop and Steam Deck.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Försäljningen av processorer för stationära når bottennivå]]></title>
+        <id>https://www.sweclockers.com/artikel/34751</id>
+        <link href="https://www.sweclockers.com/artikel/34751-forsaljningen-av-processorer-for-stationara-nar-bottenniva"/>
+        <updated>2022-08-13T17:45:01.000Z</updated>
+        <summary type="html"><![CDATA[Sötebrödsdagarna ser ut att vara över, men AMD trotsar trenden och kniper marknadsandelar.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Final Fantasy 14 Online patch 6.2, Buried Memory, has a release date]]></title>
+        <id>https://www.vg247.com/final-fantasy-14-online-buried-memory-release-date</id>
+        <link href="https://www.vg247.com/final-fantasy-14-online-buried-memory-release-date"/>
+        <updated>2022-08-13T17:44:53.000Z</updated>
+        <summary type="html"><![CDATA[A release date has been set for Final Fantasy 14 Online patch 6.2, Buried Memory.
+Releasing August 23, provided during the latest Letter from the Producer Live broadcast presented by producer and director Naoki Yoshida, the news was accompanied by a new trailer and information on the latest chapter that includes fresh battle challenges and the Island Sanctuary.
+During the broadcast, Yoshida offered viewers a demonstration of Island Sanctuary, a new type of casual solo content that allows you to build and customize your own farm on a deserted island. You will do this by gathering materials, building facilities, caring for creatures, and more, without the need for prior crafting or gathering experience.
+ Read more]]></summary>
+        <author>
+            <name>Stephany Nunneley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Inadvertently Narrows Down Arc A770, A750 GPU Pricing]]></title>
+        <id>MsAuGxAypWHjRrZwa4VUKF</id>
+        <link href="https://www.tomshardware.com/news/intel-inadvertently-narrows-down-arc-a770-a750-gpu-pricing"/>
+        <updated>2022-08-13T17:34:09.000Z</updated>
+        <summary type="html"><![CDATA[Intel has changed the prize pool in its GPU-focused scavenger hunt to include an alternative Core i5-12600K or Core i7-12700K prize for the original Arc A750 and A770 prizes.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Radeon 680M Graphics Benchmarks Across Various Linux Kernel, Mesa Versions]]></title>
+        <id>https://www.phoronix.com/news/AMD-Radeon-680M-Linux-Mesa</id>
+        <link href="https://www.phoronix.com/news/AMD-Radeon-680M-Linux-Mesa"/>
+        <updated>2022-08-13T17:20:54.000Z</updated>
+        <summary type="html"><![CDATA[With the Ryzen 6000 "Rembrandt" mobile processors most exciting about these Zen 3+ SoCs has been the energy efficiency improvements and moving from Vega to RDNA2 graphics as with the Radeon 680M found on the Ryzen 7 PRO 6850U that I have been running many Linux benchmarks on over the past several weeks. For those wondering if it pays off moving to a newer Linux kernel or Mesa version with Radeon 680M integrated graphics, here are some reference benchmarks I recently conducted...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marvel's Spider-Man Remastered PC - recommended Optimized Settings provided by Digital Foundry]]></title>
         <id>https://www.vg247.com/marvels-spider-man-remastered-pc-recommended-optimized-settings</id>
@@ -21907,16 +21973,6 @@ all donors to the Debian project who helped to cover parts of our expenses.]]></
         <summary type="html"><![CDATA[a comic about suggesting what to watch]]></summary>
         <author>
             <name>Gregor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Ultimate Guide to Epic Games Store on Linux]]></title>
-        <id>https://itsfoss.com/?p=99483</id>
-        <link href="https://itsfoss.com/epic-games-linux/"/>
-        <updated>2022-07-15T05:51:10.000Z</updated>
-        <summary type="html"><![CDATA[Though it is not officially available, it's not that complicated to use Epic Games Store on Linux. Here are various ways you can play Epic games in Linux.]]></summary>
-        <author>
-            <name>Ankush Das</name>
         </author>
     </entry>
 </feed>
