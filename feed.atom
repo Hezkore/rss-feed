@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-13T05:19:31.516Z</updated>
+    <updated>2022-08-13T06:27:01.285Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hogwarts Legacy släpps den 10:e februari nästa år]]></title>
+        <id>https://www.fz.se/artikel/291106</id>
+        <link href="https://www.fz.se/artikel/291106-hogwarts-legacy-slapps-den-10e-februari-nasta-ar"/>
+        <updated>2022-08-13T05:02:37.000Z</updated>
+        <summary type="html"><![CDATA[Polera trollstavarna och ta fram kvastarna.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hogwarts Legacy släpps den 10:e februari i år]]></title>
         <id>https://www.fz.se/artikel/291106</id>
@@ -24,6 +34,16 @@
         <summary type="html"><![CDATA[<h4>Six years on web devs finally settle on sensor privacy defenses</h4> <p>Six years after web security and privacy concerns surfaced about ambient light sensors in mobile phones and notebooks, browser boffins have finally implemented defenses.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comic for 2022.08.13 - Smooth]]></title>
+        <id>https://explosm.net/comics/smooth</id>
+        <link href="https://explosm.net/comics/smooth"/>
+        <updated>2022-08-13T00:00:44.000Z</updated>
+        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
+        <author>
+            <name>Explosm.net</name>
         </author>
     </entry>
     <entry>
