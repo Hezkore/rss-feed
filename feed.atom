@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-13T08:27:29.333Z</updated>
+    <updated>2022-08-13T09:20:28.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Plasma 5.26 Improving Widget Accessibility, Kickoff Gets Compact Mode + Wayland Fixes]]></title>
+        <id>https://www.phoronix.com/news/KDE-5.26-Widget-Accessible</id>
+        <link href="https://www.phoronix.com/news/KDE-5.26-Widget-Accessible"/>
+        <updated>2022-08-13T09:11:13.000Z</updated>
+        <summary type="html"><![CDATA[It's been another busy summer week for KDE developers with many new features and fixes landing within this open-source desktop stack...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spider-Man Remastered is awesome on Steam Deck]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/spider-man-remastered-is-awesome-on-steam-deck/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/spider-man-remastered-is-awesome-on-steam-deck/"/>
+        <updated>2022-08-13T09:06:20.000Z</updated>
+        <summary type="html"><![CDATA[With Spider-Man Remastered now available on Steam after previously being PlayStation exclusive, I took it for a spin on Steam Deck and Linux desktop.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel finally takes the hint on software optimization]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/13/intel_software_focus/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/13/intel_software_focus/"/>
+        <updated>2022-08-13T09:00:12.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Don't have the budget or customer base for Graviton-class silicon? Intel thinks it can help</h4> <p>In a quest to deliver better application performance and greater efficiency, many software and hardware vendors are turning to custom silicon to achieve their goals.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What are we all playing this weekend?]]></title>
         <id>https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-203</id>
