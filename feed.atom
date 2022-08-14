@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-14T05:20:41.488Z</updated>
+    <updated>2022-08-14T06:27:27.400Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Record Audio in Linux With Audacity (and Reduce Noise)]]></title>
+        <id>https://itsfoss.com/?p=100697</id>
+        <link href="https://itsfoss.com/audacity-recording/"/>
+        <updated>2022-08-14T05:29:34.000Z</updated>
+        <summary type="html"><![CDATA[Audacity is an incredibly useful tool for quick audio edits. Here's how you can install it on Linux and use it for audio recording and background noise removal.]]></summary>
+        <author>
+            <name>Anuj Sharma</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russ Allbery: Review: Still Not Safe]]></title>
         <id>https://www.eyrie.org/~eagle/reviews/books/0-19-027128-0.html</id>
@@ -21957,26 +21967,6 @@ Various git cinnabar fsck fixes.]]></summary>
         <summary type="html"><![CDATA[He'll still support his family, but swears the rest will go to philanthropy.]]></summary>
         <author>
             <name>Ashley Belanger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why can’t Intel’s 12th-gen CPUs pass the bar exam? Blame the E-cores]]></title>
-        <id>https://arstechnica.com/?p=1867055</id>
-        <link href="https://arstechnica.com/?p=1867055"/>
-        <updated>2022-07-15T17:34:46.000Z</updated>
-        <summary type="html"><![CDATA[Older PC games have had similar issues with Alder Lake's hybrid architecture.]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wordle: The Party Game isn’t really the first Wordle board game]]></title>
-        <id>https://arstechnica.com/?p=1867112</id>
-        <link href="https://arstechnica.com/?p=1867112"/>
-        <updated>2022-07-15T17:25:22.000Z</updated>
-        <summary type="html"><![CDATA[A brief history covering decades of near-identical word-guessing games.]]></summary>
-        <author>
-            <name>Kyle Orland</name>
         </author>
     </entry>
 </feed>
