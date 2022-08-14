@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-14T06:27:27.400Z</updated>
+    <updated>2022-08-14T07:20:04.508Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Söndagsmatiné: Nödig moddare bygger skithäftig dator]]></title>
+        <id>https://www.sweclockers.com/artikel/34752</id>
+        <link href="https://www.sweclockers.com/artikel/34752-sondagsmatine-nodig-moddare-bygger-skithaftig-dator"/>
+        <updated>2022-08-14T07:07:00.000Z</updated>
+        <summary type="html"><![CDATA[I veckans video visas hur en dator kan byggas in i toalettstolen – perfekt för skräckspel eller extra långa sittningar.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Record Audio in Linux With Audacity (and Reduce Noise)]]></title>
         <id>https://itsfoss.com/?p=100697</id>
@@ -21957,16 +21967,6 @@ Various git cinnabar fsck fixes.]]></summary>
         <summary type="html"><![CDATA[The subscription model for mobile apps is paying off big time for some.]]></summary>
         <author>
             <name>Samuel Axon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amid global hellscape, Bill Gates to tank his wealth ranking, gives away $20B]]></title>
-        <id>https://arstechnica.com/?p=1867152</id>
-        <link href="https://arstechnica.com/?p=1867152"/>
-        <updated>2022-07-15T18:50:40.000Z</updated>
-        <summary type="html"><![CDATA[He'll still support his family, but swears the rest will go to philanthropy.]]></summary>
-        <author>
-            <name>Ashley Belanger</name>
         </author>
     </entry>
 </feed>
