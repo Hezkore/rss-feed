@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-14T10:23:37.355Z</updated>
+    <updated>2022-08-14T11:18:26.458Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SpongeBob Squarepants: The Cosmic Shake gets a wonderfully colourful first gameplay trailer]]></title>
+        <id>https://www.vg247.com/spongebob-squarepants-the-cosmic-shake-gets-a-wonderfully-colourful-first-gameplay-trailer</id>
+        <link href="https://www.vg247.com/spongebob-squarepants-the-cosmic-shake-gets-a-wonderfully-colourful-first-gameplay-trailer"/>
+        <updated>2022-08-14T11:03:04.000Z</updated>
+        <summary type="html"><![CDATA[First announced last year, SpongeBob Squarepants: The Cosmic Shake has received its first gameplay trailer as part of THQ Nordic's recent showcase.
+Described as a "spiritual sequel" to the remake Battle For Bikini Bottom: Rehydrated, The Cosmic Shake is once again a 3D platformer that looks to have a variety of themed worlds, as is typical of the genre. Stylistically it's looking incredibly good, with nice bright and vivid colours that really match the tone of the series.
+The showcase trailer showed off SpongeBob and a for some reason floating, tinier version of companion Patrick Star travelling around different worlds and different points in time. Both of them are appropriately themed with different costumes depending on the locale. And interestingly, the game seems to have borrowed a little bit from Breath of the Wild with a paraglider in the form of a pizza box.
+ Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Make A Raspberry Pi Pico W Web Server]]></title>
+        <id>THcSZGsSAoydpNEhvtXu7h</id>
+        <link href="https://www.tomshardware.com/how-to/raspberry-pi-pico-w-web-server"/>
+        <updated>2022-08-14T11:00:48.000Z</updated>
+        <summary type="html"><![CDATA[The Raspberry Pi Pico W is mostly found powering maker projects, but in this how-to we use it to build an extremely low power web server.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your AI-generated digital artwork may not be protected by US copyright]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/14/ai_digital_artwork_copyright/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/14/ai_digital_artwork_copyright/"/>
+        <updated>2022-08-14T11:00:14.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Do we want to recognise machines as authors?</h4> <p>The creative nature of neural networks is leading some to consider whether it might be worth changing current US laws that only grant copyright protection for works created by humans.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avatar: The Last Airbender is getting a mobile only open-world RPG]]></title>
+        <id>https://www.vg247.com/avatar-the-last-airbender-is-getting-a-mobile-only-open-world-rpg</id>
+        <link href="https://www.vg247.com/avatar-the-last-airbender-is-getting-a-mobile-only-open-world-rpg"/>
+        <updated>2022-08-14T10:23:25.000Z</updated>
+        <summary type="html"><![CDATA[Avatar: The Last Airbender is getting an official open world RPG titled Avatar: Generations, planned exclusively for mobile.
+Developed by Square Enix London Mobile in collaboration with Navigator Games, Avatar: Generations will be a free-to-play title based on the Nickelodeon series. The game is planned to soft launch in Canada, Denmark, South Africa, and Sweden to start, with more territories to come over the coming months.
+The game is only planned to release on mobile at this point in time, for both Android and iOS, though it seems that the game will not be playable on all iOS devices to start.
+ Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intel Xeon Platinum 8380 Performance Is Looking Great For Linux 6.0]]></title>
         <id>https://www.phoronix.com/news/Linux-6.0-Xeon-8380-Ice-Lake</id>
