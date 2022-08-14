@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-14T02:22:30.351Z</updated>
+    <updated>2022-08-14T03:53:29.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Russ Allbery: Review: Still Not Safe]]></title>
+        <id>https://www.eyrie.org/~eagle/reviews/books/0-19-027128-0.html</id>
+        <link href="https://www.eyrie.org/~eagle/reviews/books/0-19-027128-0.html"/>
+        <updated>2022-08-14T03:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Review: Still Not Safe, by Robert L. Wears & Kathleen M. Sutcliffe
+
+    Publisher:
+    Oxford University Press
+  
+Copyright:
+    November 2019
+  
+ISBN:
+    0-19-027128-0
+  
+Format:
+    Kindle
+  
+Pages:
+    232
+  
+
+Still Not Safe is an examination of the recent politics and history
+of patient safety in medicine.  Its conclusions are summarized by the
+opening paragraph of the preface:
+
+
+
+
+
+
+Robert Wears was Professor of Emergency Medicine at the University of
+Florida specializing in patient safety.  Kathleen Sutcliffe is Professor
+of Medicine and Business at Johns Hopkins.  This book is based on research
+funded by a grant from the Robert Wood Johnson Foundation, for which both
+Wears and Sutcliffe were primary investigators.  (Wears died in 2017, but
+the acknowledgments imply that at least ea…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Glibc 2.36 Dropping DT_HASH Has Been Breaking Easy Anti Cheat Games With Steam Play]]></title>
         <id>https://www.phoronix.com/news/Glibc-2.36-EAC-Problems</id>
@@ -21975,51 +22017,6 @@ Various git cinnabar fsck fixes.]]></summary>
         <summary type="html"><![CDATA[Musk draws judge who refused to let reluctant buyer out of a merger deal in 2021.]]></summary>
         <author>
             <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New research into why woodpeckers don’t get concussions busts a popular myth]]></title>
-        <id>https://arstechnica.com/?p=1865864</id>
-        <link href="https://arstechnica.com/?p=1865864"/>
-        <updated>2022-07-15T15:49:18.000Z</updated>
-        <summary type="html"><![CDATA[Absorption of the head's kinetic energy would actually impair the bird's pecking ability.]]></summary>
-        <author>
-            <name>Jennifer Ouellette</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bits from Debian: (Unofficial) Debian Perl Sprint 2022]]></title>
-        <id>tag:bits.debian.org,2022-07-15:/2022/07/debian-perl-sprint-2022.html</id>
-        <link href="https://bits.debian.org/2022/07/debian-perl-sprint-2022.html"/>
-        <updated>2022-07-15T15:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Three members of the Debian Perl Group
-met in Hamburg between May 23 and May 30 2022 as part of the 
-Debian Reunion Hamburg
-to continue perl development work for Bookworm and to work on QA tasks across
-our 3800+ packages.
-The participants had a good time and met other Debian friends. The
-sprint was also productive:
-pkg-perl-tools and dh-make-perl were improved and extended.
-More than 50 uploads were done, and more than 30 bugs were fixed or at least triaged.
-autopkgtests were added to lots of packages.
-Some requests to remove obsolete packages were filed as well.
-The more detailed report
-was posted to the Debian Perl mailing list.
-The participants would like to thank the Debian Reunion Hamburg organizers
-for providing the framework for our sprint, all sponsors of the event, and
-all donors to the Debian project who helped to cover parts of our expenses.]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok resists calls to preserve Ukraine content for war crime investigations]]></title>
-        <id>https://arstechnica.com/?p=1867049</id>
-        <link href="https://arstechnica.com/?p=1867049"/>
-        <updated>2022-07-15T14:45:03.000Z</updated>
-        <summary type="html"><![CDATA[Chinese-owned app is a trove of digital intelligence that lawyers want to archive.]]></summary>
-        <author>
-            <name>Financial Times</name>
         </author>
     </entry>
 </feed>

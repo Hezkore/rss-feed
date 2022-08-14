@@ -11803,6 +11803,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "https://www.eyrie.org/~eagle/reviews/books/0-19-027128-0.html",
+          "author": null,
+          "description": "Review: Still Not Safe, by Robert L. Wears & Kathleen M. Sutcliffe\n\n    Publisher:\n    Oxford University Press\n  \nCopyright:\n    November 2019\n  \nISBN:\n    0-19-027128-0\n  \nFormat:\n    Kindle\n  \nPages:\n    232\n  \n\nStill Not Safe is an examination of the recent politics and history\nof patient safety in medicine.  Its conclusions are summarized by the\nopening paragraph of the preface:\n\n\n\n\n\n\nRobert Wears was Professor of Emergency Medicine at the University of\nFlorida specializing in patient safety.  Kathleen Sutcliffe is Professor\nof Medicine and Business at Johns Hopkins.  This book is based on research\nfunded by a grant from the Robert Wood Johnson Foundation, for which both\nWears and Sutcliffe were primary investigators.  (Wears died in 2017, but\nthe acknowledgments imply that at least ea…",
+          "link": "https://www.eyrie.org/~eagle/reviews/books/0-19-027128-0.html",
+          "publishedOn": "2022-08-14T03:38:00.000Z",
+          "wordCount": 1501,
+          "title": "Russ Allbery: Review: Still Not Safe",
+          "imageUrl": null
+        },
+        {
           "id": "http://flossexperiences.wordpress.com/?p=7298",
           "author": null,
           "description": "The last day \n\n\n\n\nThe first lesson I would like everybody to know and have is to buy two machines, especially a machine to check low blood pressure. I had actually ordered one from Amazon but they never delivered. I hope to sue them in consumer court in due course of time. The other one is a blood sugar machine which I ordered and did get, but the former is more important than the latter, and the reason why will be known soon. \nMum had stopped eating solids and was entirely on liquids for the last month of her life. I did try enticing her however I could with aromatic food but failed. Add to that we had weird weather this entire year. June is supposed to be when the weather turns and we have gentle showers, but this whole June it felt like we were in an oven. She asked for liquids whenever…",
@@ -12321,16 +12331,6 @@
           "wordCount": 421,
           "title": "Mike Hommey: Announcing git-cinnabar 0.5.9",
           "imageUrl": null
-        },
-        {
-          "id": "tag:bits.debian.org,2022-07-15:/2022/07/debian-perl-sprint-2022.html",
-          "author": null,
-          "description": "Three members of the Debian Perl Group\nmet in Hamburg between May 23 and May 30 2022 as part of the \nDebian Reunion Hamburg\nto continue perl development work for Bookworm and to work on QA tasks across\nour 3800+ packages.\nThe participants had a good time and met other Debian friends. The\nsprint was also productive:\npkg-perl-tools and dh-make-perl were improved and extended.\nMore than 50 uploads were done, and more than 30 bugs were fixed or at least triaged.\nautopkgtests were added to lots of packages.\nSome requests to remove obsolete packages were filed as well.\nThe more detailed report\nwas posted to the Debian Perl mailing list.\nThe participants would like to thank the Debian Reunion Hamburg organizers\nfor providing the framework for our sprint, all sponsors of the event, and\nall donors to the Debian project who helped to cover parts of our expenses.",
-          "link": "https://bits.debian.org/2022/07/debian-perl-sprint-2022.html",
-          "publishedOn": "2022-07-15T15:35:00.000Z",
-          "wordCount": 453,
-          "title": "Bits from Debian: (Unofficial) Debian Perl Sprint 2022",
-          "imageUrl": "https://bits.debian.org//images/debianreunion2022_groupphoto.png"
         }
       ]
     },
@@ -14085,26 +14085,6 @@
           "wordCount": 1870,
           "title": "Elon Musk has reason to worry about the judge set to rule on Twitter lawsuit",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/delawareJudicialOfficers-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1865864",
-          "author": "Jennifer Ouellette",
-          "description": "Absorption of the head's kinetic energy would actually impair the bird's pecking ability.",
-          "link": "https://arstechnica.com/?p=1865864",
-          "publishedOn": "2022-07-15T15:49:18.000Z",
-          "wordCount": 1803,
-          "title": "New research into why woodpeckers don’t get concussions busts a popular myth",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/woodpeckerTOP-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1867049",
-          "author": "Financial Times",
-          "description": "Chinese-owned app is a trove of digital intelligence that lawyers want to archive.",
-          "link": "https://arstechnica.com/?p=1867049",
-          "publishedOn": "2022-07-15T14:45:03.000Z",
-          "wordCount": 1859,
-          "title": "TikTok resists calls to preserve Ukraine content for war crime investigations",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1239959385-760x380.jpg"
         }
       ]
     },
