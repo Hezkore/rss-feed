@@ -250,16 +250,6 @@
           "wordCount": 7788,
           "title": "AppFlowy: An Open-Source Alternative to Notion",
           "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/07/appflowy.jpg"
-        },
-        {
-          "id": "https://itsfoss.com/?p=99575",
-          "author": "Abhishek Prakash",
-          "description": "Nautilus, aka GNOME Files, is a good file manager with plenty of features. You can further enhance your experience by using these extensions, tweaks and tips.",
-          "link": "https://itsfoss.com/nautilus-tips-tweaks/",
-          "publishedOn": "2022-07-16T05:54:57.000Z",
-          "wordCount": 9299,
-          "title": "13 Ways to Tweak Nautilus File Manager in Linux to Get More Out of it",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/07/customizing-GNOME-Nautilus-File-Manager.png"
         }
       ]
     },
@@ -9651,6 +9641,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "yCeATWydqfSUKcSFj2BLiQ",
+          "author": null,
+          "description": "Intel has made the decision to remove native DirectX 9 support from its latest Xe iGPs and Arc GPUs, and replace DX9 with DX12 emulation instead.",
+          "link": "https://www.tomshardware.com/news/intel-xe-arc-swap-to-dx9-emulation",
+          "publishedOn": "2022-08-14T17:28:09.000Z",
+          "wordCount": 17974,
+          "title": "Intel Drops  DirectX 9 Support On Xe, Arc GPUs, Switches to DirectX 12 Emulation",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/3KN4LCfi9yVLBJ3iJTFJ64.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/3KN4LCfi9yVLBJ3iJTFJ64.jpg"
+        },
+        {
           "id": "yFB9zkkuQKThwwcCLqFyCF",
           "author": null,
           "description": "MSI’s MPG X670E Carbon Wi-Fi is about €620, and the MSI Pro X670-P Wi-Fi about €410 on average. Converting to USD and taking off VAT would give pricing of $495 and $320, respectively.",
@@ -15900,6 +15905,16 @@
       "feedUrl": "https://www.sweclockers.com/feeds/nyheter",
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
+        {
+          "id": "https://www.sweclockers.com/artikel/34754",
+          "author": null,
+          "description": "Intel Arc \"Alchemist\", kvartalsrapporter och färska produkter trängs i nyhetsflödet. Hur mycket har du snappat upp under den här varma augustiveckan?",
+          "link": "https://www.sweclockers.com/artikel/34754-nyhetsquiz-vecka-32-2022-teknikhosten-narmar-sig",
+          "publishedOn": "2022-08-14T17:54:17.000Z",
+          "wordCount": 1494,
+          "title": "Nyhetsquiz vecka 32 2022: Teknikhösten närmar sig",
+          "imageUrl": "https://www.sweclockers.com/artikel/34754/og-image"
+        },
         {
           "id": "https://www.sweclockers.com/artikel/34753",
           "author": null,

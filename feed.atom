@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-14T17:21:11.472Z</updated>
+    <updated>2022-08-14T18:26:11.409Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nyhetsquiz vecka 32 2022: Teknikhösten närmar sig]]></title>
+        <id>https://www.sweclockers.com/artikel/34754</id>
+        <link href="https://www.sweclockers.com/artikel/34754-nyhetsquiz-vecka-32-2022-teknikhosten-narmar-sig"/>
+        <updated>2022-08-14T17:54:17.000Z</updated>
+        <summary type="html"><![CDATA[Intel Arc "Alchemist", kvartalsrapporter och färska produkter trängs i nyhetsflödet. Hur mycket har du snappat upp under den här varma augustiveckan?]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Drops  DirectX 9 Support On Xe, Arc GPUs, Switches to DirectX 12 Emulation]]></title>
+        <id>yCeATWydqfSUKcSFj2BLiQ</id>
+        <link href="https://www.tomshardware.com/news/intel-xe-arc-swap-to-dx9-emulation"/>
+        <updated>2022-08-14T17:28:09.000Z</updated>
+        <summary type="html"><![CDATA[Intel has made the decision to remove native DirectX 9 support from its latest Xe iGPs and Arc GPUs, and replace DX9 with DX12 emulation instead.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MSI’s AMD X670E and X670-P Motherboards Listed With Euro Pricing]]></title>
         <id>yFB9zkkuQKThwwcCLqFyCF</id>
@@ -22294,16 +22314,6 @@ contains some of the most thoughtful writings on GUI toolkits that I've seen
 in a while, regardless of language. Recommended.]]></summary>
         <author>
             <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[13 Ways to Tweak Nautilus File Manager in Linux to Get More Out of it]]></title>
-        <id>https://itsfoss.com/?p=99575</id>
-        <link href="https://itsfoss.com/nautilus-tips-tweaks/"/>
-        <updated>2022-07-16T05:54:57.000Z</updated>
-        <summary type="html"><![CDATA[Nautilus, aka GNOME Files, is a good file manager with plenty of features. You can further enhance your experience by using these extensions, tweaks and tips.]]></summary>
-        <author>
-            <name>Abhishek Prakash</name>
         </author>
     </entry>
 </feed>
