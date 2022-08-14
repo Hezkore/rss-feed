@@ -4180,6 +4180,16 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/pubg-has-raked-in-80000-new-users-per-day-since-going-free-to-play",
+          "author": "Oisin Kuhnke",
+          "description": "It sounds like PUBG has done pretty well for itself since going free-to-play, apparently bringing in roughly 80,000 news users a day.\nMore and more live service games are going free-to-play, with PUBG having done so in January of this year, and Fall Guys having done the same in June. A big part of that is likely to bring in more players, especially because all of the big, successful live service titles like Apex Legends and Destiny 2 are free-to-play. And according to developer Krafton's preliminary earnings report for the first half of 2022, PUBG going free to play has certainly helped.\nThe report states that since going free-to-play in January, PUBG \"has seen a steady inflow of more than 80,000 new users per day.\" To give you an idea of how many new players that is, PUBG went free-to-play 214 days ago, meaning over 17 million players have signed-up to play the game.\n Read more",
+          "link": "https://www.vg247.com/pubg-has-raked-in-80000-new-users-per-day-since-going-free-to-play",
+          "publishedOn": "2022-08-14T09:23:48.000Z",
+          "wordCount": 4585,
+          "title": "PUBG has raked in \"80,000 new users per day\" since going free-to-play",
+          "imageUrl": "https://asset.vg247.com/pubg_cross_platform_team_1.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/pubg_cross_platform_team_1.jpg"
+        },
+        {
           "id": "https://www.vg247.com/outcast-2-a-new-beginning-gameplay-trailer",
           "author": "Stephany Nunneley",
           "description": "A new story and gameplay trailer for Outcast 2: A New Beginning was shown during THQ Nordic's digital showcase yesterday.\nThe sequel is in development at Appeal Studios which developed the original title.\nSet 20 years after the original game, in it, you play as ex-Navy SEAL Cutter Slade who has returned to the alien world of Adelpha.\n Read more",
@@ -6077,6 +6087,26 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-6.0-Xeon-8380-Ice-Lake",
+          "author": null,
+          "description": "Not only is the AMD EPYC performance looking real good for Linux 6.0, but many of the scheduler changes and common kernel improvements also carry over well for Intel's Xeon Platinum 8380 \"Ice Lake\" server processors too. For your viewing pleasure this weekend are some initial benchmarks looking at Linux 5.19 stable compared to Linux 6.0 Git as we approach the end of the merge window...",
+          "link": "https://www.phoronix.com/news/Linux-6.0-Xeon-8380-Ice-Lake",
+          "publishedOn": "2022-08-14T10:16:01.000Z",
+          "wordCount": 1436,
+          "title": "Intel Xeon Platinum 8380 Performance Is Looking Great For Linux 6.0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Ubuntu-systemd-hwe",
+          "author": null,
+          "description": "Being prepared for Ubuntu 22.10 and presumably will be back-ported in future Ubuntu 22.04 LTS point releases is the systemd-hwe package to more easily deal with updated hardware rules as part of new device enablement...",
+          "link": "https://www.phoronix.com/news/Ubuntu-systemd-hwe",
+          "publishedOn": "2022-08-14T09:35:29.000Z",
+          "wordCount": 1440,
+          "title": "Ubuntu Linux Preparing systemd-hwe To Ease OEM Hardware Enablement",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Wine-Staging-7.15",
           "author": null,
           "description": "Following yesterday's belated release of Wine 7.15, Wine-Staging 7.15 is now available that continues to carry hundreds of extra testing/experimental patches atop upstream Wine for bug fixes and other features to empower Windows games and applications on Linux...",
@@ -7353,6 +7383,16 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/the-sunday-papers-650",
+          "author": "Ed Thorn",
+          "description": "Sundays are for using a gyroscope to rehabilitate your ailing wrist. Before you rotate, let's read this week's best writing about games (and game related things).\n Read more",
+          "link": "https://www.rockpapershotgun.com/the-sunday-papers-650",
+          "publishedOn": "2022-08-14T10:00:00.000Z",
+          "wordCount": 5041,
+          "title": "The Sunday Papers",
+          "imageUrl": "https://assets2.rockpapershotgun.com/the-sunday-papers-big.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/the-sunday-papers-big.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/final-fantasy-14s-island-sanctuary-update-will-arrive-on-august-23rd",
           "author": "Graham Smith",
@@ -12341,16 +12381,6 @@
           "wordCount": 83,
           "title": "Steinar H. Gunderson: Rust GUI advice",
           "imageUrl": null
-        },
-        {
-          "id": "https://glandium.org/blog/?p=4282",
-          "author": null,
-          "description": "Git-cinnabar is a git remote helper to interact with mercurial repositories. It allows to clone, pull and push from/to mercurial remote repositories, using git.\nGet it on github.\nThese release notes are also available on the git-cinnabar wiki.\nWhat’s new since 0.5.8?\nUpdated git to 2.37.1 for the helper.\nVarious python 3 fixes.\nFixed stream bundle\nAdded python and py.exe as executables tried on top of python3 and python2.\nImproved handling of ill-formed local urls.\nFixed using old mercurial libraries that don’t support bundlev2 with a server that does.\nWhen fsck reports the metadata as broken, prevent further updates to the repo.\nWhen issue #207 is detected, mark the metadata as broken\nAdded support for logging redirection to a file\nNow ignore refs/cinnabar/replace/ refs, and always use the corresponding metadata instead.\nVarious git cinnabar fsck fixes.",
-          "link": "https://glandium.org/blog/?p=4282",
-          "publishedOn": "2022-07-15T22:11:55.000Z",
-          "wordCount": 421,
-          "title": "Mike Hommey: Announcing git-cinnabar 0.5.9",
-          "imageUrl": null
         }
       ]
     },
@@ -14015,16 +14045,6 @@
           "wordCount": 1715,
           "title": "Hackers are targeting industrial systems with malware",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/programmable-logic-controller-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1867291",
-          "author": "Beth Mole",
-          "description": "Though feds are making more vaccine available, it's not enough to keep up with demand.",
-          "link": "https://arstechnica.com/?p=1867291",
-          "publishedOn": "2022-07-15T22:21:51.000Z",
-          "wordCount": 1671,
-          "title": "US monkeypox cases hit 1,470; CDC says more coming, and we’re short on vaccines",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1408879341-760x380.jpeg"
         }
       ]
     },
@@ -17138,6 +17158,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/14/in_brief_ai/",
+          "author": null,
+          "description": "<h4>Plus: How Google is using language models to improve search, and watch Heinz's AI ketchup advert</h4> <p><strong>In-brief</strong>  Another day, another rogue AI chatbot on the internet.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/14/in_brief_ai/",
+          "publishedOn": "2022-08-14T10:00:05.000Z",
+          "wordCount": 1457,
+          "title": "Meta's AI internet chatbot demo quickly starts spewing fake news and racist remarks",
+          "imageUrl": "https://regmedia.co.uk/2017/07/31/chatbot.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/13/ai_prostate_cancer/",
           "author": null,
