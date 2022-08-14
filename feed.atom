@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-14T15:22:53.378Z</updated>
+    <updated>2022-08-14T16:29:31.503Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nintendo has no plans for a Nintendo Switch price hike "at this point"]]></title>
+        <id>https://www.vg247.com/nintendo-switch-no-price-increase</id>
+        <link href="https://www.vg247.com/nintendo-switch-no-price-increase"/>
+        <updated>2022-08-14T15:50:38.000Z</updated>
+        <summary type="html"><![CDATA[Despite widespread issues regarding part shortages, Nintendo has recently confirmed that it has plans to increase the price of the Nintendo Switch.
+Earlier this month, Nintendo did report that Switch sales had fallen by 23% due to the semiconductor components shortage, but company president Shuntaro Furukawa has confirmed to Nikkei that the company wants to "avoid pricing people out," (thanks NME).
+"We're not considering [a price increase] at this point, for two reasons," said Furukawa. "Nintendo has sold more than 100 million Switch units so far, and it's important to maintain the momentum of our overall business. Generally speaking, a weak yen makes domestic Switch sales less profitable."
+ Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If you've been offered a Lil Gator beta code, it's probably fake]]></title>
+        <id>https://www.eurogamer.net/if-youve-been-offered-a-lil-gator-beta-code-its-probably-fake</id>
+        <link href="https://www.eurogamer.net/if-youve-been-offered-a-lil-gator-beta-code-its-probably-fake"/>
+        <updated>2022-08-14T15:39:37.000Z</updated>
+        <summary type="html"><![CDATA[Playtonic and developer MegaWobble have reached out to fans of its upcoming Lil Gator Game to warn them that any emails purporting to be offering beta testing are a "scam".
+
+"It has come to our attention that someone is offering beta testing for Lil Gator Game," publisher Playtonic tweeted over the weekend. "We can confirm this is a SCAM and not from Playtonic or Lil Gator Game.
+
+"If we were offering this to our communities we would announce it on our Twitter and not via any other channels," the tweet added.
+ 
+Read more]]></summary>
+        <author>
+            <name>Vikki Blake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ryzen 7000 Retailer Pricing Shows Big Hike Over Ryzen 5000]]></title>
+        <id>8p3oScm9pHdtwwAbj5xeKe</id>
+        <link href="https://www.tomshardware.com/news/ryzen-7000-retailer-pricing-shows-fair-premium-over-ryzen-5000"/>
+        <updated>2022-08-14T15:36:04.000Z</updated>
+        <summary type="html"><![CDATA[Preliminary Ryzen 7000 prices are here and are roughly 10 to 12% higher than Ryzen 5000 was at MSRP.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gotham Knights trailer shows off Red Hood and his definitely non-lethal fighting style]]></title>
+        <id>https://www.vg247.com/gotham-knights-red-hood-trailer</id>
+        <link href="https://www.vg247.com/gotham-knights-red-hood-trailer"/>
+        <updated>2022-08-14T15:25:05.000Z</updated>
+        <summary type="html"><![CDATA[Gotham Knights has steadily been showing us different members of the Bat family, with the latest trailer giving us a look at the rowdy Red Hood.
+Batman's whole deal, typically anyway, is that he doesn't kill anybody. That obviously has something to do with his own parents being killed, which he didn't exactly respond to in the most healthy way, but you still, it's a pretty hard rule. That rule doesn't apply so much to Red Hood, aka Jason Todd, a former Robin, as you can see in the most recent trailer and the frequency with which he shoots people.
+OK so technically if you look at his character page on the official website, he has supposedly "embraced Batman's non-lethal combat methods," but his character trailer sure does show him using a whole lot of violent combat methods, and he still does dual wield a couple of pistols.
+ Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This Better Call Saul Gameboy fan game is the best thing we'll never play]]></title>
         <id>https://www.eurogamer.net/this-better-call-saul-gameboy-fan-game-is-the-best-thing-well-never-play</id>
@@ -84,6 +136,18 @@ As reported by The Verge, the fairly substantial accusation comes as part of som
  Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dirk Eddelbuettel: RcppArmadillo used by 1001 CRAN Packages]]></title>
+        <id>http://dirk.eddelbuettel.com/blog/2022/08/14#rcpparmadillo_at_1001</id>
+        <link href="http://dirk.eddelbuettel.com/blog/2022/08/14#rcpparmadillo_at_1001"/>
+        <updated>2022-08-14T14:08:00.000Z</updated>
+        <summary type="html"><![CDATA[It is with a mix of pride and joy, but also some genuine astonishment and amazement, that we can share that the counter of reverse dependencies at CRAN for our RcppArmadillo package for R just crossed 1000 packages [1]:
+
+Conrad actually posted this a few weeks ago, by my count we were then still a few packages shy. In any event, having crossed this marker this summer, either then or now, and after more than a dozen years of working on the package is a really nice moment. Google Scholar counts nearly 500 citations for our CSDA paper (also this vignette), and that ratio of nearly a citation for every two packages used is certainly impressive. We have had the pleasure of working with so many other researchers and scientists using RcppArmadillo. Its combination of performance (C++, after all, …]]></summary>
+        <author>
+            <name>Planet Debian</name>
         </author>
     </entry>
     <entry>
