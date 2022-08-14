@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-14T08:25:51.317Z</updated>
+    <updated>2022-08-14T09:21:02.520Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wine-Staging 7.15 Released - Currently At 536 Patches Atop Upstream Wine]]></title>
+        <id>https://www.phoronix.com/news/Wine-Staging-7.15</id>
+        <link href="https://www.phoronix.com/news/Wine-Staging-7.15"/>
+        <updated>2022-08-14T09:10:21.000Z</updated>
+        <summary type="html"><![CDATA[Following yesterday's belated release of Wine 7.15, Wine-Staging 7.15 is now available that continues to carry hundreds of extra testing/experimental patches atop upstream Wine for bug fixes and other features to empower Windows games and applications on Linux...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kan ett nytt South Park-spel vara under utveckling hos THQ?]]></title>
+        <id>https://www.fz.se/artikel/291109</id>
+        <link href="https://www.fz.se/artikel/291109-kan-ett-nytt-south-park-spel-vara-under-utveckling-hos-thq"/>
+        <updated>2022-08-14T08:50:55.000Z</updated>
+        <summary type="html"><![CDATA[Heta South Park-rykten hos THQ]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Söndagsmatiné: Nödig moddare bygger skithäftig dator]]></title>
         <id>https://www.sweclockers.com/artikel/34752</id>
@@ -21957,16 +21977,6 @@ Now ignore refs/cinnabar/replace/ refs, and always use the corresponding metadat
 Various git cinnabar fsck fixes.]]></summary>
         <author>
             <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thanks to subscriptions, iPhone apps finally made more money than games]]></title>
-        <id>https://arstechnica.com/?p=1867141</id>
-        <link href="https://arstechnica.com/?p=1867141"/>
-        <updated>2022-07-15T20:29:22.000Z</updated>
-        <summary type="html"><![CDATA[The subscription model for mobile apps is paying off big time for some.]]></summary>
-        <author>
-            <name>Samuel Axon</name>
         </author>
     </entry>
 </feed>

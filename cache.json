@@ -6077,6 +6077,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Wine-Staging-7.15",
+          "author": null,
+          "description": "Following yesterday's belated release of Wine 7.15, Wine-Staging 7.15 is now available that continues to carry hundreds of extra testing/experimental patches atop upstream Wine for bug fixes and other features to empower Windows games and applications on Linux...",
+          "link": "https://www.phoronix.com/news/Wine-Staging-7.15",
+          "publishedOn": "2022-08-14T09:10:21.000Z",
+          "wordCount": 1439,
+          "title": "Wine-Staging 7.15 Released - Currently At 536 Patches Atop Upstream Wine",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Glibc-2.36-EAC-Problems",
           "author": null,
           "description": "Those on rolling-release Linux distributions that are quick to adapt to new toolchain updates are finding Easy Anti Cheat (EAC) enabled games breaking when running on the recently released Glibc 2.36. The breakage stems from the DT_HASH section being dropped in GNU C Library but EAC being among the few software still expecting that section rather than DT_GNU_HASH...",
@@ -14015,16 +14025,6 @@
           "wordCount": 1671,
           "title": "US monkeypox cases hit 1,470; CDC says more coming, and we’re short on vaccines",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1408879341-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1867141",
-          "author": "Samuel Axon",
-          "description": "The subscription model for mobile apps is paying off big time for some.",
-          "link": "https://arstechnica.com/?p=1867141",
-          "publishedOn": "2022-07-15T20:29:22.000Z",
-          "wordCount": 1492,
-          "title": "Thanks to subscriptions, iPhone apps finally made more money than games",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/06/app-store-760x380.jpg"
         }
       ]
     },
@@ -14033,6 +14033,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291109",
+          "author": null,
+          "description": "Heta South Park-rykten hos THQ",
+          "link": "https://www.fz.se/artikel/291109-kan-ett-nytt-south-park-spel-vara-under-utveckling-hos-thq",
+          "publishedOn": "2022-08-14T08:50:55.000Z",
+          "wordCount": 1724,
+          "title": "Kan ett nytt South Park-spel vara under utveckling hos THQ?",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291109"
+        },
         {
           "id": "https://www.fz.se/artikel/291107",
           "author": null,
