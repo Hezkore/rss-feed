@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-13T23:21:35.299Z</updated>
+    <updated>2022-08-14T02:22:30.351Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Glibc 2.36 Dropping DT_HASH Has Been Breaking Easy Anti Cheat Games With Steam Play]]></title>
+        <id>https://www.phoronix.com/news/Glibc-2.36-EAC-Problems</id>
+        <link href="https://www.phoronix.com/news/Glibc-2.36-EAC-Problems"/>
+        <updated>2022-08-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Those on rolling-release Linux distributions that are quick to adapt to new toolchain updates are finding Easy Anti Cheat (EAC) enabled games breaking when running on the recently released Glibc 2.36. The breakage stems from the DT_HASH section being dropped in GNU C Library but EAC being among the few software still expecting that section rather than DT_GNU_HASH...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Final Fantasy 14's Island Sanctuary update will arrive on August 23rd]]></title>
         <id>https://www.rockpapershotgun.com/final-fantasy-14s-island-sanctuary-update-will-arrive-on-august-23rd</id>
@@ -22010,35 +22020,6 @@ all donors to the Debian project who helped to cover parts of our expenses.]]></
         <summary type="html"><![CDATA[Chinese-owned app is a trove of digital intelligence that lawyers want to archive.]]></summary>
         <author>
             <name>Financial Times</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Report: Microsoft will return to releasing new Windows versions once every 3 years]]></title>
-        <id>https://arstechnica.com/?p=1866866</id>
-        <link href="https://arstechnica.com/?p=1866866"/>
-        <updated>2022-07-15T14:21:12.000Z</updated>
-        <summary type="html"><![CDATA[But the Windows-as-a-service era is far from over.]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The trampoline is now international: NASA and Roscosmos agree to seat swap]]></title>
-        <id>https://arstechnica.com/?p=1867013</id>
-        <link href="https://arstechnica.com/?p=1867013"/>
-        <updated>2022-07-15T14:00:56.000Z</updated>
-        <summary type="html"><![CDATA[No funds will be exchanged as part of the agreement.]]></summary>
-        <author>
-            <name>Eric Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Break The Habit]]></title>
-        <id>https://tapas.io/episode/2587503</id>
-        <link href="https://tapas.io/episode/2587503"/>
-        <updated>2022-07-15T13:12:35.000Z</updated>
-        <author>
-            <name>J. L. Westover</name>
         </author>
     </entry>
 </feed>

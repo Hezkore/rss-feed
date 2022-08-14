@@ -6067,6 +6067,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Glibc-2.36-EAC-Problems",
+          "author": null,
+          "description": "Those on rolling-release Linux distributions that are quick to adapt to new toolchain updates are finding Easy Anti Cheat (EAC) enabled games breaking when running on the recently released Glibc 2.36. The breakage stems from the DT_HASH section being dropped in GNU C Library but EAC being among the few software still expecting that section rather than DT_GNU_HASH...",
+          "link": "https://www.phoronix.com/news/Glibc-2.36-EAC-Problems",
+          "publishedOn": "2022-08-14T00:00:00.000Z",
+          "wordCount": 1640,
+          "title": "Glibc 2.36 Dropping DT_HASH Has Been Breaking Easy Anti Cheat Games With Steam Play",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Wine-7.15-Released",
           "author": null,
           "description": "Wine 7.15 is out a day late as the newest development snapshot of this open-source software for enjoying Windows games and applications on Linux and other platforms. Wine is also what serves as the base for Valve's Proton that powers Steam Play...",
@@ -14095,26 +14105,6 @@
           "wordCount": 1859,
           "title": "TikTok resists calls to preserve Ukraine content for war crime investigations",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/GettyImages-1239959385-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1866866",
-          "author": "Andrew Cunningham",
-          "description": "But the Windows-as-a-service era is far from over.",
-          "link": "https://arstechnica.com/?p=1866866",
-          "publishedOn": "2022-07-15T14:21:12.000Z",
-          "wordCount": 1748,
-          "title": "Report: Microsoft will return to releasing new Windows versions once every 3 years",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/Screen-Shot-2021-08-30-at-11.34.41-PM-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1867013",
-          "author": "Eric Berger",
-          "description": "No funds will be exchanged as part of the agreement.",
-          "link": "https://arstechnica.com/?p=1867013",
-          "publishedOn": "2022-07-15T14:00:56.000Z",
-          "wordCount": 1607,
-          "title": "The trampoline is now international: NASA and Roscosmos agree to seat swap",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/1A38F95E-29E0-4CAE-BCBD-1E6C40BF56A7-760x380.jpeg"
         }
       ]
     },
@@ -17026,16 +17016,6 @@
           "publishedOn": "2022-07-19T13:08:51.000Z",
           "wordCount": null,
           "title": "Cookies",
-          "imageUrl": null
-        },
-        {
-          "id": "https://tapas.io/episode/2587503",
-          "author": "J. L. Westover",
-          "description": "",
-          "link": "https://tapas.io/episode/2587503",
-          "publishedOn": "2022-07-15T13:12:35.000Z",
-          "wordCount": null,
-          "title": "Break The Habit",
           "imageUrl": null
         }
       ]
