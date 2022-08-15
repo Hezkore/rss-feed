@@ -286,6 +286,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/08/tempest-rising-looks-like-the-rts-ive-been-waiting-for/",
+          "author": "Liam Dawe",
+          "description": "THQ Nordic, 3D Realms and  Slipgate Ironworks recently revealed Tempest Rising an upcoming classic RTS and after watching the trailer I absolutely need this.",
+          "link": "https://www.gamingonlinux.com/2022/08/tempest-rising-looks-like-the-rts-ive-been-waiting-for/",
+          "publishedOn": "2022-08-15T11:17:04.000Z",
+          "wordCount": 1107,
+          "title": "Tempest Rising looks like the RTS I've been waiting for",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1046027659id21445gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/08/avorion-into-the-rift-is-an-expansive-dlc-out-now-for-this-great-space-sim/",
           "author": "Liam Dawe",
           "description": "Probably one of the best spaceship building sandbox games around, Avorion has just grown tremendously with the Into The Rift DLC out now.",
@@ -1292,6 +1302,26 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/cyberpunk-2077-mod-replicates-johnny-silverhands-ttrpg-look",
+          "author": "Ed Nightingale",
+          "description": "A new mod for Cyberpunk 2077 allows players to change the design of Johnny Silverhand to match his appearance in the original TTRPG.\r\n\n\r\nProject 2020 from modder ErebusEquity, available on Nexus Mods, includes tabletop appearances, original looks, and multiple face swap and hair swap options, as spotted by TheGamer.\r\n\r\n\r\n\n\r\nCyberpunk 2077 is based on the Cyberpunk 2020 TTRPG from 1988, but has Silverhand played by Keanu Reeves in a central role to the plot.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/cyberpunk-2077-mod-replicates-johnny-silverhands-ttrpg-look",
+          "publishedOn": "2022-08-15T10:39:11.000Z",
+          "wordCount": 4405,
+          "title": "Cyberpunk 2077 mod replicates Johnny Silverhand's TTRPG look",
+          "imageUrl": "https://assets.reedpopcdn.com/silverhand-mod.png/BROK/thumbnail/1600x900/format/jpg/quality/80/silverhand-mod.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/multiversus-leak-reveals-gremlin-antagonist-stripe-is-coming-to-brawl",
+          "author": "Victoria Kennedy",
+          "description": "A new leak for Warner Bros.' brawler MultiVersus has revealed that both Stripe from Gremlins and DC's Black Adam will be joining the battle roster.\r\n\n\r\nAs revealed by _FireMonkey on Twitter, the twosome can be seen in the game's season one startup screen, which Warner Bros. set live a little too early. The company had originally said that upcoming fighters would be teased in MultiVersus' start up screen, but unfortunately the developer jumped the gun a bit on that one.\r\n\n\r\nThe duo will join the likes of current characters such as Bugs Bunny, Batman and Arya Stark. Meanwhile, Morty of Rick and Morty fame will be joining the fray on 23rd August.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/multiversus-leak-reveals-gremlin-antagonist-stripe-is-coming-to-brawl",
+          "publishedOn": "2022-08-15T10:31:19.000Z",
+          "wordCount": 4677,
+          "title": "MultiVersus leak reveals Gremlin antagonist Stripe is coming to brawl",
+          "imageUrl": "https://assets.reedpopcdn.com/stripe-gremlin.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/stripe-gremlin.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/spider-man-remastered-second-biggest-launch-for-playstation-studios-on-pc",
           "author": "Ed Nightingale",
@@ -6307,6 +6337,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Greg-KH-No-ADL-Webcam-Laptop",
+          "author": null,
+          "description": "Greg Kroah-Hartman as the Linux kernel's stable maintainer and effectively Linus Torvalds' second-in-command has suggested avoiding Intel Alder Lake laptops. While much of the Alder Lake laptop support for Linux is in good shape, the exception is around web cameras. These newer laptops with Intel's latest web-camera tech are not currently supported by the mainline kernel and require proprietary software for use. Some platforms like Ubuntu and ChromeOS are picking up these blobs for now while a proper open-source, upstream solution is likely months -- or likely about one year -- away...",
+          "link": "https://www.phoronix.com/news/Greg-KH-No-ADL-Webcam-Laptop",
+          "publishedOn": "2022-08-15T10:50:37.000Z",
+          "wordCount": 1874,
+          "title": "Greg KH Recommends Avoiding Alder Lake Laptops - Intel Webcam Linux Driver Long Ways Out",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/AMD-P-State-Update-But-Miss-6.0",
           "author": null,
           "description": "AMD today sent out revised patches for improving the AMD P-State CPU frequency scaling Linux driver that aims to provide better power efficiency than the generic ACPI CPUFreq driver that has long been relied upon for AMD processors...",
@@ -7643,6 +7683,16 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/circus-electrique-preview-brawling-eccentric-cyborg-londoners",
+          "author": "Rachel Watts",
+          "description": "Instead of commanding a group of rugged, blood-soaked mercenaries on a turn-based death crawl through unimaginable horrors, how about a neo-Victorian circus troupe brawling with biomechatronic Londoners? That's Circus Electrique, a turn-based RPG that's much more lighthearted than its Darkest Dungeon counterpart (and seemingly main inspiration). But after playing a preview of the game’s first mission, there's more than meets the eye in this part steampunk RPG, part circus tycoon management sim.\nYou play as Amelia, a young, bold journalist returning to London to cover the grand re-opening of the Circus Electrique. A metaphorical spanner gets lobbed into the works, however, as the ceremony is interrupted with news that London’s citizens have started attacking each other (more than your average fisticuffs to get on the tube). Oddly, this doesn’t seem to have affected Amelia and your motley circus troupe, who venture out into London’s dangerous streets to find answers.\nRead more",
+          "link": "https://www.rockpapershotgun.com/circus-electrique-preview-brawling-eccentric-cyborg-londoners",
+          "publishedOn": "2022-08-15T11:00:00.000Z",
+          "wordCount": 5784,
+          "title": "Your troupe of brawling, eccentric performers packs a wallop in Circus Electrique",
+          "imageUrl": "https://assets2.rockpapershotgun.com/Circus-eleqtrique-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Circus-eleqtrique-header.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/dc-antihero-black-adam-and-gremlins-bad-boy-stripe-are-coming-to-multiversus",
           "author": "CJ Wheeler",
@@ -14349,6 +14399,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291117",
+          "author": null,
+          "description": "”80 000 nya spelare om dagen”.",
+          "link": "https://www.fz.se/artikel/291117-gratis-pubg-verkar-ha-varit-ett-lyft-for-utgivaren",
+          "publishedOn": "2022-08-15T10:44:56.000Z",
+          "wordCount": 1857,
+          "title": "Gratis-PUBG verkar ha varit ett lyft för utgivaren",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291117"
+        },
+        {
           "id": "https://www.fz.se/artikel/291116",
           "author": null,
           "description": "Skräck, gotik och mycket annat.",
@@ -16036,6 +16096,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34756",
+          "author": null,
+          "description": "Till hösten väntas det koreanska bolaget släppa lös nästa generations SSD-enheter för konsumenter, där paradnumret är högre överföringshastigheter tack vare PCI Express 5.0.",
+          "link": "https://www.sweclockers.com/artikel/34756-samsung-990-pro-med-pci-express-5-0-dyker-upp-i-databas",
+          "publishedOn": "2022-08-15T11:06:10.000Z",
+          "wordCount": 1636,
+          "title": "Samsung 990 Pro med PCI Express 5.0 dyker upp i databas",
+          "imageUrl": "https://www.sweclockers.com/artikel/34756/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34755",
           "author": null,
           "description": "LG Display vill göra OLED-paneler tillgängliga i ännu fler storlekar och planerar att visa upp en OLED på 20 tum innan årets slut.",
@@ -17583,6 +17653,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/15/uk_space_feature/",
+          "author": null,
+          "description": "<h4>Tim Peake set to return to ESA as the race to first vertical launch from British soil continues</h4> <p><strong>Feature</strong>  It promises to be a busy few years for British spaceflight. Astronaut Tim Peake is due to return to the European Space Agency (ESA) and the UK's first vertical launches are set to take place in Scotland.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/15/uk_space_feature/",
+          "publishedOn": "2022-08-15T10:33:07.000Z",
+          "wordCount": 1601,
+          "title": "When will the UK take another giant leap into space?",
+          "imageUrl": "https://regmedia.co.uk/2016/01/15/tim_peake.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/15/nuclear_power_climate_change/",
           "author": null,
