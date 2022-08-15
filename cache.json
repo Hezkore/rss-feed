@@ -6227,6 +6227,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-6.0-rc1-Released",
+          "author": null,
+          "description": "After the two week long merge window, Linus Torvalds this afternoon released the first release candidate of Linux 6.0. Over the next roughly two months the Linux 6.0 kernel will stabilize but already from my early testing on various systems it is in nice shape and the features and performance are looking great...",
+          "link": "https://www.phoronix.com/news/Linux-6.0-rc1-Released",
+          "publishedOn": "2022-08-14T23:30:03.000Z",
+          "wordCount": 1710,
+          "title": "Linux 6.0-rc1 Released With Exciting Performance Optimizations, New Hardware Support",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-6.0-Xeon-8380-Ice-Lake",
           "author": null,
           "description": "Not only is the AMD EPYC performance looking real good for Linux 6.0, but many of the scheduler changes and common kernel improvements also carry over well for Intel's Xeon Platinum 8380 \"Ice Lake\" server processors too. For your viewing pleasure this weekend are some initial benchmarks looking at Linux 5.19 stable compared to Linux 6.0 Git as we approach the end of the merge window...",
@@ -12088,6 +12098,26 @@
           "imageUrl": null
         },
         {
+          "id": "https://current.workingdirectory.net/posts/2022/web-caching-is-hard/",
+          "author": null,
+          "description": "Web caching is hard. And also, maybe I’m not that good under pressure? In any\nevent, I made the following mistakes while trying to debug a web site using our\nnginx cache that bit the dust under heavy load today:\nAction: I ran curl -I https://website.org/ and it hung.\nWrong assumption: Something is wrong with nginx. Why else would it just hang?\nReconsidered conclusion: The resource (the home page) is a MISS, so nginx has\nto retrieve it from the origin, but the origin is over-loaded and timing out,\nso my request is also timing out. Maybe something is wrong with the nginx\ncaching configuration since the home page really should be a HIT… but that’s\nanother problem.\nAction: I changed the configuration from our normal caching set of\ndirectives to our aggressive caching set of directives, reloade…",
+          "link": "https://current.workingdirectory.net/posts/2022/web-caching-is-hard/",
+          "publishedOn": "2022-08-14T12:27:10.000Z",
+          "wordCount": 508,
+          "title": "Jamie McClelland: Web caching is hard",
+          "imageUrl": null
+        },
+        {
+          "id": "tag:blog.sergiodj.net,2022-08-14:/2022/08/14/debuginfod-is-coming-to-ubuntu.html",
+          "author": null,
+          "description": "These past couple of months I have been working to bring\ndebuginfod to\nUbuntu.  I thought it would be a good idea to make this post and\nexplain a little bit about what the service is and how I'm planning to\ndeploy it.\nA quick recap: what's debuginfod?\nHere's a good summary of what debuginfod is:\ndebuginfod is a new-ish project whose purpose is to serve\nELF/DWARF/source-code information over HTTP.  It is developed under the\nelfutils umbrella.  You can find more information about it here:\n\n  https://sourceware.org/elfutils/Debuginfod.html\n\nIn a nutshell, by using a debuginfod service you will not need to\ninstall debuginfo (a.k.a. dbgsym) files anymore; the symbols will be\nserved to GDB (or any other debuginfo consumer that supports debuginfod)\nover the network.  Ultimately, this makes the de…",
+          "link": "https://blog.sergiodj.net/2022/08/14/debuginfod-is-coming-to-ubuntu.html",
+          "publishedOn": "2022-08-14T04:00:00.000Z",
+          "wordCount": 582,
+          "title": "Sergio Durigan Junior: Debuginfod is coming to Ubuntu",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.eyrie.org/~eagle/reviews/books/0-19-027128-0.html",
           "author": null,
           "description": "Review: Still Not Safe, by Robert L. Wears & Kathleen M. Sutcliffe\n\n    Publisher:\n    Oxford University Press\n  \nCopyright:\n    November 2019\n  \nISBN:\n    0-19-027128-0\n  \nFormat:\n    Kindle\n  \nPages:\n    232\n  \n\nStill Not Safe is an examination of the recent politics and history\nof patient safety in medicine.  Its conclusions are summarized by the\nopening paragraph of the preface:\n\n\n\n\n\n\nRobert Wears was Professor of Emergency Medicine at the University of\nFlorida specializing in patient safety.  Kathleen Sutcliffe is Professor\nof Medicine and Business at Johns Hopkins.  This book is based on research\nfunded by a grant from the Robert Wood Johnson Foundation, for which both\nWears and Sutcliffe were primary investigators.  (Wears died in 2017, but\nthe acknowledgments imply that at least ea…",
@@ -14220,26 +14250,6 @@
           "wordCount": 1921,
           "title": "A dying star’s last hurrah",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/STScI-01EVSTBRXP0R1JY17YXVW0F0AM-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1867171",
-          "author": "Jeff Dunn",
-          "description": "Dealmaster also has Samsung microSD cards, LG OLED TVs, and more leftover Prime Day deals.",
-          "link": "https://arstechnica.com/?p=1867171",
-          "publishedOn": "2022-07-16T13:31:50.000Z",
-          "wordCount": 2608,
-          "title": "The weekend’s best deals: Pixel 6 Pro, Beats earbuds, Fitbit trackers, and more",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/dealmaster071622-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1867245",
-          "author": "Jonathan M. Gitlin",
-          "description": "There's a good chance that Fanboost will be a thing of the past.",
-          "link": "https://arstechnica.com/?p=1867245",
-          "publishedOn": "2022-07-16T11:30:19.000Z",
-          "wordCount": 1614,
-          "title": "A big horsepower jump and more changes to come for Formula E in 2023",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/JL407792-2048x2048-760x380.jpg"
         }
       ]
     },
@@ -17403,6 +17413,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/15/linux_60_debuts_missing_some/",
+          "author": null,
+          "description": "<h4>Don't read the diffstat too closely, says Linus Torvalds – it's mostly another massive AMD update</h4> <p>Emperor Penguin Linus Torvalds has released the first release candidate for Linux 6.0, but doesn't mind what you call it.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/15/linux_60_debuts_missing_some/",
+          "publishedOn": "2022-08-15T01:15:11.000Z",
+          "wordCount": 1148,
+          "title": "Linux 6.0 debuts, missing some Rusty bits and a magic mushroom reference",
+          "imageUrl": "https://regmedia.co.uk/2022/08/15/shutterstock_penguin_chicks.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/14/elon_musk_hints_at_aged/",
+          "author": null,
+          "description": "<h4>PLUS Vietnam's massive infosec push; Philippines telco fight; Australia dumps COVID app; and more</h4> <p><strong>Asia in Brief</strong>  Elon Musk has written an article for the Cyberspace Administration of China's flagship magazine.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/14/elon_musk_hints_at_aged/",
+          "publishedOn": "2022-08-14T23:45:08.000Z",
+          "wordCount": 1942,
+          "title": "Elon Musk wrote article for China's internet regulator, hinted at aged care robots",
+          "imageUrl": "https://regmedia.co.uk/2021/08/17/shutterstock_asia_as_circuit_board.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/14/ai_firefighter_prediction/",
           "author": null,

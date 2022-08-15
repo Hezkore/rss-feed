@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-14T23:21:32.472Z</updated>
+    <updated>2022-08-15T02:22:28.613Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.0 debuts, missing some Rusty bits and a magic mushroom reference]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/15/linux_60_debuts_missing_some/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/15/linux_60_debuts_missing_some/"/>
+        <updated>2022-08-15T01:15:11.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Don't read the diffstat too closely, says Linus Torvalds – it's mostly another massive AMD update</h4> <p>Emperor Penguin Linus Torvalds has released the first release candidate for Linux 6.0, but doesn't mind what you call it.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk wrote article for China's internet regulator, hinted at aged care robots]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/14/elon_musk_hints_at_aged/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/14/elon_musk_hints_at_aged/"/>
+        <updated>2022-08-14T23:45:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>PLUS Vietnam's massive infosec push; Philippines telco fight; Australia dumps COVID app; and more</h4> <p><strong>Asia in Brief</strong>  Elon Musk has written an article for the Cyberspace Administration of China's flagship magazine.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.0-rc1 Released With Exciting Performance Optimizations, New Hardware Support]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.0-rc1-Released</id>
+        <link href="https://www.phoronix.com/news/Linux-6.0-rc1-Released"/>
+        <updated>2022-08-14T23:30:03.000Z</updated>
+        <summary type="html"><![CDATA[After the two week long merge window, Linus Torvalds this afternoon released the first release candidate of Linux 6.0. Over the next roughly two months the Linux 6.0 kernel will stabilize but already from my early testing on various systems it is in nice shape and the features and performance are looking great...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nyhetsquiz vecka 32 2022: Teknikhösten närmar sig]]></title>
         <id>https://www.sweclockers.com/artikel/34754</id>
@@ -275,6 +305,27 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Jamie McClelland: Web caching is hard]]></title>
+        <id>https://current.workingdirectory.net/posts/2022/web-caching-is-hard/</id>
+        <link href="https://current.workingdirectory.net/posts/2022/web-caching-is-hard/"/>
+        <updated>2022-08-14T12:27:10.000Z</updated>
+        <summary type="html"><![CDATA[Web caching is hard. And also, maybe I’m not that good under pressure? In any
+event, I made the following mistakes while trying to debug a web site using our
+nginx cache that bit the dust under heavy load today:
+Action: I ran curl -I https://website.org/ and it hung.
+Wrong assumption: Something is wrong with nginx. Why else would it just hang?
+Reconsidered conclusion: The resource (the home page) is a MISS, so nginx has
+to retrieve it from the origin, but the origin is over-loaded and timing out,
+so my request is also timing out. Maybe something is wrong with the nginx
+caching configuration since the home page really should be a HIT… but that’s
+another problem.
+Action: I changed the configuration from our normal caching set of
+directives to our aggressive caching set of directives, reloade…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Saints Row gameplay overview shows off all the factions out to get you]]></title>
         <id>https://www.vg247.com/saints-row-gameplay-overview-trailer</id>
         <link href="https://www.vg247.com/saints-row-gameplay-overview-trailer"/>
@@ -435,6 +486,32 @@ The report states that since going free-to-play in January, PUBG "has seen a ste
         <summary type="html"><![CDATA[Audacity is an incredibly useful tool for quick audio edits. Here's how you can install it on Linux and use it for audio recording and background noise removal.]]></summary>
         <author>
             <name>Anuj Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sergio Durigan Junior: Debuginfod is coming to Ubuntu]]></title>
+        <id>tag:blog.sergiodj.net,2022-08-14:/2022/08/14/debuginfod-is-coming-to-ubuntu.html</id>
+        <link href="https://blog.sergiodj.net/2022/08/14/debuginfod-is-coming-to-ubuntu.html"/>
+        <updated>2022-08-14T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[These past couple of months I have been working to bring
+debuginfod to
+Ubuntu.  I thought it would be a good idea to make this post and
+explain a little bit about what the service is and how I'm planning to
+deploy it.
+A quick recap: what's debuginfod?
+Here's a good summary of what debuginfod is:
+debuginfod is a new-ish project whose purpose is to serve
+ELF/DWARF/source-code information over HTTP.  It is developed under the
+elfutils umbrella.  You can find more information about it here:
+
+  https://sourceware.org/elfutils/Debuginfod.html
+
+In a nutshell, by using a debuginfod service you will not need to
+install debuginfo (a.k.a. dbgsym) files anymore; the symbols will be
+served to GDB (or any other debuginfo consumer that supports debuginfod)
+over the network.  Ultimately, this makes the de…]]></summary>
+        <author>
+            <name>Planet Debian</name>
         </author>
     </entry>
     <entry>
@@ -22282,26 +22359,6 @@ page or from my personal INN pages.  The
 latter also has links to the other INN documentation.]]></summary>
         <author>
             <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The weekend’s best deals: Pixel 6 Pro, Beats earbuds, Fitbit trackers, and more]]></title>
-        <id>https://arstechnica.com/?p=1867171</id>
-        <link href="https://arstechnica.com/?p=1867171"/>
-        <updated>2022-07-16T13:31:50.000Z</updated>
-        <summary type="html"><![CDATA[Dealmaster also has Samsung microSD cards, LG OLED TVs, and more leftover Prime Day deals.]]></summary>
-        <author>
-            <name>Jeff Dunn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A big horsepower jump and more changes to come for Formula E in 2023]]></title>
-        <id>https://arstechnica.com/?p=1867245</id>
-        <link href="https://arstechnica.com/?p=1867245"/>
-        <updated>2022-07-16T11:30:19.000Z</updated>
-        <summary type="html"><![CDATA[There's a good chance that Fanboost will be a thing of the past.]]></summary>
-        <author>
-            <name>Jonathan M. Gitlin</name>
         </author>
     </entry>
 </feed>
