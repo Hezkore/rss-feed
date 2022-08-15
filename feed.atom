@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-15T19:18:23.851Z</updated>
+    <updated>2022-08-15T20:23:28.883Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CIA accused of illegally spying on Americans visiting Assange in embassy]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/15/assange_cia_spyware/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/15/assange_cia_spyware/"/>
+        <updated>2022-08-15T19:37:02.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Lawyers, journalists sue super-snoop agency and Spanish security biz</h4> <p>The CIA illegally spied on US citizens while they visited WikiLeaks publisher Julian Assange inside the Ecuadorian embassy in London, a lawsuit filed today has claimed.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Qualcomm Posts "QAIC" DRM Accelerator Driver For Linux]]></title>
         <id>https://www.phoronix.com/news/Qualcomm-QAIC-Cloud-Accelerator</id>
