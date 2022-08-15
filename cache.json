@@ -12606,16 +12606,6 @@
           "wordCount": 2074,
           "title": "Petter Reinholdtsen: Automatic LinuxCNC servo PID tuning?",
           "imageUrl": null
-        },
-        {
-          "id": "http://thomas.goirand.fr/blog/?p=402",
-          "author": null,
-          "description": "I arrived in Prizren late on Wednesday. Here’s what I did during debcamp (so over 3 days). I hope this post just motivates others to contribute more to Debian.\nAt least 2 DDs want to upload packages that need a new version of python3-jsonschema (ie: version > 4.x). Unfortunately, version 4 broke a few packages. I therefore uploaded it to Experimental a few months/week, so I could see the result of autopkgtest reading the pseudo excuse page. And it showed a few packages broke. Here’s the one used (or part of) OpenStack:\nNova\nDesignate\nIronic\npython-warlock\nSahara\nVitrage\n\n\n\n\nThanks to a reactive upstream, I was able to fix the first 4 above, but not Sahara yet. Vitrage poped-up when I uploade Debian release 2 of jsonschema, surprisingly. Also python3-jsonschema autopkgtest itself was broken…",
-          "link": "http://thomas.goirand.fr/blog/?p=402",
-          "publishedOn": "2022-07-16T20:22:09.000Z",
-          "wordCount": 628,
-          "title": "Thomas Goirand: My work during debcamp",
-          "imageUrl": null
         }
       ]
     },
@@ -14248,6 +14238,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291115",
+          "author": null,
+          "description": "Domstolsdokument bekräftar.",
+          "link": "https://www.fz.se/artikel/291115-xbox-one-salde-mindre-an-halften-sa-manga-enheter-som-playstation-4",
+          "publishedOn": "2022-08-15T07:57:00.000Z",
+          "wordCount": 1968,
+          "title": "Xbox One sålde \"mindre än hälften så många enheter som Playstation 4\"",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291115"
+        },
         {
           "id": "https://www.fz.se/artikel/291114",
           "author": null,
@@ -15916,6 +15916,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34639",
+          "author": null,
+          "description": "SweClockers har talat! Sommarens tjusigaste bygge har röstats fram och det blev Vertikal av UnknownBum som kammade hem segern.",
+          "link": "https://www.sweclockers.com/artikel/34639-sommarens-datorbygge-har-korats",
+          "publishedOn": "2022-08-15T07:52:04.000Z",
+          "wordCount": 1565,
+          "title": "Sommarens datorbygge har korats!",
+          "imageUrl": "https://www.sweclockers.com/artikel/34639/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34754",
           "author": null,
           "description": "Intel Arc \"Alchemist\", kvartalsrapporter och färska produkter trängs i nyhetsflödet. Hur mycket har du snappat upp under den här varma augustiveckan?",
@@ -17443,6 +17453,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/15/cac_publishes_big_tech_algorithms/",
+          "author": null,
+          "description": "<h4>Beijing lifts the lid on how Alibaba, Douyin, Tencent, Baidu do business – and censor content</h4> <p>Beijing's internet regulator, the Cyberspace Administration of China (CAC), has released information about the algorithms that some of the nation's biggest tech companies use to make their services work.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/15/cac_publishes_big_tech_algorithms/",
+          "publishedOn": "2022-08-15T07:56:13.000Z",
+          "wordCount": 1256,
+          "title": "China's internet regulator details algorithms used by local Big Tech players",
+          "imageUrl": "https://regmedia.co.uk/2022/04/07/china_shutterstock3.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/15/samsung_heir_pardoned/",
+          "author": null,
+          "description": "<h4>Government said they need the Samsung boss back at work to deal with South Korea’s looming economic crisis</h4> <p>South Korean president Yoon Suk Yeol issued a widely anticipated pardon for Samsung heir and vice chairman Lee Jae-yong that came into effect today.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/15/samsung_heir_pardoned/",
+          "publishedOn": "2022-08-15T07:28:08.000Z",
+          "wordCount": 1311,
+          "title": "Samsung heir pardoned after doing time for bribery",
+          "imageUrl": "https://regmedia.co.uk/2021/08/10/shutterstock_get_out_of_jail_free_card_editorial_only.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/15/indian_military_qkd/",
           "author": null,
