@@ -12616,16 +12616,6 @@
           "wordCount": 628,
           "title": "Thomas Goirand: My work during debcamp",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.eyrie.org/~eagle/journal/2022-07/001.html",
-          "author": null,
-          "description": "INN 2.7.0 NEWS file for all\nof the details, including breaking changes to watch out for when\nupgrading.\n\n\n\nINN 2.7 is now the stable branch, and will be maintained on the 2.7 Git\nbranch.  The main branch is now open for development targeting 2.8.0.\n(I'm still hoping to get to the build system overhaul before 2.8.0 is\nreleased.)  As of tonight, if all goes well, the nightly stable snapshots\nwill be generated from the 2.7 branch instead of the 2.6 branch, so be\naware that you will need to pay close attention to the upgrade if you're\nusing a snapshot.\n\n\n\nAs always, thanks to Julien ÉLIE for preparing this release and doing most\nof the maintenance work on INN!\n\n\n\nYou can get the latest version from\nthe official ISC download\npage or from my personal INN pages.  The\nlatter also has links to the other INN documentation.",
-          "link": "https://www.eyrie.org/~eagle/journal/2022-07/001.html",
-          "publishedOn": "2022-07-16T18:16:00.000Z",
-          "wordCount": 266,
-          "title": "Russ Allbery: INN 2.7.0",
-          "imageUrl": null
         }
       ]
     },
@@ -17017,6 +17007,16 @@
       "siteUrl": "https://explosm.net",
       "articles": [
         {
+          "id": "https://explosm.net/comics/my-wife",
+          "author": null,
+          "description": "New Cyanide and Happiness Comic",
+          "link": "https://explosm.net/comics/my-wife",
+          "publishedOn": "2022-08-15T00:00:11.000Z",
+          "wordCount": 1476,
+          "title": "Comic for 2022.08.15 - My Wife",
+          "imageUrl": null
+        },
+        {
           "id": "https://explosm.net/comics/now",
           "author": null,
           "description": "New Cyanide and Happiness Comic",
@@ -17433,6 +17433,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/15/ncat_flexgate_apple_macbook/",
+          "author": null,
+          "description": "<h4>Presiding officer was not impressed by Cupertino's arguments or behavior</h4> <p>Apple has been ordered to repair a MacBook Pro that displays all the symptoms of FlexGate – the syndrome of screen defects that the company has previously repaired for free – but which the company does not believe has the problem.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/15/ncat_flexgate_apple_macbook/",
+          "publishedOn": "2022-08-15T05:58:05.000Z",
+          "wordCount": 1715,
+          "title": "Apple says 2017 MacBooks don't have FlexGate defect. Aussie tribunal orders a fix anyway",
+          "imageUrl": "https://regmedia.co.uk/2021/04/02/screen.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/15/black_hat_covid/",
           "author": null,

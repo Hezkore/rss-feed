@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-15T05:38:28.538Z</updated>
+    <updated>2022-08-15T06:30:38.510Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple says 2017 MacBooks don't have FlexGate defect. Aussie tribunal orders a fix anyway]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/15/ncat_flexgate_apple_macbook/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/15/ncat_flexgate_apple_macbook/"/>
+        <updated>2022-08-15T05:58:05.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Presiding officer was not impressed by Cupertino's arguments or behavior</h4> <p>Apple has been ordered to repair a MacBook Pro that displays all the symptoms of FlexGate – the syndrome of screen defects that the company has previously repaired for free – but which the company does not believe has the problem.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Black Hat and DEF CON visitors differ on physical risk management]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/15/black_hat_covid/</id>
@@ -44,6 +54,16 @@
         <summary type="html"><![CDATA[<h4>Don't read the diffstat too closely, says Linus Torvalds – it's mostly another massive AMD update</h4> <p>Emperor Penguin Linus Torvalds has released the first release candidate for Linux 6.0, but doesn't mind what you call it.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comic for 2022.08.15 - My Wife]]></title>
+        <id>https://explosm.net/comics/my-wife</id>
+        <link href="https://explosm.net/comics/my-wife"/>
+        <updated>2022-08-15T00:00:11.000Z</updated>
+        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
+        <author>
+            <name>Explosm.net</name>
         </author>
     </entry>
     <entry>
@@ -22353,40 +22373,6 @@ Vitrage
 
 
 Thanks to a reactive upstream, I was able to fix the first 4 above, but not Sahara yet. Vitrage poped-up when I uploade Debian release 2 of jsonschema, surprisingly. Also python3-jsonschema autopkgtest itself was broken…]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russ Allbery: INN 2.7.0]]></title>
-        <id>https://www.eyrie.org/~eagle/journal/2022-07/001.html</id>
-        <link href="https://www.eyrie.org/~eagle/journal/2022-07/001.html"/>
-        <updated>2022-07-16T18:16:00.000Z</updated>
-        <summary type="html"><![CDATA[INN 2.7.0 NEWS file for all
-of the details, including breaking changes to watch out for when
-upgrading.
-
-
-
-INN 2.7 is now the stable branch, and will be maintained on the 2.7 Git
-branch.  The main branch is now open for development targeting 2.8.0.
-(I'm still hoping to get to the build system overhaul before 2.8.0 is
-released.)  As of tonight, if all goes well, the nightly stable snapshots
-will be generated from the 2.7 branch instead of the 2.6 branch, so be
-aware that you will need to pay close attention to the upgrade if you're
-using a snapshot.
-
-
-
-As always, thanks to Julien ÉLIE for preparing this release and doing most
-of the maintenance work on INN!
-
-
-
-You can get the latest version from
-the official ISC download
-page or from my personal INN pages.  The
-latter also has links to the other INN documentation.]]></summary>
         <author>
             <name>Planet Debian</name>
         </author>
