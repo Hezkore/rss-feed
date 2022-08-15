@@ -2,10 +2,175 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-15T15:25:56.591Z</updated>
+    <updated>2022-08-15T16:34:06.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bärbar bilkross: Wreckfest är på väg till mobiler]]></title>
+        <id>https://www.fz.se/artikel/291121</id>
+        <link href="https://www.fz.se/artikel/291121-barbar-bilkross-wreckfest-ar-pa-vag-till-mobiler"/>
+        <updated>2022-08-15T16:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Och det är Handygames som tar hand om denna version.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More datacenters coming to Ireland, despite energy concerns]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/15/irish_datacenter_ban_reversed/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/15/irish_datacenter_ban_reversed/"/>
+        <updated>2022-08-15T16:07:05.000Z</updated>
+        <summary type="html"><![CDATA[<h4>South Dublin County Council ban on buildouts set to be overturned by government</h4> <p>Trouble is brewing in Ireland as a ban on datacenter buildouts in the Dublin area has reportedly been challenged by one developer, while Amazon has now been granted permission for two new facilities near the city amid growing concern over the amount of energy bit barns consume.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can turn-based cyberpunk RPG Keylocker unlock its true musical potential?]]></title>
+        <id>https://www.rockpapershotgun.com/keylocker-preview-bitsummit-turn-based-rhythm-rpg-cyberpunk</id>
+        <link href="https://www.rockpapershotgun.com/keylocker-preview-bitsummit-turn-based-rhythm-rpg-cyberpunk"/>
+        <updated>2022-08-15T16:05:32.000Z</updated>
+        <summary type="html"><![CDATA[Keylocker is all about the rhythm. If you’re escaping a dystopian prison system where you can pay to upgrade to invisible handcuffs, your escape may as well have a jamming soundtrack. But you'll have to bring your own, because the world in Keylocker hates that stuff. Like in Footloose, music is an illegal activity.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Alicia Haddick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jonathan Dowland: Temperature monitoring]]></title>
+        <id>https://jmtd.net/log/temperature/</id>
+        <link href="https://jmtd.net/log/temperature/"/>
+        <updated>2022-08-15T16:01:58.000Z</updated>
+        <summary type="html"><![CDATA[Xiaomi Mijia Temperature Sensor
+I've been having some temperature problems in my house, so I wanted to set
+up some thermometers which I could read from a computer, and look at trends.
+I bought a pack of three cheap Xiaomi IoT thermometers. There's some official
+Xiaomi tooling to access them from smartphones and suchlike, but I wanted
+something more open. The thermometers have some rudimentary security on them
+to try and ensure you use the official tooling. This is pretty weak, and
+the open-source Home Assistant (HA) has support
+for querying them. I wasn't already running HA and it looked to do more than I
+needed right now.
+gathering
+A friend told me that it was trivial to write custom firmware to the
+devices.
+It's so easy you can do it from a web-based flasher: in fact, anyone in
+range can…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Turns out Xbox One sales were less than half of the PS4's, says Microsoft itself]]></title>
+        <id>https://www.vg247.com/xbox-one-sales-half-of-ps4-says-microsoft</id>
+        <link href="https://www.vg247.com/xbox-one-sales-half-of-ps4-says-microsoft"/>
+        <updated>2022-08-15T16:01:12.000Z</updated>
+        <summary type="html"><![CDATA[In 2016 Microsoft stopped reporting sales figures of the Xbox One, but recent documents from the company have confirmed how little the console sold compared to the PS4.
+If you remember the early days of the Xbox One, they were a bit of a disaster due to some poor early decisions (that were admittedly quite quickly backtracked), and three years after its release in 2016 Microsoft stopped reporting sales figures. But now as reported by The Verge, in some documents filed to Brazil's national competition regulator, Microsoft has admitted Xbox One sales figures were less than half of the PS4.
+"Sony has surpassed Microsoft in terms of console sales and installed base, having sold more than twice as many Xbox in the last generation," said Microsoft, as translated from Portuguese by The Verge.
+ Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sci-fi sequel Deliver Us Mars delayed until 2023]]></title>
+        <id>https://www.rockpapershotgun.com/sci-fi-sequel-deliver-us-mars-delayed-until-2023</id>
+        <link href="https://www.rockpapershotgun.com/sci-fi-sequel-deliver-us-mars-delayed-until-2023"/>
+        <updated>2022-08-15T15:55:16.000Z</updated>
+        <summary type="html"><![CDATA[Sci-fi puzzle adventure Deliver Us Mars has seen its launch window moved from September to next February. Devs KeokeN Interactive put out a statement crediting the delay to ensuring the game is “the best it can be”. The game was first revealed back in March, and then announced for a 2022 release in June.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>CJ Wheeler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pokémon Company International pledges global donations to organisations supporting children]]></title>
+        <id>https://www.eurogamer.net/the-pokemon-company-international-pledges-global-donations-to-organisations-supporting-children</id>
+        <link href="https://www.eurogamer.net/the-pokemon-company-international-pledges-global-donations-to-organisations-supporting-children"/>
+        <updated>2022-08-15T15:49:31.000Z</updated>
+        <summary type="html"><![CDATA[The Pokémon Company International has announced its commitment to global organisations in support of children and minority groups.
+
+
+A subsidiary of The Pokémon Company, The Pokémon Company International is responsible for the Pokémon brand in all regions other than Asia.
+
+
+As the Pokémon series has hit 25 years since its first game was released (Pokémon Red and Blue in 1996), the company has pledged to donate at least $25 million over five years to organisations across the world dedicated to "improving the lives of children and supporting social equity".
+ 
+Read more]]></summary>
+        <author>
+            <name>Liv Ngan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FIFA 23 transforms footballers into Marvel superheroes for Ultimate Team]]></title>
+        <id>https://www.eurogamer.net/fifa-23-transforms-footballers-into-marvel-superheroes-for-ultimate-team</id>
+        <link href="https://www.eurogamer.net/fifa-23-transforms-footballers-into-marvel-superheroes-for-ultimate-team"/>
+        <updated>2022-08-15T15:45:06.000Z</updated>
+        <summary type="html"><![CDATA[Here's an odd crossover: FIFA and Marvel.
+
+
+EA has announced a collaboration with Marvel that reimagines some of the most famous footballers of yesteryear as superheroes.
+
+
+Ex-footballers such as USA stalwart Landon Donovan, legendary Chelsea defender Ricardo Carvalho and all-conquering Man City midfielder Yaya Touré have unique illustrated designs that replace real-world player photos in FIFA 23's Ultimate Team mode.
+ 
+Read more]]></summary>
+        <author>
+            <name>Wesley Yin-Poole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel överger DirectX 9 – ska använda emulering]]></title>
+        <id>https://www.sweclockers.com/artikel/34757</id>
+        <link href="https://www.sweclockers.com/artikel/34757-intel-overger-directx-9-ska-anvanda-emulering"/>
+        <updated>2022-08-15T15:45:02.000Z</updated>
+        <summary type="html"><![CDATA[Med händerna fulla med problem väljer Intel att inte längre stödja det äldre DirectX 9. Istället ska funktionaliteten bibehållas med hjälp av emulering.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Surprise! Anime characters and Hitler dominate Tower of Fantasy's create-a-character library]]></title>
+        <id>https://www.vg247.com/surprise-anime-characters-and-hitler-dominate-tower-of-fantasys-create-a-character-library</id>
+        <link href="https://www.vg247.com/surprise-anime-characters-and-hitler-dominate-tower-of-fantasys-create-a-character-library"/>
+        <updated>2022-08-15T15:36:04.000Z</updated>
+        <summary type="html"><![CDATA[Tower of Fantasy has been popping off in a major way since its launch last week, with the character creation standing out as a major plus for the waves of oncoming gamers exploring the world. Some of the more creatively-minded out there have even uploaded their customised looks to the in-game character lobby, which lets you dress up as well-known characters like Sasuke from Naruto, Jellal from Fairy Tail, and… Adolf Hiter.
+As it stands right now, Hitler (we could be nice and say Charlie Chaplin) is among some of the most popular preset characters in the game. They’re currently ranked 13th among male characters and 41st overall at 5,209 favourites. This puts them above 2B from Nier Automata, Naruto, and Tanjiro from Demon Slayer.
+What this means is that right now you at home — yes, you — can take on the world as arguably the world’s most evil man. I actually saw Hitler out in the wild in Tower of Fantasy. I sat and watched as he struggled to throw a water core at a Chowchow plant for around 3 minutes before storming off and fending off some hyenas. Let me tell you, you’ve not played Tower of Fantasy until you’ve seen the leader of the Third Reich do aerial combos in frozen time.
+ Read more]]></summary>
+        <author>
+            <name>Connor Makar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vikings On Trampolines is the next game from the Owlboy team]]></title>
+        <id>https://www.rockpapershotgun.com/vikings-on-trampolines-is-the-next-game-from-the-owlboy-team</id>
+        <link href="https://www.rockpapershotgun.com/vikings-on-trampolines-is-the-next-game-from-the-owlboy-team"/>
+        <updated>2022-08-15T15:35:45.000Z</updated>
+        <summary type="html"><![CDATA[Vikings aren’t really known for their acrobatic prowess but Owlboy developers D-Pad Studio are limbering up for their next indie game, Vikings On Trampolines. It’s based on an award-winning experimental game the team produced back in 2011. Witness the sheer Nordic bounciness in the trailer below.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>CJ Wheeler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Linux Build Runs Nintendo Switch Games on Arm64 Devices]]></title>
+        <id>3UUgCedzBJai4bWRRtJmJZ</id>
+        <link href="https://www.tomshardware.com/news/horizon-linux-runs-switch-games-on-arm64-computers"/>
+        <updated>2022-08-15T15:16:33.000Z</updated>
+        <summary type="html"><![CDATA[The developer decided to go public with this Switch-fan OS work now that the milestone of the first playable commercial game title has been reached.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[If Gollum and The Rings Of Power isn't enough, there’s a new Lord of the Rings game coming from Weta Workshop]]></title>
         <id>https://www.vg247.com/lord-of-the-rings-new-game-weta-workshop-private-division</id>
@@ -23084,53 +23249,6 @@ Lenovo,
 Infomaniak,
 ITP Prizren
 and Google.]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russ Allbery: Review: Trang]]></title>
-        <id>https://www.eyrie.org/~eagle/reviews/books/trang.html</id>
-        <link href="https://www.eyrie.org/~eagle/reviews/books/trang.html"/>
-        <updated>2022-07-17T04:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Review: Trang, by Mary Sisson
-
-    Series:
-    Trang #1
-  
-Publisher:
-    Mary Sisson
-  
-Copyright:
-    2011
-  
-Printing:
-    December 2013
-  
-ASIN:
-    B004I6DAQ8
-  
-Format:
-    Kindle
-  
-Pages:
-    374
-  
-
-Sector General novels, except
-with a diplomat rather than a doctor.  The aliens are moderately strange
-(not just humans in prosthetic makeup), but are mostly earnest,
-well-meaning, and welcoming.  Trang's security escort is more military
-than he expects, but that becomes a satisfying negotiation rather than an
-ongoing problem.  There is confusion, misunderstandings, and even
-violence, but most of it is sorted out by earnest discussion and attempts
-at mutual understanding.
-
-
-
-This is, in other words, diplomat
-competence
-porn (albeit written by someone who is not a diplomat, so I wouldn'…]]></summary>
         <author>
             <name>Planet Debian</name>
         </author>
