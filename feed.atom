@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-15T21:20:41.256Z</updated>
+    <updated>2022-08-15T22:23:59.026Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
@@ -25,6 +25,16 @@
 Read more]]></summary>
         <author>
             <name>Will Judd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1,900 Signal users’ phone numbers exposed by Twilio phishing]]></title>
+        <id>https://arstechnica.com/?p=1873800</id>
+        <link href="https://arstechnica.com/?p=1873800"/>
+        <updated>2022-08-15T20:59:01.000Z</updated>
+        <summary type="html"><![CDATA[No message, profile, or other data exposed—but SMS remains a weakness.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
         </author>
     </entry>
     <entry>
@@ -1310,6 +1320,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
         <author>
             <name>Explosm.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unreliable Connection]]></title>
+        <id>https://xkcd.com/2659/</id>
+        <link href="https://xkcd.com/2659/"/>
+        <updated>2022-08-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/unreliable_connection.png" title="NEGATIVE REVIEWS MENTION: Unreliable internet. POSITIVE REVIEWS MENTION: Unreliable internet." alt="NEGATIVE REVIEWS MENTION: Unreliable internet. POSITIVE REVIEWS MENTION: Unreliable internet." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>

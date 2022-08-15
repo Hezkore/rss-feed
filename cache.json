@@ -13220,6 +13220,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2659/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/unreliable_connection.png\" title=\"NEGATIVE REVIEWS MENTION: Unreliable internet. POSITIVE REVIEWS MENTION: Unreliable internet.\" alt=\"NEGATIVE REVIEWS MENTION: Unreliable internet. POSITIVE REVIEWS MENTION: Unreliable internet.\" />",
+          "link": "https://xkcd.com/2659/",
+          "publishedOn": "2022-08-15T00:00:00.000Z",
+          "wordCount": 232,
+          "title": "Unreliable Connection",
+          "imageUrl": "https://imgs.xkcd.com/comics/unreliable_connection_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2658/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/coffee_cup_holes.png\" title=\"Theoretical physicist: At the Planck length, uncountably many.\" alt=\"Theoretical physicist: At the Planck length, uncountably many.\" />",
@@ -13316,6 +13326,16 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1873800",
+          "author": "Kevin Purdy",
+          "description": "No message, profile, or other data exposed—but SMS remains a weakness.",
+          "link": "https://arstechnica.com/?p=1873800",
+          "publishedOn": "2022-08-15T20:59:01.000Z",
+          "wordCount": 1372,
+          "title": "1,900 Signal users’ phone numbers exposed by Twilio phishing",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1231496453-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1873686",
           "author": "Jennifer Ouellette",
