@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-15T08:28:20.791Z</updated>
+    <updated>2022-08-15T09:22:31.521Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The first point-release for Ubuntu 22.04 LTS is now available]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/the-first-point-release-for-ubuntu-2204-lts-is-now-available/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/the-first-point-release-for-ubuntu-2204-lts-is-now-available/"/>
+        <updated>2022-08-15T08:58:17.000Z</updated>
+        <summary type="html"><![CDATA[Canonical announced the release of Ubuntu 22.04.1 LTS which brings together an updated download with all the bug fixes, updated apps, driver upgrades and more.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heroic Games Launcher v2.4.0 is out with GOG Cloud Save support]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/heroic-games-launcher-v240-is-out-with-gog-cloud-save-support/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/heroic-games-launcher-v240-is-out-with-gog-cloud-save-support/"/>
+        <updated>2022-08-15T08:43:26.000Z</updated>
+        <summary type="html"><![CDATA[Heroic Games Launcher enables you to download games on Linux and Steam Deck from both the Epic Store and GOG. A big new release is out now with some massive new features.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easy Anti-Cheat not working on Linux? Seems a glibc update broke it]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/easy-anti-cheat-not-working-on-linux-seems-a-glibc-update-broke-it/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/easy-anti-cheat-not-working-on-linux-seems-a-glibc-update-broke-it/"/>
+        <updated>2022-08-15T08:30:21.000Z</updated>
+        <summary type="html"><![CDATA[News has been doing the rounds for a little bit about Easy Anti-Cheat (EAC) suddenly not working after system updates for some users, turns out it's an issue with glibc.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keep your cables tidy. You never know when someone might need some wine]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/15/who_me/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/15/who_me/"/>
+        <updated>2022-08-15T08:30:09.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Brute force and ignorance does not win the day</h4> <p><strong>Who, Me?</strong>  We've all heard the one about the cleaner in the hospital pulling the wrong plug. But managing to push back the schedule by months through sheer brute force? Welcome to <a target="_blank" href="https://www.theregister.com/Tag/Who,%20Me?/">Who, Me?</a>…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xbox One sålde "mindre än hälften så många enheter som Playstation 4"]]></title>
         <id>https://www.fz.se/artikel/291115</id>
@@ -22384,33 +22424,6 @@ at mutual understanding.
 This is, in other words, diplomat
 competence
 porn (albeit written by someone who is not a diplomat, so I wouldn'…]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Petter Reinholdtsen: Automatic LinuxCNC servo PID tuning?]]></title>
-        <id>https://people.skolelinux.org/pere/blog/Automatic_LinuxCNC_servo_PID_tuning_.html</id>
-        <link href="https://people.skolelinux.org/pere/blog/Automatic_LinuxCNC_servo_PID_tuning_.html"/>
-        <updated>2022-07-16T20:30:00.000Z</updated>
-        <summary type="html"><![CDATA[While working on a CNC with servo motors controlled by the
-LinuxCNC
-PID
-controller, I recently had to learn how to tune the collection of values
-that control such mathematical machinery that a PID controller is.  It
-proved to be a lot harder than I hoped, and I still have not succeeded
-in getting the Z PID controller to successfully defy gravity, nor X
-and Y to move accurately and reliably.  But while climbing up this
-rather steep learning curve, I discovered that some motor control
-systems are able to tune their PID controllers.  I got the impression
-from the documentation that LinuxCNC were not.  This proved to be not
-true
-The LinuxCNC
-pid
-component is the recommended PID controller to use.  It uses eight
-constants Pgain, Igain, Dgain,
-bias, FF0, FF1, FF2 and
-FF3 to calculate the output …]]></summary>
         <author>
             <name>Planet Debian</name>
         </author>

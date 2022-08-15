@@ -286,6 +286,36 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/08/the-first-point-release-for-ubuntu-2204-lts-is-now-available/",
+          "author": "Liam Dawe",
+          "description": "Canonical announced the release of Ubuntu 22.04.1 LTS which brings together an updated download with all the bug fixes, updated apps, driver upgrades and more.",
+          "link": "https://www.gamingonlinux.com/2022/08/the-first-point-release-for-ubuntu-2204-lts-is-now-available/",
+          "publishedOn": "2022-08-15T08:58:17.000Z",
+          "wordCount": 1124,
+          "title": "The first point-release for Ubuntu 22.04 LTS is now available",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/191633664id21440gol.jpg"
+        },
+        {
+          "id": "https://www.gamingonlinux.com/2022/08/heroic-games-launcher-v240-is-out-with-gog-cloud-save-support/",
+          "author": "Liam Dawe",
+          "description": "Heroic Games Launcher enables you to download games on Linux and Steam Deck from both the Epic Store and GOG. A big new release is out now with some massive new features.",
+          "link": "https://www.gamingonlinux.com/2022/08/heroic-games-launcher-v240-is-out-with-gog-cloud-save-support/",
+          "publishedOn": "2022-08-15T08:43:26.000Z",
+          "wordCount": 1112,
+          "title": "Heroic Games Launcher v2.4.0 is out with GOG Cloud Save support",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1174289370id21439gol.jpg"
+        },
+        {
+          "id": "https://www.gamingonlinux.com/2022/08/easy-anti-cheat-not-working-on-linux-seems-a-glibc-update-broke-it/",
+          "author": "Liam Dawe",
+          "description": "News has been doing the rounds for a little bit about Easy Anti-Cheat (EAC) suddenly not working after system updates for some users, turns out it's an issue with glibc.",
+          "link": "https://www.gamingonlinux.com/2022/08/easy-anti-cheat-not-working-on-linux-seems-a-glibc-update-broke-it/",
+          "publishedOn": "2022-08-15T08:30:21.000Z",
+          "wordCount": 1111,
+          "title": "Easy Anti-Cheat not working on Linux? Seems a glibc update broke it",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1347625879id21438gol.png"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/08/windows-compatibility-layer-wine-version-715-out-now/",
           "author": "Liam Dawe",
           "description": "Wine is a compatibility layer that aims to let you run games and applications designed for Windows on Linux and a new release version 7.15 is out now.",
@@ -12596,16 +12626,6 @@
           "wordCount": 801,
           "title": "Russ Allbery: Review: Trang",
           "imageUrl": null
-        },
-        {
-          "id": "https://people.skolelinux.org/pere/blog/Automatic_LinuxCNC_servo_PID_tuning_.html",
-          "author": null,
-          "description": "While working on a CNC with servo motors controlled by the\nLinuxCNC\nPID\ncontroller, I recently had to learn how to tune the collection of values\nthat control such mathematical machinery that a PID controller is.  It\nproved to be a lot harder than I hoped, and I still have not succeeded\nin getting the Z PID controller to successfully defy gravity, nor X\nand Y to move accurately and reliably.  But while climbing up this\nrather steep learning curve, I discovered that some motor control\nsystems are able to tune their PID controllers.  I got the impression\nfrom the documentation that LinuxCNC were not.  This proved to be not\ntrue\nThe LinuxCNC\npid\ncomponent is the recommended PID controller to use.  It uses eight\nconstants Pgain, Igain, Dgain,\nbias, FF0, FF1, FF2 and\nFF3 to calculate the output …",
-          "link": "https://people.skolelinux.org/pere/blog/Automatic_LinuxCNC_servo_PID_tuning_.html",
-          "publishedOn": "2022-07-16T20:30:00.000Z",
-          "wordCount": 2074,
-          "title": "Petter Reinholdtsen: Automatic LinuxCNC servo PID tuning?",
-          "imageUrl": null
         }
       ]
     },
@@ -17453,6 +17473,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/15/who_me/",
+          "author": null,
+          "description": "<h4>Brute force and ignorance does not win the day</h4> <p><strong>Who, Me?</strong>  We've all heard the one about the cleaner in the hospital pulling the wrong plug. But managing to push back the schedule by months through sheer brute force? Welcome to <a target=\"_blank\" href=\"https://www.theregister.com/Tag/Who,%20Me?/\">Who, Me?</a>…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/15/who_me/",
+          "publishedOn": "2022-08-15T08:30:09.000Z",
+          "wordCount": 1288,
+          "title": "Keep your cables tidy. You never know when someone might need some wine",
+          "imageUrl": "https://regmedia.co.uk/2022/02/16/shutterstock_data_center_cabling.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/15/cac_publishes_big_tech_algorithms/",
           "author": null,
