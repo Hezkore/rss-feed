@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-15T18:29:14.710Z</updated>
+    <updated>2022-08-15T19:18:23.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Qualcomm Posts "QAIC" DRM Accelerator Driver For Linux]]></title>
+        <id>https://www.phoronix.com/news/Qualcomm-QAIC-Cloud-Accelerator</id>
+        <link href="https://www.phoronix.com/news/Qualcomm-QAIC-Cloud-Accelerator"/>
+        <updated>2022-08-15T19:00:31.000Z</updated>
+        <summary type="html"><![CDATA[After Qualcomm announced their Cloud AI 100 Accelerator back in 2019, in 2020 during the early days of the pandemic they posted a Linux driver for this accelerator. That driver didn't get picked up for the mainline Linux kernel and two years later there still is little fanfare around the Qualcomm AI Cloud Accelerator hardware. However, now they have posted a new Linux driver that goes the DRM driver route...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Transfer a Windows 10 or 11 License to Another PC]]></title>
+        <id>Vd5jasVgLwCDXWufCjUVVL</id>
+        <link href="https://www.tomshardware.com/how-to/transfer-windows-license-to-new-pc"/>
+        <updated>2022-08-15T19:00:21.000Z</updated>
+        <summary type="html"><![CDATA[If you're building a new PC, you may be able to use an old Windows key for its OS.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel turns to code translation to run old DirectX9 games on its newest GPUs]]></title>
+        <id>https://arstechnica.com/?p=1873650</id>
+        <link href="https://arstechnica.com/?p=1873650"/>
+        <updated>2022-08-15T18:53:41.000Z</updated>
+        <summary type="html"><![CDATA[DirectX9 is still in relatively wide use, given that it's 20 years old.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GNOME Celebrates 25th Anniversary with Beta Release of Upcoming GNOME 43 Desktop]]></title>
         <id>https://9to5linux.com/?p=13687</id>
@@ -18,6 +48,16 @@ The post GNOME Celebrates 25th Anniversary with Beta Release of Upcoming GNOME 4
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[No, seriously, NASA’s Space Launch System is ready to take flight]]></title>
+        <id>https://arstechnica.com/?p=1873724</id>
+        <link href="https://arstechnica.com/?p=1873724"/>
+        <updated>2022-08-15T18:13:46.000Z</updated>
+        <summary type="html"><![CDATA[The rocket may launch just two weeks from now.]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Artemis I will get 3 launch attempts after termination system extension agreed]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/15/artemis_fts/</id>
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/15/artemis_fts/"/>
@@ -25,6 +65,16 @@ The post GNOME Celebrates 25th Anniversary with Beta Release of Upcoming GNOME 4
         <summary type="html"><![CDATA[<h4>Rolling back to the pad tomorrow, the SLS might finally take flight in August</h4> <p>NASA's huge Space Launch System (SLS) will get its three launch attempts in the coming weeks after officials approved an extension to validation of the Flight Termination System from 20 to 25 days.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[California to consider keeping last nuclear plant open]]></title>
+        <id>https://arstechnica.com/?p=1873737</id>
+        <link href="https://arstechnica.com/?p=1873737"/>
+        <updated>2022-08-15T17:57:36.000Z</updated>
+        <summary type="html"><![CDATA[Move would help it meet its carbon emissions plans.]]></summary>
+        <author>
+            <name>John Timmer</name>
         </author>
     </entry>
     <entry>
@@ -23346,52 +23396,6 @@ Any ideas?]]></summary>
         <summary type="html"><![CDATA[At the end of their lives, sunlike stars metamorphose into glowing shells of gas.]]></summary>
         <author>
             <name>Knowable Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bits from Debian: DebConf22 starts today in Prizren]]></title>
-        <id>tag:bits.debian.org,2022-07-17:/2022/07/debconf22-starts.html</id>
-        <link href="https://bits.debian.org/2022/07/debconf22-starts.html"/>
-        <updated>2022-07-17T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DebConf22, the 23rd annual
-Debian Conference, is taking place in Prizren, Kosovo
-from July 17th to 24th, 2022.
-Debian contributors from all over the world have come together at
-Innovation and Training Park (ITP)
-in Prizren, Kosovo, to participate and work in a conference exclusively
-run by volunteers.
-Today the main conference starts with over 270 attendants expected
-and 82 activities scheduled,
-including 45-minute and 20-minute talks and team meetings ("BoF"),
-workshops, and a job fair, as well as a variety of other events.
-The full schedule at
-https://debconf2.debconf.org/schedule/
-is updated every day, including activities planned ad-hoc
-by attendees during the whole conference.
-If you want to engage remotely, you can follow the
-video streaming available from the DebConf22 website
-of the events happening in the three talk rooms:
-Drini, Lumbardhi and Ereniku.
-Or you can join the conversation about what is happening
-in the talk rooms:
-  #debconf-drini,
-  #debconf-lumbardhi and
-  #debconf-ereniku
-(all those channels in the OFTC IRC network).
-You can also follow the live coverage of news about DebConf22 on
-https://micronews.debian.org or the @debian
-profile in your favorite social network.
-DebConf is committed to a safe and welcoming environment for all participants.
-See the web page about the Code of Conduct in DebConf22's website
-for more details on this.
-Debian thanks the commitment of numerous sponsors
-to support DebConf22, particularly our Platinum Sponsors:
-Lenovo,
-Infomaniak,
-ITP Prizren
-and Google.]]></summary>
-        <author>
-            <name>Planet Debian</name>
         </author>
     </entry>
 </feed>

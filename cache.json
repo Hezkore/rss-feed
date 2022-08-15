@@ -6547,6 +6547,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Qualcomm-QAIC-Cloud-Accelerator",
+          "author": null,
+          "description": "After Qualcomm announced their Cloud AI 100 Accelerator back in 2019, in 2020 during the early days of the pandemic they posted a Linux driver for this accelerator. That driver didn't get picked up for the mainline Linux kernel and two years later there still is little fanfare around the Qualcomm AI Cloud Accelerator hardware. However, now they have posted a new Linux driver that goes the DRM driver route...",
+          "link": "https://www.phoronix.com/news/Qualcomm-QAIC-Cloud-Accelerator",
+          "publishedOn": "2022-08-15T19:00:31.000Z",
+          "wordCount": 1508,
+          "title": "Qualcomm Posts \"QAIC\" DRM Accelerator Driver For Linux",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Android-13-AOSP",
           "author": null,
           "description": "Google announced today that the Android 13 sources have been published to the Android Open-Source Project as part of officially releasing this newest version of Android...",
@@ -10131,6 +10141,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "Vd5jasVgLwCDXWufCjUVVL",
+          "author": null,
+          "description": "If you're building a new PC, you may be able to use an old Windows key for its OS.",
+          "link": "https://www.tomshardware.com/how-to/transfer-windows-license-to-new-pc",
+          "publishedOn": "2022-08-15T19:00:21.000Z",
+          "wordCount": 18731,
+          "title": "How to Transfer a Windows 10 or 11 License to Another PC",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/7fU77C5fg3fB7S37oHfC5a.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/7fU77C5fg3fB7S37oHfC5a.png"
+        },
+        {
           "id": "w65nkroymKkiJ2Es2J5VD6",
           "author": null,
           "description": "A Linux expert has reported that Alder Lake laptops sporting the MIPI IPU6 are suffering from Linux compatibility issues surrounding proprietary drivers. Full open source drivers are a long way away.",
@@ -13166,16 +13191,6 @@
           "wordCount": 2162,
           "title": "Martin-&#201;ric Racine: Trying to chainload iPXE on old Etherboot hardware",
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAmZ-7zHHydvSJ_lOz9CaKNz0zonuRNVIFL-TZzq-jcHHuheMDxP9lCp55UPDaywehR-OsWN6wWuiHqtbXKOT1VI5VQO72Y3s06Gh-gR_g9ldvHhjHubFY4-8y_0UaVavASympve6aA9fOKoWEDHUIQJphdXwKkLqzV-KkTjSiNWHmVHcaPQ/w1200-h630-p-k-no-nu/IMG_20220717_210749.jpg"
-        },
-        {
-          "id": "tag:bits.debian.org,2022-07-17:/2022/07/debconf22-starts.html",
-          "author": null,
-          "description": "DebConf22, the 23rd annual\nDebian Conference, is taking place in Prizren, Kosovo\nfrom July 17th to 24th, 2022.\nDebian contributors from all over the world have come together at\nInnovation and Training Park (ITP)\nin Prizren, Kosovo, to participate and work in a conference exclusively\nrun by volunteers.\nToday the main conference starts with over 270 attendants expected\nand 82 activities scheduled,\nincluding 45-minute and 20-minute talks and team meetings (\"BoF\"),\nworkshops, and a job fair, as well as a variety of other events.\nThe full schedule at\nhttps://debconf2.debconf.org/schedule/\nis updated every day, including activities planned ad-hoc\nby attendees during the whole conference.\nIf you want to engage remotely, you can follow the\nvideo streaming available from the DebConf22 website\nof the events happening in the three talk rooms:\nDrini, Lumbardhi and Ereniku.\nOr you can join the conversation about what is happening\nin the talk rooms:\n  #debconf-drini,\n  #debconf-lumbardhi and\n  #debconf-ereniku\n(all those channels in the OFTC IRC network).\nYou can also follow the live coverage of news about DebConf22 on\nhttps://micronews.debian.org or the @debian\nprofile in your favorite social network.\nDebConf is committed to a safe and welcoming environment for all participants.\nSee the web page about the Code of Conduct in DebConf22's website\nfor more details on this.\nDebian thanks the commitment of numerous sponsors\nto support DebConf22, particularly our Platinum Sponsors:\nLenovo,\nInfomaniak,\nITP Prizren\nand Google.",
-          "link": "https://bits.debian.org/2022/07/debconf22-starts.html",
-          "publishedOn": "2022-07-17T07:00:00.000Z",
-          "wordCount": 530,
-          "title": "Bits from Debian: DebConf22 starts today in Prizren",
-          "imageUrl": "https://bits.debian.org//images/debconf22-banner-700px.png"
         }
       ]
     },
@@ -13281,6 +13296,36 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1873650",
+          "author": "Andrew Cunningham",
+          "description": "DirectX9 is still in relatively wide use, given that it's 20 years old.",
+          "link": "https://arstechnica.com/?p=1873650",
+          "publishedOn": "2022-08-15T18:53:41.000Z",
+          "wordCount": 1533,
+          "title": "Intel turns to code translation to run old DirectX9 games on its newest GPUs",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/tf2-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1873724",
+          "author": "Eric Berger",
+          "description": "The rocket may launch just two weeks from now.",
+          "link": "https://arstechnica.com/?p=1873724",
+          "publishedOn": "2022-08-15T18:13:46.000Z",
+          "wordCount": 1603,
+          "title": "No, seriously, NASA’s Space Launch System is ready to take flight",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/SLS-Rollout-June-6-2022-9804-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1873737",
+          "author": "John Timmer",
+          "description": "Move would help it meet its carbon emissions plans.",
+          "link": "https://arstechnica.com/?p=1873737",
+          "publishedOn": "2022-08-15T17:57:36.000Z",
+          "wordCount": 1771,
+          "title": "California to consider keeping last nuclear plant open",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/image-1-760x380.jpeg"
+        },
         {
           "id": "https://arstechnica.com/?p=1873695",
           "author": "Jonathan M. Gitlin",
