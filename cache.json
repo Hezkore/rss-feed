@@ -12,6 +12,16 @@
       "siteUrl": "https://itsfoss.com",
       "articles": [
         {
+          "id": "http://itsfoss.com/?p=87540",
+          "author": "Abhishek Prakash",
+          "description": "The apt-key is being deprecated and your system knows that. But do you know what you should be doing for getting packages from external repositories?",
+          "link": "https://itsfoss.com/apt-key-deprecated/",
+          "publishedOn": "2022-08-15T15:06:10.000Z",
+          "wordCount": 8062,
+          "title": "Handling “apt-key is deprecated. Manage keyring files in trusted.gpg.d instead” in Ubuntu Linux",
+          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/08/apt-key-deprecated.png"
+        },
+        {
           "id": "https://itsfoss.com/?p=100697",
           "author": "Anuj Sharma",
           "description": "Audacity is an incredibly useful tool for quick audio edits. Here's how you can install it on Linux and use it for audio recording and background noise removal.",
@@ -1302,6 +1312,26 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/df-direct-weekly-talks-spider-man-pc-reviewing-and-pc-gaming-in-an-energy-crisis",
+          "author": "Richard Leadbetter",
+          "description": "Welcome the latest edition of DF Direct Weekly - Digital Foundry's regular show on the latest gaming and technology news. Perhaps not surprisingly, the lion's share of our news discussion this week concerns the release of Marvel's Spider-Man Remastered on PC. We've discussed the various trials we had in delivering our coverage - not least the arrival of a major (and welcome!) patch on embargo day. However, in this week's show, we talk about our discussions with Nixxes, remaining performance hurdles and the title's remarkable CPU burden, especially with ray tracing enabled. \nHowever, we also spend a fair amount of time talking about the rising cost of gaming - or more specifically, the huge increases in energy costs. In the UK at least, we're looking at a potentially gigantic and disastrous increase in the cost of electricity in October - and the recent news on next-gen GPUs raising their TDPs has got a lot of people concerned. First of all, I do think that the biggest TDP increases will be found on the more expensive GPUs, but ultimately, perhaps we should be looking at the energy savings brought about by frame-rate limiters.\nAs we discuss in this week's show, you never really fully utilise a CPU - you buy a more expensive processor to mitigate against the worst case scenarios... so why not adopt the same strategy with a GPU too? I'm perfectly happy to play most triple-A fare at 90-100fps, effectively a 10-11ms render time per frame. Beyond that, my perception barely sees much difference - but the energy cost in running a GPU unlocked is significantly higher. So setting an arbitrary frame-rate cap that sits at the sweet spot of the game you're playing seems like a good idea to me, the idea being that your extra GPU performance is only deployed where needed in the service of a consistent experience. It'll be interesting to see if Nvidia, AMD or Intel consider some kind of energy efficiency mode - but of course, using DLSS or FSR 2.0 is also a big energy saver too.\n Read more",
+          "link": "https://www.eurogamer.net/df-direct-weekly-talks-spider-man-pc-reviewing-and-pc-gaming-in-an-energy-crisis",
+          "publishedOn": "2022-08-15T14:57:00.000Z",
+          "wordCount": 5028,
+          "title": "DF Direct Weekly talks Spider-Man PC reviewing and PC gaming in an energy crisis",
+          "imageUrl": "https://assets.reedpopcdn.com/Direct-75-Site.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Direct-75-Site.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/squirrel-with-a-gun-promises-a-squirrel-with-a-gun",
+          "author": "Liv Ngan",
+          "description": "If there's anything that games have taught us over the past decade, it's that people want to play as animals. More specifically, we want to play as annoying little critters and get away with all sorts of things that real human life does not look kindly upon.\r\n\n\r\nThankfully, indie developers have been paying attention to the success seen by previous games like Goat Simulator and Untitled Goose Game. \r\n\n\r\nAssignment understood. And I say that with confidence, and I'm about to show you why.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/squirrel-with-a-gun-promises-a-squirrel-with-a-gun",
+          "publishedOn": "2022-08-15T14:47:20.000Z",
+          "wordCount": 4981,
+          "title": "Squirrel with a Gun promises a squirrel with a gun",
+          "imageUrl": "https://assets.reedpopcdn.com/squirrel-with-a-gun.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/squirrel-with-a-gun.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/new-god-of-war-ragnarok-trailer-will-get-you-up-to-speed-on-the-story-so-far",
           "author": "Victoria Kennedy",
@@ -4439,6 +4469,26 @@
       "feedUrl": "https://www.vg247.com/feed",
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
+        {
+          "id": "https://www.vg247.com/lord-of-the-rings-new-game-weta-workshop-private-division",
+          "author": "Oisin Kuhnke",
+          "description": "Lord of the Rings fans should be happy, as Wētā Workshop is officially working on a new game set in the Middle-earth universe.\nPrivate Division announced the news today (August 15) and will be on publishing duties for the as-of-yet unnamed title. Last year, a job ad for a producer role at Wētā Workshop was advertised, which was supposed to be for a new project based on a \"major worldwide IP.\" It seems like that IP is in fact Lord of the Rings, which makes a lot of sense considering the studio literally worked on the effects of the original films.\nThe press release noted that the game is still in \"early development,\" and doesn't currently have a release date, but is apparently expected to launch during Take Two's Fiscal year 2024. \n Read more",
+          "link": "https://www.vg247.com/lord-of-the-rings-new-game-weta-workshop-private-division",
+          "publishedOn": "2022-08-15T15:16:28.000Z",
+          "wordCount": 4736,
+          "title": "If Gollum and The Rings Of Power isn't enough, there’s a new Lord of the Rings game coming from Weta Workshop",
+          "imageUrl": "https://asset.vg247.com/lord-of-the-rings-weta-workshop-private-division.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/lord-of-the-rings-weta-workshop-private-division.jpg"
+        },
+        {
+          "id": "https://www.vg247.com/spider-man-pc-files-reveal-that-co-op-and-pvp-were-once-being-developed",
+          "author": "Kelsey Raynor",
+          "description": "One curious player has dived into the PC files for Spider-Man Remastered, and sure enough, they found something interesting.\nThe interesting bit being that Spider-Man very well could've featured co-op and PvP elements in an alternate universe. Twitter user, DniweTamp, shared screenshots of what they'd found in the game files, and they reveal that co-op and PvP were once in development for the superhero title.\nThe screenshots have also since been checked and verified by VGC. The information comes directly from the games executable files and shows that multiplayer mode would've included callouts to 'the Superior Spider Man' alongside a winner message. It also appears the two characters would've stepped into the shoes of either Miles Morales or Peter Parker for the rumble.\n Read more",
+          "link": "https://www.vg247.com/spider-man-pc-files-reveal-that-co-op-and-pvp-were-once-being-developed",
+          "publishedOn": "2022-08-15T14:38:33.000Z",
+          "wordCount": 4687,
+          "title": "Spider-Man PC files reveal that co-op and PvP were once being developed",
+          "imageUrl": "https://asset.vg247.com/spider-man-pc.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/spider-man-pc.jpg"
+        },
         {
           "id": "https://www.vg247.com/god-of-war-story-recap",
           "author": "Oisin Kuhnke",
@@ -7793,6 +7843,26 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/doom-can-now-run-on-a-jailbroken-tractor",
+          "author": "CJ Wheeler",
+          "description": "The greatest legacy left by humanity for alien archaeologists to find in the aeons to come will be millions of random devices running id Software’s pioneering FPS Doom. The latest such piece of kit is the display from a John Deere tractor, jailbroken and fragging away at demons at this past weekend’s DEF CON hacking conference in Las Vegas. The tractor computer was hacked by Sick Codes, who’s trying to draw attention to farming equipment manufacturers who lock down their products to prevent owners from repairing them.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/doom-can-now-run-on-a-jailbroken-tractor",
+          "publishedOn": "2022-08-15T14:35:15.000Z",
+          "wordCount": 4854,
+          "title": "Doom can now run on a jailbroken tractor",
+          "imageUrl": "https://assets2.rockpapershotgun.com/Farm-Doom.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Farm-Doom.jpg"
+        },
+        {
+          "id": "https://www.rockpapershotgun.com/mindhack-preview-bitsummit",
+          "author": "Alicia Haddick",
+          "description": "Mindhack, an upcoming visual novel adventure, opens in a jail cell, as a criminal named Unid is brought before you by a pair of armed security guards. Your reputation precedes you: before the accused can even sit down, they call out your unusual ability to hack into the minds of people to ‘patch’ their flaws, turning their nefarious intentions into fields of flowers. But it’s ok, isn’t it? After all, the person in front of you has committed a crime and must be rehabilitated; reckless driving, hit and run, and arson.\r\n\n\r\nSo, you get to work. Talking to Unid allows you to build a rapport and understand their motivations. You learn about their past. They talk of their difficult childhood, pets, a lack of support - broken systems that left them behind and put them on their current path. It doesn’t matter. You have a job to do. And now, with that bit of knowledge, you’ve found the 'bug' in their programming. After initiating a hack on their brain, you eradicate this flaw, forcefully transforming their mind into a paradise of purity. Unid will never commit another crime again. Have you done the right thing?\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/mindhack-preview-bitsummit",
+          "publishedOn": "2022-08-15T14:30:00.000Z",
+          "wordCount": 5170,
+          "title": "In Mindhack you can literally change criminal minds. But should you?",
+          "imageUrl": "https://assets2.rockpapershotgun.com/mindhack-demo-1.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/mindhack-demo-1.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/screenshot-saturday-mondays-swashbuckling-chandelier-murder",
           "author": "Alice O'Connor",
@@ -14624,6 +14694,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291120",
+          "author": null,
+          "description": "Antalet samtidiga spelare var något högre för God of War.",
+          "link": "https://www.fz.se/artikel/291120-spider-man-ar-playstations-nast-storsta-steam-slapp",
+          "publishedOn": "2022-08-15T15:06:00.000Z",
+          "wordCount": 1750,
+          "title": "Spider-Man är Playstations näst största Steam-släpp",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291120"
+        },
+        {
           "id": "https://www.fz.se/artikel/291119",
           "author": null,
           "description": "I tisdagens FZ Play-stream.",
@@ -17908,6 +17988,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/15/bitlocker_microsoft/",
+          "author": null,
+          "description": "<h4>Have your BitLocker key handy when updating, but maybe not on a Post-it stuck to the screen, OK?</h4> <p>Windows users are reporting BitLocker problems after installing last week's security update for Secure Boot.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/15/bitlocker_microsoft/",
+          "publishedOn": "2022-08-15T15:04:14.000Z",
+          "wordCount": 1285,
+          "title": "Microsoft's Secure Boot fix sends some PCs into BitLocker Recovery",
+          "imageUrl": "https://regmedia.co.uk/2022/08/15/bitlocker_redacted.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/15/us_chips_act_funding/",
           "author": null,
