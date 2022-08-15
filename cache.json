@@ -286,6 +286,46 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/08/avorion-into-the-rift-is-an-expansive-dlc-out-now-for-this-great-space-sim/",
+          "author": "Liam Dawe",
+          "description": "Probably one of the best spaceship building sandbox games around, Avorion has just grown tremendously with the Into The Rift DLC out now.",
+          "link": "https://www.gamingonlinux.com/2022/08/avorion-into-the-rift-is-an-expansive-dlc-out-now-for-this-great-space-sim/",
+          "publishedOn": "2022-08-15T10:26:02.000Z",
+          "wordCount": 1200,
+          "title": "Avorion - Into The Rift is an expansive DLC out now for this great space sim",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2141533647id21444gol.jpg"
+        },
+        {
+          "id": "https://www.gamingonlinux.com/2022/08/tim-burton-inspired-adventure-game-whateverland-launches-september-15/",
+          "author": "Liam Dawe",
+          "description": "Following from the successful Kickstarter campaign in 2020, Caligari Games have announced their Burton-style point and click adventure will release on September 15.",
+          "link": "https://www.gamingonlinux.com/2022/08/tim-burton-inspired-adventure-game-whateverland-launches-september-15/",
+          "publishedOn": "2022-08-15T09:53:57.000Z",
+          "wordCount": 1200,
+          "title": "Tim Burton inspired adventure game Whateverland launches September 15",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2026766925id21443gol.jpg"
+        },
+        {
+          "id": "https://www.gamingonlinux.com/2022/08/kitsune-zero-prequel-to-upcoming-lgbtq-platformer-kitsune-tails-releases-september-12/",
+          "author": "Liam Dawe",
+          "description": "Kitsune Zero is being releases on September 12 as a paid DLC for the free platformer Super Bernie World. This will act as a prequel to the upcoming standalone game Kitsune Tails.",
+          "link": "https://www.gamingonlinux.com/2022/08/kitsune-zero-prequel-to-upcoming-lgbtq-platformer-kitsune-tails-releases-september-12/",
+          "publishedOn": "2022-08-15T09:46:18.000Z",
+          "wordCount": 1147,
+          "title": "Kitsune Zero, prequel to upcoming LGBTQ+ platformer Kitsune Tails, releases September 12",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/584787040id21442gol.jpg"
+        },
+        {
+          "id": "https://www.gamingonlinux.com/2022/08/wine-compatibly-layer-manager-bottles-adds-vkbasalt-improvements-vmtouch-cache/",
+          "author": "Liam Dawe",
+          "description": "Bottles is easily the most simple way to manage installing and running Windows games and apps on Linux outside of Steam. A new release is out now with plenty of useful tweaks.",
+          "link": "https://www.gamingonlinux.com/2022/08/wine-compatibly-layer-manager-bottles-adds-vkbasalt-improvements-vmtouch-cache/",
+          "publishedOn": "2022-08-15T09:22:49.000Z",
+          "wordCount": 1129,
+          "title": "Wine compatibly layer manager Bottles adds vkBasalt improvements, vmtouch cache",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2501179id21441gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/08/the-first-point-release-for-ubuntu-2204-lts-is-now-available/",
           "author": "Liam Dawe",
           "description": "Canonical announced the release of Ubuntu 22.04.1 LTS which brings together an updated download with all the bug fixes, updated apps, driver upgrades and more.",
@@ -1252,6 +1292,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/spider-man-remastered-second-biggest-launch-for-playstation-studios-on-pc",
+          "author": "Ed Nightingale",
+          "description": "Marvel's Spider-Man Remastered is off to a great start on PC, but Cult of the Lamb isn't far behind.\r\n\n\r\nInsomniac's PlayStation exclusive released last week on PC and it already has the second highest concurrent peak on Steam for PlayStation Studios, behind God of War. \r\n\n\r\nIts all-time peak is 66,436 players, behind God of War's 73,529, making it the second biggest launch for the studio on PC. It's currently the number one top selling game on Steam.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/spider-man-remastered-second-biggest-launch-for-playstation-studios-on-pc",
+          "publishedOn": "2022-08-15T10:03:23.000Z",
+          "wordCount": 4534,
+          "title": "Spider-Man Remastered second biggest launch for PlayStation Studios on PC",
+          "imageUrl": "https://assets.reedpopcdn.com/spider-man_dn7Jqot.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/spider-man_dn7Jqot.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/ps4-sold-twice-as-many-units-as-xbox-one-new-court-papers-show",
           "author": "Vikki Blake",
@@ -6257,6 +6307,36 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/AMD-P-State-Update-But-Miss-6.0",
+          "author": null,
+          "description": "AMD today sent out revised patches for improving the AMD P-State CPU frequency scaling Linux driver that aims to provide better power efficiency than the generic ACPI CPUFreq driver that has long been relied upon for AMD processors...",
+          "link": "https://www.phoronix.com/news/AMD-P-State-Update-But-Miss-6.0",
+          "publishedOn": "2022-08-15T10:04:10.000Z",
+          "wordCount": 1458,
+          "title": "AMD P-State Patches Updated But Miss The Linux 6.0 Merge Window",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Blender-3.3-Intel-oneAPI-Primed",
+          "author": null,
+          "description": "Less than one month away is the release of Blender 3.3 and it looks like Intel's initial oneAPI GPU acceleration is ready and in decent shape for Windows and Linux...",
+          "link": "https://www.phoronix.com/news/Blender-3.3-Intel-oneAPI-Primed",
+          "publishedOn": "2022-08-15T09:47:22.000Z",
+          "wordCount": 1382,
+          "title": "Intel's oneAPI Support Appears To Be In Good Shape For Blender 3.3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/MGLRU-v14-Released",
+          "author": null,
+          "description": "While Linux 6.0 will bring a lot of shiny new features, Multi-Gen LRU (MGLRU) is one of the anticipated changes that isn't going to land now until Linux 6.1. But in the interim, MGLRU v14 was posted today that re-bases the code against 6.0-rc1 to help facilitate more testing of this kernel change that primarily helps Linux systems under memory pressure...",
+          "link": "https://www.phoronix.com/news/MGLRU-v14-Released",
+          "publishedOn": "2022-08-15T09:28:05.000Z",
+          "wordCount": 1406,
+          "title": "MGLRU v14 Released For Improving Linux Low-Memory Performance",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-6.0-rc1-Released",
           "author": null,
           "description": "After the two week long merge window, Linus Torvalds this afternoon released the first release candidate of Linux 6.0. Over the next roughly two months the Linux 6.0 kernel will stabilize but already from my early testing on various systems it is in nice shape and the features and performance are looking great...",
@@ -7563,6 +7643,16 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/dc-antihero-black-adam-and-gremlins-bad-boy-stripe-are-coming-to-multiversus",
+          "author": "CJ Wheeler",
+          "description": "Franchise mash-up brawler MultiVersus slams into season one today, despite only recently being postponed indefinitely. Although nothing has been announced yet, it appears that DC Comics supervillain Black Adam and Gremlins antagonist Stripe are new characters being teased for the game’s roster of fighters. Players are sharing screenshots and footage of ads for MultiVersus that show off the gruesome twosome.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/dc-antihero-black-adam-and-gremlins-bad-boy-stripe-are-coming-to-multiversus",
+          "publishedOn": "2022-08-15T10:16:42.000Z",
+          "wordCount": 4927,
+          "title": "DC antihero Black Adam and Gremlins bad boy Stripe are coming to MultiVersus",
+          "imageUrl": "https://assets2.rockpapershotgun.com/multiversus-a.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/multiversus-a.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/the-sunday-papers-650",
           "author": "Ed Thorn",
@@ -14259,6 +14349,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291116",
+          "author": null,
+          "description": "Skräck, gotik och mycket annat.",
+          "link": "https://www.fz.se/artikel/291116-se-alla-trailers-fran-thq-digital-showcase",
+          "publishedOn": "2022-08-15T09:29:00.000Z",
+          "wordCount": 2740,
+          "title": "Se alla trailers från THQ Digital Showcase",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291116"
+        },
+        {
           "id": "https://www.fz.se/artikel/291115",
           "author": null,
           "description": "Domstolsdokument bekräftar.",
@@ -15936,6 +16036,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34755",
+          "author": null,
+          "description": "LG Display vill göra OLED-paneler tillgängliga i ännu fler storlekar och planerar att visa upp en OLED på 20 tum innan årets slut.",
+          "link": "https://www.sweclockers.com/artikel/34755-lg-display-vill-krympa-oled-monitor-till-20-tum",
+          "publishedOn": "2022-08-15T09:26:50.000Z",
+          "wordCount": 1676,
+          "title": "LG Display vill krympa OLED-monitor till 20 tum",
+          "imageUrl": "https://www.sweclockers.com/artikel/34755/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34639",
           "author": null,
           "description": "SweClockers har talat! Sommarens tjusigaste bygge har röstats fram och det blev Vertikal av UnknownBum som kammade hem segern.",
@@ -17473,6 +17583,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/15/nuclear_power_climate_change/",
+          "author": null,
+          "description": "<h4>Of all the non-carbon energy options we have, this is the only one which can keep the lights on</h4> <p><strong>Opinion</strong>  What's GIF got to do with nuclear reactors? Commercial development of atomic power plants had largely stopped by the 1980s; even so you could do better than Deluxe Paint for your blueprints. Yet the connection is much more modern, to do with projects like the revival of <a target=\"_blank\" href=\"https://www.theregister.com/2022/08/11/nuclear_molten_salt/\">molten salt tech</a> as a new hope for zero-emission power.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/15/nuclear_power_climate_change/",
+          "publishedOn": "2022-08-15T09:32:12.000Z",
+          "wordCount": 1683,
+          "title": "Nuclear power is the climate superhero too nervous to wear its cape",
+          "imageUrl": "https://regmedia.co.uk/2015/11/27/kalinin_nuclear_power_plant.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/15/who_me/",
           "author": null,
