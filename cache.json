@@ -316,6 +316,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/08/couch-gaming-linux-distro-chimeraos-34-released/",
+          "author": "Liam Dawe",
+          "description": "ChimeraOS continues to improve the couch-gaming experience for Linux with ChimeraOS 34 out now and there's quite a number of improvements and fixes.",
+          "link": "https://www.gamingonlinux.com/2022/08/couch-gaming-linux-distro-chimeraos-34-released/",
+          "publishedOn": "2022-08-16T09:24:30.000Z",
+          "wordCount": 1108,
+          "title": "Couch-gaming Linux distro ChimeraOS 34 released",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1954896756id21449gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/08/steam-finally-gets-easier-to-grab-free-stuff/",
           "author": "Liam Dawe",
           "description": "It seems Valve has made it easier to claim free stuff on the Steam store, so you no longer need to quickly try to install something free and back out of it to claim it.",
@@ -1362,6 +1372,36 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/steamvr-updates-notes-include-literal-bugs",
+          "author": "Liv Ngan",
+          "description": "Yesterday, Valve updated its SteamVR software, for use on VR headsets, and had some unusual content in the update notes.\r\n\n\r\nIn the full list, the usual gamut of notes that you'd expect like bug fixes and quality of life improvements are detailed.\r\n\n\r\nBut above all that, there's a literal bug fix. For all you insect lovers.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/steamvr-updates-notes-include-literal-bugs",
+          "publishedOn": "2022-08-16T10:12:54.000Z",
+          "wordCount": 4380,
+          "title": "SteamVR updates notes include literal bugs",
+          "imageUrl": "https://assets.reedpopcdn.com/steamvr.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/steamvr.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/the-fortnite-x-dragon-ball-crossover-is-now-live",
+          "author": "Ed Nightingale",
+          "description": "As teased last week, the Dragon Ball and Fortnite crossover is now live.\r\n\r\n\n\r\nFour iconic characters are available in the game - Son Goku, Vegeta, Bulma, and Beerus - as well as a number of new quests and modes.\r\n\n\r\nPlayers will now find a new Power Unleashed tab containing special limited-time quests and rewards that will track your rising Power Level. There are seven sets of quests and with each completed, players will earn a Dragon Ball - collect all seven to earn the Shenron Glider.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/the-fortnite-x-dragon-ball-crossover-is-now-live",
+          "publishedOn": "2022-08-16T10:02:08.000Z",
+          "wordCount": 4481,
+          "title": "The Fortnite x Dragon Ball crossover is now live",
+          "imageUrl": "https://assets.reedpopcdn.com/FN-x-DB---Screenshot_10.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/FN-x-DB---Screenshot_10.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/wave-race-64-splashes-on-to-nintendo-switch-online-this-week",
+          "author": "Ed Nightingale",
+          "description": "Wave Race 64 is the next N64 game to be added to Nintendo Switch Online.\r\n\n\r\nThe game will be available for Expansion Pack members from 19th August.\r\n\n\r\nReleased in 1996, the jet ski racer was a launch window release for the console and was praised for its realistic water physics. And yes, you can ride a dolphin.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/wave-race-64-splashes-on-to-nintendo-switch-online-this-week",
+          "publishedOn": "2022-08-16T09:36:58.000Z",
+          "wordCount": 4337,
+          "title": "Wave Race 64 splashes on to Nintendo Switch Online this week",
+          "imageUrl": "https://assets.reedpopcdn.com/Wave-Race%E2%84%A2-64---Nintendo-64---Nintendo-Switch-Online-0-44-screenshot-(1).png/BROK/thumbnail/1600x900/format/jpg/quality/80/Wave-Race%E2%84%A2-64---Nintendo-64---Nintendo-Switch-Online-0-44-screenshot-(1).png"
+        },
         {
           "id": "https://www.eurogamer.net/rocket-league-theres-still-grip-on-these-tyres",
           "author": "Henry Stockdale",
@@ -6607,6 +6647,36 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-6.0-RT-Patches",
+          "author": null,
+          "description": "Following Sunday's release of Linux 6.0-rc1, yesterday saw the release of 6.0-rc1-rt1 as the set of patches for providing real-time kernel support atop the upstream code-base. There is just roughly 50 patches to go until the PREEMPT_RT functionality is mainlined!..",
+          "link": "https://www.phoronix.com/news/Linux-6.0-RT-Patches",
+          "publishedOn": "2022-08-16T10:16:02.000Z",
+          "wordCount": 1407,
+          "title": "Real-Time \"PREEMPT_RT\" Work Down To Just 50 Patches Atop Linux 6.0-rc1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/openSUSE-Aug-x86_64-uarch-Level",
+          "author": null,
+          "description": "Ahead of the upcoming openSUSE/SUSE Adaptable Linux Platform (ALP), whether to raise the x86_64 micro-architecture feature level required by the Linux OS continues to be evaluated and what options there are for making use of newer x86_64 instruction set extensions without necessarily forcing tightened CPU requirements / eliminating old hardware support...",
+          "link": "https://www.phoronix.com/news/openSUSE-Aug-x86_64-uarch-Level",
+          "publishedOn": "2022-08-16T09:50:53.000Z",
+          "wordCount": 1568,
+          "title": "OpenSUSE Developers Continue Discussing x86_64 Microarchitecture Feature Levels",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Lenovo-Yoga-C630-Linux-EC",
+          "author": null,
+          "description": "When it comes to Linux on Arm laptops the recent excitement has been around the Asahi Linux porting work for the Apple M2 MacBooks and Linux 6.0 supporting the Qualcomm Snapdragon 8cx Gen3 and the flagship Lenovo ThinkPad X13s Arm laptop. Launched a few years ago though was the Lenovo Yoga C630 powered by a Qualcomm Snapdragon 850 and thanks now to the work of Linaro that older Arm laptop is seeing Linux support improvements...",
+          "link": "https://www.phoronix.com/news/Lenovo-Yoga-C630-Linux-EC",
+          "publishedOn": "2022-08-16T09:23:29.000Z",
+          "wordCount": 1414,
+          "title": "Lenovo Yoga C630 Snapdragon Laptop Seeing Fresh Linux Improvements",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/LZ4-1.9.4-Released",
           "author": null,
           "description": "LZ4 v1.9.4 is out today as the first point release in nearly two years for this BSD-licensed, speedy, lossless compression algorithm...",
@@ -8003,6 +8073,16 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/disneys-marvel-games-showcase-will-reveal-first-look-at-amy-hennigs-marvel-ensemble-project",
+          "author": "CJ Wheeler",
+          "description": "Disney and Marvel have revealed they’ll be hosting a joint games showcase for the first time during this year’s D23 Expo. The in-person and digital showcase starts at 1pm PST/4pm EST/9pm BST on September 9th. Have a watch of the very concise trailer below to get an idea of what’s being shown at the event.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/disneys-marvel-games-showcase-will-reveal-first-look-at-amy-hennigs-marvel-ensemble-project",
+          "publishedOn": "2022-08-16T09:36:37.000Z",
+          "wordCount": 4963,
+          "title": "Disney's Marvel Games Showcase will reveal first look at Amy Hennig's Marvel ensemble project",
+          "imageUrl": "https://assets2.rockpapershotgun.com/marvels-midnight-suns-iron-man.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/marvels-midnight-suns-iron-man.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/this-rtx-3090-ti-is-under-1200-some-691-below-its-uk-rrp",
           "author": "Will Judd",
@@ -16861,6 +16941,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34762",
+          "author": null,
+          "description": "Mitten av september blir slutet av september när det röda laget sägs vilja krascha Intels avtäckande av Core 13000-seriens processorer.",
+          "link": "https://www.sweclockers.com/artikel/34762-amd-ryktas-forsena-lanseringen-av-ryzen-7000",
+          "publishedOn": "2022-08-16T10:12:46.000Z",
+          "wordCount": 1670,
+          "title": "AMD ryktas försena lanseringen av Ryzen 7000",
+          "imageUrl": "https://www.sweclockers.com/artikel/34762/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34760",
           "author": null,
           "description": "Kabellådan™ är den ökända lådan där alla äldre kablar från elektronisk utrustning av olika slag hamnar då kablarna kanske kan komma till användning i framtiden. Men oftast inte. Hur ser hoarderläget ut hos dig?",
@@ -18478,6 +18568,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/16/microsoft_russian_spies/",
+          "author": null,
+          "description": "<h4>Seaborgium targeted dozens of orgs this year alone</h4> <p>Microsoft said it disabled accounts used by Russian-linked Seaborgium troupe to phish and steal credentials from its customers as part of the cybercrime gang's illicit spying and data-stealing activities.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/16/microsoft_russian_spies/",
+          "publishedOn": "2022-08-16T10:16:09.000Z",
+          "wordCount": 1875,
+          "title": "Reckon Russian spies are lurking in your inbox? Check for these IOCs, Microsoft says",
+          "imageUrl": "https://regmedia.co.uk/2022/03/03/shutterstock_russia.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/16/hmrc_dalas/",
+          "author": null,
+          "description": "<h4>Let's hope DALAS procurement is a tad more sensible than its soap opera namesake</h4> <p>The UK government's commercial wing has begun to set up a contracting agreement set to be worth up to £4.5 billion ($5.4 billion) for application software services supporting the nation's tax collector.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/16/hmrc_dalas/",
+          "publishedOn": "2022-08-16T09:35:08.000Z",
+          "wordCount": 1583,
+          "title": "UK government lines up billions to refresh legacy tech in 600-system UK tax dept",
+          "imageUrl": "https://regmedia.co.uk/2015/07/28/hmrc_photo_gov_dot_uk.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/16/ninefold_increase_in_startup_layoffs/",
           "author": null,
