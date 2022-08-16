@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-16T06:27:43.336Z</updated>
+    <updated>2022-08-16T07:17:31.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Samsung Odyssey Ark är böjd jätteskärm med extra allt]]></title>
+        <id>https://www.sweclockers.com/artikel/34759</id>
+        <link href="https://www.sweclockers.com/artikel/34759-samsung-odyssey-ark-ar-bojd-jatteskarm-med-extra-allt"/>
+        <updated>2022-08-16T07:02:48.000Z</updated>
+        <summary type="html"><![CDATA[Ljusstark panel, hög upplösning, vertikalt läge och en kraftig krökning är några av egenskaperna som Samsung lyfter fram hos det påkostade flaggskeppet.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Philippines orders fraud probe after paying MacBook prices for slow Celeron laptops]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/16/philippines_laptop_procurement_fraud_probe/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/16/philippines_laptop_procurement_fraud_probe/"/>
+        <updated>2022-08-16T06:57:14.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Education Department planned to buy 70,000 laptops, blew its budget and bought just 40,000</h4> <p>When COVID-19 closed schools in The Philippines, the nation’s government acted to ensure its teachers had the kit they needed to keep working by allocating funds to acquire nearly 70,000 laptops.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Se gameplay från den tillfixade versionen av den totalsågade XIII-remaken]]></title>
+        <id>https://www.fz.se/artikel/291125</id>
+        <link href="https://www.fz.se/artikel/291125-se-gameplay-fran-den-tillfixade-versionen-av-den-totalsagade-xiii-remaken"/>
+        <updated>2022-08-16T06:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Har de lyckats rädda hafsverket?]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World record for strongest steady magnetic field 'broken' by Chinese team]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/16/china_magnet_record/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/16/china_magnet_record/"/>
+        <updated>2022-08-16T06:30:05.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Superconductive hybrid magnet claimed to be 4,500 times stronger than a fridge stick-on</h4> <p>Chinese scientists claim to have broken the record for producing the strongest steady magnetic field, one that's at least a million times more powerful than planet Earth's, using a superconducting system. …</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Supply chain worries heat up again as China shuts down factories to cool its citizens]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/16/china_heatwave_factory_shutdowns/</id>
@@ -23614,21 +23654,6 @@ also offering backup and storag…]]></summary>
         <summary type="html"><![CDATA[Two weeks after the epic finale, we're taking a spoiler-filled analysis approach.]]></summary>
         <author>
             <name>Jennifer Ouellette</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Martin-&#201;ric Racine: Trying to chainload iPXE on old Etherboot hardware]]></title>
-        <id>tag:blogger.com,1999:blog-20663524.post-5583426356397693138</id>
-        <link href="http://q-funk.blogspot.com/2022/07/trying-to-chainload-ipxe-on-old.html"/>
-        <updated>2022-07-17T19:10:14.000Z</updated>
-        <summary type="html"><![CDATA[Among my collection of PC hardware, I have a few rarities whose netboot implementation predates PXE. Since I recently managed to configure dnsmasq as a potent TFTP and PXE server, I figured that I'd try chainloading iPXE via BOOTP options. This required preparing a boot image using antiquated tools:
-$ sudo mkelf-linux --param=autoboot --output=/srv/tftp/ipxe.nbi /srv/tftp/ipxe.lkrn
-
-The host succesufully loads the boot image, except that the iPXE blob fails to find the network card:
-
-Any ideas?]]></summary>
-        <author>
-            <name>noreply@blogger.com (Martin-Éric)</name>
         </author>
     </entry>
 </feed>

@@ -13221,16 +13221,6 @@
           "wordCount": 1032,
           "title": "Bits from Debian: DebConf22 welcomes its sponsors!",
           "imageUrl": "https://bits.debian.org//images/debconf22-official-logo.png"
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-20663524.post-5583426356397693138",
-          "author": "noreply@blogger.com (Martin-Éric)",
-          "description": "Among my collection of PC hardware, I have a few rarities whose netboot implementation predates PXE. Since I recently managed to configure dnsmasq as a potent TFTP and PXE server, I figured that I'd try chainloading iPXE via BOOTP options. This required preparing a boot image using antiquated tools:\n$ sudo mkelf-linux --param=autoboot --output=/srv/tftp/ipxe.nbi /srv/tftp/ipxe.lkrn\n\nThe host succesufully loads the boot image, except that the iPXE blob fails to find the network card:\n\nAny ideas?",
-          "link": "http://q-funk.blogspot.com/2022/07/trying-to-chainload-ipxe-on-old.html",
-          "publishedOn": "2022-07-17T19:10:14.000Z",
-          "wordCount": 2162,
-          "title": "Martin-&#201;ric Racine: Trying to chainload iPXE on old Etherboot hardware",
-          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAmZ-7zHHydvSJ_lOz9CaKNz0zonuRNVIFL-TZzq-jcHHuheMDxP9lCp55UPDaywehR-OsWN6wWuiHqtbXKOT1VI5VQO72Y3s06Gh-gR_g9ldvHhjHubFY4-8y_0UaVavASympve6aA9fOKoWEDHUIQJphdXwKkLqzV-KkTjSiNWHmVHcaPQ/w1200-h630-p-k-no-nu/IMG_20220717_210749.jpg"
         }
       ]
     },
@@ -15034,6 +15024,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291125",
+          "author": null,
+          "description": "Har de lyckats rädda hafsverket?",
+          "link": "https://www.fz.se/artikel/291125-se-gameplay-fran-den-tillfixade-versionen-av-den-totalsagade-xiii-remaken",
+          "publishedOn": "2022-08-16T06:57:00.000Z",
+          "wordCount": 1810,
+          "title": "Se gameplay från den tillfixade versionen av den totalsågade XIII-remaken",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291125"
+        },
+        {
           "id": "https://www.fz.se/artikel/291124",
           "author": null,
           "description": "Om man inte har tid med en genomspelning innan november.",
@@ -16801,6 +16801,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34759",
+          "author": null,
+          "description": "Ljusstark panel, hög upplösning, vertikalt läge och en kraftig krökning är några av egenskaperna som Samsung lyfter fram hos det påkostade flaggskeppet.",
+          "link": "https://www.sweclockers.com/artikel/34759-samsung-odyssey-ark-ar-bojd-jatteskarm-med-extra-allt",
+          "publishedOn": "2022-08-16T07:02:48.000Z",
+          "wordCount": 1901,
+          "title": "Samsung Odyssey Ark är böjd jätteskärm med extra allt",
+          "imageUrl": "https://www.sweclockers.com/artikel/34759/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34757",
           "author": null,
           "description": "Med händerna fulla med problem väljer Intel att inte längre stödja det äldre DirectX 9. Istället ska funktionaliteten bibehållas med hjälp av emulering.",
@@ -18388,6 +18398,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/16/philippines_laptop_procurement_fraud_probe/",
+          "author": null,
+          "description": "<h4>Education Department planned to buy 70,000 laptops, blew its budget and bought just 40,000</h4> <p>When COVID-19 closed schools in The Philippines, the nation’s government acted to ensure its teachers had the kit they needed to keep working by allocating funds to acquire nearly 70,000 laptops.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/16/philippines_laptop_procurement_fraud_probe/",
+          "publishedOn": "2022-08-16T06:57:14.000Z",
+          "wordCount": 1261,
+          "title": "Philippines orders fraud probe after paying MacBook prices for slow Celeron laptops",
+          "imageUrl": "https://regmedia.co.uk/2022/08/16/shutterstock_editorial_only_intel_celeron.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/16/china_magnet_record/",
+          "author": null,
+          "description": "<h4>Superconductive hybrid magnet claimed to be 4,500 times stronger than a fridge stick-on</h4> <p>Chinese scientists claim to have broken the record for producing the strongest steady magnetic field, one that's at least a million times more powerful than planet Earth's, using a superconducting system. …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/16/china_magnet_record/",
+          "publishedOn": "2022-08-16T06:30:05.000Z",
+          "wordCount": 1741,
+          "title": "World record for strongest steady magnetic field 'broken' by Chinese team",
+          "imageUrl": "https://regmedia.co.uk/2022/08/15/hybrid_magnet_shmff.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/16/china_heatwave_factory_shutdowns/",
           "author": null,
