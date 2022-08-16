@@ -260,16 +260,6 @@
           "wordCount": 7273,
           "title": "How to Install Discord on Manjaro and Other Arch Linux Derivatives",
           "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/07/install-discord-on-arch-manjaro.png"
-        },
-        {
-          "id": "https://itsfoss.com/?p=99609",
-          "author": "Sagar Sharma",
-          "description": "AppFlowy aims to be an open-source replacement to Notion, providing you with better privacy. Let us explore more about it.",
-          "link": "https://itsfoss.com/appflowy/",
-          "publishedOn": "2022-07-18T10:39:38.000Z",
-          "wordCount": 7788,
-          "title": "AppFlowy: An Open-Source Alternative to Notion",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/07/appflowy.jpg"
         }
       ]
     },
@@ -6977,6 +6967,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/VFX-Animation-Linux-Recommends",
+          "author": null,
+          "description": "VFX Reference Platform as a standards body that aims to help standardize software platforms in the realm of digital content creation (DCC) has published a detailed report for studios to consider in choosing their next Linux platform. Their new recommendations for visual effects and animation studios about moving to newer Linux distributions over the next year -- especially with many still relying on CentOS 7 -- is for moving to Red Hat Enterprise Linux 9 otherwise one of the downstreams like Rocky Linux or AlmaLinux. Close behind in their recommendations and as a longer-term objective is also tossing some support behind Ubuntu Linux...",
+          "link": "https://www.phoronix.com/news/VFX-Animation-Linux-Recommends",
+          "publishedOn": "2022-08-16T22:35:26.000Z",
+          "wordCount": 1818,
+          "title": "VFX & Animation Studios Urged To Upgrade To RHEL 9 Or Rocky Linux / AlmaLinux 9",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Proton-7.0-4-Released",
           "author": null,
           "description": "Valve has just released Proton 7.0-4 as their newest downstream of Wine that powers Steam Play for enjoying many Windows games on Linux with great success for the Linux desktop, the Steam Deck, and more...",
@@ -8453,6 +8453,16 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/groundeds-latest-test-update-adds-a-new-way-to-share-worlds",
+          "author": "Graham Smith",
+          "description": "Miniaturised survival game Grounded doesn't have dedicated servers, but the latest update offered up for public testing contains a new feature that'll help. It's called \"Shared Worlds\", and it allows Grounded worlds to be stored in the cloud so that anyone that world is shared with can host the game.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/groundeds-latest-test-update-adds-a-new-way-to-share-worlds",
+          "publishedOn": "2022-08-16T22:40:05.000Z",
+          "wordCount": 4730,
+          "title": "Grounded's latest test update adds a new way to share worlds",
+          "imageUrl": "https://assets2.rockpapershotgun.com/grounded-koi.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/grounded-koi.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/sony-might-be-planning-their-own-pc-game-launcher",
           "author": "Graham Smith",
@@ -14147,6 +14157,16 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1874111",
+          "author": "Kevin Purdy",
+          "description": "It's not that Google doesn't like RSS, it just wants RSS to look like Google.",
+          "link": "https://arstechnica.com/?p=1874111",
+          "publishedOn": "2022-08-16T22:09:02.000Z",
+          "wordCount": 1516,
+          "title": "Chrome “Feed” is tantalizing, but it’s not the return of Google Reader",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2017/06/Google.Chrome-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1873971",
           "author": "Jennifer Ouellette",
           "description": "Landmark stones recorded low-water levels during droughts to warn future generations.",
@@ -19538,6 +19558,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/16/rubygems_package_registry_mfa/",
+          "author": null,
+          "description": "<h4>Sign-on you crazy diamond</h4> <p>RubyGems.org, the Ruby programming community's software package registry, now requires maintainers of popular \"gems\" to secure their accounts using multi-factor authentication (MFA).…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/16/rubygems_package_registry_mfa/",
+          "publishedOn": "2022-08-16T23:17:05.000Z",
+          "wordCount": 1468,
+          "title": "RubyGems now requires multi-factor auth for top package maintainers",
+          "imageUrl": "https://regmedia.co.uk/2020/02/20/shutterstock_gemstones.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/16/sec_hacking_fraud_charges/",
           "author": null,

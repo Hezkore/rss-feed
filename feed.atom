@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-16T22:23:44.008Z</updated>
+    <updated>2022-08-16T23:20:55.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RubyGems now requires multi-factor auth for top package maintainers]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/16/rubygems_package_registry_mfa/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/16/rubygems_package_registry_mfa/"/>
+        <updated>2022-08-16T23:17:05.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Sign-on you crazy diamond</h4> <p>RubyGems.org, the Ruby programming community's software package registry, now requires maintainers of popular "gems" to secure their accounts using multi-factor authentication (MFA).…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grounded's latest test update adds a new way to share worlds]]></title>
+        <id>https://www.rockpapershotgun.com/groundeds-latest-test-update-adds-a-new-way-to-share-worlds</id>
+        <link href="https://www.rockpapershotgun.com/groundeds-latest-test-update-adds-a-new-way-to-share-worlds"/>
+        <updated>2022-08-16T22:40:05.000Z</updated>
+        <summary type="html"><![CDATA[Miniaturised survival game Grounded doesn't have dedicated servers, but the latest update offered up for public testing contains a new feature that'll help. It's called "Shared Worlds", and it allows Grounded worlds to be stored in the cloud so that anyone that world is shared with can host the game.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VFX & Animation Studios Urged To Upgrade To RHEL 9 Or Rocky Linux / AlmaLinux 9]]></title>
+        <id>https://www.phoronix.com/news/VFX-Animation-Linux-Recommends</id>
+        <link href="https://www.phoronix.com/news/VFX-Animation-Linux-Recommends"/>
+        <updated>2022-08-16T22:35:26.000Z</updated>
+        <summary type="html"><![CDATA[VFX Reference Platform as a standards body that aims to help standardize software platforms in the realm of digital content creation (DCC) has published a detailed report for studios to consider in choosing their next Linux platform. Their new recommendations for visual effects and animation studios about moving to newer Linux distributions over the next year -- especially with many still relying on CentOS 7 -- is for moving to Red Hat Enterprise Linux 9 otherwise one of the downstreams like Rocky Linux or AlmaLinux. Close behind in their recommendations and as a longer-term objective is also tossing some support behind Ubuntu Linux...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome “Feed” is tantalizing, but it’s not the return of Google Reader]]></title>
+        <id>https://arstechnica.com/?p=1874111</id>
+        <link href="https://arstechnica.com/?p=1874111"/>
+        <updated>2022-08-16T22:09:02.000Z</updated>
+        <summary type="html"><![CDATA[It's not that Google doesn't like RSS, it just wants RSS to look like Google.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sony might be planning their own PC game launcher]]></title>
         <id>https://www.rockpapershotgun.com/sony-might-be-planning-their-own-pc-game-launcher</id>
@@ -25105,16 +25148,6 @@ Memory sits in the first row after the headers then we have the swap statistics.
         <updated>2022-07-18T23:18:45.000Z</updated>
         <author>
             <name>Shen Comix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AppFlowy: An Open-Source Alternative to Notion]]></title>
-        <id>https://itsfoss.com/?p=99609</id>
-        <link href="https://itsfoss.com/appflowy/"/>
-        <updated>2022-07-18T10:39:38.000Z</updated>
-        <summary type="html"><![CDATA[AppFlowy aims to be an open-source replacement to Notion, providing you with better privacy. Let us explore more about it.]]></summary>
-        <author>
-            <name>Sagar Sharma</name>
         </author>
     </entry>
 </feed>
