@@ -316,6 +316,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/08/fab-deck-builder-across-the-obelisk-out-now-under-paradox-arc-publishing/",
+          "author": "Liam Dawe",
+          "description": "Across the Obelisk is a fantastic deck-builder that just left Early Access, as the first game under Paradox Interactive's new publishing label Paradox Arc.",
+          "link": "https://www.gamingonlinux.com/2022/08/fab-deck-builder-across-the-obelisk-out-now-under-paradox-arc-publishing/",
+          "publishedOn": "2022-08-16T15:33:29.000Z",
+          "wordCount": 1322,
+          "title": "Fab deck-builder Across the Obelisk out now under Paradox Arc publishing",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/705159021id21454gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/08/twin-stick-shooter-titan-shell-looks-intense-and-will-be-supported-on-linux/",
           "author": "Liam Dawe",
           "description": "Titan Shell is an in-development twin-stick shooter from Meatbag Studio that blends in features from roguelikes / rogue-lites to offer a pretty interesting experience not many such shooters give you.",
@@ -1412,6 +1422,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/files-in-spider-man-remastered-suggest-sony-may-release-its-own-pc-launcher",
+          "author": "Victoria Kennedy",
+          "description": "Since its release last week, fans have been diving into the files of Marvel's Spider-Man Remastered. It has turned out some interesting stuff, such as a potential scrapped multiplayer mode for the game. \r\n\n\r\nMost recently, however, dataminers have found evidence that Sony is looking into releasing its own PC launcher in the future (via VGC), with references to such a project being tucked away inside Marvel's Spider-Man Remastered.\r\n\n\r\nWhile this has not been officially confirmed, it does tie in with other speculation across the web. Earlier in the year, a job listing for PlayStation was advertised, with the company looking for a \"director, product management - PC game experiences\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/files-in-spider-man-remastered-suggest-sony-may-release-its-own-pc-launcher",
+          "publishedOn": "2022-08-16T15:28:02.000Z",
+          "wordCount": 4680,
+          "title": "Files in Spider-Man Remastered suggest Sony may release its own PC launcher",
+          "imageUrl": "https://assets.reedpopcdn.com/spider-man-pc_qJnrfmj.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/spider-man-pc_qJnrfmj.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/here-is-some-new-footage-from-the-remake-of-the-xiii-remake",
           "author": "Victoria Kennedy",
@@ -6907,6 +6927,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/review/threadripper-5965wx-ram",
+          "author": null,
+          "description": "For those weighing whether to pursue the full eight memory channel configuration for the new Ryzen Threadripper 5000 series or starting out with just four or six memory modules, here are some reference benchmarks across four, six, and eight memory channels with the AMD Ryzen Threadripper PRO 5965WX 24-core processor while running Ubuntu Linux.",
+          "link": "https://www.phoronix.com/review/threadripper-5965wx-ram",
+          "publishedOn": "2022-08-16T16:00:00.000Z",
+          "wordCount": 1226,
+          "title": "AMD Ryzen Threadripper PRO 5965WX Memory Scaling Benchmarks On Linux",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Ubuntu-22.04-LTS-dotNET-6",
           "author": null,
           "description": "The latest partnership between Microsoft and Canonical is an announcement today of native .NET availability for Ubuntu 22.04 LTS hosts as well as containers...",
@@ -8363,6 +8393,16 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/immortals-fenyx-rising-immortality-and-more-zachtronics-coming-to-game-pass-this-month",
+          "author": "Alice O'Connor",
+          "description": "Microsoft have laid out their PC Game Pass plans for the second half of August, adding another eight games to the subscription service across the remaining weeks then removing eight at the end of the month. Additions include Zachtronics hacking game Exapunks and Ubisoft's child-friendly open world 'em up Immortals Fenyx Rising. Alas, games going include the wonderfully sad What Remains Of Edith Finch and wonderfully wonderful Hades.\nRead more",
+          "link": "https://www.rockpapershotgun.com/immortals-fenyx-rising-immortality-and-more-zachtronics-coming-to-game-pass-this-month",
+          "publishedOn": "2022-08-16T15:43:08.000Z",
+          "wordCount": 5393,
+          "title": "Immortals Fenyx Rising, Immortality, and more Zachtronics coming to Game Pass this month",
+          "imageUrl": "https://assets2.rockpapershotgun.com/immortals-fenyx-rising-1.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/immortals-fenyx-rising-1.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/sci-fi-mmo-dual-universe-finally-blasts-out-of-beta-in-september",
           "author": "CJ Wheeler",
@@ -10650,6 +10690,36 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "eW69niboXihhYpDzfXPdHN",
+          "author": null,
+          "description": "Nvidia’s Ampere graphics cards are reportedly set to get cheaper in the coming weeks, ahead of the Ada Lovelace RTX 40-series launch.",
+          "link": "https://www.tomshardware.com/news/nvidia-to-further-drop-prices-of-geforce-rtx-30-series-boards",
+          "publishedOn": "2022-08-16T16:11:29.000Z",
+          "wordCount": 17905,
+          "title": "Nvidia to Further Drop Prices of GeForce RTX 30-Series Boards in Coming Weeks",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/yGqbr9vXHHPLjwyVjWzXCR.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/yGqbr9vXHHPLjwyVjWzXCR.jpg"
+        },
+        {
+          "id": "a7PiQGv6XJccXf7x49ybUE",
+          "author": null,
+          "description": "The MacTigr is a low-profile wired mechanical keyboard designed specifically for Mac users.",
+          "link": "https://www.tomshardware.com/reviews/das-keyboard-mactigr",
+          "publishedOn": "2022-08-16T16:05:02.000Z",
+          "wordCount": 18614,
+          "title": "Das Keyboard MacTigr Review",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/eWabMFE3DCDeazHHMDqgZc.jpeg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/eWabMFE3DCDeazHHMDqgZc.jpeg"
+        },
         {
           "id": "imPFo8RqVDXYCfTyFuSaQC",
           "author": null,
@@ -13877,6 +13947,46 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1873912",
+          "author": "Scharon Harding",
+          "description": "Keyboards build on Drop's November release of LotR keycap sets.",
+          "link": "https://arstechnica.com/?p=1873912",
+          "publishedOn": "2022-08-16T16:00:56.000Z",
+          "wordCount": 1731,
+          "title": "Lord of the Rings mechanical keyboards are perfect for people who speak Elvish",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/4333-copy-pr-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1873931",
+          "author": "Jonathan M. Gitlin",
+          "description": "Bandwidth was set aside in 1999, but V2X has been an abject failure.",
+          "link": "https://arstechnica.com/?p=1873931",
+          "publishedOn": "2022-08-16T15:15:02.000Z",
+          "wordCount": 1544,
+          "title": "Court rules FCC is allowed to reassign 5.9 GHz bandwidth, killing V2X",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-685450008-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1873921",
+          "author": "The Conversation",
+          "description": "You and the trillions of microbes in your gut can live in harmony.",
+          "link": "https://arstechnica.com/?p=1873921",
+          "publishedOn": "2022-08-16T14:43:19.000Z",
+          "wordCount": 1600,
+          "title": "Microbiologist tries at-home test kits to see what they reveal about microbiome",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/microbiome-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1873898",
+          "author": "Eric Berger",
+          "description": "Test comes after delays due to Russia, China tensions.",
+          "link": "https://arstechnica.com/?p=1873898",
+          "publishedOn": "2022-08-16T14:30:15.000Z",
+          "wordCount": 1513,
+          "title": "After ICBM test, US stresses it was “not the result of current world events”",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-542365760-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1873897",
           "author": "John Timmer",
           "description": "We killed the last thylacine about a century ago. Can we correct that mistake?",
@@ -15583,6 +15693,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291130",
+          "author": null,
+          "description": "Så länge man äger dess \"Expansion Pack\".",
+          "link": "https://www.fz.se/artikel/291130-wave-race-64-ar-nasta-spel-att-slappas-till-nintendo-switch-online",
+          "publishedOn": "2022-08-16T15:53:00.000Z",
+          "wordCount": 1805,
+          "title": "Wave Race 64 är nästa spel att släppas till Nintendo Switch Online",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291130"
+        },
         {
           "id": "https://www.fz.se/artikel/291134",
           "author": null,
@@ -17431,6 +17551,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34728",
+          "author": null,
+          "description": "Spindelmannen svingar sig över från Playstation till PC i ett av de senaste årens mest hyllade actionspel. Calle sparkar igång redaktionens testrigg för ett snabbt prestandatest.",
+          "link": "https://www.sweclockers.com/artikel/34728-snabbtest-grafikprestanda-i-marvels-spider-man-remastered",
+          "publishedOn": "2022-08-16T16:01:01.000Z",
+          "wordCount": 3341,
+          "title": "Snabbtest: Grafikprestanda i Marvel's Spider‑Man Remastered",
+          "imageUrl": "https://www.sweclockers.com/artikel/34728/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34765",
           "author": null,
           "description": "AMD tar bladet från munnen och bekräftar det officiella datumet för avtäckandet av processorerna i Ryzen 7000-serien, där dessa ska presenteras under ett livesänt evenemang.",
@@ -19088,6 +19218,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/16/windows_10_21h2_update/",
+          "author": null,
+          "description": "<h4>Still waiting for 22H2? Have a 21H2 release preview to tide you over</h4> <p>Remember 2021? Microsoft does, and has emitted a fresh build to the Windows Insider Release Preview channel for Windows 10 21H2, with a few useful fixes, including one where Edge will stop responding when Internet Explorer mode is on.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/16/windows_10_21h2_update/",
+          "publishedOn": "2022-08-16T15:33:12.000Z",
+          "wordCount": 1364,
+          "title": "Microsoft tests new features in last year’s Windows 10",
+          "imageUrl": "https://regmedia.co.uk/2022/02/11/fix.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/16/pc_mobile_dram_demand/",
           "author": null,
