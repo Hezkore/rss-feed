@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-16T07:17:31.102Z</updated>
+    <updated>2022-08-16T08:24:21.293Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Försenad leverans: Deliver Us Mars skjuts upp till nästa år]]></title>
+        <id>https://www.fz.se/artikel/291126</id>
+        <link href="https://www.fz.se/artikel/291126-forsenad-leverans-deliver-us-mars-skjuts-upp-till-nasta-ar"/>
+        <updated>2022-08-16T07:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Uppföljaren till Deliver Us the Moon får vänta.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marktext is an Excellent Editor Even for Those Who Don’t Know Markdown]]></title>
+        <id>https://itsfoss.com/?p=100892</id>
+        <link href="https://itsfoss.com/marktext-editor/"/>
+        <updated>2022-08-16T07:50:56.000Z</updated>
+        <summary type="html"><![CDATA[I have experimented with a number of markdown editors and there are plenty of good ones there. However, I took an instant liking to Marktext. Here's why!]]></summary>
+        <author>
+            <name>Abhishek Prakash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This tiny Intel Xeon-toting PC board can take your Raspberry Pi any day]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/16/intel_asus_singleboard/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/16/intel_asus_singleboard/"/>
+        <updated>2022-08-16T07:36:05.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Did someone say ECC on an SBC?</h4> <p>That Raspberry Pi 4B feeling a bit pokey? Asus' Aaeon division has managed to fit an eight-core Xeon processor, complete with error correcting memory (ECC) support, and a PCIe 4.0 x8 slot into a four-inch single board computer.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Samsung Odyssey Ark är böjd jätteskärm med extra allt]]></title>
         <id>https://www.sweclockers.com/artikel/34759</id>
@@ -114,6 +144,16 @@
         <summary type="html"><![CDATA[<h4>Let alone the ones with 123456 to login. How sophisticated do attackers really need to be?</h4> <p>Thousands of machines on the public internet can be remotely controlled via VNC without any authentication, a cybersecurity vendor has reminded us this month.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comic for 2022.08.16 - What Do You See]]></title>
+        <id>https://explosm.net/comics/what-do-you-see</id>
+        <link href="https://explosm.net/comics/what-do-you-see"/>
+        <updated>2022-08-16T01:30:22.000Z</updated>
+        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
+        <author>
+            <name>Explosm.net</name>
         </author>
     </entry>
     <entry>
@@ -23644,16 +23684,6 @@ Infomaniak is Switzerland's largest web-hosting company,
 also offering backup and storag…]]></summary>
         <author>
             <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Catching up with Stranger Things S4 (yes, we have some feels)]]></title>
-        <id>https://arstechnica.com/?p=1865588</id>
-        <link href="https://arstechnica.com/?p=1865588"/>
-        <updated>2022-07-17T19:34:52.000Z</updated>
-        <summary type="html"><![CDATA[Two weeks after the epic finale, we're taking a spoiler-filled analysis approach.]]></summary>
-        <author>
-            <name>Jennifer Ouellette</name>
         </author>
     </entry>
 </feed>

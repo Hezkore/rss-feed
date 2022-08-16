@@ -12,6 +12,16 @@
       "siteUrl": "https://itsfoss.com",
       "articles": [
         {
+          "id": "https://itsfoss.com/?p=100892",
+          "author": "Abhishek Prakash",
+          "description": "I have experimented with a number of markdown editors and there are plenty of good ones there. However, I took an instant liking to Marktext. Here's why!",
+          "link": "https://itsfoss.com/marktext-editor/",
+          "publishedOn": "2022-08-16T07:50:56.000Z",
+          "wordCount": 7456,
+          "title": "Marktext is an Excellent Editor Even for Those Who Don’t Know Markdown",
+          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/08/marktext-markdown-editor.png"
+        },
+        {
           "id": "http://itsfoss.com/?p=87540",
           "author": "Abhishek Prakash",
           "description": "The apt-key is being deprecated and your system knows that. But do you know what you should be doing for getting packages from external repositories?",
@@ -15005,16 +15015,6 @@
           "wordCount": 1550,
           "title": "Google CEO Sundar Pichai says productivity is “not where it needs to be”",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2017/05/google-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1865588",
-          "author": "Jennifer Ouellette",
-          "description": "Two weeks after the epic finale, we're taking a spoiler-filled analysis approach.",
-          "link": "https://arstechnica.com/?p=1865588",
-          "publishedOn": "2022-07-17T19:34:52.000Z",
-          "wordCount": 2223,
-          "title": "Catching up with Stranger Things S4 (yes, we have some feels)",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/07/strangeTOP-760x380.jpg"
         }
       ]
     },
@@ -15023,6 +15023,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291126",
+          "author": null,
+          "description": "Uppföljaren till Deliver Us the Moon får vänta.",
+          "link": "https://www.fz.se/artikel/291126-forsenad-leverans-deliver-us-mars-skjuts-upp-till-nasta-ar",
+          "publishedOn": "2022-08-16T07:59:00.000Z",
+          "wordCount": 1779,
+          "title": "Försenad leverans: Deliver Us Mars skjuts upp till nästa år",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291126"
+        },
         {
           "id": "https://www.fz.se/artikel/291125",
           "author": null,
@@ -17972,6 +17982,16 @@
       "siteUrl": "https://explosm.net",
       "articles": [
         {
+          "id": "https://explosm.net/comics/what-do-you-see",
+          "author": null,
+          "description": "New Cyanide and Happiness Comic",
+          "link": "https://explosm.net/comics/what-do-you-see",
+          "publishedOn": "2022-08-16T01:30:22.000Z",
+          "wordCount": 1478,
+          "title": "Comic for 2022.08.16 - What Do You See",
+          "imageUrl": null
+        },
+        {
           "id": "https://explosm.net/comics/my-wife",
           "author": null,
           "description": "New Cyanide and Happiness Comic",
@@ -18398,6 +18418,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/16/intel_asus_singleboard/",
+          "author": null,
+          "description": "<h4>Did someone say ECC on an SBC?</h4> <p>That Raspberry Pi 4B feeling a bit pokey? Asus' Aaeon division has managed to fit an eight-core Xeon processor, complete with error correcting memory (ECC) support, and a PCIe 4.0 x8 slot into a four-inch single board computer.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/16/intel_asus_singleboard/",
+          "publishedOn": "2022-08-16T07:36:05.000Z",
+          "wordCount": 1482,
+          "title": "This tiny Intel Xeon-toting PC board can take your Raspberry Pi any day",
+          "imageUrl": "https://regmedia.co.uk/2022/08/15/aaeon_epic_tgh7.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/16/philippines_laptop_procurement_fraud_probe/",
           "author": null,
