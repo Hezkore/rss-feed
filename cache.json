@@ -1373,6 +1373,36 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/doom-is-now-playable-on-a-tractor",
+          "author": "Ed Nightingale",
+          "description": "It's something of an industry joke that iconic 90s shooter Doom is playable on almost anything. Now it's playable on a tractor.\r\n\n\r\nThere's a more serious background to this, though. As Wired reports, a hacker known as Sick Codes presented a new jailbreak for John Deere & Co. tractors at the DefCon security conference in Las Vegas.\r\n\n\r\nDigital locks are imposed on vehicles by manufacturers, preventing farmers from modifying and repairing their own equipment. The right-to-repair has proven controversial in the farming industry, but Sick Codes has found a workaround.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/doom-is-now-playable-on-a-tractor",
+          "publishedOn": "2022-08-16T10:50:14.000Z",
+          "wordCount": 4422,
+          "title": "Doom is now playable on a tractor",
+          "imageUrl": "https://assets.reedpopcdn.com/doom-tractor.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/doom-tractor.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/paradox-doubling-price-of-crusader-kings-3-dlc",
+          "author": "Ed Nightingale",
+          "description": "Paradox, the developer of strategy game Crusader Kings 3, is doubling the price of the game's DLC packs.\r\n\n\r\nCurrently priced at $6.99 (£5.19 in the UK), the Flavour Packs will cost $12.99 from 13th September.\r\n\n\r\nIn a forum post (thanks TheGamer), the developer said it was \"altering the prices of our Flavour Packs (Northern Lords and Fate of Iberia) to reflect the overall value of this kind of content moving forward\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/paradox-doubling-price-of-crusader-kings-3-dlc",
+          "publishedOn": "2022-08-16T10:27:34.000Z",
+          "wordCount": 4500,
+          "title": "Paradox doubling price of Crusader Kings 3 DLC",
+          "imageUrl": "https://assets.reedpopcdn.com/crusader-kings-3-fate-of-iberia.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/crusader-kings-3-fate-of-iberia.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/tokyo-game-show-vr-2022-to-feature-kojima-productions-square-enix-and-more",
+          "author": "Victoria Kennedy",
+          "description": "Square Enix and Kojima Productions will be taking part in the Tokyo Game Show's upcoming VR event.\r\n\n\r\nBandai Namco, Capcom and Konami, to name but a few, will also be exhibiting at the event, which takes place between 15th and 18th September. \r\n\n\r\nThe site for the show itself is shrouded in mystery for now, with the organisers simply teasing the stage for this event is a \"dungeon\" and the following text: \r\n \nRead more",
+          "link": "https://www.eurogamer.net/tokyo-game-show-vr-2022-to-feature-kojima-productions-square-enix-and-more",
+          "publishedOn": "2022-08-16T10:26:58.000Z",
+          "wordCount": 4494,
+          "title": "Tokyo Game Show VR 2022 to feature Kojima Productions, Square Enix and more",
+          "imageUrl": "https://assets.reedpopcdn.com/tgs-vr.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/tgs-vr.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/steamvr-updates-notes-include-literal-bugs",
           "author": "Liv Ngan",
           "description": "Yesterday, Valve updated its SteamVR software, for use on VR headsets, and had some unusual content in the update notes.\r\n\n\r\nIn the full list, the usual gamut of notes that you'd expect like bug fixes and quality of life improvements are detailed.\r\n\n\r\nBut above all that, there's a literal bug fix. For all you insect lovers.\r\n \nRead more",
@@ -6647,6 +6677,26 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/AMD-CPU-Linux-Microcode-Thread",
+          "author": null,
+          "description": "Up to this point loading updated CPU microcode on AMD processors under Linux has checked just to ensure every physical CPU core was loaded with the new microcode but not sibling threads for SMT processors. While logically that makes sense, it turns out some AMD microcode updates do carry out per-thread modifications that means the microcode updating needs to be carried out on every thread. A Linux fix is on its way to the kernel to adjust that behavior...",
+          "link": "https://www.phoronix.com/news/AMD-CPU-Linux-Microcode-Thread",
+          "publishedOn": "2022-08-16T11:00:00.000Z",
+          "wordCount": 1628,
+          "title": "AMD CPU Microcode Loading On Linux Being Fixed Up To Be Per-Thread",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Nouveau-GA103-Linux-6.0-Fix",
+          "author": null,
+          "description": "As part of today's \"drm-misc-fixes\" pull request, NVIDIA Ampere GA103 GPU support is set to be added to the Nouveau DRM driver with Linux 6.0...",
+          "link": "https://www.phoronix.com/news/Nouveau-GA103-Linux-6.0-Fix",
+          "publishedOn": "2022-08-16T10:30:00.000Z",
+          "wordCount": 1516,
+          "title": "NVIDIA Ampere GA103 Support For Nouveau Being Sent In For Linux 6.0",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-6.0-RT-Patches",
           "author": null,
           "description": "Following Sunday's release of Linux 6.0-rc1, yesterday saw the release of 6.0-rc1-rt1 as the set of patches for providing real-time kernel support atop the upstream code-base. There is just roughly 50 patches to go until the PREEMPT_RT functionality is mainlined!..",
@@ -8073,6 +8123,16 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/unity-rejects-applovins-175b-takeover-offer",
+          "author": "CJ Wheeler",
+          "description": "Unity Software have chosen to reject a $17.54 billion (£14.58 billion) all-stock takeover offer from mobile gaming technology company AppLovin to instead pursue their own planned merger with AppLovin’s rival ironSource. Unity’s board of directors unanimously cast aside the AppLovin offer, which hadn’t been sought by the game engine company, after a “thorough financial and strategic evaluation”. The board has recommended that shareholders vote against AppLovin’s offer.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/unity-rejects-applovins-175b-takeover-offer",
+          "publishedOn": "2022-08-16T10:56:23.000Z",
+          "wordCount": 4778,
+          "title": "Unity rejects AppLovin’s $17.5b takeover offer",
+          "imageUrl": "https://assets2.rockpapershotgun.com/Unity-logo_0xsnwMk.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Unity-logo_0xsnwMk.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/disneys-marvel-games-showcase-will-reveal-first-look-at-amy-hennigs-marvel-ensemble-project",
           "author": "CJ Wheeler",
@@ -15144,6 +15204,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291128",
+          "author": null,
+          "description": "Lågt förtroende för Bethesda och spelmotorn.",
+          "link": "https://www.fz.se/artikel/291128-fans-samlas-for-att-buggstada-starfield-trots-att-det-inte-har-releasedatum",
+          "publishedOn": "2022-08-16T10:25:00.000Z",
+          "wordCount": 2090,
+          "title": "Fans samlas för att buggstäda Starfield - trots att det inte har releasedatum",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291128"
+        },
+        {
           "id": "https://www.fz.se/artikel/291127",
           "author": null,
           "description": "Spelnyheter från Marvel och Disney visas om drygt tre veckor.",
@@ -18568,6 +18638,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/16/azure_cloud_region_qatar/",
+          "author": null,
+          "description": "<h4>Opening was delayed during that pandemic thing</h4> <p>Microsoft Azure launched a long-awaited new cloud region in Doha, Qatar, on Monday.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/16/azure_cloud_region_qatar/",
+          "publishedOn": "2022-08-16T11:12:14.000Z",
+          "wordCount": 1149,
+          "title": "Microsoft Azure cloud region settles over desert in Doha, Qatar",
+          "imageUrl": "https://regmedia.co.uk/2019/04/23/shutterstock_618013442.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/16/microsoft_russian_spies/",
           "author": null,

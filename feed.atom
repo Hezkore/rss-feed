@@ -2,10 +2,117 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-16T10:24:22.319Z</updated>
+    <updated>2022-08-16T11:17:06.712Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Azure cloud region settles over desert in Doha, Qatar]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/16/azure_cloud_region_qatar/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/16/azure_cloud_region_qatar/"/>
+        <updated>2022-08-16T11:12:14.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Opening was delayed during that pandemic thing</h4> <p>Microsoft Azure launched a long-awaited new cloud region in Doha, Qatar, on Monday.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD CPU Microcode Loading On Linux Being Fixed Up To Be Per-Thread]]></title>
+        <id>https://www.phoronix.com/news/AMD-CPU-Linux-Microcode-Thread</id>
+        <link href="https://www.phoronix.com/news/AMD-CPU-Linux-Microcode-Thread"/>
+        <updated>2022-08-16T11:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Up to this point loading updated CPU microcode on AMD processors under Linux has checked just to ensure every physical CPU core was loaded with the new microcode but not sibling threads for SMT processors. While logically that makes sense, it turns out some AMD microcode updates do carry out per-thread modifications that means the microcode updating needs to be carried out on every thread. A Linux fix is on its way to the kernel to adjust that behavior...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unity rejects AppLovin’s $17.5b takeover offer]]></title>
+        <id>https://www.rockpapershotgun.com/unity-rejects-applovins-175b-takeover-offer</id>
+        <link href="https://www.rockpapershotgun.com/unity-rejects-applovins-175b-takeover-offer"/>
+        <updated>2022-08-16T10:56:23.000Z</updated>
+        <summary type="html"><![CDATA[Unity Software have chosen to reject a $17.54 billion (£14.58 billion) all-stock takeover offer from mobile gaming technology company AppLovin to instead pursue their own planned merger with AppLovin’s rival ironSource. Unity’s board of directors unanimously cast aside the AppLovin offer, which hadn’t been sought by the game engine company, after a “thorough financial and strategic evaluation”. The board has recommended that shareholders vote against AppLovin’s offer.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>CJ Wheeler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doom is now playable on a tractor]]></title>
+        <id>https://www.eurogamer.net/doom-is-now-playable-on-a-tractor</id>
+        <link href="https://www.eurogamer.net/doom-is-now-playable-on-a-tractor"/>
+        <updated>2022-08-16T10:50:14.000Z</updated>
+        <summary type="html"><![CDATA[It's something of an industry joke that iconic 90s shooter Doom is playable on almost anything. Now it's playable on a tractor.
+
+
+There's a more serious background to this, though. As Wired reports, a hacker known as Sick Codes presented a new jailbreak for John Deere & Co. tractors at the DefCon security conference in Las Vegas.
+
+
+Digital locks are imposed on vehicles by manufacturers, preventing farmers from modifying and repairing their own equipment. The right-to-repair has proven controversial in the farming industry, but Sick Codes has found a workaround.
+ 
+Read more]]></summary>
+        <author>
+            <name>Ed Nightingale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Ampere GA103 Support For Nouveau Being Sent In For Linux 6.0]]></title>
+        <id>https://www.phoronix.com/news/Nouveau-GA103-Linux-6.0-Fix</id>
+        <link href="https://www.phoronix.com/news/Nouveau-GA103-Linux-6.0-Fix"/>
+        <updated>2022-08-16T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[As part of today's "drm-misc-fixes" pull request, NVIDIA Ampere GA103 GPU support is set to be added to the Nouveau DRM driver with Linux 6.0...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paradox doubling price of Crusader Kings 3 DLC]]></title>
+        <id>https://www.eurogamer.net/paradox-doubling-price-of-crusader-kings-3-dlc</id>
+        <link href="https://www.eurogamer.net/paradox-doubling-price-of-crusader-kings-3-dlc"/>
+        <updated>2022-08-16T10:27:34.000Z</updated>
+        <summary type="html"><![CDATA[Paradox, the developer of strategy game Crusader Kings 3, is doubling the price of the game's DLC packs.
+
+
+Currently priced at $6.99 (£5.19 in the UK), the Flavour Packs will cost $12.99 from 13th September.
+
+
+In a forum post (thanks TheGamer), the developer said it was "altering the prices of our Flavour Packs (Northern Lords and Fate of Iberia) to reflect the overall value of this kind of content moving forward".
+ 
+Read more]]></summary>
+        <author>
+            <name>Ed Nightingale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tokyo Game Show VR 2022 to feature Kojima Productions, Square Enix and more]]></title>
+        <id>https://www.eurogamer.net/tokyo-game-show-vr-2022-to-feature-kojima-productions-square-enix-and-more</id>
+        <link href="https://www.eurogamer.net/tokyo-game-show-vr-2022-to-feature-kojima-productions-square-enix-and-more"/>
+        <updated>2022-08-16T10:26:58.000Z</updated>
+        <summary type="html"><![CDATA[Square Enix and Kojima Productions will be taking part in the Tokyo Game Show's upcoming VR event.
+
+
+Bandai Namco, Capcom and Konami, to name but a few, will also be exhibiting at the event, which takes place between 15th and 18th September. 
+
+
+The site for the show itself is shrouded in mystery for now, with the organisers simply teasing the stage for this event is a "dungeon" and the following text: 
+ 
+Read more]]></summary>
+        <author>
+            <name>Victoria Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fans samlas för att buggstäda Starfield - trots att det inte har releasedatum]]></title>
+        <id>https://www.fz.se/artikel/291128</id>
+        <link href="https://www.fz.se/artikel/291128-fans-samlas-for-att-buggstada-starfield-trots-att-det-inte-har-releasedatum"/>
+        <updated>2022-08-16T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Lågt förtroende för Bethesda och spelmotorn.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reckon Russian spies are lurking in your inbox? Check for these IOCs, Microsoft says]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/16/microsoft_russian_spies/</id>
