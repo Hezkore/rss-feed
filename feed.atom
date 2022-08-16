@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-15T23:22:58.671Z</updated>
+    <updated>2022-08-16T02:22:47.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oh Deere: Farm hardware jailbroken to run Doom]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/16/john_deere_doom/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/16/john_deere_doom/"/>
+        <updated>2022-08-16T00:53:59.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Corn-y demo heralded as right-to-repair win</h4> <p>At DEF CON 30 on Saturday, an Australian who goes by the handle Sick Codes showed off a way to fully take control of some John Deere farming machine electronics to run first-person shooter Doom.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disney promises "sneak peek" at Amy Hennig's Marvel game in September]]></title>
+        <id>https://www.eurogamer.net/disney-promises-sneak-peek-at-amy-hennigs-marvel-game-in-september</id>
+        <link href="https://www.eurogamer.net/disney-promises-sneak-peek-at-amy-hennigs-marvel-game-in-september"/>
+        <updated>2022-08-16T00:01:48.000Z</updated>
+        <summary type="html"><![CDATA[Disney has announced it's hosting a game-focused digital showcase this September, with a "sneak peek" at Amy Hennig's new Marvel game promising to be a highlight.
+
+
+The Disney & Marvel Games Showcase, which is running as part of this year's D23 Expo, will be streamed on Friday, 9th September, at 9pm in the UK/1pm PT. It's promising "all-new announcements" alongside additional details on previously revealed games.
+
+
+There'll be more from Disney Dreamlight Valley, for instance, alongside additional news on Lego Star Wars: The Skywalker Saga and the recently delayed Marvel's Midnight Suns. The real draw, though, unless you really love your village life sims, is a glimpse of Skydance New Media and Hennig's "Marvel ensemble" game.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LZ4 v1.9.4 Achieves 20~70% Speedups For Some CPUs & Configurations]]></title>
+        <id>https://www.phoronix.com/news/LZ4-1.9.4-Released</id>
+        <link href="https://www.phoronix.com/news/LZ4-1.9.4-Released"/>
+        <updated>2022-08-15T23:22:50.000Z</updated>
+        <summary type="html"><![CDATA[LZ4 v1.9.4 is out today as the first point release in nearly two years for this BSD-licensed, speedy, lossless compression algorithm...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[First look at del Toro’s Cabinet of Curiosities is magically macabre]]></title>
         <id>https://arstechnica.com/?p=1873832</id>
@@ -23509,16 +23547,6 @@ The host succesufully loads the boot image, except that the iPXE blob fails to f
 Any ideas?]]></summary>
         <author>
             <name>noreply@blogger.com (Martin-Éric)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 Porsche 911 GT3 review: The superlative sports car]]></title>
-        <id>https://arstechnica.com/?p=1867268</id>
-        <link href="https://arstechnica.com/?p=1867268"/>
-        <updated>2022-07-17T11:30:09.000Z</updated>
-        <summary type="html"><![CDATA[The latest GT3’s motorsport lineage is more evident than ever.]]></summary>
-        <author>
-            <name>Ars Staff</name>
         </author>
     </entry>
 </feed>
