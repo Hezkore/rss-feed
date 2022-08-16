@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-16T05:22:32.092Z</updated>
+    <updated>2022-08-16T06:27:43.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Supply chain worries heat up again as China shuts down factories to cool its citizens]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/16/china_heatwave_factory_shutdowns/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/16/china_heatwave_factory_shutdowns/"/>
+        <updated>2022-08-16T05:58:09.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Scorching weather sees scarce juice diverted to aircon instead of laptops and lithium</h4> <p>A heatwave in China has disrupted operations at laptop component makers and assemblers in Sichuan province and the municipality of Chongqing this week, creating the possibility of further problems in tech supply chains.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digital Ocean dumps Mailchimp after attack leaked customer email addresses]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/16/digital_ocean_dumps_mailchimp/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/16/digital_ocean_dumps_mailchimp/"/>
+        <updated>2022-08-16T05:31:12.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Somebody went after crypto-centric companies’ outsourced email but the damage was felt in the cloud</h4> <p>Junior cloud Digital Ocean has revealed that some of its clients’ email addresses were exposed to attackers, thanks to an attack on email marketing service Mailchimp.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ant Group’s in-house DB set for global release, including Raspberry Pi edition]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/16/oceanbase_4_ant_group/</id>
