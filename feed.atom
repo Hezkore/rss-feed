@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-16T18:30:51.613Z</updated>
+    <updated>2022-08-16T19:17:51.414Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Deadly swatting increasing on Twitch; alarmed streamers press for change]]></title>
+        <id>https://arstechnica.com/?p=1873984</id>
+        <link href="https://arstechnica.com/?p=1873984"/>
+        <updated>2022-08-16T19:05:24.000Z</updated>
+        <summary type="html"><![CDATA[Some streamers report multiple swatting attempts weekly.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple to compel workers to spend '3 days a week' in the office]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/16/apple_office_mandate/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/16/apple_office_mandate/"/>
+        <updated>2022-08-16T18:30:06.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Mandate starts in September, staff say its about 'fear of worker autonomy'</h4> <p>Apple has told its workforce they must come into the office for at least three days a week from September to get back to "in-person collaboration."…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will the Nintendo Switch ever see a price drop?]]></title>
+        <id>https://arstechnica.com/?p=1874055</id>
+        <link href="https://arstechnica.com/?p=1874055"/>
+        <updated>2022-08-16T18:21:49.000Z</updated>
+        <summary type="html"><![CDATA[The best-selling console has sat at $299.99 for an unprecedented five-plus years.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Get an RTX 3060 GPU for £279 thanks to this Ebay code]]></title>
         <id>https://www.rockpapershotgun.com/get-an-rtx-3060-gpu-for-279-thanks-to-this-ebay-code</id>
@@ -26,6 +56,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Valve has just released Proton 7.0-4 as their newest downstream of Wine that powers Steam Play for enjoying many Windows games on Linux with great success for the Linux desktop, the Steam Deck, and more...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Report: Windows 11 22H2 update will be released on September 20]]></title>
+        <id>https://arstechnica.com/?p=1874001</id>
+        <link href="https://arstechnica.com/?p=1874001"/>
+        <updated>2022-08-16T17:42:04.000Z</updated>
+        <summary type="html"><![CDATA[22H2 includes security upgrades, redesigned Task Manager, and other refinements.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
         </author>
     </entry>
     <entry>
@@ -24903,30 +24943,6 @@ Memory sits in the first row after the headers then we have the swap statistics.
         <summary type="html"><![CDATA[AppFlowy aims to be an open-source replacement to Notion, providing you with better privacy. Let us explore more about it.]]></summary>
         <author>
             <name>Sagar Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bits from Debian: DebConf22 welcomes its sponsors!]]></title>
-        <id>tag:bits.debian.org,2022-07-18:/2022/07/debconf22-welcomes-sponsors.html</id>
-        <link href="https://bits.debian.org/2022/07/debconf22-welcomes-sponsors.html"/>
-        <updated>2022-07-18T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DebConf22 is taking place in Prizren, Kosovo,
-from 17th to 24th July, 2022.
-It is the 23rd edition of the Debian conference and organizers are working hard
-to create another interesting and fruitful event for attendees.
-We would like to warmly welcome the sponsors of DebConf22, and
-introduce you to them.
-We have four Platinum sponsors.
-Our first Platinum sponsor is Lenovo.
-As a global technology leader manufacturing a wide portfolio of connected products,
-including smartphones, tablets, PCs and workstations as well as AR/VR devices,
-smart home/office and data center solutions, Lenovo
-understands how critical open systems and platforms are to a connected world.
-Infomaniak is our second Platinum sponsor.
-Infomaniak is Switzerland's largest web-hosting company,
-also offering backup and storag…]]></summary>
-        <author>
-            <name>Planet Debian</name>
         </author>
     </entry>
 </feed>
