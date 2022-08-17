@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-17T19:18:05.870Z</updated>
+    <updated>2022-08-17T20:23:39.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Software developer cracks Hyundai car encryption with Google search]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/17/software_developer_cracks_hyundai_encryption/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/17/software_developer_cracks_hyundai_encryption/"/>
+        <updated>2022-08-17T20:19:09.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Top tip: Your RSA private key should not be copied from a public code tutorial</h4> <p>A developer says he was able to run his own software on his car infotainment hardware after discovering the vehicle's manufacturer had secured its system using keys that were not only publicly known but had been lifted from programming examples.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Preps Next-Gen V-NAND Memory: Higher Capacity and Performance]]></title>
+        <id>i4Mbbw87hnKB3ktstRfRR</id>
+        <link href="https://www.tomshardware.com/news/samsung-preps-v8-nand-memory"/>
+        <updated>2022-08-17T19:46:50.000Z</updated>
+        <summary type="html"><![CDATA[Samsung's 8th Generation V-NAND memory looms to production.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Record on Quantum Entanglement at a Distance Broken, Pulling in The Timeline for a Quantum Internet]]></title>
+        <id>4iX6X22hrdQnxJ2cwNUcgE</id>
+        <link href="https://www.tomshardware.com/news/record-on-quantum-entanglement-at-a-distance-broken-pulling-in-the-timeline-for-a-quantum-internet"/>
+        <updated>2022-08-17T19:41:24.000Z</updated>
+        <summary type="html"><![CDATA[A team of researchers from China managed to entangle two different quantum memories across a 12.5 km distance in an urban environment, bringing the promise of a quantum internet closer.]]></summary>
+        <author>
+            <name>francisco.pires@outlook.com (Francisco Pires)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spellbook Demonslayers is the most insane Vampire Survivors-like yet]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/spellbook-demonslayers-is-the-most-insane-vampire-survivors-like-yet/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/spellbook-demonslayers-is-the-most-insane-vampire-survivors-like-yet/"/>
+        <updated>2022-08-17T19:37:25.000Z</updated>
+        <summary type="html"><![CDATA[You've put 100+ hours into Vampire Survivors and now what? Spellbook Demonslayers is what and there's a free prologue available for you to try out.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla Brags About In-House Supercomputer, Now With 7,360 A100 GPUs]]></title>
+        <id>6wtZpUEaforCVTAGtmxdbV</id>
+        <link href="https://www.tomshardware.com/news/tesla-brags-about-in-house-supercomputer-now-with-7360-a100-gpus"/>
+        <updated>2022-08-17T18:57:29.000Z</updated>
+        <summary type="html"><![CDATA[Tesla is growing its Ampere GPU powered AI supercomputer for now, but ultimately plans to replace the processing power with its own Dojo D1 ASICs forged on TSMC N7.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[First official teaser for Wednesday is deliciously “Burtonesque”]]></title>
         <id>https://arstechnica.com/?p=1874228</id>

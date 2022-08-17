@@ -316,6 +316,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/08/spellbook-demonslayers-is-the-most-insane-vampire-survivors-like-yet/",
+          "author": "Liam Dawe",
+          "description": "You've put 100+ hours into Vampire Survivors and now what? Spellbook Demonslayers is what and there's a free prologue available for you to try out.",
+          "link": "https://www.gamingonlinux.com/2022/08/spellbook-demonslayers-is-the-most-insane-vampire-survivors-like-yet/",
+          "publishedOn": "2022-08-17T19:37:25.000Z",
+          "wordCount": 1145,
+          "title": "Spellbook Demonslayers is the most insane Vampire Survivors-like yet",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1290214642id21461gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/08/blossom-tales-2-the-minotaur-prince-out-with-linux-support/",
           "author": "Liam Dawe",
           "description": "Blossom Tales 2: The Minotaur Prince is a new Native Linux release from Castle Pixel and Playtonic Friends. It hasn't been Steam Deck Verified yet but works great.",
@@ -11401,6 +11411,51 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "i4Mbbw87hnKB3ktstRfRR",
+          "author": null,
+          "description": "Samsung's 8th Generation V-NAND memory looms to production.",
+          "link": "https://www.tomshardware.com/news/samsung-preps-v8-nand-memory",
+          "publishedOn": "2022-08-17T19:46:50.000Z",
+          "wordCount": 17772,
+          "title": "Samsung Preps Next-Gen V-NAND Memory: Higher Capacity and Performance",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/NeSV3W2KPofGY6wwmTQKS6.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/NeSV3W2KPofGY6wwmTQKS6.png"
+        },
+        {
+          "id": "4iX6X22hrdQnxJ2cwNUcgE",
+          "author": "francisco.pires@outlook.com (Francisco Pires)",
+          "description": "A team of researchers from China managed to entangle two different quantum memories across a 12.5 km distance in an urban environment, bringing the promise of a quantum internet closer.",
+          "link": "https://www.tomshardware.com/news/record-on-quantum-entanglement-at-a-distance-broken-pulling-in-the-timeline-for-a-quantum-internet",
+          "publishedOn": "2022-08-17T19:41:24.000Z",
+          "wordCount": 18019,
+          "title": "Record on Quantum Entanglement at a Distance Broken, Pulling in The Timeline for a Quantum Internet",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/aLPKwxYhTQ5fqdZKzLCHoT.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/aLPKwxYhTQ5fqdZKzLCHoT.jpg"
+        },
+        {
+          "id": "6wtZpUEaforCVTAGtmxdbV",
+          "author": null,
+          "description": "Tesla is growing its Ampere GPU powered AI supercomputer for now, but ultimately plans to replace the processing power with its own Dojo D1 ASICs forged on TSMC N7.",
+          "link": "https://www.tomshardware.com/news/tesla-brags-about-in-house-supercomputer-now-with-7360-a100-gpus",
+          "publishedOn": "2022-08-17T18:57:29.000Z",
+          "wordCount": 17754,
+          "title": "Tesla Brags About In-House Supercomputer, Now With 7,360 A100 GPUs",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/ixvwdVZTkeZYj38cefRSBM.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/ixvwdVZTkeZYj38cefRSBM.jpg"
+        },
+        {
           "id": "wBNkXZjRzet5ZR4NMe2uRo",
           "author": null,
           "description": "Corsair has teased its first PCIe 5.0 SSD, showing speeds of up to 10,000MB/s. Full specs and release date weren't shared, but we expect it may launch this winter.",
@@ -20653,6 +20708,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/17/software_developer_cracks_hyundai_encryption/",
+          "author": null,
+          "description": "<h4>Top tip: Your RSA private key should not be copied from a public code tutorial</h4> <p>A developer says he was able to run his own software on his car infotainment hardware after discovering the vehicle's manufacturer had secured its system using keys that were not only publicly known but had been lifted from programming examples.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/17/software_developer_cracks_hyundai_encryption/",
+          "publishedOn": "2022-08-17T20:19:09.000Z",
+          "wordCount": 1848,
+          "title": "Software developer cracks Hyundai car encryption with Google search",
+          "imageUrl": "https://regmedia.co.uk/2019/11/22/shutterstock_hand_through_scree.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/17/darktortilla_crypter_malware_secureworks/",
           "author": null,
