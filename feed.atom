@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-16T23:20:55.679Z</updated>
+    <updated>2022-08-17T02:29:24.326Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[DARPA seeks a few good AI coders to help America find its own rare minerals]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/17/darpa_metals_ai/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/17/darpa_metals_ai/"/>
+        <updated>2022-08-17T01:28:05.000Z</updated>
+        <summary type="html"><![CDATA[<h4>There's some pocket change in it for you, if you can crack this nut</h4> <p>DARPA – the US government's boffinry nerve center – is offering up to $10,000 to programmers who can whip up some AI to help find rare earth minerals on our home world and ease US supply constraints of critical materials needed by the energy and defense industry.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The trade ban that wasn't: US allows 94% of restricted tech exports to China anyway]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/17/china_us_export_ban_truth/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/17/china_us_export_ban_truth/"/>
+        <updated>2022-08-17T00:20:13.000Z</updated>
+        <summary type="html"><![CDATA[<h4>谢谢 美国!</h4> <p>US Commerce Department can make all the noise it wants about limiting tech exports to China, but it is reportedly doing little to actual stem the flow of components and equipment.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tachyum Submits Bid to Build 20 Exaflops Supercomputer]]></title>
+        <id>3yMmxDetPXMzhpYxQCxp9o</id>
+        <link href="https://www.tomshardware.com/news/tachyum-submits-bid-to-build-20-exaflops-supercomputer"/>
+        <updated>2022-08-16T23:45:22.000Z</updated>
+        <summary type="html"><![CDATA[Tachyum proposes to build a 20 exaflops supercomputer based on its Prodigy processors by 2025.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RubyGems now requires multi-factor auth for top package maintainers]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/16/rubygems_package_registry_mfa/</id>
