@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-17T07:20:37.574Z</updated>
+    <updated>2022-08-17T08:29:13.479Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mozilla finds 18 of 25 popular reproductive health apps leak data]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/17/mozilla_pregnancy_app/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/17/mozilla_pregnancy_app/"/>
+        <updated>2022-08-17T08:00:20.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Scary in post-Roe America, and Poland, and far too many other places</h4> <p>It's official: your period and/or pregnancy tracker will probably share your data with law enforcement. And they might even do it on purpose.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call of Duty: Modern Warfare 2:s kampanj släpps tidigare för digitala förhandsbokare]]></title>
+        <id>https://www.fz.se/artikel/291138</id>
+        <link href="https://www.fz.se/artikel/291138-call-of-duty-modern-warfare-2s-kampanj-slapps-tidigare-for-digitala-forhandsbokare"/>
+        <updated>2022-08-17T07:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Lira upp till en vecka innan resten av spelet släpps.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Deck gets a Stable Client update with Offline Mode fixes]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/steam-deck-gets-a-stable-client-update-with-offline-mode-fixes/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/steam-deck-gets-a-stable-client-update-with-offline-mode-fixes/"/>
+        <updated>2022-08-17T07:46:30.000Z</updated>
+        <summary type="html"><![CDATA[Not long after a bunch of changes rolled out to Preview and Beta, Valve has updated the Steam Deck Client software with various improvements.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valve dev understandably not happy about glibc breaking Easy Anti-Cheat on Linux]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/valve-dev-understandably-not-happy-about-glibc-breaking-easy-anti-cheat-on-linux/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/valve-dev-understandably-not-happy-about-glibc-breaking-easy-anti-cheat-on-linux/"/>
+        <updated>2022-08-17T07:37:11.000Z</updated>
+        <summary type="html"><![CDATA[Recently it was noticed that users on more bleeding-edge Linux distributions that updated saw Easy Anti-Cheat no longer working on Linux, the culprit was glibc and now a Valve developer has spoken out about it.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Australian court overturns 'Google is a publisher' decision]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/17/google_australia_not_defamation_publisher/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/17/google_australia_not_defamation_publisher/"/>
+        <updated>2022-08-17T07:32:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Precedent essentially meant that search results could be considered defamatory, which is dumb</h4> <p>Australia's High Court has overturned the 2020 <a target="_blank" href="https://www.theregister.com/2020/04/30/google_publisher_australian_court_rules/">decision</a> that search results pointing to news stories make Google a publisher.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UK hospitals lose millions after AI startup valuation collapses]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/17/nhs_hospitals_ai_losses/</id>
