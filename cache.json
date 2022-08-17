@@ -7337,6 +7337,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/NTFS3-Linux-6.0-Updates",
+          "author": null,
+          "description": "NTFS3 as the modern Linux kernel read/write file-system driver for NTFS that was open-sourced by Paragon Software is seeing some late code refactoring and fixes for Linux 6.0...",
+          "link": "https://www.phoronix.com/news/NTFS3-Linux-6.0-Updates",
+          "publishedOn": "2022-08-17T22:18:07.000Z",
+          "wordCount": 1390,
+          "title": "NTFS3 File-System Driver Sees Late Refactoring For Linux 6.0",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/review/veikk-vk1200",
           "author": null,
           "description": "VEIKK is a company I previously hadn't heard of that offers a range of pen displays and drawing tablets for digital artists. At first when they reached out around reviewing one of their drawing tablets, I questioned their Linux support but it turns out their graphics tablets do work across all major platforms. I've been trying out the VEIKK VK1200 the past few weeks and it's been working out decent as a 11.6-inch drawing monitor for just $169 USD.",
@@ -15027,6 +15037,26 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1874397",
+          "author": "Kevin Purdy",
+          "description": "It's the fifth Chrome zero-day patched by Google this year.",
+          "link": "https://arstechnica.com/?p=1874397",
+          "publishedOn": "2022-08-17T20:49:47.000Z",
+          "wordCount": 1235,
+          "title": "Update Chrome now to patch actively exploited zero-day",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-486305786-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1874393",
+          "author": "Andrew Cunningham",
+          "description": "New chips, new cameras, and the death of the iPhone mini are all possibilities.",
+          "link": "https://arstechnica.com/?p=1874393",
+          "publishedOn": "2022-08-17T20:40:50.000Z",
+          "wordCount": 1503,
+          "title": "Apple reportedly plans iPhone and Apple Watch event for September 7th",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/iPhone-13-Pro-Max-back-760x380.jpeg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1874069",
           "author": "Jeff Dunn",
           "description": "Dealmaster also has the Xbox Series S, 8BitDo gamepads, and board games.",
@@ -19064,6 +19094,16 @@
           "id": "https://www.sweclockers.com/artikel/34768",
           "author": null,
           "description": "Indikationer om att Sony har en Playstation-launcher på gång till PC har hittats i samband med nya Spider-Man Remastered.",
+          "link": "https://www.sweclockers.com/artikel/34768-sony-kan-ha-pc-launcher-pa-ingang",
+          "publishedOn": "2022-08-17T10:12:14.000Z",
+          "wordCount": 1722,
+          "title": "Sony kan ha PC-launcher på ingång",
+          "imageUrl": "https://www.sweclockers.com/artikel/34768/og-image"
+        },
+        {
+          "id": "https://www.sweclockers.com/artikel/34768",
+          "author": null,
+          "description": "Indikationer om att Sony har en Playstation-launcher på gång till PC har hittats i samband med nya Spider-Man Remastered.",
           "link": "https://www.sweclockers.com/artikel/34768-sony-verkar-ha-pc-launcher-pa-ingang",
           "publishedOn": "2022-08-17T10:12:14.000Z",
           "wordCount": 1645,
@@ -20778,6 +20818,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/17/airbnb_antiparty_technology/",
+          "author": null,
+          "description": "<h4>Looking to book a large house on a weekend? You'll have to jump through a few hoops</h4> <p>Pleased with the \"success\" of a pilot program in Australia, Airbnb is bringing its \"anti-party technology\" to the US and Canada. …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/17/airbnb_antiparty_technology/",
+          "publishedOn": "2022-08-17T21:41:54.000Z",
+          "wordCount": 1524,
+          "title": "Airbnb turns its anti-partying tech on American lodgers",
+          "imageUrl": "https://regmedia.co.uk/2022/08/17/shutterstock_house_party.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/17/software_developer_cracks_hyundai_encryption/",
           "author": null,
