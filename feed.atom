@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-17T20:23:39.607Z</updated>
+    <updated>2022-08-17T21:20:46.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Turn any Thunderbolt-equipped laptop into a gaming powerhouse with this £93 GPU enclosure]]></title>
+        <id>https://www.rockpapershotgun.com/turn-any-thunderbolt-equipped-laptop-into-a-gaming-powerhouse-with-this-93-gpu-enclosure</id>
+        <link href="https://www.rockpapershotgun.com/turn-any-thunderbolt-equipped-laptop-into-a-gaming-powerhouse-with-this-93-gpu-enclosure"/>
+        <updated>2022-08-17T20:45:58.000Z</updated>
+        <summary type="html"><![CDATA[Thunderbolt graphics card enclosures are one of the coolest bits of kit you can get, I think. Open up this metal box, put a graphics card inside, and suddenly any PC or laptop you connect to it via Thunderbolt gets a substantial upgrade in gaming prowess. These docks used to cost around £200 or £300, but recently we've started to see radically more affordable options - and today we've reached a new low-water mark. 
+The Lenovo Legion BoostStation can handle GPUs up to 300W (think an Nvidia RTX 3070 Ti or AMD RX 6800 XT), and is available for just £93 when you use the code BANK15 to knock 15% off the price at Ebay. 
+Read more]]></summary>
+        <author>
+            <name>Will Judd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dying Light 2 teases first story DLC Bloody Ties in new trailer]]></title>
+        <id>https://www.eurogamer.net/dying-light-2-teases-first-story-dlc-bloody-ties-in-new-trailer</id>
+        <link href="https://www.eurogamer.net/dying-light-2-teases-first-story-dlc-bloody-ties-in-new-trailer"/>
+        <updated>2022-08-17T20:44:05.000Z</updated>
+        <summary type="html"><![CDATA[Techland has shared a brisk tease of Dying Light 2: Stay Human's long-awaited first story DLC, confirming it to be titled Bloody Ties - and hinting at its setting - in a tantalising new trailer.
+
+
+Bloody Ties - the first of two bits of story DLC so far confirmed to be on the way as part of Dying Light 2's five year journey of post-launch support - was originally expected to launch in June but Techland eventually delayed its release to September for additional development.
+
+
+Much is still unknown about what it'll bring, but we do have a few hints based on previous official teases. According to lead designer Tymon Smektała, for instance, it'll run "parallel to the main story" and will focus on "a specific place outside of the Villedor city limits".
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Software developer cracks Hyundai car encryption with Google search]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/17/software_developer_cracks_hyundai_encryption/</id>
@@ -14,6 +44,16 @@
         <summary type="html"><![CDATA[<h4>Top tip: Your RSA private key should not be copied from a public code tutorial</h4> <p>A developer says he was able to run his own software on his car infotainment hardware after discovering the vehicle's manufacturer had secured its system using keys that were not only publicly known but had been lifted from programming examples.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today’s best deals: Amazon Fire HD tablets, Google Pixel 6 phones, and more]]></title>
+        <id>https://arstechnica.com/?p=1874069</id>
+        <link href="https://arstechnica.com/?p=1874069"/>
+        <updated>2022-08-17T19:49:05.000Z</updated>
+        <summary type="html"><![CDATA[Dealmaster also has the Xbox Series S, 8BitDo gamepads, and board games.]]></summary>
+        <author>
+            <name>Jeff Dunn</name>
         </author>
     </entry>
     <entry>
@@ -44,6 +84,36 @@
         <summary type="html"><![CDATA[You've put 100+ hours into Vampire Survivors and now what? Spellbook Demonslayers is what and there's a free prologue available for you to try out.]]></summary>
         <author>
             <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linking to news doesn’t make Google liable for defamation, Australia court rules]]></title>
+        <id>https://arstechnica.com/?p=1874321</id>
+        <link href="https://arstechnica.com/?p=1874321"/>
+        <updated>2022-08-17T19:36:04.000Z</updated>
+        <summary type="html"><![CDATA[High Court finds Google isn't a publisher, says "a hyperlink is merely a tool."]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: We Are OFK is stylish, subversive TV disguised as an indie game]]></title>
+        <id>https://arstechnica.com/?p=1874279</id>
+        <link href="https://arstechnica.com/?p=1874279"/>
+        <updated>2022-08-17T19:26:31.000Z</updated>
+        <summary type="html"><![CDATA[A modern, thoughtful update to the visual novel concept for disaffected Gen Z.]]></summary>
+        <author>
+            <name>Sam Machkovech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New macOS 12.5.1 and iOS 15.6.1 updates patch “actively exploited” vulnerabilities]]></title>
+        <id>https://arstechnica.com/?p=1874361</id>
+        <link href="https://arstechnica.com/?p=1874361"/>
+        <updated>2022-08-17T19:16:33.000Z</updated>
+        <summary type="html"><![CDATA[Kernel and WebKit bugs can allow arbitrary code execution on Apple's devices.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
         </author>
     </entry>
     <entry>
@@ -1523,6 +1593,16 @@ If you click through to the picture and look beyond the Game Pass branding, you'
         <summary type="html"><![CDATA[<h4>谢谢 美国!</h4> <p>US Commerce Department can make all the noise it wants about limiting tech exports to China, but it is reportedly doing little to actual stem the flow of components and equipment.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gen Z]]></title>
+        <id>https://xkcd.com/2660/</id>
+        <link href="https://xkcd.com/2660/"/>
+        <updated>2022-08-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/gen_z.png" title="Curdled milk, of a peculiar kind, made after a Bulgarian recipe and called &quot;yaghurt,&quot; is now a Parisian fad and is believed to be a remedy against growing old. A correspondent who has tried it, says he would prefer to die young. (1905, The Elk Falls Journal)" alt="Curdled milk, of a peculiar kind, made after a Bulgarian recipe and called &quot;yaghurt,&quot; is now a Parisian fad and is believed to be a remedy against growing old. A correspondent who has tried it, says he would prefer to die young. (1905, The Elk Falls Journal)" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
