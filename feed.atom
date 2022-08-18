@@ -2,10 +2,88 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-18T09:23:52.844Z</updated>
+    <updated>2022-08-18T10:26:23.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cloudera launches SaaS platform for the lakehouse crowd]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/18/cloudera_saas_platform/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/18/cloudera_saas_platform/"/>
+        <updated>2022-08-18T10:22:09.000Z</updated>
+        <summary type="html"><![CDATA[<h4>And it IS a crowd – marketplace is busy. Customers get choice of analytics engine and storage layer in open approach</h4> <p>Former Hadoop stalwart Cloudera has announced a fully managed software as a service (SaaS) version of its data platform which it claims is more open than rivals in the over-crowded market.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dead Island 2 story details, release date and screenshots leak]]></title>
+        <id>https://www.eurogamer.net/dead-island-2-story-details-release-date-and-screenshots-leak</id>
+        <link href="https://www.eurogamer.net/dead-island-2-story-details-release-date-and-screenshots-leak"/>
+        <updated>2022-08-18T10:04:49.000Z</updated>
+        <summary type="html"><![CDATA[A set of images from Dead Island 2, and the game's apparent release date, have leaked online.
+
+
+A new listing (which has since seen key details removed) was spotted on Amazon last night, with the release date stated to be 3rd February, 2023.
+
+
+As shared by Wario64, the listing also included story details about the upcoming game. It will reportedly take place in Los Angeles, "from the verdant suburbia of Beverly Hills to the quirky promenade of Venice Beach".
+ 
+Read more]]></summary>
+        <author>
+            <name>Victoria Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embracer vill ha rättigheterna till Sagan om ringen]]></title>
+        <id>https://www.sweclockers.com/artikel/34775</id>
+        <link href="https://www.sweclockers.com/artikel/34775-embracer-vill-ha-rattigheterna-till-sagan-om-ringen"/>
+        <updated>2022-08-18T10:01:03.000Z</updated>
+        <summary type="html"><![CDATA[Svenska speljätten Embracer vill köpa upp Middle-earth Enterprises, som äger rättigheterna till Sagan om ringen och Bilbo – En hobbits äventyr.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quiz – Känner du igen de klassiska peka och klicka-äventyren?]]></title>
+        <id>https://www.fz.se/artikel/291040</id>
+        <link href="https://www.fz.se/artikel/291040-quiz-kanner-du-igen-de-klassiska-peka-och-klicka-aventyren"/>
+        <updated>2022-08-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I veckans quiz får dina äventyrsgener bekänna färg.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLVM Compiler Finally Gets A Tuned Scheduler Model For Intel Alder Lake P]]></title>
+        <id>https://www.phoronix.com/news/LLVM-Intel-ADL-P-Sched-Model</id>
+        <link href="https://www.phoronix.com/news/LLVM-Intel-ADL-P-Sched-Model"/>
+        <updated>2022-08-18T09:47:35.000Z</updated>
+        <summary type="html"><![CDATA[While Intel is normally fast at contributing improvements for new hardware to the open-source GCC and LLVM/Clang compilers, just today and ahead of the approaching Raptor Lake launch has a proper scheduler model finally been added for existing Alder Lake P processors...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMDVLK 2022.Q3.3 Brings Some Performance Tuning For Linux Gamers]]></title>
+        <id>https://www.phoronix.com/news/AMDVLK-2022.Q3.3-Released</id>
+        <link href="https://www.phoronix.com/news/AMDVLK-2022.Q3.3-Released"/>
+        <updated>2022-08-18T09:34:30.000Z</updated>
+        <summary type="html"><![CDATA[AMD has published their latest routine snapshot of AMDVLK, their official open-source Radeon Vulkan driver for Linux systems that is derived from their internal cross-platform Vulkan driver sources and is an alternative to the unofficial but popular Mesa Radeon Vulkan "RADV" driver...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google teaches robots to serve humans – with large language models the key]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/18/google_ai_robot/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/18/google_ai_robot/"/>
+        <updated>2022-08-18T09:26:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Is this it? The robo-butler dream is coming true?</h4> <p><strong>Video</strong>  Google's largest AI language model is helping robots be more flexible in understanding and interpreting human commands, according to the web giant's latest research.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[High Performance Mold Linker Begins Adding macOS, CMake Build Support]]></title>
         <id>https://www.phoronix.com/news/Mold-1.4.1-Linker</id>
