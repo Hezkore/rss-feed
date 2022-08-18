@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-18T17:38:06.009Z</updated>
+    <updated>2022-08-18T18:27:19.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Tales from the Borderlands coming in October, according to Amazon]]></title>
+        <id>https://www.vg247.com/new-tales-from-the-borderlands-october-leak</id>
+        <link href="https://www.vg247.com/new-tales-from-the-borderlands-october-leak"/>
+        <updated>2022-08-18T18:15:12.000Z</updated>
+        <summary type="html"><![CDATA[New Tales from the Borderlands is set to be released October 21, according to a listing on Amazon.
+The listing has since been removed, but luckily the internet is faster than a speeding finger hitting delete, and Gematsu was able to grab all the details.
+For starters, there will be a pre-order incentive called the Adventure Capital Pack that comes with cosmetics for the characters Anu, Octavio, and Fran, It also comes with 10,000 in-game currency as well as an FL4K Vaultlander collectible for use in-game.
+ Read more]]></summary>
+        <author>
+            <name>Stephany Nunneley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Update Acknowledges Your Old Intel CPUs Might Be Vulnerable To MMIO Stale Data]]></title>
+        <id>https://www.phoronix.com/news/Linux-MMIO-Stale-Data-Old-CPUs</id>
+        <link href="https://www.phoronix.com/news/Linux-MMIO-Stale-Data-Old-CPUs"/>
+        <updated>2022-08-18T18:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Made public back in June by Intel was the MMIO Stale Data vulnerabilities. The disclosure noted affected Intel products range from Haswell up through Rocket Lake on the client side or Xeon Scalable Ice Lake servers. However, pre-Haswell Intel CPUs might be impacted too while the Linux kernel to this point was incorrectly stating older CPUs are "not affected" by MMIO Stale Data...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quake 4, Wolfenstein 3D, and more join PC Game Pass as QuakeCon begins]]></title>
+        <id>https://www.eurogamer.net/quake-4-wolfenstein-3d-and-more-join-pc-game-pass-as-quakecon-begins</id>
+        <link href="https://www.eurogamer.net/quake-4-wolfenstein-3d-and-more-join-pc-game-pass-as-quakecon-begins"/>
+        <updated>2022-08-18T17:54:51.000Z</updated>
+        <summary type="html"><![CDATA[QuakeCon returns today as another digital-only event, and Microsoft is getting the celebrations started a little early with the announcement that a fresh batch of Bethesda and id Software titles - including Quake 4 and Wolfenstein 3D - have now joined Game Pass for PC. Additionally, a couple of games are currently free on the Microsoft Store.
+
+
+Starting with Xbox Game Pass on PC, five new titles have joined the line-up as of today. Alongside Quake 4 and Wolfenstein 3D, today sees the arrival of Return to Castle Wolfenstein, An Elder Scrolls Legend: Battlespire, and The Elder Scrolls Adventures: Redguard. Additionally, subscribers can unlock all champions in Quake Champions via a special Game Pass Perk.
+
+
+And on the subject of Quake Champions, it's currently available free on the Microsoft Store, alongside two more QuakeCon freebies - The Elder Scrolls: Arena and The Elder Scrolls: Daggerfall. Also on the Microsoft Store, Heretic: Serpent Riders, Hexen: Beyond Heretic, and Hexen: Deathkings are now available for sale.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elden Ring har nu sålts i 16,6 miljoner exemplar]]></title>
+        <id>https://www.fz.se/artikel/291158</id>
+        <link href="https://www.fz.se/artikel/291158-elden-ring-har-nu-salts-i-166-miljoner-exemplar"/>
+        <updated>2022-08-18T17:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Sköldpaddspåven gillar't.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft brings more Arm64 support and an updated expiry date to Dev Channel Windows]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/18/windows_insider_arm/</id>
@@ -27924,41 +27975,6 @@ index 7fe6dd9e..eabe714a 100644
 The post GNOME 43 Alpha Released to Kick Off GUADEC 2022 in Guadalajara, Mexico appeared first on 9to5Linux - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.]]></summary>
         <author>
             <name>Marius Nestor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enrico Zini: Deconstruction of the DAM hat]]></title>
-        <id>http://www.enricozini.org/blog/2022/debian/deconstruction-of-the-dam-hat</id>
-        <link href="http://www.enricozini.org/blog/2022/debian/deconstruction-of-the-dam-hat"/>
-        <updated>2022-07-20T05:55:05.000Z</updated>
-        <summary type="html"><![CDATA[Slides
-Talk page
-Video of the talk
-Further reading
-Well-Kept Gardens Die By Pacifism
-You cannot create or curate a community where everyone is welcome
-Talk notes
-Intro
-I'm not speaking for the whole of DAM
-Motivation in part is personal frustration, and need to set boundaries and
-  negotiate expectations
-Debian Account Managers
-history
-Responsibility for official membership
-approve account creation
-manage the New Member Process and nm.debian.org
-close MIA accounts
-occasional emergency termination of accounts
-handle Emeritus
-with lots of help from FrontDesk and MIA teams (big shoutout)
-What DAM is not
-we are not mediators
-we are not a community management team
-a list or IRC moderation team
-we are not responsible for vision or strategic choices about how
-  people are expected to interact in …]]></summary>
-        <author>
-            <name>Planet Debian</name>
         </author>
     </entry>
 </feed>

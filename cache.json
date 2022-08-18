@@ -1513,6 +1513,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/quake-4-wolfenstein-3d-and-more-join-pc-game-pass-as-quakecon-begins",
+          "author": "Matt Wales",
+          "description": "QuakeCon returns today as another digital-only event, and Microsoft is getting the celebrations started a little early with the announcement that a fresh batch of Bethesda and id Software titles - including Quake 4 and Wolfenstein 3D - have now joined Game Pass for PC. Additionally, a couple of games are currently free on the Microsoft Store.\r\n\n\r\nStarting with Xbox Game Pass on PC, five new titles have joined the line-up as of today. Alongside Quake 4 and Wolfenstein 3D, today sees the arrival of Return to Castle Wolfenstein, An Elder Scrolls Legend: Battlespire, and The Elder Scrolls Adventures: Redguard. Additionally, subscribers can unlock all champions in Quake Champions via a special Game Pass Perk.\r\n\n\r\nAnd on the subject of Quake Champions, it's currently available free on the Microsoft Store, alongside two more QuakeCon freebies - The Elder Scrolls: Arena and The Elder Scrolls: Daggerfall. Also on the Microsoft Store, Heretic: Serpent Riders, Hexen: Beyond Heretic, and Hexen: Deathkings are now available for sale.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/quake-4-wolfenstein-3d-and-more-join-pc-game-pass-as-quakecon-begins",
+          "publishedOn": "2022-08-18T17:54:51.000Z",
+          "wordCount": 4382,
+          "title": "Quake 4, Wolfenstein 3D, and more join PC Game Pass as QuakeCon begins",
+          "imageUrl": "https://assets.reedpopcdn.com/quakecon-2022-art.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/quakecon-2022-art.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/eurogamer-newscast-what-does-embracers-lord-of-the-rings-buyout-mean-for-middle-earth-games",
           "author": "Tom Phillips",
           "description": "This week on the Eurogamer Newscast, we're talking The Lord of the Rings, The Hobbit and Middle-earth in general - as the rights to Tolkien's world are gobbled up by game publisher Embracer. \r\n\nIt's another huge get for the Swedish conglomerate, which owns an increasingly enormous share of the video games industry. It also means Embracer will soon be in charge of the Middle-earth film and TV rights - and it's already talking about a fresh set of spin-offs and sequels.\r\n\n\r\nBut what does this mean for Lord of the Rings video games? Will Embracer put some/many of its 100+ studios to work on Middle-earth projects? And what kinds of games would we like to see - and by whom? Tom Phillips, Victoria Kennedy, Ishraq Subhan and Liv Ngan discuss.\r\n \nRead more",
@@ -5210,6 +5220,16 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/new-tales-from-the-borderlands-october-leak",
+          "author": "Stephany Nunneley",
+          "description": "New Tales from the Borderlands is set to be released October 21, according to a listing on Amazon.\nThe listing has since been removed, but luckily the internet is faster than a speeding finger hitting delete, and Gematsu was able to grab all the details.\nFor starters, there will be a pre-order incentive called the Adventure Capital Pack that comes with cosmetics for the characters Anu, Octavio, and Fran, It also comes with 10,000 in-game currency as well as an FL4K Vaultlander collectible for use in-game.\n Read more",
+          "link": "https://www.vg247.com/new-tales-from-the-borderlands-october-leak",
+          "publishedOn": "2022-08-18T18:15:12.000Z",
+          "wordCount": 4587,
+          "title": "New Tales from the Borderlands coming in October, according to Amazon",
+          "imageUrl": "https://asset.vg247.com/new-tales-from-the-borderlands.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/new-tales-from-the-borderlands.jpg"
+        },
+        {
           "id": "https://www.vg247.com/marvels-spider-man-pc-update",
           "author": "Stephany Nunneley",
           "description": "Marvel’s Spider-Man Remastered was released last Friday, and Insomniac Games and Nixxes Software have released a first small patch with multiple fixes and improvements.\nAccording to the developers, the teams are working on the next patch that will be more substantial and consists of bug fixes, improvements, and additional features, based on the feedback received.\nThis patch fixes various ray-tracing-related crashes, improves Windows version check to prevent false positives, makes visual improvements to HBAO+, and fixes the issue where ray-traced reflections in stainless steel were rendered distorted.\n Read more",
@@ -7586,6 +7606,16 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Linux-MMIO-Stale-Data-Old-CPUs",
+          "author": null,
+          "description": "Made public back in June by Intel was the MMIO Stale Data vulnerabilities. The disclosure noted affected Intel products range from Haswell up through Rocket Lake on the client side or Xeon Scalable Ice Lake servers. However, pre-Haswell Intel CPUs might be impacted too while the Linux kernel to this point was incorrectly stating older CPUs are \"not affected\" by MMIO Stale Data...",
+          "link": "https://www.phoronix.com/news/Linux-MMIO-Stale-Data-Old-CPUs",
+          "publishedOn": "2022-08-18T18:00:03.000Z",
+          "wordCount": 1521,
+          "title": "Linux Update Acknowledges Your Old Intel CPUs Might Be Vulnerable To MMIO Stale Data",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Qt-Axivion",
           "author": null,
@@ -15506,16 +15536,6 @@
           "wordCount": 441,
           "title": "Antoine Beaupré: Relaying mail through debian.org",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.enricozini.org/blog/2022/debian/deconstruction-of-the-dam-hat",
-          "author": null,
-          "description": "Slides\nTalk page\nVideo of the talk\nFurther reading\nWell-Kept Gardens Die By Pacifism\nYou cannot create or curate a community where everyone is welcome\nTalk notes\nIntro\nI'm not speaking for the whole of DAM\nMotivation in part is personal frustration, and need to set boundaries and\n  negotiate expectations\nDebian Account Managers\nhistory\nResponsibility for official membership\napprove account creation\nmanage the New Member Process and nm.debian.org\nclose MIA accounts\noccasional emergency termination of accounts\nhandle Emeritus\nwith lots of help from FrontDesk and MIA teams (big shoutout)\nWhat DAM is not\nwe are not mediators\nwe are not a community management team\na list or IRC moderation team\nwe are not responsible for vision or strategic choices about how\n  people are expected to interact in …",
-          "link": "http://www.enricozini.org/blog/2022/debian/deconstruction-of-the-dam-hat",
-          "publishedOn": "2022-07-20T05:55:05.000Z",
-          "wordCount": 1979,
-          "title": "Enrico Zini: Deconstruction of the DAM hat",
-          "imageUrl": null
         }
       ]
     },
@@ -17738,6 +17758,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291158",
+          "author": null,
+          "description": "Sköldpaddspåven gillar't.",
+          "link": "https://www.fz.se/artikel/291158-elden-ring-har-nu-salts-i-166-miljoner-exemplar",
+          "publishedOn": "2022-08-18T17:46:00.000Z",
+          "wordCount": 1930,
+          "title": "Elden Ring har nu sålts i 16,6 miljoner exemplar",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291158"
+        },
         {
           "id": "https://www.fz.se/artikel/291161",
           "author": null,
