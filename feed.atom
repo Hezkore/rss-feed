@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-18T16:38:14.763Z</updated>
+    <updated>2022-08-18T17:38:06.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft brings more Arm64 support and an updated expiry date to Dev Channel Windows]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/18/windows_insider_arm/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/18/windows_insider_arm/"/>
+        <updated>2022-08-18T17:30:09.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Best before September 15, 2023</h4> <p>Microsoft has demonstrated that it really does care about Windows on Arm with a new Dev Channel build for Windows that brings native Arm64 support to its camera app as a low-impact start.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung 990 Pro Is the Center of a PCIe Mystery]]></title>
+        <id>XUwyzpearUducBK42hPTUi</id>
+        <link href="https://www.tomshardware.com/news/samsung-990-pro-could-be-pcie-5-or-4"/>
+        <updated>2022-08-18T17:29:19.000Z</updated>
+        <summary type="html"><![CDATA[New evidence surrounding Samsung's 990 Pro SSD suggest it will be either a PCIe 4.0 or PCIe 5.0 drive.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Covert Critter is basically Metal Gear Solid with lizards]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/covert-critter-is-basically-metal-gear-solid-with-lizards/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/covert-critter-is-basically-metal-gear-solid-with-lizards/"/>
+        <updated>2022-08-18T17:21:41.000Z</updated>
+        <summary type="html"><![CDATA[Sneaking out at some point, Covert Critter is an upcoming stealth action game that will have Native Linux support. It's also pretty much Metal Gear Solid with animals.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marvel's Spider-Man PC update brings improvements to DLSS, ray tracing]]></title>
+        <id>https://www.vg247.com/marvels-spider-man-pc-update</id>
+        <link href="https://www.vg247.com/marvels-spider-man-pc-update"/>
+        <updated>2022-08-18T17:16:23.000Z</updated>
+        <summary type="html"><![CDATA[Marvel’s Spider-Man Remastered was released last Friday, and Insomniac Games and Nixxes Software have released a first small patch with multiple fixes and improvements.
+According to the developers, the teams are working on the next patch that will be more substantial and consists of bug fixes, improvements, and additional features, based on the feedback received.
+This patch fixes various ray-tracing-related crashes, improves Windows version check to prevent false positives, makes visual improvements to HBAO+, and fixes the issue where ray-traced reflections in stainless steel were rendered distorted.
+ Read more]]></summary>
+        <author>
+            <name>Stephany Nunneley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Old laptop hard drives will allegedly crash when exposed to Janet Jackson music]]></title>
+        <id>https://arstechnica.com/?p=1874520</id>
+        <link href="https://arstechnica.com/?p=1874520"/>
+        <updated>2022-08-18T16:54:06.000Z</updated>
+        <summary type="html"><![CDATA[Problem has been assigned an official CVE ID, despite lack of specifics.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China, US relations further soured by CHIPS Act]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/18/china_us_relations_chips_act/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/18/china_us_relations_chips_act/"/>
+        <updated>2022-08-18T16:45:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Beijing says legislation designed to interfere with its own efforts to build homegrown semiconductor industry</h4> <p>China has reacted negatively to the passing of the US CHIPS Act, saying that the program is anti-competitive and aims to block the Middle Kingdom's efforts to build up its own semiconductor industry.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quakecon börjar klockan 19 i dag]]></title>
+        <id>https://www.fz.se/artikel/291161</id>
+        <link href="https://www.fz.se/artikel/291161-quakecon-borjar-klockan-19-i-dag"/>
+        <updated>2022-08-18T16:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Massa Bethesda-spel i heldigitalt, streamat event.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What does Embracer's Lord of the Rings buyout mean for Middle-earth games?]]></title>
+        <id>https://www.eurogamer.net/eurogamer-newscast-what-does-embracers-lord-of-the-rings-buyout-mean-for-middle-earth-games</id>
+        <link href="https://www.eurogamer.net/eurogamer-newscast-what-does-embracers-lord-of-the-rings-buyout-mean-for-middle-earth-games"/>
+        <updated>2022-08-18T16:41:48.000Z</updated>
+        <summary type="html"><![CDATA[This week on the Eurogamer Newscast, we're talking The Lord of the Rings, The Hobbit and Middle-earth in general - as the rights to Tolkien's world are gobbled up by game publisher Embracer. 
+
+It's another huge get for the Swedish conglomerate, which owns an increasingly enormous share of the video games industry. It also means Embracer will soon be in charge of the Middle-earth film and TV rights - and it's already talking about a fresh set of spin-offs and sequels.
+
+
+But what does this mean for Lord of the Rings video games? Will Embracer put some/many of its 100+ studios to work on Middle-earth projects? And what kinds of games would we like to see - and by whom? Tom Phillips, Victoria Kennedy, Ishraq Subhan and Liv Ngan discuss.
+ 
+Read more]]></summary>
+        <author>
+            <name>Tom Phillips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zoom patches critical vulnerability again after prior fix was bypassed]]></title>
+        <id>https://arstechnica.com/?p=1874557</id>
+        <link href="https://arstechnica.com/?p=1874557"/>
+        <updated>2022-08-18T16:39:46.000Z</updated>
+        <summary type="html"><![CDATA[MacOS security researcher was able to bypass the fix issued just last weekend.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spana in en vacker videogenomgång av kommande A Plague Tale: Requiem]]></title>
+        <id>https://www.fz.se/artikel/291157</id>
+        <link href="https://www.fz.se/artikel/291157-spana-in-en-vacker-videogenomgang-av-kommande-a-plague-tale-requiem"/>
+        <updated>2022-08-18T16:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Uppföljaren till den omtyckta AA-titeln från Asobo Studio.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[QuakeCon returns today as a digital-only event, here are some highlights]]></title>
         <id>https://www.rockpapershotgun.com/quakecon-returns-today-as-a-digital-only-event-here-are-some-highlights</id>
@@ -27,6 +137,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[The weekend is coming closer and you want some new games? Check out the small Paradox Interactive bundle from Humble Bundle with a few of what they've published.]]></summary>
         <author>
             <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix’s ad-supported plan likely to have another drawback: No video downloads]]></title>
+        <id>https://arstechnica.com/?p=1874555</id>
+        <link href="https://arstechnica.com/?p=1874555"/>
+        <updated>2022-08-18T16:20:18.000Z</updated>
+        <summary type="html"><![CDATA[Text found in iOS app code says plan won't allow downloads for offline viewing.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
         </author>
     </entry>
     <entry>
@@ -55,6 +175,16 @@ These deals are both available until 25th August. After that, Ring of Pain will 
 Read more]]></summary>
         <author>
             <name>Victoria Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hundreds of cosmetic MultiVersus mods stop working in apparent crackdown]]></title>
+        <id>https://arstechnica.com/?p=1874540</id>
+        <link href="https://arstechnica.com/?p=1874540"/>
+        <updated>2022-08-18T16:01:12.000Z</updated>
+        <summary type="html"><![CDATA[Twitch streamers also hit for playing with modded characters like Jesus Christ.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
         </author>
     </entry>
     <entry>
@@ -101,6 +231,16 @@ You can expect more than 10 PC games covering FPS and RPG titles as well as a sa
         <summary type="html"><![CDATA[The Core i9 Raptor Lake chip jumps from being 39% to 59% faster than its Alder Lake predecessor thanks to the application of an improved cooling solution.]]></summary>
         <author>
             <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ring patched an Android bug that could have exposed video footage]]></title>
+        <id>https://arstechnica.com/?p=1874519</id>
+        <link href="https://arstechnica.com/?p=1874519"/>
+        <updated>2022-08-18T15:38:52.000Z</updated>
+        <summary type="html"><![CDATA[After a chain of attacks, security firm got access to locations and recordings.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
         </author>
     </entry>
     <entry>
@@ -27819,16 +27959,6 @@ we are not responsible for vision or strategic choices about how
   people are expected to interact in …]]></summary>
         <author>
             <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update a Single Package With apt Command in Ubuntu and Debian]]></title>
-        <id>https://itsfoss.com/?p=99346</id>
-        <link href="https://itsfoss.com/apt-upgrade-single-package/"/>
-        <updated>2022-07-20T05:32:17.000Z</updated>
-        <summary type="html"><![CDATA[The apt command usually upgrades the entire upgradable packages at once. Here's how to upgrade only a single package or a selected few packages in Ubuntu.]]></summary>
-        <author>
-            <name>Abhishek Prakash</name>
         </author>
     </entry>
 </feed>

@@ -250,16 +250,6 @@
           "wordCount": 7379,
           "title": "Fixing the “Pending Update of Firefox snap” Error in Ubuntu",
           "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/07/pending-update-of-firefox-snap-error-ubuntu.png"
-        },
-        {
-          "id": "https://itsfoss.com/?p=99346",
-          "author": "Abhishek Prakash",
-          "description": "The apt command usually upgrades the entire upgradable packages at once. Here's how to upgrade only a single package or a selected few packages in Ubuntu.",
-          "link": "https://itsfoss.com/apt-upgrade-single-package/",
-          "publishedOn": "2022-07-20T05:32:17.000Z",
-          "wordCount": 6891,
-          "title": "Update a Single Package With apt Command in Ubuntu and Debian",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/07/upgrade-single-package-in-ubuntu-with-apt.png"
         }
       ]
     },
@@ -305,6 +295,16 @@
       "feedUrl": "http://www.gamingonlinux.com/news_rss.php",
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
+        {
+          "id": "https://www.gamingonlinux.com/2022/08/covert-critter-is-basically-metal-gear-solid-with-lizards/",
+          "author": "Liam Dawe",
+          "description": "Sneaking out at some point, Covert Critter is an upcoming stealth action game that will have Native Linux support. It's also pretty much Metal Gear Solid with animals.",
+          "link": "https://www.gamingonlinux.com/2022/08/covert-critter-is-basically-metal-gear-solid-with-lizards/",
+          "publishedOn": "2022-08-18T17:21:41.000Z",
+          "wordCount": 1299,
+          "title": "Covert Critter is basically Metal Gear Solid with lizards",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/805412657id21464gol.jpg"
+        },
         {
           "id": "https://www.gamingonlinux.com/2022/08/theres-a-new-bundle-with-some-paradox-interactive-titles/",
           "author": "Liam Dawe",
@@ -1512,6 +1512,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/eurogamer-newscast-what-does-embracers-lord-of-the-rings-buyout-mean-for-middle-earth-games",
+          "author": "Tom Phillips",
+          "description": "This week on the Eurogamer Newscast, we're talking The Lord of the Rings, The Hobbit and Middle-earth in general - as the rights to Tolkien's world are gobbled up by game publisher Embracer. \r\n\nIt's another huge get for the Swedish conglomerate, which owns an increasingly enormous share of the video games industry. It also means Embracer will soon be in charge of the Middle-earth film and TV rights - and it's already talking about a fresh set of spin-offs and sequels.\r\n\n\r\nBut what does this mean for Lord of the Rings video games? Will Embracer put some/many of its 100+ studios to work on Middle-earth projects? And what kinds of games would we like to see - and by whom? Tom Phillips, Victoria Kennedy, Ishraq Subhan and Liv Ngan discuss.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/eurogamer-newscast-what-does-embracers-lord-of-the-rings-buyout-mean-for-middle-earth-games",
+          "publishedOn": "2022-08-18T16:41:48.000Z",
+          "wordCount": 4490,
+          "title": "What does Embracer's Lord of the Rings buyout mean for Middle-earth games?",
+          "imageUrl": "https://assets.reedpopcdn.com/eg21_podcast_cover_newscast_1920x1080px_aw.png/BROK/thumbnail/1600x900/format/jpg/quality/80/eg21_podcast_cover_newscast_1920x1080px_aw.png"
+        },
         {
           "id": "https://www.eurogamer.net/doom-64-is-currently-free-on-epic-games-store",
           "author": "Victoria Kennedy",
@@ -5199,6 +5209,16 @@
       "feedUrl": "https://www.vg247.com/feed",
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
+        {
+          "id": "https://www.vg247.com/marvels-spider-man-pc-update",
+          "author": "Stephany Nunneley",
+          "description": "Marvel’s Spider-Man Remastered was released last Friday, and Insomniac Games and Nixxes Software have released a first small patch with multiple fixes and improvements.\nAccording to the developers, the teams are working on the next patch that will be more substantial and consists of bug fixes, improvements, and additional features, based on the feedback received.\nThis patch fixes various ray-tracing-related crashes, improves Windows version check to prevent false positives, makes visual improvements to HBAO+, and fixes the issue where ray-traced reflections in stainless steel were rendered distorted.\n Read more",
+          "link": "https://www.vg247.com/marvels-spider-man-pc-update",
+          "publishedOn": "2022-08-18T17:16:23.000Z",
+          "wordCount": 4610,
+          "title": "Marvel's Spider-Man PC update brings improvements to DLSS, ray tracing",
+          "imageUrl": "https://asset.vg247.com/marvels-spider-man-pc-10.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/marvels-spider-man-pc-10.jpg"
+        },
         {
           "id": "https://www.vg247.com/midnight-fight-express-review-superb-game-pass-brawler-your-inner-john-wick",
           "author": "Sherif Saed",
@@ -11851,6 +11871,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "XUwyzpearUducBK42hPTUi",
+          "author": null,
+          "description": "New evidence surrounding Samsung's 990 Pro SSD suggest it will be either a PCIe 4.0 or PCIe 5.0 drive.",
+          "link": "https://www.tomshardware.com/news/samsung-990-pro-could-be-pcie-5-or-4",
+          "publishedOn": "2022-08-18T17:29:19.000Z",
+          "wordCount": 17758,
+          "title": "Samsung 990 Pro Is the Center of a PCIe Mystery",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/yKTVMy3T9zR6dAM3zWwjVM.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/yKTVMy3T9zR6dAM3zWwjVM.jpg"
+        },
+        {
           "id": "Wa9psDDWj5tJ5dq4NG6d76",
           "author": null,
           "description": "ThinkLearnDo has created a Raspberry Pi-powered keychain holder that can back up data overnight to a USB thumb drive.",
@@ -15607,6 +15642,56 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1874520",
+          "author": "Andrew Cunningham",
+          "description": "Problem has been assigned an official CVE ID, despite lack of specifics.",
+          "link": "https://arstechnica.com/?p=1874520",
+          "publishedOn": "2022-08-18T16:54:06.000Z",
+          "wordCount": 1462,
+          "title": "Old laptop hard drives will allegedly crash when exposed to Janet Jackson music",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/WD-006-9-platter-Ultrastar-18TB-HDD-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1874557",
+          "author": "Kevin Purdy",
+          "description": "MacOS security researcher was able to bypass the fix issued just last weekend.",
+          "link": "https://arstechnica.com/?p=1874557",
+          "publishedOn": "2022-08-18T16:39:46.000Z",
+          "wordCount": 1274,
+          "title": "Zoom patches critical vulnerability again after prior fix was bypassed",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1233188561-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1874555",
+          "author": "Jon Brodkin",
+          "description": "Text found in iOS app code says plan won't allow downloads for offline viewing.",
+          "link": "https://arstechnica.com/?p=1874555",
+          "publishedOn": "2022-08-18T16:20:18.000Z",
+          "wordCount": 1658,
+          "title": "Netflix’s ad-supported plan likely to have another drawback: No video downloads",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-netflix-ipad-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1874540",
+          "author": "Kyle Orland",
+          "description": "Twitch streamers also hit for playing with modded characters like Jesus Christ.",
+          "link": "https://arstechnica.com/?p=1874540",
+          "publishedOn": "2022-08-18T16:01:12.000Z",
+          "wordCount": 1554,
+          "title": "Hundreds of cosmetic MultiVersus mods stop working in apparent crackdown",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/repent-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1874519",
+          "author": "Kevin Purdy",
+          "description": "After a chain of attacks, security firm got access to locations and recordings.",
+          "link": "https://arstechnica.com/?p=1874519",
+          "publishedOn": "2022-08-18T15:38:52.000Z",
+          "wordCount": 1383,
+          "title": "Ring patched an Android bug that could have exposed video footage",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/20201118_US_packaging_image_lifestyle_flcprogen1_pov_family_front_yard_rgb_crop-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1874491",
           "author": "Jonathan M. Gitlin",
           "description": "Swedish publication Vi Bilägare quantified the problem with new tests.",
@@ -17653,6 +17738,26 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291161",
+          "author": null,
+          "description": "Massa Bethesda-spel i heldigitalt, streamat event.",
+          "link": "https://www.fz.se/artikel/291161-quakecon-borjar-klockan-19-i-dag",
+          "publishedOn": "2022-08-18T16:45:00.000Z",
+          "wordCount": 1867,
+          "title": "Quakecon börjar klockan 19 i dag",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291161"
+        },
+        {
+          "id": "https://www.fz.se/artikel/291157",
+          "author": null,
+          "description": "Uppföljaren till den omtyckta AA-titeln från Asobo Studio.",
+          "link": "https://www.fz.se/artikel/291157-spana-in-en-vacker-videogenomgang-av-kommande-a-plague-tale-requiem",
+          "publishedOn": "2022-08-18T16:36:00.000Z",
+          "wordCount": 1910,
+          "title": "Spana in en vacker videogenomgång av kommande A Plague Tale: Requiem",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291157"
+        },
         {
           "id": "https://www.fz.se/artikel/291155",
           "author": null,
@@ -21608,6 +21713,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/18/windows_insider_arm/",
+          "author": null,
+          "description": "<h4>Best before September 15, 2023</h4> <p>Microsoft has demonstrated that it really does care about Windows on Arm with a new Dev Channel build for Windows that brings native Arm64 support to its camera app as a low-impact start.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/18/windows_insider_arm/",
+          "publishedOn": "2022-08-18T17:30:09.000Z",
+          "wordCount": 1367,
+          "title": "Microsoft brings more Arm64 support and an updated expiry date to Dev Channel Windows",
+          "imageUrl": "https://regmedia.co.uk/2021/06/15/screenshot_windows_11_leak_c.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/18/china_us_relations_chips_act/",
+          "author": null,
+          "description": "<h4>Beijing says legislation designed to interfere with its own efforts to build homegrown semiconductor industry</h4> <p>China has reacted negatively to the passing of the US CHIPS Act, saying that the program is anti-competitive and aims to block the Middle Kingdom's efforts to build up its own semiconductor industry.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/18/china_us_relations_chips_act/",
+          "publishedOn": "2022-08-18T16:45:10.000Z",
+          "wordCount": 1455,
+          "title": "China, US relations further soured by CHIPS Act",
+          "imageUrl": "https://regmedia.co.uk/2019/05/16/war.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/18/google_record_ddos/",
           "author": null,
