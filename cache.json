@@ -296,6 +296,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/08/get-a-couple-treats-in-the-new-linux-thrills-bundle-on-steam/",
+          "author": "Liam Dawe",
+          "description": "Hanoi Studios have today put up their second multi-developer bundle on Steam, with a primary focus on highlighting studios that support Linux.",
+          "link": "https://www.gamingonlinux.com/2022/08/get-a-couple-treats-in-the-new-linux-thrills-bundle-on-steam/",
+          "publishedOn": "2022-08-18T18:40:11.000Z",
+          "wordCount": 1179,
+          "title": "Get a couple treats in the new Linux & Thrills bundle on Steam",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1724359003id21466gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/08/covert-critter-is-basically-metal-gear-solid-with-lizards/",
           "author": "Liam Dawe",
           "description": "Sneaking out at some point, Covert Critter is an upcoming stealth action game that will have Native Linux support. It's also pretty much Metal Gear Solid with animals.",
@@ -7607,6 +7617,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/GCC-LLVM-bf16-BFloat16-Type",
+          "author": null,
+          "description": "Following optional \"__bf16\" support being added to the x86-64 psABI as a special type for representing 16-bit Brain Floating Point Format for deep learning / machine learning applications, the GCC and LLVM compilers have now landed their __bf16 type support...",
+          "link": "https://www.phoronix.com/news/GCC-LLVM-bf16-BFloat16-Type",
+          "publishedOn": "2022-08-18T18:45:25.000Z",
+          "wordCount": 1357,
+          "title": "GCC & LLVM Ready With x86 __bf16 Type Support",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-MMIO-Stale-Data-Old-CPUs",
           "author": null,
           "description": "Made public back in June by Intel was the MMIO Stale Data vulnerabilities. The disclosure noted affected Intel products range from Haswell up through Rocket Lake on the client side or Xeon Scalable Ice Lake servers. However, pre-Haswell Intel CPUs might be impacted too while the Linux kernel to this point was incorrectly stating older CPUs are \"not affected\" by MMIO Stale Data...",
@@ -11901,6 +11921,66 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "ieoXFB9uE8yEvHuA3WqhPn",
+          "author": null,
+          "description": "Samsung envisions 1TB DDR5 modules to arrive in 2024, DDR5-7200 to hit the market in 2025.",
+          "link": "https://www.tomshardware.com/news/samsung-talks-1tb-ddr5-modules-ddr5-7200",
+          "publishedOn": "2022-08-18T19:05:52.000Z",
+          "wordCount": 19558,
+          "title": "Samsung: 1TB DDR5 RAM in 2024, DDR5-7200 in 2025",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/cvRjZwyUXrXdheVJnHRmT4.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/cvRjZwyUXrXdheVJnHRmT4.png"
+        },
+        {
+          "id": "iNBVhrZSifUM5Q2GxWczJ5",
+          "author": null,
+          "description": "Framework is changing the power button on its open source case design after a challenge from Lenovo claiming that it infringes upon Lenovo's Legion trademarks.",
+          "link": "https://www.tomshardware.com/news/lenovo-trademark-infringement-framework-case",
+          "publishedOn": "2022-08-18T18:44:37.000Z",
+          "wordCount": 17838,
+          "title": "Lenovo’s Lawyers Prompt Framework to Change 3D Printed Case",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/xqn7NAQ3JFhfEj8Q2YSwvn.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/xqn7NAQ3JFhfEj8Q2YSwvn.jpg"
+        },
+        {
+          "id": "L2d6zxtA5JsowLXw6ZhScE",
+          "author": "francisco.pires@outlook.com (Francisco Pires)",
+          "description": "Intel factories in China's Sichuan Province, have been shutd down in order to reduce the strain in the electrical grid.",
+          "link": "https://www.tomshardware.com/news/intel-factories-in-china-shut-down-to-conserve-electrical-power",
+          "publishedOn": "2022-08-18T18:14:51.000Z",
+          "wordCount": 17720,
+          "title": "Intel Factories in China Shut Down to Conserve Electrical Power",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/sWWoBZkyzjkMgKqDQjwr7W.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/sWWoBZkyzjkMgKqDQjwr7W.jpg"
+        },
+        {
+          "id": "v5aQidZAMaJ2ZBVD4n2TcW",
+          "author": null,
+          "description": "We help you find RTX 3070-powered gaming laptop deals.",
+          "link": "https://www.tomshardware.com/news/rtx-3070-laptops-you-can-buy-now",
+          "publishedOn": "2022-08-18T18:08:38.000Z",
+          "wordCount": 18872,
+          "title": "RTX 3070 Laptop Deals: All the Models You Can Buy Right Now",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/T3eQaTCsmuwLRhUdz426qS.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/T3eQaTCsmuwLRhUdz426qS.jpg"
+        },
+        {
           "id": "XUwyzpearUducBK42hPTUi",
           "author": null,
           "description": "New evidence surrounding Samsung's 990 Pro SSD suggest it will be either a PCIe 4.0 or PCIe 5.0 drive.",
@@ -15662,6 +15742,26 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1874614",
+          "author": "Ashley Belanger",
+          "description": "The firm hopes stopping all health data collection will block the FTC's lawsuit.",
+          "link": "https://arstechnica.com/?p=1874614",
+          "publishedOn": "2022-08-18T18:41:15.000Z",
+          "wordCount": 1954,
+          "title": "FTC sued by firm allegedly selling sensitive data on abortion clinic visits",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-608596828-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1874534",
+          "author": "Ron Amadeo",
+          "description": "The Moto Edge has a super-fast display, but can the MediaTek SoC keep up?",
+          "link": "https://arstechnica.com/?p=1874534",
+          "publishedOn": "2022-08-18T17:33:37.000Z",
+          "wordCount": 1611,
+          "title": "Motorola takes on the Pixel 6a with a 144 Hz mid-range phone",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/46-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1874520",
           "author": "Andrew Cunningham",
           "description": "Problem has been assigned an official CVE ID, despite lack of specifics.",
@@ -17758,6 +17858,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291160",
+          "author": null,
+          "description": "Ny patch ute.",
+          "link": "https://www.fz.se/artikel/291160-utskallda-warcraft-3-reforged-har-fatt-rankat-lage",
+          "publishedOn": "2022-08-18T18:45:00.000Z",
+          "wordCount": 1725,
+          "title": "Utskällda Warcraft 3: Reforged har fått rankat läge",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291160"
+        },
         {
           "id": "https://www.fz.se/artikel/291158",
           "author": null,
@@ -21743,6 +21853,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/18/tesla_expands_powerwalltogrid_program/",
+          "author": null,
+          "description": "<h4>Utility companies are offering $2 per kWh for power stored in battery tech</h4> <p>More Tesla Powerwall owners in California are getting the option to help fight blackouts – and get paid for it – as thecompany expands its virtual power plant (VPP) program to new areas of the Golden State. …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/18/tesla_expands_powerwalltogrid_program/",
+          "publishedOn": "2022-08-18T18:30:07.000Z",
+          "wordCount": 1409,
+          "title": "Tesla expands Powerwall-to-grid program to cover most of California",
+          "imageUrl": "https://regmedia.co.uk/2022/08/18/tesla-powerwall.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/18/windows_insider_arm/",
           "author": null,
