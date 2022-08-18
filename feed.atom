@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-18T06:29:03.132Z</updated>
+    <updated>2022-08-18T07:21:01.925Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Arc A380 billigare än Radeon RX 6400]]></title>
+        <id>https://www.sweclockers.com/artikel/34774</id>
+        <link href="https://www.sweclockers.com/artikel/34774-intel-arc-a380-billigare-an-radeon-rx-6400"/>
+        <updated>2022-08-18T07:01:33.000Z</updated>
+        <summary type="html"><![CDATA[Om mindre än en vecka finns Intel Arc A380 att köpa i Nordamerika, med en prislapp som stannar en bit under den jämförbara rivalen från AMD.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft to drop price for Teams Rooms, add free Basic tier for SMBs]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/18/microsoft_teams_rooms_price_cut/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/18/microsoft_teams_rooms_price_cut/"/>
+        <updated>2022-08-18T06:57:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Hardware still required – plus tolerance for visiting the office and remote collaboration</h4> <p>Microsoft has advised its partner community that it will soon drop the price it charges for Teams Rooms, and add a version of the product aimed at small business.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Släppdatum för New Tales from the Borderlands kan ha avslöjats på Amazon]]></title>
+        <id>https://www.fz.se/artikel/291151</id>
+        <link href="https://www.fz.se/artikel/291151-slappdatum-for-new-tales-from-the-borderlands-kan-ha-avslojats-pa-amazon"/>
+        <updated>2022-08-18T06:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Såväl som spelets omslag och beskrivning.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ransomware attack on UK water company clouded by confusion]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/18/clop_ransomware_uk_water/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/18/clop_ransomware_uk_water/"/>
+        <updated>2022-08-18T06:28:12.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Clop gang thought it hit Thames Water – but real victim was elsewhere</h4> <p>A water company in the drought-hit UK was recently compromised by a ransomware gang, though initially it was unclear exactly which water company was the victim.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deluge of of entries to Spamhaus blocklists includes 'various household names']]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/18/deluge_of_entries_to_spamhaus/</id>
