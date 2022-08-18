@@ -306,6 +306,26 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/08/embracer-group-to-swallow-up-tripwire-tuxedo-labs-the-lord-of-the-rings/",
+          "author": "Liam Dawe",
+          "description": "Embracer Group are quite terrifying. The amount of power they have in the gaming industry is simply insane and now they're swallowing up more studios and even the full rights to The Lord of the Rings and The Hobbit.",
+          "link": "https://www.gamingonlinux.com/2022/08/embracer-group-to-swallow-up-tripwire-tuxedo-labs-the-lord-of-the-rings/",
+          "publishedOn": "2022-08-18T09:02:54.000Z",
+          "wordCount": 1175,
+          "title": "Embracer Group to swallow up Tripwire, Tuxedo Labs, The Lord of the Rings",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1436078138id21463gol.jpg"
+        },
+        {
+          "id": "https://www.gamingonlinux.com/2022/08/steamos-34-beta-to-update-the-arch-linux-base-new-steam-deck-updates-out-now/",
+          "author": "Liam Dawe",
+          "description": "Valve has announced three things recently including multiple updates that are out now for the Steam Deck, plus a quick tease of what's to come for a Beta of SteamOS 3.4.",
+          "link": "https://www.gamingonlinux.com/2022/08/steamos-34-beta-to-update-the-arch-linux-base-new-steam-deck-updates-out-now/",
+          "publishedOn": "2022-08-18T08:48:57.000Z",
+          "wordCount": 1411,
+          "title": "SteamOS 3.4 Beta to update the Arch Linux base, new Steam Deck updates out now",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/tagline_gallery/steamos-logo.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/08/spellbook-demonslayers-is-the-most-insane-vampire-survivors-like-yet/",
           "author": "Liam Dawe",
           "description": "You've put 100+ hours into Vampire Survivors and now what? Spellbook Demonslayers is what and there's a free prologue available for you to try out.",
@@ -1482,6 +1502,26 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/sea-of-thieves-a-few-big-buts-in-an-ocean-of-booty",
+          "author": "Matt Wales",
+          "description": "If you ever want to give yourself a mild existential crisis, take a glance at the stats for your favourite game. It turns out I've spent a solid 40 days of my life sailing the Sea of Thieves since its launch back in 2018 (I’ll admit to that being considerably less than I was expecting), which might go someway to explaining why, four and a half years on, its vast oceanic expanse feels like a second home.\r\n\n\r\nGiven how much of a sucker I am for a swashbuckling pirate yarn, there was a certain inevitability to my love affair with Sea of Thieves, but pretending it was a foregone conclusion would do a huge disservice to developer Rare's astonishing work imbuing its game with such distinctive charms. Even at launch - when, for all its fancy pirate dressing, its endless roiling oceans and multitude of beautifully wrought islands, it was, at heart, a pretty simple game of tug of war - there was a special kind of magic to Sea of Thieves that made it so much more than its component parts. \r\n\n\r\nIts core loop was, and to a certain extent still remains, a simple one, where every treasure gained was treasure waiting to be stolen, and every treasure stolen was treasure waiting to be retrieved. But its power was in the peripheral details, where every journey existed on the thrilling edge of chaos as its emergent additions - the pervasive threat of other players, a passing storm, a kraken attack, or perhaps even all three - coalesced around its functional core to create always unpredictable yarns.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sea-of-thieves-a-few-big-buts-in-an-ocean-of-booty",
+          "publishedOn": "2022-08-18T09:00:00.000Z",
+          "wordCount": 6834,
+          "title": "Sea of Thieves - a few big buts in an ocean of booty",
+          "imageUrl": "https://assets.reedpopcdn.com/sea-of-thieves-header-2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sea-of-thieves-header-2.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/embracer-group-acquiring-rights-to-lord-of-the-rings-and-hobbit-ip-plus-more",
+          "author": "Victoria Kennedy",
+          "description": "Embracer Group is to buy Middle-earth Enterprises, which will give the Swedish conglomerate the rights to JRR Tolkien's The Lord of the Rings and The Hobbit.\r\n\n\r\nIn a press release, Embracer discussed its process of buying Middle-earth Enterprises, although it did not disclose the sum of this deal, citing \"commercial reasons\" for this decision.\r\n\n\r\nThis deal will mean that Embracer will own the rights to motion pictures, video games, board games, merchandising, theme parks and stage productions relating to Tolkein's works.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/embracer-group-acquiring-rights-to-lord-of-the-rings-and-hobbit-ip-plus-more",
+          "publishedOn": "2022-08-18T08:30:43.000Z",
+          "wordCount": 4640,
+          "title": "Embracer Group acquiring rights to Lord of the Rings and Hobbit IP, plus more",
+          "imageUrl": "https://assets.reedpopcdn.com/lotr_aAkmB6y.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/lotr_aAkmB6y.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/dying-light-2-teases-first-story-dlc-bloody-ties-in-new-trailer",
           "author": "Matt Wales",
@@ -7326,6 +7366,26 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Mold-1.4.1-Linker",
+          "author": null,
+          "description": "Last year marked the release of Mold 1.0 as a modern, high-speed linker alternative to the likes of GNU Gold and LLVM LLD. Mold was started by Rui Ueyama who previously worked on the LLVM linker. Mold has continued seeing new features added and out today is version 1.4.1 where \"alpha\" support for macOS is added and also beginning to work on CMake build system integration...",
+          "link": "https://www.phoronix.com/news/Mold-1.4.1-Linker",
+          "publishedOn": "2022-08-18T09:21:10.000Z",
+          "wordCount": 1305,
+          "title": "High Performance Mold Linker Begins Adding macOS, CMake Build Support",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Krita-5.1-Released",
+          "author": null,
+          "description": "Krita 5.1 is out today as the newest evolutionary update to this leading open-source, cross-platform digital painting program...",
+          "link": "https://www.phoronix.com/news/Krita-5.1-Released",
+          "publishedOn": "2022-08-18T09:10:34.000Z",
+          "wordCount": 1249,
+          "title": "Krita 5.1 Released With JPEG-XL Support, XSIMD For Better Paint Performance",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/MGLRU-MM-Branch",
           "author": null,
@@ -17079,6 +17139,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291153",
+          "author": null,
+          "description": "Köper även Tripwire, Tuxedo Labs med flera. Och släpper kvartalsrapport. Puh!",
+          "link": "https://www.fz.se/artikel/291153-tolkien-far-svensk-agare-embracer-vill-kopa-lord-of-the-rings-och-the-hobbit",
+          "publishedOn": "2022-08-18T08:25:00.000Z",
+          "wordCount": 1962,
+          "title": "Tolkien får svensk ägare? Embracer vill köpa Lord of the Rings och The Hobbit",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291153"
+        },
+        {
           "id": "https://www.fz.se/artikel/291152",
           "author": null,
           "description": "Men företagspolitik satte käppar i hjulet.",
@@ -19126,6 +19196,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34770",
+          "author": null,
+          "description": "Commodore 64 firar 40 år. Har någon annan dator betytt så mycket för framtiden? Chefredaktören delar med sig av lite nostalgi och minnen.",
+          "link": "https://www.sweclockers.com/artikel/34770-kronika-commodore-64-fyller-40-ar",
+          "publishedOn": "2022-08-18T08:29:38.000Z",
+          "wordCount": 2328,
+          "title": "Krönika: Commodore 64 fyller 40 år",
+          "imageUrl": "https://www.sweclockers.com/artikel/34770/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34774",
           "author": null,
           "description": "Om mindre än en vecka finns Intel Arc A380 att köpa i Nordamerika, med en prislapp som stannar en bit under den jämförbara rivalen från AMD.",
@@ -20903,6 +20983,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/18/ubuntu_remixes/",
+          "author": null,
+          "description": "<h4>Which flavors are the lightest and the heaviest disk and memory-wise?</h4> <p><em>The Reg</em> FOSS desk has lined up the official Ubuntu remixes to see which ones hog the most or least of your computer's resources.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/18/ubuntu_remixes/",
+          "publishedOn": "2022-08-18T08:34:13.000Z",
+          "wordCount": 3252,
+          "title": "We tested all the Ubuntu remixes for resource usage so you don't have to",
+          "imageUrl": "https://regmedia.co.uk/2022/08/16/lubuntu-jammy.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/18/mars_oxygen_moxie/",
           "author": null,

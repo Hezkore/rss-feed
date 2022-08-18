@@ -2,10 +2,116 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-18T08:28:01.436Z</updated>
+    <updated>2022-08-18T09:23:52.844Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[High Performance Mold Linker Begins Adding macOS, CMake Build Support]]></title>
+        <id>https://www.phoronix.com/news/Mold-1.4.1-Linker</id>
+        <link href="https://www.phoronix.com/news/Mold-1.4.1-Linker"/>
+        <updated>2022-08-18T09:21:10.000Z</updated>
+        <summary type="html"><![CDATA[Last year marked the release of Mold 1.0 as a modern, high-speed linker alternative to the likes of GNU Gold and LLVM LLD. Mold was started by Rui Ueyama who previously worked on the LLVM linker. Mold has continued seeing new features added and out today is version 1.4.1 where "alpha" support for macOS is added and also beginning to work on CMake build system integration...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Krita 5.1 Released With JPEG-XL Support, XSIMD For Better Paint Performance]]></title>
+        <id>https://www.phoronix.com/news/Krita-5.1-Released</id>
+        <link href="https://www.phoronix.com/news/Krita-5.1-Released"/>
+        <updated>2022-08-18T09:10:34.000Z</updated>
+        <summary type="html"><![CDATA[Krita 5.1 is out today as the newest evolutionary update to this leading open-source, cross-platform digital painting program...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embracer Group to swallow up Tripwire, Tuxedo Labs, The Lord of the Rings]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/embracer-group-to-swallow-up-tripwire-tuxedo-labs-the-lord-of-the-rings/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/embracer-group-to-swallow-up-tripwire-tuxedo-labs-the-lord-of-the-rings/"/>
+        <updated>2022-08-18T09:02:54.000Z</updated>
+        <summary type="html"><![CDATA[Embracer Group are quite terrifying. The amount of power they have in the gaming industry is simply insane and now they're swallowing up more studios and even the full rights to The Lord of the Rings and The Hobbit.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sea of Thieves - a few big buts in an ocean of booty]]></title>
+        <id>https://www.eurogamer.net/sea-of-thieves-a-few-big-buts-in-an-ocean-of-booty</id>
+        <link href="https://www.eurogamer.net/sea-of-thieves-a-few-big-buts-in-an-ocean-of-booty"/>
+        <updated>2022-08-18T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you ever want to give yourself a mild existential crisis, take a glance at the stats for your favourite game. It turns out I've spent a solid 40 days of my life sailing the Sea of Thieves since its launch back in 2018 (I’ll admit to that being considerably less than I was expecting), which might go someway to explaining why, four and a half years on, its vast oceanic expanse feels like a second home.
+
+
+Given how much of a sucker I am for a swashbuckling pirate yarn, there was a certain inevitability to my love affair with Sea of Thieves, but pretending it was a foregone conclusion would do a huge disservice to developer Rare's astonishing work imbuing its game with such distinctive charms. Even at launch - when, for all its fancy pirate dressing, its endless roiling oceans and multitude of beautifully wrought islands, it was, at heart, a pretty simple game of tug of war - there was a special kind of magic to Sea of Thieves that made it so much more than its component parts. 
+
+
+Its core loop was, and to a certain extent still remains, a simple one, where every treasure gained was treasure waiting to be stolen, and every treasure stolen was treasure waiting to be retrieved. But its power was in the peripheral details, where every journey existed on the thrilling edge of chaos as its emergent additions - the pervasive threat of other players, a passing storm, a kraken attack, or perhaps even all three - coalesced around its functional core to create always unpredictable yarns.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SteamOS 3.4 Beta to update the Arch Linux base, new Steam Deck updates out now]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/steamos-34-beta-to-update-the-arch-linux-base-new-steam-deck-updates-out-now/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/steamos-34-beta-to-update-the-arch-linux-base-new-steam-deck-updates-out-now/"/>
+        <updated>2022-08-18T08:48:57.000Z</updated>
+        <summary type="html"><![CDATA[Valve has announced three things recently including multiple updates that are out now for the Steam Deck, plus a quick tease of what's to come for a Beta of SteamOS 3.4.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We tested all the Ubuntu remixes for resource usage so you don't have to]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/18/ubuntu_remixes/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/18/ubuntu_remixes/"/>
+        <updated>2022-08-18T08:34:13.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Which flavors are the lightest and the heaviest disk and memory-wise?</h4> <p><em>The Reg</em> FOSS desk has lined up the official Ubuntu remixes to see which ones hog the most or least of your computer's resources.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Embracer Group acquiring rights to Lord of the Rings and Hobbit IP, plus more]]></title>
+        <id>https://www.eurogamer.net/embracer-group-acquiring-rights-to-lord-of-the-rings-and-hobbit-ip-plus-more</id>
+        <link href="https://www.eurogamer.net/embracer-group-acquiring-rights-to-lord-of-the-rings-and-hobbit-ip-plus-more"/>
+        <updated>2022-08-18T08:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Embracer Group is to buy Middle-earth Enterprises, which will give the Swedish conglomerate the rights to JRR Tolkien's The Lord of the Rings and The Hobbit.
+
+
+In a press release, Embracer discussed its process of buying Middle-earth Enterprises, although it did not disclose the sum of this deal, citing "commercial reasons" for this decision.
+
+
+This deal will mean that Embracer will own the rights to motion pictures, video games, board games, merchandising, theme parks and stage productions relating to Tolkein's works.
+ 
+Read more]]></summary>
+        <author>
+            <name>Victoria Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Krönika: Commodore 64 fyller 40 år]]></title>
+        <id>https://www.sweclockers.com/artikel/34770</id>
+        <link href="https://www.sweclockers.com/artikel/34770-kronika-commodore-64-fyller-40-ar"/>
+        <updated>2022-08-18T08:29:38.000Z</updated>
+        <summary type="html"><![CDATA[Commodore 64 firar 40 år. Har någon annan dator betytt så mycket för framtiden? Chefredaktören delar med sig av lite nostalgi och minnen.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tolkien får svensk ägare? Embracer vill köpa Lord of the Rings och The Hobbit]]></title>
+        <id>https://www.fz.se/artikel/291153</id>
+        <link href="https://www.fz.se/artikel/291153-tolkien-far-svensk-agare-embracer-vill-kopa-lord-of-the-rings-och-the-hobbit"/>
+        <updated>2022-08-18T08:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Köper även Tripwire, Tuxedo Labs med flera. Och släpper kvartalsrapport. Puh!]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Just Cause-utvecklarna jobbade en gång i tiden på ett Iron Man-spel]]></title>
         <id>https://www.fz.se/artikel/291152</id>
