@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-17T23:23:26.290Z</updated>
+    <updated>2022-08-18T02:31:02.913Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Best RAM for Gaming: DDR4, DDR5 Kits for 2022]]></title>
+        <id>5XV3Do5jG5CB2guNopbqW3</id>
+        <link href="https://www.tomshardware.com/reviews/best-ram,4057.html"/>
+        <updated>2022-08-18T01:32:57.000Z</updated>
+        <summary type="html"><![CDATA[Here are the best RAM kits we’ve tested: computer memory ideal for gaming, video editing, and graphics-heavy applications.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[That was fast: MetaGuard emerges as an 'incognito mode' for the metaverse]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/18/metaguard_promises_protection_from_metaverse/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/18/metaguard_promises_protection_from_metaverse/"/>
+        <updated>2022-08-18T00:24:02.000Z</updated>
+        <summary type="html"><![CDATA[<h4>As if the VR giants will let that stand – worth a try, though</h4> <p>Imagine for a moment that you wanted to spend time in what Meta solipsistically calls the metaverse, a keiretsu of interactive cartoon panoramas powered by commercial surveillance and payment persuasion.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MGLRU Patches Picked Up By Andrew Morton's "mm-unstable" Branch Ahead Of Linux 6.1]]></title>
+        <id>https://www.phoronix.com/news/MGLRU-MM-Branch</id>
+        <link href="https://www.phoronix.com/news/MGLRU-MM-Branch"/>
+        <updated>2022-08-17T23:55:40.000Z</updated>
+        <summary type="html"><![CDATA[Multi-Gen LRU "MGLRU" is one of the most exciting low-level kernel innovations in recent time and is already used by Google's Chrome OS and Android as well as having proven itself in various other downstream kernel builds. MGLRU is planned for upstreaming in Linux 6.1 and in preparation for that, Andrew Morton has now queued those patches into his "mm-unstable" branch for further vetting...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scammers Distribute Fake Microsoft Office USB Sticks With Malware]]></title>
+        <id>8F7wbKZsqsE7CX8NNc8XcZ</id>
+        <link href="https://www.tomshardware.com/news/scammers-distribute-fake-microsoft-office-usb-sticks-with-malware"/>
+        <updated>2022-08-17T23:31:33.000Z</updated>
+        <summary type="html"><![CDATA[Fraudsters send fake Microsoft Office USB drives to gain PC access and demand ransom.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google, Apple squash exploitable browser bugs]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/17/google_chrome_bug/</id>
@@ -14,6 +54,16 @@
         <summary type="html"><![CDATA[<h4>Chrome flaw has public exploit, WebKit hole actively abused along with kernel escalation</h4> <p>Google has issued 11 security fixes for desktop Chrome, including one bug that has an exploit for it out in the wild.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TikTok vows to close loophole letting users skirt ban on political ads]]></title>
+        <id>https://arstechnica.com/?p=1874412</id>
+        <link href="https://arstechnica.com/?p=1874412"/>
+        <updated>2022-08-17T22:27:49.000Z</updated>
+        <summary type="html"><![CDATA[The app is adding internal teams to review influencer posts for violations.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
         </author>
     </entry>
     <entry>
@@ -252,6 +302,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Från "överraskande bra" till "Bloodbornes korkade kusin".]]></summary>
         <author>
             <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comic for 2022.08.17 - Turn and Cough]]></title>
+        <id>https://explosm.net/comics/turn-and-cough</id>
+        <link href="https://explosm.net/comics/turn-and-cough"/>
+        <updated>2022-08-17T17:55:00.000Z</updated>
+        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
+        <author>
+            <name>Explosm.net</name>
         </author>
     </entry>
     <entry>
@@ -26740,62 +26800,6 @@ we are not responsible for vision or strategic choices about how
         <link href="https://itsfoss.com/apt-upgrade-single-package/"/>
         <updated>2022-07-20T05:32:17.000Z</updated>
         <summary type="html"><![CDATA[The apt command usually upgrades the entire upgradable packages at once. Here's how to upgrade only a single package or a selected few packages in Ubuntu.]]></summary>
-        <author>
-            <name>Abhishek Prakash</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cookies]]></title>
-        <id>https://tapas.io/episode/2591128</id>
-        <link href="https://tapas.io/episode/2591128"/>
-        <updated>2022-07-19T13:08:51.000Z</updated>
-        <author>
-            <name>J. L. Westover</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russell Coker: DDC as a KVM Switch]]></title>
-        <id>https://etbe.coker.com.au/?p=5119</id>
-        <link href="https://etbe.coker.com.au/2022/07/19/ddc-switch/"/>
-        <updated>2022-07-19T11:55:59.000Z</updated>
-        <summary type="html"><![CDATA[With the recent resurgence in Covid19 I’ve been working from home a lot and using both my work laptop and personal PC on the same monitor. HDMI KVM switches start at $150 and I didn’t feel like buying one. So I wrote a script to change inputs on my monitor. The following script locks the session on the local machine and switches the monitor’s input to the other machine. I ran the command “ddcutil  vcpinfo| grep Input” which shows that (on my monitor at least) 60 is the VCP for input. Then I ran the command “ddcutil getvcp 60” to get the current value and tried setting values sequentially to find the value for the other port.
-Below is the script I’m using on one system, the other is the same but setting the different port via setvcp. The loginctl command is to lock the screen to prevent accidental keyboard or mouse input from messing anything up.
-# lock the session, assumes that seat0 is the only session
-loginctl lock-session $(loginctl list-sessions|grep "seat0 *$"|cut -c1-7)
-# 0xf is DisplayPort, 0x11 is HDMI-1
-ddcutil setvcp 60 0x11
-For keyboard, mouse, and speakers I’m using a USB 2.0 hub that I can switch between computers. I idly considered getting a three-pole double-throw switch (four pole switches aren’t available at my local electronic store) to switch USB 2.0 as I only need to switch 3 of the 4 wires. But for the moment just plugging the hub into different systems is enough, I only do that a couple of times a day.
-Related posts:
-
-Switches and Cables  I’ve just read an amusing series of blog posts about...
-Load Average Monitoring  For my ETBE-Mon [1] monitoring system I recently added a...
-how to run dynamic ssh tunnels  service smtps { disable = no socket_type = stream wait...]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Craig Small: Linux Memory Statistics]]></title>
-        <id>https://dropbear.xyz/?p=1634</id>
-        <link href="https://dropbear.xyz/2022/07/19/linux-memory-statistics/"/>
-        <updated>2022-07-19T11:53:12.000Z</updated>
-        <summary type="html"><![CDATA[Pretty much everyone who has spent some time on a command line in Linux would have looked at the free command. This command provides some overall statistics on the memory and how it is used. Typical output looks something like this:
-             total        used        free      shared  buff/cache  available
-Mem:      32717924     3101156    26950016      143608     2666752  29011928
-Swap:      1000444           0     1000444
-
-
-Memory sits in the first row after the headers then we have the swap statistics. Most of the numbers are directly fetched from the procfs file /proc/meminfo which are scaled and presented to the user.  A good example of a “simple” stat is total, which is just the MemTotal row located in that file. For the rest of this post, I’ll make the rows from /proc/meminfo hav…]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Uninstall Deb Packages in Ubuntu]]></title>
-        <id>https://itsfoss.com/?p=99678</id>
-        <link href="https://itsfoss.com/uninstall-deb-ubuntu/"/>
-        <updated>2022-07-19T11:41:19.000Z</updated>
-        <summary type="html"><![CDATA[Installing deb files is quite simple. Removing deb files might not be that simple but it's not too complicated either. Here's all you need to know about deleting deb packages from Ubuntu Linux.]]></summary>
         <author>
             <name>Abhishek Prakash</name>
         </author>

@@ -260,16 +260,6 @@
           "wordCount": 6891,
           "title": "Update a Single Package With apt Command in Ubuntu and Debian",
           "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/07/upgrade-single-package-in-ubuntu-with-apt.png"
-        },
-        {
-          "id": "https://itsfoss.com/?p=99678",
-          "author": "Abhishek Prakash",
-          "description": "Installing deb files is quite simple. Removing deb files might not be that simple but it's not too complicated either. Here's all you need to know about deleting deb packages from Ubuntu Linux.",
-          "link": "https://itsfoss.com/uninstall-deb-ubuntu/",
-          "publishedOn": "2022-07-19T11:41:19.000Z",
-          "wordCount": 8013,
-          "title": "How to Uninstall Deb Packages in Ubuntu",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/07/uninstall-deb-packages-from-ubuntu.png"
         }
       ]
     },
@@ -7337,6 +7327,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/MGLRU-MM-Branch",
+          "author": null,
+          "description": "Multi-Gen LRU \"MGLRU\" is one of the most exciting low-level kernel innovations in recent time and is already used by Google's Chrome OS and Android as well as having proven itself in various other downstream kernel builds. MGLRU is planned for upstreaming in Linux 6.1 and in preparation for that, Andrew Morton has now queued those patches into his \"mm-unstable\" branch for further vetting...",
+          "link": "https://www.phoronix.com/news/MGLRU-MM-Branch",
+          "publishedOn": "2022-08-17T23:55:40.000Z",
+          "wordCount": 1490,
+          "title": "MGLRU Patches Picked Up By Andrew Morton's \"mm-unstable\" Branch Ahead Of Linux 6.1",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/NTFS3-Linux-6.0-Updates",
           "author": null,
           "description": "NTFS3 as the modern Linux kernel read/write file-system driver for NTFS that was open-sourced by Paragon Software is seeing some late code refactoring and fixes for Linux 6.0...",
@@ -11441,6 +11441,36 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "5XV3Do5jG5CB2guNopbqW3",
+          "author": null,
+          "description": "Here are the best RAM kits we’ve tested: computer memory ideal for gaming, video editing, and graphics-heavy applications.",
+          "link": "https://www.tomshardware.com/reviews/best-ram,4057.html",
+          "publishedOn": "2022-08-18T01:32:57.000Z",
+          "wordCount": 22278,
+          "title": "Best RAM for Gaming: DDR4, DDR5 Kits for 2022",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/aFrdtqm8QLfdsRBkwhDjcC.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/aFrdtqm8QLfdsRBkwhDjcC.jpg"
+        },
+        {
+          "id": "8F7wbKZsqsE7CX8NNc8XcZ",
+          "author": null,
+          "description": "Fraudsters send fake Microsoft Office USB drives to gain PC access and demand ransom.",
+          "link": "https://www.tomshardware.com/news/scammers-distribute-fake-microsoft-office-usb-sticks-with-malware",
+          "publishedOn": "2022-08-17T23:31:33.000Z",
+          "wordCount": 17925,
+          "title": "Scammers Distribute Fake Microsoft Office USB Sticks With Malware",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/wLErV4qdCYVHuXUrnpyMJT.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/wLErV4qdCYVHuXUrnpyMJT.png"
+        },
+        {
           "id": "i4Mbbw87hnKB3ktstRfRR",
           "author": null,
           "description": "Samsung's 8th Generation V-NAND memory looms to production.",
@@ -14891,26 +14921,6 @@
           "wordCount": 1979,
           "title": "Enrico Zini: Deconstruction of the DAM hat",
           "imageUrl": null
-        },
-        {
-          "id": "https://etbe.coker.com.au/?p=5119",
-          "author": null,
-          "description": "With the recent resurgence in Covid19 I’ve been working from home a lot and using both my work laptop and personal PC on the same monitor. HDMI KVM switches start at $150 and I didn’t feel like buying one. So I wrote a script to change inputs on my monitor. The following script locks the session on the local machine and switches the monitor’s input to the other machine. I ran the command “ddcutil  vcpinfo| grep Input” which shows that (on my monitor at least) 60 is the VCP for input. Then I ran the command “ddcutil getvcp 60” to get the current value and tried setting values sequentially to find the value for the other port.\nBelow is the script I’m using on one system, the other is the same but setting the different port via setvcp. The loginctl command is to lock the screen to prevent accidental keyboard or mouse input from messing anything up.\n# lock the session, assumes that seat0 is the only session\nloginctl lock-session $(loginctl list-sessions|grep \"seat0 *$\"|cut -c1-7)\n# 0xf is DisplayPort, 0x11 is HDMI-1\nddcutil setvcp 60 0x11\nFor keyboard, mouse, and speakers I’m using a USB 2.0 hub that I can switch between computers. I idly considered getting a three-pole double-throw switch (four pole switches aren’t available at my local electronic store) to switch USB 2.0 as I only need to switch 3 of the 4 wires. But for the moment just plugging the hub into different systems is enough, I only do that a couple of times a day.\nRelated posts:\n\nSwitches and Cables  I’ve just read an amusing series of blog posts about...\nLoad Average Monitoring  For my ETBE-Mon [1] monitoring system I recently added a...\nhow to run dynamic ssh tunnels  service smtps { disable = no socket_type = stream wait...",
-          "link": "https://etbe.coker.com.au/2022/07/19/ddc-switch/",
-          "publishedOn": "2022-07-19T11:55:59.000Z",
-          "wordCount": 4243,
-          "title": "Russell Coker: DDC as a KVM Switch",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://dropbear.xyz/?p=1634",
-          "author": null,
-          "description": "Pretty much everyone who has spent some time on a command line in Linux would have looked at the free command. This command provides some overall statistics on the memory and how it is used. Typical output looks something like this:\n             total        used        free      shared  buff/cache  available\nMem:      32717924     3101156    26950016      143608     2666752  29011928\nSwap:      1000444           0     1000444\n\n\nMemory sits in the first row after the headers then we have the swap statistics. Most of the numbers are directly fetched from the procfs file /proc/meminfo which are scaled and presented to the user.  A good example of a “simple” stat is total, which is just the MemTotal row located in that file. For the rest of this post, I’ll make the rows from /proc/meminfo hav…",
-          "link": "https://dropbear.xyz/2022/07/19/linux-memory-statistics/",
-          "publishedOn": "2022-07-19T11:53:12.000Z",
-          "wordCount": null,
-          "title": "Craig Small: Linux Memory Statistics",
-          "imageUrl": null
         }
       ]
     },
@@ -15036,6 +15046,16 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1874412",
+          "author": "Ashley Belanger",
+          "description": "The app is adding internal teams to review influencer posts for violations.",
+          "link": "https://arstechnica.com/?p=1874412",
+          "publishedOn": "2022-08-17T22:27:49.000Z",
+          "wordCount": 1661,
+          "title": "TikTok vows to close loophole letting users skirt ban on political ads",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-152891171-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1874397",
           "author": "Kevin Purdy",
@@ -20362,6 +20382,16 @@
       "siteUrl": "https://explosm.net",
       "articles": [
         {
+          "id": "https://explosm.net/comics/turn-and-cough",
+          "author": null,
+          "description": "New Cyanide and Happiness Comic",
+          "link": "https://explosm.net/comics/turn-and-cough",
+          "publishedOn": "2022-08-17T17:55:00.000Z",
+          "wordCount": 1477,
+          "title": "Comic for 2022.08.17 - Turn and Cough",
+          "imageUrl": null
+        },
+        {
           "id": "https://explosm.net/comics/what-do-you-see",
           "author": null,
           "description": "New Cyanide and Happiness Comic",
@@ -20617,16 +20647,6 @@
           "wordCount": null,
           "title": "Monster",
           "imageUrl": null
-        },
-        {
-          "id": "https://tapas.io/episode/2591128",
-          "author": "J. L. Westover",
-          "description": "",
-          "link": "https://tapas.io/episode/2591128",
-          "publishedOn": "2022-07-19T13:08:51.000Z",
-          "wordCount": null,
-          "title": "Cookies",
-          "imageUrl": null
         }
       ]
     },
@@ -20818,6 +20838,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/18/metaguard_promises_protection_from_metaverse/",
+          "author": null,
+          "description": "<h4>As if the VR giants will let that stand – worth a try, though</h4> <p>Imagine for a moment that you wanted to spend time in what Meta solipsistically calls the metaverse, a keiretsu of interactive cartoon panoramas powered by commercial surveillance and payment persuasion.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/18/metaguard_promises_protection_from_metaverse/",
+          "publishedOn": "2022-08-18T00:24:02.000Z",
+          "wordCount": 2270,
+          "title": "That was fast: MetaGuard emerges as an 'incognito mode' for the metaverse",
+          "imageUrl": "https://regmedia.co.uk/2022/08/18/shutterstock_metaverse_privacy.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/17/google_chrome_bug/",
           "author": null,
