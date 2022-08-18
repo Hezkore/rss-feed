@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-18T05:37:23.951Z</updated>
+    <updated>2022-08-18T06:29:03.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Deluge of of entries to Spamhaus blocklists includes 'various household names']]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/18/deluge_of_entries_to_spamhaus/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/18/deluge_of_entries_to_spamhaus/"/>
+        <updated>2022-08-18T05:59:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Nastymail tracking service blames sloppy sending practices for swelling lists of dangerous mailers</h4> <p>Spam-tracking service Spamhaus reported Tuesday that some of the world's biggest brands are getting loose with their email practices, causing its spam blocklists (SBL) to swell significantly.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Janet Jackson music video declared a cybersecurity vulnerability and assigned a CVE]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/18/janet_jackson_video_crashes_laptops/</id>
