@@ -12,6 +12,16 @@
       "siteUrl": "https://itsfoss.com",
       "articles": [
         {
+          "id": "http://itsfoss.com/?p=3170",
+          "author": "Abhishek Prakash",
+          "description": "Workspaces are a great way to stay organized and productive. Here is how to create and use workspaces in Linux Mint Cinnamon.",
+          "link": "https://itsfoss.com/workspaces-linux-mint/",
+          "publishedOn": "2022-08-19T05:22:00.000Z",
+          "wordCount": 7709,
+          "title": "How to Create and Switch Workspaces in Linux Mint",
+          "imageUrl": "https://itsfoss.com/wp-content/uploads/2014/01/switching-workspace-in-linux.png"
+        },
+        {
           "id": "https://itsfoss.com/?p=100974",
           "author": "Abhishek Prakash",
           "description": "The apt-get upgrade and dist-upgrade are both used for upgrading the installed packages. So, what's the difference?",
@@ -15726,16 +15736,6 @@
           "wordCount": 140,
           "title": "Aigars Mahinovs: Debconf 22 photos",
           "imageUrl": null
-        },
-        {
-          "id": "https://anarc.at/blog/2022-07-20-debian-relay-no-dkim/",
-          "author": null,
-          "description": "Back in 2020, I wrote this article about using DKIM to sign outgoing\ndebian.org mail. This worked well\nfor me for a while: outgoing mail was signed with DKIM and somehow was\ndelivered. Maybe. Who knows.\nBut now we have a relay server which makes this kind of moot. So\nI have changed my configuration to use that relay instead of sending\nemail on my own. It seems more reliable that mail seems to be coming\nfrom a real debian.org machine, so I'm hoping this will have better\nreputation than my current setup.\nIn general, you should follow the DSA documentation which includes a\nPostfix configuration. In my case, it was basically this patch:\ndiff --git a/postfix/main.cf b/postfix/main.cf\nindex 7fe6dd9e..eabe714a 100644\n--- a/postfix/main.cf\n+++ b/postfix/main.cf\n@@ -55,3 +55,4 @@ smtp_sasl_security…",
-          "link": "https://anarc.at/blog/2022-07-20-debian-relay-no-dkim/",
-          "publishedOn": "2022-07-20T17:22:18.000Z",
-          "wordCount": 441,
-          "title": "Antoine Beaupré: Relaying mail through debian.org",
-          "imageUrl": null
         }
       ]
     },
@@ -18018,6 +18018,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291164",
+          "author": null,
+          "description": "Och som i Diablo III börjar man med en ny karaktär varje säsong.",
+          "link": "https://www.fz.se/artikel/291164-blizzard-forsakrar-inget-pay-to-win-i-diablo-iv",
+          "publishedOn": "2022-08-19T04:03:07.000Z",
+          "wordCount": 2119,
+          "title": "Blizzard försäkrar: Inget pay-to-win i Diablo IV",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291164"
+        },
         {
           "id": "https://www.fz.se/artikel/291163",
           "author": null,
@@ -22013,6 +22023,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/19/vietnam_data_localization/",
+          "author": null,
+          "description": "<h4>Mandate goes into effect October 1, but industry players will have one year to comply</h4> <p>Vietnam’s Ministry of Information and Communications updated cybersecurity laws this week to mandate Big Tech and telecoms companies store user data locally and control that data with local entities.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/19/vietnam_data_localization/",
+          "publishedOn": "2022-08-19T05:15:07.000Z",
+          "wordCount": 1345,
+          "title": "Vietnam demands Big Tech localize data storage and offices",
+          "imageUrl": "https://regmedia.co.uk/2020/04/02/vietnam_flag.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/19/oracle_solaris_updated/",
           "author": null,

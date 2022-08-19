@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-19T04:08:59.377Z</updated>
+    <updated>2022-08-19T05:31:04.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Create and Switch Workspaces in Linux Mint]]></title>
+        <id>http://itsfoss.com/?p=3170</id>
+        <link href="https://itsfoss.com/workspaces-linux-mint/"/>
+        <updated>2022-08-19T05:22:00.000Z</updated>
+        <summary type="html"><![CDATA[Workspaces are a great way to stay organized and productive. Here is how to create and use workspaces in Linux Mint Cinnamon.]]></summary>
+        <author>
+            <name>Abhishek Prakash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vietnam demands Big Tech localize data storage and offices]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/19/vietnam_data_localization/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/19/vietnam_data_localization/"/>
+        <updated>2022-08-19T05:15:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Mandate goes into effect October 1, but industry players will have one year to comply</h4> <p>Vietnam’s Ministry of Information and Communications updated cybersecurity laws this week to mandate Big Tech and telecoms companies store user data locally and control that data with local entities.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blizzard försäkrar: Inget pay-to-win i Diablo IV]]></title>
+        <id>https://www.fz.se/artikel/291164</id>
+        <link href="https://www.fz.se/artikel/291164-blizzard-forsakrar-inget-pay-to-win-i-diablo-iv"/>
+        <updated>2022-08-19T04:03:07.000Z</updated>
+        <summary type="html"><![CDATA[Och som i Diablo III börjar man med en ny karaktär varje säsong.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Solaris is in maintenance mode – but Oracle added a significant feature anyway]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/19/oracle_solaris_updated/</id>
@@ -28284,31 +28314,6 @@ on git-lfs]]></summary>
         <updated>2022-07-21T12:17:23.000Z</updated>
         <author>
             <name>Shen Comix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Antoine Beaupré: Relaying mail through debian.org]]></title>
-        <id>https://anarc.at/blog/2022-07-20-debian-relay-no-dkim/</id>
-        <link href="https://anarc.at/blog/2022-07-20-debian-relay-no-dkim/"/>
-        <updated>2022-07-20T17:22:18.000Z</updated>
-        <summary type="html"><![CDATA[Back in 2020, I wrote this article about using DKIM to sign outgoing
-debian.org mail. This worked well
-for me for a while: outgoing mail was signed with DKIM and somehow was
-delivered. Maybe. Who knows.
-But now we have a relay server which makes this kind of moot. So
-I have changed my configuration to use that relay instead of sending
-email on my own. It seems more reliable that mail seems to be coming
-from a real debian.org machine, so I'm hoping this will have better
-reputation than my current setup.
-In general, you should follow the DSA documentation which includes a
-Postfix configuration. In my case, it was basically this patch:
-diff --git a/postfix/main.cf b/postfix/main.cf
-index 7fe6dd9e..eabe714a 100644
---- a/postfix/main.cf
-+++ b/postfix/main.cf
-@@ -55,3 +55,4 @@ smtp_sasl_security…]]></summary>
-        <author>
-            <name>Planet Debian</name>
         </author>
     </entry>
 </feed>
