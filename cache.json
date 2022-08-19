@@ -296,6 +296,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/08/roller-skates-guns-and-slick-tricks-m-rollerdrome-is-awesome/",
+          "author": "Liam Dawe",
+          "description": "Rollerdrome is a thoroughly odd blending of mechanics and style found in the likes of Tony Hawk Pro Skater, a little Jet Set Radio and Max Payne.",
+          "link": "https://www.gamingonlinux.com/2022/08/roller-skates-guns-and-slick-tricks-m-rollerdrome-is-awesome/",
+          "publishedOn": "2022-08-19T19:24:13.000Z",
+          "wordCount": 1531,
+          "title": "Roller skates, guns and slick tricks — Rollerdrome is awesome",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1680742440id21474gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/08/tactical-battler-tyrants-blessing-is-out-now-with-linux-support-and-steam-deck-verified/",
           "author": "Liam Dawe",
           "description": "Did you enjoy Into the Breach and other similar small-scale strategy games? Tactical battler Tyrant's Blessing has released along with Native Linux support and it's Steam Deck Verified.",
@@ -5479,6 +5489,16 @@
       "feedUrl": "https://www.vg247.com/feed",
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
+        {
+          "id": "https://www.vg247.com/what-are-you-playing-this-weekend-19",
+          "author": "Stephany Nunneley",
+          "description": "We're coming up on a very busy week, so we are relaxing this weekend with some games, and maybe a bit of wine, ahead of the coming deluge.\nYou see, next week there are three interesting games-related showcases on the calendar.\nSunday, during the Pokemon World Championships, there will be all sorts of Pokemon news dropped, even a tidbit on Scarlet and Violet. On Tuesday, there's the Destiny 2 Showcase with all sorts of information on the next expansion in the Light and Darkness saga: Lightfall. And of course, there's the big one: gamescom Opening Night Live on Wednesday, August 24.\n Read more",
+          "link": "https://www.vg247.com/what-are-you-playing-this-weekend-19",
+          "publishedOn": "2022-08-19T19:55:16.000Z",
+          "wordCount": 4904,
+          "title": "What are you playing this weekend?",
+          "imageUrl": "https://asset.vg247.com/final_fantasy_7_remake_23.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/final_fantasy_7_remake_23.jpg"
+        },
         {
           "id": "https://www.vg247.com/whats-old-is-new-again-what-the-rise-of-boomer-shooters-says-about-the-fps-market",
           "author": "Phil Iwaniuk",
@@ -15908,6 +15928,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://diffoscope.org/news/diffoscope-221-released/",
+          "author": null,
+          "description": "The diffoscope maintainers are pleased to announce the release of diffoscope\nversion 221. This version includes the following changes:\n\n* Don't crash if we can open a PDF file with PyPDF but cannot parse the\n  annotations within. (Closes: reproducible-builds/diffoscope#311)\n* Depend on the dedicated xxd package, not vim-common.\n* Update external_tools.py to reflect xxd/vim-common change.\n\n\nYou find out more by visiting the project homepage.",
+          "link": "https://diffoscope.org/news/diffoscope-221-released/",
+          "publishedOn": "2022-08-19T00:00:00.000Z",
+          "wordCount": 110,
+          "title": "Reproducible Builds (diffoscope): diffoscope 221 released",
+          "imageUrl": null
+        },
+        {
           "id": "https://jmtd.net/log/hledger/dues/",
           "author": null,
           "description": "After I wrote hledger, I got some good feedback, both from a friend\nin-person and also on Twitter.\nMy in-person friend asked, frankly, do I really try to manage money like\nthis: tracking every single expense? Which affirms my suspicion, that many\npeople don't, and that it perhaps isn't essential to do so.\nCombined with the details below, 3/4 of the way through my experiment with\nusing hledger, I'm not convinced that it has been a good idea.\nI'm quoting my Twitter feedback here in order to respond. The context is\nhandling when I have used the \"wrong\" card to pay for something: a card\naffiliated with my family expenses for something personal, or vice versa. With\ndouble-entry book-keeping, and one pair of transactions, the destination\naccount can either record the expense category:\n2022-08-20…",
@@ -16501,6 +16531,16 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1874865",
+          "author": "Jennifer Ouellette",
+          "description": "Plus eight other winning images in 2022 BMC Ecology and Evolution image competition.",
+          "link": "https://arstechnica.com/?p=1874865",
+          "publishedOn": "2022-08-19T19:17:36.000Z",
+          "wordCount": 1881,
+          "title": "Behold this award-winning image of fungus making a fly its “zombie” slave",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/bmcTOP-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1874991",
           "author": "Jon Brodkin",
@@ -22973,6 +23013,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/19/hp_manager_fraud/",
+          "author": null,
+          "description": "<h4>Tesla sedan, 46 Chanel bags, 16 Rolexes, and more equals three years behind bars</h4> <p>Now-former HP finance manager Shelbee Szeto has been sentenced to three years in prison and ordered to forfeit more than 250 luxury items after she blew $5m on herself using company credit cards.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/19/hp_manager_fraud/",
+          "publishedOn": "2022-08-19T19:27:12.000Z",
+          "wordCount": 1436,
+          "title": "Ex-HP finance manager jailed after going on $5m spending spree using company plastic",
+          "imageUrl": "https://regmedia.co.uk/2022/08/19/woman_holding_shopping_bags_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/19/wsa_japan/",
           "author": null,

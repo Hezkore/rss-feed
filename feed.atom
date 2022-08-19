@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-19T19:17:57.857Z</updated>
+    <updated>2022-08-19T20:24:35.125Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What are you playing this weekend?]]></title>
+        <id>https://www.vg247.com/what-are-you-playing-this-weekend-19</id>
+        <link href="https://www.vg247.com/what-are-you-playing-this-weekend-19"/>
+        <updated>2022-08-19T19:55:16.000Z</updated>
+        <summary type="html"><![CDATA[We're coming up on a very busy week, so we are relaxing this weekend with some games, and maybe a bit of wine, ahead of the coming deluge.
+You see, next week there are three interesting games-related showcases on the calendar.
+Sunday, during the Pokemon World Championships, there will be all sorts of Pokemon news dropped, even a tidbit on Scarlet and Violet. On Tuesday, there's the Destiny 2 Showcase with all sorts of information on the next expansion in the Light and Darkness saga: Lightfall. And of course, there's the big one: gamescom Opening Night Live on Wednesday, August 24.
+ Read more]]></summary>
+        <author>
+            <name>Stephany Nunneley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-HP finance manager jailed after going on $5m spending spree using company plastic]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/19/hp_manager_fraud/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/19/hp_manager_fraud/"/>
+        <updated>2022-08-19T19:27:12.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Tesla sedan, 46 Chanel bags, 16 Rolexes, and more equals three years behind bars</h4> <p>Now-former HP finance manager Shelbee Szeto has been sentenced to three years in prison and ordered to forfeit more than 250 luxury items after she blew $5m on herself using company credit cards.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roller skates, guns and slick tricks — Rollerdrome is awesome]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/roller-skates-guns-and-slick-tricks-m-rollerdrome-is-awesome/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/roller-skates-guns-and-slick-tricks-m-rollerdrome-is-awesome/"/>
+        <updated>2022-08-19T19:24:13.000Z</updated>
+        <summary type="html"><![CDATA[Rollerdrome is a thoroughly odd blending of mechanics and style found in the likes of Tony Hawk Pro Skater, a little Jet Set Radio and Max Payne.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Behold this award-winning image of fungus making a fly its “zombie” slave]]></title>
+        <id>https://arstechnica.com/?p=1874865</id>
+        <link href="https://arstechnica.com/?p=1874865"/>
+        <updated>2022-08-19T19:17:36.000Z</updated>
+        <summary type="html"><![CDATA[Plus eight other winning images in 2022 BMC Ecology and Evolution image competition.]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft looks beyond the US with Windows Subsystem for Android]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/19/wsa_japan/</id>
@@ -1293,6 +1336,25 @@ Yes, it's on brand for me. Yes, it's a free-to-download mobile game with microtr
         <updated>2022-08-19T00:51:00.000Z</updated>
         <summary type="html"><![CDATA[Armadillo is a powerful and expressive C++ template library for linear algebra and scientific computing. It aims towards a good balance between speed and ease of use, has a syntax deliberately close to Matlab, and is useful for algorithm development directly in C++, or quick conversion of research code into production environments. RcppArmadillo integrates this library with the R environment and language–and is widely used by (currently) 1005 packages other packages on CRAN (as celebrated in this blog post on passing 1000 packages from just four days ago), downloaded nearly 26 million times (per the partial logs from the cloud mirrors of CRAN), and the CSDA paper (preprint / vignette) by Conrad and myself has been cited 488 times according to Google Scholar.
 This release brings together tw…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reproducible Builds (diffoscope): diffoscope 221 released]]></title>
+        <id>https://diffoscope.org/news/diffoscope-221-released/</id>
+        <link href="https://diffoscope.org/news/diffoscope-221-released/"/>
+        <updated>2022-08-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The diffoscope maintainers are pleased to announce the release of diffoscope
+version 221. This version includes the following changes:
+
+* Don't crash if we can open a PDF file with PyPDF but cannot parse the
+  annotations within. (Closes: reproducible-builds/diffoscope#311)
+* Depend on the dedicated xxd package, not vim-common.
+* Update external_tools.py to reflect xxd/vim-common change.
+
+
+You find out more by visiting the project homepage.]]></summary>
         <author>
             <name>Planet Debian</name>
         </author>
