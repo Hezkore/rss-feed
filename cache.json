@@ -15248,6 +15248,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "http://dirk.eddelbuettel.com/blog/2022/08/18#rcpparmadillo_0.11.2.3.1",
+          "author": null,
+          "description": "Armadillo is a powerful and expressive C++ template library for linear algebra and scientific computing. It aims towards a good balance between speed and ease of use, has a syntax deliberately close to Matlab, and is useful for algorithm development directly in C++, or quick conversion of research code into production environments. RcppArmadillo integrates this library with the R environment and language–and is widely used by (currently) 1005 packages other packages on CRAN (as celebrated in this blog post on passing 1000 packages from just four days ago), downloaded nearly 26 million times (per the partial logs from the cloud mirrors of CRAN), and the CSDA paper (preprint / vignette) by Conrad and myself has been cited 488 times according to Google Scholar.\nThis release brings together tw…",
+          "link": "http://dirk.eddelbuettel.com/blog/2022/08/18#rcpparmadillo_0.11.2.3.1",
+          "publishedOn": "2022-08-19T00:51:00.000Z",
+          "wordCount": 1148,
+          "title": "Dirk Eddelbuettel: RcppArmadillo 0.11.2.3.1 on CRAN: Double Update",
+          "imageUrl": null
+        },
+        {
           "id": "https://jmtd.net/log/hledger/dues/",
           "author": null,
           "description": "After I wrote hledger, I got some good feedback, both from a friend\nin-person and also on Twitter.\nMy in-person friend asked, frankly, do I really try to manage money like\nthis: tracking every single expense? Which affirms my suspicion, that many\npeople don't, and that it perhaps isn't essential to do so.\nCombined with the details below, 3/4 of the way through my experiment with\nusing hledger, I'm not convinced that it has been a good idea.\nI'm quoting my Twitter feedback here in order to respond. The context is\nhandling when I have used the \"wrong\" card to pay for something: a card\naffiliated with my family expenses for something personal, or vice versa. With\ndouble-entry book-keeping, and one pair of transactions, the destination\naccount can either record the expense category:\n2022-08-20…",
