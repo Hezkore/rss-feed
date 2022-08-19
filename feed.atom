@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-19T02:23:35.155Z</updated>
+    <updated>2022-08-19T04:08:59.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Solaris is in maintenance mode – but Oracle added a significant feature anyway]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/19/oracle_solaris_updated/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/19/oracle_solaris_updated/"/>
+        <updated>2022-08-19T03:59:12.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Don’t Panic if you run terabytes of RAM and need to understand a dumped snapshot</h4> <p>Oracle's Solaris operating system remains widely used, even though Big Red more or less <a target="_blank" href="https://www.theregister.com/2018/01/09/solaris_11next_becomes_solaris_114_but_new_features_arent_set/">froze</a> development of the product in 2018 save for regular Support Repository Updates (SRUs) that add minor updates and bug fixes.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rick and Morty-skaparens FPS High on Life försenas]]></title>
+        <id>https://www.fz.se/artikel/291163</id>
+        <link href="https://www.fz.se/artikel/291163-rick-and-morty-skaparens-fps-high-on-life-forsenas"/>
+        <updated>2022-08-19T03:26:49.000Z</updated>
+        <summary type="html"><![CDATA[Squanch Games behöver mer tid för sitt kommande spel.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The truth about that draft law banning Uncle Sam buying insecure software]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/19/dod_spending_bill/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/19/dod_spending_bill/"/>
+        <updated>2022-08-19T02:22:32.000Z</updated>
+        <summary type="html"><![CDATA[<h4>There's always a get-out clause</h4> <p>An attempt by lawmakers to improve parts of the US government's cybersecurity defenses has raised questions – and hackles – among infosec professionals.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dirk Eddelbuettel: RcppArmadillo 0.11.2.3.1 on CRAN: Double Update]]></title>
         <id>http://dirk.eddelbuettel.com/blog/2022/08/18#rcpparmadillo_0.11.2.3.1</id>
@@ -28279,16 +28309,6 @@ index 7fe6dd9e..eabe714a 100644
 @@ -55,3 +55,4 @@ smtp_sasl_security…]]></summary>
         <author>
             <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://shencomix.tumblr.com/post/690308688484892672</id>
-        <link href="https://shencomix.tumblr.com/post/690308688484892672"/>
-        <updated>2022-07-20T15:07:46.000Z</updated>
-        <summary type="html"><![CDATA[patreon.com/shencomix]]></summary>
-        <author>
-            <name>Shen Comix</name>
         </author>
     </entry>
 </feed>

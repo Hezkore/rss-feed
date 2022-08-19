@@ -18019,6 +18019,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291163",
+          "author": null,
+          "description": "Squanch Games behöver mer tid för sitt kommande spel.",
+          "link": "https://www.fz.se/artikel/291163-rick-and-morty-skaparens-fps-high-on-life-forsenas",
+          "publishedOn": "2022-08-19T03:26:49.000Z",
+          "wordCount": 1834,
+          "title": "Rick and Morty-skaparens FPS High on Life försenas",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291163"
+        },
+        {
           "id": "https://www.fz.se/artikel/291160",
           "author": null,
           "description": "Ny patch ute.",
@@ -21995,16 +22005,6 @@
           "wordCount": 704,
           "title": "Untitled",
           "imageUrl": "https://64.media.tumblr.com/31123f06f310af9f1c3c375b82e82ab0/9925b2b11b6d42cd-60/s1280x1920/fff1ea6e81101609221960a43518b43e990082a8.png"
-        },
-        {
-          "id": "https://shencomix.tumblr.com/post/690308688484892672",
-          "author": null,
-          "description": "patreon.com/shencomix",
-          "link": "https://shencomix.tumblr.com/post/690308688484892672",
-          "publishedOn": "2022-07-20T15:07:46.000Z",
-          "wordCount": 725,
-          "title": "Untitled",
-          "imageUrl": "https://64.media.tumblr.com/a798bfd2d7e4e92505a43818b970cb9a/3d6f2c3ee6d485b6-28/s1280x1920/e794204eca0b8b679cb93dcfe38a8a32e4360c7c.png"
         }
       ]
     },
@@ -22013,6 +22013,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/19/oracle_solaris_updated/",
+          "author": null,
+          "description": "<h4>Don’t Panic if you run terabytes of RAM and need to understand a dumped snapshot</h4> <p>Oracle's Solaris operating system remains widely used, even though Big Red more or less <a target=\"_blank\" href=\"https://www.theregister.com/2018/01/09/solaris_11next_becomes_solaris_114_but_new_features_arent_set/\">froze</a> development of the product in 2018 save for regular Support Repository Updates (SRUs) that add minor updates and bug fixes.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/19/oracle_solaris_updated/",
+          "publishedOn": "2022-08-19T03:59:12.000Z",
+          "wordCount": 1277,
+          "title": "Solaris is in maintenance mode – but Oracle added a significant feature anyway",
+          "imageUrl": "https://regmedia.co.uk/2016/08/07/oracle_logo_360b_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/19/dod_spending_bill/",
+          "author": null,
+          "description": "<h4>There's always a get-out clause</h4> <p>An attempt by lawmakers to improve parts of the US government's cybersecurity defenses has raised questions – and hackles – among infosec professionals.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/19/dod_spending_bill/",
+          "publishedOn": "2022-08-19T02:22:32.000Z",
+          "wordCount": 1672,
+          "title": "The truth about that draft law banning Uncle Sam buying insecure software",
+          "imageUrl": "https://regmedia.co.uk/2016/11/09/baldeagleusaflag.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/18/28m_gene_therapy_treatment/",
           "author": null,
