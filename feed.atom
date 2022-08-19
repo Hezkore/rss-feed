@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-19T05:31:04.396Z</updated>
+    <updated>2022-08-19T06:31:35.210Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Red Hat OpenShift adds heterogenous clusters mixing x86, Arm]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/19/openshift_heterogenous_clusters_arm_x86/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/19/openshift_heterogenous_clusters_arm_x86/"/>
+        <updated>2022-08-19T05:55:06.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Tech preview is Azure-only for now, adding to previous AWS Arm adventures</h4> <p>Red Hat has delivered a tech preview of its OpenShift containerization platform that can drive clusters spanning both x86 and Arm silicon.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create and Switch Workspaces in Linux Mint]]></title>
         <id>http://itsfoss.com/?p=3170</id>
