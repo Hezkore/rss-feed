@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-19T21:19:57.106Z</updated>
+    <updated>2022-08-19T22:24:32.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scientists use supercritical carbon dioxide to power the grid]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/19/supercritical_co2_sandia/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/19/supercritical_co2_sandia/"/>
+        <updated>2022-08-19T21:33:12.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Sandia has been working on the project for more than a decade – now comes scaling</h4> <p>When it comes to turning turbines, steam is out and supercritical carbon dioxide is in – as demonstrated by Sandia National Labs when it connected a closed-loop system to the local grid, supplying 10 kilowatts of power for nearly an hour. …</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub Copilot may be perfect for cheating CompSci programming exercises]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/19/copilot_github_students/</id>
