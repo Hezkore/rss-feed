@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-19T22:24:32.906Z</updated>
+    <updated>2022-08-19T23:22:02.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
@@ -1377,6 +1377,16 @@ version 221. This version includes the following changes:
 You find out more by visiting the project homepage.]]></summary>
         <author>
             <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Age Milestone Privileges]]></title>
+        <id>https://xkcd.com/2661/</id>
+        <link href="https://xkcd.com/2661/"/>
+        <updated>2022-08-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/age_milestone_privileges.png" title="If you reach 122, you get complete unrevertible editorial control over Jeanne Calment's Wikipedia article." alt="If you reach 122, you get complete unrevertible editorial control over Jeanne Calment's Wikipedia article." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
