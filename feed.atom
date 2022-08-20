@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-20T17:21:31.319Z</updated>
+    <updated>2022-08-20T18:26:33.652Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Yes, Intel's Feeble Arc A380 GPU Can Run Crysis]]></title>
+        <id>YBgRy3jQ8UG2vc3BLJAWWi</id>
+        <link href="https://www.tomshardware.com/news/yes-intels-feeble-arc-a380-gpu-can-run-crysis"/>
+        <updated>2022-08-20T18:05:35.000Z</updated>
+        <summary type="html"><![CDATA[YouTuber PCGH Benchmarks & Analysis has tested the Arc A380 graphics card on Crysis at 1080p (1920x1080) resolution.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intel's Meteor Lake CPUs May Arrive With Ray Tracing Hardware]]></title>
         <id>B5nLiS35gAaHwWhooEHzQS</id>
