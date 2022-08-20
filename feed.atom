@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-20T08:28:28.078Z</updated>
+    <updated>2022-08-20T09:21:27.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How do you make an entire game about bags? Backpack Hero: "Hold my potion"]]></title>
+        <id>https://www.eurogamer.net/how-do-you-make-an-entire-game-about-bags-backpack-hero-hold-my-potion</id>
+        <link href="https://www.eurogamer.net/how-do-you-make-an-entire-game-about-bags-backpack-hero-hold-my-potion"/>
+        <updated>2022-08-20T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I've never really stopped to think about how you'd make an entire game about backpacks before, probably because they're always there, in every RPG, and they're already a kind of game in themselves as you try to fit everything in. But how do you take that idea and spin it out into something big enough to fill a game in its own right? 
+Backpack Hero has attempted an answer, and the answer here is 'make it a bit like a deck-building game', but there's some magic in there too. There's combat, which I didn't necessarily expect, and the way you engage with it is by putting things in your bag, or selecting things in your bag to use. Let's say you have a sword in there: if you click on it in battle, you'll use it. Let's say you have a shield in there: if you click it in battle, you'll add armour. This is how you attack and defend against enemies.
+The more complicated bit, which it took me a while to work out, are carvings. They behave a lot like cards in a deck: a selection are drawn each round and you summon (play) them into your bag to be used. Let's say you summon a Daisy Blade sword: it does damage when summoned and then again when activated like a normal weapon. Then it disappears after the battle until summoned again. You can increase your pool of  carvings by dragging over new ones when offered them as rewards after battles. You can also remove them at merchants, which again, underlines the deck-building idea.
+ Read more]]></summary>
+        <author>
+            <name>Robert Purchese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helgsnack: Minnesvärda buggar]]></title>
+        <id>https://www.sweclockers.com/artikel/34786</id>
+        <link href="https://www.sweclockers.com/artikel/34786-helgsnack-minnesvarda-buggar"/>
+        <updated>2022-08-20T08:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Ibland går saker inte riktigt som planerat och resultaten kan bli underhållande, tragiska eller allmänt minnesvärda. I helgen blickar vi tillbaka och tjötar om buggar vi minns.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mega Drive Mini 2 släppts i Europa den 27:e oktober]]></title>
+        <id>https://www.fz.se/artikel/291179</id>
+        <link href="https://www.fz.se/artikel/291179-mega-drive-mini-2-slappts-i-europa-den-27e-oktober"/>
+        <updated>2022-08-20T08:35:26.000Z</updated>
+        <summary type="html"><![CDATA[Europeiska Sega-fans får en MEGA oktober.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NASA builds for keeps: Voyager mission still going after 45 years]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/20/45_years_of_voyager/</id>
