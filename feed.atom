@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-20T09:21:27.090Z</updated>
+    <updated>2022-08-20T10:24:04.973Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[KDE's Dolphin Gets A Dedicated Selection Mode, Full-Screen Mode For Elisa]]></title>
+        <id>https://www.phoronix.com/news/KDE-Dolphin-Selection-Mode</id>
+        <link href="https://www.phoronix.com/news/KDE-Dolphin-Selection-Mode"/>
+        <updated>2022-08-20T09:51:52.000Z</updated>
+        <summary type="html"><![CDATA[KDE developers had another busy summertime week adding more features to their open-source desktop environment...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proton Experimental fixes up Disgaea 5, OUTRIDERS, Warhammer: Vermintide 2]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/proton-experimental-fixes-up-disgaea-5-outriders-warhammer-vermintide-2/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/proton-experimental-fixes-up-disgaea-5-outriders-warhammer-vermintide-2/"/>
+        <updated>2022-08-20T09:34:31.000Z</updated>
+        <summary type="html"><![CDATA[Valve has released the latest version of Proton Experimental, which has multiple newly supported games and a few useful bug fixes included.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How do you make an entire game about bags? Backpack Hero: "Hold my potion"]]></title>
         <id>https://www.eurogamer.net/how-do-you-make-an-entire-game-about-bags-backpack-hero-hold-my-potion</id>
