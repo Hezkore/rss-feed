@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-20T10:24:04.973Z</updated>
+    <updated>2022-08-20T11:18:41.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[De klassiska NES-utvecklarna Sunsoft gör comeback]]></title>
+        <id>https://www.fz.se/artikel/291180</id>
+        <link href="https://www.fz.se/artikel/291180-de-klassiska-nes-utvecklarna-sunsoft-gor-comeback"/>
+        <updated>2022-08-20T10:55:50.000Z</updated>
+        <summary type="html"><![CDATA[Japansk spelpensionär gör återkomst.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A developer is banned from its game's own Steam forum for flaming other users]]></title>
+        <id>https://www.eurogamer.net/a-developer-is-banned-from-its-games-own-steam-forum-for-flaming-other-users</id>
+        <link href="https://www.eurogamer.net/a-developer-is-banned-from-its-games-own-steam-forum-for-flaming-other-users"/>
+        <updated>2022-08-20T10:39:23.000Z</updated>
+        <summary type="html"><![CDATA[A developer has been banned from its game's own Steam forum after repeatedly violating the platform's discussion rules and guidelines. 
+
+Developer Dolphin Barn Incorporated - which caught our eye when it slipped anti-mask rhetoric into its patch notes earlier this year - shared a screenshot of his ban on Twitter, which said: "This is the second time that one of your posts violates our discussion rules and guidelines, specifically insulting or flaming another user.
+
+"We're also noticing a trend with abusive messages sent when banning players from your hub. When posting any content in the Community or communicating with your players, please make sure it adheres to the guidelines."
+ 
+Read more]]></summary>
+        <author>
+            <name>Vikki Blake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesa Zink Improvements For OpenGL-On-Vulkan Reportedly Make It Faster Than Radeon OpenGL]]></title>
+        <id>https://www.phoronix.com/news/Zink-2022-Refactor-Faster</id>
+        <link href="https://www.phoronix.com/news/Zink-2022-Refactor-Faster"/>
+        <updated>2022-08-20T10:25:39.000Z</updated>
+        <summary type="html"><![CDATA[The latest Mesa 22.3-devel code for Zink's OpenGL on Vulkan implementation has hit an important milestone with the latest code refactoring: it looks like this OpenGL implementation atop the Vulkan API with the RADV driver is beginning to outpace AMD's RadeonSI Gallium3D driver providing native OpenGL support for Radeon GPUs...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KDE's Dolphin Gets A Dedicated Selection Mode, Full-Screen Mode For Elisa]]></title>
         <id>https://www.phoronix.com/news/KDE-Dolphin-Selection-Mode</id>
