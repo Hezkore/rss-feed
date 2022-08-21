@@ -16213,6 +16213,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "https://www.eyrie.org/~eagle/reviews/books/1-250-23624-X.html",
+          "author": null,
+          "description": "Review: A Prayer for the Crown-Shy, by Becky Chambers\n\n    Series:\n    Monk & Robot #2\n  \nPublisher:\n    Tordotcom\n  \nCopyright:\n    2022\n  \nISBN:\n    1-250-23624-X\n  \nFormat:\n    Kindle\n  \nPages:\n    151\n  \n\nA Prayer for the Crown Shy is the second novella in the Monk &\nRobot series and a direct sequel to A\nPsalm for the Wild-Built.  Don't start here.\n\n\n\nI would call this the continuing adventures of Sibling Dex and Mosscap the\nrobot, except adventures is entirely the wrong term for stories with so\nlittle risk or danger.  The continuing tour?  The continuing philosophical\nmusings?  Whatever one calls it, it's a slow exploration of Dex's world,\nthis time with Mosscap alongside.  Humans are about to have their first\ncontact with a robot since the Awakening.\n\n\n\nIf you're expecting that to in…",
+          "link": "https://www.eyrie.org/~eagle/reviews/books/1-250-23624-X.html",
+          "publishedOn": "2022-08-21T04:08:00.000Z",
+          "wordCount": 1106,
+          "title": "Russ Allbery: Review: A Prayer for the Crown-Shy",
+          "imageUrl": null
+        },
+        {
           "id": "http://dirk.eddelbuettel.com/blog/2022/08/18#rcpparmadillo_0.11.2.3.1",
           "author": null,
           "description": "Armadillo is a powerful and expressive C++ template library for linear algebra and scientific computing. It aims towards a good balance between speed and ease of use, has a syntax deliberately close to Matlab, and is useful for algorithm development directly in C++, or quick conversion of research code into production environments. RcppArmadillo integrates this library with the R environment and language–and is widely used by (currently) 1005 packages other packages on CRAN (as celebrated in this blog post on passing 1000 packages from just four days ago), downloaded nearly 26 million times (per the partial logs from the cloud mirrors of CRAN), and the CSDA paper (preprint / vignette) by Conrad and myself has been cited 488 times according to Google Scholar.\nThis release brings together tw…",
