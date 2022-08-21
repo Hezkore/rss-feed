@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-21T13:32:01.251Z</updated>
+    <updated>2022-08-21T14:19:34.176Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sega is adapting two of its cult-classic titles into films]]></title>
+        <id>https://www.vg247.com/sega-space-channel-5-comix-zone-film-adaptation</id>
+        <link href="https://www.vg247.com/sega-space-channel-5-comix-zone-film-adaptation"/>
+        <updated>2022-08-21T13:49:53.000Z</updated>
+        <summary type="html"><![CDATA[Sega isn't stopping at Sonic when it comes to making movies, as adaptations of two of its more niche titles are in the works.
+As reported by The Hollywood Reporter, Sega and media company Picturestart are teaming up to produce adaptations of music video game Space Channel 5 and beat 'em up Comix Zone.
+According to the report, the adaptation of Space Channel 5, now seemingly just called Channel 5, will be a comedy/ dance take on the game, which all apparently "tell the story of a hapless fast-food worker who is recruited by a freedom reporter from the future to save the world from aliens using the one thing that unites all people on the planet: our love of silly viral dances."
+ Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Threadripper Pro 5995WX and 5975WX Review: Sheer Threaded Dominance]]></title>
+        <id>6af3Ujp69CBzToNLwkf6nX</id>
+        <link href="https://www.tomshardware.com/reviews/amd-threadripper-pro-5995wx-5975wx-cpu-review"/>
+        <updated>2022-08-21T13:40:24.000Z</updated>
+        <summary type="html"><![CDATA[AMD's Threadripper Pro 5995WX and 5975WX barrel into the workstation market with 64 cores, 128 threads, eight memory channels, and class-leading performance.]]></summary>
+        <author>
+            <name>palcorn@outlook.com (Paul Alcorn)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[R600 Gallium3D Driver Receives NIR Backend Fixes For Radeon HD 2000/3000/4000 Series]]></title>
         <id>https://www.phoronix.com/news/R600g-NIR-Pre-Evergreen-Fixes</id>
