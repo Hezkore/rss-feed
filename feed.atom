@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-21T12:38:28.106Z</updated>
+    <updated>2022-08-21T13:32:01.251Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[R600 Gallium3D Driver Receives NIR Backend Fixes For Radeon HD 2000/3000/4000 Series]]></title>
+        <id>https://www.phoronix.com/news/R600g-NIR-Pre-Evergreen-Fixes</id>
+        <link href="https://www.phoronix.com/news/R600g-NIR-Pre-Evergreen-Fixes"/>
+        <updated>2022-08-21T13:17:05.000Z</updated>
+        <summary type="html"><![CDATA[In addition to the R300g driver seeing new shader optimizations, also being merged this week to Mesa 22.3 were some fixes for the recently-introduced new NIR back-end for the Rade R600 Gallium3D driver for the Radeon HD 2000/3000/4000 series...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open-Source NVIDIA Vulkan Driver "NVK" Sees Uptick In Activity This Week]]></title>
+        <id>https://www.phoronix.com/news/NVK-NVIDIA-Vulkan-Busy-Week</id>
+        <link href="https://www.phoronix.com/news/NVK-NVIDIA-Vulkan-Busy-Week"/>
+        <updated>2022-08-21T13:05:29.000Z</updated>
+        <summary type="html"><![CDATA[The open-source NVIDIA Vulkan driver "NVK" being developed for Mesa has seen a busy week of new development activity on this work-in-progress solution...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oceanic survival game Raft now has an epic VR mod that will certainly float your boat]]></title>
+        <id>https://www.eurogamer.net/oceanic-survival-game-raft-now-has-an-epic-vr-mod-that-will-certainly-float-your-boat</id>
+        <link href="https://www.eurogamer.net/oceanic-survival-game-raft-now-has-an-epic-vr-mod-that-will-certainly-float-your-boat"/>
+        <updated>2022-08-21T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Getting lost a sea just got a whole lot scarier thanks to a new flatscreen to VR mod for oceanic survival game Raft. Made by talented modder DrBibop, who is previously known for his Risk of Rain 2 VR mod, Raft VR brings the game's open waters to life in a spectacular way.
+Along with 6DoF movement and comfort options for things like seated or standing play, the mod also brings minor motion controls to the game as well. This means you won't be able to interact with most objects physically (using items is confined to a button press), but you will be able to use your actual arms to throw your salvage hook out into the ocean and hopefully towards some useful scrap.
+If you want to watch me indulge in some expert tossing, you can do so in this week's episode of VR Corner, which you can find just below these words.
+ Read more]]></summary>
+        <author>
+            <name>Ian Higton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kompletts somriga datortävling är avgjord]]></title>
+        <id>https://www.sweclockers.com/artikel/34780</id>
+        <link href="https://www.sweclockers.com/artikel/34780-kompletts-somriga-datortavling-ar-avgjord"/>
+        <updated>2022-08-21T12:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Tre Khameleon 12i-datorer hittar nu nytt hem hos SweClockers-medlemmar som lovar intressanta recensioner av produkterna.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Secure Erase an SSD or HDD Before Selling It or Your PC]]></title>
+        <id>MAbd3vTmmVvVQGvWVeMs6m</id>
+        <link href="https://www.tomshardware.com/how-to/secure-erase-ssd-or-hard-drive"/>
+        <updated>2022-08-21T12:32:56.000Z</updated>
+        <summary type="html"><![CDATA[If you're selling your PC or storage drive, you need to wipe it so well that the next person can't recover your data.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[One bit of farmland in Redfall is apparently bigger than all of Prey's whole map]]></title>
         <id>https://www.vg247.com/quakecon-video-details-redfall-gameplay-details</id>
@@ -30256,16 +30309,6 @@ At some point this weekend, a certain 10-month-old velociraptor named Morty (see
         <summary type="html"><![CDATA[It isn't rocket science to play music on Linux, but you should have a great experience with a good music player!]]></summary>
         <author>
             <name>Ankush Das</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://shencomix.tumblr.com/post/690527603042516993</id>
-        <link href="https://shencomix.tumblr.com/post/690527603042516993"/>
-        <updated>2022-07-23T01:07:19.000Z</updated>
-        <summary type="html"><![CDATA[Support my work @ patreon.com/shencomix!]]></summary>
-        <author>
-            <name>Shen Comix</name>
         </author>
     </entry>
 </feed>
