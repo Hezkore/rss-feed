@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-21T09:21:03.132Z</updated>
+    <updated>2022-08-21T10:24:01.001Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cloud Hypervisor 26.0 Released With SMBIOS Improvements, Unified Binary For MSHV/KVM]]></title>
+        <id>https://www.phoronix.com/news/Cloud-Hypervisor-26.0</id>
+        <link href="https://www.phoronix.com/news/Cloud-Hypervisor-26.0"/>
+        <updated>2022-08-21T10:12:43.000Z</updated>
+        <summary type="html"><![CDATA[Cloud Hypervisor 26.0 released this week as the newest version of this Rust-based hypervisor focused on cloud workloads and secure computing. The open-source Cloud Hypervisor started out as an Intel software project and continues to be led by them while now under Linux Foundation stewardship and continuing to see contributions from the likes of Arm and Microsoft...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Musk tries to sell Tesla's Optimus robot butler to China]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/21/in_brief_ai/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/21/in_brief_ai/"/>
+        <updated>2022-08-21T09:48:09.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Plus: How US Homeland Security uses AI – and text-to-image systems deployed in social media</h4> <p><strong>In brief</strong>  Elon Musk wants Tesla's robot butler to be able to cook, mow laws, and care for the elderly, he wrote in an essay published in a magazine backed by the official Cyberspace Administration of China.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Junichi Uekawa: Somehow my email in emacs/wl shows right justified.]]></title>
+        <id>http://www.netfort.gr.jp/~dancer/diary/daily/2022-Aug-21.html.en#2022-Aug-21-18:34:08</id>
+        <link href="http://www.netfort.gr.jp/~dancer/diary/daily/2022-Aug-21.html.en#2022-Aug-21-18:34:08"/>
+        <updated>2022-08-21T09:34:08.000Z</updated>
+        <summary type="html"><![CDATA[Somehow my email in emacs/wl shows right justified. Seems like some emails are detected as RTL language for some reason. Now how do I configure this...]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kena: Bridge of Spirits is coming to Steam alongside a juicy anniversary update]]></title>
         <id>https://www.vg247.com/kena-bridge-of-spirits-steam-anniversary-update</id>
@@ -17,6 +47,16 @@ Players that want to run through the game another time but with all of the abili
  Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kena: Bridge of Spirits släpps på Steam nästa månad]]></title>
+        <id>https://www.fz.se/artikel/291182</id>
+        <link href="https://www.fz.se/artikel/291182-kena-bridge-of-spirits-slapps-pa-steam-nasta-manad"/>
+        <updated>2022-08-21T09:07:56.000Z</updated>
+        <summary type="html"><![CDATA[…tillsammans med en stor uppdatering som släpps samma dag.]]></summary>
+        <author>
+            <name>FZ.se</name>
         </author>
     </entry>
     <entry>
