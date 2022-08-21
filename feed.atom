@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-21T20:23:27.531Z</updated>
+    <updated>2022-08-21T21:19:05.446Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
@@ -447,6 +447,48 @@ contact with a robot since the Awakening.
 
 
 If you're expecting that to in…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iustin Pop: Note to self: Don't forget Qemu's discard option]]></title>
+        <id>https://k1024.org/posts/2022/2022-08-21-do-not-forget-qemu-unmap/</id>
+        <link href="https://k1024.org/posts/2022/2022-08-21-do-not-forget-qemu-unmap/"/>
+        <updated>2022-08-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is just a short note to myself, and to anyone who might run VMs
+via home-grown scripts (or systemd units). I expect modern VM managers
+to do this automatically, but for myself, I have just a few hacked
+together scripts.
+By default, QEMU (at least as of version 7.0) does not honour/pass
+discard requests from block devices to the underlying storage. This is
+a sane default (like lvm’s default setting), but with long-lived VMs
+it can lead to lots of wasted disk space. I keep my VMs on SSDs, which
+is limited space for me, so savings here are important.
+Older Debian versions did not trim automatically, but nowadays they do
+(which is why this is worth enabling for all VMs), so all you need is
+to pass:
+unmap=discard to activate the pass-through.
+optionally, detect-zeroes=unmap, but I don’t know how useful this
+is, as in, how often zeroes are written.
+And the next trim should save lots of disk space. It doesn’t matter
+much if you use raw or qcow2, both will know to unmap the unused
+disk, leading to less disk space used. This part seems to me safe
+security-wise, as long as you trust the host. If you have pass-through
+to the actual hardware, it will also do proper discard at the SSD
+level (with the potential security issues leading from that). I’m
+happy with the freed up disk space 🙂
+Note: If you have (like I do) Windows VMs as well, using paravirt
+block devices, make sure the drive is recent enough.
+One interesting behaviour from Windows: it looks like the default
+cluster size is quite high (64K), which with many small files will
+lead to significant overhead. But, either I misunderstand, or Windows
+actually knows how to unmap the unused part of a cluster (although it
+takes a while). So in the end, the backing file for the VM (19G) is
+smaller than the “disk used” as reported in Windows (23-24G), but
+higher than “size on disk” for all the files (17.2G). Seems legit, and
+it still boots 😛 Most Linux file systems have much smaller block
+sizes (usually 4K), so this is not a problem for it.]]></summary>
         <author>
             <name>Planet Debian</name>
         </author>
