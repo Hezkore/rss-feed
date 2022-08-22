@@ -296,6 +296,26 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/08/cities-skylines-is-getting-another-expansion-with-plazas-and-promenades/",
+          "author": "Liam Dawe",
+          "description": "Plazas and Promenades is the next expansion for the city-builder Cities: Skylines, giving you the option to build up some special pedestrian zones.",
+          "link": "https://www.gamingonlinux.com/2022/08/cities-skylines-is-getting-another-expansion-with-plazas-and-promenades/",
+          "publishedOn": "2022-08-22T19:06:11.000Z",
+          "wordCount": 1352,
+          "title": "Cities: Skylines is getting another expansion with Plazas and Promenades",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2072590697id21480gol.jpg"
+        },
+        {
+          "id": "https://www.gamingonlinux.com/2022/08/mask-of-the-rose-from-failbetter-games-delayed-until-april-2023/",
+          "author": "Liam Dawe",
+          "description": "Failbetter Games put a new production update post up recently for Mask of the Rose that went over the user interface, but they also announced a delay.",
+          "link": "https://www.gamingonlinux.com/2022/08/mask-of-the-rose-from-failbetter-games-delayed-until-april-2023/",
+          "publishedOn": "2022-08-22T18:57:14.000Z",
+          "wordCount": 1371,
+          "title": "Mask of the Rose from Failbetter Games delayed until April 2023",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/825165063id21479gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/08/humble-store-has-a-big-summer-sale-live-lots-on-offer-for-steam-deck-linux/",
           "author": "Liam Dawe",
           "description": "It's the beginning of a fresh week so maybe you want some new games? Well, Humble Store has a huge amount discounted in their new Summer Sale that lasts until September 6th.",
@@ -13381,6 +13401,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "MLdrXaaJkKsLR6Aorx7hLh",
+          "author": null,
+          "description": "Intel details the company's Ponte Vecchio Xe-HPC GPU at Hot Chips 34.",
+          "link": "https://www.tomshardware.com/news/intel-ponte-vecchio-seemingly-offers-25x-higher-performance-than-nvidias-a100",
+          "publishedOn": "2022-08-22T18:38:45.000Z",
+          "wordCount": 18673,
+          "title": "Intel Ponte Vecchio Seemingly Offers 2.5x Higher Performance Than Nvidia's A100",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/uTCaqvAU7vWL64rVd6WrTN.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/uTCaqvAU7vWL64rVd6WrTN.jpg"
+        },
+        {
           "id": "xz6He9DnArQDFvUzwNU3WR",
           "author": null,
           "description": "We don’t know if the improved pace of development will mean an earlier date for the mass production of N3E. However, if this is likely, TSMC will promptly inform the market/shareholders.",
@@ -20099,6 +20134,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291196",
+          "author": null,
+          "description": "Det är många förseningar nu...",
+          "link": "https://www.fz.se/artikel/291196-dagens-forseningsnyhet-flashback-2-skjuts-fram-till-2023",
+          "publishedOn": "2022-08-22T18:58:00.000Z",
+          "wordCount": 1674,
+          "title": "Dagens förseningsnyhet - Flashback 2 skjuts fram till 2023",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291196"
+        },
+        {
           "id": "https://www.fz.se/artikel/291195",
           "author": null,
           "description": "Och en demo väntar på att testas.",
@@ -22616,6 +22661,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34792",
+          "author": null,
+          "description": "Lagringsenheterna som drar nytta av PCI Express 5.0-protokollet är på ingång. När Gigabyte nu presenterar sitt första bidrag handlar det om hastigheter på minst 10 GB/s.",
+          "link": "https://www.sweclockers.com/artikel/34792-gigabyte-siktar-pa-12-gb-s-med-farsk-pci-express-5-0-ssd",
+          "publishedOn": "2022-08-22T18:55:21.000Z",
+          "wordCount": 1633,
+          "title": "Gigabyte siktar på 12 GB/s med färsk PCI Express 5.0-SSD",
+          "imageUrl": "https://www.sweclockers.com/artikel/34792/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34798",
           "author": null,
           "description": "Huawei återupplivar Mate-serien och kommer presentera tillskottet Mate 50 i september.",
@@ -24034,16 +24089,6 @@
           "wordCount": 1776,
           "title": "Google-utvecklaren bakom påstående om självmedveten AI får sparken",
           "imageUrl": "https://www.sweclockers.com/artikel/34649/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34648",
-          "author": null,
-          "description": "Det utbredda formatet komprimerar bilder till en bråkdel av originalstorleken utan att fullständigt förstöra dem. Matematik och snillrika lösning ligger bakom.",
-          "link": "https://www.sweclockers.com/artikel/34648-sondagsmatine-under-huven-pa-jpeg-algoritmen",
-          "publishedOn": "2022-07-24T07:03:00.000Z",
-          "wordCount": null,
-          "title": "Söndagsmatiné: Under huven på JPEG-algoritmen",
-          "imageUrl": null
         }
       ]
     },
@@ -24603,6 +24648,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/22/mexico_joins_the_list_nations/",
+          "author": null,
+          "description": "<h4>Washington, Seoul, Beijing, Taipei and ...Mexico City battle to attract vendors</h4> <p>Mexico is the next country in line to offer incentives to tempt semiconductor manufacturers to set up shop, and may be aiming to take advantage of the US desire to bring manufacturing closer to home.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/22/mexico_joins_the_list_nations/",
+          "publishedOn": "2022-08-22T19:00:10.000Z",
+          "wordCount": 1593,
+          "title": "Mexico joins the list of nations wanting to lure chipmakers",
+          "imageUrl": "https://regmedia.co.uk/2019/06/03/shuttertock_mexico_usa.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/22/windows_10_update_killing_sound/",
           "author": null,
