@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-22T08:30:05.589Z</updated>
+    <updated>2022-08-22T09:22:36.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GTK4's Broadway HTML5 Backend Coming Back To Ubuntu, Debian]]></title>
+        <id>https://www.phoronix.com/news/GTK4-Broadway-Being-Used</id>
+        <link href="https://www.phoronix.com/news/GTK4-Broadway-Being-Used"/>
+        <updated>2022-08-22T09:20:01.000Z</updated>
+        <summary type="html"><![CDATA[For the past decade going back to the early GTK3 days there has been the "Broadway" back-end that allows for GTK interfaces to be rendered within HTML5 web browsers. Aside from demos and other toys, there hasn't been too much widespread use reported with this GTK HTML5 back-end and some distributions like Ubuntu and Debian haven't been shipping the Broadway support with the newer GTK4. However, that is changing now for Debian and with this autumn's release of Ubuntu 22.10...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I've discovered Wrecking Crew, the game where Mario can't jump, and it's brilliant]]></title>
+        <id>https://www.eurogamer.net/ive-discovered-wrecking-crew-the-game-where-mario-cant-jump-and-its-brilliant</id>
+        <link href="https://www.eurogamer.net/ive-discovered-wrecking-crew-the-game-where-mario-cant-jump-and-its-brilliant"/>
+        <updated>2022-08-22T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Every now and then I think, oh, I should track down Devil World, the classic Miyamoto maze game that never got a proper release in the West. This week I loaded up the Switch NES collection to see if it had somehow crept onto that, but of course it hadn't.
+
+
+What I found instead was Wrecking Crew, a game I knew almost nothing about. Actually, let's do this. What I knew was: former arcade game? Mario's in it? That's it. And both those things I only thought I knew.
+
+
+So I gave Wrecking Crew a toot, and I am here to tell you that you should also give Wrecking Crew a toot, if you haven't already. It's an absolute charmer. And it's weird and clever and has a bunch of very interesting ideas in it. And it doesn't entirely work - and I mean that, I think, as a good thing.
+ 
+Read more]]></summary>
+        <author>
+            <name>Christian Donlan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experimental Patches Allow Much Faster AArch64 & RISC-V Kexec Kernel Reboots]]></title>
+        <id>https://www.phoronix.com/news/Linux-Faster-ARM64-RISC-V-Kexec</id>
+        <link href="https://www.phoronix.com/news/Linux-Faster-ARM64-RISC-V-Kexec"/>
+        <updated>2022-08-22T08:57:43.000Z</updated>
+        <summary type="html"><![CDATA[For those making use of Kexec reboots for booting to a new kernel without fully bringing down the system to reduce the server downtime from POST'ing and other hardware initialization tasks, Kexec reboots may soon be much faster on 64-bit Arm and RISC-V systems...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kdenlive 22.08 Video Editor Brings UI Improvements, Experimental Parallel Processing]]></title>
+        <id>https://www.phoronix.com/news/Kdenlive-22.08-Released</id>
+        <link href="https://www.phoronix.com/news/Kdenlive-22.08-Released"/>
+        <updated>2022-08-22T08:45:53.000Z</updated>
+        <summary type="html"><![CDATA[Following last week's release of KDE Gear 22.08, Kdenlive 22.08 is out as the newest version of this open-source, KDE/Qt-aligned non-linear video editing software...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In a time before calculators, going the extra mile at work sometimes didn't add up]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/22/who_me/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/22/who_me/"/>
+        <updated>2022-08-22T08:30:05.000Z</updated>
+        <summary type="html"><![CDATA[<h4>New kid on the block risked decimating colleagues' side hustle</h4> <p><strong>Who, Me?</strong>  When you start a new job, you always want to impress the boss by going the extra mile (or kilometer). But doing so can risk incurring the wrath of co-workers. …</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[First footage of HBO's The Last of Us TV adaptation released]]></title>
         <id>https://www.eurogamer.net/first-footage-of-hbos-the-last-of-us-tv-adaptation-released</id>
@@ -30630,19 +30688,6 @@ Read more]]></summary>
         <link href="https://www.rockpapershotgun.com/ex-zodiac-is-heavily-star-fox-inspired-and-out-in-early-access-now"/>
         <updated>2022-07-23T21:37:11.000Z</updated>
         <summary type="html"><![CDATA[Last year, the demo for Ex-Zodiac offered a sugar rush of Star Fox-inspired checkboard floors, glowing weak spots, and hibber-jibber radio chatter. Now Ex-Zodiac has entered early access, and it looks like it's got more going on than straight homage. Fox McCloud never rode a motorbike, for one.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hytale devs are redeveloping its engine, say no release in 2023]]></title>
-        <id>https://www.rockpapershotgun.com/hytale-devs-are-redeveloping-its-engine-say-no-release-in-2023</id>
-        <link href="https://www.rockpapershotgun.com/hytale-devs-are-redeveloping-its-engine-say-no-release-in-2023"/>
-        <updated>2022-07-23T21:19:54.000Z</updated>
-        <summary type="html"><![CDATA[The developers of blocky survival and construction game Hytale say they've made the decision to "redevelop" its engine. In a lengthy development update, they say the switch should make it easier to patch and maintain the game after release, among other benefits. They also show off some fancy creator tools, and say Hytale won't release in 2023.
 
  
 Read more]]></summary>

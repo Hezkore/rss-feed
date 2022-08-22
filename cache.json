@@ -1593,6 +1593,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/ive-discovered-wrecking-crew-the-game-where-mario-cant-jump-and-its-brilliant",
+          "author": "Christian Donlan",
+          "description": "Every now and then I think, oh, I should track down Devil World, the classic Miyamoto maze game that never got a proper release in the West. This week I loaded up the Switch NES collection to see if it had somehow crept onto that, but of course it hadn't.\r\n\n\r\nWhat I found instead was Wrecking Crew, a game I knew almost nothing about. Actually, let's do this. What I knew was: former arcade game? Mario's in it? That's it. And both those things I only thought I knew.\r\n\n\r\nSo I gave Wrecking Crew a toot, and I am here to tell you that you should also give Wrecking Crew a toot, if you haven't already. It's an absolute charmer. And it's weird and clever and has a bunch of very interesting ideas in it. And it doesn't entirely work - and I mean that, I think, as a good thing.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/ive-discovered-wrecking-crew-the-game-where-mario-cant-jump-and-its-brilliant",
+          "publishedOn": "2022-08-22T09:00:00.000Z",
+          "wordCount": 4933,
+          "title": "I've discovered Wrecking Crew, the game where Mario can't jump, and it's brilliant",
+          "imageUrl": "https://assets.reedpopcdn.com/Wrecking-Crew.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Wrecking-Crew.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/first-footage-of-hbos-the-last-of-us-tv-adaptation-released",
           "author": "Victoria Kennedy",
           "description": "We now have our first look at HBO's upcoming adaptation of The Last of Us.\r\n\n\r\nShared as part of a collection of teasers for the service's new season, this clip was brief but enticing. It comes with the obligatory dramatic music as it shows us snippets of Pedro Pascal's Joel running through the streets with someone who I won't name to avoid spoilers, Bella Ramsay as Ellie and Nick Offerman as Bill. While we don't see any of the series' infected enemies, we do get a brief snap of some fungal like spores on a wall, hinting at the devastation the world is in. \r\n\n\r\nThe entire HBO clip, which can be seen below, also gives us small teasers for shows such as The Idol, Doom Patrol and Pennyworth. However, if you want to jump straight to The Last of Us, that begins at around the 1:43 mark. \r\n \nRead more",
@@ -8297,6 +8307,36 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/GTK4-Broadway-Being-Used",
+          "author": null,
+          "description": "For the past decade going back to the early GTK3 days there has been the \"Broadway\" back-end that allows for GTK interfaces to be rendered within HTML5 web browsers. Aside from demos and other toys, there hasn't been too much widespread use reported with this GTK HTML5 back-end and some distributions like Ubuntu and Debian haven't been shipping the Broadway support with the newer GTK4. However, that is changing now for Debian and with this autumn's release of Ubuntu 22.10...",
+          "link": "https://www.phoronix.com/news/GTK4-Broadway-Being-Used",
+          "publishedOn": "2022-08-22T09:20:01.000Z",
+          "wordCount": 1409,
+          "title": "GTK4's Broadway HTML5 Backend Coming Back To Ubuntu, Debian",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-Faster-ARM64-RISC-V-Kexec",
+          "author": null,
+          "description": "For those making use of Kexec reboots for booting to a new kernel without fully bringing down the system to reduce the server downtime from POST'ing and other hardware initialization tasks, Kexec reboots may soon be much faster on 64-bit Arm and RISC-V systems...",
+          "link": "https://www.phoronix.com/news/Linux-Faster-ARM64-RISC-V-Kexec",
+          "publishedOn": "2022-08-22T08:57:43.000Z",
+          "wordCount": 1434,
+          "title": "Experimental Patches Allow Much Faster AArch64 & RISC-V Kexec Kernel Reboots",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Kdenlive-22.08-Released",
+          "author": null,
+          "description": "Following last week's release of KDE Gear 22.08, Kdenlive 22.08 is out as the newest version of this open-source, KDE/Qt-aligned non-linear video editing software...",
+          "link": "https://www.phoronix.com/news/Kdenlive-22.08-Released",
+          "publishedOn": "2022-08-22T08:45:53.000Z",
+          "wordCount": 1320,
+          "title": "Kdenlive 22.08 Video Editor Brings UI Improvements, Experimental Parallel Processing",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-6.0-rc2-Released",
           "author": null,
           "description": "Linus Torvalds has just released Linux 6.0-rc2 as the newest weekly test candidate for this next major kernel series...",
@@ -12912,16 +12952,6 @@
           "wordCount": 4647,
           "title": "Ex-Zodiac is heavily Star Fox-inspired and out in early access now",
           "imageUrl": "https://assets2.rockpapershotgun.com/ex-zodiac-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ex-zodiac-header.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/hytale-devs-are-redeveloping-its-engine-say-no-release-in-2023",
-          "author": "Graham Smith",
-          "description": "The developers of blocky survival and construction game Hytale say they've made the decision to \"redevelop\" its engine. In a lengthy development update, they say the switch should make it easier to patch and maintain the game after release, among other benefits. They also show off some fancy creator tools, and say Hytale won't release in 2023.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/hytale-devs-are-redeveloping-its-engine-say-no-release-in-2023",
-          "publishedOn": "2022-07-23T21:19:54.000Z",
-          "wordCount": 4698,
-          "title": "Hytale devs are redeveloping its engine, say no release in 2023",
-          "imageUrl": "https://assets2.rockpapershotgun.com/hytale-beach.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/hytale-beach.jpg"
         }
       ]
     },
@@ -23798,6 +23828,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/22/who_me/",
+          "author": null,
+          "description": "<h4>New kid on the block risked decimating colleagues' side hustle</h4> <p><strong>Who, Me?</strong>  When you start a new job, you always want to impress the boss by going the extra mile (or kilometer). But doing so can risk incurring the wrath of co-workers. …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/22/who_me/",
+          "publishedOn": "2022-08-22T08:30:05.000Z",
+          "wordCount": 1283,
+          "title": "In a time before calculators, going the extra mile at work sometimes didn't add up",
+          "imageUrl": "https://regmedia.co.uk/2022/08/19/shutterstock_1491224315.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/22/google_oracle_heatstroke/",
           "author": null,
