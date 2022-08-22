@@ -1623,6 +1623,26 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/playstation-planning-gravity-rush-film-report",
+          "author": "Tom Phillips",
+          "description": "PlayStation is planning to adapt the excellent Gravity Rush into a movie, it has been reported. \r\n\nDeadline states that the Japan Studio title is the latest to be added to a long, long line of projects in the works at  PlayStation Productions.\r\n\n\r\nSo far, director Anna Mastro (who helmed Disney+ series Secret Society of Second Born Royals) and script writer Emily Jerome (Panopticon) are attached.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/playstation-planning-gravity-rush-film-report",
+          "publishedOn": "2022-08-22T17:00:51.000Z",
+          "wordCount": 4375,
+          "title": "PlayStation planning Gravity Rush film - report",
+          "imageUrl": "https://assets.reedpopcdn.com/Gravity-Rush-2-Art.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Gravity-Rush-2-Art.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/the-game-awards-returns-this-december",
+          "author": "Tom Phillips",
+          "description": "The Game Awards 2022 will be held on 8th December, it has been announced.\r\n\n\r\nThe video game industry's annual winter trailer fest, which also includes some awards, will broadcast live from the Microsoft Theater in Los Angeles, and be livestreamed online.\r\n\n\r\nThis year's show will include a new category for Best Adaptation, which will award \"shows, movies, books, podcasts, comics and more\" which \"authentically adapt\" video game source material.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/the-game-awards-returns-this-december",
+          "publishedOn": "2022-08-22T16:40:22.000Z",
+          "wordCount": 4365,
+          "title": "The Game Awards returns this December",
+          "imageUrl": "https://assets.reedpopcdn.com/Faxty7eXoAcN12v.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Faxty7eXoAcN12v.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/minecraft-steve-regrows-beard-after-more-than-a-decade",
           "author": "Tom Phillips",
           "description": "Minecraft's default player skin Steve has finally regrown its original beard, after 13 years.\r\n\n\r\nDeveloper Mojang has updated the character designs for both Steve and Alex for the first time in over a decade. The changes add extra 3D elements to both of their blocky models - and return Steve's OG face fuzz.\r\n\n\r\nSteve's beard was lost back in 2009, as part of a move to make Minecraft's default skin more gender-neutral. It wasn't until 2014 that the ponytailed Alex made an appearance.\r\n \nRead more",
@@ -8607,6 +8627,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/GNOME-43-Does-Max-BPC",
+          "author": null,
+          "description": "Earlier this summer was the patch series for GNOME's Mutter to make use of the Linux DRM/KMS \"max BPC\" property for the drivers exposing the maximum bits per color supported. That code has now been merged in time for next month's GNOME 43 release and in turn will help deal with some scenarios where users may encounter screen flickering, brief blackouts, and other problems related to available monitor bandwidth...",
+          "link": "https://www.phoronix.com/news/GNOME-43-Does-Max-BPC",
+          "publishedOn": "2022-08-22T16:30:00.000Z",
+          "wordCount": 1458,
+          "title": "GNOME 43's Mutter Lands Max BPC Property Support To Deal With Monitor Issues",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Asahi-Linux-GL-2.1-EOY2022",
           "author": null,
           "description": "Alyssa Rosenzweig who is known for her work on the Panfrost open-source, reverse-engineered Arm Mali driver and has been spending nearly two years now involved with the Asahi Linux crew working on reverse-engineered Apple M1/M2 graphics support has shared a new status update...",
@@ -13351,6 +13381,51 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "xz6He9DnArQDFvUzwNU3WR",
+          "author": null,
+          "description": "We don’t know if the improved pace of development will mean an earlier date for the mass production of N3E. However, if this is likely, TSMC will promptly inform the market/shareholders.",
+          "link": "https://www.tomshardware.com/news/leaked-tsmc-slide-shows-n3e-yields-progressing-ahead-of-plan",
+          "publishedOn": "2022-08-22T17:05:48.000Z",
+          "wordCount": 17621,
+          "title": "Leaked TSMC Slide Shows N3E Yields Progressing Ahead of Plan",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/P23vXjK2ebuxhsmUyaiTyD.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/P23vXjK2ebuxhsmUyaiTyD.jpg"
+        },
+        {
+          "id": "guD5r2wqVD8CNQ4k8mfBxc",
+          "author": null,
+          "description": "The latest data from the German publication 3D Center reveals the newest trend in AMD and Nvidia GPU pricing.",
+          "link": "https://www.tomshardware.com/news/amd-nvidia-gpu-prices-continue-downward-turn",
+          "publishedOn": "2022-08-22T16:22:23.000Z",
+          "wordCount": 17683,
+          "title": "AMD, Nvidia GPU Prices Continue Downward Turn",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/6SLFZ44vneW7MvQfd4S49d.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/6SLFZ44vneW7MvQfd4S49d.jpg"
+        },
+        {
+          "id": "EmZyzHyJSRQDLM3FNtXAaL",
+          "author": null,
+          "description": "During an RMA process, a Samsung representative reportedly asked a customer to destroy his dying Samsung 980 Pro SSD.",
+          "link": "https://www.tomshardware.com/news/samsung-germany-rma-suggests-drilling-or-smashing-the-ssd-with-a-hammer",
+          "publishedOn": "2022-08-22T16:03:27.000Z",
+          "wordCount": 17872,
+          "title": "Samsung Germany RMA Suggests Drilling or Smashing The SSD With a Hammer",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/h5gt4VoA6HSF7Rm2q73jUa.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/h5gt4VoA6HSF7Rm2q73jUa.jpg"
+        },
+        {
           "id": "QtREisLKQVuz7KYBrGCdFM",
           "author": "palcorn@outlook.com (Paul Alcorn)",
           "description": "Intel detailed its 3D Foveros chiplet packaging technology for its Meteor Lake, Arrow Lake and Lunar Lake processors at Hot Chips 34.",
@@ -16983,6 +17058,16 @@
           "imageUrl": null
         },
         {
+          "id": "https://blog.josefsson.org/?p=1472",
+          "author": null,
+          "description": "I self-host some services on virtual machines (VMs), and I’m currently using Debian 11.x as the host machine relying on the libvirt infrastructure to manage QEMU/KVM machines.  While everything has worked fine for years (including on Debian 10.x), there has always been one issue causing a one-minute delay every time I install a new VM: the default images run a DHCP client that never succeeds in my environment.  I never found out a way to disable DHCP in the image, and none of the documented ways through cloud-init that I have tried worked.  A couple of days ago, after reading the AlmaLinux wiki I found a solution that works with Debian.\nThe following commands creates a Debian VM with static network configuration without the annoying one-minute DHCP delay.  The three essential cloud-init ke…",
+          "link": "https://blog.josefsson.org/2022/08/22/static-network-config-with-debian-cloud-images/",
+          "publishedOn": "2022-08-22T10:09:41.000Z",
+          "wordCount": 1190,
+          "title": "Simon Josefsson: Static network config with Debian Cloud images",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.eyrie.org/~eagle/reviews/books/1-60701-533-1.html",
           "author": null,
           "description": "Review: And Shall Machines Surrender, by Benjanun Sriduangkaew\n\n    Series:\n    Machine Mandate #1\n  \nPublisher:\n    Prime Books\n  \nCopyright:\n    2019\n  \nISBN:\n    1-60701-533-1\n  \nFormat:\n    Kindle\n  \nPages:\n    86\n  \n\nAnd Shall Machines Surrender starts in medias res, with a\nhinted-at backstory in the Armada of Amaryllis, and then never fills in\nthe details.  I felt like I was scrabbling on a wall of ice, trying to\nfind some purchase as a reader.\n\n\n\nThe relationships made this worse.  Orfea is a sexual sadist who likes\npower games, and the story dives into her relationship with Krissana with\na speed that left me uninterested and uninvested.  I don't mind BDSM in\nstory relationships, but it requires some foundation: trust, mental space,\nmotivations, effects on the other character, somet…",
@@ -19973,6 +20058,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291192",
+          "author": null,
+          "description": "Sett till mängden stålar som dragits in.",
+          "link": "https://www.fz.se/artikel/291192-julis-bast-saljande-spel-i-usa-gratistiteln-multiversus",
+          "publishedOn": "2022-08-22T16:54:00.000Z",
+          "wordCount": 1773,
+          "title": "Julis bäst säljande spel i USA? Gratistiteln Multiversus",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291192"
+        },
         {
           "id": "https://www.fz.se/artikel/291194",
           "author": null,
@@ -24458,6 +24553,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/22/m1_macs_self_repair/",
+          "author": null,
+          "description": "<h4>For 'limited, serial number-authorized repairs' in move unlikely to appease critics</h4> <p>Loyal Mac fans inclined to break out the WD-40 and duct tape when their trusted devices misbehave now have access to an official Apple Self Service Repair program.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/22/m1_macs_self_repair/",
+          "publishedOn": "2022-08-22T17:00:10.000Z",
+          "wordCount": 1294,
+          "title": "Apple adds M1 Mac notebooks to self-repair scheme",
+          "imageUrl": "https://regmedia.co.uk/2021/04/20/shutterstock_m1_macbook.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/22/entrust_lockbit_ddos_ransomware/",
           "author": null,
