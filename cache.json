@@ -8287,6 +8287,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-6.0-rc2-Released",
+          "author": null,
+          "description": "Linus Torvalds has just released Linux 6.0-rc2 as the newest weekly test candidate for this next major kernel series...",
+          "link": "https://www.phoronix.com/news/Linux-6.0-rc2-Released",
+          "publishedOn": "2022-08-22T00:55:40.000Z",
+          "wordCount": 1383,
+          "title": "Linux 6.0-rc2 Released",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/R600g-NIR-Pre-Evergreen-Fixes",
           "author": null,
           "description": "In addition to the R300g driver seeing new shader optimizations, also being merged this week to Mesa 22.3 were some fixes for the recently-introduced new NIR back-end for the Rade R600 Gallium3D driver for the Radeon HD 2000/3000/4000 series...",
@@ -12920,6 +12930,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "JiFhbuyChWmgGK5qL88dqJ",
+          "author": null,
+          "description": "Solaria123 is using the HDMI port on his Raspberry Pi 4 to enable I2C support when access is otherwise blocked.",
+          "link": "https://www.tomshardware.com/news/raspberry-pi-hdmi-to-i2c",
+          "publishedOn": "2022-08-22T00:06:18.000Z",
+          "wordCount": 17638,
+          "title": "Raspberry Pi Project Enables I2C Interface Using HDMI Port",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/8LqAMnbRTQdGSuHa5ME7pG.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/8LqAMnbRTQdGSuHa5ME7pG.jpg"
+        },
         {
           "id": "nDnmnZmKm5zV9F4Hn9d2aC",
           "author": null,
@@ -23237,6 +23262,16 @@
       "siteUrl": "https://explosm.net",
       "articles": [
         {
+          "id": "https://explosm.net/comics/top-or-bottom",
+          "author": null,
+          "description": "New Cyanide and Happiness Comic",
+          "link": "https://explosm.net/comics/top-or-bottom",
+          "publishedOn": "2022-08-21T18:59:12.000Z",
+          "wordCount": 640,
+          "title": "Comic for 2022.08.21 - Top or Bottom",
+          "imageUrl": null
+        },
+        {
           "id": "https://explosm.net/comics/parties",
           "author": null,
           "description": "New Cyanide and Happiness Comic",
@@ -23703,6 +23738,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/22/huawei_aims_harmony_os_at/",
+          "author": null,
+          "description": "<h4>Plus: Indonesia's four-hour takedown demand; Peak Facebook in Korea?; Alibaba frees font; and more.</h4> <p><strong>Asia In Brief</strong>  Huawei last week unveiled initiatives to encourage developers to work on its Harmony OS – the platform it created after US sanctions denied the Chinese giant access to Google's Android operating system.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/22/huawei_aims_harmony_os_at/",
+          "publishedOn": "2022-08-22T00:59:10.000Z",
+          "wordCount": 2299,
+          "title": "Huawei dangles developer incentives to sell Harmony OS around the world",
+          "imageUrl": "https://regmedia.co.uk/2021/08/19/shutterstock_satellite_over_asia.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/21/in_brief_ai/",
           "author": null,
