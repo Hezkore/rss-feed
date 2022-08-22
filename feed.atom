@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-22T05:46:08.265Z</updated>
+    <updated>2022-08-22T06:32:27.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zoom patches make-me-root security flaw, patches patch]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/22/in-brief-security/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/22/in-brief-security/"/>
+        <updated>2022-08-22T06:20:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Plus: See if in-app browsers are monitoring you, a novel industrial network attack technique, and more</h4> <p><strong>In brief</strong>  Zoom fixed a pair of privilege escalation vulnerabilities, which were detailed at the Black Hat conference this month, but that patch was bypassed, necessitating yet another fix.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NSO Group CEO steps down, 100 employees let go too]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/22/nso_group_ceo_steps_down/</id>
@@ -106,6 +116,16 @@ motivations, effects on the other character, somet…]]></summary>
         <summary type="html"><![CDATA[Solaria123 is using the HDMI port on his Raspberry Pi 4 to enable I2C support when access is otherwise blocked.]]></summary>
         <author>
             <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comic for 2022.08.22 - Fashion Police]]></title>
+        <id>https://explosm.net/comics/fashion-police-3</id>
+        <link href="https://explosm.net/comics/fashion-police-3"/>
+        <updated>2022-08-22T00:00:33.000Z</updated>
+        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
+        <author>
+            <name>Explosm.net</name>
         </author>
     </entry>
     <entry>
@@ -30596,19 +30616,6 @@ almost 20 years, I've just run Planet Grep on my personal server,
 upgrading its Debian rele…]]></summary>
         <author>
             <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are you playing this weekend?]]></title>
-        <id>https://www.vg247.com/what-are-you-playing-this-weekend-15</id>
-        <link href="https://www.vg247.com/what-are-you-playing-this-weekend-15"/>
-        <updated>2022-07-23T17:47:18.000Z</updated>
-        <summary type="html"><![CDATA[It's that time again. Two days of doing something other than work.
-On my end, for the next two days, I will devote my time to cleaning out the spare room, which is filled almost to the ceiling with boxes and containers I have yet to unpack from the move two years ago this September. Procrastination at its finest.
-At some point this weekend, a certain 10-month-old velociraptor named Morty (seen below) will start "lessons" on gentlemanlike behavior. Such lessons include: staying out of one's personal space, not "climbing" on the car or people, and ceasing being a major jackass to the new puppy next door.
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
         </author>
     </entry>
 </feed>
