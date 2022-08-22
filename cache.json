@@ -8618,26 +8618,6 @@
           "wordCount": 4554,
           "title": "Dragon Ball: The Breakers, or anime Dead by Daylight, is out this October",
           "imageUrl": "https://asset.vg247.com/dragonball-the-breakers.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/dragonball-the-breakers.jpg"
-        },
-        {
-          "id": "https://www.vg247.com/fall-guys-datamine-sonic-stage",
-          "author": "Oisin Kuhnke",
-          "description": "Fall Guys is clearly desperate to go fast, as a datamine has shown off a Sonic the Hedgehog-themed stage in action.\nBack in 2020, Sonic made his first appearance in the bean-themed battle royale with a skin of the fastest hedgehog alive. So far any collaborations Fall Guys has had with other properties has been relegated to cosmetic, but recently fans have spotted what appears to be an entire Sonic-themed stage coming to the game. \nThe screenshot of the Sonic stage was included in the 'next up' screen, most likely as a mistake, but obviously this had fans wondering what this meant. And now, dataminer FGPancake has managed to find the actual stage in the game, as well as load it in and play around in it.\n Read more",
-          "link": "https://www.vg247.com/fall-guys-datamine-sonic-stage",
-          "publishedOn": "2022-07-24T10:16:46.000Z",
-          "wordCount": 4538,
-          "title": "Fall Guys datamine shows some speedy beans in a Sonic-themed stage",
-          "imageUrl": "https://asset.vg247.com/fall-guys-knuckles-sonic.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/fall-guys-knuckles-sonic.jpg"
-        },
-        {
-          "id": "https://www.vg247.com/apex-legends-next-character-accidental-reveal",
-          "author": "Oisin Kuhnke",
-          "description": "Respawn Entertainment seems to have accidentally shown off the next Apex Legends character joining the roster.\nYou might remember that back in March there was quite a big Apex Legends leak showing nine potential new characters, including the most recent addition Newcastle. Now it seems that Respawn itself has accidentally shown a brief preview of the next character joining the game, advertising a potential upcoming Stories from the Outlands. If you want to wait for the official reveal though, maybe skip this one.\nAs reported by Dot Esports, one fan spotted this preview in the Apex client yesterday (July 23), inviting players to watch a Stories from the Outland episode titled Survive. \"There's a new installment of the Stories from the Outlands!\" reads the description. \"Watch survive and meet the new Legend joining the Games in Apex Legends: Hunted, coming August 9!\"\n Read more",
-          "link": "https://www.vg247.com/apex-legends-next-character-accidental-reveal",
-          "publishedOn": "2022-07-24T09:25:05.000Z",
-          "wordCount": 4539,
-          "title": "Respawn accidentally revealed its next Apex Legends character",
-          "imageUrl": "https://asset.vg247.com/apex_worlds_edge_SEH0jrh.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/apex_worlds_edge_SEH0jrh.jpg"
         }
       ]
     },
@@ -10533,6 +10513,16 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/project-cars-1-and-2-will-soon-be-delisted-from-steam",
+          "author": "Graham Smith",
+          "description": "It's sadly not uncommon for racing games to disappear from sale due to expiring licenses. Next for the scrapheap are Project CARS 1 and 2, the simulation racing games from Slightly Mad Studios, which will disappear from sale on October 3rd and September 21st respectively. \r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/project-cars-1-and-2-will-soon-be-delisted-from-steam",
+          "publishedOn": "2022-08-22T21:28:35.000Z",
+          "wordCount": 4809,
+          "title": "Project CARS 1 and 2 will soon be delisted from Steam",
+          "imageUrl": "https://assets2.rockpapershotgun.com/project-cars-2_11AtuzW.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/project-cars-2_11AtuzW.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/warframe-devs-tease-more-details-of-their-free-to-play-soulslike",
           "author": "Graham Smith",
@@ -13392,16 +13382,6 @@
           "wordCount": 4843,
           "title": "Turns out Stray’s cryptic code language isn’t all that hard to decipher",
           "imageUrl": "https://assets2.rockpapershotgun.com/stray-midtown.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/stray-midtown.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/the-sunday-papers-647",
-          "author": "Ed Thorn",
-          "description": "Sundays are for going for a walk to your nearest big Tesco. Before you set out, let's read this week's best writing about games (and game related things).\n Read more",
-          "link": "https://www.rockpapershotgun.com/the-sunday-papers-647",
-          "publishedOn": "2022-07-24T10:00:00.000Z",
-          "wordCount": 5148,
-          "title": "The Sunday Papers",
-          "imageUrl": "https://assets2.rockpapershotgun.com/the-sunday-papers-big.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/the-sunday-papers-big.jpg"
         }
       ]
     },
@@ -17118,6 +17098,16 @@
           "imageUrl": "https://www.jwiltshire.org.uk/wordpress/wp-content/uploads/2022/08/josh-calabrese-Ev1XqeVL2wI-unsplash-scaled.jpg"
         },
         {
+          "id": "https://anarc.at/blog/2022-08-22-gmpc-alternatives/",
+          "author": null,
+          "description": "GMPC (GNOME Music Player Client) is a audio player based on MPD\n(Music Player Daemon) that I've been using as my main audio player for\nyears now.\nUnfortunately, it's marked as \"unmaintained\" in the official list of\nMPD clients, along with basically every client available in\nDebian. In fact, if you look closely, all but one of the 5\nunmaintained clients are in Debian (ario, cantata, gmpc, and\nsonata), which is kind of sad. And none of the active ones are\npackaged.\nGMPC status and features\nGMPC, in particular, is basically dead. The upstream website domain\nhas been lost and there has been no release in ages. It's built with\nGTK2 so it's bound to be destroyed in a fire at some point anyways.\nStill: it's really an awesome client. It has:\ncover support\nlyrics and tabs lookups (although those ty…",
+          "link": "https://anarc.at/blog/2022-08-22-gmpc-alternatives/",
+          "publishedOn": "2022-08-22T17:17:46.000Z",
+          "wordCount": 657,
+          "title": "Antoine Beaupré: Alternatives MPD clients to GMPC",
+          "imageUrl": null
+        },
+        {
           "id": "https://grep.be/blog//en/computer/play/Remote_notification/",
           "author": null,
           "description": "Sometimes, it's useful to get a notification that a command has finished\ndoing something you were waiting for:\nmake my-large-program && notify-send \"compile finished\" \"success\" || notify-send \"compile finished\" \"failure\"\n\nThis will send a notification message with the title \"compile finished\",\nand a body of \"success\" or \"failure\" depending on whether the command\ncompleted successfully, and allows you to minimize (or otherwise hide)\nthe terminal window while you do something else, which can be a very\nuseful thing to do.\nIt works great when you're running something on your own machine, but\nwhat if you're running it remotely?\nThere might be something easy to do, but I whipped up a bit of Perl\ninstead:\n#!/usr/bin/perl -w\n\nuse strict;\nuse warnings;\n\nuse Glib::Object::Introspection;\nGlib::Object…",
@@ -17655,6 +17645,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2662/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/physics_safety_tip.png\" title=\"In general, avoid exposure to any temperatures, pressures, particle energies, or states of matter that physicists think are neat.\" alt=\"In general, avoid exposure to any temperatures, pressures, particle energies, or states of matter that physicists think are neat.\" />",
+          "link": "https://xkcd.com/2662/",
+          "publishedOn": "2022-08-22T00:00:00.000Z",
+          "wordCount": 234,
+          "title": "Physics Safety Tip",
+          "imageUrl": "https://imgs.xkcd.com/comics/physics_safety_tip_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2661/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/age_milestone_privileges.png\" title=\"If you reach 122, you get complete unrevertible editorial control over Jeanne Calment's Wikipedia article.\" alt=\"If you reach 122, you get complete unrevertible editorial control over Jeanne Calment's Wikipedia article.\" />",
@@ -17781,6 +17781,16 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1872599",
+          "author": "Kevin Purdy",
+          "description": "Tiny server can unlock greater powers in not only HomeKit, but Google and Alexa.",
+          "link": "https://arstechnica.com/?p=1872599",
+          "publishedOn": "2022-08-22T21:07:53.000Z",
+          "wordCount": 1827,
+          "title": "How to make HomeKit see more of your gadgets with Home Assistant",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-874995712-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1875361",
           "author": "Samuel Axon",
@@ -24693,6 +24703,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/22/novant_meta_data/",
+          "author": null,
+          "description": "<h4>But don't worry, Zuck would never misuse this type of sensitive data</h4> <p>Novant Health confirmed that it may have disclosed 1.3 million patients' sensitive data, including email addresses, phone numbers, financial information - even doctor's appointment details - to Meta.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/22/novant_meta_data/",
+          "publishedOn": "2022-08-22T22:00:12.000Z",
+          "wordCount": 1673,
+          "title": "Novant Health admits leak of 1.3m patients' info to Facebook",
+          "imageUrl": "https://regmedia.co.uk/2022/08/22/medical_record_screen_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/22/aws_cloud_phishing/",
           "author": null,

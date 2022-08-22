@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-22T21:19:45.261Z</updated>
+    <updated>2022-08-22T22:23:27.294Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Novant Health admits leak of 1.3m patients' info to Facebook]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/22/novant_meta_data/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/22/novant_meta_data/"/>
+        <updated>2022-08-22T22:00:12.000Z</updated>
+        <summary type="html"><![CDATA[<h4>But don't worry, Zuck would never misuse this type of sensitive data</h4> <p>Novant Health confirmed that it may have disclosed 1.3 million patients' sensitive data, including email addresses, phone numbers, financial information - even doctor's appointment details - to Meta.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Project CARS 1 and 2 will soon be delisted from Steam]]></title>
+        <id>https://www.rockpapershotgun.com/project-cars-1-and-2-will-soon-be-delisted-from-steam</id>
+        <link href="https://www.rockpapershotgun.com/project-cars-1-and-2-will-soon-be-delisted-from-steam"/>
+        <updated>2022-08-22T21:28:35.000Z</updated>
+        <summary type="html"><![CDATA[It's sadly not uncommon for racing games to disappear from sale due to expiring licenses. Next for the scrapheap are Project CARS 1 and 2, the simulation racing games from Slightly Mad Studios, which will disappear from sale on October 3rd and September 21st respectively. 
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to make HomeKit see more of your gadgets with Home Assistant]]></title>
+        <id>https://arstechnica.com/?p=1872599</id>
+        <link href="https://arstechnica.com/?p=1872599"/>
+        <updated>2022-08-22T21:07:53.000Z</updated>
+        <summary type="html"><![CDATA[Tiny server can unlock greater powers in not only HomeKit, but Google and Alexa.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hiding a phishing attack behind the AWS cloud]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/22/aws_cloud_phishing/</id>
@@ -174,6 +207,31 @@ Read more]]></summary>
         <summary type="html"><![CDATA[E-cores in desktop CPUs have proven handy for big multi-threaded workloads.]]></summary>
         <author>
             <name>Andrew Cunningham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Antoine Beaupré: Alternatives MPD clients to GMPC]]></title>
+        <id>https://anarc.at/blog/2022-08-22-gmpc-alternatives/</id>
+        <link href="https://anarc.at/blog/2022-08-22-gmpc-alternatives/"/>
+        <updated>2022-08-22T17:17:46.000Z</updated>
+        <summary type="html"><![CDATA[GMPC (GNOME Music Player Client) is a audio player based on MPD
+(Music Player Daemon) that I've been using as my main audio player for
+years now.
+Unfortunately, it's marked as "unmaintained" in the official list of
+MPD clients, along with basically every client available in
+Debian. In fact, if you look closely, all but one of the 5
+unmaintained clients are in Debian (ario, cantata, gmpc, and
+sonata), which is kind of sad. And none of the active ones are
+packaged.
+GMPC status and features
+GMPC, in particular, is basically dead. The upstream website domain
+has been lost and there has been no release in ages. It's built with
+GTK2 so it's bound to be destroyed in a fire at some point anyways.
+Still: it's really an awesome client. It has:
+cover support
+lyrics and tabs lookups (although those ty…]]></summary>
+        <author>
+            <name>Planet Debian</name>
         </author>
     </entry>
     <entry>
@@ -1438,6 +1496,16 @@ motivations, effects on the other character, somet…]]></summary>
         <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
         <author>
             <name>Explosm.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Physics Safety Tip]]></title>
+        <id>https://xkcd.com/2662/</id>
+        <link href="https://xkcd.com/2662/"/>
+        <updated>2022-08-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/physics_safety_tip.png" title="In general, avoid exposure to any temperatures, pressures, particle energies, or states of matter that physicists think are neat." alt="In general, avoid exposure to any temperatures, pressures, particle energies, or states of matter that physicists think are neat." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -31803,43 +31871,6 @@ The test end time hasn't been set in stone just yet though, so presumably you'll
         <summary type="html"><![CDATA[Fans of Dead by Daylight that think it just isn't anime enough might be happy to know that Dragon Ball: The Breakers is officially out in October.
 Revealed last year, Dragon Ball: The Breakers (weird title) is an asymmetrical multiplayer game quite similar to Dead by Daylight, only within the world of Dragon Ball. And it's officially out October 14, bringing one of the most iconic villains from the series, Frieza, along with it.
 In the game's previous network test, only Cell was available to play as in terms of villains, with Earth as the main stage to play on. With the latest trailer showing off Frieza, Planet Namek also looks to be another stage the you will be able to survive or hunt on. 
- Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fall Guys datamine shows some speedy beans in a Sonic-themed stage]]></title>
-        <id>https://www.vg247.com/fall-guys-datamine-sonic-stage</id>
-        <link href="https://www.vg247.com/fall-guys-datamine-sonic-stage"/>
-        <updated>2022-07-24T10:16:46.000Z</updated>
-        <summary type="html"><![CDATA[Fall Guys is clearly desperate to go fast, as a datamine has shown off a Sonic the Hedgehog-themed stage in action.
-Back in 2020, Sonic made his first appearance in the bean-themed battle royale with a skin of the fastest hedgehog alive. So far any collaborations Fall Guys has had with other properties has been relegated to cosmetic, but recently fans have spotted what appears to be an entire Sonic-themed stage coming to the game. 
-The screenshot of the Sonic stage was included in the 'next up' screen, most likely as a mistake, but obviously this had fans wondering what this meant. And now, dataminer FGPancake has managed to find the actual stage in the game, as well as load it in and play around in it.
- Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Sunday Papers]]></title>
-        <id>https://www.rockpapershotgun.com/the-sunday-papers-647</id>
-        <link href="https://www.rockpapershotgun.com/the-sunday-papers-647"/>
-        <updated>2022-07-24T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sundays are for going for a walk to your nearest big Tesco. Before you set out, let's read this week's best writing about games (and game related things).
- Read more]]></summary>
-        <author>
-            <name>Ed Thorn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Respawn accidentally revealed its next Apex Legends character]]></title>
-        <id>https://www.vg247.com/apex-legends-next-character-accidental-reveal</id>
-        <link href="https://www.vg247.com/apex-legends-next-character-accidental-reveal"/>
-        <updated>2022-07-24T09:25:05.000Z</updated>
-        <summary type="html"><![CDATA[Respawn Entertainment seems to have accidentally shown off the next Apex Legends character joining the roster.
-You might remember that back in March there was quite a big Apex Legends leak showing nine potential new characters, including the most recent addition Newcastle. Now it seems that Respawn itself has accidentally shown a brief preview of the next character joining the game, advertising a potential upcoming Stories from the Outlands. If you want to wait for the official reveal though, maybe skip this one.
-As reported by Dot Esports, one fan spotted this preview in the Apex client yesterday (July 23), inviting players to watch a Stories from the Outland episode titled Survive. "There's a new installment of the Stories from the Outlands!" reads the description. "Watch survive and meet the new Legend joining the Games in Apex Legends: Hunted, coming August 9!"
  Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
