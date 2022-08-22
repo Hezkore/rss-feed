@@ -10534,6 +10534,16 @@
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
         {
+          "id": "https://www.rockpapershotgun.com/warframe-devs-tease-more-details-of-their-free-to-play-soulslike",
+          "author": "Graham Smith",
+          "description": "Everyone is rightly tired of games being compared to Dark Souls, but I feel like it's allowed in the case of Soulframe. It's being made by Digital Extremes and it trades the science fiction of Warframe for fantasy. Bonfires play a role. There's melee sword combat. What more do you need to know?\r\n\nWell, if the answer is \"some more\", then there were a handful of extra details in a developer livestream this evening.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/warframe-devs-tease-more-details-of-their-free-to-play-soulslike",
+          "publishedOn": "2022-08-22T20:13:39.000Z",
+          "wordCount": 4787,
+          "title": "Warframe devs tease more details of their free-to-play Soulslike",
+          "imageUrl": "https://assets2.rockpapershotgun.com/Soulframe-2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Soulframe-2.jpg"
+        },
+        {
           "id": "https://www.rockpapershotgun.com/do-you-agree-with-nyts-new-official-wordle-starting-word",
           "author": "Katharine Castle",
           "description": "The best Wordle starting word has long been a subject of debate ever since the clever little word-guessing game exploded in popularity the best part of a year ago. But now owners The New York Times have declared a new officially recommended starting Wordle word, and I'm not sure how I feel about. \nRead more",
@@ -13400,6 +13410,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "bnR78SBbQc6kVzUiKMhoS4",
+          "author": null,
+          "description": "A new motion blur specification has been released by VESA, to more accurately benchmark image quality in motion on all types of displays.",
+          "link": "https://www.tomshardware.com/news/vesa-motion-blur-compliance-test",
+          "publishedOn": "2022-08-22T19:49:53.000Z",
+          "wordCount": 17960,
+          "title": "VESA Creates ClearMR Spec To Grade Motion Blur On Displays",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/DTpgwiMkvYUSMy5vTqMxMA.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/DTpgwiMkvYUSMy5vTqMxMA.jpg"
+        },
         {
           "id": "MLdrXaaJkKsLR6Aorx7hLh",
           "author": null,
@@ -17746,6 +17771,16 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1875361",
+          "author": "Samuel Axon",
+          "description": "An internal petition says individual teams should set remote-work policies.",
+          "link": "https://arstechnica.com/?p=1875361",
+          "publishedOn": "2022-08-22T18:56:00.000Z",
+          "wordCount": 1877,
+          "title": "Once again, Apple calls workers back to the office—once again, workers fight back",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/IMG_1246-760x380.jpeg"
+        },
         {
           "id": "https://arstechnica.com/?p=1875294",
           "author": "Jennifer Ouellette",
@@ -24648,6 +24683,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/22/java_library_flaws/",
+          "author": null,
+          "description": "<h4>There is a madness to the methods</h4> <p>Boffins at universities in France, Germany, Luxembourg, and Sweden took a deep dive into known Java deserialization vulnerabilities, and have now resurfaced with their findings. In short, they've drawn attention to the ways in which libraries can accidentally introduce serious security flaws.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/22/java_library_flaws/",
+          "publishedOn": "2022-08-22T20:00:15.000Z",
+          "wordCount": 1737,
+          "title": "Java libraries are riddled with deserialization security holes",
+          "imageUrl": "https://regmedia.co.uk/2016/09/16/java_microservice_photo_via_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/22/mexico_joins_the_list_nations/",
           "author": null,

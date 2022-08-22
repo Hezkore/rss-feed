@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-22T19:20:35.297Z</updated>
+    <updated>2022-08-22T20:22:48.986Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Warframe devs tease more details of their free-to-play Soulslike]]></title>
+        <id>https://www.rockpapershotgun.com/warframe-devs-tease-more-details-of-their-free-to-play-soulslike</id>
+        <link href="https://www.rockpapershotgun.com/warframe-devs-tease-more-details-of-their-free-to-play-soulslike"/>
+        <updated>2022-08-22T20:13:39.000Z</updated>
+        <summary type="html"><![CDATA[Everyone is rightly tired of games being compared to Dark Souls, but I feel like it's allowed in the case of Soulframe. It's being made by Digital Extremes and it trades the science fiction of Warframe for fantasy. Bonfires play a role. There's melee sword combat. What more do you need to know?
+
+Well, if the answer is "some more", then there were a handful of extra details in a developer livestream this evening.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java libraries are riddled with deserialization security holes]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/22/java_library_flaws/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/22/java_library_flaws/"/>
+        <updated>2022-08-22T20:00:15.000Z</updated>
+        <summary type="html"><![CDATA[<h4>There is a madness to the methods</h4> <p>Boffins at universities in France, Germany, Luxembourg, and Sweden took a deep dive into known Java deserialization vulnerabilities, and have now resurfaced with their findings. In short, they've drawn attention to the ways in which libraries can accidentally introduce serious security flaws.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VESA Creates ClearMR Spec To Grade Motion Blur On Displays]]></title>
+        <id>bnR78SBbQc6kVzUiKMhoS4</id>
+        <link href="https://www.tomshardware.com/news/vesa-motion-blur-compliance-test"/>
+        <updated>2022-08-22T19:49:53.000Z</updated>
+        <summary type="html"><![CDATA[A new motion blur specification has been released by VESA, to more accurately benchmark image quality in motion on all types of displays.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cities: Skylines is getting another expansion with Plazas and Promenades]]></title>
         <id>https://www.gamingonlinux.com/2022/08/cities-skylines-is-getting-another-expansion-with-plazas-and-promenades/</id>
@@ -44,6 +79,16 @@
         <summary type="html"><![CDATA[Failbetter Games put a new production update post up recently for Mask of the Rose that went over the user interface, but they also announced a delay.]]></summary>
         <author>
             <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Once again, Apple calls workers back to the office—once again, workers fight back]]></title>
+        <id>https://arstechnica.com/?p=1875361</id>
+        <link href="https://arstechnica.com/?p=1875361"/>
+        <updated>2022-08-22T18:56:00.000Z</updated>
+        <summary type="html"><![CDATA[An internal petition says individual teams should set remote-work policies.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
         </author>
     </entry>
     <entry>
