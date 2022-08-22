@@ -17108,6 +17108,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "https://www.jwiltshire.org.uk/?p=704",
+          "author": null,
+          "description": "When I first moved from being a technical consultant to a manager of other consultants, I took a 5-day course Managing Technical Teams – a bootstrap for managing people within organisations, but with a particular focus on technical people. We do have some particular quirks, after all…\nTwo elements of that course keep coming to mind when doing Debian work, and they both relate to how teams fit together and get stuff done.\nTuckman’s four stages model\nIn the mid-1960s Bruce W. Tuckman developed a four-stage descriptive model of the stages a project team goes through in its lifetime. They are:\nForming: the team comes together and its members are typically motivated and excited, but they often also feel anxiety or uncertainty about how the team will operate and their place within it.\nStorming: …",
+          "link": "https://www.jwiltshire.org.uk/2022/08/22/team-roles-and-tuckmans-model-for-debian-teams/",
+          "publishedOn": "2022-08-22T20:26:18.000Z",
+          "wordCount": 1579,
+          "title": "Jonathan Wiltshire: Team Roles and Tuckman’s Model, for Debian teams",
+          "imageUrl": "https://www.jwiltshire.org.uk/wordpress/wp-content/uploads/2022/08/josh-calabrese-Ev1XqeVL2wI-unsplash-scaled.jpg"
+        },
+        {
           "id": "https://grep.be/blog//en/computer/play/Remote_notification/",
           "author": null,
           "description": "Sometimes, it's useful to get a notification that a command has finished\ndoing something you were waiting for:\nmake my-large-program && notify-send \"compile finished\" \"success\" || notify-send \"compile finished\" \"failure\"\n\nThis will send a notification message with the title \"compile finished\",\nand a body of \"success\" or \"failure\" depending on whether the command\ncompleted successfully, and allows you to minimize (or otherwise hide)\nthe terminal window while you do something else, which can be a very\nuseful thing to do.\nIt works great when you're running something on your own machine, but\nwhat if you're running it remotely?\nThere might be something easy to do, but I whipped up a bit of Perl\ninstead:\n#!/usr/bin/perl -w\n\nuse strict;\nuse warnings;\n\nuse Glib::Object::Introspection;\nGlib::Object…",
@@ -24683,6 +24693,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/22/aws_cloud_phishing/",
+          "author": null,
+          "description": "<h4>Scammers are using cloud services to create and host web pages that can be used to lure victims into handing over their credentials</h4> <p>Criminals are slipping phishing emails past automated security scanners inside Amazon Web Services (AWS) to establish a launching pad for attacks.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/22/aws_cloud_phishing/",
+          "publishedOn": "2022-08-22T21:00:08.000Z",
+          "wordCount": 1734,
+          "title": "Hiding a phishing attack behind the AWS cloud",
+          "imageUrl": "https://regmedia.co.uk/2019/08/15/cloud_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/22/java_library_flaws/",
           "author": null,

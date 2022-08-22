@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-22T20:22:48.986Z</updated>
+    <updated>2022-08-22T21:19:45.261Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Hiding a phishing attack behind the AWS cloud]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/22/aws_cloud_phishing/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/22/aws_cloud_phishing/"/>
+        <updated>2022-08-22T21:00:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Scammers are using cloud services to create and host web pages that can be used to lure victims into handing over their credentials</h4> <p>Criminals are slipping phishing emails past automated security scanners inside Amazon Web Services (AWS) to establish a launching pad for attacks.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jonathan Wiltshire: Team Roles and Tuckman’s Model, for Debian teams]]></title>
+        <id>https://www.jwiltshire.org.uk/?p=704</id>
+        <link href="https://www.jwiltshire.org.uk/2022/08/22/team-roles-and-tuckmans-model-for-debian-teams/"/>
+        <updated>2022-08-22T20:26:18.000Z</updated>
+        <summary type="html"><![CDATA[When I first moved from being a technical consultant to a manager of other consultants, I took a 5-day course Managing Technical Teams – a bootstrap for managing people within organisations, but with a particular focus on technical people. We do have some particular quirks, after all…
+Two elements of that course keep coming to mind when doing Debian work, and they both relate to how teams fit together and get stuff done.
+Tuckman’s four stages model
+In the mid-1960s Bruce W. Tuckman developed a four-stage descriptive model of the stages a project team goes through in its lifetime. They are:
+Forming: the team comes together and its members are typically motivated and excited, but they often also feel anxiety or uncertainty about how the team will operate and their place within it.
+Storming: …]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Warframe devs tease more details of their free-to-play Soulslike]]></title>
         <id>https://www.rockpapershotgun.com/warframe-devs-tease-more-details-of-their-free-to-play-soulslike</id>
