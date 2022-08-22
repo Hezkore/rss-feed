@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-22T22:23:27.294Z</updated>
+    <updated>2022-08-22T23:23:03.595Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[W3C's planned transition to HTTPS stymied by legacy laggards]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/22/w3cs_transition_https/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/22/w3cs_transition_https/"/>
+        <updated>2022-08-22T23:00:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Timing for plan to redirect HTTP requests now indeterminate to allow for further feedback</h4> <p>More than a decade after implementing support for secure HTTPS connections on its website, the World Wide Web Consortium (W3C) is finally planning to begin redirecting insecure HTTP connections to the more protected spec.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cities: Skylines' next DLC will let you create car-free pedestrian zones]]></title>
+        <id>https://www.rockpapershotgun.com/cities-skylines-next-dlc-will-let-you-create-car-free-pedestrian-zones</id>
+        <link href="https://www.rockpapershotgun.com/cities-skylines-next-dlc-will-let-you-create-car-free-pedestrian-zones"/>
+        <updated>2022-08-22T22:59:08.000Z</updated>
+        <summary type="html"><![CDATA[More than any other citybuilder, Cities: Skylines requires deep engagement with its traffic simulation. You can spend an endless number of (very satisfied) hours tweaking your road network to try to fix traffic jams. The next Cities: Skylines expansion might offer an alternative, however. The Plazas & Promenades DLC, announced today, will allow you to create pedestrian streets and zones where cars dare not tread. Find the first trailer below.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[With data in mice, Pfizer asks FDA to authorize its fall BA.4/5 booster shot]]></title>
+        <id>https://arstechnica.com/?p=1875425</id>
+        <link href="https://arstechnica.com/?p=1875425"/>
+        <updated>2022-08-22T22:50:22.000Z</updated>
+        <summary type="html"><![CDATA[The request is partly based on preclinical data. A clinical trial has yet to start.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Total War: Warhammer 3 details 2.0 patch changes ahead of DLC release]]></title>
+        <id>https://www.rockpapershotgun.com/total-war-warhammer-3-details-20-patch-changes-ahead-of-dlc-release</id>
+        <link href="https://www.rockpapershotgun.com/total-war-warhammer-3-details-20-patch-changes-ahead-of-dlc-release"/>
+        <updated>2022-08-22T22:19:50.000Z</updated>
+        <summary type="html"><![CDATA[Total War: Warhammer 3 will tomorrow receive a public beta of Immortal Empires, the vast, trilogy-merging game mode. At the same time, it'll also receive a 2.0 update which brings sweeping changes to faction mechanics, the UI, individual units and many bug fixes. Creative Assembly have detailed some of those changes in a new video release today, which you'll find below.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Novant Health admits leak of 1.3m patients' info to Facebook]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/22/novant_meta_data/</id>
@@ -31861,19 +31907,6 @@ The test end time hasn't been set in stone just yet though, so presumably you'll
         <summary type="html"><![CDATA[Pamac is an awesome GUI-based package manager from the developers of Manjaro Linux. Here's how you can get Pamac in Arch Linux.]]></summary>
         <author>
             <name>Anuj Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dragon Ball: The Breakers, or anime Dead by Daylight, is out this October]]></title>
-        <id>https://www.vg247.com/dragon-ball-the-breakers-out-october</id>
-        <link href="https://www.vg247.com/dragon-ball-the-breakers-out-october"/>
-        <updated>2022-07-24T11:04:40.000Z</updated>
-        <summary type="html"><![CDATA[Fans of Dead by Daylight that think it just isn't anime enough might be happy to know that Dragon Ball: The Breakers is officially out in October.
-Revealed last year, Dragon Ball: The Breakers (weird title) is an asymmetrical multiplayer game quite similar to Dead by Daylight, only within the world of Dragon Ball. And it's officially out October 14, bringing one of the most iconic villains from the series, Frieza, along with it.
-In the game's previous network test, only Cell was available to play as in terms of villains, with Earth as the main stage to play on. With the latest trailer showing off Frieza, Planet Namek also looks to be another stage the you will be able to survive or hunt on. 
- Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
         </author>
     </entry>
 </feed>
