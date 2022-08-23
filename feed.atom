@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-23T05:56:25.102Z</updated>
+    <updated>2022-08-23T06:37:35.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
@@ -54,6 +54,16 @@
         <summary type="html"><![CDATA[<h4>Here's how to detect an intrusion via vulnerable email systems</h4> <p>Organizations that didn't immediately patch their Zimbra email systems should assume miscreants have already found and exploited the bugs, and should start hunting for malicious activity across IT networks, according to Uncle Sam.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comic for 2022.08.23]]></title>
+        <id>https://explosm.net/comics/30467</id>
+        <link href="https://explosm.net/comics/30467"/>
+        <updated>2022-08-23T00:00:56.000Z</updated>
+        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
+        <author>
+            <name>Explosm.net</name>
         </author>
     </entry>
     <entry>
@@ -31868,16 +31878,6 @@ The actual Debian Developers Conference s…]]></summary>
         <link href="https://www.sweclockers.com/artikel/34650-nyhetsquiz-vecka-29-2022-intel-arc-och-pakostade-horlurar"/>
         <updated>2022-07-24T20:45:19.000Z</updated>
         <summary type="html"><![CDATA[Intel Arc-uppgifterna duggar tätt och utgör därför en stor del av veckans nyhetsquiz. Hur bra koll har du på Arc och andra tekniknyheter?]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google-utvecklaren bakom påstående om självmedveten AI får sparken]]></title>
-        <id>https://www.sweclockers.com/artikel/34649</id>
-        <link href="https://www.sweclockers.com/artikel/34649-google-utvecklaren-bakom-pastaende-om-sjalvmedveten-ai-far-sparken"/>
-        <updated>2022-07-24T18:16:59.000Z</updated>
-        <summary type="html"><![CDATA[Utvecklaren som menar att det språkspecifika AI-systemet Lamda har känslor har gjort flera regelövertramp och går nu därför från avstängd till arbetslös.]]></summary>
         <author>
             <name>SweClockers</name>
         </author>
