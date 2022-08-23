@@ -250,16 +250,6 @@
           "wordCount": 7683,
           "title": "Koodo is an All-in-one Open Source eBook Reader App for Linux",
           "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/07/koodo-ebook-reader-feature.png"
-        },
-        {
-          "id": "https://itsfoss.com/?p=98953",
-          "author": "Anuj Sharma",
-          "description": "Pamac is an awesome GUI-based package manager from the developers of Manjaro Linux. Here's how you can get Pamac in Arch Linux.",
-          "link": "https://itsfoss.com/install-pamac-arch-linux/",
-          "publishedOn": "2022-07-24T11:37:09.000Z",
-          "wordCount": 7096,
-          "title": "How to Install Pamac GUI Package Manager in Arch Linux",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/07/install-pamac-on-arch.png"
         }
       ]
     },
@@ -8588,26 +8578,6 @@
           "wordCount": 4533,
           "title": "Immortals Fenyx Rising followup is reportedly a Polynesian inspired spin-off",
           "imageUrl": "https://asset.vg247.com/immortals_feynx_rising_5WCD4qp.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/immortals_feynx_rising_5WCD4qp.jpg"
-        },
-        {
-          "id": "https://www.vg247.com/indie-horror-refund-me-if-you-can",
-          "author": "Oisin Kuhnke",
-          "description": "Steam's refund system lets you refund a game if you've played less than two hours, and Refund Me If You Can challenges you to do just that.\nWhile there is a nuanced conversation to be had about Steam's refund system, at the very least two hours is a good amount of time to get a feel for most games. Most developers would generally prefer their game to not be refunded if they can help it, but Refund Me If You Can from Sungame Studio actively encourages you to… if you can beat it in time.\nRefund Me If You Can's premise is simple: \"One maze, one monster tracking you down, will you have the courage and dexterity to escape this nightmare in less than two hours?\" You play as someone called Sarah, and only you (the player) can wake her up from a nightmare she's having.\n Read more",
-          "link": "https://www.vg247.com/indie-horror-refund-me-if-you-can",
-          "publishedOn": "2022-07-24T13:52:02.000Z",
-          "wordCount": 4582,
-          "title": "This indie horror Steam game boldly challenges you to refund it, if you can beat it in two hours",
-          "imageUrl": "https://asset.vg247.com/refund-me-if-you-can.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/refund-me-if-you-can.jpg"
-        },
-        {
-          "id": "https://www.vg247.com/zenless-zone-zero-beta-test",
-          "author": "Oisin Kuhnke",
-          "description": "Zenless Zone Zero, the next presumably hit-gacha game from the developers of Genshin Impact, has had its beta test confirmed for this August. \nHoyoverse has put out a notice confirming the exact time and date of Zenless Zone Zero's Tuning Test (say that five times fast). Those that want to test out the game can signup on the game's main page, and if you get in you can expect to try it out starting from August 5, 3am BST/ 4am CEST. Not the friendliest of start times to those in the UK and the EU, but you take what you can get.\nThe test end time hasn't been set in stone just yet though, so presumably you'll have a bit of time to really get a feel for the game if you're lucky enough to be picked for the beta. Make sure you do so soon if you are interested though, as signups close next week, July 27.\n Read more",
-          "link": "https://www.vg247.com/zenless-zone-zero-beta-test",
-          "publishedOn": "2022-07-24T11:58:52.000Z",
-          "wordCount": 4515,
-          "title": "Zenless Zone Zero is getting its first 'Tuning Test' next month",
-          "imageUrl": "https://asset.vg247.com/zenless-zone-zero-hoyoverse-new.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/zenless-zone-zero-hoyoverse-new.jpg"
         }
       ]
     },
@@ -17098,6 +17068,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "tag:dreamwidth.org,2009-05-21:377446:12367",
+          "author": null,
+          "description": "The problem I had - Mason, so, sadly, FastCGI\nSince the update to current Debian stable, the website for YARRG, (a play-aid for Puzzle Pirates which I wrote some years ago), started to occasionally return “Internal Server Error”, apparently due to bug(s) in some FastCGI libraries.\nI was using FastCGI because the website is written in Mason, a Perl web framework, and I found that Mason CGI calls were slow. I’m using CGI - yes, trad CGI - via userv-cgi. Running Mason this way would “compile” the template for each HTTP request just when it was rendered, and then throw the compiled version away. The more modern approach of an application server doesn’t scale well to a system which has many web “applications” most of which are very small. The admin overhead of maintaining a daemon, and correspo…",
+          "link": "https://diziet.dreamwidth.org/12367.html",
+          "publishedOn": "2022-08-22T23:37:44.000Z",
+          "wordCount": null,
+          "title": "Ian Jackson: prefork-interp - automatic startup time amortisation for all manner of scripts",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.jwiltshire.org.uk/?p=704",
           "author": null,
           "description": "When I first moved from being a technical consultant to a manager of other consultants, I took a 5-day course Managing Technical Teams – a bootstrap for managing people within organisations, but with a particular focus on technical people. We do have some particular quirks, after all…\nTwo elements of that course keep coming to mind when doing Debian work, and they both relate to how teams fit together and get stuff done.\nTuckman’s four stages model\nIn the mid-1960s Bruce W. Tuckman developed a four-stage descriptive model of the stages a project team goes through in its lifetime. They are:\nForming: the team comes together and its members are typically motivated and excited, but they often also feel anxiety or uncertainty about how the team will operate and their place within it.\nStorming: …",
@@ -17791,6 +17771,16 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1875426",
+          "author": "John Timmer",
+          "description": "When it comes to health issues, not all forms of being sedentary are equal.",
+          "link": "https://arstechnica.com/?p=1875426",
+          "publishedOn": "2022-08-22T23:14:28.000Z",
+          "wordCount": 1904,
+          "title": "Computers vs. TV: Which is less likely to promote dementia?",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1157313690-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1875425",
           "author": "Beth Mole",
@@ -24218,16 +24208,6 @@
           "wordCount": 422,
           "title": "Stuff",
           "imageUrl": null
-        },
-        {
-          "id": "https://moonbeard.com/2022/07/earth/",
-          "author": null,
-          "description": "<p><a href=\"https://moonbeard.com/2022/07/earth/\" title=\"Earth\"><img src=\"https://moonbeard.com/comics-rss/2022-07-25-MB-2022-07%20Earth.png\" alt=\"Earth\" class=\"comicthumbnail\" title=\"Earth\" />\r\n</a></p><p>earth comic See also: Squires.nz &#124; Instagram &#124; Twitter</p>\n<p>The post <a rel=\"nofollow\" href=\"https://moonbeard.com/2022/07/earth/\">Earth</a> appeared first on <a rel=\"nofollow\" href=\"https://moonbeard.com\">Moonbeard</a>.</p>",
-          "link": "https://moonbeard.com/2022/07/earth/",
-          "publishedOn": "2022-07-24T12:01:00.000Z",
-          "wordCount": 422,
-          "title": "Earth",
-          "imageUrl": null
         }
       ]
     },
@@ -24723,6 +24703,36 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/23/microsoft_chromeos_bug/",
+          "author": null,
+          "description": "<h4>Oh wow, get a load of Google using strcpy() all wrong – strcpy! Haha, you'll never ever catch us doing that</h4> <p>Microsoft has described a severe ChromeOS security vulnerability that one of its researchers reported to Google in late April.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/23/microsoft_chromeos_bug/",
+          "publishedOn": "2022-08-23T00:58:12.000Z",
+          "wordCount": 1641,
+          "title": "Microsoft finds critical hole in operating system that for once isn't Windows",
+          "imageUrl": "https://regmedia.co.uk/2021/02/03/fighting_kangaroos_australia.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/23/cisa_zimbra_signatures/",
+          "author": null,
+          "description": "<h4>Here's how to detect an intrusion via vulnerable email systems</h4> <p>Organizations that didn't immediately patch their Zimbra email systems should assume miscreants have already found and exploited the bugs, and should start hunting for malicious activity across IT networks, according to Uncle Sam.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/23/cisa_zimbra_signatures/",
+          "publishedOn": "2022-08-23T00:32:31.000Z",
+          "wordCount": 1599,
+          "title": "If you haven't patched Zimbra holes by now, assume you're toast",
+          "imageUrl": "https://regmedia.co.uk/2022/08/22/email_system_bugs_hands_keyboard_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/22/nasa_moon_landing/",
+          "author": null,
+          "description": "<h4>Hopefully Lucky 13 spots suggested, all on the south pole near water ice</h4> <p>The next US astronauts to set foot on the Moon will find themselves on the summit of a mountain range or the ridge of a crater near the lunar south pole.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/22/nasa_moon_landing/",
+          "publishedOn": "2022-08-22T23:48:06.000Z",
+          "wordCount": 1492,
+          "title": "NASA identifies landing sites for America's return trip to the Moon",
+          "imageUrl": "https://regmedia.co.uk/2016/04/20/astronaut_teaser.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/22/w3cs_transition_https/",
           "author": null,

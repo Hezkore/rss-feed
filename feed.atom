@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-22T23:23:03.595Z</updated>
+    <updated>2022-08-23T02:26:38.928Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft finds critical hole in operating system that for once isn't Windows]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/23/microsoft_chromeos_bug/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/23/microsoft_chromeos_bug/"/>
+        <updated>2022-08-23T00:58:12.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Oh wow, get a load of Google using strcpy() all wrong – strcpy! Haha, you'll never ever catch us doing that</h4> <p>Microsoft has described a severe ChromeOS security vulnerability that one of its researchers reported to Google in late April.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If you haven't patched Zimbra holes by now, assume you're toast]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/23/cisa_zimbra_signatures/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/23/cisa_zimbra_signatures/"/>
+        <updated>2022-08-23T00:32:31.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Here's how to detect an intrusion via vulnerable email systems</h4> <p>Organizations that didn't immediately patch their Zimbra email systems should assume miscreants have already found and exploited the bugs, and should start hunting for malicious activity across IT networks, according to Uncle Sam.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA identifies landing sites for America's return trip to the Moon]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/22/nasa_moon_landing/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/22/nasa_moon_landing/"/>
+        <updated>2022-08-22T23:48:06.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Hopefully Lucky 13 spots suggested, all on the south pole near water ice</h4> <p>The next US astronauts to set foot on the Moon will find themselves on the summit of a mountain range or the ridge of a crater near the lunar south pole.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ian Jackson: prefork-interp - automatic startup time amortisation for all manner of scripts]]></title>
+        <id>tag:dreamwidth.org,2009-05-21:377446:12367</id>
+        <link href="https://diziet.dreamwidth.org/12367.html"/>
+        <updated>2022-08-22T23:37:44.000Z</updated>
+        <summary type="html"><![CDATA[The problem I had - Mason, so, sadly, FastCGI
+Since the update to current Debian stable, the website for YARRG, (a play-aid for Puzzle Pirates which I wrote some years ago), started to occasionally return “Internal Server Error”, apparently due to bug(s) in some FastCGI libraries.
+I was using FastCGI because the website is written in Mason, a Perl web framework, and I found that Mason CGI calls were slow. I’m using CGI - yes, trad CGI - via userv-cgi. Running Mason this way would “compile” the template for each HTTP request just when it was rendered, and then throw the compiled version away. The more modern approach of an application server doesn’t scale well to a system which has many web “applications” most of which are very small. The admin overhead of maintaining a daemon, and correspo…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computers vs. TV: Which is less likely to promote dementia?]]></title>
+        <id>https://arstechnica.com/?p=1875426</id>
+        <link href="https://arstechnica.com/?p=1875426"/>
+        <updated>2022-08-22T23:14:28.000Z</updated>
+        <summary type="html"><![CDATA[When it comes to health issues, not all forms of being sedentary are equal.]]></summary>
+        <author>
+            <name>John Timmer</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[W3C's planned transition to HTTPS stymied by legacy laggards]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/22/w3cs_transition_https/</id>
@@ -31859,54 +31911,6 @@ parallelization. But information about using it for live streaming was hard
 to find, and asking online turne…]]></summary>
         <author>
             <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This indie horror Steam game boldly challenges you to refund it, if you can beat it in two hours]]></title>
-        <id>https://www.vg247.com/indie-horror-refund-me-if-you-can</id>
-        <link href="https://www.vg247.com/indie-horror-refund-me-if-you-can"/>
-        <updated>2022-07-24T13:52:02.000Z</updated>
-        <summary type="html"><![CDATA[Steam's refund system lets you refund a game if you've played less than two hours, and Refund Me If You Can challenges you to do just that.
-While there is a nuanced conversation to be had about Steam's refund system, at the very least two hours is a good amount of time to get a feel for most games. Most developers would generally prefer their game to not be refunded if they can help it, but Refund Me If You Can from Sungame Studio actively encourages you to… if you can beat it in time.
-Refund Me If You Can's premise is simple: "One maze, one monster tracking you down, will you have the courage and dexterity to escape this nightmare in less than two hours?" You play as someone called Sarah, and only you (the player) can wake her up from a nightmare she's having.
- Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Earth]]></title>
-        <id>https://moonbeard.com/2022/07/earth/</id>
-        <link href="https://moonbeard.com/2022/07/earth/"/>
-        <updated>2022-07-24T12:01:00.000Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://moonbeard.com/2022/07/earth/" title="Earth"><img src="https://moonbeard.com/comics-rss/2022-07-25-MB-2022-07%20Earth.png" alt="Earth" class="comicthumbnail" title="Earth" />
-</a></p><p>earth comic See also: Squires.nz &#124; Instagram &#124; Twitter</p>
-<p>The post <a rel="nofollow" href="https://moonbeard.com/2022/07/earth/">Earth</a> appeared first on <a rel="nofollow" href="https://moonbeard.com">Moonbeard</a>.</p>]]></summary>
-        <author>
-            <name>Moonbeard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zenless Zone Zero is getting its first 'Tuning Test' next month]]></title>
-        <id>https://www.vg247.com/zenless-zone-zero-beta-test</id>
-        <link href="https://www.vg247.com/zenless-zone-zero-beta-test"/>
-        <updated>2022-07-24T11:58:52.000Z</updated>
-        <summary type="html"><![CDATA[Zenless Zone Zero, the next presumably hit-gacha game from the developers of Genshin Impact, has had its beta test confirmed for this August. 
-Hoyoverse has put out a notice confirming the exact time and date of Zenless Zone Zero's Tuning Test (say that five times fast). Those that want to test out the game can signup on the game's main page, and if you get in you can expect to try it out starting from August 5, 3am BST/ 4am CEST. Not the friendliest of start times to those in the UK and the EU, but you take what you can get.
-The test end time hasn't been set in stone just yet though, so presumably you'll have a bit of time to really get a feel for the game if you're lucky enough to be picked for the beta. Make sure you do so soon if you are interested though, as signups close next week, July 27.
- Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Install Pamac GUI Package Manager in Arch Linux]]></title>
-        <id>https://itsfoss.com/?p=98953</id>
-        <link href="https://itsfoss.com/install-pamac-arch-linux/"/>
-        <updated>2022-07-24T11:37:09.000Z</updated>
-        <summary type="html"><![CDATA[Pamac is an awesome GUI-based package manager from the developers of Manjaro Linux. Here's how you can get Pamac in Arch Linux.]]></summary>
-        <author>
-            <name>Anuj Sharma</name>
         </author>
     </entry>
 </feed>
