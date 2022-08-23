@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-23T02:26:38.928Z</updated>
+    <updated>2022-08-23T04:46:35.189Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dice jobbar på att introducera klasser till Battlefield 2042]]></title>
+        <id>https://www.fz.se/artikel/291198</id>
+        <link href="https://www.fz.se/artikel/291198-dice-jobbar-pa-att-introducera-klasser-till-battlefield-2042"/>
+        <updated>2022-08-23T03:40:18.000Z</updated>
+        <summary type="html"><![CDATA[Men specialisterna kommer att finnas kvar.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony bekräftar att PSVR2 släpps tidigt nästa år]]></title>
+        <id>https://www.fz.se/artikel/291197</id>
+        <link href="https://www.fz.se/artikel/291197-sony-bekraftar-att-psvr2-slapps-tidigt-nasta-ar"/>
+        <updated>2022-08-23T03:15:30.000Z</updated>
+        <summary type="html"><![CDATA[Dags att börja VR-säkra spelrummet.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft finds critical hole in operating system that for once isn't Windows]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/23/microsoft_chromeos_bug/</id>
@@ -31850,67 +31870,6 @@ The actual Debian Developers Conference s…]]></summary>
         <summary type="html"><![CDATA[Utvecklaren som menar att det språkspecifika AI-systemet Lamda har känslor har gjort flera regelövertramp och går nu därför från avstängd till arbetslös.]]></summary>
         <author>
             <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Huge Neopets hack may have compromised over 69 million accounts, hacker wants $100,000 for the data]]></title>
-        <id>https://www.vg247.com/major-neopets-hack</id>
-        <link href="https://www.vg247.com/major-neopets-hack"/>
-        <updated>2022-07-24T15:35:54.000Z</updated>
-        <summary type="html"><![CDATA[A huge Neopets hack has potentially compromised tens of millions of accounts, as revealed earlier this week.
-As reported by Polygon, more than 69 million Neopets accounts may have had their customer data stolen in a major data breach. A Neopets representative confirmed through Discord that the company is "actively working" on fixing the issue, and later on the official forum and Twitter released a statement addressing the breach.
-"Neopets recently became aware that customer data may have been stolen," reads the first tweet. "We immediately launched an investigation assisted by a leading forensics firm. We are also engaging law enforcement and enhancing the protections for our systems and our user data."
- Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guerrilla Games is killing Killzone by shutting down multiplayer servers for two games]]></title>
-        <id>https://www.vg247.com/killzone-multiplayer-servers-shutting-down</id>
-        <link href="https://www.vg247.com/killzone-multiplayer-servers-shutting-down"/>
-        <updated>2022-07-24T15:10:01.000Z</updated>
-        <summary type="html"><![CDATA[All things must come to an end, this time the multiplayer servers for a couple of Killzone titles, and RIGS: Mechanized Combat League.
-Earlier this week, Guerrilla announced on Twitter that online servers would be shutting down for a couple of Killzone games. "On 12 August 2022, online servers for Killzone: Mercenary, Killzone Shadow Fall (including Intercept Mode) and RIGS: Mechanized Combat League will shut down. Online features (including online multiplayer modes) will cease on that date," reads the tweet. But single player modes will still be available. 
-RIGS is the most recent of the three titles, having release in 2016, and requires the use of a PSVR headset. So considering the age of all three of them, and the lattermost needing what will soon become an outdated piece of hardware, it isn't particularly surprising that any of them are shutting down. 
- Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Immortals Fenyx Rising followup is reportedly a Polynesian inspired spin-off]]></title>
-        <id>https://www.vg247.com/immortals-fenyx-rising-sequel</id>
-        <link href="https://www.vg247.com/immortals-fenyx-rising-sequel"/>
-        <updated>2022-07-24T14:42:04.000Z</updated>
-        <summary type="html"><![CDATA[The followup to Immortals Fenyx Rising is reportedly going to be a Polynesian inspired spin-off.
-Another week, another drip from the leakiest faucet, sorry, journalist around, Jeff Grubb, as spotted by VGC. This time, it's about that supposed Immortal Fenyx Rising sequel that was reported on earlier this year. Except according to Grubb, it isn't actually a full on sequel that's in the works, but a spin-off.
-Speaking on the Games Mess Decides podcast, Grubb said "Ubisoft Quebec's sequel to Immortals Fenyx Rising is not a proper sequel. It's more of a spin-off. The production name of the game is called Oxygen."
- Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steinar H. Gunderson: AV1 live streaming: Exploring SVT-AV1 rate control]]></title>
-        <id>http://blog.sesse.net/blog/tech/2022-07-24-15-40_av1_live_streaming_exploring_svt_av1_rate_control.html</id>
-        <link href="http://blog.sesse.net/blog/tech/2022-07-24-15-40_av1_live_streaming_exploring_svt_av1_rate_control.html"/>
-        <updated>2022-07-24T14:40:00.000Z</updated>
-        <summary type="html"><![CDATA[I'm looking into AV1 live streaming these days; it's still very early,
-but it looks like enough of the required parts may finally align,
-and it seems it's the way I'll have to go to get to that next quality
-level. (Specifically, I'd like to go from 720p60 to 1080p60 for sports,
-and it seems this is hard to do under H.264 as-is without making pretty
-big concessions in terms of artifacts/smudges, or else jack up the
-bitrate so much that clients will start having viewing problems.)
-After some brief testing, it seems
-SVT-AV1 is the obvious choice;
-if you've got the cores, it produces pretty good-looking 10-bit AV1 using
-less CPU time than x264 veryfast (!), possibly mostly due to better
-parallelization. But information about using it for live streaming was hard
-to find, and asking online turne…]]></summary>
-        <author>
-            <name>Planet Debian</name>
         </author>
     </entry>
 </feed>

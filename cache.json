@@ -8548,36 +8548,6 @@
           "wordCount": 4598,
           "title": "Stray mod lets you play as America's laziest cat, Garfield",
           "imageUrl": "https://asset.vg247.com/garfield-stray-1.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/garfield-stray-1.jpeg"
-        },
-        {
-          "id": "https://www.vg247.com/major-neopets-hack",
-          "author": "Oisin Kuhnke",
-          "description": "A huge Neopets hack has potentially compromised tens of millions of accounts, as revealed earlier this week.\nAs reported by Polygon, more than 69 million Neopets accounts may have had their customer data stolen in a major data breach. A Neopets representative confirmed through Discord that the company is \"actively working\" on fixing the issue, and later on the official forum and Twitter released a statement addressing the breach.\n\"Neopets recently became aware that customer data may have been stolen,\" reads the first tweet. \"We immediately launched an investigation assisted by a leading forensics firm. We are also engaging law enforcement and enhancing the protections for our systems and our user data.\"\n Read more",
-          "link": "https://www.vg247.com/major-neopets-hack",
-          "publishedOn": "2022-07-24T15:35:54.000Z",
-          "wordCount": 4523,
-          "title": "Huge Neopets hack may have compromised over 69 million accounts, hacker wants $100,000 for the data",
-          "imageUrl": "https://asset.vg247.com/neopets.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/neopets.jpg"
-        },
-        {
-          "id": "https://www.vg247.com/killzone-multiplayer-servers-shutting-down",
-          "author": "Oisin Kuhnke",
-          "description": "All things must come to an end, this time the multiplayer servers for a couple of Killzone titles, and RIGS: Mechanized Combat League.\nEarlier this week, Guerrilla announced on Twitter that online servers would be shutting down for a couple of Killzone games. \"On 12 August 2022, online servers for Killzone: Mercenary, Killzone Shadow Fall (including Intercept Mode) and RIGS: Mechanized Combat League will shut down. Online features (including online multiplayer modes) will cease on that date,\" reads the tweet. But single player modes will still be available. \nRIGS is the most recent of the three titles, having release in 2016, and requires the use of a PSVR headset. So considering the age of all three of them, and the lattermost needing what will soon become an outdated piece of hardware, it isn't particularly surprising that any of them are shutting down. \n Read more",
-          "link": "https://www.vg247.com/killzone-multiplayer-servers-shutting-down",
-          "publishedOn": "2022-07-24T15:10:01.000Z",
-          "wordCount": 4595,
-          "title": "Guerrilla Games is killing Killzone by shutting down multiplayer servers for two games",
-          "imageUrl": "https://asset.vg247.com/killzone-shadow-fall_Q5ZDX00.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/killzone-shadow-fall_Q5ZDX00.jpg"
-        },
-        {
-          "id": "https://www.vg247.com/immortals-fenyx-rising-sequel",
-          "author": "Oisin Kuhnke",
-          "description": "The followup to Immortals Fenyx Rising is reportedly going to be a Polynesian inspired spin-off.\nAnother week, another drip from the leakiest faucet, sorry, journalist around, Jeff Grubb, as spotted by VGC. This time, it's about that supposed Immortal Fenyx Rising sequel that was reported on earlier this year. Except according to Grubb, it isn't actually a full on sequel that's in the works, but a spin-off.\nSpeaking on the Games Mess Decides podcast, Grubb said \"Ubisoft Quebec's sequel to Immortals Fenyx Rising is not a proper sequel. It's more of a spin-off. The production name of the game is called Oxygen.\"\n Read more",
-          "link": "https://www.vg247.com/immortals-fenyx-rising-sequel",
-          "publishedOn": "2022-07-24T14:42:04.000Z",
-          "wordCount": 4533,
-          "title": "Immortals Fenyx Rising followup is reportedly a Polynesian inspired spin-off",
-          "imageUrl": "https://asset.vg247.com/immortals_feynx_rising_5WCD4qp.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/immortals_feynx_rising_5WCD4qp.jpg"
         }
       ]
     },
@@ -17616,16 +17586,6 @@
           "wordCount": 1157,
           "title": "Bits from Debian: DebConf22 closes in Prizren and DebConf23 dates announced",
           "imageUrl": "https://bits.debian.org//images/debconf22_group_small.jpg"
-        },
-        {
-          "id": "http://blog.sesse.net/blog/tech/2022-07-24-15-40_av1_live_streaming_exploring_svt_av1_rate_control.html",
-          "author": null,
-          "description": "I'm looking into AV1 live streaming these days; it's still very early,\nbut it looks like enough of the required parts may finally align,\nand it seems it's the way I'll have to go to get to that next quality\nlevel. (Specifically, I'd like to go from 720p60 to 1080p60 for sports,\nand it seems this is hard to do under H.264 as-is without making pretty\nbig concessions in terms of artifacts/smudges, or else jack up the\nbitrate so much that clients will start having viewing problems.)\nAfter some brief testing, it seems\nSVT-AV1 is the obvious choice;\nif you've got the cores, it produces pretty good-looking 10-bit AV1 using\nless CPU time than x264 veryfast (!), possibly mostly due to better\nparallelization. But information about using it for live streaming was hard\nto find, and asking online turne…",
-          "link": "http://blog.sesse.net/blog/tech/2022-07-24-15-40_av1_live_streaming_exploring_svt_av1_rate_control.html",
-          "publishedOn": "2022-07-24T14:40:00.000Z",
-          "wordCount": 1817,
-          "title": "Steinar H. Gunderson: AV1 live streaming: Exploring SVT-AV1 rate control",
-          "imageUrl": null
         }
       ]
     },
@@ -20198,6 +20158,26 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291198",
+          "author": null,
+          "description": "Men specialisterna kommer att finnas kvar.",
+          "link": "https://www.fz.se/artikel/291198-dice-jobbar-pa-att-introducera-klasser-till-battlefield-2042",
+          "publishedOn": "2022-08-23T03:40:18.000Z",
+          "wordCount": 1864,
+          "title": "Dice jobbar på att introducera klasser till Battlefield 2042",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291198"
+        },
+        {
+          "id": "https://www.fz.se/artikel/291197",
+          "author": null,
+          "description": "Dags att börja VR-säkra spelrummet.",
+          "link": "https://www.fz.se/artikel/291197-sony-bekraftar-att-psvr2-slapps-tidigt-nasta-ar",
+          "publishedOn": "2022-08-23T03:15:30.000Z",
+          "wordCount": 1843,
+          "title": "Sony bekräftar att PSVR2 släpps tidigt nästa år",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291197"
+        },
         {
           "id": "https://www.fz.se/artikel/291196",
           "author": null,
