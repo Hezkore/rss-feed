@@ -286,6 +286,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/08/games-publisher-pqube-accused-of-predatory-practices-and-being-manipulative/",
+          "author": "Liam Dawe",
+          "description": "PQube, a games publisher that has over 50 games on Steam, has been accused by one developer of \"predatory practices\".",
+          "link": "https://www.gamingonlinux.com/2022/08/games-publisher-pqube-accused-of-predatory-practices-and-being-manipulative/",
+          "publishedOn": "2022-08-24T09:02:10.000Z",
+          "wordCount": 1109,
+          "title": "Games publisher PQube accused of 'predatory practices' and being manipulative",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/386390521id21487gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/08/nvidia-vulkan-beta-driver-5154914-out-now/",
           "author": "Liam Dawe",
           "description": "NVIDIA has released the latest update to their special Vulkan Beta Driver, for developers and users who want to test out the very-latest stuff.",
@@ -6330,6 +6340,16 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/telltale-provides-first-look-at-gameplay-for-upcoming-game-the-expanse",
+          "author": "Connor Makar",
+          "description": "The Expanse has received its first gameplay trailer courtesy of Gamescom Opening Night Live last night, showing off the sci-fi horror mystery title from Telltale Games for the first time.\nPlanned for a summer 2023 release date — with no platforms currently announced — this would make The Expanse the first game from studio Telltale Games since Guardians of the Galaxy: A Telltale Series five years ago.\nThe trailer shows much of that classic narrative focus you’d expect from a Telltale project, with a emphasis on characters and conversations with them, as well as the implication of some serious decision making as you hover your hand over an airlock button.\n Read more",
+          "link": "https://www.vg247.com/telltale-provides-first-look-at-gameplay-for-upcoming-game-the-expanse",
+          "publishedOn": "2022-08-24T09:11:45.000Z",
+          "wordCount": 4640,
+          "title": "Telltale provides first look at gameplay for upcoming game, The Expanse",
+          "imageUrl": "https://asset.vg247.com/the_expanse_trailer.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/the_expanse_trailer.jpg"
+        },
+        {
           "id": "https://www.vg247.com/sony-dualsense-edge-wireless-controller-ps5",
           "author": "Stephany Nunneley",
           "description": "Sony has announced a new, customizable controller for PlayStation 5.\nCalled DualSense Edge, the controller features changeable stick caps and back buttons, as well as replaceable stick modules.\nThere are three types of swappable stick caps: standard, high dome, and low dome, and each will help maintain grip and stability. The two swappable sets of back buttons can be configured to be any other button input while the replaceable stick modules can be fully replaced.\n Read more",
@@ -9017,6 +9037,26 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Mesa-CI-Begins-Mold",
+          "author": null,
+          "description": "For speeding up the actual Mesa continuous integration (CI) process itself with frequently building new revisions of Mesa3D, their CI infrastructure is beginning to make use of the Mold linker as a high performance alternative to the GNU Gold and LLVM LLD linkers. This is yielding a \"substantial\" performance improvement in tests for being able to turnaround CI jobs faster and in turn allowing Mesa developers to be more efficient...",
+          "link": "https://www.phoronix.com/news/Mesa-CI-Begins-Mold",
+          "publishedOn": "2022-08-24T09:12:19.000Z",
+          "wordCount": 1587,
+          "title": "Mesa CI Begins Making Use Of Mold Linker For \"Substantial\" Performance Improvement",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/RADV-Dynamic-Rendering-100p",
+          "author": null,
+          "description": "One of the great things about Jason Ekstrand having joined Collabora at the start of the year is that the former Intel graphics engineer, who was on the team that created their original Vulkan driver, can now work on whatever open-source driver code he wishes. Among other upstream Mesa work, he's recently been contributing to the new \"NVK\" NVIDIA Vulkan driver and also the RADV driver too...",
+          "link": "https://www.phoronix.com/news/RADV-Dynamic-Rendering-100p",
+          "publishedOn": "2022-08-24T08:47:41.000Z",
+          "wordCount": 1278,
+          "title": "RADV Prepares To Switch Completely To Dynamic Rendering",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-Encrypted-Hibernation-v2",
           "author": null,
           "description": "Back in May there was a patch series by Google engineers working on encrypted hibernation support for Linux that would be protected by the platform hardware itself like with a TPM module as well as user authentication by a password or other means. Sent out today is a second revision to that Linux encrypted hibernation support...",
@@ -10983,6 +11023,16 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/blossom-tales-ii-gives-the-zelda-formula-a-cute-meta-narrative-touch",
+          "author": "Sin Vega",
+          "description": "The only Zelda game I've played was Link's Awakening, on the Game Boy. I do not feel short changed by this. In fact I get the distinct impression it was one of the best, if not the one that most distilled the series' essence.\nThat essence has made its way into Blossom Tales II, a charming light adventure game in the classic \"going on an adventure\" sense rather than the \"rubbing every item on every other item until you're allowed to play again\" genre sense.\nYou're playing out a story playfully told by your grandfather, who's cast you as the wee hero of a village out to rescue your brother from the sinister Minotaur King. Both of you occasionally interject, sometimes prompting a decision that changes the game a little as your granddad amends things to your liking. It doesn't go to the full meta-narrative lengths of a Juarez Gunslinger with it, but it's a cute touch and keeps the framing relevant.\nRead more",
+          "link": "https://www.rockpapershotgun.com/blossom-tales-ii-gives-the-zelda-formula-a-cute-meta-narrative-touch",
+          "publishedOn": "2022-08-24T09:00:00.000Z",
+          "wordCount": 4529,
+          "title": "Blossom Tales II gives the Zelda formula a cute meta-narrative touch",
+          "imageUrl": "https://assets2.rockpapershotgun.com/blossom_tales_2_3.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/blossom_tales_2_3.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/every-new-trailer-from-gamescom-opening-night-live-2022",
           "author": "Ollie Toms",
@@ -14182,26 +14232,6 @@
           "wordCount": 4646,
           "title": "American Truck Simulator heads to Montana on August 4th",
           "imageUrl": "https://assets2.rockpapershotgun.com/american-truck-simulator-montana-dlc.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/american-truck-simulator-montana-dlc.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/this-rtx-3080-graphics-card-costs-660-just-10-above-rrp-for-a-triple-fan-card",
-          "author": "Will Judd",
-          "description": "RTX 3080 graphics cards have hit a new low-water mark on Ebay, where a 10% off code (HOT10) has brought them to £660. This is the price for a Zotac Trinity model, but if you prefer Inno3D's designs then you can get one of their cards for just £10 more. Either way, you get an impressive level of performance for half the price that some were paying just a few months ago. \nRead more",
-          "link": "https://www.rockpapershotgun.com/this-rtx-3080-graphics-card-costs-660-just-10-above-rrp-for-a-triple-fan-card",
-          "publishedOn": "2022-07-25T20:43:52.000Z",
-          "wordCount": 4791,
-          "title": "This RTX 3080 graphics card costs £660 - just £10 above RRP for a triple-fan card",
-          "imageUrl": "https://assets2.rockpapershotgun.com/rtx-3080-zotac-trinity.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/rtx-3080-zotac-trinity.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/see-through-a-cats-eyes-using-the-stray-first-person-mod",
-          "author": "Graham Smith",
-          "description": "I'd rather play almost any game in first-person rather than third-person. A game in which I'm a cat might be one of the few exceptions. If you feel differently, and you'd really like to get inside the head of the feline protagonist in Stray, then there's now a first-person mod to help you.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/see-through-a-cats-eyes-using-the-stray-first-person-mod",
-          "publishedOn": "2022-07-25T20:38:37.000Z",
-          "wordCount": 4675,
-          "title": "See through a cat's eyes using the Stray first-person mod",
-          "imageUrl": "https://assets2.rockpapershotgun.com/stray-first-person-mod.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/stray-first-person-mod.jpg"
         }
       ]
     },
@@ -21324,6 +21354,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291220",
+          "author": null,
+          "description": "Lagbaserad multiplayer-action står på menyn.",
+          "link": "https://www.fz.se/artikel/291220-kolla-in-the-finals-free-to-play-action-fran-patrick-soderlunds-embark",
+          "publishedOn": "2022-08-24T08:47:09.000Z",
+          "wordCount": 1895,
+          "title": "Kolla in The Finals - free to play-action från Patrick Söderlunds Embark",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291220"
+        },
+        {
           "id": "https://www.fz.se/artikel/291219",
           "author": null,
           "description": "Men säger även att han jobbar på flera spel.",
@@ -24101,6 +24141,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34804",
+          "author": null,
+          "description": "Sony kontrar Microsofts Xbox Elite-kontroller med en egen variant till Playstation 5 som utrustats med extra knappar och funktioner.",
+          "link": "https://www.sweclockers.com/artikel/34804-playstation-5-far-proffsigare-kontroll-med-dualsense-edge",
+          "publishedOn": "2022-08-24T08:34:10.000Z",
+          "wordCount": 1829,
+          "title": "Playstation 5 får proffsigare kontroll med Dualsense Edge",
+          "imageUrl": "https://www.sweclockers.com/artikel/34804/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34802",
           "author": null,
           "description": "The Shrimp är ett minimalistiskt tangentbord som ger spelare det som behövs för att spela på vift.",
@@ -26118,6 +26168,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/24/panwriter/",
+          "author": null,
+          "description": "<h4>Sometimes you just want something dead simple that can maybe handle bold, italics, and a hyperlink or two</h4> <p><strong>FOSS Fest</strong>  PanWriter isn't all that small, but it's simple, clean, and does the bare minimum over a plain text editor.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/24/panwriter/",
+          "publishedOn": "2022-08-24T08:34:09.000Z",
+          "wordCount": 1357,
+          "title": "PanWriter: Cross-platform writing tool runs on anything and outputs to anything",
+          "imageUrl": "https://regmedia.co.uk/2022/08/23/screenshot-css.png"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/24/amazon_ring_surveillance/",
           "author": null,

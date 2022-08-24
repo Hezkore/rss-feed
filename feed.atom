@@ -2,10 +2,96 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-24T08:29:30.778Z</updated>
+    <updated>2022-08-24T09:22:23.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mesa CI Begins Making Use Of Mold Linker For "Substantial" Performance Improvement]]></title>
+        <id>https://www.phoronix.com/news/Mesa-CI-Begins-Mold</id>
+        <link href="https://www.phoronix.com/news/Mesa-CI-Begins-Mold"/>
+        <updated>2022-08-24T09:12:19.000Z</updated>
+        <summary type="html"><![CDATA[For speeding up the actual Mesa continuous integration (CI) process itself with frequently building new revisions of Mesa3D, their CI infrastructure is beginning to make use of the Mold linker as a high performance alternative to the GNU Gold and LLVM LLD linkers. This is yielding a "substantial" performance improvement in tests for being able to turnaround CI jobs faster and in turn allowing Mesa developers to be more efficient...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telltale provides first look at gameplay for upcoming game, The Expanse]]></title>
+        <id>https://www.vg247.com/telltale-provides-first-look-at-gameplay-for-upcoming-game-the-expanse</id>
+        <link href="https://www.vg247.com/telltale-provides-first-look-at-gameplay-for-upcoming-game-the-expanse"/>
+        <updated>2022-08-24T09:11:45.000Z</updated>
+        <summary type="html"><![CDATA[The Expanse has received its first gameplay trailer courtesy of Gamescom Opening Night Live last night, showing off the sci-fi horror mystery title from Telltale Games for the first time.
+Planned for a summer 2023 release date — with no platforms currently announced — this would make The Expanse the first game from studio Telltale Games since Guardians of the Galaxy: A Telltale Series five years ago.
+The trailer shows much of that classic narrative focus you’d expect from a Telltale project, with a emphasis on characters and conversations with them, as well as the implication of some serious decision making as you hover your hand over an airlock button.
+ Read more]]></summary>
+        <author>
+            <name>Connor Makar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Games publisher PQube accused of 'predatory practices' and being manipulative]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/games-publisher-pqube-accused-of-predatory-practices-and-being-manipulative/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/games-publisher-pqube-accused-of-predatory-practices-and-being-manipulative/"/>
+        <updated>2022-08-24T09:02:10.000Z</updated>
+        <summary type="html"><![CDATA[PQube, a games publisher that has over 50 games on Steam, has been accused by one developer of "predatory practices".]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blossom Tales II gives the Zelda formula a cute meta-narrative touch]]></title>
+        <id>https://www.rockpapershotgun.com/blossom-tales-ii-gives-the-zelda-formula-a-cute-meta-narrative-touch</id>
+        <link href="https://www.rockpapershotgun.com/blossom-tales-ii-gives-the-zelda-formula-a-cute-meta-narrative-touch"/>
+        <updated>2022-08-24T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The only Zelda game I've played was Link's Awakening, on the Game Boy. I do not feel short changed by this. In fact I get the distinct impression it was one of the best, if not the one that most distilled the series' essence.
+That essence has made its way into Blossom Tales II, a charming light adventure game in the classic "going on an adventure" sense rather than the "rubbing every item on every other item until you're allowed to play again" genre sense.
+You're playing out a story playfully told by your grandfather, who's cast you as the wee hero of a village out to rescue your brother from the sinister Minotaur King. Both of you occasionally interject, sometimes prompting a decision that changes the game a little as your granddad amends things to your liking. It doesn't go to the full meta-narrative lengths of a Juarez Gunslinger with it, but it's a cute touch and keeps the framing relevant.
+Read more]]></summary>
+        <author>
+            <name>Sin Vega</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RADV Prepares To Switch Completely To Dynamic Rendering]]></title>
+        <id>https://www.phoronix.com/news/RADV-Dynamic-Rendering-100p</id>
+        <link href="https://www.phoronix.com/news/RADV-Dynamic-Rendering-100p"/>
+        <updated>2022-08-24T08:47:41.000Z</updated>
+        <summary type="html"><![CDATA[One of the great things about Jason Ekstrand having joined Collabora at the start of the year is that the former Intel graphics engineer, who was on the team that created their original Vulkan driver, can now work on whatever open-source driver code he wishes. Among other upstream Mesa work, he's recently been contributing to the new "NVK" NVIDIA Vulkan driver and also the RADV driver too...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kolla in The Finals - free to play-action från Patrick Söderlunds Embark]]></title>
+        <id>https://www.fz.se/artikel/291220</id>
+        <link href="https://www.fz.se/artikel/291220-kolla-in-the-finals-free-to-play-action-fran-patrick-soderlunds-embark"/>
+        <updated>2022-08-24T08:47:09.000Z</updated>
+        <summary type="html"><![CDATA[Lagbaserad multiplayer-action står på menyn.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playstation 5 får proffsigare kontroll med Dualsense Edge]]></title>
+        <id>https://www.sweclockers.com/artikel/34804</id>
+        <link href="https://www.sweclockers.com/artikel/34804-playstation-5-far-proffsigare-kontroll-med-dualsense-edge"/>
+        <updated>2022-08-24T08:34:10.000Z</updated>
+        <summary type="html"><![CDATA[Sony kontrar Microsofts Xbox Elite-kontroller med en egen variant till Playstation 5 som utrustats med extra knappar och funktioner.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PanWriter: Cross-platform writing tool runs on anything and outputs to anything]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/24/panwriter/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/24/panwriter/"/>
+        <updated>2022-08-24T08:34:09.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Sometimes you just want something dead simple that can maybe handle bold, italics, and a hyperlink or two</h4> <p><strong>FOSS Fest</strong>  PanWriter isn't all that small, but it's simple, clean, and does the bare minimum over a plain text editor.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hideo Kojima har utannonserat ... en podcast]]></title>
         <id>https://www.fz.se/artikel/291219</id>
@@ -33794,30 +33880,6 @@ Read more]]></summary>
         <link href="https://www.rockpapershotgun.com/american-truck-simulator-heads-to-montana-on-august-4th"/>
         <updated>2022-07-25T21:33:19.000Z</updated>
         <summary type="html"><![CDATA[American Truck Simulator's tenth expansion is almost upon us. The freight simulator's Montana DLC was announced in November last year, and now developers SCS Software say it'll begin its journey on August 4th. There's a new trailer and a longer in-game video to watch below.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This RTX 3080 graphics card costs £660 - just £10 above RRP for a triple-fan card]]></title>
-        <id>https://www.rockpapershotgun.com/this-rtx-3080-graphics-card-costs-660-just-10-above-rrp-for-a-triple-fan-card</id>
-        <link href="https://www.rockpapershotgun.com/this-rtx-3080-graphics-card-costs-660-just-10-above-rrp-for-a-triple-fan-card"/>
-        <updated>2022-07-25T20:43:52.000Z</updated>
-        <summary type="html"><![CDATA[RTX 3080 graphics cards have hit a new low-water mark on Ebay, where a 10% off code (HOT10) has brought them to £660. This is the price for a Zotac Trinity model, but if you prefer Inno3D's designs then you can get one of their cards for just £10 more. Either way, you get an impressive level of performance for half the price that some were paying just a few months ago. 
-Read more]]></summary>
-        <author>
-            <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[See through a cat's eyes using the Stray first-person mod]]></title>
-        <id>https://www.rockpapershotgun.com/see-through-a-cats-eyes-using-the-stray-first-person-mod</id>
-        <link href="https://www.rockpapershotgun.com/see-through-a-cats-eyes-using-the-stray-first-person-mod"/>
-        <updated>2022-07-25T20:38:37.000Z</updated>
-        <summary type="html"><![CDATA[I'd rather play almost any game in first-person rather than third-person. A game in which I'm a cat might be one of the few exceptions. If you feel differently, and you'd really like to get inside the head of the feline protagonist in Stray, then there's now a first-person mod to help you.
 
  
 Read more]]></summary>
