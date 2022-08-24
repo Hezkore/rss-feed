@@ -286,6 +286,26 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/08/wii-u-emulator-cemu-20-out-goes-open-source-and-gets-linux-support/",
+          "author": "Liam Dawe",
+          "description": "It has finally happened. Cemu, the Wii U emulator has a big new 2.0 release and it is now officially open source and available for Linux too.",
+          "link": "https://www.gamingonlinux.com/2022/08/wii-u-emulator-cemu-20-out-goes-open-source-and-gets-linux-support/",
+          "publishedOn": "2022-08-24T11:14:34.000Z",
+          "wordCount": 1266,
+          "title": "Wii U emulator Cemu 2.0 out, goes open source and gets Linux support",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/667995880id21489gol.jpg"
+        },
+        {
+          "id": "https://www.gamingonlinux.com/2022/08/command-armies-over-voice-comms-radio-general-water-rats-expansion-out-now/",
+          "author": "Liam Dawe",
+          "description": "Radio General - Water Rats is the first paid expansion for the positively rated unique strategy game, where you call the orders over your microphone.",
+          "link": "https://www.gamingonlinux.com/2022/08/command-armies-over-voice-comms-radio-general-water-rats-expansion-out-now/",
+          "publishedOn": "2022-08-24T11:05:27.000Z",
+          "wordCount": 1115,
+          "title": "Command armies over voice comms, Radio General - Water Rats expansion out now",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/989202986id21488gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/08/games-publisher-pqube-accused-of-predatory-practices-and-being-manipulative/",
           "author": "Liam Dawe",
           "description": "PQube, a games publisher that has over 50 games on Steam, has been accused by one developer of \"predatory practices\".",
@@ -1622,6 +1642,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/kirbys-dream-buffet-review-prepare-to-eat-a-lot-of-strawberries-1",
+          "author": "Christian Donlan",
+          "description": "Every game needs a moment - a moment that it alone can offer. I'm thinking of the fuse block in Lumines, where you chain a single colour through a mass of blocks and then set it off and you realise that the entire game is really about laying channels of dynamite. Or the lovely corrugated rumble in WarioWare Twisted where you turn your whole GBA to send a capsule toy down a chute and into your hand. (Random examples; I played both over the weekend.)\r\n\n\r\nKirby's Dream Buffet has that moment. It has the moment that purely belongs to Kirby's Dream Buffet. It comes at the end of one of the races. You have battled rivals and rushed across twisting, treacherous tracks made from waffles, strips of bacon, Victoria sponge, pools of chocolate icing. You're ahead of the pack so when you get to the finish line you can jump into the really, really big bowl of strawberries. And then? Then you spin the left stick - I think it's the left stick; I am always swept up in the sugar rush by this point - to eat all the strawberries. Chomp chomp chomp. It's fabulous stuff. One last strawberry ere we die!\r\n\n\r\nAnd at first this moment is just one bit of business in a game made of bits of business. At first, in fact, you don't so much play Kirby's Dream Buffet as exist through an onslaught of colour and antic chirpiness. Slowly, though, slowly and steadily, structure emerges. But even within the structure there is a certain headlong wildness that remains. As with a house cat, you can never entirely tame Kirby's Dream Buffet.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/kirbys-dream-buffet-review-prepare-to-eat-a-lot-of-strawberries-1",
+          "publishedOn": "2022-08-24T11:06:07.000Z",
+          "wordCount": 5360,
+          "title": "Kirby's Dream Buffet review - prepare to eat a lot of strawberries",
+          "imageUrl": "https://assets.reedpopcdn.com/KirbysDreamBuffet_scrn_02.png/BROK/thumbnail/1600x900/format/jpg/quality/80/KirbysDreamBuffet_scrn_02.png"
+        },
         {
           "id": "https://www.eurogamer.net/world-cup-runners-up-croatia-finally-in-fifa-23-after-10-year-absence",
           "author": "Wesley Yin-Poole",
@@ -9097,6 +9127,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Cemu-Open-Source-Linux",
+          "author": null,
+          "description": "Cemu is a popular emulator for the Nintendo Wii U that can successfully run many games as well as homebrew titles. Cemu started off with just Windows support but then at the beginning of the year laid out plans to go open-source and provide Linux support. They've pulled that off and the code is now out there in a public GitHub repository...",
+          "link": "https://www.phoronix.com/news/Cemu-Open-Source-Linux",
+          "publishedOn": "2022-08-24T10:35:42.000Z",
+          "wordCount": 1329,
+          "title": "Cemu Emulator For The Wii U Now Open-Source, Building On Linux",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Intel-HASVK-Old-Vulkan-Gen7-8",
           "author": null,
           "description": "The current Intel open-source \"ANV\" Vulkan driver within Mesa supports graphics hardware going back to the \"Gen7\" graphics found with Ivy Bridge / Haswell. However, Intel open-source Linux graphics driver engineers are preparing to separate the old Ivy Bridge / Haswell (Gen7) and Broadwell (Gen8) graphics into a separate Mesa driver so they can better focus on improving their modern Vulkan driver that would then be limited to Skylake Gen9 graphics and newer...",
@@ -11113,6 +11153,36 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/manuscript-em-up-pentiment-has-inked-a-november-15th-release-date",
+          "author": "CJ Wheeler",
+          "description": "If you’d told me back in early June that legendary RPG devs Obsidian Entertainment would be releasing an adventure game set around a medieval German abbey, I would’ve scoffed and called you a charlatan. Speed forwards through time to today, when Obsidian revealed that Pentiment is out on November 15th, and I’m genuinely pleased to hear it. Refresh your memory of Pentiment by watching the game’s trailer below. \r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/manuscript-em-up-pentiment-has-inked-a-november-15th-release-date",
+          "publishedOn": "2022-08-24T10:57:57.000Z",
+          "wordCount": 4830,
+          "title": "Manuscript ‘em up Pentiment has inked a November 15th release date",
+          "imageUrl": "https://assets2.rockpapershotgun.com/pentiment-manuscript.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/pentiment-manuscript.jpg"
+        },
+        {
+          "id": "https://www.rockpapershotgun.com/space-citybuilder-ixion-is-launching-on-november-16th",
+          "author": "Katharine Castle",
+          "description": "Sci-fi citybuilder Ixion was one of the best things I played during February's Steam Next Fest demo bonanza earlier in the year, and my only regret is that I didn't write up my thoughts about it at the time because, you know, Elden Ring. Happily, though, developers Bulwark Studios have announced Ixion's release date this morning, so let me tell you about it now. \nRead more",
+          "link": "https://www.rockpapershotgun.com/space-citybuilder-ixion-is-launching-on-november-16th",
+          "publishedOn": "2022-08-24T10:39:53.000Z",
+          "wordCount": 5101,
+          "title": "Space citybuilder Ixion is launching on November 16th",
+          "imageUrl": "https://assets2.rockpapershotgun.com/Ixion-screenshot1.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Ixion-screenshot1.jpg"
+        },
+        {
+          "id": "https://www.rockpapershotgun.com/destiny-2-to-stop-removing-old-expansions-starting-with-lightfall-in-february",
+          "author": "Alice O'Connor",
+          "description": "Bungie have announced they're ending an unpopular Destiny 2 practice: removing older expansions to keep the game at a maintainable size. Necessary as it might have been for Bungie, this 'sunsetting' removing content people bought has raised hackles. Now Bungie say they've been working on the game's technoguts, and won't do that anymore. Expansions will stick around forever, though seasonal content will still leave at the end of each expansion cycle—and Bungie don't say anything about bringing back all the old stuff.\nRead more",
+          "link": "https://www.rockpapershotgun.com/destiny-2-to-stop-removing-old-expansions-starting-with-lightfall-in-february",
+          "publishedOn": "2022-08-24T10:35:00.000Z",
+          "wordCount": 5424,
+          "title": "Destiny 2 to stop removing old expansions, starting with Lightfall in February",
+          "imageUrl": "https://assets2.rockpapershotgun.com/destiny-2-lightfall-cg-trailer-a.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/destiny-2-lightfall-cg-trailer-a.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/a-space-for-the-unbound-devs-walk-away-from-predatory-publisher-pqube",
           "author": "CJ Wheeler",
@@ -21434,6 +21504,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291221",
+          "author": null,
+          "description": "Hårdkokta rymdtjejer och Dead Space-liknande skräck.",
+          "link": "https://www.fz.se/artikel/291221-antligen-mer-info-om-telltales-the-expanse-spel",
+          "publishedOn": "2022-08-24T10:53:54.000Z",
+          "wordCount": 1843,
+          "title": "Äntligen mer info om Telltales The Expanse-spel",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291221"
+        },
+        {
           "id": "https://www.fz.se/artikel/291042",
           "author": null,
           "description": "Saints Row är tillbaka, som påminner en del om GTA-upplägget. Och på tal om det...",
@@ -26268,6 +26348,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/24/thames_water_datacenter_water/",
+          "author": null,
+          "description": "<h4>Utility says there's no reason facilities should be using drinking water, but also wastes a lot itself</h4> <p>Thames Water has started looking at the amount of water used by datacenters in the area it serves around London as parts of the UK are hit by drought.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/24/thames_water_datacenter_water/",
+          "publishedOn": "2022-08-24T10:33:09.000Z",
+          "wordCount": 1381,
+          "title": "UK's largest water company investigates datacenters' use as drought hits",
+          "imageUrl": "https://regmedia.co.uk/2015/06/21/drought.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/24/ieee_python_language/",
           "author": null,
