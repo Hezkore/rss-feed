@@ -9637,6 +9637,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-6.1-Seg-Fault-Report-CPU",
+          "author": null,
+          "description": "While mostly of benefit to server administrators with large fleets of hardware, Linux 6.1 aims to make it easier to help spot problematic CPUs/cores by reporting the likely socket and core when a segmentation fault occurs, which can help in spotting any trends if routinely finding the same CPU/core is causing problems...",
+          "link": "https://www.phoronix.com/news/Linux-6.1-Seg-Fault-Report-CPU",
+          "publishedOn": "2022-08-25T13:12:04.000Z",
+          "wordCount": 1514,
+          "title": "Linux 6.1 Will Make It A Bit Easier To Help Spot Faulty CPUs",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Atomic-Async-Page-Flips",
           "author": null,
           "description": "Async page flipping via DRM_MODE_PAGE_FLIP_ASYNC has been available with the Direct Rendering Manager's legacy API but hasn't been supported by the atomic mode-setting interface. However, a proposed patch series would add that atomic async flip support and wire it up initially for the AMDGPU DRM driver. Meanwhile Valve's Gamescope compositor in user-space would be ready to make use of it...",
@@ -14991,6 +15001,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "wciG5hBZM3RrGmStBPbKJP",
+          "author": null,
+          "description": "Sony increases PS5 price everywhere except for the U.S. due to global economic environment.",
+          "link": "https://www.tomshardware.com/news/sony-hikes-playstation5-prices",
+          "publishedOn": "2022-08-25T13:00:51.000Z",
+          "wordCount": 17757,
+          "title": "Sony Hikes PlayStation 5 Price in Nearly All Regions",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/oAURz8fH37B8hknDJNo2k6.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/oAURz8fH37B8hknDJNo2k6.png"
+        },
+        {
           "id": "L6FiPCiZMpMZuBgFBY6VmB",
           "author": null,
           "description": "We put the WD Black SN850X through the wringer to see if it lives up to the company's performance claims.",
@@ -19766,6 +19791,36 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1876040",
+          "author": "Sam Machkovech",
+          "description": "United States escapes the price hike, which ranges between 3-13% around the world.",
+          "link": "https://arstechnica.com/?p=1876040",
+          "publishedOn": "2022-08-25T12:08:56.000Z",
+          "wordCount": 1809,
+          "title": "Sony raises PlayStation 5 console prices in many regions, effective immediately",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/ps5-price-listing-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1875918",
+          "author": "Scharon Harding",
+          "description": "An option for power workers seeking deeper contrast without Mini LED or OLED prices.",
+          "link": "https://arstechnica.com/?p=1875918",
+          "publishedOn": "2022-08-25T12:00:52.000Z",
+          "wordCount": 1553,
+          "title": "HP’s new Thunderbolt 4 monitor uses contrast-rich IPS Black tech",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/listing-6-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1875810",
+          "author": "Scharon Harding",
+          "description": "There's a gimmick or two, but it's also one of the highest-specced AIOs around.",
+          "link": "https://arstechnica.com/?p=1875810",
+          "publishedOn": "2022-08-25T12:00:41.000Z",
+          "wordCount": 1862,
+          "title": "HP’s 5K ultrawide all-in-one has workhorse specs, dual magnetic webcams",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/bottom-bezel-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1875865",
           "author": "Samuel Axon",
@@ -25441,6 +25496,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34714",
+          "author": null,
+          "description": "Testpiloten André \"Yatagarasu\" Uppman tar sig en närmare titt på uppdaterade Pure Base 500-serien, som nu kommer med RGB-fläktar och USB Type-C.",
+          "link": "https://www.sweclockers.com/artikel/34714-testpilot-be-quiet-pure-base-500-fx-ett-chassi-fast-i-en-aldre-era",
+          "publishedOn": "2022-08-25T13:29:20.000Z",
+          "wordCount": 3870,
+          "title": "Testpilot: Be Quiet Pure Base 500 FX – ett chassi fast i en äldre era",
+          "imageUrl": "https://www.sweclockers.com/artikel/34714/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34813",
           "author": null,
           "description": "I samarbete med LG Display avtäcker Corsair sin senaste gamingskärm, vilken baseras kring en ultrabred OLED-panel som kan böjas vid behov.",
@@ -27332,6 +27397,16 @@
       "siteUrl": "https://shencomix.tumblr.com/",
       "articles": [
         {
+          "id": "https://shencomix.tumblr.com/post/693562100141965312",
+          "author": null,
+          "description": "",
+          "link": "https://shencomix.tumblr.com/post/693562100141965312",
+          "publishedOn": "2022-08-25T12:59:21.000Z",
+          "wordCount": 725,
+          "title": "Untitled",
+          "imageUrl": "https://64.media.tumblr.com/4f8dd04bc7067118d2ddd4e80440af6b/2f0c74beacf8ae55-23/s1280x1920/b2ad47a2874c625afb5ebff5b121ba200919798c.png"
+        },
+        {
           "id": "https://shencomix.tumblr.com/post/693506652309209088",
           "author": null,
           "description": "Here is that link! -> https://patreon.com/shencomix",
@@ -27528,6 +27603,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/25/twitter_whistleblower_summoned_to_senate/",
+          "author": null,
+          "description": "<h4>Get the popcorn out for September 13</h4> <p>Former head of security at Twitter and whistleblower Peiter \"Mudge\" Zatko is scheduled to appear before the US Senate Judiciary Committee on September 13 to discuss allegations that his former employer made serious failures in protecting user data.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/25/twitter_whistleblower_summoned_to_senate/",
+          "publishedOn": "2022-08-25T13:18:07.000Z",
+          "wordCount": 1410,
+          "title": "Twitter whistleblower summoned to Senate Judiciary Committee",
+          "imageUrl": "https://regmedia.co.uk/2022/08/25/shutterstock_senate_judiciary_committee.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/25/salesforce_q2/",
           "author": null,

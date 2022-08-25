@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-25T12:46:08.099Z</updated>
+    <updated>2022-08-25T13:46:03.463Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Testpilot: Be Quiet Pure Base 500 FX – ett chassi fast i en äldre era]]></title>
+        <id>https://www.sweclockers.com/artikel/34714</id>
+        <link href="https://www.sweclockers.com/artikel/34714-testpilot-be-quiet-pure-base-500-fx-ett-chassi-fast-i-en-aldre-era"/>
+        <updated>2022-08-25T13:29:20.000Z</updated>
+        <summary type="html"><![CDATA[Testpiloten André "Yatagarasu" Uppman tar sig en närmare titt på uppdaterade Pure Base 500-serien, som nu kommer med RGB-fläktar och USB Type-C.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter whistleblower summoned to Senate Judiciary Committee]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/25/twitter_whistleblower_summoned_to_senate/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/25/twitter_whistleblower_summoned_to_senate/"/>
+        <updated>2022-08-25T13:18:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Get the popcorn out for September 13</h4> <p>Former head of security at Twitter and whistleblower Peiter "Mudge" Zatko is scheduled to appear before the US Senate Judiciary Committee on September 13 to discuss allegations that his former employer made serious failures in protecting user data.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.1 Will Make It A Bit Easier To Help Spot Faulty CPUs]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-Seg-Fault-Report-CPU</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-Seg-Fault-Report-CPU"/>
+        <updated>2022-08-25T13:12:04.000Z</updated>
+        <summary type="html"><![CDATA[While mostly of benefit to server administrators with large fleets of hardware, Linux 6.1 aims to make it easier to help spot problematic CPUs/cores by reporting the likely socket and core when a segmentation fault occurs, which can help in spotting any trends if routinely finding the same CPU/core is causing problems...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony Hikes PlayStation 5 Price in Nearly All Regions]]></title>
+        <id>wciG5hBZM3RrGmStBPbKJP</id>
+        <link href="https://www.tomshardware.com/news/sony-hikes-playstation5-prices"/>
+        <updated>2022-08-25T13:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Sony increases PS5 price everywhere except for the U.S. due to global economic environment.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://shencomix.tumblr.com/post/693562100141965312</id>
+        <link href="https://shencomix.tumblr.com/post/693562100141965312"/>
+        <updated>2022-08-25T12:59:21.000Z</updated>
+        <author>
+            <name>Shen Comix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Deals are being 'inspected by higher levels of management,' says Salesforce]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/25/salesforce_q2/</id>
@@ -14,6 +63,36 @@
         <summary type="html"><![CDATA[<h4>Customers 'more measured', and this will continue, says CRM giant, but Snowflake lifts forecasts</h4> <p>Salesforce said last night it was seeing sales cycles getting stretched and was taking a "very deliberate" approach on hiring and described caution from buyers after it missed analysts' expectations for revenue growth in the coming months.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony raises PlayStation 5 console prices in many regions, effective immediately]]></title>
+        <id>https://arstechnica.com/?p=1876040</id>
+        <link href="https://arstechnica.com/?p=1876040"/>
+        <updated>2022-08-25T12:08:56.000Z</updated>
+        <summary type="html"><![CDATA[United States escapes the price hike, which ranges between 3-13% around the world.]]></summary>
+        <author>
+            <name>Sam Machkovech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HP’s new Thunderbolt 4 monitor uses contrast-rich IPS Black tech]]></title>
+        <id>https://arstechnica.com/?p=1875918</id>
+        <link href="https://arstechnica.com/?p=1875918"/>
+        <updated>2022-08-25T12:00:52.000Z</updated>
+        <summary type="html"><![CDATA[An option for power workers seeking deeper contrast without Mini LED or OLED prices.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HP’s 5K ultrawide all-in-one has workhorse specs, dual magnetic webcams]]></title>
+        <id>https://arstechnica.com/?p=1875810</id>
+        <link href="https://arstechnica.com/?p=1875810"/>
+        <updated>2022-08-25T12:00:41.000Z</updated>
+        <summary type="html"><![CDATA[There's a gimmick or two, but it's also one of the highest-specced AIOs around.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
         </author>
     </entry>
     <entry>
