@@ -2,10 +2,140 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-25T09:23:05.691Z</updated>
+    <updated>2022-08-25T10:26:46.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Atomic Async Page Flips Proposed, Valve's Gamescope Compositor Has Support Pending]]></title>
+        <id>https://www.phoronix.com/news/Atomic-Async-Page-Flips</id>
+        <link href="https://www.phoronix.com/news/Atomic-Async-Page-Flips"/>
+        <updated>2022-08-25T10:15:29.000Z</updated>
+        <summary type="html"><![CDATA[Async page flipping via DRM_MODE_PAGE_FLIP_ASYNC has been available with the Direct Rendering Manager's legacy API but hasn't been supported by the atomic mode-setting interface. However, a proposed patch series would add that atomic async flip support and wire it up initially for the AMDGPU DRM driver. Meanwhile Valve's Gamescope compositor in user-space would be ready to make use of it...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jonathan Dowland: IKEA HEMNES Shoe cabinet repair]]></title>
+        <id>https://jmtd.net/log/shoe_cabinet_repair/</id>
+        <link href="https://jmtd.net/log/shoe_cabinet_repair/"/>
+        <updated>2022-08-25T10:14:42.000Z</updated>
+        <summary type="html"><![CDATA[Over time the screw hole into the wooden front section of our IKEA HEMNES Shoe
+cabinet
+had worn out and it was not possible to secure a screw at that position any
+more.  I designed a little 'wedge' of plastic to sit over the fitting with and
+provide some offset screw holes.]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Looks like Square Enix is opening a new studio in the west]]></title>
+        <id>https://www.eurogamer.net/looks-like-square-enix-is-opening-a-new-studio-in-the-west</id>
+        <link href="https://www.eurogamer.net/looks-like-square-enix-is-opening-a-new-studio-in-the-west"/>
+        <updated>2022-08-25T10:14:41.000Z</updated>
+        <summary type="html"><![CDATA[Square Enix may be opening a new studio in the west, shortly after selling its previous western studios to Embracer.
+
+
+Studio Onoma is part of an application on the Canadian Trademarks Database, with the applicant Square Enix Newco.
+
+
+According to the application, Studio Onoma will both develop and publish video game software, in addition to working on merchandise like strategy guides, posters, clothing, toys, and action figures.
+ 
+Read more]]></summary>
+        <author>
+            <name>Ed Nightingale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The new Fear Effect is a third-person cover shooter]]></title>
+        <id>https://www.eurogamer.net/the-new-fear-effect-is-a-third-person-cover-shooter</id>
+        <link href="https://www.eurogamer.net/the-new-fear-effect-is-a-third-person-cover-shooter"/>
+        <updated>2022-08-25T10:09:02.000Z</updated>
+        <summary type="html"><![CDATA[Fear Effect Reinvented just re-emerged with its first gameplay trailer - and the promise of a release date sooner than we think.
+
+
+The video below shows off how different this new Fear Effect looks and plays compared to the originals. 
+
+Square Enix announced Fear Effect Reinvented back in 2017 with a release window of 2018. Obviously that sailed by.
+ Read more]]></summary>
+        <author>
+            <name>Wesley Yin-Poole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dark Souls 3 servers are finally back online]]></title>
+        <id>https://www.eurogamer.net/dark-souls-3-servers-are-finally-back-online</id>
+        <link href="https://www.eurogamer.net/dark-souls-3-servers-are-finally-back-online"/>
+        <updated>2022-08-25T10:04:12.000Z</updated>
+        <summary type="html"><![CDATA[FromSoftware has finally managed to get Dark Souls 3 back online, seven months after PC PvP servers had to be shut down.
+Back in January, PC servers for all Dark Souls games were shuttered due to security issues - and remained down for months. In July, at the 183 day mark, there were signs that Dark Souls 3 could be back online soon - but still no fix.
+Now, at well over 200 days, the PC servers for Dark Souls 3 are now live again. Rejoice!
+ Read more]]></summary>
+        <author>
+            <name>Liv Ngan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dark Souls 3’s PC servers are back online after seven months of downtime]]></title>
+        <id>https://www.rockpapershotgun.com/dark-souls-3s-pc-servers-are-back-online-after-seven-months-of-downtime</id>
+        <link href="https://www.rockpapershotgun.com/dark-souls-3s-pc-servers-are-back-online-after-seven-months-of-downtime"/>
+        <updated>2022-08-25T10:01:53.000Z</updated>
+        <summary type="html"><![CDATA[Elden Ring devs FromSoftware have restored the PC multiplayer servers for Dark Souls 3, the studio has announced today. Servers were disabled for all Dark Souls games in January following the discovery of a security vulnerability that could affect anyone playing Dark Souls 3 online. Today’s restoration marks the first step in getting multiplayer back on track for the series on PC.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>CJ Wheeler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Working On Xilinx CDX Bus Support For The Linux Kernel]]></title>
+        <id>https://www.phoronix.com/news/AMD-Xilinx-CDX-Linux-Patches</id>
+        <link href="https://www.phoronix.com/news/AMD-Xilinx-CDX-Linux-Patches"/>
+        <updated>2022-08-25T09:48:17.000Z</updated>
+        <summary type="html"><![CDATA[In addition to AMD-Xilinx working on new network driver code, a new DRM display driver, and other kernel features recently covered on Phoronix, they are also preparing upstream Linux kernel support for the "CDX" bus with their FPGA devices...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dark Souls 3 has online features reactivated for PC]]></title>
+        <id>https://www.vg247.com/dark-souls-3-has-online-features-reactivated-for-pc</id>
+        <link href="https://www.vg247.com/dark-souls-3-has-online-features-reactivated-for-pc"/>
+        <updated>2022-08-25T09:24:12.000Z</updated>
+        <summary type="html"><![CDATA[For FromSoftware fans and avid Dark Souls players, it's been a long time spent in the dark without online features. Ever since an announcement to Twitter on 9 February, 2022, explaining that there had been some technical difficulties experienced with the Dark Souls games on PC, the online functionality for the series has been unavailable.
+The same announcement said that online services would not resume on PC until after the launch of Elden Ring. Elden Ring released just over two weeks later on February 25, and until now, online services for the Dark Souls series on PC has still not been restored. Simply put, it's been a significant amount of waiting for fans of the series.
+This was in fact due to a Dark Souls exploit that could allow hackers to use remote code execution (RCE) maliciously and even take over another players PC. In a statement to VGC, one player who had discovered the exploit actually shared the details of it to Github and with the developer, but they also stated that little to nothing was done regarding this information until they publicly demonstrated the exploit on Twitch. As a result, the Dark Souls servers then went offline while the developer found a fix for the issues.
+ Read more]]></summary>
+        <author>
+            <name>Kelsey Raynor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shout-out to whoever went to Black Hat with North Korean malware on their PC]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/25/north_korean_malware_black_hat/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/25/north_korean_malware_black_hat/"/>
+        <updated>2022-08-25T09:24:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>I am the one who NOCs</h4> <p>The folks tasked with defending the Black Hat conference network see a lot of weird, sometimes hostile activity, and this year it included malware linked to Kim Jong-un's agents.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You can play Steelrising’s first two levels right now – but there’s a catch]]></title>
+        <id>https://www.vg247.com/steelrising-closed-beta-launch-two-levels</id>
+        <link href="https://www.vg247.com/steelrising-closed-beta-launch-two-levels"/>
+        <updated>2022-08-25T09:22:15.000Z</updated>
+        <summary type="html"><![CDATA[As promised, Steelrising developer Spiders has launched the game's closed beta. The beta is a pre-order bonus for buying either of the game's editions early, and sadly isn't available in any other way.
+The Steelrising beta went live just a few minutes ago, and will continue to be available all the way until September 7, one day before the full game's worldwide release.
+As you'd expect, the content of this beta is limited. You'll have access to the game's first two levels, available to play as many times as you want. You'll also find a couple of weapons to help you in your journey, and you'll even be able to tinker with builds.
+ Read more]]></summary>
+        <author>
+            <name>Sherif Saed</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Explicit Memory Tiers May Be Ready For Linux 6.1]]></title>
         <id>https://www.phoronix.com/news/Linux-6.1-Improve-Memory-Tiers</id>
@@ -35309,46 +35439,6 @@ According to Bloomberg [Paywall], the development of Star Wars: Knights of the O
         <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/air_gap.png" title="You can still do powerline networking, but the bitrate does drop a little depending on the lightbulb warmup and cooldown delay." alt="You can still do powerline networking, but the bitrate does drop a little depending on the lightbulb warmup and cooldown delay." />]]></summary>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Urbek City Builder demands efficient use of natural resources, not money]]></title>
-        <id>https://www.rockpapershotgun.com/urbek-city-builder-demands-efficient-use-of-natural-resources-not-money</id>
-        <link href="https://www.rockpapershotgun.com/urbek-city-builder-demands-efficient-use-of-natural-resources-not-money"/>
-        <updated>2022-07-26T22:09:21.000Z</updated>
-        <summary type="html"><![CDATA[Urbek City Builder looks like a traditional entry to the genre: you place buildings, cars and little people begin to scurry about, and you gradually expand your urban sprawl. The twist is that there's no money fuelling your construction. Instead, your city flourishes or not based on your ability to fulfil each building's resource requirements, which quickly turns progress into more of a puzzle than a management game.
-
-It's out on Steam now, and you can find a trailer of its pretty voxel world below.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A new Tactics Ogre: Reborn leak brings screenshots and a release date]]></title>
-        <id>https://www.rockpapershotgun.com/a-new-tactics-ogre-reborn-leak-brings-screenshots-and-a-release-date</id>
-        <link href="https://www.rockpapershotgun.com/a-new-tactics-ogre-reborn-leak-brings-screenshots-and-a-release-date"/>
-        <updated>2022-07-26T21:34:42.000Z</updated>
-        <summary type="html"><![CDATA[Tactics Ogre: Reborn will reportedly launch on November 11th, according to a new leak. The same leak also includes the first screenshots of Reborn, and a feature list that suggests Reborn is more than a straight port of 2010's Tactics Ogre: Let Us Cling Together.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hard West 2 is so much more than supernatural cowboy XCOM]]></title>
-        <id>https://www.rockpapershotgun.com/hard-west-2-is-so-much-more-than-supernatural-cowboy-xcom</id>
-        <link href="https://www.rockpapershotgun.com/hard-west-2-is-so-much-more-than-supernatural-cowboy-xcom"/>
-        <updated>2022-07-26T21:30:18.000Z</updated>
-        <summary type="html"><![CDATA[Bank robberies are classic cowboy fare. Whether you're up to no good in Red Dead Redemption 2 or stealing from the rich to (sort of) give to the poor in the original Desperados, these temples of cash have long been the scenes of messy shootouts, upturned tables, and big, golden pay-outs. At least when your heist strategy's going according to plan, that is. In an exclusive demo for one of the later levels in Hard West 2, the upcoming sequel to the 2015 turn-based tactics original, Ice Code Games' chief technology officer Mateusz Pilski is starting to feel the heat a bit. The bank is well guarded, with at least half a dozen gunslingers staking out the doors at the front, and untold numbers waiting in hidden nooks and crannies further back. He takes a moment to consider his approach, but he begins his assault with confidence.  
-"In any XCOM-like, when you see that many enemies and that much firepower, in that good a position, you think, okay, I'm fucked up," he tells me. "In just a second, I will show you how you can use Bravado to totally overturn the situation."
-Read more]]></summary>
-        <author>
-            <name>Katharine Castle</name>
         </author>
     </entry>
 </feed>
