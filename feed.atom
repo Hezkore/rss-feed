@@ -2,10 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-25T16:31:51.254Z</updated>
+    <updated>2022-08-25T17:23:40.950Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Compound that 'remembers' phase transitions could have uses in computer memory]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/25/vanadium_oxide_computer_memory/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/25/vanadium_oxide_computer_memory/"/>
+        <updated>2022-08-25T17:04:13.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Researchers ran a current through vanadium dioxide and were never forgiven</h4> <p>Researchers in Switzerland have discovered a compound that can "remember" its previous phase transition states, offering potential applications in computer memory and information processing.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asus OLED-skärmar lanseras och får svenskt pris – 17 990 kronor för 42-tummaren]]></title>
+        <id>https://www.sweclockers.com/artikel/34816</id>
+        <link href="https://www.sweclockers.com/artikel/34816-asus-oled-skarmar-lanseras-och-far-svenskt-pris-17-990-kronor-for-42-tummaren"/>
+        <updated>2022-08-25T17:01:10.000Z</updated>
+        <summary type="html"><![CDATA[De OLED-baserade gamingskärmarna i ROG Swift-serien erbjuds i storlekarna 42 samt 48 tum och landar snart i butik.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I was a Teenage Exocolonist explores the hidden mechanics of memory]]></title>
+        <id>https://www.eurogamer.net/i-was-a-teenage-exocolonist-explores-the-hidden-mechanics-of-memory</id>
+        <link href="https://www.eurogamer.net/i-was-a-teenage-exocolonist-explores-the-hidden-mechanics-of-memory"/>
+        <updated>2022-08-25T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I can't work out whether there are an unusual number of games concerned with memory being released this year, or if I'm just at the right moment in my life to notice them all. Anyway, to add to Hindsight and Arcade Paradise, here's another. I Was a Teenage Exocolonist is the story of a child growing up amongst a group of people who are trying to make a new life on a distant planet. If you put the science fiction elements aside, though, it's a game that explores the many ways in which our past experiences shape us. In other words, it's a game about memory.
+
+
+It's a systems-heavy game, but as I've been playing the last few days I've been trying to look through that layer to get at the things I suspect the game truly seems to want me to see. In Exocolonist, you take your child from the age of ten up until they're twenty. That's it. But that's also quite a lot, because I'm not sure there's a decade more packed with foundational events than the years between your tenth birthday and your twentieth.
+
+
+Exocolonist takes things slowly, too, with the rhythm of the game locked to the changing seasons of the planet you're trying to make a life on. This is lovely, atmospheric stuff, as Quiet gives way to Pollen, and it's neatly functional too. Each month you wander around the base, talk to the adults and any kids who are growing up alongside you, and you choose a single task to do.
+ 
+Read more]]></summary>
+        <author>
+            <name>Christian Donlan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Puzzle game OU dreams of being a modern spin on The Neverending Story]]></title>
+        <id>https://www.rockpapershotgun.com/puzzle-game-ou-dreams-of-being-a-modern-spin-on-the-neverending-story</id>
+        <link href="https://www.rockpapershotgun.com/puzzle-game-ou-dreams-of-being-a-modern-spin-on-the-neverending-story"/>
+        <updated>2022-08-25T16:37:22.000Z</updated>
+        <summary type="html"><![CDATA[Nostalgic yet unknown is perhaps a good way to describe OU upon first glance. It’s a game clearly designed to mimic the picture book imagination of childhood with its hand-drawn visuals and the innocent silent presence of its protagonist, a young boy named OU and his opossum friend. Even its music is reminiscent of some lost, unknown childhood as we’re lulled into the strange world of U-Chronia with the smooth instrumentation of a single guitar and its occasional percussion. Yet it’s clear with the presence of beasts that threaten your safety and a shadowy clone that this isn’t some peaceful retreat into childhood.
+Read more]]></summary>
+        <author>
+            <name>Alicia Haddick</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kopieringsskyddet Denuvo kommer till Nintendo Switch]]></title>
+        <id>https://www.fz.se/artikel/291238</id>
+        <link href="https://www.fz.se/artikel/291238-kopieringsskyddet-denuvo-kommer-till-nintendo-switch"/>
+        <updated>2022-08-25T16:32:00.000Z</updated>
+        <summary type="html"><![CDATA[För att motverka emulering på pc.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Readfile System Call Revised For Efficiently Reading Small Files]]></title>
+        <id>https://www.phoronix.com/news/Linux-Readfile-Syscall-2022</id>
+        <link href="https://www.phoronix.com/news/Linux-Readfile-Syscall-2022"/>
+        <updated>2022-08-25T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Brought up back in 2020 was the readfile system call for efficiently reading small files with the intention of it being simple for reading small files such as those via sysfs, procfs, and similar file-systems. The readfile patches were re-based yesterday against the current Linux 6.0 state, leaving hope that the new system call might finally be sent in for the next kernel cycle...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[One Lonely Outpost gets a new trailer and a delay until 2023]]></title>
         <id>https://www.gamingonlinux.com/2022/08/one-lonely-outpost-gets-a-new-trailer-and-a-delay-until-2023/</id>
