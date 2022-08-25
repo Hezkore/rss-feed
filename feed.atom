@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-25T06:41:33.343Z</updated>
+    <updated>2022-08-25T07:26:41.146Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Här är alla trailers från Future Games Show]]></title>
+        <id>https://www.fz.se/artikel/291232</id>
+        <link href="https://www.fz.se/artikel/291232-har-ar-alla-trailers-fran-future-games-show"/>
+        <updated>2022-08-25T06:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Allt från hungriga tvättbjörnar till mechassisterat jordbruk.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux Mint Release Cycle: What You Need to Know]]></title>
         <id>https://itsfoss.com/?p=101184</id>
@@ -35217,31 +35227,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://shencomix.tumblr.com/post/690868360619130880</id>
-        <link href="https://shencomix.tumblr.com/post/690868360619130880"/>
-        <updated>2022-07-26T19:23:31.000Z</updated>
-        <summary type="html"><![CDATA[Run on your two legs, as far as you can
-You’ll never escape the Renaissance Man
-He’ll only depart when he so desires
-After you’ve shown him a skill he admires]]></summary>
-        <author>
-            <name>Shen Comix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pick up an RTX graphics card for £212 today]]></title>
-        <id>https://www.rockpapershotgun.com/pick-up-an-rtx-graphics-card-for-212-today</id>
-        <link href="https://www.rockpapershotgun.com/pick-up-an-rtx-graphics-card-for-212-today"/>
-        <updated>2022-07-26T18:48:56.000Z</updated>
-        <summary type="html"><![CDATA[The RTX 2060 is the most affordable RTX graphics card, making it your best shout for gaining the hardware to do real-time ray tracing and frame-rate-boosting DLSS without overpaying. This model debuted at £330, got more expensive over time as the worst of the GPU supply shortage hit, and was impossible to find below RRP even after its next-generation successor, the RTX 3060 launched two years later. 
-Now the RTX 2060 has finally dipped in price, making it an ideal time to pick up what is still a powerful and feature-complete graphics card for 1080p or even 1440p gaming. You can pick up a compact EVGA RTX 2060 SC model for just £212 on Amazon right now, a 52% drop from its peak price and a fair deal for the level of performance on offer. 
-Read more]]></summary>
-        <author>
-            <name>Will Judd</name>
         </author>
     </entry>
 </feed>
