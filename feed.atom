@@ -2,10 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-25T18:27:32.056Z</updated>
+    <updated>2022-08-25T19:18:51.009Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Alibaba Cloud launches RISC-V developer platform for edge SoCs]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/25/alibaba_riscv_developer_platform/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/25/alibaba_riscv_developer_platform/"/>
+        <updated>2022-08-25T19:02:11.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Says it's already used Wujian 600 to pull up its own SoC</h4> <p>China's Alibaba has released a development platform to help engineers building high-performance Systems-on-Chip (SoC) silicon based on the RISC-V open architecture, which is claimed to also include an optimized software stack to help speed product rollout.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CrossOver 22 released for running Windows apps and games on Linux]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/crossover-22-released-for-running-windows-apps-and-games-on-linux/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/crossover-22-released-for-running-windows-apps-and-games-on-linux/"/>
+        <updated>2022-08-25T18:58:46.000Z</updated>
+        <summary type="html"><![CDATA[CodeWeavers, the company that works on Proton with Valve and supports Wine development, has announced the released of CrossOver 22.0.0.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung To Keep Using AMD's RDNA GPUs For Exynos SoCs]]></title>
+        <id>BTWAfAjQ87TuLLcxBFbvFg</id>
+        <link href="https://www.tomshardware.com/news/samsung-to-keep-using-amd-rdna-gpus-for-socs"/>
+        <updated>2022-08-25T18:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Despite mediocre results, Samsung plans to continue using AMD's RDNA architectures for own iGPUs.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flaming Espinas joins Monster Hunter Rise: Sunbreak in next free update]]></title>
+        <id>https://www.eurogamer.net/flaming-espinas-coming-to-monster-hunter-rise-sunbreak-in-next-free-update</id>
+        <link href="https://www.eurogamer.net/flaming-espinas-coming-to-monster-hunter-rise-sunbreak-in-next-free-update"/>
+        <updated>2022-08-25T18:45:48.000Z</updated>
+        <summary type="html"><![CDATA[It's only been a couple of weeks since Capcom dropped the first free title update for Monster Hunter Rise's Sunbreak expansion, but already the publisher is teasing Update 2, with a first look at incoming new monster variant Flaming Espinas.
+
+
+Espinas returned to the Monster Hunter series back in August with the launch of Rise's Sunbreak expansion, marking the first time the creature had made the roster in a new game since its debut in 2008's Monster Hunter Frontier 2.0.
+
+
+In its base form, Espinas is a Flying Wyvern capable of paralysis, poison, and fireblight, and while Capcom is yet to reveal how Title Update 2's new Flaming Espinas variant will differ, there's a look at the creature in the publisher's newly revealed teaser trailer below.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPD Win 4 Gets Significant CPU Upgrade Plus Hall Sensor Analog Sticks]]></title>
+        <id>6EouvgcD9Nh4ktgBbQ4NAZ</id>
+        <link href="https://www.tomshardware.com/news/gpd-win-4-gets-significant-cpu-upgrade-plus-hall-sensor-analog-sticks"/>
+        <updated>2022-08-25T18:45:21.000Z</updated>
+        <summary type="html"><![CDATA[The yet to be officially announced GPD Win 4 is expected to come with the muscular AMD Ryzen 7 6800U, upgraded hall effect thumbsticks, a new physical slider keyboard, and more.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phishers who hit Twilio and Cloudflare stole 10k credentials from 136 others]]></title>
+        <id>https://arstechnica.com/?p=1876223</id>
+        <link href="https://arstechnica.com/?p=1876223"/>
+        <updated>2022-08-25T18:27:12.000Z</updated>
+        <summary type="html"><![CDATA[Already regarded among the most advanced, the attacks were also done at a massive scale.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crooks target top execs on Office 365 with MFA-bypass scheme]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/25/microsoft_365_bec/</id>
