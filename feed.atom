@@ -2,10 +2,113 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-25T08:30:16.180Z</updated>
+    <updated>2022-08-25T09:23:05.691Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Explicit Memory Tiers May Be Ready For Linux 6.1]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-Improve-Memory-Tiers</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-Improve-Memory-Tiers"/>
+        <updated>2022-08-25T09:19:31.000Z</updated>
+        <summary type="html"><![CDATA[In addition to MGLRU being planned for Linux 6.1 as a big improvement to the page reclamation code and nice performance benefits, another memory management related change that has been floating on Andrew Morton's "mm-unstable" branch recently has been supporting explicit memory tiers and work around improving the Linux kernel's tired memory support...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warhammer 40K Darktide is a perfect team-bonding exercise with weighty weapons]]></title>
+        <id>https://www.rockpapershotgun.com/warhammer-40k-darktide-is-a-perfect-team-bonding-exercise-with-weighty-weapons</id>
+        <link href="https://www.rockpapershotgun.com/warhammer-40k-darktide-is-a-perfect-team-bonding-exercise-with-weighty-weapons"/>
+        <updated>2022-08-25T09:18:42.000Z</updated>
+        <summary type="html"><![CDATA[Feeling proud is a nice sensation isn't it? I've felt proud a number of times at this year's Gamescom so far, marked first by an excellent McDonald's choice (honey crisp chicken and bacon) on the first evening, followed by a doner kebab that put it to shame. And in a non-savoury twist, today it was being a member of the first squad to complete the Warhammer 40K: Darktide demo mission – the sweetest feeling of them all, and a perfect team-bonding exercise.
+The bonus emotions? Surprise and... not being so surprised. Surprise that we'd accomplished such a feat, but not so much surprise in the game itself. It was, as expected, a good co-op FPS time! But a very familiar one.
+Read more]]></summary>
+        <author>
+            <name>Ed Thorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Dark Pictures: The Devil in Me skrämmer oss i novembermörkret]]></title>
+        <id>https://www.fz.se/artikel/291234</id>
+        <link href="https://www.fz.se/artikel/291234-the-dark-pictures-the-devil-in-me-skrammer-oss-i-novembermorkret"/>
+        <updated>2022-08-25T09:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Releasedatumet spikat.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Halo Infinite - these aren’t teething problems anymore]]></title>
+        <id>https://www.eurogamer.net/halo-infinite-these-arent-teething-problems-anymore</id>
+        <link href="https://www.eurogamer.net/halo-infinite-these-arent-teething-problems-anymore"/>
+        <updated>2022-08-25T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Halo Infinite isn't in the Top 10 of most-played Steam games. In fact, at a little more than six months old - and its fan-favourite multiplayer component entirely free-to-play and available on Steam - Halo Infinite doesn't even breach the top 50 games that boast the highest concurrent player numbers. Or the top 100.
+
+
+At the time of writing, Halo Infinite ranks as the 286th "top game" according to Steam Charts. It bounces up and down around the chart, of course - the highest I saw it hit yesterday was 255th, I think? - but in the last 30 days, its peak concurrent PC count hasn't even breached 8000 players, even though, at its height last November, it boasted over a quarter of a million. According to the same tracker site, Infinite's lacklustre peak concurrent count is down 50 percent compared to last month alone. And that's a problem. 
+
+
+Before you start drafting your angry retort in the comments: yes, I know, concurrent player counts are far from the only metric we can use to measure a game's success, especially when that game has for many, many years been a console exclusive. It is, however, perhaps a symptom of Halo Infinite's chronic malaise and indicative of an unhappy player base.
+ 
+Read more]]></summary>
+        <author>
+            <name>Vikki Blake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GCC Prepares To Drop Support For CompactRISC CR16]]></title>
+        <id>https://www.phoronix.com/news/GCC-Dropping-CompactRISC-CR16</id>
+        <link href="https://www.phoronix.com/news/GCC-Dropping-CompactRISC-CR16"/>
+        <updated>2022-08-25T08:59:01.000Z</updated>
+        <summary type="html"><![CDATA[After being marked as obsolete in GCC 12, GNU Compiler Collection developers are now preparing to remove compiler support for the CompactRISC CR16 architecture in GCC 13...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quiz: Fula grafikkortskartonger]]></title>
+        <id>https://www.sweclockers.com/artikel/34810</id>
+        <link href="https://www.sweclockers.com/artikel/34810-quiz-fula-grafikkortskartonger"/>
+        <updated>2022-08-25T08:58:23.000Z</updated>
+        <summary type="html"><![CDATA[Det fanns en tid då grafikkortskartonger var bland det mest hiskeliga som fanns på butikshyllorna. Hur bra koll har du på olika företags designer genom åren?]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung’s 990 Pro SSD promises fastest-ever PCIe 4.0 read speeds]]></title>
+        <id>https://www.rockpapershotgun.com/samsungs-990-pro-ssd-promises-fastest-ever-pcie-40-read-speeds</id>
+        <link href="https://www.rockpapershotgun.com/samsungs-990-pro-ssd-promises-fastest-ever-pcie-40-read-speeds"/>
+        <updated>2022-08-25T08:55:40.000Z</updated>
+        <summary type="html"><![CDATA[Unnervingly tall gaming monitors aren’t Samsung’s only hardware to get a Gamescom showing. Last night also saw the reveal of the Samsung 990 Pro SSD, a premium designed-for-gaming drive with read speeds up to 7450MB/s – nudging the theoretical limits of its PCIe 4.0 interface. If it actually reaches such speeds in the wild, once it launches in October, that would make it the fastest consumer PCIe 4.0 drive yet. And write speeds aren’t far behind either, at up to 6900MB/s.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>James Archer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Check out my appearance with Brodie on Tech Over Tea]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/check-out-my-appearance-with-brodie-on-tech-over-tea/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/check-out-my-appearance-with-brodie-on-tech-over-tea/"/>
+        <updated>2022-08-25T08:47:04.000Z</updated>
+        <summary type="html"><![CDATA[I had the pleasure of speaking to Brodie Robertson recently on the subject of Linux Gaming, Steam Deck and all sorts of things for you to sit back and chill with.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK's NHS goes to market for $2b HR and payroll system]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/25/nhs_hr_payroll_procurement/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/25/nhs_hr_payroll_procurement/"/>
+        <updated>2022-08-25T08:41:12.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Plans afoot to replace Oracle EBS/AIX system used by 1.8 million staff dating from 2008</h4> <p>The UK's National Health Service (NHS) is in the market for a company to manage HR and a new electronic staff records system as part of a procurement worth up to £1.7 billion ($2 billion).…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sony höjer priset på Playstation 5]]></title>
         <id>https://www.fz.se/artikel/291233</id>
@@ -35246,19 +35349,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Katharine Castle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Quest 2 VR headsets will cost $100 more starting next month]]></title>
-        <id>https://www.rockpapershotgun.com/meta-quest-2-vr-headsets-will-cost-100-more-starting-next-month</id>
-        <link href="https://www.rockpapershotgun.com/meta-quest-2-vr-headsets-will-cost-100-more-starting-next-month"/>
-        <updated>2022-07-26T20:50:34.000Z</updated>
-        <summary type="html"><![CDATA[Meta are increasing the price of all versions of the Meta Quest 2, their flagship wireless VR headset, by $100. They announced the decision in a post on the Oculus blog, saying that the increase in price would help them "continue to invest for the long term and keep driving the VR industry forward." Basically, Meta would like to lose less money now.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
         </author>
     </entry>
 </feed>

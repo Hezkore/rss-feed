@@ -306,6 +306,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/08/check-out-my-appearance-with-brodie-on-tech-over-tea/",
+          "author": "Liam Dawe",
+          "description": "I had the pleasure of speaking to Brodie Robertson recently on the subject of Linux Gaming, Steam Deck and all sorts of things for you to sit back and chill with.",
+          "link": "https://www.gamingonlinux.com/2022/08/check-out-my-appearance-with-brodie-on-tech-over-tea/",
+          "publishedOn": "2022-08-25T08:47:04.000Z",
+          "wordCount": 1032,
+          "title": "Check out my appearance with Brodie on Tech Over Tea",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/263492504id21495gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/08/steam-deck-reservations-continue-to-grow-now-at-its-highest-point/",
           "author": "Liam Dawe",
           "description": "Valve has confirmed two tasty bits of info today for those waiting on getting a Steam Deck, and for those curious about how things are currently going.",
@@ -1702,6 +1712,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/halo-infinite-these-arent-teething-problems-anymore",
+          "author": "Vikki Blake",
+          "description": "Halo Infinite isn't in the Top 10 of most-played Steam games. In fact, at a little more than six months old - and its fan-favourite multiplayer component entirely free-to-play and available on Steam - Halo Infinite doesn't even breach the top 50 games that boast the highest concurrent player numbers. Or the top 100.\r\n\n\r\nAt the time of writing, Halo Infinite ranks as the 286th \"top game\" according to Steam Charts. It bounces up and down around the chart, of course - the highest I saw it hit yesterday was 255th, I think? - but in the last 30 days, its peak concurrent PC count hasn't even breached 8000 players, even though, at its height last November, it boasted over a quarter of a million. According to the same tracker site, Infinite's lacklustre peak concurrent count is down 50 percent compared to last month alone. And that's a problem. \r\n\n\r\nBefore you start drafting your angry retort in the comments: yes, I know, concurrent player counts are far from the only metric we can use to measure a game's success, especially when that game has for many, many years been a console exclusive. It is, however, perhaps a symptom of Halo Infinite's chronic malaise and indicative of an unhappy player base.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/halo-infinite-these-arent-teething-problems-anymore",
+          "publishedOn": "2022-08-25T09:00:00.000Z",
+          "wordCount": 5793,
+          "title": "Halo Infinite - these aren’t teething problems anymore",
+          "imageUrl": "https://assets.reedpopcdn.com/Halo-Header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Halo-Header.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/playstation-5-price-increase-announced-by-30-in-uk",
           "author": "Tom Phillips",
@@ -9467,6 +9487,26 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-6.1-Improve-Memory-Tiers",
+          "author": null,
+          "description": "In addition to MGLRU being planned for Linux 6.1 as a big improvement to the page reclamation code and nice performance benefits, another memory management related change that has been floating on Andrew Morton's \"mm-unstable\" branch recently has been supporting explicit memory tiers and work around improving the Linux kernel's tired memory support...",
+          "link": "https://www.phoronix.com/news/Linux-6.1-Improve-Memory-Tiers",
+          "publishedOn": "2022-08-25T09:19:31.000Z",
+          "wordCount": 1479,
+          "title": "Explicit Memory Tiers May Be Ready For Linux 6.1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/GCC-Dropping-CompactRISC-CR16",
+          "author": null,
+          "description": "After being marked as obsolete in GCC 12, GNU Compiler Collection developers are now preparing to remove compiler support for the CompactRISC CR16 architecture in GCC 13...",
+          "link": "https://www.phoronix.com/news/GCC-Dropping-CompactRISC-CR16",
+          "publishedOn": "2022-08-25T08:59:01.000Z",
+          "wordCount": 1309,
+          "title": "GCC Prepares To Drop Support For CompactRISC CR16",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Compiz-0.9.14.2-Released",
           "author": null,
           "description": "While the Compiz compositing window manager isn't as popular as it was during its early days of adding animated \"bling\" to the Linux desktop or when it was in use by Ubuntu, there still are some users having fun with it and a handful of contributors making some maintenance and other progress to it...",
@@ -11533,6 +11573,26 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/warhammer-40k-darktide-is-a-perfect-team-bonding-exercise-with-weighty-weapons",
+          "author": "Ed Thorn",
+          "description": "Feeling proud is a nice sensation isn't it? I've felt proud a number of times at this year's Gamescom so far, marked first by an excellent McDonald's choice (honey crisp chicken and bacon) on the first evening, followed by a doner kebab that put it to shame. And in a non-savoury twist, today it was being a member of the first squad to complete the Warhammer 40K: Darktide demo mission – the sweetest feeling of them all, and a perfect team-bonding exercise.\nThe bonus emotions? Surprise and... not being so surprised. Surprise that we'd accomplished such a feat, but not so much surprise in the game itself. It was, as expected, a good co-op FPS time! But a very familiar one.\nRead more",
+          "link": "https://www.rockpapershotgun.com/warhammer-40k-darktide-is-a-perfect-team-bonding-exercise-with-weighty-weapons",
+          "publishedOn": "2022-08-25T09:18:42.000Z",
+          "wordCount": 5318,
+          "title": "Warhammer 40K Darktide is a perfect team-bonding exercise with weighty weapons",
+          "imageUrl": "https://assets2.rockpapershotgun.com/warhammer-40000-darktide-key-art-2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/warhammer-40000-darktide-key-art-2.jpg"
+        },
+        {
+          "id": "https://www.rockpapershotgun.com/samsungs-990-pro-ssd-promises-fastest-ever-pcie-40-read-speeds",
+          "author": "James Archer",
+          "description": "Unnervingly tall gaming monitors aren’t Samsung’s only hardware to get a Gamescom showing. Last night also saw the reveal of the Samsung 990 Pro SSD, a premium designed-for-gaming drive with read speeds up to 7450MB/s – nudging the theoretical limits of its PCIe 4.0 interface. If it actually reaches such speeds in the wild, once it launches in October, that would make it the fastest consumer PCIe 4.0 drive yet. And write speeds aren’t far behind either, at up to 6900MB/s.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/samsungs-990-pro-ssd-promises-fastest-ever-pcie-40-read-speeds",
+          "publishedOn": "2022-08-25T08:55:40.000Z",
+          "wordCount": 4951,
+          "title": "Samsung’s 990 Pro SSD promises fastest-ever PCIe 4.0 read speeds",
+          "imageUrl": "https://assets2.rockpapershotgun.com/Samsung-990-Pro.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Samsung-990-Pro.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/investigate-18th-century-murders-in-the-case-of-the-golden-idol-demo",
           "author": "Graham Smith",
@@ -14762,16 +14822,6 @@
           "wordCount": 7335,
           "title": "Hard West 2 is so much more than supernatural cowboy XCOM",
           "imageUrl": "https://assets2.rockpapershotgun.com/hard-west-2-execution.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/hard-west-2-execution.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/meta-quest-2-vr-headsets-will-cost-100-more-starting-next-month",
-          "author": "Graham Smith",
-          "description": "Meta are increasing the price of all versions of the Meta Quest 2, their flagship wireless VR headset, by $100. They announced the decision in a post on the Oculus blog, saying that the increase in price would help them \"continue to invest for the long term and keep driving the VR industry forward.\" Basically, Meta would like to lose less money now.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/meta-quest-2-vr-headsets-will-cost-100-more-starting-next-month",
-          "publishedOn": "2022-07-26T20:50:34.000Z",
-          "wordCount": 4871,
-          "title": "Meta Quest 2 VR headsets will cost $100 more starting next month",
-          "imageUrl": "https://assets2.rockpapershotgun.com/oculus-quest-2-elite-strap-headset.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/oculus-quest-2-elite-strap-headset.jpg"
         }
       ]
     },
@@ -22219,6 +22269,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291234",
+          "author": null,
+          "description": "Releasedatumet spikat.",
+          "link": "https://www.fz.se/artikel/291234-the-dark-pictures-the-devil-in-me-skrammer-oss-i-novembermorkret",
+          "publishedOn": "2022-08-25T09:12:00.000Z",
+          "wordCount": 1820,
+          "title": "The Dark Pictures: The Devil in Me skrämmer oss i novembermörkret",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291234"
+        },
+        {
           "id": "https://www.fz.se/artikel/291233",
           "author": null,
           "description": "Inflation och oro i ekonomin gör PS5:an dyrare.",
@@ -25156,6 +25216,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34810",
+          "author": null,
+          "description": "Det fanns en tid då grafikkortskartonger var bland det mest hiskeliga som fanns på butikshyllorna. Hur bra koll har du på olika företags designer genom åren?",
+          "link": "https://www.sweclockers.com/artikel/34810-quiz-fula-grafikkortskartonger",
+          "publishedOn": "2022-08-25T08:58:23.000Z",
+          "wordCount": 1536,
+          "title": "Quiz: Fula grafikkortskartonger",
+          "imageUrl": "https://www.sweclockers.com/artikel/34810/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34811",
           "author": null,
           "description": "Bolagets nya SSD-enhet slopar PCI Express 5.0, men utlovar kraftigt förbättrad prestanda och energieffektivitet mot föregångaren.",
@@ -27213,6 +27283,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/25/nhs_hr_payroll_procurement/",
+          "author": null,
+          "description": "<h4>Plans afoot to replace Oracle EBS/AIX system used by 1.8 million staff dating from 2008</h4> <p>The UK's National Health Service (NHS) is in the market for a company to manage HR and a new electronic staff records system as part of a procurement worth up to £1.7 billion ($2 billion).…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/25/nhs_hr_payroll_procurement/",
+          "publishedOn": "2022-08-25T08:41:12.000Z",
+          "wordCount": 1426,
+          "title": "UK's NHS goes to market for $2b HR and payroll system",
+          "imageUrl": "https://regmedia.co.uk/2016/09/26/nhs_hosptial_photo_by_marbury_via_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/25/crowpi_l_raspberry_pi_laptop_review/",
           "author": null,
