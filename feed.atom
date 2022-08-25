@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-25T22:23:36.008Z</updated>
+    <updated>2022-08-25T23:31:28.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Twilio, Cloudflare just two of 135 orgs targeted by Oktapus phishing campaign]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/25/twilio_cloudflare_oktapus_phishing/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/25/twilio_cloudflare_oktapus_phishing/"/>
+        <updated>2022-08-25T22:57:13.000Z</updated>
+        <summary type="html"><![CDATA[<h4>This, this is what we mean by a sophisticated cyberattack</h4> <p>Criminals behind the cyberattack attempts on Twilio and Cloudflare earlier this month had cast a much wider net in their phishing expedition, targeting as many as 135 organizations — primarily IT, software development and cloud services providers based in the US.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Harvestella demonstrates its delightful vegetable names]]></title>
+        <id>https://www.rockpapershotgun.com/harvestella-demonstrates-its-delightful-vegetable-names</id>
+        <link href="https://www.rockpapershotgun.com/harvestella-demonstrates-its-delightful-vegetable-names"/>
+        <updated>2022-08-25T22:35:28.000Z</updated>
+        <summary type="html"><![CDATA[Harvestella is Square Enix's chill life simulation game about farming and crystals. It was announced back in June, but a trunk of new details was released today including a lengthy video demonstration in the middle of Nintendo's Treehouse livestream at Gamescom. Watch it below, if only to read the delightful vegetable names.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An herbal remedy caused the death of CA congressman’s wife]]></title>
+        <id>https://arstechnica.com/?p=1876299</id>
+        <link href="https://arstechnica.com/?p=1876299"/>
+        <updated>2022-08-25T22:21:33.000Z</updated>
+        <summary type="html"><![CDATA[A bit of undigested white mulberry leaf was found in the woman's stomach.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Heroku to delete inactive accounts, shut down free tier]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/25/heroku_delete_inactive_free_tier/</id>
@@ -36622,46 +36655,6 @@ YouTuber Eli_handle_b․wav, whom you may know from their excellent Austin Power
         <summary type="html"><![CDATA[QWERTY, Dvorak och Colemak är tre av många olika tangentbordslayouter. Den här veckan undrar vi enligt vilken stil dina bokstäver och tecken är placerade.]]></summary>
         <author>
             <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hobo Cat Adventures features dark humour and souls-like combat - now on Linux]]></title>
-        <id>https://www.gamingonlinux.com/2022/07/hobo-cat-adventures-features-dark-humour-and-souls-like-combat-now-on-linux/</id>
-        <link href="https://www.gamingonlinux.com/2022/07/hobo-cat-adventures-features-dark-humour-and-souls-like-combat-now-on-linux/"/>
-        <updated>2022-07-27T11:31:07.000Z</updated>
-        <summary type="html"><![CDATA[Here's one missed from earlier in July, the colourful 3D platformer Hobo Cat Adventures gained Native Linux support.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cancelled space sim Limit Theory opens up the source code]]></title>
-        <id>https://www.gamingonlinux.com/2022/07/cancelled-space-sim-limit-theory-opens-up-the-source-code/</id>
-        <link href="https://www.gamingonlinux.com/2022/07/cancelled-space-sim-limit-theory-opens-up-the-source-code/"/>
-        <updated>2022-07-27T11:13:05.000Z</updated>
-        <summary type="html"><![CDATA[Limit Theory was a once very promising looking space sim that was funded on Kickstarter. Sadly the developer cancelled it but now as promised they've opened up the source code.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terminal-based game inspired by Pokémon gets a big upgrade with audio]]></title>
-        <id>https://www.gamingonlinux.com/2022/07/terminal-based-game-inspired-by-pokemon-gets-a-big-upgrade-with-audio/</id>
-        <link href="https://www.gamingonlinux.com/2022/07/terminal-based-game-inspired-by-pokemon-gets-a-big-upgrade-with-audio/"/>
-        <updated>2022-07-27T11:03:02.000Z</updated>
-        <summary type="html"><![CDATA[Pokete is a game we introduced you too recently that's inspired by Pokémon but you play it in a terminal. A new release is out bringing some nice advancements.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VRChat adds Easy Anti-Cheat, community not happy but Linux and Steam Deck work fine]]></title>
-        <id>https://www.gamingonlinux.com/2022/07/vrchat-adds-easy-anti-cheat-community-not-happy-but-linux-and-steam-deck-work-fine/</id>
-        <link href="https://www.gamingonlinux.com/2022/07/vrchat-adds-easy-anti-cheat-community-not-happy-but-linux-and-steam-deck-work-fine/"/>
-        <updated>2022-07-27T10:51:43.000Z</updated>
-        <summary type="html"><![CDATA[Despite the name, VRChat is not a VR-only space and it's incredibly popular. Recently though, they added in Easy Anti-Cheat and the community is currently very unhappy with it.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
         </author>
     </entry>
 </feed>
