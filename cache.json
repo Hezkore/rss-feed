@@ -1713,6 +1713,26 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/embracer-group-completes-acquisition-of-square-enixs-western-studios",
+          "author": "Ed Nightingale",
+          "description": "Embracer Group has now completed its acquisition of Square Enix's western studios, namely Crystal Dynamics, Eidos-Montréal, and Square Enix Montréal.\r\n\n\r\nBack in May, Square Enix sold off its western studios and IP (including Tomb Raider and Deus Ex) to Embracer for just $300m.\r\n\r\n\n\r\nNow, three months later, the acquisition has been completed, according to a press release from Embracer.\r\n\r\n \nRead more",
+          "link": "https://www.eurogamer.net/embracer-group-completes-acquisition-of-square-enixs-western-studios",
+          "publishedOn": "2022-08-26T13:08:28.000Z",
+          "wordCount": 4316,
+          "title": "Embracer Group completes acquisition of Square Enix's western studios",
+          "imageUrl": "https://assets.reedpopcdn.com/Embracer-Group-Destacada.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Embracer-Group-Destacada.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/heres-a-lengthy-look-at-square-enixs-fantasy-farming-sim-harvestella",
+          "author": "Matt Wales",
+          "description": "As part of its latest Treehouse: Live showcase, Nintendo has shared a lengthy look at Square Enix's upcoming fantasy farming sim Harvestella, showing off its story, its world exploration and combat, its farming, fishing, and more.\r\n\n\r\nHarvestella - a sort of blend of Final Fantasy, Harvest Moon, and Rune Factory - begins with players waking up with a bad case of amnesia in a world where the seasons are governed by four giant crystals known as Seaslight. Unfortunately for the locals, something has gone awry and a deadly dust known as the Quietus has started seeping from the crystals, trapping people indoors and causing crops to wither and die.\r\n\n\r\nAnd that's not the end of their problems; as players settle into a vacant house on the outskirts of Lethe Village, a huge comet falls to the earth nearby, bringing with it the armoured body of an Omen, thought to be the cause of the calamity. We see some of this in Nintendo's showcase, but the bulk of the play-through is focused around Harvestella's second chapter as players start to explore the dungeon-like Higan Canyon, with help from new pal Dianthus.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/heres-a-lengthy-look-at-square-enixs-fantasy-farming-sim-harvestella",
+          "publishedOn": "2022-08-26T12:57:44.000Z",
+          "wordCount": 4757,
+          "title": "Here's a lengthy look at Square Enix's fantasy farming  sim Harvestella",
+          "imageUrl": "https://assets.reedpopcdn.com/harvestella-leathe-village.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/harvestella-leathe-village.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/nintendo-responds-to-playstation-price-hike",
           "author": "Tom Phillips",
           "description": "Nintendo has joined Microsoft in responding to this week's shock PlayStation 5 price hike, and said it had \"no plans\" to similarly bump up the Nintendo Switch's cost.\r\n\n\r\nIn a statement issued to Eurogamer this morning, Nintendo confirmed it had \"no plans to increase the trade price of its hardware\". \r\n\n\r\nThe response goes further than that of Microsoft's, which last night noted Sony's dramatic decision by simply stating it was keen to \"offer our fans great gaming options\", before reiterating the Xbox Series X and S's launch price point.\r\n \nRead more",
@@ -9867,6 +9887,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/RHEL-10-No-GTK2",
+          "author": null,
+          "description": "While we are about three years out from seeing Red Hat Enterprise Linux 10, it was announced today that the GTK2 toolkit will not be supported in that next major RHEL version...",
+          "link": "https://www.phoronix.com/news/RHEL-10-No-GTK2",
+          "publishedOn": "2022-08-26T13:00:46.000Z",
+          "wordCount": 1358,
+          "title": "Red Hat Enterprise Linux 10 Is Eliminating GTK 2 Support",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Intel-ITM3-Sched-More-Hybrid",
           "author": null,
           "description": "In the year since Intel announced 12th Gen Core \"Alder Lake\" processors there have been a number of patches tuning the Linux kernel's scheduler and other code to better deal with the mix of the performance and efficient cores. While that looked to be all buttoned up for a number of months now with Alder Lake CPUs performing well on Linux, another patch series further adjusting the Linux sched/fair code was published to help with these Intel hybrid processor designs...",
@@ -15421,6 +15451,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "Pg3UgmLrBrUJzzcznXhz2W",
+          "author": null,
+          "description": "Y-Cruncher Author Alexander Yee had to create all his Zen 4 optimizations of AVX-512 for Y-Cruncher by scratch. Nonetheless, he prevailed with Zen 4 support coming in next patch.",
+          "link": "https://www.tomshardware.com/news/ryzen-7000-zen-4-avx-512-y-cruncher-support",
+          "publishedOn": "2022-08-26T13:06:02.000Z",
+          "wordCount": 17708,
+          "title": "AMD Zen 4 Ryzen 7000 AVX512 Optimizations Added to Upcoming Y-Cruncher Release",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/qUAPezz9c9NiNw56DR6cBF.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/qUAPezz9c9NiNw56DR6cBF.jpg"
+        },
+        {
           "id": "BUgEwaApgo8KrsmyJUPX3j",
           "author": null,
           "description": "Viotek’s GNV32DBE delivers high contrast and a large color gamut with its GNV32DBE. A 32-inch curved VA screen features 165 Hz, Adaptive-Sync and HDR for less than $300.",
@@ -20386,6 +20431,16 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1876132",
+          "author": "Scharon Harding",
+          "description": "Apple's more amenable to self-repairs, but complex processes and designs are limiting.",
+          "link": "https://arstechnica.com/?p=1876132",
+          "publishedOn": "2022-08-26T11:30:12.000Z",
+          "wordCount": 1994,
+          "title": "MacBook self-repair program highlights Apple’s flawed repairability progress",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/16-inch-MacBook-Pro-front-760x380.jpeg"
+        },
         {
           "id": "https://arstechnica.com/?p=1875923",
           "author": "Eric Berger",
@@ -26361,6 +26416,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34820",
+          "author": null,
+          "description": "I den nya boken pratar Valve om utvecklingsarbetet bakom såväl spelmaskinen Steam Deck som operativsystemet Steam OS och framtiden för plattformen som helhet.",
+          "link": "https://www.sweclockers.com/artikel/34820-valve-pratar-om-framtiden-for-steam-deck-och-steam-os-i-ny-bok",
+          "publishedOn": "2022-08-26T12:51:46.000Z",
+          "wordCount": 1690,
+          "title": "Valve pratar om framtiden för Steam Deck och Steam OS i ny bok",
+          "imageUrl": "https://www.sweclockers.com/artikel/34820/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34815",
           "author": null,
           "description": "I samband med att Nvidias kvartalsrapport spikas, lovar VD Jensen Huang att berätta mer om den kommande \"Ada Lovelace\"-serien på GTC 2022.",
@@ -27942,6 +28007,16 @@
       "siteUrl": "https://explosm.net",
       "articles": [
         {
+          "id": "https://explosm.net/comics/pick-a-card",
+          "author": null,
+          "description": "New Cyanide and Happiness Comic",
+          "link": "https://explosm.net/comics/pick-a-card",
+          "publishedOn": "2022-08-26T07:06:55.000Z",
+          "wordCount": 640,
+          "title": "Comic for 2022.08.26 - Pick a Card",
+          "imageUrl": null
+        },
+        {
           "id": "https://explosm.net/comics/murder",
           "author": null,
           "description": "New Cyanide and Happiness Comic",
@@ -28179,6 +28254,16 @@
       "siteUrl": "https://tapas.io/series/3346",
       "articles": [
         {
+          "id": "https://tapas.io/episode/2625126",
+          "author": "J. L. Westover",
+          "description": "",
+          "link": "https://tapas.io/episode/2625126",
+          "publishedOn": "2022-08-26T13:33:39.000Z",
+          "wordCount": null,
+          "title": "Hopped Up",
+          "imageUrl": null
+        },
+        {
           "id": "https://tapas.io/episode/2622942",
           "author": "J. L. Westover",
           "description": "",
@@ -28271,6 +28356,16 @@
       "feedUrl": "http://shencomix.tumblr.com/rss",
       "siteUrl": "https://shencomix.tumblr.com/",
       "articles": [
+        {
+          "id": "https://shencomix.tumblr.com/post/693652889783107584",
+          "author": null,
+          "description": "",
+          "link": "https://shencomix.tumblr.com/post/693652889783107584",
+          "publishedOn": "2022-08-26T13:02:25.000Z",
+          "wordCount": 725,
+          "title": "Untitled",
+          "imageUrl": "https://64.media.tumblr.com/0aa33c277b76d28f4d5a8bccdec3be3f/f42d678f9ef3c928-dc/s1280x1920/f0ece2e61529d9c8752cba7d7d06804454ec86e2.png"
+        },
         {
           "id": "https://shencomix.tumblr.com/post/693562100141965312",
           "author": null,
@@ -28468,6 +28563,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/26/ea_stock_volatile_on_amazon/",
+          "author": null,
+          "description": "<h4>Early reports Amazon planned to announce a buy offer for the game studio make share price zigzag</h4> <p>Electronic Arts stock has been volatile this morning on rumors that Amazon was preparing to put in an offer to buy the company that were quickly deemed questionable.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/26/ea_stock_volatile_on_amazon/",
+          "publishedOn": "2022-08-26T12:56:41.000Z",
+          "wordCount": 1196,
+          "title": "EA shares volatile on the back of unconfirmed rumor of Amazon bid",
+          "imageUrl": "https://regmedia.co.uk/2015/11/27/star_wars_battlefront-vader.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/26/facebook_joe_rogan/",
           "author": null,
