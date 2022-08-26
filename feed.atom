@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-26T08:29:23.704Z</updated>
+    <updated>2022-08-26T09:22:38.062Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Facebook Developing THP Shrinker To Avoid Linux Memory Waste]]></title>
+        <id>https://www.phoronix.com/news/Linux-THP-Shrinker</id>
+        <link href="https://www.phoronix.com/news/Linux-THP-Shrinker"/>
+        <updated>2022-08-26T09:17:58.000Z</updated>
+        <summary type="html"><![CDATA[Meta/Facebook engineers have announced their work on THP Shrinker as a way for Linux's Transparent Hugepages (THP) to be more efficient and avoiding memory waste by removing under-utilized transparent hugepages...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LibreOffice Working On New Gestures Support]]></title>
+        <id>https://www.phoronix.com/news/LibreOffice-New-Gestures</id>
+        <link href="https://www.phoronix.com/news/LibreOffice-New-Gestures"/>
+        <updated>2022-08-26T09:06:06.000Z</updated>
+        <summary type="html"><![CDATA[While LibreOffice has supported some input gestures in the past like swiping and long presses with the GTK front-end as well as some Android and iOS specific additions, it looks like greater gesture support is on the way for this cross-platform, open-source office suite...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What we've been playing]]></title>
+        <id>https://www.eurogamer.net/what-weve-been-playing-73</id>
+        <link href="https://www.eurogamer.net/what-weve-been-playing-73"/>
+        <updated>2022-08-26T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello! Welcome back to our regular feature where we write a little bit about some of the games we've found ourselves playing over the last few days. This time: Final Fantasy, Final Fantasy, and one of the greatest games of all time.
+If you fancy catching up on some of the older editions of What We've Been Playing, 
+here's our archive.
+When people talk about Final Fantasy 7, I go a bit quiet because, between you and me, I never actually played it. And I know, I know, but I didn't have a PlayStation so how could I? All I could do was go to my friend's house and watch him play, but there's a limit to how long you can do that before it gets weird and the parents throw you out.
+ Read more]]></summary>
+        <author>
+            <name>Robert Purchese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft efter PS5-prishöjningen: Xbox Series-priserna ligger kvar]]></title>
+        <id>https://www.fz.se/artikel/291245</id>
+        <link href="https://www.fz.se/artikel/291245-microsoft-efter-ps5-prishojningen-xbox-series-priserna-ligger-kvar"/>
+        <updated>2022-08-26T08:45:00.000Z</updated>
+        <summary type="html"><![CDATA[Inga planer just nu på att ändra prislappen på Xbox Series-konsolerna.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lastpass utsatt för dataintrång]]></title>
+        <id>https://www.sweclockers.com/artikel/34819</id>
+        <link href="https://www.sweclockers.com/artikel/34819-lastpass-utsatt-for-dataintrang"/>
+        <updated>2022-08-26T08:42:57.000Z</updated>
+        <summary type="html"><![CDATA[Ett dataintrång har skett hos lösenordshanteraren Lastpass, men enligt bolaget är kundernas uppgifter och lösenord säkra.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Don’t worry, PS5 price increase isn’t going to affect Xbox]]></title>
         <id>https://www.vg247.com/xbox-series-x-s-no-plans-ps5-price-hike</id>
@@ -36465,46 +36519,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[A comparison of the two of the most popular open source office software that are also similar in many respects. This article explains the similarities and differences between LibreOffice and OpenOffice.]]></summary>
         <author>
             <name>Ankush Das</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vincent Bernat: ClickHouse SF Bay Area Meetup: Akvorado]]></title>
-        <id>http://www.luffy.cx/en/blog/2022-clickhouse-meetup-akvorado.html</id>
-        <link href="https://vincent.bernat.ch/en/blog/2022-clickhouse-meetup-akvorado"/>
-        <updated>2022-07-27T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here are the slides I presented for a ClickHouse SF Bay Area Meetup in
-July 2022, hosted by Altinity. They are about Akvorado, a
-network flow collector and visualizer, and notably on how it relies on
-ClickHouse, a column-oriented database.
-Slides in PDF format
-
-The meetup was recorded and available on YouTube. Here is the part
-relevant to my presentation, with subtitles:1
-
-
-I got a few questions about how to get information from the higher
-layers, like HTTP. As my use case for Akvorado was at the network
-edge, my answers were mostly negative. However, as sFlow is
-extensible, when collecting flows from Linux servers instead, you
-could embed additional data and they could be exported as well.
-I also got a question about doing aggregation in a single table.
-ClickHouse can aggregate automatically data using TTL. My answer for
-not doing that is partial. There is another reason: the retention
-periods of the various tables may overlap. For example, the main table
-keeps data for 15 days, but even in these 15 days, if I do a query on
-a 12-hour window, it is faster to use the flows_1m0s aggregated
-table, unless I request something about ports and IP addresses.
-To generate the subtitles, I have used Amazon
-Transcribe, the speech-to-text solution from Amazon AWS.
-Unfortunately, there is no en-FR language available, which would
-have been useful for my terrible accent. While the
-subtitles were 100% accurate when the host, Robert Hodge from
-Altinity, was speaking, the success rate on my talk was quite
-lower. I had to rewrite almost all sentences. However, using
-speech-to-text is still useful to get the timings, as it is also
-something requiring a lot of work to do manually. ↩︎]]></summary>
-        <author>
-            <name>Planet Debian</name>
         </author>
     </entry>
 </feed>

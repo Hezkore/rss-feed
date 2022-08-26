@@ -1713,6 +1713,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/what-weve-been-playing-73",
+          "author": "Robert Purchese",
+          "description": "Hello! Welcome back to our regular feature where we write a little bit about some of the games we've found ourselves playing over the last few days. This time: Final Fantasy, Final Fantasy, and one of the greatest games of all time.\nIf you fancy catching up on some of the older editions of What We've Been Playing, \r\nhere's our archive.\nWhen people talk about Final Fantasy 7, I go a bit quiet because, between you and me, I never actually played it. And I know, I know, but I didn't have a PlayStation so how could I? All I could do was go to my friend's house and watch him play, but there's a limit to how long you can do that before it gets weird and the parents throw you out.\n Read more",
+          "link": "https://www.eurogamer.net/what-weve-been-playing-73",
+          "publishedOn": "2022-08-26T09:00:00.000Z",
+          "wordCount": 5516,
+          "title": "What we've been playing",
+          "imageUrl": "https://assets.reedpopcdn.com/final-fantasy-12-the-zodiac-age-lets-you-speed-up-the-game-1466047551124.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/final-fantasy-12-the-zodiac-age-lets-you-speed-up-the-game-1466047551124.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/microsoft-responds-to-playstation-5-price-hike-news",
           "author": "Matt Wales",
           "description": "Following Sony's announcement that it will be raising the price of PlayStation 5 in select countries, Microsoft has responded to the news, merely noting that existing Xbox Series X/S prices remain the same.\r\n\n\r\nSony announced it would be increasing the cost of PlayStation 5 - in response to \"high global inflation rates, as well as adverse currency trends\" - earlier today, with the price hike impacting most markets around the world, effective immediately.\r\n\n\r\nThat increase affects both the disc and disc-less models of PS5, and equates to £30 in the UK and €50 in Europe - with similar bumps occurring in Japan, China, Australia, Mexico, and Canada, but not the US for the time being.\r\n \nRead more",
@@ -9726,6 +9736,26 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Linux-THP-Shrinker",
+          "author": null,
+          "description": "Meta/Facebook engineers have announced their work on THP Shrinker as a way for Linux's Transparent Hugepages (THP) to be more efficient and avoiding memory waste by removing under-utilized transparent hugepages...",
+          "link": "https://www.phoronix.com/news/Linux-THP-Shrinker",
+          "publishedOn": "2022-08-26T09:17:58.000Z",
+          "wordCount": 1387,
+          "title": "Facebook Developing THP Shrinker To Avoid Linux Memory Waste",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/LibreOffice-New-Gestures",
+          "author": null,
+          "description": "While LibreOffice has supported some input gestures in the past like swiping and long presses with the GTK front-end as well as some Android and iOS specific additions, it looks like greater gesture support is on the way for this cross-platform, open-source office suite...",
+          "link": "https://www.phoronix.com/news/LibreOffice-New-Gestures",
+          "publishedOn": "2022-08-26T09:06:06.000Z",
+          "wordCount": 1415,
+          "title": "LibreOffice Working On New Gestures Support",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/review/intel-arc-graphics-linux",
           "author": null,
@@ -20006,16 +20036,6 @@
           "wordCount": 3570,
           "title": "Dominique Dumont: How I investigated connection hogs on Kubernetes",
           "imageUrl": "https://ddumont.files.wordpress.com/2022/07/2022-07-19-scalegrid-connection-leak.png"
-        },
-        {
-          "id": "http://www.luffy.cx/en/blog/2022-clickhouse-meetup-akvorado.html",
-          "author": null,
-          "description": "Here are the slides I presented for a ClickHouse SF Bay Area Meetup in\nJuly 2022, hosted by Altinity. They are about Akvorado, a\nnetwork flow collector and visualizer, and notably on how it relies on\nClickHouse, a column-oriented database.\nSlides in PDF format\n\nThe meetup was recorded and available on YouTube. Here is the part\nrelevant to my presentation, with subtitles:1\n\n\nI got a few questions about how to get information from the higher\nlayers, like HTTP. As my use case for Akvorado was at the network\nedge, my answers were mostly negative. However, as sFlow is\nextensible, when collecting flows from Linux servers instead, you\ncould embed additional data and they could be exported as well.\nI also got a question about doing aggregation in a single table.\nClickHouse can aggregate automatically data using TTL. My answer for\nnot doing that is partial. There is another reason: the retention\nperiods of the various tables may overlap. For example, the main table\nkeeps data for 15 days, but even in these 15 days, if I do a query on\na 12-hour window, it is faster to use the flows_1m0s aggregated\ntable, unless I request something about ports and IP addresses.\nTo generate the subtitles, I have used Amazon\nTranscribe, the speech-to-text solution from Amazon AWS.\nUnfortunately, there is no en-FR language available, which would\nhave been useful for my terrible accent. While the\nsubtitles were 100% accurate when the host, Robert Hodge from\nAltinity, was speaking, the success rate on my talk was quite\nlower. I had to rewrite almost all sentences. However, using\nspeech-to-text is still useful to get the timings, as it is also\nsomething requiring a lot of work to do manually. ↩︎",
-          "link": "https://vincent.bernat.ch/en/blog/2022-clickhouse-meetup-akvorado",
-          "publishedOn": "2022-07-27T21:00:00.000Z",
-          "wordCount": 471,
-          "title": "Vincent Bernat: ClickHouse SF Bay Area Meetup: Akvorado",
-          "imageUrl": null
         }
       ]
     },
@@ -22988,6 +23008,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291245",
+          "author": null,
+          "description": "Inga planer just nu på att ändra prislappen på Xbox Series-konsolerna.",
+          "link": "https://www.fz.se/artikel/291245-microsoft-efter-ps5-prishojningen-xbox-series-priserna-ligger-kvar",
+          "publishedOn": "2022-08-26T08:45:00.000Z",
+          "wordCount": 1886,
+          "title": "Microsoft efter PS5-prishöjningen: Xbox Series-priserna ligger kvar",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291245"
+        },
         {
           "id": "https://www.fz.se/artikel/291244",
           "author": null,
@@ -26045,6 +26075,16 @@
       "feedUrl": "https://www.sweclockers.com/feeds/nyheter",
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
+        {
+          "id": "https://www.sweclockers.com/artikel/34819",
+          "author": null,
+          "description": "Ett dataintrång har skett hos lösenordshanteraren Lastpass, men enligt bolaget är kundernas uppgifter och lösenord säkra.",
+          "link": "https://www.sweclockers.com/artikel/34819-lastpass-utsatt-for-dataintrang",
+          "publishedOn": "2022-08-26T08:42:57.000Z",
+          "wordCount": 1788,
+          "title": "Lastpass utsatt för dataintrång",
+          "imageUrl": "https://www.sweclockers.com/artikel/34819/og-image"
+        },
         {
           "id": "https://www.sweclockers.com/artikel/34808",
           "author": null,
