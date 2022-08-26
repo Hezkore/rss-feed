@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-26T21:18:52.587Z</updated>
+    <updated>2022-08-26T22:22:40.898Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Details Inner Workings of XeSS]]></title>
+        <id>wBoeQBHCPGTd5DUum6hRjV</id>
+        <link href="https://www.tomshardware.com/news/intel-xess-technology-demo-and-overview"/>
+        <updated>2022-08-26T21:47:57.000Z</updated>
+        <summary type="html"><![CDATA[Intel has detailed the inner workings of XeSS and provided performance and gaming examples of the technology.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Neodash levels are races through chaotic ether realms]]></title>
+        <id>https://www.rockpapershotgun.com/neodash-levels-are-races-through-chaotic-ether-realms</id>
+        <link href="https://www.rockpapershotgun.com/neodash-levels-are-races-through-chaotic-ether-realms"/>
+        <updated>2022-08-26T21:31:02.000Z</updated>
+        <summary type="html"><![CDATA[Not since the cruelly overlooked Blast-off has a game so accurately pressed the faster! button in my brain.
+Neodash is a type of racing game that pops up relatively often; a time trial crossed with an obstacle course and a little of what I suppose is the endless runner. Picture Trackmania but with the courses condensed into short bursts of high speed dodging and you're basically there. They're often very throwaway and don't really hold my interest for long. Neodash grabs hold immediately.
+Read more]]></summary>
+        <author>
+            <name>Sin Vega</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What are you playing this weekend?]]></title>
         <id>https://www.vg247.com/what-are-you-playing-this-weekend-20</id>
@@ -37812,59 +37834,6 @@ On the offical side of things, Straight Back Games, the developer behind the ter
  Read more]]></summary>
         <author>
             <name>Ian Higton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diablo Immortal passes $100m revenue after just eight weeks]]></title>
-        <id>https://www.eurogamer.net/diablo-immortal-passes-100m-revenue-after-just-eight-weeks</id>
-        <link href="https://www.eurogamer.net/diablo-immortal-passes-100m-revenue-after-just-eight-weeks"/>
-        <updated>2022-07-28T10:01:15.000Z</updated>
-        <summary type="html"><![CDATA[Blizzard and NetEase's Diablo Immortal has notched up $100m in player spending after two months, almost entirely without the game's Chinese market. 
-
-
-That's according to reliable app store analytics firm Sensor Tower, which compared Diablo Immortal's start to that of Pokémon Go (which took just two weeks to rake in $100m) and Fire Emblem Heroes (10 weeks). 
-
-
-Diablo Immortal revenues now seem set to accelerate, since the app arrived belatedly in China this week.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retbleed Impact, Overall CPU Security Mitigation Cost For Intel Xeon E3 v5 Skylake]]></title>
-        <id>https://www.phoronix.com/review/xeon-skylake-retbleed</id>
-        <link href="https://www.phoronix.com/review/xeon-skylake-retbleed"/>
-        <updated>2022-07-28T09:55:18.000Z</updated>
-        <summary type="html"><![CDATA[Since the disclosure of Retbleed earlier this month as the newest CPU security vulnerability around speculative execution, I've posted some Intel/AMD benchmarks looking at the mitigation cost for the affected older generations of processors. Last week I also looked at the accumulated CPU mitigation cost on AMD Zen 1. Today is a similar comparison over on the Intel Xeon E3 v5 "Skylake" side with looking at the cost of just the Retbleed mitigations and then the overall CPU mitigation cost when toggling all of the various vulnerabilities with the "mitigations=off" flag.]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PS5 finally gets 1440p support in new beta update, but it's missing a key feature]]></title>
-        <id>https://www.vg247.com/ps5-1440p-support-beta-firmware-gamelists</id>
-        <link href="https://www.vg247.com/ps5-1440p-support-beta-firmware-gamelists"/>
-        <updated>2022-07-28T09:46:26.000Z</updated>
-        <summary type="html"><![CDATA[Sony has shared some news about the next major PlayStation 5 firmware update, which enters beta today. Participants in the US, Canada, UK, Japan, Germany, and France will receive an email today when the download becomes available.
-Sony didn't say when the rest of us will get their hands on the new update, other than "later this year."
-This is one of the bigger firmware updates for PS5. The headline feature is support for 1440p resolutions, something that's invaluable for players using the console on a PC monitor - where that resolution is more popular.
- Read more]]></summary>
-        <author>
-            <name>Sherif Saed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lord Winklebottom Investigates review: a dapper murder mystery with not enough detective work]]></title>
-        <id>https://www.rockpapershotgun.com/lord-winklebottom-investigates-review</id>
-        <link href="https://www.rockpapershotgun.com/lord-winklebottom-investigates-review"/>
-        <updated>2022-07-28T09:31:20.000Z</updated>
-        <summary type="html"><![CDATA[Hear me out a minute. Imagine Sherlock Holmes, but instead of a pompous eccentric, he’s a well-mannered, top hat-wearing... giraffe. And in replacement of his partner John Watson, there was instead a plump hippo in a dapper suit who is constantly quaffing tea. No, you've not accidentally picked up the famous detective’s opium huffing habit, these two curious characters are Sherlock and Watson’s animal counterparts in zoological adventure Lord Winklebottom Investigates.
-The plucky duo, gentleman giraffe Lord Winklebottom and Doctor Frumple the hippo, have been invited to a mysterious island to sit in on a special announcement only to arrive and, by George! There’s been a bleeding murder! It’s a point-and-click affair where you use Talk/Use/Look actions to interact with the environment while also dragging and dropping things from your inventory bar into the world to use them. It’s classic point-and-click through and through.
-Read more]]></summary>
-        <author>
-            <name>Rachel Watts</name>
         </author>
     </entry>
 </feed>
