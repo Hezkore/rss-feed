@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-25T23:31:28.033Z</updated>
+    <updated>2022-08-26T02:35:43.987Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Maps, search results to point women to actual abortion providers]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/26/google_maps_search_roe_wade/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/26/google_maps_search_roe_wade/"/>
+        <updated>2022-08-26T00:25:31.000Z</updated>
+        <summary type="html"><![CDATA[<h4>And not the fake ones that just try to change their minds</h4> <p>Google search results and Maps will clearly label healthcare clinics that provide abortion services, reducing the chances that women in crisis will be misdirected to "clinics" that don't in fact offer healthcare.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google says there's no Waze forward, carpool app axed]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/25/google_waze_carpooling_closes/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/25/google_waze_carpooling_closes/"/>
+        <updated>2022-08-25T23:50:12.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Navigation tool still on the road ... for now</h4> <p>Google is shutting down its Waze carpooling service apparently due to poor demand from workers commuting into the office – although road traffic has bounced back to levels from the start of the COVID-19 pandemic. …</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dirk Eddelbuettel: RApiSerialize 0.1.2 on CRAN: Small Bugfix]]></title>
+        <id>http://dirk.eddelbuettel.com/blog/2022/08/25#rapiserialize_0.1.2</id>
+        <link href="http://dirk.eddelbuettel.com/blog/2022/08/25#rapiserialize_0.1.2"/>
+        <updated>2022-08-25T23:27:00.000Z</updated>
+        <summary type="html"><![CDATA[A new bug fix release 0.1.2 of RApiSerialize got onto CRAN earlier. It follows on the 0.1.1 release from earlier this month, and addresses a minor build issue where an error message, only in the case of missing long vector support, tried to use an i18n macro that is not supplied by the build.
+The RApiSerialize package is used by both my RcppRedis as well as by Travers excellent qs package. Neither one of us has a need to switch to format 3 yet so format 2 remains the default. But along with other standard updates to package internals, it was straightforward to offer the newer format so that is what we did.
+Changes in version 0.1.2 (2022-08-25)
+Correct an error() call (when missing long vector support) to not use i18n macro
+Courtesy of my CRANberries, there is also a diffstat to the previous version. More details are at the RApiSerialize page; code, issue tickets etc at the GitHub repository.
+If you like this or other open-source work I do, you can now sponsor me at GitHub.
+Dirk Eddelbuettel originated on his Thinking inside the box blog. Please report excessive re-aggregation in third-party for-profit settings.]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Twilio, Cloudflare just two of 135 orgs targeted by Oktapus phishing campaign]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/25/twilio_cloudflare_oktapus_phishing/</id>
@@ -36560,101 +36596,6 @@ Dubbed Hypermotion2 by EA Sports, players in FIFA 23 will have a greater freedom
 Read more]]></summary>
         <author>
             <name>James Billcliffe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MultiVersus has what it takes to be the best free-to-play game on PlayStation, Xbox, and PC]]></title>
-        <id>https://www.vg247.com/multiversus-best-free-to-play-game</id>
-        <link href="https://www.vg247.com/multiversus-best-free-to-play-game"/>
-        <updated>2022-07-27T13:51:27.000Z</updated>
-        <summary type="html"><![CDATA[The free-to-play game scene is booming right now. There’s Apex Legends, Final Fantasy 14, Fortnite, Destiny 2, Warframe – and so, so many more besides. But getting to the front of the pack is hard: there’s an ever-increasing number of competitors, and what was once the domain of experimental up-and-comers is now the killing floor for triple-A developers. Yes, indies can make a name for themselves in the space, but the established studios rule the roost now: it’s hard to be a small fish in a big pond when sharks like Epic, EA, Ubisoft and Bungie are milling about. 
-
-The newest addition to this proverbial feeding frenzy? Warner Brothers Interactive Entertainment. Teaming up with relatively unknown studio Player First Games (seriously, the outfit doesn’t even have a Wikipedia page at the time of writing), Warner Bros. has wrestled into the free-to-play market in a meaningful way with MultiVersus – a free-to-play crossover fighting game that has pilfered characters from across the expansive Warner Bros. Discovery catalog. If you don’t know the game, it’s like Smash Bros. Except it’s not.
-Like Smash, you can select a character from any one of some myriad properties. Instead of Nintendo, though, the roster is picked and chosen from licenses from Warner Bros., DC Comics, HBO, Turner Entertainment, and Cartoon Network. So, you can have characters from Scooby-Doo teabagging Steven Universe, or maybe you’ll see Harley Quinn smash a Game of Thrones character around the face. There’s also an original character, Reindog (half reindeer, half dog), who may quietly be the best character in the game. But don’t tell anyone. 
- Read more]]></summary>
-        <author>
-            <name>Dom Peppiatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://shencomix.tumblr.com/post/690936892405989376</id>
-        <link href="https://shencomix.tumblr.com/post/690936892405989376"/>
-        <updated>2022-07-27T13:32:48.000Z</updated>
-        <author>
-            <name>Shen Comix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disney Dreamlight Valley looks like Animal Crossing meets Mickey Mouse]]></title>
-        <id>https://www.rockpapershotgun.com/disney-dreamlight-valley-looks-like-animal-crossing-meets-mickey-mouse</id>
-        <link href="https://www.rockpapershotgun.com/disney-dreamlight-valley-looks-like-animal-crossing-meets-mickey-mouse"/>
-        <updated>2022-07-27T13:28:38.000Z</updated>
-        <summary type="html"><![CDATA[When licensed life sim Disney Dreamlight Valley was revealed in June, I cringed while simultaneously letting out a little “ooh” of excitement. See, Animal Crossing and animated Disney movies have both long been big deals in the Wheeler household, and the new game seemed to be riffing heavily on the former. A fresh gameplay trailer, watchable below, only cements that further.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PS Plus Essential lineup for August confirmed, and it's pretty good]]></title>
-        <id>https://www.vg247.com/ps-plus-essential-lineup-has-reportedly-leaked-for-august-and-its-pretty-good</id>
-        <link href="https://www.vg247.com/ps-plus-essential-lineup-has-reportedly-leaked-for-august-and-its-pretty-good"/>
-        <updated>2022-07-27T12:41:44.000Z</updated>
-        <summary type="html"><![CDATA[It's that time of the month again, and the roster of free games coming to PS Plus in August once again leaked before Sony could make the announcement.
-As per usual, Dealabs leaked the lineup, after having posted the correct lineup of free titles for PS Plus ahead of Sony's official announcement each month.
-According to Dealabs' leak, the roster of games is set to include Yakuza: Like a Dragon and Tony Hawk’s Pro Skater 1+2 Remake for both PS4 and PS5, with Little Nightmares arriving on PS4 only. And as usual, they were right: Sony has confirmed all three titles are coming to the service in August.
- Read more]]></summary>
-        <author>
-            <name>Kelsey Raynor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[September will bring the melee focused Steam Bash Bash event]]></title>
-        <id>https://www.gamingonlinux.com/2022/07/september-will-bring-the-melee-focused-steam-bash-bash-event/</id>
-        <link href="https://www.gamingonlinux.com/2022/07/september-will-bring-the-melee-focused-steam-bash-bash-event/"/>
-        <updated>2022-07-27T12:29:07.000Z</updated>
-        <summary type="html"><![CDATA[Valve has announced that the Steam Bash Bash event will be going live between September 19 and September 26.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stardew Valley inspired magical sim, Wylde Flowers, arrives this autumn]]></title>
-        <id>https://www.vg247.com/stardew-valley-inspired-magical-sim-wylde-flowers-arrives-this-autumn</id>
-        <link href="https://www.vg247.com/stardew-valley-inspired-magical-sim-wylde-flowers-arrives-this-autumn"/>
-        <updated>2022-07-27T12:23:04.000Z</updated>
-        <summary type="html"><![CDATA[Wylde Flowers looks to be the magical mixture of farming sim, Stardew Valley, and the sort of spellcasting you'd expect to see Pelican Town's Wizard pulling off (spoiler: his spells aren't half as cool).
-The magical sim was previously exclusive to Apple Arcade, but it has now been announced that the indie will be coming to PC via Steam and Nintendo Switch on September 20, 2022.
-The charming indie has you step into the shoes of Tara, as she goes on a heart-warming journey to become a witch and restore her grandmother's farm simultaneously. By day, you'll be tilling soil and tending to your farm, but by night, you'll be bonding with your coven and practicing spells. If you wish to live out a whimsical cottagecore lifestyle, this could be the game for you.
- Read more]]></summary>
-        <author>
-            <name>Kelsey Raynor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I can't decide if Indiana Jones is loving or hating the world of Elden Ring]]></title>
-        <id>https://www.vg247.com/indiana-jones-elden-ring-mash-up</id>
-        <link href="https://www.vg247.com/indiana-jones-elden-ring-mash-up"/>
-        <updated>2022-07-27T12:12:20.000Z</updated>
-        <summary type="html"><![CDATA[The best mash-ups are those you don't expect, and it's even better when they work. One such candidate imagines what would happen if legendary adventurer Indiana Jones somehow made it into the world of Elden Ring, with all of its undiscovered mysteries and dangers around every corner.
-But we don't have to imagine this, because someone went ahead and made this crossover.
-YouTuber Eli_handle_b․wav, whom you may know from their excellent Austin Powers in Mass Effect two-parter, has ventured into the world of FromSoftware's latest, and brought Indiana Jones along.
- Read more]]></summary>
-        <author>
-            <name>Sherif Saed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veckans fråga: Vilken layout har ditt tangentbord?]]></title>
-        <id>https://www.sweclockers.com/artikel/34663</id>
-        <link href="https://www.sweclockers.com/artikel/34663-veckans-fraga-vilken-layout-har-ditt-tangentbord"/>
-        <updated>2022-07-27T11:58:21.000Z</updated>
-        <summary type="html"><![CDATA[QWERTY, Dvorak och Colemak är tre av många olika tangentbordslayouter. Den här veckan undrar vi enligt vilken stil dina bokstäver och tecken är placerade.]]></summary>
-        <author>
-            <name>SweClockers</name>
         </author>
     </entry>
 </feed>
