@@ -1713,6 +1713,36 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/total-war-hyenas-developer-creative-assembly-announces-new-action-project",
+          "author": "Victoria Kennedy",
+          "description": "Developer Creative Assembly has revealed it is working on a new \"action project\" that will sit alongside the likes of Total War and its long-in-the-works sci-fi shooter Hyenas.\r\n\n\r\nBut don't expect to hear more on this project anytime soon, Creative Assembly said today. Instead, there will be a \"significant wait before further details are revealed\" on this new franchise. Intriguingly, the company noted it also had plans for a separate \"yet to be announced project\". \r\n\n\r\nWhile Creative Assembly did not go into any specifics about what its new action project will look like, it did state that its studio in Sofia would be leading its development, and noted it was now looking for candidates to join the team that had \"experience working on third-person titles using the Unreal 5 engine\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/total-war-hyenas-developer-creative-assembly-announces-new-action-project",
+          "publishedOn": "2022-08-26T10:16:02.000Z",
+          "wordCount": 4495,
+          "title": "Total War, Hyenas developer Creative Assembly announces new \"action project\"",
+          "imageUrl": "https://assets.reedpopcdn.com/hyenas_SpfDu8t.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/hyenas_SpfDu8t.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/need-for-speed-gameplay-snippet-leaks-online",
+          "author": "Tom Phillips",
+          "description": "A first glimpse at gameplay from the next Need for Speed has popped up online, showing off the game's new visual style.\r\n\n\r\nReportedly due out this November, publisher EA has officially kept very quiet about its upcoming racer, which was previously delayed from 2021. \r\n\n\r\nThis week, screenshots apparently from a work-in-progress build of the still-untitled game began to appear on reddit. Last night, the brief gameplay clip these images were taken from was also posted. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/need-for-speed-gameplay-snippet-leaks-online",
+          "publishedOn": "2022-08-26T10:12:51.000Z",
+          "wordCount": 4573,
+          "title": "Need for Speed gameplay snippet leaks online",
+          "imageUrl": "https://assets.reedpopcdn.com/Need-for-Speed-1.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Need-for-Speed-1.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/surgeon-simulator-and-other-bossa-studios-ip-bought-by-tinybuild-for-3m",
+          "author": "Ed Nightingale",
+          "description": "Bossa Studios' various gaming franchises has been acquired by publisher TinyBuild for $3m.\r\n\n\r\nThose franchises include Surgeon Simulator, I am Fish, and I am Bread, which will now be developed by TinyBuild to allow Bossa to focus on other projects, GamesIndustry.biz reported this morning.\r\n\r\n\n\r\nTinyBuild is known for publishing indie games, including the likes of Hello Neighbor, Graveyard Keeper, Pathologic 2 and more.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/surgeon-simulator-and-other-bossa-studios-ip-bought-by-tinybuild-for-3m",
+          "publishedOn": "2022-08-26T09:51:54.000Z",
+          "wordCount": 4420,
+          "title": "Surgeon Simulator and other Bossa Studios IP bought by TinyBuild for £3m",
+          "imageUrl": "https://assets.reedpopcdn.com/surgeon-simulator-2-launches-for-steam-xbox-in-september-1625751067507.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/surgeon-simulator-2-launches-for-steam-xbox-in-september-1625751067507.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/what-weve-been-playing-73",
           "author": "Robert Purchese",
           "description": "Hello! Welcome back to our regular feature where we write a little bit about some of the games we've found ourselves playing over the last few days. This time: Final Fantasy, Final Fantasy, and one of the greatest games of all time.\nIf you fancy catching up on some of the older editions of What We've Been Playing, \r\nhere's our archive.\nWhen people talk about Final Fantasy 7, I go a bit quiet because, between you and me, I never actually played it. And I know, I know, but I didn't have a PlayStation so how could I? All I could do was go to my friend's house and watch him play, but there's a limit to how long you can do that before it gets weird and the parents throw you out.\n Read more",
@@ -9737,6 +9767,26 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Intel-ITM3-Sched-More-Hybrid",
+          "author": null,
+          "description": "In the year since Intel announced 12th Gen Core \"Alder Lake\" processors there have been a number of patches tuning the Linux kernel's scheduler and other code to better deal with the mix of the performance and efficient cores. While that looked to be all buttoned up for a number of months now with Alder Lake CPUs performing well on Linux, another patch series further adjusting the Linux sched/fair code was published to help with these Intel hybrid processor designs...",
+          "link": "https://www.phoronix.com/news/Intel-ITM3-Sched-More-Hybrid",
+          "publishedOn": "2022-08-26T10:08:10.000Z",
+          "wordCount": 1445,
+          "title": "New Intel Patch Series To Further Help Alder Lake / Hybrid CPUs On Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-Smooth-Sync-Linux",
+          "author": null,
+          "description": "While Intel GPUs support VESA Adaptive-Sync, for Arc Graphics Intel announced Smooth Sync as what amounts to a dithering filter to make screen tearing less of an issue when not running with vsync enabled or lacking an Adaptive-Sync display...",
+          "link": "https://www.phoronix.com/news/Intel-Smooth-Sync-Linux",
+          "publishedOn": "2022-08-26T09:36:21.000Z",
+          "wordCount": 1407,
+          "title": "Intel Smooth Sync Support Being Worked On For Linux Graphics Driver",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-THP-Shrinker",
           "author": null,
           "description": "Meta/Facebook engineers have announced their work on THP Shrinker as a way for Linux's Transparent Hugepages (THP) to be more efficient and avoiding memory waste by removing under-utilized transparent hugepages...",
@@ -9744,6 +9794,16 @@
           "publishedOn": "2022-08-26T09:17:58.000Z",
           "wordCount": 1387,
           "title": "Facebook Developing THP Shrinker To Avoid Linux Memory Waste",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/ASUS-ROG-More-With-Linux-6.1",
+          "author": null,
+          "description": "Thanks to the work of independent developer Luke Jones and as part of his Asusctl Linux project, ASUS laptops continue seeing better feature support on Linux and with the v6.1 cycle kicking off in October are more ASUS ROG laptop enhancements that have been readied...",
+          "link": "https://www.phoronix.com/news/ASUS-ROG-More-With-Linux-6.1",
+          "publishedOn": "2022-08-26T09:11:21.000Z",
+          "wordCount": 1495,
+          "title": "More ASUS ROG Laptop Improvements Queued Ahead Of Linux 6.1",
           "imageUrl": null
         },
         {
@@ -11913,6 +11973,16 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/netflixs-bioshock-movie-finds-its-director-in-the-hunger-games-series-francis-lawrence",
+          "author": "CJ Wheeler",
+          "description": "Streaming giants Netflix have a BioShock movie to make and, after pointing their golf club at various directors, they’ve selected Francis Lawrence. He’s best known for overseeing three of The Hunger Games movies and is working on the prequel coming out next year, The Ballad Of Songbirds And Snakes. \r\n\n\r\nNetflix have also hired screenwriter Michael Green for the BioShock flick. Green wrote the Kenneth Branagh versions of Agatha Christie’s Murder On The Orient Express and Death On The Nile. I guess that means he’s got experience of period settings.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/netflixs-bioshock-movie-finds-its-director-in-the-hunger-games-series-francis-lawrence",
+          "publishedOn": "2022-08-26T10:22:43.000Z",
+          "wordCount": 4943,
+          "title": "Netflix's BioShock movie finds its director in The Hunger Games series' Francis Lawrence",
+          "imageUrl": "https://assets2.rockpapershotgun.com/BioShock-movie-director.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/BioShock-movie-director.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/harvestella-demonstrates-its-delightful-vegetable-names",
           "author": "Graham Smith",
@@ -20172,6 +20242,16 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1876328",
+          "author": "Jonathan M. Gitlin",
+          "description": "Audi is one of two VW Group brands that will enter F1 when the new rules come in.",
+          "link": "https://arstechnica.com/?p=1876328",
+          "publishedOn": "2022-08-26T10:00:34.000Z",
+          "wordCount": 1538,
+          "title": "Audi will build F1 engines, entering the sport in 2026",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/Audi-F1-car-3-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1876061",
           "author": "Eric Berger",
           "description": "\"So it's really quite a difficult technical challenge.\"",
@@ -23008,6 +23088,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291246",
+          "author": null,
+          "description": "Låga lägstakrav.",
+          "link": "https://www.fz.se/artikel/291246-ska-du-segla-skull-and-bones-pa-pc-har-ar-systemkraven",
+          "publishedOn": "2022-08-26T09:35:00.000Z",
+          "wordCount": 1710,
+          "title": "Ska du segla Skull and Bones på pc? Här är systemkraven",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291246"
+        },
         {
           "id": "https://www.fz.se/artikel/291245",
           "author": null,
@@ -28173,6 +28263,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/26/on_call/",
+          "author": null,
+          "description": "<h4>The diagnosis? Ignorance is bliss, but educating users is hell</h4> <p><strong>On Call</strong>  If it's Friday – and we have no reason to believe it is not – then it must be time for another instalment of On-Call, <i>The Register</i>'s weekly tale of techies who rise above the trivial troubles that colleagues demand be addressed with undue haste.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/26/on_call/",
+          "publishedOn": "2022-08-26T09:31:13.000Z",
+          "wordCount": 1303,
+          "title": "Doctor gave patients the wrong test results due to 'printer problems'",
+          "imageUrl": "https://regmedia.co.uk/2022/08/23/shutterstock_medical_maze.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/26/google_maps_search_roe_wade/",
           "author": null,
