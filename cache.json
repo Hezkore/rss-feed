@@ -6881,16 +6881,6 @@
           "wordCount": 5002,
           "title": "Dicebreaker Recommends: Bloodborne: The Card Game, the best way to unplug from Elden Ring",
           "imageUrl": "https://assets.reedpopcdn.com/bloodborne_art_2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/bloodborne_art_2.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/frogwares-remaking-sherlock-holmes-and-cthulhu-crossover-the-awakened",
-          "author": "Matt Wales",
-          "description": "Frogwares, the developer behind last year's investigatory open-world adventure Sherlock Holmes: Chapter One, has announced it's remaking Sherlock Holmes: The Awakened, a Lovecraft-themed crossover the studio originally released back in 2007.\r\n\n\r\nThe Awakened was Frogwares' third Sherlock Holmes adventure, and the developer's ongoing association with the detective has resulted in an additional six instalments in the series since then, meaning it's got years of experience to build on as it reimagines its 2007 title for modern audiences - not to mention its further dalliances with Lovecraft in 2019's The Sinking City.\r\n\n\r\nFrogwares' \"full remake and substantial rewrite\" of The Awakened will shift the events of the original to serve as a continuation of its young Sherlock arc, started in last year's Chapter One. As such, it'll follow a young Sherlock Holmes, along with his new acquaintance John Watson, on his first big case in London - an adventure that'll span Victorian London, a Swiss psychiactric ward, the New Orleans bayous, and the Scottish Highlands as the fledging detective wrestles with dark, Lovecraft-inspired horrors.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/frogwares-remaking-sherlock-holmes-and-cthulhu-crossover-the-awakened",
-          "publishedOn": "2022-07-28T22:16:11.000Z",
-          "wordCount": 4722,
-          "title": "Frogwares remaking Sherlock Holmes and Cthulhu crossover The Awakened",
-          "imageUrl": "https://assets.reedpopcdn.com/1_HosghSO.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/1_HosghSO.jpg"
         }
       ]
     },
@@ -9706,6 +9696,46 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/AMD-Zen-4-LbrExtV2-Linux-Queued",
+          "author": null,
+          "description": "Earlier this month AMD posted Linux kernel patches preparing LbrExtV2 as updated Last Branch Record functionality being introduced with upcoming AMD Zen 4 processors. That LbrExtV2 support for the Linux kernel's \"perf\" subsystem has now been queued up in its respective branch ahead of the Linux 6.1 feature merge window beginning in early October...",
+          "link": "https://www.phoronix.com/news/AMD-Zen-4-LbrExtV2-Linux-Queued",
+          "publishedOn": "2022-08-27T10:05:33.000Z",
+          "wordCount": 1385,
+          "title": "AMD Zen 4 LbrExtV2 Feature Queued Ahead Of Linux 6.1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Ubuntu-22.10-SSHD-Socket-Based",
+          "author": null,
+          "description": "As part of a broader effort to reduce system memory use on Ubuntu Linux particularly for server and container/cloud use-cases, Ubuntu 22.10's OpenSSH server has switched to using socket-based activation...",
+          "link": "https://www.phoronix.com/news/Ubuntu-22.10-SSHD-Socket-Based",
+          "publishedOn": "2022-08-27T09:52:50.000Z",
+          "wordCount": 1409,
+          "title": "Ubuntu 22.10 Optimizing OpenSSH Server Memory Use, Other RAM Optimizations Coming",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Threadripper-5965WX-Dynatron",
+          "author": null,
+          "description": "One of the questions that has come up following my AMD Ryzen Threadripper PRO 5965WX Linux testing has been how well air-cooling is working out for the 280 Watt workstation CPU. Water cooling is, of course, most ideal but there are air coolers that can work out sufficiently too. Here are some quick reference results...",
+          "link": "https://www.phoronix.com/news/Threadripper-5965WX-Dynatron",
+          "publishedOn": "2022-08-27T09:39:43.000Z",
+          "wordCount": 1523,
+          "title": "AMD Ryzen Threadripper 5965WX Cooling With The Dynatron A39 Heatsink",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/GCC-13-OMP-Reverse-Offload-Work",
+          "author": null,
+          "description": "With the OpenMP 5.0 parallel programming specification there is the reverse offload capability for going from the offloaded device back to the system host. The GCC 13 open-source compiler is seeing work recently around supporting this functionality...",
+          "link": "https://www.phoronix.com/news/GCC-13-OMP-Reverse-Offload-Work",
+          "publishedOn": "2022-08-27T09:13:55.000Z",
+          "wordCount": 1353,
+          "title": "GCC 13 Seeing Work On OpenMP 5.0 Reverse Offload Functionality",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/KDE-Rebind-Extra-Mouse-Buttons",
           "author": null,
@@ -15182,16 +15212,6 @@
           "wordCount": 5082,
           "title": "Nier: Automata 'secret church' mystery leads to mod tools and memes",
           "imageUrl": "https://assets2.rockpapershotgun.com/nier-automata-2b.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/nier-automata-2b.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/fire-emblem-creators-new-strategy-rpg-is-out-now-on-steam",
-          "author": "Graham Smith",
-          "description": "If you wish modern Fire Emblem was more focused on strategy RPG battles and less focused on perfect teatimes, then Vestaria Saga 2: The Sacred Sword Of Silvanister might be for you. It's a fantasy turn-based strategy game designed by original Fire Emblem creator Shouzou Kaga with a team of volunteers, and it was released on Steam today with a full English translation.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/fire-emblem-creators-new-strategy-rpg-is-out-now-on-steam",
-          "publishedOn": "2022-07-28T21:39:32.000Z",
-          "wordCount": 4831,
-          "title": "Fire Emblem creator's new strategy RPG is out now on Steam",
-          "imageUrl": "https://assets2.rockpapershotgun.com/vestaria-saga-2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/vestaria-saga-2.jpg"
         }
       ]
     },
@@ -20170,16 +20190,6 @@
           "publishedOn": "2022-07-29T00:00:00.000Z",
           "wordCount": 137,
           "title": "Reproducible Builds (diffoscope): diffoscope 220 released",
-          "imageUrl": null
-        },
-        {
-          "id": "https://mjg59.dreamwidth.org/60654.html",
-          "author": null,
-          "description": "Kaspersky describes a UEFI-implant used to attack Windows systems. Based on it appearing to require patching of the system firmware image, they hypothesise that it's propagated by manually dumping the contents of the system flash, modifying it, and then reflashing it back to the board. This probably requires physical access to the board, so it's not especially terrifying - if you're in a situation where someone's sufficiently enthusiastic about targeting you that they're reflashing your computer by hand, it's likely that you're going to have a bad time regardless.\nBut let's think about why this is in the firmware at all. Sophos previously discussed an implant that's sufficiently similar in some technical details that Kaspersky suggest they may be related to some degree. One notable differe…",
-          "link": "https://mjg59.dreamwidth.org/60654.html",
-          "publishedOn": "2022-07-28T22:19:03.000Z",
-          "wordCount": null,
-          "title": "Matthew Garrett: UEFI rootkits and UEFI secure boot",
           "imageUrl": null
         }
       ]
@@ -26450,6 +26460,16 @@
       "feedUrl": "https://www.sweclockers.com/feeds/nyheter",
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
+        {
+          "id": "https://www.sweclockers.com/artikel/34821",
+          "author": null,
+          "description": "En kombination av test och rykten målar upp en bild av de mer plånboksvänliga kommande Intel-processorerna, där tillägg av effektiva kärnor kantas av lägre klockfrekvenser.",
+          "link": "https://www.sweclockers.com/artikel/34821-intel-core-i5-13400-uppges-oka-karnantalet",
+          "publishedOn": "2022-08-27T09:41:20.000Z",
+          "wordCount": 1753,
+          "title": "Intel Core i5-13400 uppges öka kärnantalet",
+          "imageUrl": "https://www.sweclockers.com/artikel/34821/og-image"
+        },
         {
           "id": "https://www.sweclockers.com/artikel/34822",
           "author": null,
