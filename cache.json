@@ -1703,6 +1703,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/terror-zones-are-coming-to-diablo-2-resurrected",
+          "author": "Vikki Blake",
+          "description": "Diablo 2: Resurrected has launched a public test realm for the upcoming 2.5 patch that boasts an all-new \"experimental\" feature: Terror Zones.\r\n\nAs well as a \"variety of bug fixes to address feedback the community has provided\" Blizzard, Terror Zones see you take up monsters at least two levels higher than you (or their original level) for extra XP and loot in the hope we'll stop \"repeatedly farming\" Baal, Diablo, or Nihlathak.\r\n\n\"The journey to level 99 is a celebrated experience for players and quite the milestone if achieved - a rite of passage, even,\" Blizzard explains in the patch notes. \"We want to offer an alternative to repeatedly farming Baal, Diablo, or Nihlathak. We also want the journey to level 99 to be accessible to a larger population of players, full of variety, and most importantly, challenging - this is where Terror Zones come in. As we get into details, please note that players can choose to opt-out of Terror Zones if desired.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/terror-zones-are-coming-to-diablo-2-resurrected",
+          "publishedOn": "2022-08-27T11:34:48.000Z",
+          "wordCount": 4749,
+          "title": "Terror Zones are coming to Diablo 2: Resurrected",
+          "imageUrl": "https://assets.reedpopcdn.com/diablo-2-resurrected-review-faithful-revival-of-an-uncompromising-classic-1633443961985.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diablo-2-resurrected-review-faithful-revival-of-an-uncompromising-classic-1633443961985.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/nba-2k23-has-all-new-ways-to-play-in-myteam",
           "author": "Vikki Blake",
           "description": "NBA 2K23 has \"all-new ways to play in MyTEAM\", including Triple threat Online: Co-op and Clutch Time single player, as well as the ability to remove contracts. \r\n\n2K also confirmed that the annual $250,000 MyTEAM Unlimited tournament is back this year, too, with two tracks: one for last-gen consoles, and another for PS5 and Xbox Series X/S consoles.\r\n\nTriple Threat Online: Co-op - a new mode to MyTEAM - allows players to partner with friends for 3v3 co-op \"across different variations\" of gameplay. There's also Unlimited, which allows players that reach the top tier to start over and unlock \"even more rewards\" via Season Points, and Clutch Time Single Player enables you to \"jump into a single player version of Clutch Time, a fast-paced mode with a 4-point line, to take your best starting five and compete against the AI\".\r\n \nRead more",
@@ -6919,6 +6929,16 @@
       "feedUrl": "https://www.vg247.com/feed",
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
+        {
+          "id": "https://www.vg247.com/petting-dogs-in-games-old-news-ripout-pet-your-gun",
+          "author": "Dom Peppiatt",
+          "description": "Ripout’s standout feature is not the retro-future 80’s aesthetic. It’s not the excellent gunplay, or the way little aliens that scurry around its industrial spaceships before attaching themselves to bigger aliens and coming to kill you. It’s not the looter shooter aspiration, nor is it the rogue-like setup of its levels. No, it’s the gun. Your gun. Your pet gun.\r\n\nThat’s right, your gun is alive – and it’s not something incessant and irritating like your Johnson in Shadows of the Damned, or those endlessly quipping lunatic firearms in High on Life. Your gun is better; more ‘man’s best friend’ than ‘obnoxious bellend’. In Ripout, you wield a little pet alien, resembling something somewhere between a shrunken-down xenomorph and gothic gargoyle, that fires bullets from its maw and snatches body parts off grotesque aliens. And you can pet it, if you feel so obliged. \nThis living weapon is at the center of everything Ripout is doing. The game, a self-confessed boomer shooter from a team of developers that take rich inspiration from 90s shooters, is a gameplay-first effort that has no cutscenes, no cinematics, and no “fluff” (per the creative director, Goran Rajsic). Instead, the 10-person strong development team has focused all its efforts on the shooting, the level setup, and – of course – your gun. \n Read more",
+          "link": "https://www.vg247.com/petting-dogs-in-games-old-news-ripout-pet-your-gun",
+          "publishedOn": "2022-08-27T11:53:07.000Z",
+          "wordCount": 5245,
+          "title": "Petting dogs in games is old news: in boomer shooter Ripout, you can pet your gun",
+          "imageUrl": "https://asset.vg247.com/Ripout-pet-game.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Ripout-pet-game.jpg"
+        },
         {
           "id": "https://www.vg247.com/what-are-you-playing-this-weekend-20",
           "author": "Stephany Nunneley",
@@ -15251,6 +15271,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "u6KT77o6SXzWxq5JULJoSN",
+          "author": null,
+          "description": "Pine64’s latest RISC-V soldering iron comes in at a low price point, but with features commonly found on more expensive irons.",
+          "link": "https://www.tomshardware.com/reviews/pinecil-v2",
+          "publishedOn": "2022-08-27T12:00:55.000Z",
+          "wordCount": 20285,
+          "title": "Pinecil V2 Review: Smart Soldering Iron, Powered by RISC-V CPU",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/68wfMjmq6wWEKGtQNcDRKo.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/68wfMjmq6wWEKGtQNcDRKo.jpg"
+        },
+        {
           "id": "wBoeQBHCPGTd5DUum6hRjV",
           "author": null,
           "description": "Intel has detailed the inner workings of XeSS and provided performance and gaming examples of the technology.",
@@ -20211,16 +20246,6 @@
           "wordCount": 357,
           "title": "Bits from Debian: New Debian Developers and Maintainers (May and June 2022)",
           "imageUrl": "https://www.debian.org/logos/openlogo-100.png"
-        },
-        {
-          "id": "https://diffoscope.org/news/diffoscope-220-released/",
-          "author": null,
-          "description": "The diffoscope maintainers are pleased to announce the release of diffoscope\nversion 220. This version includes the following changes:\n\n* Support Haskell 9.x series files and update the test files to match. Thanks\n  to Scott Talbert for the relevant info about the new format.\n  (Closes: reproducible-builds/diffoscope#309)\n* Fix a regression introduced in diffoscope version 207 where diffoscope\n  would crash if one directory contained a directory that wasn't in the\n  other. Thanks to Alderico Gallo for the report and the testcase.\n  (Closes: reproducible-builds/diffoscope#310)\n\n\nYou find out more by visiting the project homepage.",
-          "link": "https://diffoscope.org/news/diffoscope-220-released/",
-          "publishedOn": "2022-07-29T00:00:00.000Z",
-          "wordCount": 137,
-          "title": "Reproducible Builds (diffoscope): diffoscope 220 released",
-          "imageUrl": null
         }
       ]
     },
@@ -20348,16 +20373,6 @@
           "wordCount": 230,
           "title": "Omnitaur",
           "imageUrl": "https://imgs.xkcd.com/comics/omnitaur_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2652/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/proxy_variable.png\" title=\"Our work has produced great answers. Now someone just needs to figure out which questions they go with.\" alt=\"Our work has produced great answers. Now someone just needs to figure out which questions they go with.\" />",
-          "link": "https://xkcd.com/2652/",
-          "publishedOn": "2022-07-29T00:00:00.000Z",
-          "wordCount": 232,
-          "title": "Proxy Variable",
-          "imageUrl": "https://imgs.xkcd.com/comics/proxy_variable_2x.png"
         }
       ]
     },
@@ -23313,6 +23328,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291258",
+          "author": null,
+          "description": "Inga döda återupplivas för en andra säsong.",
+          "link": "https://www.fz.se/artikel/291258-netflix-resident-evil-serie-laggs-ned-efter-en-sasong",
+          "publishedOn": "2022-08-27T11:56:59.000Z",
+          "wordCount": 1903,
+          "title": "Netflix Resident Evil-serie läggs ned efter en säsong",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291258"
+        },
         {
           "id": "https://www.fz.se/artikel/291257",
           "author": null,

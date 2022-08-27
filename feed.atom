@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-27T11:18:53.619Z</updated>
+    <updated>2022-08-27T12:43:27.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pinecil V2 Review: Smart Soldering Iron, Powered by RISC-V CPU]]></title>
+        <id>u6KT77o6SXzWxq5JULJoSN</id>
+        <link href="https://www.tomshardware.com/reviews/pinecil-v2"/>
+        <updated>2022-08-27T12:00:55.000Z</updated>
+        <summary type="html"><![CDATA[Pine64’s latest RISC-V soldering iron comes in at a low price point, but with features commonly found on more expensive irons.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix Resident Evil-serie läggs ned efter en säsong]]></title>
+        <id>https://www.fz.se/artikel/291258</id>
+        <link href="https://www.fz.se/artikel/291258-netflix-resident-evil-serie-laggs-ned-efter-en-sasong"/>
+        <updated>2022-08-27T11:56:59.000Z</updated>
+        <summary type="html"><![CDATA[Inga döda återupplivas för en andra säsong.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Petting dogs in games is old news: in boomer shooter Ripout, you can pet your gun]]></title>
+        <id>https://www.vg247.com/petting-dogs-in-games-old-news-ripout-pet-your-gun</id>
+        <link href="https://www.vg247.com/petting-dogs-in-games-old-news-ripout-pet-your-gun"/>
+        <updated>2022-08-27T11:53:07.000Z</updated>
+        <summary type="html"><![CDATA[Ripout’s standout feature is not the retro-future 80’s aesthetic. It’s not the excellent gunplay, or the way little aliens that scurry around its industrial spaceships before attaching themselves to bigger aliens and coming to kill you. It’s not the looter shooter aspiration, nor is it the rogue-like setup of its levels. No, it’s the gun. Your gun. Your pet gun.
+
+That’s right, your gun is alive – and it’s not something incessant and irritating like your Johnson in Shadows of the Damned, or those endlessly quipping lunatic firearms in High on Life. Your gun is better; more ‘man’s best friend’ than ‘obnoxious bellend’. In Ripout, you wield a little pet alien, resembling something somewhere between a shrunken-down xenomorph and gothic gargoyle, that fires bullets from its maw and snatches body parts off grotesque aliens. And you can pet it, if you feel so obliged. 
+This living weapon is at the center of everything Ripout is doing. The game, a self-confessed boomer shooter from a team of developers that take rich inspiration from 90s shooters, is a gameplay-first effort that has no cutscenes, no cinematics, and no “fluff” (per the creative director, Goran Rajsic). Instead, the 10-person strong development team has focused all its efforts on the shooting, the level setup, and – of course – your gun. 
+ Read more]]></summary>
+        <author>
+            <name>Dom Peppiatt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terror Zones are coming to Diablo 2: Resurrected]]></title>
+        <id>https://www.eurogamer.net/terror-zones-are-coming-to-diablo-2-resurrected</id>
+        <link href="https://www.eurogamer.net/terror-zones-are-coming-to-diablo-2-resurrected"/>
+        <updated>2022-08-27T11:34:48.000Z</updated>
+        <summary type="html"><![CDATA[Diablo 2: Resurrected has launched a public test realm for the upcoming 2.5 patch that boasts an all-new "experimental" feature: Terror Zones.
+
+As well as a "variety of bug fixes to address feedback the community has provided" Blizzard, Terror Zones see you take up monsters at least two levels higher than you (or their original level) for extra XP and loot in the hope we'll stop "repeatedly farming" Baal, Diablo, or Nihlathak.
+
+"The journey to level 99 is a celebrated experience for players and quite the milestone if achieved - a rite of passage, even," Blizzard explains in the patch notes. "We want to offer an alternative to repeatedly farming Baal, Diablo, or Nihlathak. We also want the journey to level 99 to be accessible to a larger population of players, full of variety, and most importantly, challenging - this is where Terror Zones come in. As we get into details, please note that players can choose to opt-out of Terror Zones if desired.
+ 
+Read more]]></summary>
+        <author>
+            <name>Vikki Blake</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NBA 2K23 has "all-new ways to play in MyTEAM"]]></title>
         <id>https://www.eurogamer.net/nba-2k23-has-all-new-ways-to-play-in-myteam</id>
@@ -36999,38 +37049,6 @@ Until Elden Ring inevitably gets its own tabletop outing, the Soulsborne board g
         <summary type="html"><![CDATA[i’ve made my peace with it]]></summary>
         <author>
             <name>Shen Comix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reproducible Builds (diffoscope): diffoscope 220 released]]></title>
-        <id>https://diffoscope.org/news/diffoscope-220-released/</id>
-        <link href="https://diffoscope.org/news/diffoscope-220-released/"/>
-        <updated>2022-07-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The diffoscope maintainers are pleased to announce the release of diffoscope
-version 220. This version includes the following changes:
-
-* Support Haskell 9.x series files and update the test files to match. Thanks
-  to Scott Talbert for the relevant info about the new format.
-  (Closes: reproducible-builds/diffoscope#309)
-* Fix a regression introduced in diffoscope version 207 where diffoscope
-  would crash if one directory contained a directory that wasn't in the
-  other. Thanks to Alderico Gallo for the report and the testcase.
-  (Closes: reproducible-builds/diffoscope#310)
-
-
-You find out more by visiting the project homepage.]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proxy Variable]]></title>
-        <id>https://xkcd.com/2652/</id>
-        <link href="https://xkcd.com/2652/"/>
-        <updated>2022-07-29T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/proxy_variable.png" title="Our work has produced great answers. Now someone just needs to figure out which questions they go with." alt="Our work has produced great answers. Now someone just needs to figure out which questions they go with." />]]></summary>
-        <author>
-            <name>xkcd.com</name>
         </author>
     </entry>
 </feed>
