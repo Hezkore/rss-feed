@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-27T02:29:10.540Z</updated>
+    <updated>2022-08-27T04:19:24.639Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
@@ -1572,6 +1572,16 @@ Well, it looks like - for now at least - Microsoft is not contemplating a simila
         <summary type="html"><![CDATA[<h4>And not the fake ones that just try to change their minds</h4> <p>Google search results and Maps will clearly label healthcare clinics that provide abortion services, reducing the chances that women in crisis will be misdirected to "clinics" that don't in fact offer healthcare.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Swirls]]></title>
+        <id>https://xkcd.com/2664/</id>
+        <link href="https://xkcd.com/2664/"/>
+        <updated>2022-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/cloud_swirls.png" title="'Why did you get into fluid dynamics?' 'Well, SOME planet has to have the coolest clouds, odds are it's not ours, and rockets are slow.'" alt="'Why did you get into fluid dynamics?' 'Well, SOME planet has to have the coolest clouds, odds are it's not ours, and rockets are slow.'" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -37175,282 +37185,6 @@ One word of warning though, this video does show footage from most areas in the 
  Read more]]></summary>
         <author>
             <name>Ian Higton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Halo Infinite campaign co-op beta tested - and it's superb fun]]></title>
-        <id>https://www.eurogamer.net/digitalfoundry-2022-halo-infinite-campaign-co-op-beta-tested-and-its-superb-fun</id>
-        <link href="https://www.eurogamer.net/digitalfoundry-2022-halo-infinite-campaign-co-op-beta-tested-and-its-superb-fun"/>
-        <updated>2022-07-28T16:09:02.000Z</updated>
-        <summary type="html"><![CDATA[Seven months after launch, Halo Infinite continues to evolve with 343 Industries embarking on an extended beta testing period for campaign co-op. This is a crucial feature for a Halo title, desperately missed on the game's debut - and clearly a challenge for the developer. After all, Halo has transitioned from a linear shooter into an open world experience, with a vast degree of freedom for the player - and the notion that up to four players can travel the map doing whatever they please wouldn't really make sense. 343's solutions are constrictive - but they do work - and overall impressions are favourable. 
-
-
-First impressions suggest a co-op experience close in nature to those that have gone before - but only because of the nature of the opening brace of campaign chapters. These are entirely linear in nature and 343's strategy in keeping players together is simple: there are certain 'points of no return' - such as passing a door that permanently closes behind you, or kicking off a new cutscene, that reset the positioning for all players. With that in mind, I never felt that the game was artificially keeping us closer together, it felt like a classic Halo co-op experience. 
-
-
-Obviously, this changes in the open world simply because it has to, with 343 setting up what it calls an Area of Operation - or AOO. This is roughly defined as a maximum distance of 300 metres between players, with warnings starting to kick in at around the 250m metre mark. Once too far apart, the player furthest away from the next objective is auto-killed, spawning closer to his counterpart. The end result is that freedom is curtailed, but the fireteam is kept together, essentially forcing a focus on the next target. 
- 
-Read more]]></summary>
-        <author>
-            <name>Alex Battaglia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stray is a wonderful game with a cat, not a cat game that’s wonderful]]></title>
-        <id>https://www.vg247.com/stray-is-a-wonderful-game-with-a-cat-not-a-cat-game-thats-wonderful</id>
-        <link href="https://www.vg247.com/stray-is-a-wonderful-game-with-a-cat-not-a-cat-game-thats-wonderful"/>
-        <updated>2022-07-28T16:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Stray is the first game from French developer, BlueTwelve, and ultimately, it’s an incredibly impressive feat from the team. Not only did Stray claw its way to the top of Steam wishlists the day prior to release, but at the time of writing, it currently sits at the top of Steam’s best of 2022, even surpassing God of War.
-In the words of The Aristocats, everybody wants to be a cat, or so it seems. However, while Stray’s four-legged feline is at the forefront of the game, I raise the argument that it is not the Outsider that makes Stray wonderful. Jumping around as elegantly as a cat would, and causing as much destruction and chaos as one would too, is just part of the fun here. On the whole, Stray's hook is the story of hope and friendship at the center of the experience – I’d argue it's that which has really brought people together, especially given the tumultuous times that we’re currently living in. I should also warn, if you’re yet to finish Stray, there are spoilers ahead.
-Of course, pet owners are rejoicing in the fact that there’s a game for them. I’m not even a pet owner (right now), and this game made me itch to get a cat again like never before. However, I don’t think it is the cat themselves that stirs up this feeling within me. Instead, it’s how this cat touches the lives of everyone around them, including players of the game.
- Read more]]></summary>
-        <author>
-            <name>Kelsey Raynor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GE-Proton 7-27 has the Halo Infinite campaign and videos working on Steam Deck & Linux]]></title>
-        <id>https://www.gamingonlinux.com/2022/07/ge-proton-7-27-halo-infinite-campaign-and-videos-steam-deck-linux/</id>
-        <link href="https://www.gamingonlinux.com/2022/07/ge-proton-7-27-halo-infinite-campaign-and-videos-steam-deck-linux/"/>
-        <updated>2022-07-28T16:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Recently I showed off Halo Infinite running quite nicely online on the Steam Deck and now GE-Proton 7-27 that just went up makes the process even smoother and the campaign and videos now work too.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goat Simulator sequel gets November release on PS5, Xbox Series X/S, and PC]]></title>
-        <id>https://www.eurogamer.net/goat-simulator-sequel-gets-november-release-date-on-ps5-xbox-series-xs-and-pc</id>
-        <link href="https://www.eurogamer.net/goat-simulator-sequel-gets-november-release-date-on-ps5-xbox-series-xs-and-pc"/>
-        <updated>2022-07-28T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Goat Simulator 3 - which, in a fine example of a joke gone wildly out of control, is actually the direct sequel to the original Goat Simulator - has been given a release date and will be launching for PC, Xbox Series X/S, and PS5 on 17th November.
-
-
-The original Goat Simulator, developed by Coffee Stain Studios, launched back in 2014, delivering a daft blast of physics-based nonsense in which players took control of a goat, causing chaos, inflicting damage, and accruing points across an open-world map. 
-
-
-Its goat-themed mayhem struck a chord and the game went on to sell "millions" of copies, in turn convincing Coffee Stain that a sequel was required. Goat Simulator 3 (because sequential numbering be damned) was announced earlier this year, promising, among other things, a new sandbox world known as San Angora, full of quests, collectibles, and secrets.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goat Simulator 3 screams onto PC on November 17th]]></title>
-        <id>https://www.rockpapershotgun.com/goat-simulator-3-screams-onto-pc-on-november-17th</id>
-        <link href="https://www.rockpapershotgun.com/goat-simulator-3-screams-onto-pc-on-november-17th"/>
-        <updated>2022-07-28T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Goats. Why do they exist, and what makes them so loud? Goat Simulator 3 might not answer these deep questions when it bursts onto PC on November 17th, but you can bet it’ll make a lot of noise anyway. Watch the trailer below for a sneaky peek at what's next for the wacky even-toed ungulates.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Electronic Wireless Show episode 195: the best nice blokes in games special]]></title>
-        <id>https://www.rockpapershotgun.com/the-electronic-wireless-show-episode-195-the-best-nice-blokes-in-games-special</id>
-        <link href="https://www.rockpapershotgun.com/the-electronic-wireless-show-episode-195-the-best-nice-blokes-in-games-special"/>
-        <updated>2022-07-28T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Alice is away this week, leaving the lads to their own devices to discuss the best nice blokes in video games. A coincidence? Who can say. What isn't a coincidence is the lateness of this here podcast post, which is a week late. That's my bad, folks, which I think automatically disqualifies me from any kind of 'nice' list from here on out. Ah well. You win some, you lose some.  
-The winners in this week's edition of The Electronic Wireless Show, however, are numerous. Taking that nice engineer chap from Metro Exodus as the absolute pinnacle of 'best nice bloke-ness', Nate and Matthew have framed this week's episode as the four people they'd most like to invite to an afternoon pub trip. Who will make the cut? Listen to find out.
-Read more]]></summary>
-        <author>
-            <name>Katharine Castle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stray gets the multiplayer treatment with this local co-op mod]]></title>
-        <id>https://www.rockpapershotgun.com/stray-gets-the-multiplayer-treatment-with-this-local-co-op-mod</id>
-        <link href="https://www.rockpapershotgun.com/stray-gets-the-multiplayer-treatment-with-this-local-co-op-mod"/>
-        <updated>2022-07-28T15:50:45.000Z</updated>
-        <summary type="html"><![CDATA[A lot of people love cats, as cyberpunk moggy sim Stray showed us when it launched last week. Now, you can enjoy Stray together with some buddies and/or pals thanks to a new multiplayer mod for the game. This is classic stuff people, because we’re talking splitscreen local co-op.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Sims 4 bug is aging characters at an alarming rate]]></title>
-        <id>https://www.vg247.com/this-sims-4-bug-is-aging-characters-at-an-alarming-rate</id>
-        <link href="https://www.vg247.com/this-sims-4-bug-is-aging-characters-at-an-alarming-rate"/>
-        <updated>2022-07-28T15:45:01.000Z</updated>
-        <summary type="html"><![CDATA[Following yesterday's free update to The Sims 4, which will now allow players to choose the sexual orientation of their sims, a rather troublesome bug has emerged. The bug appears to be aging players' characters at an alarming rate.
-If, like me, you can't stand to look after toddlers in The Sims 4, this isn't terrible news. However, the bug is not just affecting toddlers. Simply put, no sim is safe.
-First reported by PCGamer, it appears that this bug is causing sims to grow from toddlers to seniors in just a matter of minutes. The Sims Community website, however, has reported that the issue is primarily affecting those who are using 'short' and 'long' life spans in the game. 
- Read more]]></summary>
-        <author>
-            <name>Kelsey Raynor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Detective adventure Lord Winklebottom Investigates is out now]]></title>
-        <id>https://www.gamingonlinux.com/2022/07/detective-adventure-lord-winklebottom-investigates-is-out-now/</id>
-        <link href="https://www.gamingonlinux.com/2022/07/detective-adventure-lord-winklebottom-investigates-is-out-now/"/>
-        <updated>2022-07-28T15:42:32.000Z</updated>
-        <summary type="html"><![CDATA[Cave Monsters has released their detective adventure game Lord Winklebottom Investigates with Native Linux support.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xenoblade Chronicles will continue beyond 3]]></title>
-        <id>https://www.eurogamer.net/xenoblade-chronicles-will-continue-beyond-3</id>
-        <link href="https://www.eurogamer.net/xenoblade-chronicles-will-continue-beyond-3"/>
-        <updated>2022-07-28T15:35:09.000Z</updated>
-        <summary type="html"><![CDATA[The Xenoblade Chronicles 3 team has assured us that there is still plenty of life left in the series. 
-
-
-Speaking as part of an official interview published by Nintendo, Xenoblade developer Genki Yokota was asked whether we would ever see more from Xenoblade Chronicles, given that he had previously called 3 "the culmination of the series". 
-
-
-In response, Yokota replied: "Yes it will still go on." In fact, he said he wanted to keep it going for "as long as possible".
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What do Rockstar's changes really mean for GTA6 and the games industry?]]></title>
-        <id>https://www.eurogamer.net/what-do-rockstars-changes-really-mean-for-gta6-and-the-games-industry</id>
-        <link href="https://www.eurogamer.net/what-do-rockstars-changes-really-mean-for-gta6-and-the-games-industry"/>
-        <updated>2022-07-28T15:24:48.000Z</updated>
-        <summary type="html"><![CDATA[This week on the Eurogamer Newscast, we're discussing Rockstar, and how its internal improvements may also change its games and the wider games industry.
-
-Yesterday's eye-catching report into Rockstar discussed positive changes for employees and suggested this new company outlook could also be reflected in Grand Theft Auto 6, whenever it finally arrives. How important are these changes, and could the industry as a whole benefit? Or should we be calling some of these things out as long overdue, and simply just a bare minimum? 
-
-Also this week, the Nier: Automata secret church/door - the apparent existence of which has been puzzling fans and the wider internet. Is it a brand new discovery? A very clever mod? Or an incredibly elaborate marketing ploy for a new Nier game by the tight-lipped Yoko Taro? Join Ed Nightingale, Ishraq Subhan, Liv Ngan and myself as we try to explain.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minecraft responds to fans unhappy with new reporting system]]></title>
-        <id>https://www.eurogamer.net/minecraft-responds-to-fans-unhappy-with-new-reporting-system</id>
-        <link href="https://www.eurogamer.net/minecraft-responds-to-fans-unhappy-with-new-reporting-system"/>
-        <updated>2022-07-28T15:21:32.000Z</updated>
-        <summary type="html"><![CDATA[Minecraft Java Edition's new update is here, and developer Mojang has responded to players who still aren't happy with its Player Reporting system. 
-
-The new changes were first introduced a month ago in a pre-release of version 1.19.1  and players were already voicing their concerns online.
-JewelTK, who runs their own Minecraft server, posted a video on Minecraft's subreddit explaining why they were against the change.
- 
-Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Check out Bully in a whole new light with this impressive Unreal Engine 5 showcase]]></title>
-        <id>https://www.vg247.com/bully-unreal-engine-5-showcase</id>
-        <link href="https://www.vg247.com/bully-unreal-engine-5-showcase"/>
-        <updated>2022-07-28T15:20:11.000Z</updated>
-        <summary type="html"><![CDATA[If you’re a fan of Bully - the classic school RPG from the good folk at Rockstar - you’re sure to be interested in a new Unreal Engine 5 showcase shining a new light on the classic title. Created and presented on YouTube by Teaserplay, we get plenty of character, environment, and conversational shots in the new engine.
-The video is currently sitting at a comfy  246,000 views, with numerous fans of the series eager to see the game recreated in modern technology. There are some criticisms of the faces - especially Jimmy’s mug - but this balances out with some genuinely impressive buildings and exterior locations.
-This video isn’t a sudden announcement of a full on fan-remake, but instead a concept trailer showcasing what a full on modern remake could look like. According to the description of the video: “We tried to use all the power and features of Unreal Engine 5 to recreate this such as Lumen, Nanite, Ray Tracing and Metahuman to create Jimmy Hopkins and Dr Crabblesnitch's face”.
- Read more]]></summary>
-        <author>
-            <name>Connor Makar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PS Plus Premium isn't the disaster it's claimed to be – in some ways it's better than Game Pass]]></title>
-        <id>https://www.vg247.com/ps-plus-premium-disaster-better-game-pass</id>
-        <link href="https://www.vg247.com/ps-plus-premium-disaster-better-game-pass"/>
-        <updated>2022-07-28T14:56:41.000Z</updated>
-        <summary type="html"><![CDATA[This November, the PS5 will celebrate its second birthday. Despite some first party bangers – Returnal, I'm looking at you – so far, Sony’s machine’s got off to less of a running start and more of an agonising crawl. It’s a problem that Microsoft’s new boxes aren’t immune to either, but cunningly, Xbox has pulled a rabbit out of a hat. The name of its new floppy-eared friend? Game Pass. While Microsoft has been quietly collecting studios and Sony releases a steady stream of exclusives, by Year Two, there’s one clear winner of this console generation: Game Pass.
-
-Boasting over 25 million subscribers and winning over the hearts and minds of value-loving gamers, the slow-build service has been genuinely disruptive to the video games industry. It’s seen this console generation defined less by ‘next gen’ release and more by a shiny new way to consume them. WIth fan twitter accounts happily parroting Xbox’s ‘best deal in gaming’ and fanboyism now gleefully extending to subscription services, it seemed the battle lines for this generation have already been drawn. It was inevitable then, that Sony would throw itself into the subscription service skirmish. It's chosen battle-ready champion? An all-new, three-tiered PS Plus offering. 
-Rolling out worldwide last month, in these early days, it’s hardly been the valiant comeback Sony hoped for. Following months of leaked information, PS Plus’s 2.0 ‘grand’ reveal was fired out with… well, less of a bang and more an inaudible whimper. Light on PS1 and PS2 classics and looking from a distance like Poundland Game Pass, Sony’s initial offering reeked of a quick money grab. A poorly copied scrap of ‘subscription service 101’ homework. Yet, it turns out, the reality is far from the disaster it seems.
- Read more]]></summary>
-        <author>
-            <name>Tom Regan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Obsidian's Grounded gets a full release this September]]></title>
-        <id>https://www.eurogamer.net/obsidians-grounded-gets-a-full-release-this-september</id>
-        <link href="https://www.eurogamer.net/obsidians-grounded-gets-a-full-release-this-september"/>
-        <updated>2022-07-28T14:53:18.000Z</updated>
-        <summary type="html"><![CDATA[Two years since its launch in early access, Obsidian's garden survival adventure Grounded is finally getting a full release on 27th September. 
-
-
-The announcement was made by game director Adam Brennecke, along with news of a final early access update out today which includes a huge revision to the game's armour and upgrade systems. 
-
-
-There's also a secret feature called the Homestretch included in the update that will be turned on at a later date. 
- 
-Read more]]></summary>
-        <author>
-            <name>Ishraq Subhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quiz: Citat om teknik]]></title>
-        <id>https://www.sweclockers.com/artikel/34662</id>
-        <link href="https://www.sweclockers.com/artikel/34662-quiz-citat-om-teknik"/>
-        <updated>2022-07-28T14:51:26.000Z</updated>
-        <summary type="html"><![CDATA[Citat fungerar både som inspirationskällor och såklart för att påminna personer om allt dumt de sagt. Det är dags att se hur bra koll vi har på vem som hävt ur sig vad.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon has announced its August Games with Prime line-up]]></title>
-        <id>https://www.eurogamer.net/amazon-has-announced-its-august-games-with-prime-line-up</id>
-        <link href="https://www.eurogamer.net/amazon-has-announced-its-august-games-with-prime-line-up"/>
-        <updated>2022-07-28T14:35:52.000Z</updated>
-        <summary type="html"><![CDATA[Amazon has announced the free games available as part of its August Games with Prime lineup.
-
-
-They are: StarCraft: Remastered, Zak McKracken and the Alien Mindbenders, Beasts of Maravilla Island, Recompile, ScourgeBringer and Family Mysteries: Poisonous Promises.
-
-
-All six titles will be available from 1st August for Prime Gaming members.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A year later, A Better Ubisoft says none of its demands have been met]]></title>
-        <id>https://www.eurogamer.net/a-year-later-a-better-ubisoft-says-none-of-its-demands-have-been-met</id>
-        <link href="https://www.eurogamer.net/a-year-later-a-better-ubisoft-says-none-of-its-demands-have-been-met"/>
-        <updated>2022-07-28T14:35:12.000Z</updated>
-        <summary type="html"><![CDATA[A year ago today, the "A Better Ubisoft" group penned an open letter in solidarity with Activision Blizzard workers which also called out Ubisoft's own management for its handling of misconduct scandals in the past. 
-
-
-This group has been campaigning for improved working conditions since the company was hit with allegations of a toxic work environment, including numerous accounts of sexual harassment and assault concerning multiple employees at the company.
-
-
-However, the group says, its demands for change have not been met despite Ubisoft boss Yves Guillemot vowing he would do "everything in [his] power to ensure that everyone... feels welcomed, respected, and safe".
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exoprimal's airborne T-Rex attacks and unstoppable raptor swarms have slammed straight into my heart]]></title>
-        <id>https://www.rockpapershotgun.com/exoprimals-airborne-t-rex-attacks-and-unstoppable-raptor-swarms-have-slammed-straight-into-my-heart</id>
-        <link href="https://www.rockpapershotgun.com/exoprimals-airborne-t-rex-attacks-and-unstoppable-raptor-swarms-have-slammed-straight-into-my-heart"/>
-        <updated>2022-07-28T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[I’ve been excited to play Exoprimal, Capcom’s upcoming multiplayer dino shooter, ever since it used the phrase “unstoppable raptor horde” in one of its trailers. It is a completely unhinged combination of words that makes me giddy just thinking about them. I’ll often find myself muttering them out loud when I’m unloading the dishwasher or folding laundry. “Unstoppable raptor horde”. It’s like the season finale of language. It’s perfect.
-
-
-Admittedly, prior to the existence of that phrase, I was feeling a little sceptical about Exoprimal’s existence. Not only does Capcom have - let’s say - a less than favourable track record when it comes to multiplayer titles, but as a long-term fan of Dino Crisis I was a bit miffed to see them creating a game featuring prehistoric creatures that wasn’t some kind of lavish remake of my beloved PS1 series.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Liam Richardson</name>
         </author>
     </entry>
 </feed>
