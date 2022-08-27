@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-27T17:22:01.508Z</updated>
+    <updated>2022-08-27T18:27:21.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GIMP 2.99.12 Released - "A Huge Milestone Towards GIMP 3.0"]]></title>
+        <id>https://www.phoronix.com/news/GIMP-2.99.12-Released</id>
+        <link href="https://www.phoronix.com/news/GIMP-2.99.12-Released"/>
+        <updated>2022-08-27T18:16:34.000Z</updated>
+        <summary type="html"><![CDATA[GIMP 2.99.12 is out as a weekend surprise as the newest development release towards the GIMP 3.0 image manipulation program's release...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel's Arc A380 Shows Good Compatibility Across 50 Games]]></title>
+        <id>QwggR4QtudnxUQaEYjFuMc</id>
+        <link href="https://www.tomshardware.com/news/intels-arc-a380-shows-good-compatibility-across-50-games"/>
+        <updated>2022-08-27T17:45:10.000Z</updated>
+        <summary type="html"><![CDATA[The German publication PC Games Hardware tests Intel's Arc A380 graphics card across 50 titles between 1999 and 2022.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nightdive Studios says the fate of a third System Shock game lies in Tencent's hands]]></title>
         <id>https://www.eurogamer.net/nightdive-studios-says-the-fate-of-a-third-system-shock-game-lies-in-tencents-hands</id>
