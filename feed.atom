@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-28T05:32:06.507Z</updated>
+    <updated>2022-08-28T06:27:40.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[7 Minimalist Linux Distributions Featuring Openbox]]></title>
+        <id>https://itsfoss.com/?p=101254</id>
+        <link href="https://itsfoss.com/openbox-distros/"/>
+        <updated>2022-08-28T06:01:10.000Z</updated>
+        <summary type="html"><![CDATA[Openbox is a lightweight, configurable, stacking window manager. Here are a few distros that provide Openbox preconfigured.]]></summary>
+        <author>
+            <name>Anuj Sharma</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nilla Hansson tar oss med bakom kulisserna på Horizon Forbidden West]]></title>
         <id>https://www.fz.se/artikel/291261</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[Ms.Hansson berättar om motioncapture-arbetet i Aloys senaste äventyr.]]></summary>
         <author>
             <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comic for 2022.08.28 - 2009 Chris Brown]]></title>
+        <id>https://explosm.net/comics/2009-chris-brown</id>
+        <link href="https://explosm.net/comics/2009-chris-brown"/>
+        <updated>2022-08-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
+        <author>
+            <name>Explosm.net</name>
         </author>
     </entry>
     <entry>
@@ -36640,19 +36660,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[FZ listar de viktigaste spelsläppen under 2023. Tips, feedback och rättningar mottages tacksamt, se länkar nertill på sidan.]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Outer Wilds and What Remains of Edith Finch upgrades on PS5 and Xbox Series X will be free]]></title>
-        <id>https://www.vg247.com/outer-wilds-and-what-remains-of-edith-finch-ps5-xbox-series-x</id>
-        <link href="https://www.vg247.com/outer-wilds-and-what-remains-of-edith-finch-ps5-xbox-series-x"/>
-        <updated>2022-07-29T17:38:42.000Z</updated>
-        <summary type="html"><![CDATA[Annapurna Interactive announced yesterday during its games showcase upgraded versions of both Outer Wilds and What Remains of Edith Finch are coming to PS5 and Xbox Series X/S.
-Both games will see a 60fps upgrade on the consoles, while Edith Finch will also benefit from 4K on PS5 and Xbox Series X.
-The Outer Wilds upgrade will be made available on September 15, and it's a free download if you already own the game.
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
         </author>
     </entry>
 </feed>
