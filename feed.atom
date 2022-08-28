@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-28T22:21:48.002Z</updated>
+    <updated>2022-08-28T23:22:35.130Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.0-rc3 Released In Marking 31 Years Since Linus Torvalds Announced It]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.0-rc3-Released</id>
+        <link href="https://www.phoronix.com/news/Linux-6.0-rc3-Released"/>
+        <updated>2022-08-28T22:39:51.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvalds just released the third weekly release candidate of the upcoming Linux 6.0 kernel...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Andrew Cater: Debian Barbeque, Cambridge 2022]]></title>
         <id>tag:blogger.com,1999:blog-8085113335874848981.post-1341284339746215209</id>
@@ -36930,48 +36940,6 @@ chiark’s OS install dates to 1993, when I installed Debian 0.93R5, the first v
 Obviously it’s had several new ha…]]></summary>
         <author>
             <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GTA VI skulle ha utspelats sig i tre städer med fyra spelbara protagonister]]></title>
-        <id>https://www.fz.se/artikel/290948</id>
-        <link href="https://www.fz.se/artikel/290948-gta-vi-skulle-ha-utspelats-sig-i-tre-stader-med-fyra-spelbara-protagonister"/>
-        <updated>2022-07-30T11:05:52.000Z</updated>
-        <summary type="html"><![CDATA[Rockstars inledande planer för GTA VI var storskaliga.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Survival Fest kicks off next week]]></title>
-        <id>https://www.eurogamer.net/steam-survival-fest-kicks-off-next-week</id>
-        <link href="https://www.eurogamer.net/steam-survival-fest-kicks-off-next-week"/>
-        <updated>2022-07-30T11:02:44.000Z</updated>
-        <summary type="html"><![CDATA[Steam's next event will be Steam Survival Fest, a celebration of survival games that will include "demos and discounts on games that test your ability to survive the elements".
-
-Kicking off on 1st August and running for a week, Valve says that whilst it's "impossible to prepare to survive everything, you can prep for this event by marking your calendars".
-
-"August 1st - August 8th, Steam Survival Fest is a Festival of Fortitude celebrating the struggle to beat the elements with discounts and demos on current and upcoming survival games of all kinds," read Steam's promotional blurb.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Assassin's Creed is coming to PUBG Battlegrounds next month]]></title>
-        <id>https://www.eurogamer.net/assassins-creed-is-coming-to-pubg-battlegrounds-next-month</id>
-        <link href="https://www.eurogamer.net/assassins-creed-is-coming-to-pubg-battlegrounds-next-month"/>
-        <updated>2022-07-30T10:42:55.000Z</updated>
-        <summary type="html"><![CDATA[Assassin's Creed will be stopping by for a visit in PUBG: Battlegrounds later this summer (or Q3, for those of you in the southern hemisphere).
-
-The crossover event will bring Assassin's Creed-themed cosmetics, events, and "world elements" from 17th August until 22nd September.
-
-There'll be costumes, bag skins, parachute skin, emote, gun charm and spray item up for grabs, as well as Abstergo Industries Infiltrate Haven, themed resources and props on the Haven map where you just may find a hidden Animus machine and Leap of Faith ledges…
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
         </author>
     </entry>
 </feed>
