@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-28T10:25:03.165Z</updated>
+    <updated>2022-08-28T11:18:18.497Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Splatoon 3 cheaters are reportedly getting console and Nintendo Switch Online bans]]></title>
+        <id>https://www.eurogamer.net/splatoon-3-cheaters-are-reportedly-getting-console-and-nintendo-switch-online-bans</id>
+        <link href="https://www.eurogamer.net/splatoon-3-cheaters-are-reportedly-getting-console-and-nintendo-switch-online-bans"/>
+        <updated>2022-08-28T10:54:50.000Z</updated>
+        <summary type="html"><![CDATA[Players are already trying to cheat in Splatoon 3, and Nintendo's already banning them.
+
+As spotted by Nintendo dataminer OatmealDome, Nintendo is reportedly cracking down on players who are modifying the game, including a patch that let players prematurely enter the testing range. 
+
+Affected players are getting console bans and "possibly" total bans from subscription service Nintendo Switch Online, too, without which players cannot access multiplayer features. 
+ 
+Read more]]></summary>
+        <author>
+            <name>Vikki Blake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu Isn't Yet Onboard With GNOME's "Device Security" Screen]]></title>
+        <id>https://www.phoronix.com/news/Ubuntu-No-GNOME-Device-Security</id>
+        <link href="https://www.phoronix.com/news/Ubuntu-No-GNOME-Device-Security"/>
+        <updated>2022-08-28T10:47:51.000Z</updated>
+        <summary type="html"><![CDATA[Coming with GNOME 43 is a "Device Security" panel within the GNOME Control Center. While intended to help ensure their system is protected, Ubuntu isn't onboard with this Device Security functionality yet and has stripped it out from their GNOME build for Ubuntu 22.10...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nintendo reaffirms it has no plans to increase Switch cost following PS5 price hike]]></title>
         <id>https://www.vg247.com/nintendo-wont-increase-cost-of-switch</id>
