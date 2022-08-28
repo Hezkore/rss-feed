@@ -6720,6 +6720,26 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/nintendo-wont-increase-cost-of-switch",
+          "author": "Oisin Kuhnke",
+          "description": "After Sony recently announced it is raising the price of the PS5, Nintendo has reaffirmed that it has no plans to do the same with the Switch.\nEarlier this week, Sony announced the PS5 is getting more expensive pretty much everywhere in the world bar the US, going up by £30 in the UK. In response to that, Microsoft confirmed it wouldn't raise the price of the Xbox Series X or S. Now, in a statement to Eurogamer, Nintendo confirmed that it too has \"no plans\" to increase the cost of the Switch. \nThe statement reaffirmed comments made by Nintendo president Shuntaro Furukawa in June at the 82nd annual general meeting of shareholders, saying \"\"'While we cannot comment on pricing strategies, we currently do not have any plans to change the price of our hardware due to inflation or increased procurement costs in each country. We will determine our future pricing strategies through careful and continued deliberations.'\"\n Read more",
+          "link": "https://www.vg247.com/nintendo-wont-increase-cost-of-switch",
+          "publishedOn": "2022-08-28T10:16:05.000Z",
+          "wordCount": 4529,
+          "title": "Nintendo reaffirms it has no plans to increase Switch cost following PS5 price hike",
+          "imageUrl": "https://asset.vg247.com/nintendo-switch_DCi5XQ0.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/nintendo-switch_DCi5XQ0.jpg"
+        },
+        {
+          "id": "https://www.vg247.com/knockout-city-teenage-mutant-ninja-turtles",
+          "author": "Oisin Kuhnke",
+          "description": "The Teenage Mutant Ninja Turtles are coming to the dodgeball-chucking multiplayer arena game Knockout City next week.\nSeason 7 of Knockout City has been revealed, Mutant Mutiny, bringing some new brawlers to the game - the mutants. \"Honing their skills in the darkness of the sewers below, The Mutants aren’t just incredible brawlers – they’re a tight-knit Crew built on trust, respect, and camaraderie,\" writes the blog post announcing their arrival.\nOf course, the most eye-catching addition to this season are the turtles in a half shell themselves, a description that's still a bit confusing, The Teenage Mutant Ninja Turtles. Once season 7 launches August 30, so in just a couple of days time, you'll be able to buy a bundle with all four turtles - Leonardo, Raphael, Michelangelo, and Donatello - and play as them in any dodgebrawl match.\n Read more",
+          "link": "https://www.vg247.com/knockout-city-teenage-mutant-ninja-turtles",
+          "publishedOn": "2022-08-28T09:22:51.000Z",
+          "wordCount": 4611,
+          "title": "Knockout City goes semi-aquatic as Teenage Mutant Ninja Turtles join in Season 7",
+          "imageUrl": "https://asset.vg247.com/tmnt-knockout-city.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/tmnt-knockout-city.jpg"
+        },
+        {
           "id": "https://www.vg247.com/petting-dogs-in-games-old-news-ripout-pet-your-gun",
           "author": "Dom Peppiatt",
           "description": "Ripout’s standout feature is not the retro-future 80’s aesthetic. It’s not the excellent gunplay, or the way little aliens that scurry around its industrial spaceships before attaching themselves to bigger aliens and coming to kill you. It’s not the looter shooter aspiration, nor is it the rogue-like setup of its levels. No, it’s the gun. Your gun. Your pet gun.\r\n\nThat’s right, your gun is alive – and it’s not something incessant and irritating like your Johnson in Shadows of the Damned, or those endlessly quipping lunatic firearms in High on Life. Your gun is better; more ‘man’s best friend’ than ‘obnoxious bellend’. In Ripout, you wield a little pet alien, resembling something somewhere between a shrunken-down xenomorph and gothic gargoyle, that fires bullets from its maw and snatches body parts off grotesque aliens. And you can pet it, if you feel so obliged. \nThis living weapon is at the center of everything Ripout is doing. The game, a self-confessed boomer shooter from a team of developers that take rich inspiration from 90s shooters, is a gameplay-first effort that has no cutscenes, no cinematics, and no “fluff” (per the creative director, Goran Rajsic). Instead, the 10-person strong development team has focused all its efforts on the shooting, the level setup, and – of course – your gun. \n Read more",
@@ -9436,6 +9456,26 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Ubuntu-22.10-webp-pixbuf-loader",
+          "author": null,
+          "description": "Prior to this past week's Ubuntu 22.10 feature freeze, webp-pixbuf-loader was promoted to the main archive for allowing WebP images to have thumbnail support within the GNOME desktop on this next Ubuntu release and being able to open up WebP image files within the GNOME image viewer and the like...",
+          "link": "https://www.phoronix.com/news/Ubuntu-22.10-webp-pixbuf-loader",
+          "publishedOn": "2022-08-28T09:39:54.000Z",
+          "wordCount": 1280,
+          "title": "Ubuntu 22.10 To Ship With WebP Image Support Out-Of-The-Box",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/RadeonSI-GLThread-Default-MR",
+          "author": null,
+          "description": "Longtime AMD open-source Linux graphics developer Marek Olšák is at it again with some interesting optimizations for RadeonSI Gallium3D and is eyeing at enabling OpenGL threading by default...",
+          "link": "https://www.phoronix.com/news/RadeonSI-GLThread-Default-MR",
+          "publishedOn": "2022-08-28T09:23:34.000Z",
+          "wordCount": 1564,
+          "title": "AMD Radeon Linux OpenGL Driver Makes More Optimizations, Eyes GL Threading By Default",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Linux-6.1-Early-Changes",
           "author": null,
@@ -19468,6 +19508,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "http://blog.sesse.net/blog/tech/2022-08-28-10-51_av1_live_streaming_muxing_and_streaming.txt.html",
+          "author": null,
+          "description": "Following up on my previous posts, I've finally gotten to the part of the\nactual streaming (which includes muxing). It's not super-broad over all\npossible clients, but it probably gives enough information to tell roughly\nwhere we are.\nFirst, the bad news: There is no iOS support for AV1. People had high\nhopes after it turned out the latest iOS 16 betas support AVIF, and\neven embedded a copy of dav1d\nto do so, but according to my own testing, this doesn't extend to video\nat all. Not as standalone files, not as <video&gt>. (I don't know about Safari\non macOS; I haven't tested.)\nWith that out the way, let's test the different muxes:\nWebM, continuous file: Given the close historical ties between VP8/VP9 and AV1,\none would suppose WebM/Matroska would be the best-working mux for AV1.\nSurprisingl…",
+          "link": "http://blog.sesse.net/blog/tech/2022-08-28-10-51_av1_live_streaming_muxing_and_streaming.txt.html",
+          "publishedOn": "2022-08-28T09:51:00.000Z",
+          "wordCount": 797,
+          "title": "Steinar H. Gunderson: AV1 live streaming: Muxing and streaming",
+          "imageUrl": null
+        },
+        {
           "id": "https://jmtd.net/log/janod_rocket/",
           "author": null,
           "description": "My youngest has a cute little wooden Rocket puzzle, made by a French company\ncalled Janod.\nSadly, at some point, we lost the nose cone part, so I designed and printed a\nreplacement.\n\n\n\n\n\n\nIt's substantially based on one module from an OpenSCAD \"Nose Cone Library\" by\nGarrett\nGoss,\nwhich he kindly released to the public domain.\nI embellished the cone with a top pointy bit and a rounded brim. I also\nhollowed out the bottom to make space for a magnet. Originally I designed an\noffset-from-centre slot for the magnet, the idea being, you would insert the\nmagnet off-centre and it would slot into position and be partly held in by the\noffset, and you could then stick a blob of glue or similar to finish the job.\nUnfortunately I had a layer shift during the print, so that didn't work. I\nreamed out a small alcove instead. The white trim is adapted from the lid from\nsome kitchen herbs, trimmed back. I secured the magnet and glued the lid over\nthe bottom.\nHere it is: rocket.scad.  My contributions are under the terms\nof Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA\n4.0).",
@@ -28403,6 +28453,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/28/ai_in_brief/",
+          "author": null,
+          "description": "<h4>Plus: Changing call center workers' voices, why we need to do more to get women in ML, and more</h4> <p><strong>In brief</strong>  A record label this week dropped an AI rapper after the biz was slammed for profiting from the virtual artist, said to be modeled on Black stereotypes.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/28/ai_in_brief/",
+          "publishedOn": "2022-08-28T10:01:13.000Z",
+          "wordCount": 1982,
+          "title": "Record label drops AI rapper after backlash over stereotypes",
+          "imageUrl": "https://regmedia.co.uk/2022/08/26/cancel.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/27/amd_smartnics/",
           "author": null,
