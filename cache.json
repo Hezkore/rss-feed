@@ -9487,6 +9487,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/More-Intel-DRM-Linux-6.1",
+          "author": null,
+          "description": "Following last week's initial batch of Intel i915 GT updates for DRM-Next ahead of Linux 6.1, today a new  pull request was issued of drm-intel-next material that is primed for Linux 6.1...",
+          "link": "https://www.phoronix.com/news/More-Intel-DRM-Linux-6.1",
+          "publishedOn": "2022-08-29T14:53:18.000Z",
+          "wordCount": 1414,
+          "title": "Intel Sends In More GPU Driver Patches For Linux 6.1: More Arc Graphics, Early MTL",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/PostgreSQL-Perf-Memory-Overhead",
           "author": null,
           "description": "An interesting commit made it into the open-source PostgreSQL database server this morning...",
@@ -15071,6 +15081,36 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "KqC7Nkbqwj6C8wetpVxzLH",
+          "author": null,
+          "description": "Team Green is allegedly dithering over 7,680 or 7,168 CUDA cores, 12 or 10GB of VRAM, and a 285W or 250W TGP before finalizing the GeForce RTX 4070 specifications.",
+          "link": "https://www.tomshardware.com/news/nvidia-rtx-4070-flip-flopping-specs",
+          "publishedOn": "2022-08-29T14:39:30.000Z",
+          "wordCount": 17821,
+          "title": "Nvidia Flip-Flopping Over GeForce RTX 4070 Specs, Says Leaker",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/Xq3pfkUujrJ6shXboZP3wZ.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/Xq3pfkUujrJ6shXboZP3wZ.jpg"
+        },
+        {
+          "id": "3wNnMRUiDXEnujjjJ2k93i",
+          "author": null,
+          "description": "Intel is adding a bunch of new improvements to an upcoming Linux driver update coming in October, and one of them is DP MSC with DSC support.",
+          "link": "https://www.tomshardware.com/news/intel-preps-displayport-msc-arc-gpus-on-linux",
+          "publishedOn": "2022-08-29T14:12:51.000Z",
+          "wordCount": 17602,
+          "title": "Intel Prepping DisplayPort Multi-Stream Support for Arc GPUs on Linux",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/ubzmHVCKsZEqsuZm8qgAja.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/ubzmHVCKsZEqsuZm8qgAja.jpg"
+        },
+        {
           "id": "vTLvKomi32cGAMeZwFV448",
           "author": null,
           "description": "Intel, GlobalFoundries, Samsung Foundry, TI, and TSMC are building new fabs in the U.S. Here's everything we know about the upcoming facilities.",
@@ -20361,6 +20401,26 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1876647",
+          "author": "Jonathan M. Gitlin",
+          "description": "Honda and LG Energy Solution have formed a joint venture to make US batteries.",
+          "link": "https://arstechnica.com/?p=1876647",
+          "publishedOn": "2022-08-29T14:52:01.000Z",
+          "wordCount": 1619,
+          "title": "Honda is the latest automaker looking to build a US battery factory",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/Battery-Sub-Assembly-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1876645",
+          "author": "The Conversation",
+          "description": "Their health risk together is worse than either alone.",
+          "link": "https://arstechnica.com/?p=1876645",
+          "publishedOn": "2022-08-29T14:38:56.000Z",
+          "wordCount": 1429,
+          "title": "Heat waves + air pollution can be a deadly combination",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/krakow-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1876454",
           "author": "Sam Machkovech",
@@ -28723,6 +28783,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/29/lg_oled_tv/",
+          "author": null,
+          "description": "<h4>Claims it has 'the world’s largest' OLED</h4> <p>LG Electronics released a TV it is claiming is “the world’s largest” OLED.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/29/lg_oled_tv/",
+          "publishedOn": "2022-08-29T15:17:06.000Z",
+          "wordCount": 1211,
+          "title": "LG makes a TV roughly the size of a queen-sized bed",
+          "imageUrl": "https://regmedia.co.uk/2022/08/29/lg_electronics_lg97g2.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/29/nasa_sls_artemis_scrubbed/",
           "author": null,

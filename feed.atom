@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-29T14:22:58.750Z</updated>
+    <updated>2022-08-29T15:25:08.875Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LG makes a TV roughly the size of a queen-sized bed]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/29/lg_oled_tv/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/29/lg_oled_tv/"/>
+        <updated>2022-08-29T15:17:06.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Claims it has 'the world’s largest' OLED</h4> <p>LG Electronics released a TV it is claiming is “the world’s largest” OLED.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Sends In More GPU Driver Patches For Linux 6.1: More Arc Graphics, Early MTL]]></title>
+        <id>https://www.phoronix.com/news/More-Intel-DRM-Linux-6.1</id>
+        <link href="https://www.phoronix.com/news/More-Intel-DRM-Linux-6.1"/>
+        <updated>2022-08-29T14:53:18.000Z</updated>
+        <summary type="html"><![CDATA[Following last week's initial batch of Intel i915 GT updates for DRM-Next ahead of Linux 6.1, today a new  pull request was issued of drm-intel-next material that is primed for Linux 6.1...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Honda is the latest automaker looking to build a US battery factory]]></title>
+        <id>https://arstechnica.com/?p=1876647</id>
+        <link href="https://arstechnica.com/?p=1876647"/>
+        <updated>2022-08-29T14:52:01.000Z</updated>
+        <summary type="html"><![CDATA[Honda and LG Energy Solution have formed a joint venture to make US batteries.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia Flip-Flopping Over GeForce RTX 4070 Specs, Says Leaker]]></title>
+        <id>KqC7Nkbqwj6C8wetpVxzLH</id>
+        <link href="https://www.tomshardware.com/news/nvidia-rtx-4070-flip-flopping-specs"/>
+        <updated>2022-08-29T14:39:30.000Z</updated>
+        <summary type="html"><![CDATA[Team Green is allegedly dithering over 7,680 or 7,168 CUDA cores, 12 or 10GB of VRAM, and a 285W or 250W TGP before finalizing the GeForce RTX 4070 specifications.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heat waves + air pollution can be a deadly combination]]></title>
+        <id>https://arstechnica.com/?p=1876645</id>
+        <link href="https://arstechnica.com/?p=1876645"/>
+        <updated>2022-08-29T14:38:56.000Z</updated>
+        <summary type="html"><![CDATA[Their health risk together is worse than either alone.]]></summary>
+        <author>
+            <name>The Conversation</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Splatoon 3 players are getting banned before the game is even out]]></title>
         <id>https://www.vg247.com/splatoon-3-players-banned-before-game-is-out</id>
@@ -17,6 +67,16 @@ It seems that the main reason players are experiencing bans is that they are acc
  Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Prepping DisplayPort Multi-Stream Support for Arc GPUs on Linux]]></title>
+        <id>3wNnMRUiDXEnujjjJ2k93i</id>
+        <link href="https://www.tomshardware.com/news/intel-preps-displayport-msc-arc-gpus-on-linux"/>
+        <updated>2022-08-29T14:12:51.000Z</updated>
+        <summary type="html"><![CDATA[Intel is adding a bunch of new improvements to an upcoming Linux driver update coming in October, and one of them is DP MSC with DSC support.]]></summary>
+        <author>
+            <name>Tomshardware</name>
         </author>
     </entry>
     <entry>
