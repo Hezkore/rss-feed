@@ -15121,6 +15121,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "jEJPbhj3heBTfXTG77PUPi",
+          "author": null,
+          "description": "The Sony PlayStation 5 CFI-1202A (with ODD) is 300g lighter, and the PlayStation 5 CFI-1202B (digital) is 200g lighter. Sony documentation confirms the changes, but no details about what was cut.",
+          "link": "https://www.tomshardware.com/news/new-sony-ps5-gets-lighter",
+          "publishedOn": "2022-08-29T18:02:17.000Z",
+          "wordCount": 17755,
+          "title": "Sony Slices Another 300 Grams off the Weight of the PlayStation 5",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/Ndrm5VG2YwgznAbFKeQMdQ.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/Ndrm5VG2YwgznAbFKeQMdQ.jpg"
+        },
+        {
           "id": "B7kSenRUW4pFPAww5QLcUC",
           "author": "francisco.pires@outlook.com (Francisco Pires)",
           "description": "As chiplets are increasingly seen as the future of computation, Lightmatter aims to reduce power consumption and latency by interconnecting chips through light rather than wires.",
@@ -20471,6 +20486,36 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1876713",
+          "author": "Jon Brodkin",
+          "description": "Dish interference claim rejected; Viasat environmental protest \"too speculative.\"",
+          "link": "https://arstechnica.com/?p=1876713",
+          "publishedOn": "2022-08-29T17:57:29.000Z",
+          "wordCount": 1672,
+          "title": "Dish and Viasat’s fight against Starlink satellite deployment fails in court",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/12/getty-rejected-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1876668",
+          "author": "Ars Contributors",
+          "description": "Engineers want to use robots as a sort of distributed 3D printer.",
+          "link": "https://arstechnica.com/?p=1876668",
+          "publishedOn": "2022-08-29T16:38:30.000Z",
+          "wordCount": 1821,
+          "title": "Chinese propose to build a dam with a distributed 3D printer",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1216880883-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1876677",
+          "author": "Ashley Belanger",
+          "description": "A settlement agreement drafted in the next 60 days will reveal the cost to Meta.",
+          "link": "https://arstechnica.com/?p=1876677",
+          "publishedOn": "2022-08-29T16:17:39.000Z",
+          "wordCount": 1734,
+          "title": "Zuckerberg avoids Cambridge Analytica deposition as Facebook agrees to settle",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1189627585-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1876652",
           "author": "Kevin Purdy",
@@ -28883,6 +28928,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/29/atlassian_bitbucket_critical_bug/",
+          "author": null,
+          "description": "<h4>Grab and deploy this backend update if you offer even repo read access</h4> <p>A critical command-injection vulnerability in multiple API endpoints of Atlassian Bitbucket Server and Data Center could allow an unauthorized attacker to remotely execute malware, and view, change, and even delete data stored in repositories.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/29/atlassian_bitbucket_critical_bug/",
+          "publishedOn": "2022-08-29T18:08:14.000Z",
+          "wordCount": 1415,
+          "title": "Critical hole in Atlassian Bitbucket allows any miscreant to hijack servers",
+          "imageUrl": "https://regmedia.co.uk/2017/09/12/atlassian_logo.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/29/lg_oled_tv/",
           "author": null,

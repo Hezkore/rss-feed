@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-29T17:26:42.599Z</updated>
+    <updated>2022-08-29T18:28:35.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Critical hole in Atlassian Bitbucket allows any miscreant to hijack servers]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/29/atlassian_bitbucket_critical_bug/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/29/atlassian_bitbucket_critical_bug/"/>
+        <updated>2022-08-29T18:08:14.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Grab and deploy this backend update if you offer even repo read access</h4> <p>A critical command-injection vulnerability in multiple API endpoints of Atlassian Bitbucket Server and Data Center could allow an unauthorized attacker to remotely execute malware, and view, change, and even delete data stored in repositories.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony Slices Another 300 Grams off the Weight of the PlayStation 5]]></title>
+        <id>jEJPbhj3heBTfXTG77PUPi</id>
+        <link href="https://www.tomshardware.com/news/new-sony-ps5-gets-lighter"/>
+        <updated>2022-08-29T18:02:17.000Z</updated>
+        <summary type="html"><![CDATA[The Sony PlayStation 5 CFI-1202A (with ODD) is 300g lighter, and the PlayStation 5 CFI-1202B (digital) is 200g lighter. Sony documentation confirms the changes, but no details about what was cut.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dish and Viasat’s fight against Starlink satellite deployment fails in court]]></title>
+        <id>https://arstechnica.com/?p=1876713</id>
+        <link href="https://arstechnica.com/?p=1876713"/>
+        <updated>2022-08-29T17:57:29.000Z</updated>
+        <summary type="html"><![CDATA[Dish interference claim rejected; Viasat environmental protest "too speculative."]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Here's the first footage of Battlefield 2042's newest map Stranded]]></title>
         <id>https://www.eurogamer.net/heres-the-first-footage-of-battlefield-2042s-newest-map-stranded</id>
@@ -45,6 +75,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Chinese propose to build a dam with a distributed 3D printer]]></title>
+        <id>https://arstechnica.com/?p=1876668</id>
+        <link href="https://arstechnica.com/?p=1876668"/>
+        <updated>2022-08-29T16:38:30.000Z</updated>
+        <summary type="html"><![CDATA[Engineers want to use robots as a sort of distributed 3D printer.]]></summary>
+        <author>
+            <name>Ars Contributors</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[UEFI 2.10 + ACPI 6.5 Specifications Released With Updates For CXL, LoongArch, RISC-V]]></title>
         <id>https://www.phoronix.com/news/UEFI-2.10-ACPI-6.5-Released</id>
         <link href="https://www.phoronix.com/news/UEFI-2.10-ACPI-6.5-Released"/>
@@ -52,6 +92,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[The UEFI Forum has published the UEFI 2.10 and ACPI 6.5 specifications to make these standards more adaptable to IoT platforms and other new device support from the LoongArch processor architecture to CXL memory support...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zuckerberg avoids Cambridge Analytica deposition as Facebook agrees to settle]]></title>
+        <id>https://arstechnica.com/?p=1876677</id>
+        <link href="https://arstechnica.com/?p=1876677"/>
+        <updated>2022-08-29T16:17:39.000Z</updated>
+        <summary type="html"><![CDATA[A settlement agreement drafted in the next 60 days will reveal the cost to Meta.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
         </author>
     </entry>
     <entry>
