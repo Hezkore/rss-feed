@@ -15022,16 +15022,6 @@
           "wordCount": 4774,
           "title": "Valve say all reserved Steam Decks will ship sooner than expected",
           "imageUrl": "https://assets2.rockpapershotgun.com/Monster-Hunter-Rise-on-Steam-Deck.JPG/BROK/thumbnail/1600x900/format/jpg/quality/80/Monster-Hunter-Rise-on-Steam-Deck.JPG"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/minecraft-mods-let-you-disable-mojangs-controversial-chat-reporting",
-          "author": "Graham Smith",
-          "description": "Minecraft: Java Edition's latest update introduced a new player reporting tool, which allows players to submit \"inappropriate chat messages or dangerous behaviour\" for moderators to review. That seems like a good thing on the its face, but many Minecraft players aren't happy that it extends to private servers. \r\n\nNaturally, because this is Minecraft, players have changed what they don't like. There are now mods which strip messages of information tieing them to your player profile.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/minecraft-mods-let-you-disable-mojangs-controversial-chat-reporting",
-          "publishedOn": "2022-07-30T20:28:21.000Z",
-          "wordCount": 4883,
-          "title": "Minecraft mods let you disable Mojang's controversial chat reporting",
-          "imageUrl": "https://assets2.rockpapershotgun.com/minecraft-house-ideas-hobbit-hole.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/minecraft-house-ideas-hobbit-hole.jpg"
         }
       ]
     },
@@ -19608,6 +19598,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "http://00formicapunk00.wordpress.com/?p=71",
+          "author": null,
+          "description": "I switched from blogger.com the Google Blog platform to the hosted wordpress.com of Automaticc, the WordPress blog engine main authors.\nmarkdown formatting when writing blog entries, finally !\nrunning on a opensource core, that I can move locally to my own server if I ever want to fiddle with MySQL and PHP.\nI lose:\nfree CNAME redirect using my own domain name\na bit of advertising-free space. The blog at wordpress.com has a prominent header indicating I am using the free plan, but I am OK so far with that.\nWhat stays the same:\nBlogger and WordPress.com offer both tag-based RSS feed exports, so I decided to keep for  Debian Planet a feed containing only the posts related to free, libre and opensource software.\nI was not ready to make the jump to a self hosted static blog generator, as I still wanted to have the possibility to comment, without me having to host the comment subsystem.\nOn the personal side, I also intend to pause twitter activity, as I notice current microblogging platforms tend to mostly contain flame wars, self promotion, or shared links I could find anyway with a good feed reader.",
+          "link": "https://00formicapunk00.wordpress.com/2022/08/29/moving-blog-from-blogger-com-to-wordpress-com/",
+          "publishedOn": "2022-08-29T08:05:04.000Z",
+          "wordCount": 1539,
+          "title": "Emmanuel Kasper: Moving blog from blogger.com to wordpress.com",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "http://dirk.eddelbuettel.com/blog/2022/08/28#littler-0.3.16",
           "author": null,
           "description": "The seventeenth release of littler as a CRAN package just landed, following in the now sixteen year history (!!) as a package started by Jeff in 2006, and joined by me a few weeks later.\nlittler is the first command-line interface for R as it predates Rscript. It allows for piping as well for shebang scripting via #!, uses command-line arguments more consistently and still starts faster. It also always loaded the methods package which Rscript only started to do in recent years.\nlittler lives on Linux and Unix, has its difficulties on macOS due to yet-another-braindeadedness there (who ever thought case-insensitive filesystems as a default were a good idea?) and simply does not exist on Windows (yet – the build system could be extended – see RInside for an existence proof, and volunteers ar…",
@@ -19686,6 +19686,16 @@
           "wordCount": 521,
           "title": "Jonathan Dowland: Our Study, 2022",
           "imageUrl": null
+        },
+        {
+          "id": "http://00formicapunk00.wordpress.com/?p=65",
+          "author": null,
+          "description": "Investigating today what is AWS Relational Database Service with two readable standbys\nConsidering your current read/write server is in Availability Zone AZ1,  this is basically postgres 14 with synchronous_standby_names = ANY 1 (az2, az3) and synchronous_commit = on.\nIn regards to safety of data, it looks similar to the raft algorithm used by etcd with three members as a write is only ack’ed if it has been fsynced by two servers, the difference is that raft has a leader election, whereas in PostgreSQL the leader is set at startup and you have to build yourself the election mechanism.\nThere is no special cloud magic here, it is just database good practices paid by the minute.",
+          "link": "https://00formicapunk00.wordpress.com/2022/08/24/investigating-database-replication-in-different-availability-zones/",
+          "publishedOn": "2022-08-24T15:09:53.000Z",
+          "wordCount": 1460,
+          "title": "Emmanuel Kasper: Investigating database replication in different availability zones",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         },
         {
           "id": "tag:dreamwidth.org,2009-05-21:377446:12367",
@@ -19776,6 +19786,16 @@
           "wordCount": 461,
           "title": "Iustin Pop: Note to self: Don't forget Qemu's discard option",
           "imageUrl": null
+        },
+        {
+          "id": "http://00formicapunk00.wordpress.com/?p=16",
+          "author": null,
+          "description": "Using a markdown file , this style sheet and this simple command,\npandoc couronne.md --standalone --css styling.css \\\n    --to  html5  --table-of-contents &gt; couronne.html\n\nI feel I will never need a word processor again. It produces this nice looking document without pain.",
+          "link": "https://00formicapunk00.wordpress.com/2022/08/19/everything-markdown-with-pandoc/",
+          "publishedOn": "2022-08-19T19:02:00.000Z",
+          "wordCount": 1379,
+          "title": "Emmanuel Kasper: Everything markdown with pandoc",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         },
         {
           "id": "http://dirk.eddelbuettel.com/blog/2022/08/18#rcpparmadillo_0.11.2.3.1",
@@ -23269,6 +23289,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291268",
+          "author": null,
+          "description": "En demo finns, men bara i en vecka till.",
+          "link": "https://www.fz.se/artikel/291268-dome-keeper-blandar-gruvarbete-med-kupolforsvar",
+          "publishedOn": "2022-08-29T07:59:00.000Z",
+          "wordCount": 1841,
+          "title": "Dome Keeper blandar gruvarbete med kupolförsvar",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291268"
+        },
+        {
           "id": "https://www.fz.se/artikel/291267",
           "author": null,
           "description": "Åtminstone inte för stunden.",
@@ -26485,6 +26515,16 @@
       "feedUrl": "https://www.sweclockers.com/feeds/nyheter",
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
+        {
+          "id": "https://www.sweclockers.com/artikel/34830",
+          "author": null,
+          "description": "Mark Zuckerberg avslöjar en del av Metas framtidsplaner inom VR och bekräftar att nästa VR-headset visas upp i oktober.",
+          "link": "https://www.sweclockers.com/artikel/34830-metas-nya-vr-headset-visas-upp-i-oktober",
+          "publishedOn": "2022-08-29T08:24:00.000Z",
+          "wordCount": 1598,
+          "title": "Metas nya VR-headset visas upp i oktober",
+          "imageUrl": "https://www.sweclockers.com/artikel/34830/og-image"
+        },
         {
           "id": "https://www.sweclockers.com/artikel/34829",
           "author": null,

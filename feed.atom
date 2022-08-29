@@ -2,10 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-29T07:27:55.183Z</updated>
+    <updated>2022-08-29T08:29:36.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Metas nya VR-headset visas upp i oktober]]></title>
+        <id>https://www.sweclockers.com/artikel/34830</id>
+        <link href="https://www.sweclockers.com/artikel/34830-metas-nya-vr-headset-visas-upp-i-oktober"/>
+        <updated>2022-08-29T08:24:00.000Z</updated>
+        <summary type="html"><![CDATA[Mark Zuckerberg avslöjar en del av Metas framtidsplaner inom VR och bekräftar att nästa VR-headset visas upp i oktober.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emmanuel Kasper: Moving blog from blogger.com to wordpress.com]]></title>
+        <id>http://00formicapunk00.wordpress.com/?p=71</id>
+        <link href="https://00formicapunk00.wordpress.com/2022/08/29/moving-blog-from-blogger-com-to-wordpress-com/"/>
+        <updated>2022-08-29T08:05:04.000Z</updated>
+        <summary type="html"><![CDATA[I switched from blogger.com the Google Blog platform to the hosted wordpress.com of Automaticc, the WordPress blog engine main authors.
+markdown formatting when writing blog entries, finally !
+running on a opensource core, that I can move locally to my own server if I ever want to fiddle with MySQL and PHP.
+I lose:
+free CNAME redirect using my own domain name
+a bit of advertising-free space. The blog at wordpress.com has a prominent header indicating I am using the free plan, but I am OK so far with that.
+What stays the same:
+Blogger and WordPress.com offer both tag-based RSS feed exports, so I decided to keep for  Debian Planet a feed containing only the posts related to free, libre and opensource software.
+I was not ready to make the jump to a self hosted static blog generator, as I still wanted to have the possibility to comment, without me having to host the comment subsystem.
+On the personal side, I also intend to pause twitter activity, as I notice current microblogging platforms tend to mostly contain flame wars, self promotion, or shared links I could find anyway with a good feed reader.]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dome Keeper blandar gruvarbete med kupolförsvar]]></title>
+        <id>https://www.fz.se/artikel/291268</id>
+        <link href="https://www.fz.se/artikel/291268-dome-keeper-blandar-gruvarbete-med-kupolforsvar"/>
+        <updated>2022-08-29T07:59:00.000Z</updated>
+        <summary type="html"><![CDATA[En demo finns, men bara i en vecka till.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTC Vive headsets go on sale after Meta and PlayStation price hikes]]></title>
         <id>https://www.eurogamer.net/htc-vive-headsets-go-on-sale-after-meta-and-playstation-price-hikes</id>
@@ -5111,6 +5150,19 @@ Goat Simulator 3 follows directly on from the original Goat Simulator (yes, they
  Read more]]></summary>
         <author>
             <name>Kelsey Raynor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emmanuel Kasper: Investigating database replication in different availability zones]]></title>
+        <id>http://00formicapunk00.wordpress.com/?p=65</id>
+        <link href="https://00formicapunk00.wordpress.com/2022/08/24/investigating-database-replication-in-different-availability-zones/"/>
+        <updated>2022-08-24T15:09:53.000Z</updated>
+        <summary type="html"><![CDATA[Investigating today what is AWS Relational Database Service with two readable standbys
+Considering your current read/write server is in Availability Zone AZ1,  this is basically postgres 14 with synchronous_standby_names = ANY 1 (az2, az3) and synchronous_commit = on.
+In regards to safety of data, it looks similar to the raft algorithm used by etcd with three members as a write is only ack’ed if it has been fsynced by two servers, the difference is that raft has a leader election, whereas in PostgreSQL the leader is set at startup and you have to build yourself the election mechanism.
+There is no special cloud magic here, it is just database good practices paid by the minute.]]></summary>
+        <author>
+            <name>Planet Debian</name>
         </author>
     </entry>
     <entry>
@@ -11200,6 +11252,20 @@ Sunday, during the Pokemon World Championships, there will be all sorts of Pokem
         <summary type="html"><![CDATA[Plus eight other winning images in 2022 BMC Ecology and Evolution image competition.]]></summary>
         <author>
             <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emmanuel Kasper: Everything markdown with pandoc]]></title>
+        <id>http://00formicapunk00.wordpress.com/?p=16</id>
+        <link href="https://00formicapunk00.wordpress.com/2022/08/19/everything-markdown-with-pandoc/"/>
+        <updated>2022-08-19T19:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Using a markdown file , this style sheet and this simple command,
+pandoc couronne.md --standalone --css styling.css \
+    --to  html5  --table-of-contents &gt; couronne.html
+
+I feel I will never need a word processor again. It produces this nice looking document without pain.]]></summary>
+        <author>
+            <name>Planet Debian</name>
         </author>
     </entry>
     <entry>
@@ -36854,21 +36920,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[See the horror stories/comics early on my Patreon!]]></summary>
         <author>
             <name>Shen Comix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minecraft mods let you disable Mojang's controversial chat reporting]]></title>
-        <id>https://www.rockpapershotgun.com/minecraft-mods-let-you-disable-mojangs-controversial-chat-reporting</id>
-        <link href="https://www.rockpapershotgun.com/minecraft-mods-let-you-disable-mojangs-controversial-chat-reporting"/>
-        <updated>2022-07-30T20:28:21.000Z</updated>
-        <summary type="html"><![CDATA[Minecraft: Java Edition's latest update introduced a new player reporting tool, which allows players to submit "inappropriate chat messages or dangerous behaviour" for moderators to review. That seems like a good thing on the its face, but many Minecraft players aren't happy that it extends to private servers. 
-
-Naturally, because this is Minecraft, players have changed what they don't like. There are now mods which strip messages of information tieing them to your player profile.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
         </author>
     </entry>
 </feed>
