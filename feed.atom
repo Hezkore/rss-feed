@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-29T10:26:44.277Z</updated>
+    <updated>2022-08-29T11:20:45.524Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Revises Linux Graphics Driver Support For DP MST Display Stream Compression]]></title>
+        <id>https://www.phoronix.com/news/Intel-DP-MST-DSC-Linux</id>
+        <link href="https://www.phoronix.com/news/Intel-DP-MST-DSC-Linux"/>
+        <updated>2022-08-29T11:12:34.000Z</updated>
+        <summary type="html"><![CDATA[Along with all the other ongoing Linux work for Arc Graphics, another feature patch series from Intel worth mentioning is they have been buttoning up work on DisplayPort Multi-Stream Transport Display Stream Compression (MST DSC) functionality...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Posts Latest VNMI Patches For The Linux Kernel]]></title>
+        <id>https://www.phoronix.com/news/AMD-VNMI-Linux-v4</id>
+        <link href="https://www.phoronix.com/news/AMD-VNMI-Linux-v4"/>
+        <updated>2022-08-29T10:57:46.000Z</updated>
+        <summary type="html"><![CDATA[Back in early June AMD engineers began posting support for enabling Virtual NMI on Linux for AMD CPUs with KVM and permitting hardware support. VNMI is expected to finally happen on the AMD side with Zen 4 processors and today they posted their latest revision of this work...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Latest Round Of Optimizations Wrap Up For Old ATI R300 To R500 GPUs On Linux]]></title>
+        <id>https://www.phoronix.com/news/R300-Wrapping-Up-August-2022</id>
+        <link href="https://www.phoronix.com/news/R300-Wrapping-Up-August-2022"/>
+        <updated>2022-08-29T10:38:24.000Z</updated>
+        <summary type="html"><![CDATA[Last week I wrote about Mesa's R300 Gallium3D driver seeing new optimizations for R300~R500 class GPUs from the ATI days, thanks to the open-source community. Another merge request is now open that finishes up the latest optimization spree for these old pre-AMD GPUs on Linux...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Svenska dino-shootern Second Extinction släpps i oktober]]></title>
+        <id>https://www.fz.se/artikel/291270</id>
+        <link href="https://www.fz.se/artikel/291270-svenska-dino-shootern-second-extinction-slapps-i-oktober"/>
+        <updated>2022-08-29T10:29:17.000Z</updated>
+        <summary type="html"><![CDATA[Co-op mot muterade urtidsmonster.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASpeed DRM Driver Adding DMA-BUF/PRIME Sharing For Use With Servers Having dGPUs]]></title>
+        <id>https://www.phoronix.com/news/AST-DMA-BUF-PRIME-Sharing</id>
+        <link href="https://www.phoronix.com/news/AST-DMA-BUF-PRIME-Sharing"/>
+        <updated>2022-08-29T10:23:41.000Z</updated>
+        <summary type="html"><![CDATA[The ASpeed "AST" DRM driver that is for use with ASpeed BMCs on server platforms for display capabilities is preparing to see DMA-BUF and PRIME sharing support. This is useful so the ASpeed BMC can see the screen contents even if the server is relying on a discrete GPU rather than the baseboard management controller's monitor output...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[You can never have too many backups. Also, you can never have too many backups]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/29/who_me/</id>
