@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-29T20:24:46.228Z</updated>
+    <updated>2022-08-29T21:20:26.175Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Source: IBM disguised Watson Health layoffs as a 'redeployment initiative']]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/29/ibm_allegedly_hid_watson_health/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/29/ibm_allegedly_hid_watson_health/"/>
+        <updated>2022-08-29T21:10:05.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Funnily enough, most of those hit were aged over 40, it is claimed</h4> <p><strong>Exclusive</strong>  After announcing in January it was selling its Watson Health group to investment firm Francisco Partners, IBM assured staff left behind from the sale that they would be redeployed within Big Blue.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Musk subpoenas Twitter whistleblower, hoping to prove company lied about spam]]></title>
+        <id>https://arstechnica.com/?p=1876775</id>
+        <link href="https://arstechnica.com/?p=1876775"/>
+        <updated>2022-08-29T21:00:58.000Z</updated>
+        <summary type="html"><![CDATA[The whistleblower complaint might help Twitter's case instead, though.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trademark filing for “Reality Pro” suggests Apple’s headset is on the way]]></title>
+        <id>https://arstechnica.com/?p=1876739</id>
+        <link href="https://arstechnica.com/?p=1876739"/>
+        <updated>2022-08-29T20:35:45.000Z</updated>
+        <summary type="html"><![CDATA[Legal firms and shell companies Apple has used in the past were involved.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony launches lighter PS5 model for second straight year]]></title>
+        <id>https://arstechnica.com/?p=1876773</id>
+        <link href="https://arstechnica.com/?p=1876773"/>
+        <updated>2022-08-29T20:19:26.000Z</updated>
+        <summary type="html"><![CDATA[New models are about 13 percent lighter than 2020's hefty launch-era consoles.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft adds virtual core licensing to Windows Server]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/29/microsoft_adds_virtual_windows_licenses/</id>
@@ -37293,30 +37333,6 @@ Nintendo recently shared an interview with three of the lead developers of Xenob
  Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joachim Breitner: The Via Alpina red trail through Slovenia]]></title>
-        <id>http://www.joachim-breitner.de/blog/791-The_Via_Alpina_red_trail_through_Slovenia</id>
-        <link href="http://www.joachim-breitner.de/blog/791-The_Via_Alpina_red_trail_through_Slovenia"/>
-        <updated>2022-07-31T09:19:01.000Z</updated>
-        <summary type="html"><![CDATA[This July my girlfriend and I hiked the Slovenian part of the Red Trail of the Via Alpina, from the edge of the Julian Alps to Trieste, and I’d like to share some observations and tips that we might have found useful before our trip.
-Getting there
-As we traveled with complete camping gear and wanted to stay in our tent, we avoided the high alpine parts of the trail and started just where the trail came down from the Alps and entered the Karst. A great way to get there is to take the night train from Zurich or Munich towards Ljubljana, get off at Jesenice, have breakfast, take the local train to Podbrdo and you can start your tour at 9:15am. From there you can reach the trail at Pedrovo Brdo within 1½h.
-Finding the way
-We did not use any paper maps, and instead relied on the OpenStreetMap d…]]></summary>
-        <author>
-            <name>mail@joachim-breitner.de (Joachim Breitner)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russell Coker: Workstations With ECC RAM]]></title>
-        <id>https://etbe.coker.com.au/?p=5121</id>
-        <link href="https://etbe.coker.com.au/2022/07/31/workstations-ecc-ram/"/>
-        <updated>2022-07-31T08:27:16.000Z</updated>
-        <summary type="html"><![CDATA[The last new PC I bought was a Dell PowerEdge T110II in 2013. That model had been out for a while and I got it for under $2000. Since then the CPI has gone up by about 20% so it’s probably about $2000 in today’s money. Currently Dell has a special on the T150 tower server (the latest replacement for the T110II) which has a G6405T CPU that isn’t even twice as fast as the i3-3220 (3746 vs 2219) in the T110II according to passmark.com (AKA cpubenchmark.net). The special price is $2600. I can’t remember the details of my choices when purchasing the T110II but I recall that CPU speed wasn’t a priority and I wanted a cheap reliable server for storage and for light desktop use. So it seems that the current entry model in the Dell T1xx server line is less than twice as fast as fast as it was in 20…]]></summary>
-        <author>
-            <name>Planet Debian</name>
         </author>
     </entry>
 </feed>
