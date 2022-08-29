@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-29T18:28:35.638Z</updated>
+    <updated>2022-08-29T19:18:39.341Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Euro watchdogs 'abandon $1b fine' against Qualcomm]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/29/eu_qualcomm_fine/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/29/eu_qualcomm_fine/"/>
+        <updated>2022-08-29T18:47:13.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Snapdragon giant was accused of bribing Apple not to use rival modems</h4> <p>The European Commission has reportedly called it quits in its bid to fine Qualcomm for alleged anti-competitive payments to Apple.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony i köptagen, förvärvar mobilstudion Savage Game Studios]]></title>
+        <id>https://www.fz.se/artikel/291276</id>
+        <link href="https://www.fz.se/artikel/291276-sony-i-koptagen-forvarvar-mobilstudion-savage-game-studios"/>
+        <updated>2022-08-29T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Jobbar i detta nu på ett mobilt AAA-spel.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Critical hole in Atlassian Bitbucket allows any miscreant to hijack servers]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/29/atlassian_bitbucket_critical_bug/</id>
@@ -568,6 +588,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<h4>PLUS: Trustwave's Singapore owners selling?; Pakistan's suspiciously political internet brownout; Indonesian data leaks; and more!</h4> <p><strong>Asia In Brief</strong>  Senior execs at India's big IT outsourcers are debating whether it is appropriate for their staff to take on additional paid work outside the company.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[America Songs]]></title>
+        <id>https://xkcd.com/2665/</id>
+        <link href="https://xkcd.com/2665/"/>
+        <updated>2022-08-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/america_songs.png" title="Juraaaassic Park, Juraaaassic Park, God shed his grace on theeeee" alt="Juraaaassic Park, Juraaaassic Park, God shed his grace on theeeee" />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -1760,6 +1790,28 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Intel's Core i7-13700, Core i5-13500, and Core i5-13400 Raptor  Lake processors break cover.]]></summary>
         <author>
             <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Antoine Beaupré: How to nationalize the internet in Canada]]></title>
+        <id>https://anarc.at/blog/2022-08-26-nationalize-internet/</id>
+        <link href="https://anarc.at/blog/2022-08-26-nationalize-internet/"/>
+        <updated>2022-08-26T16:56:38.000Z</updated>
+        <summary type="html"><![CDATA[Rogers had a catastrophic failure in July
+2022. It affected emergency services (as in: people couldn't call 911,
+but also some 911 services themselves failed), hospitals (which
+couldn't access prescriptions), banks and payment systems (as payment
+terminals stopped working), and regular users as well. The outage
+lasted almost a full day, and Rogers took days to give any technical
+explanation on the outage, and even when they did, details were
+sparse. So far the only detailed account is from outside actors like
+Cloudflare which seem to point at an internal BGP failure.
+Its impact on the economy has yet to be measured, but it probably cost
+millions of dollars in wasted time and possibly lead to
+life-threatening situations. Apart from holding Rogers (criminally?)
+responsible for this, what sho…]]></summary>
+        <author>
+            <name>Planet Debian</name>
         </author>
     </entry>
     <entry>
@@ -37235,34 +37287,6 @@ We did not use any paper maps, and instead relied on the OpenStreetMap d…]]></
         <summary type="html"><![CDATA[The last new PC I bought was a Dell PowerEdge T110II in 2013. That model had been out for a while and I got it for under $2000. Since then the CPI has gone up by about 20% so it’s probably about $2000 in today’s money. Currently Dell has a special on the T150 tower server (the latest replacement for the T110II) which has a G6405T CPU that isn’t even twice as fast as the i3-3220 (3746 vs 2219) in the T110II according to passmark.com (AKA cpubenchmark.net). The special price is $2600. I can’t remember the details of my choices when purchasing the T110II but I recall that CPU speed wasn’t a priority and I wanted a cheap reliable server for storage and for light desktop use. So it seems that the current entry model in the Dell T1xx server line is less than twice as fast as fast as it was in 20…]]></summary>
         <author>
             <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Söndagsmatiné: Hemmabyggd jättekamera sätter skärpedjupet i fokus]]></title>
-        <id>https://www.sweclockers.com/artikel/34678</id>
-        <link href="https://www.sweclockers.com/artikel/34678-sondagsmatine-hemmabyggd-jattekamera-satter-skarpedjupet-i-fokus"/>
-        <updated>2022-07-31T07:16:00.000Z</updated>
-        <summary type="html"><![CDATA[Att separera en person eller föremål från bakgrunden är ofta önskvärt. Nu tar DIY Perks skärpedjup till nya nivåer.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harry Harrison's 1980s game book is a bit of a riot]]></title>
-        <id>https://www.eurogamer.net/harry-harrisons-1980s-game-book-is-a-bit-of-a-riot</id>
-        <link href="https://www.eurogamer.net/harry-harrisons-1980s-game-book-is-a-bit-of-a-riot"/>
-        <updated>2022-07-31T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In the house where I grew up, I shared a room with two older brothers. I was a nosy kid, and I have a lot of happy memories of looking through my brothers' books and whatnot while they weren't around. One day - this is decades back; I can at least remember that it was sunny - I found a paperback that my brother Paul had picked up somewhere. Paul liked science-fiction This was sci-fi. It was by Harry Harrison, and it was one of his Stainless Steel Rat novels.
-
-
-Actually, it was a very special one, an odd one. But we'll get to that in a second. Harry Harrison was a big deal in 20th century sci-fi, a writer who moved from illustrating comics to turning out novels that existed in the raggedy edge-lands between parodying space operas and reveling in their excesses. However he handled things, he always brought an anti-war message that was sometimes hidden, given the rather conservative genre he worked within. Outside of the Stainless Steel Rat books - the Rat is a charming con-man and occasional hero - he's probably best known for writing the novel that Soylent Green was loosely based upon.
-
-
-So yes, the book of Paul's I'd found was a bit of an oddity amongst Harrison's output. It was a game book. You Can Be The Stainless Steel Rat was published in 1985, according to my lovely  eBay copy, battered but still with a bit of gloss on the cover. 1985! This means it hit right in the middle of the Choose Your Own Adventure craze, and it cleaves tight to many of the genre's standards, like numbered sections that come with choices at the end. As a reader, you ping back and forth through the book following your instincts, and probably keeping a finger or two marking previous choices for the moments in which your instincts fail.
- 
-Read more]]></summary>
-        <author>
-            <name>Christian Donlan</name>
         </author>
     </entry>
 </feed>
