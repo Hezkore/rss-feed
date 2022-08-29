@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-29T11:20:45.524Z</updated>
+    <updated>2022-08-29T12:48:47.959Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VR-rea hos HTC - flera Vive till lägre pris]]></title>
+        <id>https://www.fz.se/artikel/291271</id>
+        <link href="https://www.fz.se/artikel/291271-vr-rea-hos-htc-flera-vive-till-lagre-pris"/>
+        <updated>2022-08-29T12:23:00.000Z</updated>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. Semiconductor Renaissance: All the Upcoming Fabs]]></title>
+        <id>vTLvKomi32cGAMeZwFV448</id>
+        <link href="https://www.tomshardware.com/news/new-us-fabs-everything-we-know"/>
+        <updated>2022-08-29T12:05:12.000Z</updated>
+        <summary type="html"><![CDATA[Intel, GlobalFoundries, Samsung Foundry, TI, and TSMC are building new fabs in the U.S. Here's everything we know about the upcoming facilities.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Viotek GFI24CBA Review: Solid Budget Gaming Monitor]]></title>
+        <id>Qau6H7C5gYXevGPWHRc94Z</id>
+        <link href="https://www.tomshardware.com/reviews/viotek-gfi24cba-review"/>
+        <updated>2022-08-29T12:00:30.000Z</updated>
+        <summary type="html"><![CDATA[How much gaming monitor can you get for less than $250? The Viotek GFI24CBA delivers 144 Hz and Adaptive-Sync with an IPS panel at FHD resolution for less than the price of a rock concert ticket.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PostgreSQL Optimizes Performance & Lower Memory Management Overhead]]></title>
+        <id>https://www.phoronix.com/news/PostgreSQL-Perf-Memory-Overhead</id>
+        <link href="https://www.phoronix.com/news/PostgreSQL-Perf-Memory-Overhead"/>
+        <updated>2022-08-29T11:40:00.000Z</updated>
+        <summary type="html"><![CDATA[An interesting commit made it into the open-source PostgreSQL database server this morning...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ryzen 9 7950X uppges ha en maximal klockfrekvens på 5,85 GHz]]></title>
+        <id>https://www.sweclockers.com/artikel/34831</id>
+        <link href="https://www.sweclockers.com/artikel/34831-ryzen-9-7950x-uppges-ha-en-maximal-klockfrekvens-pa-585-ghz"/>
+        <updated>2022-08-29T11:32:31.000Z</updated>
+        <summary type="html"><![CDATA[AMD:s kommande flaggskepp på processorfronten sägs kunna nå klockfrekvenser på upp till 5,85 GHz vid enkeltrådiga laster.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waferscale startup says it can stitch chips together with light]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/29/waferscale_photonics_interconnect/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/29/waferscale_photonics_interconnect/"/>
+        <updated>2022-08-29T11:18:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Interconnect tech promises 96TB/s die-to-die communications</h4> <p><strong>Hot Chips</strong>  As chipmakers look to scale compute to ever-greater heights, they’re increasingly turning to waferscale compute architectures to circumvent bandwidth and latency bottlenecks.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intel Revises Linux Graphics Driver Support For DP MST Display Stream Compression]]></title>
         <id>https://www.phoronix.com/news/Intel-DP-MST-DSC-Linux</id>
@@ -159,6 +218,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA["We are prepared for just about anything."]]></summary>
         <author>
             <name>Eric Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comic for 2022.08.29 - iPhone 3GS]]></title>
+        <id>https://explosm.net/comics/iphone-3gs</id>
+        <link href="https://explosm.net/comics/iphone-3gs"/>
+        <updated>2022-08-29T06:37:12.000Z</updated>
+        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
+        <author>
+            <name>Explosm.net</name>
         </author>
     </entry>
     <entry>
@@ -36914,16 +36983,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Reserverade konsoler kommer kunna levereras tidigare än beräknat.]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comic for 2022.07.31 - Ouija Board]]></title>
-        <id>https://explosm.net/comics/ouija-board</id>
-        <link href="https://explosm.net/comics/ouija-board"/>
-        <updated>2022-07-31T00:00:17.000Z</updated>
-        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
-        <author>
-            <name>Explosm.net</name>
         </author>
     </entry>
 </feed>

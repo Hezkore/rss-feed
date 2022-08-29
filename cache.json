@@ -9467,6 +9467,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/PostgreSQL-Perf-Memory-Overhead",
+          "author": null,
+          "description": "An interesting commit made it into the open-source PostgreSQL database server this morning...",
+          "link": "https://www.phoronix.com/news/PostgreSQL-Perf-Memory-Overhead",
+          "publishedOn": "2022-08-29T11:40:00.000Z",
+          "wordCount": 1412,
+          "title": "PostgreSQL Optimizes Performance & Lower Memory Management Overhead",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Intel-DP-MST-DSC-Linux",
           "author": null,
           "description": "Along with all the other ongoing Linux work for Arc Graphics, another feature patch series from Intel worth mentioning is they have been buttoning up work on DisplayPort Multi-Stream Transport Display Stream Compression (MST DSC) functionality...",
@@ -15040,6 +15050,36 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "vTLvKomi32cGAMeZwFV448",
+          "author": null,
+          "description": "Intel, GlobalFoundries, Samsung Foundry, TI, and TSMC are building new fabs in the U.S. Here's everything we know about the upcoming facilities.",
+          "link": "https://www.tomshardware.com/news/new-us-fabs-everything-we-know",
+          "publishedOn": "2022-08-29T12:05:12.000Z",
+          "wordCount": 20172,
+          "title": "U.S. Semiconductor Renaissance: All the Upcoming Fabs",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/Tk6PevBNtMtLK7nAFFDT9j.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/Tk6PevBNtMtLK7nAFFDT9j.png"
+        },
+        {
+          "id": "Qau6H7C5gYXevGPWHRc94Z",
+          "author": null,
+          "description": "How much gaming monitor can you get for less than $250? The Viotek GFI24CBA delivers 144 Hz and Adaptive-Sync with an IPS panel at FHD resolution for less than the price of a rock concert ticket.",
+          "link": "https://www.tomshardware.com/reviews/viotek-gfi24cba-review",
+          "publishedOn": "2022-08-29T12:00:30.000Z",
+          "wordCount": 20271,
+          "title": "Viotek GFI24CBA Review: Solid Budget Gaming Monitor",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/apnWeZqBouY6uDH5FFhCUV.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/apnWeZqBouY6uDH5FFhCUV.jpg"
+        },
         {
           "id": "inpgd9cicSo4Loq447NAq3",
           "author": null,
@@ -23289,6 +23329,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291271",
+          "author": null,
+          "description": "",
+          "link": "https://www.fz.se/artikel/291271-vr-rea-hos-htc-flera-vive-till-lagre-pris",
+          "publishedOn": "2022-08-29T12:23:00.000Z",
+          "wordCount": 1690,
+          "title": "VR-rea hos HTC - flera Vive till lägre pris",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291271"
+        },
+        {
           "id": "https://www.fz.se/artikel/291270",
           "author": null,
           "description": "Co-op mot muterade urtidsmonster.",
@@ -26536,6 +26586,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34831",
+          "author": null,
+          "description": "AMD:s kommande flaggskepp på processorfronten sägs kunna nå klockfrekvenser på upp till 5,85 GHz vid enkeltrådiga laster.",
+          "link": "https://www.sweclockers.com/artikel/34831-ryzen-9-7950x-uppges-ha-en-maximal-klockfrekvens-pa-585-ghz",
+          "publishedOn": "2022-08-29T11:32:31.000Z",
+          "wordCount": 1716,
+          "title": "Ryzen 9 7950X uppges ha en maximal klockfrekvens på 5,85 GHz",
+          "imageUrl": "https://www.sweclockers.com/artikel/34831/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34830",
           "author": null,
           "description": "Mark Zuckerberg avslöjar en del av Metas framtidsplaner inom VR och bekräftar att nästa VR-headset visas upp i oktober.",
@@ -28107,6 +28167,16 @@
       "siteUrl": "https://explosm.net",
       "articles": [
         {
+          "id": "https://explosm.net/comics/iphone-3gs",
+          "author": null,
+          "description": "New Cyanide and Happiness Comic",
+          "link": "https://explosm.net/comics/iphone-3gs",
+          "publishedOn": "2022-08-29T06:37:12.000Z",
+          "wordCount": 639,
+          "title": "Comic for 2022.08.29 - iPhone 3GS",
+          "imageUrl": null
+        },
+        {
           "id": "https://explosm.net/comics/2009-chris-brown",
           "author": null,
           "description": "New Cyanide and Happiness Comic",
@@ -28344,16 +28414,6 @@
           "publishedOn": "2022-08-01T00:00:04.000Z",
           "wordCount": 1475,
           "title": "Comic for 2022.08.01 - Clown Town",
-          "imageUrl": null
-        },
-        {
-          "id": "https://explosm.net/comics/ouija-board",
-          "author": null,
-          "description": "New Cyanide and Happiness Comic",
-          "link": "https://explosm.net/comics/ouija-board",
-          "publishedOn": "2022-07-31T00:00:17.000Z",
-          "wordCount": 1475,
-          "title": "Comic for 2022.07.31 - Ouija Board",
           "imageUrl": null
         }
       ]
@@ -28613,6 +28673,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/29/waferscale_photonics_interconnect/",
+          "author": null,
+          "description": "<h4>Interconnect tech promises 96TB/s die-to-die communications</h4> <p><strong>Hot Chips</strong>  As chipmakers look to scale compute to ever-greater heights, they’re increasingly turning to waferscale compute architectures to circumvent bandwidth and latency bottlenecks.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/29/waferscale_photonics_interconnect/",
+          "publishedOn": "2022-08-29T11:18:08.000Z",
+          "wordCount": 1695,
+          "title": "Waferscale startup says it can stitch chips together with light",
+          "imageUrl": "https://regmedia.co.uk/2022/08/26/lightmatter_passage.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/29/who_me/",
           "author": null,
