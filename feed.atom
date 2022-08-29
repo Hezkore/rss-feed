@@ -2,10 +2,32 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-28T23:22:35.130Z</updated>
+    <updated>2022-08-29T02:34:16.051Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Indian services giants fight over moonlighting employees]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/29/india_it_worker_moonlighting_debate/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/29/india_it_worker_moonlighting_debate/"/>
+        <updated>2022-08-29T00:30:12.000Z</updated>
+        <summary type="html"><![CDATA[<h4>PLUS: Trustwave's Singapore owners selling?; Pakistan's suspiciously political internet brownout; Indonesian data leaks; and more!</h4> <p><strong>Asia In Brief</strong>  Senior execs at India's big IT outsourcers are debating whether it is appropriate for their staff to take on additional paid work outside the company.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dirk Eddelbuettel: littler 0.3.16 on CRAN: Package Updates]]></title>
+        <id>http://dirk.eddelbuettel.com/blog/2022/08/28#littler-0.3.16</id>
+        <link href="http://dirk.eddelbuettel.com/blog/2022/08/28#littler-0.3.16"/>
+        <updated>2022-08-28T22:54:00.000Z</updated>
+        <summary type="html"><![CDATA[The seventeenth release of littler as a CRAN package just landed, following in the now sixteen year history (!!) as a package started by Jeff in 2006, and joined by me a few weeks later.
+littler is the first command-line interface for R as it predates Rscript. It allows for piping as well for shebang scripting via #!, uses command-line arguments more consistently and still starts faster. It also always loaded the methods package which Rscript only started to do in recent years.
+littler lives on Linux and Unix, has its difficulties on macOS due to yet-another-braindeadedness there (who ever thought case-insensitive filesystems as a default were a good idea?) and simply does not exist on Windows (yet – the build system could be extended – see RInside for an existence proof, and volunteers ar…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux 6.0-rc3 Released In Marking 31 Years Since Linus Torvalds Announced It]]></title>
         <id>https://www.phoronix.com/news/Linux-6.0-rc3-Released</id>
@@ -36862,84 +36884,6 @@ Led by Jakub Ben and Marcin Michalski, the newly-founded studio Dark Passenger w
 Read more]]></summary>
         <author>
             <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prime Gaming August offerings include StarCraft: Remastered, Recompile, ScourgeBringer, more]]></title>
-        <id>https://www.vg247.com/prime-gaming-august-offerings-include-starcraft-remastered-recompile-scourgebringer-more</id>
-        <link href="https://www.vg247.com/prime-gaming-august-offerings-include-starcraft-remastered-recompile-scourgebringer-more"/>
-        <updated>2022-07-30T14:20:07.000Z</updated>
-        <summary type="html"><![CDATA[Amazon is handing out six free tites this month through Prime Gaming.
-You can claim all six titles starting August 1.
-The free games for August are StarCraft: Remastered, Zak McKracken and the Alien Mindbenders, Beasts of Maravilla Island, Recompile, ScourgeBringer, and Family Mysteries: Poisonous Promises.
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FZ Play ikväll - Äventyr i Syberia: The World Before]]></title>
-        <id>https://www.fz.se/artikel/290946</id>
-        <link href="https://www.fz.se/artikel/290946-fz-play-ikvall-aventyr-i-syberia-the-world-before"/>
-        <updated>2022-07-30T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mirror_Hime tar sig an Syberia-upprättelsen.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leisure Time]]></title>
-        <id>https://tapas.io/episode/2600775</id>
-        <link href="https://tapas.io/episode/2600775"/>
-        <updated>2022-07-30T13:07:55.000Z</updated>
-        <author>
-            <name>J. L. Westover</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's another Genshin Impact Sumeru teaser trailer]]></title>
-        <id>https://www.eurogamer.net/heres-another-genshin-impact-sumeru-teaser-trailer</id>
-        <link href="https://www.eurogamer.net/heres-another-genshin-impact-sumeru-teaser-trailer"/>
-        <updated>2022-07-30T12:47:31.000Z</updated>
-        <summary type="html"><![CDATA[HoYoverse has revealed more about what new region Sumeru has to offer.
-
-We've already seen glimpses of Sumeru, but now the developer has pulled back the curtain to give us a peek at the upcoming Sumeru deserts, as well as a load of new characters.
-
-Check it all out in the three-minute video below, although it all comes with the usual caveats that the new area is under development and the footage below "is not indicative of the final product: 
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer camp simulator Camp Canyonwood releases in early access next week]]></title>
-        <id>https://www.eurogamer.net/summer-camp-simulator-camp-canyonwood-releases-in-early-access-next-week</id>
-        <link href="https://www.eurogamer.net/summer-camp-simulator-camp-canyonwood-releases-in-early-access-next-week"/>
-        <updated>2022-07-30T11:31:57.000Z</updated>
-        <summary type="html"><![CDATA[Summer camp simulator Camp Canyonwood will release next week as an early access title.
-
-From 4th August, you can step into the shoes of the newest counsellor at Camp Canyonwood, where you'll manage campers, teach them new skills, earn badges, and work to restore the camp by "building and modifying the campground".
-
-"Build and manage a struggling summer camp to restore its former glory!" teases the video description. "Each summer, teach new campers activities like fishing, archery and more, while protecting them from dangers natural and supernatural. Keep campers happy to earn funds for improving the campground until it's better than ever!"
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ian Jackson: chiark’s skip-skip-cross-up-grade]]></title>
-        <id>tag:dreamwidth.org,2009-05-21:377446:11840</id>
-        <link href="https://diziet.dreamwidth.org/11840.html"/>
-        <updated>2022-07-30T11:27:58.000Z</updated>
-        <summary type="html"><![CDATA[Two weeks ago I upgraded chiark from Debian jessie i386 to bullseye amd64, after nearly 30 years running Debian i386. This went really quite well, in fact!
-Background
-chiark is my “colo” - a server I run, which lives in a data centre in London. It hosts ~200 users with shell accounts, various websites and mailing lists, moderators for a number of USENET newsgroups, and countless other services. chiark’s internal setup is designed to enable my users to do a maximum number of exciting things with a minimum of intervention from me.
-chiark’s OS install dates to 1993, when I installed Debian 0.93R5, the first version of Debian to advertise the ability to be upgraded without reinstalling. I think that makes it one of the oldest Debian installations in existence.
-Obviously it’s had several new ha…]]></summary>
-        <author>
-            <name>Planet Debian</name>
         </author>
     </entry>
 </feed>

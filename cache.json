@@ -6721,26 +6721,6 @@
           "wordCount": 4659,
           "title": "Former Witcher 3 devs form new studio to create a new action game based in feudal Japan",
           "imageUrl": "https://assets.reedpopcdn.com/Screenshot-2022-07-30-at-14.30.15.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Screenshot-2022-07-30-at-14.30.15.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/heres-another-genshin-impact-sumeru-teaser-trailer",
-          "author": "Vikki Blake",
-          "description": "HoYoverse has revealed more about what new region Sumeru has to offer.\r\n\nWe've already seen glimpses of Sumeru, but now the developer has pulled back the curtain to give us a peek at the upcoming Sumeru deserts, as well as a load of new characters.\r\n\nCheck it all out in the three-minute video below, although it all comes with the usual caveats that the new area is under development and the footage below \"is not indicative of the final product: \r\n \nRead more",
-          "link": "https://www.eurogamer.net/heres-another-genshin-impact-sumeru-teaser-trailer",
-          "publishedOn": "2022-07-30T12:47:31.000Z",
-          "wordCount": 4596,
-          "title": "Here's another Genshin Impact Sumeru teaser trailer",
-          "imageUrl": "https://assets.reedpopcdn.com/Screenshot-2022-07-30-at-13.36.46.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Screenshot-2022-07-30-at-13.36.46.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/summer-camp-simulator-camp-canyonwood-releases-in-early-access-next-week",
-          "author": "Vikki Blake",
-          "description": "Summer camp simulator Camp Canyonwood will release next week as an early access title.\r\n\nFrom 4th August, you can step into the shoes of the newest counsellor at Camp Canyonwood, where you'll manage campers, teach them new skills, earn badges, and work to restore the camp by \"building and modifying the campground\".\r\n\n\"Build and manage a struggling summer camp to restore its former glory!\" teases the video description. \"Each summer, teach new campers activities like fishing, archery and more, while protecting them from dangers natural and supernatural. Keep campers happy to earn funds for improving the campground until it's better than ever!\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/summer-camp-simulator-camp-canyonwood-releases-in-early-access-next-week",
-          "publishedOn": "2022-07-30T11:31:57.000Z",
-          "wordCount": 4487,
-          "title": "Summer camp simulator Camp Canyonwood releases in early access next week",
-          "imageUrl": "https://assets.reedpopcdn.com/ss_815770a0b3fcdf89b2077371fae4f0b653b69111.1920x1080.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ss_815770a0b3fcdf89b2077371fae4f0b653b69111.1920x1080.jpg"
         }
       ]
     },
@@ -9528,16 +9508,6 @@
           "wordCount": 4545,
           "title": "Grounded gets a release date along with a final major update",
           "imageUrl": "https://asset.vg247.com/grounded_19.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/grounded_19.jpg"
-        },
-        {
-          "id": "https://www.vg247.com/prime-gaming-august-offerings-include-starcraft-remastered-recompile-scourgebringer-more",
-          "author": "Stephany Nunneley",
-          "description": "Amazon is handing out six free tites this month through Prime Gaming.\nYou can claim all six titles starting August 1.\nThe free games for August are StarCraft: Remastered, Zak McKracken and the Alien Mindbenders, Beasts of Maravilla Island, Recompile, ScourgeBringer, and Family Mysteries: Poisonous Promises.\n Read more",
-          "link": "https://www.vg247.com/prime-gaming-august-offerings-include-starcraft-remastered-recompile-scourgebringer-more",
-          "publishedOn": "2022-07-30T14:20:07.000Z",
-          "wordCount": 4452,
-          "title": "Prime Gaming August offerings include StarCraft: Remastered, Recompile, ScourgeBringer, more",
-          "imageUrl": "https://asset.vg247.com/starcraft_remastered_02.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/starcraft_remastered_02.jpg"
         }
       ]
     },
@@ -19688,6 +19658,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "http://dirk.eddelbuettel.com/blog/2022/08/28#littler-0.3.16",
+          "author": null,
+          "description": "The seventeenth release of littler as a CRAN package just landed, following in the now sixteen year history (!!) as a package started by Jeff in 2006, and joined by me a few weeks later.\nlittler is the first command-line interface for R as it predates Rscript. It allows for piping as well for shebang scripting via #!, uses command-line arguments more consistently and still starts faster. It also always loaded the methods package which Rscript only started to do in recent years.\nlittler lives on Linux and Unix, has its difficulties on macOS due to yet-another-braindeadedness there (who ever thought case-insensitive filesystems as a default were a good idea?) and simply does not exist on Windows (yet – the build system could be extended – see RInside for an existence proof, and volunteers ar…",
+          "link": "http://dirk.eddelbuettel.com/blog/2022/08/28#littler-0.3.16",
+          "publishedOn": "2022-08-28T22:54:00.000Z",
+          "wordCount": 1094,
+          "title": "Dirk Eddelbuettel: littler 0.3.16 on CRAN: Package Updates",
+          "imageUrl": null
+        },
+        {
           "id": "tag:blogger.com,1999:blog-8085113335874848981.post-1341284339746215209",
           "author": "noreply@blogger.com (Andrew Cater)",
           "description": "And here we are: second day of the barbeque in Cambridge. Lots of food - as always - some alcohol, some soft drinks, coffee.\nLots of good friends, and banter and good natured argument. For a couple of folk, it's their first time here - but most people have known each other for years. Lots of reminiscing, some crochet from two of us. Multiple technical discussions weaving and overlapping\n\nNot just meat and vegetarian options for food: a fresh loaf, gingerbread of various sorts, fresh Belgian-style waffles.\nI''m in the front room: four of us silently on laptops, one on a phone. Sounds of a loud game of Mao from the garden - all very normal for this time of year.\nThanks to Jo and Steve, to all the cooks and folk sorting things out. One more night and I'll have done my first full BBQ here. Diet and slimming - what diet?",
@@ -20215,16 +20195,6 @@
           "publishedOn": "2022-07-30T21:35:25.000Z",
           "wordCount": 355,
           "title": "Mike Hommey: Announcing git-cinnabar 0.5.10",
-          "imageUrl": null
-        },
-        {
-          "id": "tag:dreamwidth.org,2009-05-21:377446:11840",
-          "author": null,
-          "description": "Two weeks ago I upgraded chiark from Debian jessie i386 to bullseye amd64, after nearly 30 years running Debian i386. This went really quite well, in fact!\nBackground\nchiark is my “colo” - a server I run, which lives in a data centre in London. It hosts ~200 users with shell accounts, various websites and mailing lists, moderators for a number of USENET newsgroups, and countless other services. chiark’s internal setup is designed to enable my users to do a maximum number of exciting things with a minimum of intervention from me.\nchiark’s OS install dates to 1993, when I installed Debian 0.93R5, the first version of Debian to advertise the ability to be upgraded without reinstalling. I think that makes it one of the oldest Debian installations in existence.\nObviously it’s had several new ha…",
-          "link": "https://diziet.dreamwidth.org/11840.html",
-          "publishedOn": "2022-07-30T11:27:58.000Z",
-          "wordCount": null,
-          "title": "Ian Jackson: chiark’s skip-skip-cross-up-grade",
           "imageUrl": null
         }
       ]
@@ -26517,16 +26487,6 @@
           "wordCount": 1868,
           "title": "Grounded har fått ett releasedatum spikat",
           "imageUrl": "https://www.fz.se/artikel/og-image/290949"
-        },
-        {
-          "id": "https://www.fz.se/artikel/290946",
-          "author": null,
-          "description": "Mirror_Hime tar sig an Syberia-upprättelsen.",
-          "link": "https://www.fz.se/artikel/290946-fz-play-ikvall-aventyr-i-syberia-the-world-before",
-          "publishedOn": "2022-07-30T14:00:00.000Z",
-          "wordCount": 1744,
-          "title": "FZ Play ikväll - Äventyr i Syberia: The World Before",
-          "imageUrl": "https://www.fz.se/artikel/og-image/290946"
         }
       ]
     },
@@ -28432,16 +28392,6 @@
           "wordCount": null,
           "title": "Hell or Bust",
           "imageUrl": null
-        },
-        {
-          "id": "https://tapas.io/episode/2600775",
-          "author": "J. L. Westover",
-          "description": "",
-          "link": "https://tapas.io/episode/2600775",
-          "publishedOn": "2022-07-30T13:07:55.000Z",
-          "wordCount": null,
-          "title": "Leisure Time",
-          "imageUrl": null
         }
       ]
     },
@@ -28633,6 +28583,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/29/india_it_worker_moonlighting_debate/",
+          "author": null,
+          "description": "<h4>PLUS: Trustwave's Singapore owners selling?; Pakistan's suspiciously political internet brownout; Indonesian data leaks; and more!</h4> <p><strong>Asia In Brief</strong>  Senior execs at India's big IT outsourcers are debating whether it is appropriate for their staff to take on additional paid work outside the company.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/29/india_it_worker_moonlighting_debate/",
+          "publishedOn": "2022-08-29T00:30:12.000Z",
+          "wordCount": 2584,
+          "title": "Indian services giants fight over moonlighting employees",
+          "imageUrl": "https://regmedia.co.uk/2022/08/28/shutterstock_apac_pcb_map.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/28/ai_in_brief/",
           "author": null,
