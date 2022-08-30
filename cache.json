@@ -23524,6 +23524,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291279",
+          "author": null,
+          "description": "Färre genvägar, mer \"på riktigt\".",
+          "link": "https://www.fz.se/artikel/291279-naughty-dog-forklarar-varfor-the-last-of-us-part-i-verkligen-ar-en-remake",
+          "publishedOn": "2022-08-30T06:54:00.000Z",
+          "wordCount": 2077,
+          "title": "Naughty Dog förklarar varför The Last of Us Part I verkligen är en remake",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291279"
+        },
+        {
           "id": "https://www.fz.se/artikel/291278",
           "author": null,
           "description": "Stranded äger rum vid ett strandat fraktfartyg.",
@@ -26811,6 +26821,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34833",
+          "author": null,
+          "description": "PC Games Hardware snurrar igång Intel Arc A380 för att undersöka hur grafikkortet hanterar både nya och gamla spel. För det mesta är resultaten goda.",
+          "link": "https://www.sweclockers.com/artikel/34833-intel-arc-med-farska-drivrutiner-testas-i-50-spel-41-far-tummen-upp",
+          "publishedOn": "2022-08-30T07:11:31.000Z",
+          "wordCount": 1747,
+          "title": "Intel Arc med färska drivrutiner testas i 50 spel – 41 får tummen upp",
+          "imageUrl": "https://www.sweclockers.com/artikel/34833/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34837",
           "author": null,
           "description": "Efter en rafflande Ryzen 7000-presentation gläntar AMD på dörren till Radeon RX 7000-serien, genom att visa bild och spel.",
@@ -28928,6 +28948,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/microsoft_windows_server_compression/",
+          "author": null,
+          "description": "<h4>You might find copying data over a network goes at least a little quicker</h4> <p>Microsoft this month fixed what one of its staffers called an \"idiosyncrasy\" in the end-to-end SMB compression functionality it began rolling out last year for Windows Server 2022 and Windows 11.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/microsoft_windows_server_compression/",
+          "publishedOn": "2022-08-30T07:25:10.000Z",
+          "wordCount": 1531,
+          "title": "Microsoft fixes Windows 'idiosyncrasy' that hampered some SMB file transfers",
+          "imageUrl": "https://regmedia.co.uk/2015/05/04/windows_server.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/frances_tax_department_used_ai/",
+          "author": null,
+          "description": "<h4>Aerial photo scanning tool to be expanded to catch out other unreported home improvements</h4> <p>AI software has detected more than 20,000 secret private swimming pools in aerial photography, helping French tax officials bag about €10 million (£ 8.6 million) in extra property levies.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/frances_tax_department_used_ai/",
+          "publishedOn": "2022-08-30T06:36:06.000Z",
+          "wordCount": 1282,
+          "title": "AI detects 20,000 hidden taxable swimming pools in France, netting €10m",
+          "imageUrl": "https://regmedia.co.uk/2019/01/14/shutterstock_divebomb.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/whatsapp_getting_ecommerce_functionality_in/",
           "author": null,
