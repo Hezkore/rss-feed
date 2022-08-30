@@ -1644,36 +1644,6 @@
           "wordCount": 2106,
           "title": "Valve bans devs from adding review scores and awards on Steam store assets",
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/572686544id21380gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/08/mojang-rolls-out-player-chat-reporting-into-minecraft-java/",
-          "author": "Liam Dawe",
-          "description": "Minecraft Java Edition 1.19.1 is out now and it comes with some controversial changes, that many players are not particularly happy about.",
-          "link": "https://www.gamingonlinux.com/2022/08/mojang-rolls-out-player-chat-reporting-into-minecraft-java/",
-          "publishedOn": "2022-08-01T10:20:10.000Z",
-          "wordCount": 2115,
-          "title": "Mojang rolls out Player Chat Reporting into Minecraft Java",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1767427260id21379gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/08/linux-gaming-overlay-mangohud-version-068-out-now/",
-          "author": "Liam Dawe",
-          "description": "MangoHud is probably one of my favourite open source projects giving Linux gamers a fancy HUD to display various performance metrics in a nice overlay. Version 0.6.8 is out now!",
-          "link": "https://www.gamingonlinux.com/2022/08/linux-gaming-overlay-mangohud-version-068-out-now/",
-          "publishedOn": "2022-08-01T09:40:12.000Z",
-          "wordCount": 1364,
-          "title": "Linux gaming overlay MangoHud version 0.6.8 out now",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/192930847id21378gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/08/openrazer-new-release-adding-support-for-more-razer-hardware-on-linux/",
-          "author": "Liam Dawe",
-          "description": "Razer make some pretty fancy hardware but, like a lot of vendors, don't exactly support Linux directly and so the OpenRazer project helps you out there.",
-          "link": "https://www.gamingonlinux.com/2022/08/openrazer-new-release-adding-support-for-more-razer-hardware-on-linux/",
-          "publishedOn": "2022-08-01T09:27:02.000Z",
-          "wordCount": 1218,
-          "title": "OpenRazer new release adding support for more Razer hardware on Linux",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/242914570id21377gol.jpg"
         }
       ]
     },
@@ -6941,16 +6911,6 @@
           "wordCount": 5092,
           "title": "This impressive fan-made Star Wars Jedi VR demo shows Disney how it should be done",
           "imageUrl": "https://assets.reedpopcdn.com/b1_tPRleWA.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/b1_tPRleWA.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/call-of-duty-dog-skin-images-scrubbed-following-plagiarism-claim",
-          "author": "Tom Phillips",
-          "description": "A fluffy dog skin set to release in Call of Duty Warzone has been hit by a claim of plagiarism, and Activision has now pulled imagery of the upcoming pooch from its website.\r\n\n\r\nThe claim of copying comes from concept artist and Call of Duty fan Sail Lin, who has highlighted images of their own dog skin design, originally uploaded to Artstation back in December 2019.\r\n\n\r\nWriting on Twitter, Lin said he was \"very disappointed to see my work being plagiarised by a big company like Activision in this way\". Eurogamer has contacted Activision for comment. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/call-of-duty-dog-skin-images-scrubbed-following-plagiarism-claim",
-          "publishedOn": "2022-08-01T09:21:41.000Z",
-          "wordCount": 4483,
-          "title": "Call of Duty dog skin images scrubbed following plagiarism claim",
-          "imageUrl": "https://assets.reedpopcdn.com/callofdutydog.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/callofdutydog.jpg"
         }
       ]
     },
@@ -12285,36 +12245,6 @@
           "wordCount": 1409,
           "title": "Mesa's Radeon R600g Driver Adds NIR Support For Pre-Evergreen GPUs",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Unvanquished-0.53-Beta",
-          "author": null,
-          "description": "Released on Sunday was Unvanquished 0.53 Beta as the latest in a long string of betas for this one of the most promising open-source first person shooter (FPS) games...",
-          "link": "https://www.phoronix.com/news/Unvanquished-0.53-Beta",
-          "publishedOn": "2022-08-01T10:00:54.000Z",
-          "wordCount": 1477,
-          "title": "Unvanquished 0.53 Released For This Leading Open-Source FPS Game",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.0-RNG",
-          "author": null,
-          "description": "In addition to being busy leading WireGuard, Jason Donenfeld continues working heavily on the Linux kernel's random number generator (RNG) code. For Linux 6.0, a number of RNG improvements are ready...",
-          "link": "https://www.phoronix.com/news/Linux-6.0-RNG",
-          "publishedOn": "2022-08-01T09:49:31.000Z",
-          "wordCount": 1503,
-          "title": "Linux 6.0 To Continue Advancing Its Random Number Generator (RNG)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/GNU-Linux-Libre-5.19",
-          "author": null,
-          "description": "Following yesterday's release of Linux 5.19 stable the FSFLA folks maintaining the GNU Linux-libre kernel released their downstream version that strips out support for loading proprietary kernel modules as well as stripping out drivers/support that requires non-free/closed-source microcode/firmware files...",
-          "link": "https://www.phoronix.com/news/GNU-Linux-Libre-5.19",
-          "publishedOn": "2022-08-01T09:32:22.000Z",
-          "wordCount": 1474,
-          "title": "GNU Linux-libre 5.19-gnu Released - Continues The Uphill Battle Against Firmware Blobs",
-          "imageUrl": null
         }
       ]
     },
@@ -12323,6 +12253,26 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/rocksmiths-guitar-teaching-subscription-service-will-finally-launch-next-week",
+          "author": "Graham Smith",
+          "description": "Rocksmith+ was announced and intended for release last year, only to be delayed after beta feedback. It has now resurfaced, and the new subscription service for Ubisoft's guitar-teaching series will instead launch next week on September 6th.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/rocksmiths-guitar-teaching-subscription-service-will-finally-launch-next-week",
+          "publishedOn": "2022-08-30T22:08:05.000Z",
+          "wordCount": 4739,
+          "title": "Rocksmith+'s guitar-teaching subscription service will finally launch next week",
+          "imageUrl": "https://assets2.rockpapershotgun.com/rocksmith_VKD4lzN.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/rocksmith_VKD4lzN.jpg"
+        },
+        {
+          "id": "https://www.rockpapershotgun.com/heres-7-minutes-of-the-last-of-us-part-1s-remake",
+          "author": "Graham Smith",
+          "description": "The Last Of Us Part I's remake is heading to PlayStation 5 on September 2nd, which I assume is of modest interest if you want to play Joel and Ellie's story over from the beginning with prettier graphics. It's more interesting to us in PC land because it'll be the first time the heart-and-zombie smasher makes its way to PC - albeit \"very soon\" after its console release.\r\n\nBelow, a new seven-minute clip of the remaster in action.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/heres-7-minutes-of-the-last-of-us-part-1s-remake",
+          "publishedOn": "2022-08-30T21:39:38.000Z",
+          "wordCount": 4756,
+          "title": "Here's 7 minutes of The Last Of Us: Part 1's remake",
+          "imageUrl": "https://assets2.rockpapershotgun.com/The-Last-Of-Us-Part-1-giraffe.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/The-Last-Of-Us-Part-1-giraffe.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/gta5s-best-graphics-mod-is-now-available-for-free-download",
           "author": "Graham Smith",
@@ -15622,16 +15572,6 @@
           "wordCount": 4850,
           "title": "Spyro has been modded into indie cat hit Stray",
           "imageUrl": "https://assets2.rockpapershotgun.com/Stray-Spyro-mod.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Stray-Spyro-mod.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/steam-survival-fest-starts-stockpiling-demos-and-discounts-today",
-          "author": "CJ Wheeler",
-          "description": "It’s August! How did humanity manage to get ourselves to this point in the year? Well, Valve are celebrating with Steam Survival Fest from today through until August 8th, so good job for stocking up on all those cans of beans and endless loo roll. Although they do increasingly seem to be making trailers for these things, there isn’t one yet, so here’s vid bud Liam trying to claw back his three quid for survival horror Refund Me If You Can instead.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/steam-survival-fest-starts-stockpiling-demos-and-discounts-today",
-          "publishedOn": "2022-08-01T09:48:53.000Z",
-          "wordCount": 4751,
-          "title": "Steam Survival Fest starts stockpiling demos and discounts today",
-          "imageUrl": "https://assets2.rockpapershotgun.com/steam-survival-fest-main.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/steam-survival-fest-main.jpg"
         }
       ]
     },
@@ -15640,6 +15580,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "9Fmpp9xz8aD6wSZWtJhLDY",
+          "author": null,
+          "description": "Sales of CPUs drop by 33.7% year-over-year in Q2 2022, JPR says.",
+          "link": "https://www.tomshardware.com/news/jpr-unit-sales-of-nvidia-gpus-down-26-percent-as-pc-sales-collapse",
+          "publishedOn": "2022-08-30T21:29:51.000Z",
+          "wordCount": 17774,
+          "title": "JPR: Unit Sales of Nvidia GPUs Down 26 Percent as PC Sales Collapse",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/wW4a9ZHBV4WDUdEtCV9Nf3.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/wW4a9ZHBV4WDUdEtCV9Nf3.jpg"
+        },
         {
           "id": "nSFGMSH4XM2iazcJZNqXMc",
           "author": null,
@@ -21286,6 +21241,16 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1877105",
+          "author": "Beth Mole",
+          "description": "Officials are still determining the exact cause of death, which occurred August 28.",
+          "link": "https://arstechnica.com/?p=1877105",
+          "publishedOn": "2022-08-30T21:03:26.000Z",
+          "wordCount": 1467,
+          "title": "First US death linked to monkeypox reported in immunocompromised adult in Texas",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1415047428-760x380.jpeg"
+        },
         {
           "id": "https://arstechnica.com/?p=1877033",
           "author": "Andrew Cunningham",
@@ -27871,16 +27836,6 @@
           "publishedOn": "2022-08-01T10:53:00.000Z",
           "wordCount": null,
           "title": "Tidigare Xbox-chef menar att man \"uppmuntrade\" konsolkrig",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.fz.se/artikel/290959",
-          "author": null,
-          "description": "Ett manus påstås ha läckt.",
-          "link": "https://www.fz.se/artikel/290959-i-nasta-tomb-raider-spel-kan-lara-leda-ett-team-med-tomb-raiders",
-          "publishedOn": "2022-08-01T10:02:00.000Z",
-          "wordCount": null,
-          "title": "I nästa Tomb Raider-spel kan Lara leda \"ett team med tomb raiders\"",
           "imageUrl": null
         }
       ]
