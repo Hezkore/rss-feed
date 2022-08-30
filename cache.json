@@ -15631,6 +15631,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "nrZz3jYhp732i5LpxXp6wk",
+          "author": null,
+          "description": "The AeroCool Skribble case comes with a liquid chalk marker and a wiper, so you can change or erase designs. Other than this artsy feature, it looks like a pretty standard mid-tower case with an RGB fan included.",
+          "link": "https://www.tomshardware.com/news/aerocool-skribble-case-invites-pc-diyers-to-create-some-art",
+          "publishedOn": "2022-08-30T18:59:31.000Z",
+          "wordCount": 19003,
+          "title": "AeroCool Skribble Case Invites PC DIYers to Create Some Art",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/xy8JkykSLnuAVFz4NeYeuD.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/xy8JkykSLnuAVFz4NeYeuD.jpg"
+        },
+        {
           "id": "q6sC3soWeajzng74A3qzsK",
           "author": null,
           "description": "TSMC says a shortage of inexpensive \"commodity chips\" is disrupting trillion dollar industries. Even ASML currently suffers from insufficient chip supply of these chips.",
@@ -21231,6 +21246,26 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1876968",
+          "author": "Scott K. Johnson",
+          "description": "How long that takes to play out is unclear.",
+          "link": "https://arstechnica.com/?p=1876968",
+          "publishedOn": "2022-08-30T18:54:26.000Z",
+          "wordCount": 1821,
+          "title": "Study sees almost a foot of sea level rise locked in for Greenland",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/greenland_helheim_kanger_NASA_icebridge-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1876963",
+          "author": "Jon Brodkin",
+          "description": "Tesla ordered to scrap shirt ban and notify workers that it violated US labor law.",
+          "link": "https://arstechnica.com/?p=1876963",
+          "publishedOn": "2022-08-30T18:04:23.000Z",
+          "wordCount": 1677,
+          "title": "Tesla’s ban on pro-union shirts is illegal and must be rescinded, NLRB rules",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/tesla-fremont-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1876955",
           "author": "Ashley Belanger",
@@ -27797,16 +27832,6 @@
           "wordCount": null,
           "title": "Cyberpunk-spelet The Ascent ska få mer innehåll",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.fz.se/artikel/290955",
-          "author": null,
-          "description": "Online med fokus på både samarbete och rivalitet.",
-          "link": "https://www.fz.se/artikel/290955-f-d-witcher-3-utvecklare-jobbar-pa-actionspel-i-feodala-japan",
-          "publishedOn": "2022-08-01T06:55:00.000Z",
-          "wordCount": null,
-          "title": "F.d. Witcher 3-utvecklare jobbar på actionspel i feodala Japan",
-          "imageUrl": null
         }
       ]
     },
@@ -29983,6 +30008,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/ubuntu_systemd_dns_update/",
+          "author": null,
+          "description": "<h4>Snafu disrupts VMs as cloud giant offers workarounds</h4> <p>Microsoft Azure customers running Canonical's Ubuntu 18.04 (aka Bionic Beaver) in the cloud have seen their applications fail after a flawed security update to systemd broke DNS queries.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/ubuntu_systemd_dns_update/",
+          "publishedOn": "2022-08-30T18:32:22.000Z",
+          "wordCount": 1466,
+          "title": "Ubuntu Linux 18.04 systemd security patch breaks DNS in Microsoft Azure",
+          "imageUrl": "https://regmedia.co.uk/2017/04/20/sad_penguin_photo_via_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/microsoft_armbased_vms_azure/",
           "author": null,

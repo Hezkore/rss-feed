@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-30T18:27:45.047Z</updated>
+    <updated>2022-08-30T19:18:48.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AeroCool Skribble Case Invites PC DIYers to Create Some Art]]></title>
+        <id>nrZz3jYhp732i5LpxXp6wk</id>
+        <link href="https://www.tomshardware.com/news/aerocool-skribble-case-invites-pc-diyers-to-create-some-art"/>
+        <updated>2022-08-30T18:59:31.000Z</updated>
+        <summary type="html"><![CDATA[The AeroCool Skribble case comes with a liquid chalk marker and a wiper, so you can change or erase designs. Other than this artsy feature, it looks like a pretty standard mid-tower case with an RGB fan included.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Study sees almost a foot of sea level rise locked in for Greenland]]></title>
+        <id>https://arstechnica.com/?p=1876968</id>
+        <link href="https://arstechnica.com/?p=1876968"/>
+        <updated>2022-08-30T18:54:26.000Z</updated>
+        <summary type="html"><![CDATA[How long that takes to play out is unclear.]]></summary>
+        <author>
+            <name>Scott K. Johnson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu Linux 18.04 systemd security patch breaks DNS in Microsoft Azure]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/30/ubuntu_systemd_dns_update/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/30/ubuntu_systemd_dns_update/"/>
+        <updated>2022-08-30T18:32:22.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Snafu disrupts VMs as cloud giant offers workarounds</h4> <p>Microsoft Azure customers running Canonical's Ubuntu 18.04 (aka Bionic Beaver) in the cloud have seen their applications fail after a flawed security update to systemd broke DNS queries.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ubisoft's guitar learning subscription service Rocksmith+ out next week on PC]]></title>
         <id>https://www.eurogamer.net/ubisofts-guitar-learning-subscription-service-rocksmith-arrives-next-week-on-pc</id>
@@ -22,6 +52,16 @@ Nearly twelve months later, Rocksmith+ is finally ready for release and will lau
 Read more]]></summary>
         <author>
             <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla’s ban on pro-union shirts is illegal and must be rescinded, NLRB rules]]></title>
+        <id>https://arstechnica.com/?p=1876963</id>
+        <link href="https://arstechnica.com/?p=1876963"/>
+        <updated>2022-08-30T18:04:23.000Z</updated>
+        <summary type="html"><![CDATA[Tesla ordered to scrap shirt ban and notify workers that it violated US labor law.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
         </author>
     </entry>
     <entry>
@@ -38589,16 +38629,6 @@ Read more]]></summary>
         <link href="https://www.fz.se/artikel/290956-cyberpunk-spelet-the-ascent-ska-fa-mer-innehall"/>
         <updated>2022-08-01T07:59:00.000Z</updated>
         <summary type="html"><![CDATA["Förbered dig på ett helt nytt uppdrag."]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[F.d. Witcher 3-utvecklare jobbar på actionspel i feodala Japan]]></title>
-        <id>https://www.fz.se/artikel/290955</id>
-        <link href="https://www.fz.se/artikel/290955-f-d-witcher-3-utvecklare-jobbar-pa-actionspel-i-feodala-japan"/>
-        <updated>2022-08-01T06:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Online med fokus på både samarbete och rivalitet.]]></summary>
         <author>
             <name>FZ.se</name>
         </author>
