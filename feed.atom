@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-30T07:29:07.625Z</updated>
+    <updated>2022-08-30T08:29:44.878Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Kena: Bridge of Spirits gets Steam Deck Verified ahead of the Steam release]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/kena-bridge-of-spirits-gets-steam-deck-verified-ahead-of-the-steam-release/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/kena-bridge-of-spirits-gets-steam-deck-verified-ahead-of-the-steam-release/"/>
+        <updated>2022-08-30T08:25:51.000Z</updated>
+        <summary type="html"><![CDATA[Kena: Bridge of Spirits is a gorgeous looking story-driven, action adventure that was exclusive to the Epic Store but the time is up and it's coming to Steam now. It's also been Steam Deck Verified ahead of release.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proton Experimental fixes Final Fantasy XIV Online launcher, GTA V texture loading]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/proton-experimental-fixes-final-fantasy-xiv-online-launcher-gta-v-texture-loading/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/proton-experimental-fixes-final-fantasy-xiv-online-launcher-gta-v-texture-loading/"/>
+        <updated>2022-08-30T08:17:44.000Z</updated>
+        <summary type="html"><![CDATA[Proton Experimental for Steam Deck and Linux desktop from Valve recently had two small updates. Although small, they do have some major fixes.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wine 7.16 out fixing up Saints Row, Wow64 support in X11 driver]]></title>
+        <id>https://www.gamingonlinux.com/2022/08/wine-716-out-fixing-up-saints-row-wow64-support-in-x11-driver/</id>
+        <link href="https://www.gamingonlinux.com/2022/08/wine-716-out-fixing-up-saints-row-wow64-support-in-x11-driver/"/>
+        <updated>2022-08-30T08:08:56.000Z</updated>
+        <summary type="html"><![CDATA[Slightly later than they usually put up the releases, the Wine team released Wine 7.16 on August 28th bring new features and bug fixes for the Windows translation layer.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sonic Frontiers wrestles with taking the series' essence to the Open Zone]]></title>
+        <id>https://www.eurogamer.net/sonic-frontiers-wrestles-with-taking-the-series-essence-to-the-open-zone</id>
+        <link href="https://www.eurogamer.net/sonic-frontiers-wrestles-with-taking-the-series-essence-to-the-open-zone"/>
+        <updated>2022-08-30T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Back in May of 2018, I remember briefly asking Junichi Masuda, then of Pokémon developer Game Freak (and now chief creative officer at the Pokémon Company), whether Pokémon might one day follow the likes of Zelda and Mario into some kind of open-world format. At the time he called it a "possibility," if, and only if, the studio could find the right way to balance the traditional Pokémon staples with the open-world formula that was proving so successful elsewhere. It wasn't until this January, a good four years later (a lifetime in Pokémon development terms), that we saw what that possibility really was in Pokémon Legends Arceus - an open-ish world game that was really more of a series of open areas, linked together but gated according to your progress, and that progress achieved by doing very traditional, classically Pokémon things.
+
+
+Pokémon is of course barely relevant here, but that means of going sort-of-open-world might sound familiar to those with a close eye on Sonic Frontiers. It's another knot in the thread, which we can now rather neatly tie from Breath of the Wild's leap into the fully open world to Sonic, this coming November, doing the same in its own way. 
+
+
+People do like to cut that thread, mind - or go further and suggest it doesn't really exist. A common point made is that, while these games like to market themselves in the same way, finishing a trailer with a series mascot channelling a bit of Caspar David Friedrich by looking out imperiously over a green and mountainous world of adventure, that doesn't mean the games are the same, or that one was inspired in an any meaningful way by the other. These games all have fundamentally different systems and different goals, after all, and so Breath of the Wild isn't an influential game; it just had really influential box art.
+ 
+Read more]]></summary>
+        <author>
+            <name>Chris Tapsell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World of Anterra beskrivs som "Skyrim med pixelkonst"]]></title>
+        <id>https://www.fz.se/artikel/291280</id>
+        <link href="https://www.fz.se/artikel/291280-world-of-anterra-beskrivs-som-skyrim-med-pixelkonst"/>
+        <updated>2022-08-30T07:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Kickstartern ligger uppe och spelet ser riktigt lovande ut.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft fixes Windows 'idiosyncrasy' that hampered some SMB file transfers]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/30/microsoft_windows_server_compression/</id>
