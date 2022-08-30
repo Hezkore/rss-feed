@@ -2,10 +2,45 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-30T20:24:18.364Z</updated>
+    <updated>2022-08-30T21:21:29.918Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[VMware CEO bats away Broadcom concerns – it’s just ‘the next transition’]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/30/vmware_broadcom_/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/30/vmware_broadcom_/"/>
+        <updated>2022-08-30T20:53:58.000Z</updated>
+        <summary type="html"><![CDATA[<h4>And so is vSphere for Arm: CEO tells <i>Reg</i> he’s ‘beating up’ the exec responsible for the port</h4> <p><strong>VMware Explore</strong>  VMware is working to bring its flagship virtualization stack to all major processor architectures, CEO Raghu Raghuram said at his company’s Explore conference in San Francisco today.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GTA5's best graphics mod is now available for free download]]></title>
+        <id>https://www.rockpapershotgun.com/gta5s-best-graphics-mod-is-now-available-for-free-download</id>
+        <link href="https://www.rockpapershotgun.com/gta5s-best-graphics-mod-is-now-available-for-free-download"/>
+        <updated>2022-08-30T20:42:39.000Z</updated>
+        <summary type="html"><![CDATA[Most 'realistic graphics' mods make games look worse, but that's not the case with NaturalVision Evolved. The long-in-development Grand Theft Auto 5 mod is a comprehensive revamp of lighting, textures, models and much more, but it remains faithful to the art direction of the base game. 
+
+You can now download a Single Player Beta of the mod - and even if you don't plan on doing that, it's worth watching the trailer below.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Chrome 105 Released With HTML Sanitizer API, Container Queries & More]]></title>
+        <id>https://www.phoronix.com/news/Google-Chrome-105-Stable</id>
+        <link href="https://www.phoronix.com/news/Google-Chrome-105-Stable"/>
+        <updated>2022-08-30T20:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Google engineers today promoted Chrome 105 to their stable channel across Linux, macOS, Windows, and Android platforms...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Netflix's Cyberpunk 2077 anime Edgerunners arrives 13th September]]></title>
         <id>https://www.eurogamer.net/netflixs-cyberpunk-2077-anime-edgerunners-arrives-13th-september</id>
@@ -38662,74 +38697,6 @@ Writing on Twitter, Lin said he was "very disappointed to see my work being plag
 Read more]]></summary>
         <author>
             <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 5.20 Likely To Be Called Linux 6.0]]></title>
-        <id>https://www.phoronix.com/news/Linux-5.20-Is-Linux-6.0</id>
-        <link href="https://www.phoronix.com/news/Linux-5.20-Is-Linux-6.0"/>
-        <updated>2022-08-01T09:18:55.000Z</updated>
-        <summary type="html"><![CDATA[In case you missed it in yesterday's Linux 5.19 announcement and to avoid reader questions/confusion in the days ahead, just making it loud and clear here: what was referred to as the Linux 5.20 kernel in development will most likely be called Linux 6.0...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skull & Bones kommer inte drivas av en berättelse]]></title>
-        <id>https://www.fz.se/artikel/290958</id>
-        <link href="https://www.fz.se/artikel/290958-skull-bones-kommer-inte-drivas-av-en-berattelse"/>
-        <updated>2022-08-01T09:18:00.000Z</updated>
-        <summary type="html"><![CDATA[Finns narrativa bitar, men det är inte fokuspunkten.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 5.19 is out now, Torvalds released it using an Apple silicon MacBook]]></title>
-        <id>https://www.gamingonlinux.com/2022/08/linux-519-is-out-now-torvalds-released-it-using-an-apple-silicon-macbook/</id>
-        <link href="https://www.gamingonlinux.com/2022/08/linux-519-is-out-now-torvalds-released-it-using-an-apple-silicon-macbook/"/>
-        <updated>2022-08-01T09:15:16.000Z</updated>
-        <summary type="html"><![CDATA[The latest kernel release is out with Linux 5.19 and showing just how far Linux support for the newer Apple silicon MacBooks has come, Linus Torvalds did the release on one!]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows compatibility layer Wine version 7.14 is out now]]></title>
-        <id>https://www.gamingonlinux.com/2022/08/windows-compatibility-layer-wine-version-714-is-out-now/</id>
-        <link href="https://www.gamingonlinux.com/2022/08/windows-compatibility-layer-wine-version-714-is-out-now/"/>
-        <updated>2022-08-01T09:01:33.000Z</updated>
-        <summary type="html"><![CDATA[Windows compatibility on Linux continues to improve thanks to Wine, with the latest development release out now with Wine 7.14 available.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Month Ever! is a simple narrative with multiple, unexpected twists]]></title>
-        <id>https://www.eurogamer.net/best-month-ever-is-a-simple-narrative-with-multiple-unexpected-twists</id>
-        <link href="https://www.eurogamer.net/best-month-ever-is-a-simple-narrative-with-multiple-unexpected-twists"/>
-        <updated>2022-08-01T08:45:18.000Z</updated>
-        <summary type="html"><![CDATA[Best Month Ever! is such a (seemingly) unusual game that I didn't know what to make of it after seeing the original trailer, or even after checking out the demo. It's about a white woman named Louise, set in the US during 1969, where she must spend as much time as possible with her Black, biracial son Mitch. This is because Louise has been diagnosed with an illness and has only one month left to live.
-
-
-The story is told in flashbacks with a voiceover from an adult Mitch, contextualising the choices and decisions made by his mother at the time. Of course, these are choices you end up making through dialogue options throughout the game, creating a Louise whose future characteristics are based on Mitch's observation of your behaviour.
-
-
-It begins with Louise having to collect her final paycheck from her abusive boss at the nearby diner, with Mitch (supposedly) sitting in the car. Through his eyes, you observe Louise being sexually harassed and make a quick getaway after torching up the boss' car with an old lighter.
- 
-Read more]]></summary>
-        <author>
-            <name>Emad Ahmed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geforce RTX 4070 Ti uppges möta RTX 3090 Ti]]></title>
-        <id>https://www.sweclockers.com/artikel/34682</id>
-        <link href="https://www.sweclockers.com/artikel/34682-geforce-rtx-4070-ti-uppges-mota-rtx-3090-ti"/>
-        <updated>2022-08-01T08:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Nu skymtas rykten om den kommande grafikkretsen AD104, som ska nå samma prestanda som fullfjädrade "Ampere" – motsägelsefullt nog till nästan samma effektuttag.]]></summary>
-        <author>
-            <name>SweClockers</name>
         </author>
     </entry>
 </feed>
