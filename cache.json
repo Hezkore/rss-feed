@@ -12,6 +12,16 @@
       "siteUrl": "https://itsfoss.com",
       "articles": [
         {
+          "id": "http://itsfoss.com/?p=10907",
+          "author": "Sagar Sharma",
+          "description": "A list of basic Linux networking commands that will help you troubleshoot network issues, monitor packets, connect devices, and much more.",
+          "link": "https://itsfoss.com/basic-linux-networking-commands/",
+          "publishedOn": "2022-08-31T06:34:00.000Z",
+          "wordCount": 10416,
+          "title": "21 Basic Linux Networking Commands You Should Know",
+          "imageUrl": "https://itsfoss.com/wp-content/uploads/2016/06/essential-linux-networking-commmands.png"
+        },
+        {
           "id": "https://itsfoss.com/?p=100996",
           "author": "Sagar Sharma",
           "description": "Open source library management software are the best! Let's take a look at some of them here.",
@@ -6701,16 +6711,6 @@
           "wordCount": 4991,
           "title": "Here's how Sea of Thieves' captaincy features work in this week's big update",
           "imageUrl": "https://assets.reedpopcdn.com/sea-of-thieves-season-7.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sea-of-thieves-season-7.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/netflixs-animated-cyberpunk-2077-series-edgerunners-gets-new-three-minute-trailer",
-          "author": "Matt Wales",
-          "description": "Netflix is readying for the September arrival of its animated Cyberpunk 2077 series, Cyberpunk: Edgerunners, with the release of its first full trailer, introducing some of the story's key players.\r\n\n\r\nEdgerunners, which was announced back in June 2020, is a 10-episode collaboration between Cyberpunk 2077 developer CD Projekt and Japanese animation studio Trigger, which has previously worked on the likes of Little Witch Academia and Kill la Kill. It tells the story of a street kid trying to survive in the technology and body modification obsessed Night City.\r\n\n\r\n\"Having everything to lose,\" explains Netflix, \"he stays alive by becoming an Edgerunner - a mercenary outlaw also known as a cyberpunk.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/netflixs-animated-cyberpunk-2077-series-edgerunners-gets-new-three-minute-trailer",
-          "publishedOn": "2022-08-01T19:08:13.000Z",
-          "wordCount": 4461,
-          "title": "Netflix's animated Cyberpunk 2077 series Edgerunners gets full trailer",
-          "imageUrl": "https://assets.reedpopcdn.com/cyberpunk-edgerunners-still.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/cyberpunk-edgerunners-still.jpg"
         }
       ]
     },
@@ -24030,16 +24030,6 @@
           "wordCount": 2044,
           "title": "Visa knew about Pornhub’s child porn, judge says, and now must face trial [Updated]",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1228596482-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1870721",
-          "author": "Kyle Orland",
-          "description": "Improper coding of Chinese characters let players weaponize copy-pasted text strings.",
-          "link": "https://arstechnica.com/?p=1870721",
-          "publishedOn": "2022-08-01T19:23:44.000Z",
-          "wordCount": 1421,
-          "title": "Bungie shuts Destiny 2 text chat to stop malicious exploit",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/destiny2quiet-760x380.jpg"
         }
       ]
     },
@@ -24048,6 +24038,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291293",
+          "author": null,
+          "description": "Och fokus tycks ligga på molnspelande.",
+          "link": "https://www.fz.se/artikel/291293-bilder-pa-logitechs-barbara-spelkonsol-har-lackt",
+          "publishedOn": "2022-08-31T06:59:00.000Z",
+          "wordCount": 1891,
+          "title": "Bilder på Logitechs bärbara spelkonsol har läckt",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291293"
+        },
         {
           "id": "https://www.fz.se/artikel/291292",
           "author": null,
@@ -27336,6 +27336,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34825",
+          "author": null,
+          "description": "Snabbare minnen enligt DDR5-standarden är här och fler plattformar med stöd närmar sig. Den här veckan undrar Kingston när du planerar att ta klivet över.",
+          "link": "https://www.sweclockers.com/artikel/34825-veckans-fraga-nar-uppgraderar-du-till-ddr5",
+          "publishedOn": "2022-08-31T07:14:13.000Z",
+          "wordCount": 1734,
+          "title": "Veckans fråga: När uppgraderar du till DDR5?",
+          "imageUrl": "https://www.sweclockers.com/artikel/34825/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34843",
           "author": null,
           "description": "En läckt lanseringsplan pekar mot ett avtäckande i samband med utrullningen av AMD:s Ryzen 7000-processorer medan butikstillgänglighet sker en knapp månad efter.",
@@ -29453,6 +29463,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/31/amd_nvidia_vmware/",
+          "author": null,
+          "description": "<h4>A gentle primer on these chip giants' accelerators – and your essential guide to the conference so far</h4> <p><strong>VMware Explore</strong>  SmartNICs have long been the domain of hyperscale and cloud datacenters, but they remain relatively uncommon in enterprise environments due in large part to the lack of software compatibility. But with official support for AMD and Nvidia's data processing units (DPUs) now baked into VMware's popular hypervisor, that may not be the case for much longer.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/31/amd_nvidia_vmware/",
+          "publishedOn": "2022-08-31T07:32:14.000Z",
+          "wordCount": 1886,
+          "title": "What are Nvidia and AMD doing getting involved with SmartNICs and VMware?",
+          "imageUrl": "https://regmedia.co.uk/2022/03/29/server_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/31/space-station-refueling/",
           "author": null,

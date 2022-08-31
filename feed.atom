@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-31T06:58:41.535Z</updated>
+    <updated>2022-08-31T07:40:36.401Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What are Nvidia and AMD doing getting involved with SmartNICs and VMware?]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/31/amd_nvidia_vmware/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/31/amd_nvidia_vmware/"/>
+        <updated>2022-08-31T07:32:14.000Z</updated>
+        <summary type="html"><![CDATA[<h4>A gentle primer on these chip giants' accelerators – and your essential guide to the conference so far</h4> <p><strong>VMware Explore</strong>  SmartNICs have long been the domain of hyperscale and cloud datacenters, but they remain relatively uncommon in enterprise environments due in large part to the lack of software compatibility. But with official support for AMD and Nvidia's data processing units (DPUs) now baked into VMware's popular hypervisor, that may not be the case for much longer.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Veckans fråga: När uppgraderar du till DDR5?]]></title>
+        <id>https://www.sweclockers.com/artikel/34825</id>
+        <link href="https://www.sweclockers.com/artikel/34825-veckans-fraga-nar-uppgraderar-du-till-ddr5"/>
+        <updated>2022-08-31T07:14:13.000Z</updated>
+        <summary type="html"><![CDATA[Snabbare minnen enligt DDR5-standarden är här och fler plattformar med stöd närmar sig. Den här veckan undrar Kingston när du planerar att ta klivet över.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bilder på Logitechs bärbara spelkonsol har läckt]]></title>
+        <id>https://www.fz.se/artikel/291293</id>
+        <link href="https://www.fz.se/artikel/291293-bilder-pa-logitechs-barbara-spelkonsol-har-lackt"/>
+        <updated>2022-08-31T06:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Och fokus tycks ligga på molnspelande.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[21 Basic Linux Networking Commands You Should Know]]></title>
+        <id>http://itsfoss.com/?p=10907</id>
+        <link href="https://itsfoss.com/basic-linux-networking-commands/"/>
+        <updated>2022-08-31T06:34:00.000Z</updated>
+        <summary type="html"><![CDATA[A list of basic Linux networking commands that will help you troubleshoot network issues, monitor packets, connect devices, and much more.]]></summary>
+        <author>
+            <name>Sagar Sharma</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Startup wants to build a space station that refuels satellites by 2025]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/31/space-station-refueling/</id>
@@ -38006,34 +38046,6 @@ patch fixing the behavior, which has now been merged to the Linux kernel in
 Thank you, Hans and Bryan!]]></summary>
         <author>
             <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bungie shuts Destiny 2 text chat to stop malicious exploit]]></title>
-        <id>https://arstechnica.com/?p=1870721</id>
-        <link href="https://arstechnica.com/?p=1870721"/>
-        <updated>2022-08-01T19:23:44.000Z</updated>
-        <summary type="html"><![CDATA[Improper coding of Chinese characters let players weaponize copy-pasted text strings.]]></summary>
-        <author>
-            <name>Kyle Orland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix's animated Cyberpunk 2077 series Edgerunners gets full trailer]]></title>
-        <id>https://www.eurogamer.net/netflixs-animated-cyberpunk-2077-series-edgerunners-gets-new-three-minute-trailer</id>
-        <link href="https://www.eurogamer.net/netflixs-animated-cyberpunk-2077-series-edgerunners-gets-new-three-minute-trailer"/>
-        <updated>2022-08-01T19:08:13.000Z</updated>
-        <summary type="html"><![CDATA[Netflix is readying for the September arrival of its animated Cyberpunk 2077 series, Cyberpunk: Edgerunners, with the release of its first full trailer, introducing some of the story's key players.
-
-
-Edgerunners, which was announced back in June 2020, is a 10-episode collaboration between Cyberpunk 2077 developer CD Projekt and Japanese animation studio Trigger, which has previously worked on the likes of Little Witch Academia and Kill la Kill. It tells the story of a street kid trying to survive in the technology and body modification obsessed Night City.
-
-
-"Having everything to lose," explains Netflix, "he stays alive by becoming an Edgerunner - a mercenary outlaw also known as a cyberpunk."
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
         </author>
     </entry>
 </feed>
