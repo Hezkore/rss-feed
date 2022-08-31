@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-31T07:40:36.401Z</updated>
+    <updated>2022-08-31T08:28:29.798Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[September’s PS Plus Essential games have leaked]]></title>
+        <id>https://www.eurogamer.net/septembers-ps-plus-essential-games-have-leaked</id>
+        <link href="https://www.eurogamer.net/septembers-ps-plus-essential-games-have-leaked"/>
+        <updated>2022-08-31T08:27:19.000Z</updated>
+        <summary type="html"><![CDATA[September's PS Plus Essential games will be Need for Speed Heat, Toem, and Granblue Fantasy Versus.
+
+
+That's according to reliable source Dealabs, who routinely leaks the games in advance.
+
+
+Need for Speed Heat was the 2019 entry to the series and the last to be developed by Ghost Games before being handed back to original developer Criterion.
+ 
+Read more]]></summary>
+        <author>
+            <name>Ed Nightingale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony, Tencent increase stake in Elden Ring developer FromSoftware]]></title>
+        <id>https://www.eurogamer.net/sony-tencent-increase-stake-in-elden-ring-developer-fromsoftware</id>
+        <link href="https://www.eurogamer.net/sony-tencent-increase-stake-in-elden-ring-developer-fromsoftware"/>
+        <updated>2022-08-31T08:22:25.000Z</updated>
+        <summary type="html"><![CDATA[Sony and Tencent have increased their shareholding in Elden Ring developer FromSoftware.
+
+
+Sony now owns 14.09 percent of the Japanese company, while Tencent, via its Sixjoy subsidiary, now owns 16.25 percent.
+
+
+Existing majority shareholder Kadokawa still owns most of FromSoftware, at 69.66 percent.
+ 
+Read more]]></summary>
+        <author>
+            <name>Wesley Yin-Poole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Team Ninjas Wo Long: Fallen Dynasty har fått en gameplay-trailer]]></title>
+        <id>https://www.fz.se/artikel/291294</id>
+        <link href="https://www.fz.se/artikel/291294-team-ninjas-wo-long-fallen-dynasty-har-fatt-en-gameplay-trailer"/>
+        <updated>2022-08-31T07:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Från Ninja Gaiden- och Nioh-utvecklarna.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What are Nvidia and AMD doing getting involved with SmartNICs and VMware?]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/31/amd_nvidia_vmware/</id>
@@ -38006,46 +38052,6 @@ The British retailer is offering the AMD RX 6700 for £299 when you use code AFF
 Read more]]></summary>
         <author>
             <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visa knew about Pornhub’s child porn, judge says, and now must face trial [Updated]]]></title>
-        <id>https://arstechnica.com/?p=1870703</id>
-        <link href="https://arstechnica.com/?p=1870703"/>
-        <updated>2022-08-01T20:23:32.000Z</updated>
-        <summary type="html"><![CDATA[Visa claims the court's decision could affect the entire financial industry.]]></summary>
-        <author>
-            <name>Ashley Belanger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pick up an RTX 3080 for £724 today thanks to a CCL discount code]]></title>
-        <id>https://www.rockpapershotgun.com/pick-up-an-rtx-3080-for-724-today-thanks-to-a-ccl-discount-code</id>
-        <link href="https://www.rockpapershotgun.com/pick-up-an-rtx-3080-for-724-today-thanks-to-a-ccl-discount-code"/>
-        <updated>2022-08-01T20:18:17.000Z</updated>
-        <summary type="html"><![CDATA[RTX 3080 graphics cards are continuing their inevitable price decline, as at least one new next-gen GPU is rumoured to be announced within the next few months. That means it's a good time to pick up current-gen models at a discount while availability is good - and this RTX 3080 12GB model is the cheapest we've ever seen it. 
-Right now, you can pick up this Gainward Phantom RTX 3080 12GB for £724 when you use code AFF25 at the checkout at CCL. If you're not familiar with CCL, the British retailer is a minnow compared to the whale of Amazon, but it's one that has existed since 1996 and has always proved reliable for me. 
-Read more]]></summary>
-        <author>
-            <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bastian Venthur: Keychron keyboards fixed on Linux]]></title>
-        <id>tag:venthur.de,2022-08-01:/2022-08-01-keychron-keyboards-fixed-on-linux.html</id>
-        <link href="https://venthur.de/2022-08-01-keychron-keyboards-fixed-on-linux.html"/>
-        <updated>2022-08-01T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Last year, I wrote about on how to get my
-buggy Keychron C1 keyboard working properly on Linux by setting a kernel module
-parameter. Afterwards, I contacted Hans de Goede since he was the last
-one that contributed a major patch to the relevant kernel module. After some
-debugging, it turned out that the Keychron keyboards are indeed misbehaving
-when set to Windows mode. Almost a year later, Bryan Cain provided a
-patch fixing the behavior, which has now been merged to the Linux kernel in
-5.19.
-Thank you, Hans and Bryan!]]></summary>
-        <author>
-            <name>Planet Debian</name>
         </author>
     </entry>
 </feed>
