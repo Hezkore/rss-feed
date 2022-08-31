@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-31T19:19:33.607Z</updated>
+    <updated>2022-08-31T20:24:37.150Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare tries to explain why it protects far-right forums that stalk and harass victims]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/31/cloudflare_kiwi_farm/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/31/cloudflare_kiwi_farm/"/>
+        <updated>2022-08-31T19:55:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Doxing and hate-spreading websites deserve as much space on the internet as you or I, says CEO</h4> <p>On Wednesday content delivery network Cloudflare published a blog post explaining the circumstances under which abusive websites are eligible for service, just as a storm is brewing on that very topic.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arm Sues Qualcomm and Nuvia for Breaking License Agreement]]></title>
+        <id>23CX37BDgwsvZuuFyWcJLd</id>
+        <link href="https://www.tomshardware.com/news/arm-sues-qualcomm-and-nuvia-for-breaking-license-agreement"/>
+        <updated>2022-08-31T19:48:56.000Z</updated>
+        <summary type="html"><![CDATA[Arm accuses Qualcomm and Nuvia of illegally developing Arm processors following Nuvia takeover.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toyota commits $2.5b to North Carolina battery factory]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/31/toyota_commits_25b_to_north/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/31/toyota_commits_25b_to_north/"/>
+        <updated>2022-08-31T19:31:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Additional Japanese battery plant investments will add 40GWh of production capacity by 2026</h4> <p>Toyota says it plans to invest up to an additional $5.6 billion in electric vehicle (EV) battery production that it will split between facilities in the US and Japan. …</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AVX-512 Makes Ryzen 9 7950X Geekbench 5 Results Look Good — Too Good]]></title>
+        <id>VE6DhdasthJauanaYVjm6Z</id>
+        <link href="https://www.tomshardware.com/news/ryzen-7000-boosted-by-avx512-geekbench"/>
+        <updated>2022-08-31T19:05:21.000Z</updated>
+        <summary type="html"><![CDATA[A new Geekbench 5 benchmark shows very impressive scores for the Ryzen 9 7950X, especially as compared to its predecessor — but there's more to the story.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome extensions with 1.4M installs covertly track visits and inject code]]></title>
+        <id>https://arstechnica.com/?p=1877404</id>
+        <link href="https://arstechnica.com/?p=1877404"/>
+        <updated>2022-08-31T18:59:42.000Z</updated>
+        <summary type="html"><![CDATA[If you've installed any of these extensions, manually remove them stat.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Woman forced to sell 4-bed house after crypto exchange wrongly refunded $7.2m]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/31/crypto_dotcom_australia_refund/</id>
@@ -27,6 +77,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Microsoft EU cloud revisions just so happen to exclude Google, Amazon]]></title>
+        <id>https://arstechnica.com/?p=1877270</id>
+        <link href="https://arstechnica.com/?p=1877270"/>
+        <updated>2022-08-31T18:16:50.000Z</updated>
+        <summary type="html"><![CDATA[Move to appease EU partners bars running MS apps on competitors' infrastructure.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ubisoft postpones "decommissioning" of older online titles until October]]></title>
         <id>https://www.eurogamer.net/ubisoft-postpones-decommissioning-of-older-online-titles-until-october</id>
         <link href="https://www.eurogamer.net/ubisoft-postpones-decommissioning-of-older-online-titles-until-october"/>
@@ -45,6 +105,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The 2023 Genesis GV60 is a strong contender for EV of the year]]></title>
+        <id>https://arstechnica.com/?p=1877343</id>
+        <link href="https://arstechnica.com/?p=1877343"/>
+        <updated>2022-08-31T18:03:57.000Z</updated>
+        <summary type="html"><![CDATA[Some of the tech feels a bit gimmicky, but there's a lot to like about this one.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Snap to lay off one in five employees as losses mount]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/31/snap_layoffs/</id>
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/31/snap_layoffs/"/>
@@ -52,6 +122,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<h4>Original shows, games, the company's other apps, and more also being axed</h4> <p>Snap CEO Evan Spiegel has confirmed layoffs at the struggling social media biz, telling employees in a letter that 20 percent of them will lose their jobs, mostly from teams working on one of the variety of projects it also plans to ax.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FDA authorizes BA.4/5-targeting COVID boosters from Moderna and Pfizer]]></title>
+        <id>https://arstechnica.com/?p=1877366</id>
+        <link href="https://arstechnica.com/?p=1877366"/>
+        <updated>2022-08-31T17:47:20.000Z</updated>
+        <summary type="html"><![CDATA[The new boosters are expected to start going into arms around Labor Day.]]></summary>
+        <author>
+            <name>Beth Mole</name>
         </author>
     </entry>
     <entry>
@@ -792,6 +872,16 @@ Wrath of the Lich King is held in high regard in the minds of OG World of Warcra
         <summary type="html"><![CDATA[a comic about being free as a bird]]></summary>
         <author>
             <name>Gregor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG visar böjbara 42-tummaren OLED Flex]]></title>
+        <id>https://www.sweclockers.com/artikel/34848</id>
+        <link href="https://www.sweclockers.com/artikel/34848-lg-visar-bojbara-42-tummaren-oled-flex"/>
+        <updated>2022-08-31T11:53:10.000Z</updated>
+        <summary type="html"><![CDATA[LG kontrar Corsairs böjbara OLED-skärm med egna varianten OLED Flex LX3 på 42 tum som låter användaren kontrollera krökningen med inbyggda motorer.]]></summary>
+        <author>
+            <name>SweClockers</name>
         </author>
     </entry>
     <entry>
@@ -39143,26 +39233,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Du får också ställa dig i kö.]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tidigare Massive-chefen David Polfeldt ansluter sig till Playerunknown Productions]]></title>
-        <id>https://www.fz.se/artikel/290970</id>
-        <link href="https://www.fz.se/artikel/290970-tidigare-massive-chefen-david-polfeldt-ansluter-sig-till-playerunknown-productions"/>
-        <updated>2022-08-02T07:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Ska hjälpa David Greene att främja en bra studiokultur.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel "Sapphire Rapids" kärvar – lansering kan skjutas upp ännu en gång]]></title>
-        <id>https://www.sweclockers.com/artikel/34687</id>
-        <link href="https://www.sweclockers.com/artikel/34687-intel-sapphire-rapids-karvar-lansering-kan-skjutas-upp-annu-en-gang"/>
-        <updated>2022-08-02T07:21:11.000Z</updated>
-        <summary type="html"><![CDATA[När orosmolnen på konsumentsidan skingras hopar sig nya på serverfronten. Utvecklingen av "Sapphire Rapids" uppges gå trögt, medan AMD:s slagkraftiga "Genoa" står för dörren.]]></summary>
-        <author>
-            <name>SweClockers</name>
         </author>
     </entry>
 </feed>

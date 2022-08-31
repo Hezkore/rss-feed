@@ -15611,6 +15611,36 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "23CX37BDgwsvZuuFyWcJLd",
+          "author": null,
+          "description": "Arm accuses Qualcomm and Nuvia of illegally developing Arm processors following Nuvia takeover.",
+          "link": "https://www.tomshardware.com/news/arm-sues-qualcomm-and-nuvia-for-breaking-license-agreement",
+          "publishedOn": "2022-08-31T19:48:56.000Z",
+          "wordCount": 17794,
+          "title": "Arm Sues Qualcomm and Nuvia for Breaking License Agreement",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/hMCDAGkWvfbzxrGdc4ahBZ.jpeg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/hMCDAGkWvfbzxrGdc4ahBZ.jpeg"
+        },
+        {
+          "id": "VE6DhdasthJauanaYVjm6Z",
+          "author": null,
+          "description": "A new Geekbench 5 benchmark shows very impressive scores for the Ryzen 9 7950X, especially as compared to its predecessor — but there's more to the story.",
+          "link": "https://www.tomshardware.com/news/ryzen-7000-boosted-by-avx512-geekbench",
+          "publishedOn": "2022-08-31T19:05:21.000Z",
+          "wordCount": 18013,
+          "title": "AVX-512 Makes Ryzen 9 7950X Geekbench 5 Results Look Good — Too Good",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/mW5pZZ3pcmsktqp3HMx3ZX.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/mW5pZZ3pcmsktqp3HMx3ZX.jpg"
+        },
+        {
           "id": "TdZwZZ46zmz9kLgpdwWme7",
           "author": null,
           "description": "Asus to bundle headsets, mice, webcams with advanced AM5 motherboards.",
@@ -21416,6 +21446,46 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1877404",
+          "author": "Dan Goodin",
+          "description": "If you've installed any of these extensions, manually remove them stat.",
+          "link": "https://arstechnica.com/?p=1877404",
+          "publishedOn": "2022-08-31T18:59:42.000Z",
+          "wordCount": 1341,
+          "title": "Chrome extensions with 1.4M installs covertly track visits and inject code",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/05/Chrome.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1877270",
+          "author": "Kevin Purdy",
+          "description": "Move to appease EU partners bars running MS apps on competitors' infrastructure.",
+          "link": "https://arstechnica.com/?p=1877270",
+          "publishedOn": "2022-08-31T18:16:50.000Z",
+          "wordCount": 1624,
+          "title": "Microsoft EU cloud revisions just so happen to exclude Google, Amazon",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1248800431-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1877343",
+          "author": "Jonathan M. Gitlin",
+          "description": "Some of the tech feels a bit gimmicky, but there's a lot to like about this one.",
+          "link": "https://arstechnica.com/?p=1877343",
+          "publishedOn": "2022-08-31T18:03:57.000Z",
+          "wordCount": 1684,
+          "title": "The 2023 Genesis GV60 is a strong contender for EV of the year",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GV60-1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1877366",
+          "author": "Beth Mole",
+          "description": "The new boosters are expected to start going into arms around Labor Day.",
+          "link": "https://arstechnica.com/?p=1877366",
+          "publishedOn": "2022-08-31T17:47:20.000Z",
+          "wordCount": 1845,
+          "title": "FDA authorizes BA.4/5-targeting COVID boosters from Moderna and Pfizer",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1388972504-760x380.jpeg"
+        },
         {
           "id": "https://arstechnica.com/?p=1877276",
           "author": "Ron Amadeo",
@@ -28092,16 +28162,6 @@
           "wordCount": null,
           "title": "Moddare tar din katt till Stray, mot betalning",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.fz.se/artikel/290970",
-          "author": null,
-          "description": "Ska hjälpa David Greene att främja en bra studiokultur.",
-          "link": "https://www.fz.se/artikel/290970-tidigare-massive-chefen-david-polfeldt-ansluter-sig-till-playerunknown-productions",
-          "publishedOn": "2022-08-02T07:54:00.000Z",
-          "wordCount": null,
-          "title": "Tidigare Massive-chefen David Polfeldt ansluter sig till Playerunknown Productions",
-          "imageUrl": null
         }
       ]
     },
@@ -28119,6 +28179,16 @@
           "wordCount": 2006,
           "title": "Moderskeppet nära fullbokat – detta händer ombord",
           "imageUrl": "https://www.sweclockers.com/artikel/34847/og-image"
+        },
+        {
+          "id": "https://www.sweclockers.com/artikel/34848",
+          "author": null,
+          "description": "LG kontrar Corsairs böjbara OLED-skärm med egna varianten OLED Flex LX3 på 42 tum som låter användaren kontrollera krökningen med inbyggda motorer.",
+          "link": "https://www.sweclockers.com/artikel/34848-lg-visar-bojbara-42-tummaren-oled-flex",
+          "publishedOn": "2022-08-31T11:53:10.000Z",
+          "wordCount": 1793,
+          "title": "LG visar böjbara 42-tummaren OLED Flex",
+          "imageUrl": "https://www.sweclockers.com/artikel/34848/og-image"
         },
         {
           "id": "https://www.sweclockers.com/artikel/34848",
@@ -29699,16 +29769,6 @@
           "wordCount": 1793,
           "title": "Tveksamma Arc A380 skäms bort med påkostat vattenblock",
           "imageUrl": "https://www.sweclockers.com/artikel/34690/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34687",
-          "author": null,
-          "description": "När orosmolnen på konsumentsidan skingras hopar sig nya på serverfronten. Utvecklingen av \"Sapphire Rapids\" uppges gå trögt, medan AMD:s slagkraftiga \"Genoa\" står för dörren.",
-          "link": "https://www.sweclockers.com/artikel/34687-intel-sapphire-rapids-karvar-lansering-kan-skjutas-upp-annu-en-gang",
-          "publishedOn": "2022-08-02T07:21:11.000Z",
-          "wordCount": 1836,
-          "title": "Intel \"Sapphire Rapids\" kärvar – lansering kan skjutas upp ännu en gång",
-          "imageUrl": "https://www.sweclockers.com/artikel/34687/og-image"
         }
       ]
     },
@@ -30298,6 +30358,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/31/cloudflare_kiwi_farm/",
+          "author": null,
+          "description": "<h4>Doxing and hate-spreading websites deserve as much space on the internet as you or I, says CEO</h4> <p>On Wednesday content delivery network Cloudflare published a blog post explaining the circumstances under which abusive websites are eligible for service, just as a storm is brewing on that very topic.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/31/cloudflare_kiwi_farm/",
+          "publishedOn": "2022-08-31T19:55:07.000Z",
+          "wordCount": 1745,
+          "title": "Cloudflare tries to explain why it protects far-right forums that stalk and harass victims",
+          "imageUrl": "https://regmedia.co.uk/2019/09/16/hate_speech.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/31/toyota_commits_25b_to_north/",
+          "author": null,
+          "description": "<h4>Additional Japanese battery plant investments will add 40GWh of production capacity by 2026</h4> <p>Toyota says it plans to invest up to an additional $5.6 billion in electric vehicle (EV) battery production that it will split between facilities in the US and Japan. …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/31/toyota_commits_25b_to_north/",
+          "publishedOn": "2022-08-31T19:31:10.000Z",
+          "wordCount": 1218,
+          "title": "Toyota commits $2.5b to North Carolina battery factory",
+          "imageUrl": "https://regmedia.co.uk/2022/07/14/shutterstock_lithium_ion_ev_battery.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/31/crypto_dotcom_australia_refund/",
           "author": null,
