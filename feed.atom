@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-31T05:04:27.887Z</updated>
+    <updated>2022-08-31T06:58:41.535Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Startup wants to build a space station that refuels satellites by 2025]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/31/space-station-refueling/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/31/space-station-refueling/"/>
+        <updated>2022-08-31T06:18:13.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Orbit Fab hopes to charge $20m for a hydrazine refill – and you thought fuel prices down here were bad!</h4> <p>Spacecraft running low on fuel could get a refill from an orbital station by the year 2025, according to a startup named Orbit Fab that reckons it can charge $20 million to top up your tank.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China-linked APT40 gang targets wind farms, Australian government]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/31/chinanexus_apt40_targeting_australian_government/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/31/chinanexus_apt40_targeting_australian_government/"/>
+        <updated>2022-08-31T05:02:05.000Z</updated>
+        <summary type="html"><![CDATA[<h4>ScanBox installed after victims lured to fake Murdoch news sites with phishing emails</h4> <p>Researchers at security company Proofpoint and PricewaterhouseCoopers (PWC) said on Tuesday they had identified a cyber espionage campaign that delivers the ScanBox exploitation framework through a malicious fake Australian news site.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FMV-spelet Immortality får riktigt höga betyg]]></title>
         <id>https://www.fz.se/artikel/291292</id>
@@ -38014,84 +38034,6 @@ Edgerunners, which was announced back in June 2020, is a 10-episode collaboratio
 Read more]]></summary>
         <author>
             <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IO_uring To Ring In Some Awesome Improvements With Linux 6.0]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.0-IO-Block-IO_uring</id>
-        <link href="https://www.phoronix.com/news/Linux-6.0-IO-Block-IO_uring"/>
-        <updated>2022-08-01T18:47:55.000Z</updated>
-        <summary type="html"><![CDATA[IO_uring continues to be one of the greatest Linux kernel innovations in recent years and with the in-development Linux 6.0 kernel is getting even better along with some nice block updates and other storage-related enhancements...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google CEO Sundar Pichai says productivity is “not where it needs to be”]]></title>
-        <id>https://arstechnica.com/?p=1870663</id>
-        <link href="https://arstechnica.com/?p=1870663"/>
-        <updated>2022-08-01T18:37:45.000Z</updated>
-        <summary type="html"><![CDATA[Pichai changes Google's promotion incentives, wants "more customer focus."]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Last of Us till HBO "hedrar spelet", hävdar tv-seriens Ellie-skådis]]></title>
-        <id>https://www.fz.se/artikel/290966</id>
-        <link href="https://www.fz.se/artikel/290966-the-last-of-us-till-hbo-hedrar-spelet-havdar-tv-seriens-ellie-skadis"/>
-        <updated>2022-08-01T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA["Lyanna Mormont" lyssnar man på.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.0 Has Some Big Scheduler Changes, Including Improved NUMA Balancing For AMD Zen]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.0-Scheduler</id>
-        <link href="https://www.phoronix.com/news/Linux-6.0-Scheduler"/>
-        <updated>2022-08-01T18:00:33.000Z</updated>
-        <summary type="html"><![CDATA[Ingo Molnar today submitted the main set of kernel scheduler updates for the in-development Linux 6.0 (nee 5.20). The scheduler updates contain some notable changes that will be interesting to benchmark in the days ahead...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Driver Posted Enabling Bluetooth Support For Apple M1/M2, Some x86 Macs]]></title>
-        <id>https://www.phoronix.com/news/Linux-Bluetooth-Apple-Silicon</id>
-        <link href="https://www.phoronix.com/news/Linux-Bluetooth-Apple-Silicon"/>
-        <updated>2022-08-01T17:44:39.000Z</updated>
-        <summary type="html"><![CDATA[Sven Peter who has worked a lot on various aspects of Apple Silicon enablement for Linux today posted the patches enabling Apple Bluetooth driver support for Apple Silicon M1/M2 hardware and also for some Apple x86 Macs...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Battlefield 2042's 1.2 update brings first map improvements, character redesigns]]></title>
-        <id>https://www.eurogamer.net/battlefield-2042s-12-update-brings-first-round-of-map-improvements-character-redesigns</id>
-        <link href="https://www.eurogamer.net/battlefield-2042s-12-update-brings-first-round-of-map-improvements-character-redesigns"/>
-        <updated>2022-08-01T17:38:52.000Z</updated>
-        <summary type="html"><![CDATA[DICE has detailed its imminent 1.2 update for the beleaguered Battlefield 2042, which will, among other things, herald its first batch of planned map improvements based on the player feedback it requested earlier this year.
-
-
-This initial round of improvements will target Battlefield 2042's Kaleidoscope map, and will - as previously detailed - focus on adjustments to cover, intensity, line of sight, pathing, and traversal. These have been achieved by adding new flag positions, by placing new areas and assets around the map, and by raising terrain.
-
-
-DICE says terrain changes will "break sightlines and let infantry move more purposefully around the map", while new assets will "bring more tactical destruction", giving players new options as the environment evolves throughout a game.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stealth-action game Republique is now FREE and Steam Deck Verified]]></title>
-        <id>https://www.gamingonlinux.com/2022/08/stealth-action-game-republique-is-now-free-and-steam-deck-verified/</id>
-        <link href="https://www.gamingonlinux.com/2022/08/stealth-action-game-republique-is-now-free-and-steam-deck-verified/"/>
-        <updated>2022-08-01T17:25:56.000Z</updated>
-        <summary type="html"><![CDATA[Consider this your quick tip of the week, as Republique from developer Camouflaj is now free to keep on Steam and it's also Steam Deck Verified!]]></summary>
-        <author>
-            <name>Liam Dawe</name>
         </author>
     </entry>
 </feed>
