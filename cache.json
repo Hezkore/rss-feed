@@ -12275,16 +12275,6 @@
           "wordCount": 1400,
           "title": "GNU C Library 2.36 Released With New Functions, More Optimizations",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.0-RT-Skip-Console-Print",
-          "author": null,
-          "description": "As part of getting PREEMPT_RT support ready to be mainlined at long last for real-time kernel builds, a number of Linux 6.0 (nee 5.20) pull requests have revolved around additional RT preparatory changes. With the printk changes for Linux 6.0, the console drivers will now be skipped in RT mode...",
-          "link": "https://www.phoronix.com/news/Linux-6.0-RT-Skip-Console-Print",
-          "publishedOn": "2022-08-02T07:00:00.000Z",
-          "wordCount": 1313,
-          "title": "Linux 6.0 To Disable Printing On Consoles With Real-Time Kernels",
-          "imageUrl": null
         }
       ]
     },
@@ -24744,6 +24734,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291303",
+          "author": null,
+          "description": "Io tar höjd för mindre inkomster under kommande år.",
+          "link": "https://www.fz.se/artikel/291303-hitman-gangets-james-bond-slapps-kanske-inte-forran-tidigast-2025",
+          "publishedOn": "2022-08-31T18:30:00.000Z",
+          "wordCount": 1853,
+          "title": "Hitman-gängets James Bond släpps kanske inte förrän tidigast 2025",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291303"
+        },
+        {
           "id": "https://www.fz.se/artikel/291302",
           "author": null,
           "description": "Välkommen till Bills stad.",
@@ -28102,16 +28102,6 @@
           "wordCount": null,
           "title": "Tidigare Massive-chefen David Polfeldt ansluter sig till Playerunknown Productions",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.fz.se/artikel/290969",
-          "author": null,
-          "description": "Inklusive spelets tutorial och inledande handling.",
-          "link": "https://www.fz.se/artikel/290969-har-ar-de-forsta-16-minuterna-fran-gotham-knights",
-          "publishedOn": "2022-08-02T06:57:00.000Z",
-          "wordCount": 2160,
-          "title": "Här är de första 16 minuterna från Gotham Knights",
-          "imageUrl": "https://www.fz.se/artikel/og-image/290969"
         }
       ]
     },
@@ -30308,6 +30298,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/31/crypto_dotcom_australia_refund/",
+          "author": null,
+          "description": "<h4>Payment from Crypto.com was off by five zeroes because bank account number was mistakenly entered</h4> <p>An Australian woman has been sued after she received part of an erroneous refund from a cryptocurrency exchange – erroneous by five zeroes – that it failed to notice for seven months.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/31/crypto_dotcom_australia_refund/",
+          "publishedOn": "2022-08-31T18:47:10.000Z",
+          "wordCount": 1308,
+          "title": "Woman forced to sell 4-bed house after crypto exchange wrongly refunded $7.2m",
+          "imageUrl": "https://regmedia.co.uk/2017/09/15/shutterstock_cryptocurrencies.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/31/snap_layoffs/",
           "author": null,

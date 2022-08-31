@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-31T18:27:46.966Z</updated>
+    <updated>2022-08-31T19:19:33.607Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Woman forced to sell 4-bed house after crypto exchange wrongly refunded $7.2m]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/31/crypto_dotcom_australia_refund/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/31/crypto_dotcom_australia_refund/"/>
+        <updated>2022-08-31T18:47:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Payment from Crypto.com was off by five zeroes because bank account number was mistakenly entered</h4> <p>An Australian woman has been sued after she received part of an erroneous refund from a cryptocurrency exchange – erroneous by five zeroes – that it failed to notice for seven months.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hitman-gängets James Bond släpps kanske inte förrän tidigast 2025]]></title>
+        <id>https://www.fz.se/artikel/291303</id>
+        <link href="https://www.fz.se/artikel/291303-hitman-gangets-james-bond-slapps-kanske-inte-forran-tidigast-2025"/>
+        <updated>2022-08-31T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Io tar höjd för mindre inkomster under kommande år.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ubisoft postpones "decommissioning" of older online titles until October]]></title>
         <id>https://www.eurogamer.net/ubisoft-postpones-decommissioning-of-older-online-titles-until-october</id>
@@ -39143,26 +39163,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[När orosmolnen på konsumentsidan skingras hopar sig nya på serverfronten. Utvecklingen av "Sapphire Rapids" uppges gå trögt, medan AMD:s slagkraftiga "Genoa" står för dörren.]]></summary>
         <author>
             <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.0 To Disable Printing On Consoles With Real-Time Kernels]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.0-RT-Skip-Console-Print</id>
-        <link href="https://www.phoronix.com/news/Linux-6.0-RT-Skip-Console-Print"/>
-        <updated>2022-08-02T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As part of getting PREEMPT_RT support ready to be mainlined at long last for real-time kernel builds, a number of Linux 6.0 (nee 5.20) pull requests have revolved around additional RT preparatory changes. With the printk changes for Linux 6.0, the console drivers will now be skipped in RT mode...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Här är de första 16 minuterna från Gotham Knights]]></title>
-        <id>https://www.fz.se/artikel/290969</id>
-        <link href="https://www.fz.se/artikel/290969-har-ar-de-forsta-16-minuterna-fran-gotham-knights"/>
-        <updated>2022-08-02T06:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Inklusive spelets tutorial och inledande handling.]]></summary>
-        <author>
-            <name>FZ.se</name>
         </author>
     </entry>
 </feed>
