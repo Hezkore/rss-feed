@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-08-30T23:25:48.075Z</updated>
+    <updated>2022-08-31T02:45:27.345Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Japan to change laws that require use of floppy disks]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/31/japan_floppy_disk_ban/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/31/japan_floppy_disk_ban/"/>
+        <updated>2022-08-31T02:05:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Digital minister will drive change because, in theory, uploading info to government isn’t allowed</h4> <p>Japan’s digital minister Karo Tono has pledged to rip up laws that require floppy disks and CD-ROMs to be used when sending data to the nation’s government.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Musk tries to stall Twitter takeover trial following whistleblower claims]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/31/musk_twitter_whistleblower/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/31/musk_twitter_whistleblower/"/>
+        <updated>2022-08-31T00:46:44.000Z</updated>
+        <summary type="html"><![CDATA[<h4>And throws a copy of Mudge's allegations to the SEC, too, just in case it hasn't read them yet</h4> <p>Elon Musk's lawyers issued a double whammy this week in the ongoing quest by the world's richest man to cancel his own proposed takeover of Twitter.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[California lawmakers approve online privacy law for kids. Which may turn websites into identity checkpoints]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/30/california_child_protection_law/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/30/california_child_protection_law/"/>
+        <updated>2022-08-30T23:29:12.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Will Newsom sign it? With a possible presidential bid looming, take a guess</h4> <p>California lawmakers have approved a major online safety bill to protect children – and critics worry the legislation will turn websites into identity checkpoints.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wouter Verhelst: Not currently uploading]]></title>
+        <id>https://grep.be/blog//en/life/debian/Not_currently_uploading/</id>
+        <link href="https://grep.be/blog//en/life/debian/Not_currently_uploading/"/>
+        <updated>2022-08-30T23:22:06.000Z</updated>
+        <summary type="html"><![CDATA[A notorious ex-DD decided
+to post garbage on his site in which he links my name to the suicide of
+Frans Pop, and mentions that
+my GPG key is currently disabled in the Debian keyring, along with some
+manufactured screenshots of the Debian NM site that allegedly show I'm
+no longer a DD. I'm not going to link to the post -- he deserves to be
+ridiculed, not given attention.
+Just to set the record straight, however:
+Frans Pop was my friend. I never treated him with anything but respect.
+I do not know why he chose to take his own life, but I grieved for him
+for a long time. It saddens me that Mr. Notorious believes it a good
+idea to drag Frans' name through the mud like this, but then, one can
+hardly expect anything else from him by this point.
+Although his post is mostly garbage, there is one bit of information
+that is correct, and that is that my GPG key is currently no longer in
+the Debian keyring. Nothing sinister is going on here, however; the
+simple fact of the matter is that I misplaced my OpenPGP key
+card,
+which means there is a (very very slight) chance that a malicious actor
+(like, perhaps, Mr. Notorious) would get access to my GPG key and abuse
+that to upload packages to Debian. Obviously we can't have that --
+certainly not from him -- so for that reason, I asked the Debian keyring
+maintainers to please disable my key in the Debian keyring. 
+I've ordered new cards; as soon as they arrive I'll generate a new key
+and perform the necessary steps to get my new key into the Debian
+keyring again. Given that shipping key cards to South Africa takes a
+while, this has taken longer than I would have initially hoped, but I'm
+hoping at this point that by about halfway September this hurdle will
+have been taken, meaning, I will be able to exercise my rights as a
+Debian Developer again.
+As for Mr. Notorious, one can only hope he will get the psychiatric help
+he very obviously needs, sooner rather than later, because right now he
+appears to be more like a goat yelling in the desert.
+Ah well.]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Find a security hole in Google's open source and you could bag a $31,337 reward]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/08/30/google_open_source_bug_bounty/</id>
@@ -38258,270 +38331,6 @@ Sony's response is largely public, and contains a number of arguments which pain
 Read more]]></summary>
         <author>
             <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disco Elysium's devs might be heading into space with their next game]]></title>
-        <id>https://www.rockpapershotgun.com/disco-elysiums-devs-might-be-heading-into-space-with-their-next-game</id>
-        <link href="https://www.rockpapershotgun.com/disco-elysiums-devs-might-be-heading-into-space-with-their-next-game"/>
-        <updated>2022-08-01T14:30:02.000Z</updated>
-        <summary type="html"><![CDATA[Disco Elysium’s developers ZA/UM are looking for artists to work on their next game, which sounds very much like it could be heading to the stars. Whatever the project is, ZA/UM’s reference to Shakespeare’s play Hamlet in the job listing certainly suggests they’ll stick with the keen intellect of their last RPG. If you’re not familiar with Disco Elysium’s blend of ideology and role-playing then watch Astrid’s (RPS in Peace) video below.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Someone has made a gaming PC from a toilet]]></title>
-        <id>https://www.eurogamer.net/someone-has-made-a-gaming-pc-from-a-toilet</id>
-        <link href="https://www.eurogamer.net/someone-has-made-a-gaming-pc-from-a-toilet"/>
-        <updated>2022-08-01T14:29:12.000Z</updated>
-        <summary type="html"><![CDATA[The internet is quite the place. You can find everything on here, from how to boil an egg to, checks notes, make a toilet into a gaming PC. Huh.
-
-
-But yes, it is actually a thing. 
-
-This recent computer creation was made by Basically Homeless, who turned their loo into a fully functioning "12700 & 3060 gaming PC".
- Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evo Lounge announced - featuring developer reveals and curated show coverage]]></title>
-        <id>https://www.vg247.com/evo-lounge-reveals-new-games-dlc</id>
-        <link href="https://www.vg247.com/evo-lounge-reveals-new-games-dlc"/>
-        <updated>2022-08-01T14:26:07.000Z</updated>
-        <summary type="html"><![CDATA[Evo - the largest annual fighting game tournament in the world - has announced the Evo Lounge. This will be a dedicated live show running alongside the show August 5 - 6 that will present new game and DLC reveals, as well as curated highlights from the tournament itself. If you’re more interested in the big reveals than the hours upon hours of excellent competition, this is for you.
-According to an official PlayStation blog post, the live show “will feature top-shelf curated show coverage, bracket updates, interviews with players, and exciting content and reveals from developers and publishers". We know that Warner Bros, Arc System Works, Capcom, SNK, and Bandai Namco will be present.
-So, what is actually going to be shown off? While we don’t know for sure, recent events as well as the current fighting game landscape can help us make some educated guesses. The most obvious of which is Street Fighter 6, which was revealed earlier this year during a PlayStation showcase. With only five of the cast revealed (not via leaks), it’s likely that at least one new character will be shown at the show.
- Read more]]></summary>
-        <author>
-            <name>Connor Makar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You can now play Stray as Spyro the Dragon]]></title>
-        <id>https://www.vg247.com/you-can-now-play-stray-as-spyro-the-dragon</id>
-        <link href="https://www.vg247.com/you-can-now-play-stray-as-spyro-the-dragon"/>
-        <updated>2022-08-01T14:17:19.000Z</updated>
-        <summary type="html"><![CDATA[Stray only released just a few weeks ago, but modders have already had a good go at transforming the indie adventure title. We've seen the likes of CJ (Grand Theft Auto: San Andreas) and America's laziest furball, Garfield, make their way into the game so far, opening up an avenue for modders to do what they do best.
-The latest mod to capture our attention introduces Spyro the Dragon as your cute protagonist. I suspect there'll no doubt be a very long line of future character mods to come, but if I say so myself, this feels like the best and most-fitting so far (aside from people modding their own pets into the game!).
-Modder, MrMarco1003, has plucked Spyro from the Reignited Trilogy and popped them into Stray. They've even gone as far as replacing the other cats from the games prologue with fellow drakes, too.
- Read more]]></summary>
-        <author>
-            <name>Kelsey Raynor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pokémon Presents airing later this week featuring Pokémon Scarlet and Violet and more]]></title>
-        <id>https://www.vg247.com/pokemon-presents-august</id>
-        <link href="https://www.vg247.com/pokemon-presents-august"/>
-        <updated>2022-08-01T14:04:55.000Z</updated>
-        <summary type="html"><![CDATA[A new Pokémon Presents is on the way later this week, which will provide "updates on Pokémon apps and video games, including Pokémon Scarlet and Pokémon Violet."
-The Presents is set to air August 3, 2pm BST/ 3pm CEST/ 9am EST, and will give fans a new update on the upcoming Pokémon Scarlet and Pokémon Violet. Last time we saw anything of the latest generation of games was back in June, where we received confirmation the game would be coming out November 18.
-There's also that Detective Pikachu sequel for the Switch that was revealed around the same time as Pokémon Sleep, which we have also heard nothing about since it was announced three years ago. 
- Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Sims 4 drabbat av incest-bugg]]></title>
-        <id>https://www.fz.se/artikel/290964</id>
-        <link href="https://www.fz.se/artikel/290964-the-sims-4-drabbat-av-incest-bugg"/>
-        <updated>2022-08-01T14:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Liksom snabbt åldrande. Det är svårt att vara sim.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Innersloth almost put Among Us to rest in 2019]]></title>
-        <id>https://www.eurogamer.net/innersloth-almost-put-among-us-to-rest-in-2019</id>
-        <link href="https://www.eurogamer.net/innersloth-almost-put-among-us-to-rest-in-2019"/>
-        <updated>2022-08-01T13:39:22.000Z</updated>
-        <summary type="html"><![CDATA[A new interview with Innersloth co-founder Marcus Bromander reveals just how close the team came to moving on from Among Us.
-
-
-Bromander guested on the podcast Visionaries to discuss Among Us' rise in popularity, the impact it had on Innersloth, and what the company's next plans are.
-
-
-Among Us first released in 2018 but didn't see mainstream popularity until 2020. During that time, Bromander stated that he, along with fellow co-founder Forrest Willard and mutual friend Amy Liu, were working full-time on Among Us. 
- 
-Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Core i5-13600K och i7-13700K testas i spel]]></title>
-        <id>https://www.sweclockers.com/artikel/34683</id>
-        <link href="https://www.sweclockers.com/artikel/34683-intel-core-i5-13600k-och-i7-13700k-testas-i-spel"/>
-        <updated>2022-08-01T13:34:22.000Z</updated>
-        <summary type="html"><![CDATA[Båda "Raptor Lake"-modeller visar på i snitt 10 procent försprång i lägsta uppmätta FPS och Core i5-13600K drar större nytta av DDR5.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.0 Has Temperature Monitoring For Upcoming AMD CPUs, MWAIT For HPC Customers]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.0-More-AMD-k10temp</id>
-        <link href="https://www.phoronix.com/news/Linux-6.0-More-AMD-k10temp"/>
-        <updated>2022-08-01T13:30:54.000Z</updated>
-        <summary type="html"><![CDATA[Among the early pull requests for the now-open Linux 6.0 merge window (nee Linux 5.20) are a few AMD additions worth mentioning...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pokémon Presents broadcast scheduled for this week]]></title>
-        <id>https://www.eurogamer.net/pokemon-presents-broadcast-scheduled-for-this-week</id>
-        <link href="https://www.eurogamer.net/pokemon-presents-broadcast-scheduled-for-this-week"/>
-        <updated>2022-08-01T13:24:39.000Z</updated>
-        <summary type="html"><![CDATA[A Pokémon Presents presentation - like a Pokémon-focused Nintendo Direct - is due on 3rd August - this Wednesday!
-We're expecting to hear more about this year's highly-anticipated Pokémon Scarlet and Violet, due for Nintendo Switch in time for Christmas, and hopefully another look at early fan-favourite Lechonk.
-Wednesday's show will stream from Pokémon's official YouTube channel at 2pm UK time and will be 20 minutes long.
- Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elden Ring's Malenia used to slice and dice you a whole lot more]]></title>
-        <id>https://www.vg247.com/elden-ring-malenia-tougher</id>
-        <link href="https://www.vg247.com/elden-ring-malenia-tougher"/>
-        <updated>2022-08-01T13:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Anyone that's come face to face with Malenia in Elden Ring knows she's quite the doozy, but a recent datamine found that she used to be even tougher.
-With the advent of day one patches, it's pretty rare that we're actually playing the game that arrives on the disc. This is also true of Elden Ring, as the 1.0 version's late game area Leyndell had some noticeable differences. And thanks to modder kotn3l, we now know what the 1.0 version of Malenia was like (as spotted by PCGamer).
-FromSoftware's games and bosses are often very complex, with almost puzzle-like enemies, as their patterns are something you need to figure out how to overcome. These patterns need a lot of fine tuning, and it's clear from kotn3l's video that Malenia's were a bit too tough compared to how she is now.
- Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30 november för nästa del i Dark Pictures-antologin...?]]></title>
-        <id>https://www.fz.se/artikel/290963</id>
-        <link href="https://www.fz.se/artikel/290963-30-november-for-nasta-del-i-dark-pictures-antologin"/>
-        <updated>2022-08-01T13:21:00.000Z</updated>
-        <summary type="html"><![CDATA[The Devil in Me blir höstens skräckis.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diablo Immortal player spends $100k on game, now can't find anyone suitable to matchmake with]]></title>
-        <id>https://www.eurogamer.net/diablo-immortal-player-spends-100k-on-game-now-cant-find-anyone-suitable-to-matchmake-with</id>
-        <link href="https://www.eurogamer.net/diablo-immortal-player-spends-100k-on-game-now-cant-find-anyone-suitable-to-matchmake-with"/>
-        <updated>2022-08-01T13:07:45.000Z</updated>
-        <summary type="html"><![CDATA[UPDATE 03/08/22: Blizzard has responded to the Diablo Immortal player who found themselves unable to get into the battlegrounds after shelling out an eye watering $100k in the game.
-In a new video, jtisallbusiness has revealed the developer will be releasing a fix for the issue. 
-"Blizzard did reach out to me," jtitsallbusiness said, before stating that a Blizzard representative told them the company had "approved a fix" which will be implemented in the "next coming days". 
- Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grindstone’s free Cosmic Darkside update brings eldritch enemies and a creepy new map]]></title>
-        <id>https://www.rockpapershotgun.com/grindstones-free-cosmic-darkside-update-brings-eldritch-enemies-and-a-creepy-new-map</id>
-        <link href="https://www.rockpapershotgun.com/grindstones-free-cosmic-darkside-update-brings-eldritch-enemies-and-a-creepy-new-map"/>
-        <updated>2022-08-01T13:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Hack’n’slash indie puzzle game Grindstone has seen its biggest free update so far this year with the release of the faintly Lovecraftian new Cosmic Darkside scenario. The update adds fresh enemies, a cosmic-horror-themed map, and remixes some of Grindstone’s early levels. Watch the trailer below and try not to become infected by otherworldly monstrosities.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21,7 miljoner sålda PS5-konsoler ett svagt lyft, medan spelförsäljningen går neråt]]></title>
-        <id>https://www.fz.se/artikel/290962</id>
-        <link href="https://www.fz.se/artikel/290962-217-miljoner-salda-ps5-konsoler-ett-svagt-lyft-medan-spelforsaljningen-gar-nerat"/>
-        <updated>2022-08-01T12:29:00.000Z</updated>
-        <summary type="html"><![CDATA[Sony redovisar resultat.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Masahiro Sakurai's Smash Ultimate screenshots to run out sometime in August]]></title>
-        <id>https://www.vg247.com/masahiro-sakurais-smash-ultimate-screenshots-to-run-out-sometime-in-august</id>
-        <link href="https://www.vg247.com/masahiro-sakurais-smash-ultimate-screenshots-to-run-out-sometime-in-august"/>
-        <updated>2022-08-01T12:10:32.000Z</updated>
-        <summary type="html"><![CDATA[Technically, Smash Bros. Ultimate and new content for it all came to an end back in October 2021, when Kingdom Hearts' Sora was introduced to the fighting game. However, Smash has continued to live on not just through its loyal community, but through the creative screenshots of its director, Masahiro Sakurai.
-Sakurai started, and committed to, a long-standing tradition of posting screenshots from the game to Twitter every day. These screenshots in particular have been of great joy and amusement to many Smash fans, simply due to the fact that Sakurai manages to capture characters and environments so perfectly in each of them. The below shot is definitely a perfect example of how passionate the Wii Fit trainers can get about a fight.
-That said, the playful tradition is set to come to an end. In a recent tweet, Masahiro Sakurai shared that it looks as though he'll run out of screenshots this August. He claims that he'd even taken an additional 200 screenshots towards the end of development, making it hard to believe they're gone so quickly.
- Read more]]></summary>
-        <author>
-            <name>Kelsey Raynor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sprickor i fasaden när Nothing Phone 1 överlever böjtest]]></title>
-        <id>https://www.sweclockers.com/artikel/34684</id>
-        <link href="https://www.sweclockers.com/artikel/34684-sprickor-i-fasaden-nar-nothing-phone-1-overlever-bojtest"/>
-        <updated>2022-08-01T11:54:30.000Z</updated>
-        <summary type="html"><![CDATA[Med Phone 1 satsar Nothing stort på det estetiska, men Jerryrigeverything visar att telefonen klarar hårda tag, om än med minsta möjliga marginal.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Padloc: An Intuitive Open-Source Password Manager]]></title>
-        <id>https://itsfoss.com/?p=100358</id>
-        <link href="https://itsfoss.com/padloc/"/>
-        <updated>2022-08-01T11:53:36.000Z</updated>
-        <summary type="html"><![CDATA[An open-source password manager with a pleasing user interface, available cross-platform. Let's take a look!]]></summary>
-        <author>
-            <name>Ankush Das</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam gets support for Nintendo Online classic controllers]]></title>
-        <id>https://www.gamingonlinux.com/2022/08/steam-gets-support-for-nintendo-online-classic-controllers/</id>
-        <link href="https://www.gamingonlinux.com/2022/08/steam-gets-support-for-nintendo-online-classic-controllers/"/>
-        <updated>2022-08-01T11:50:12.000Z</updated>
-        <summary type="html"><![CDATA[Valve recently released an update for the main Steam client, which amongst other things brings support in Steam Input for the Nintendo Online classic controllers.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam-stopp för betyg, priser och erbjudanden på spelens grafiska logga]]></title>
-        <id>https://www.fz.se/artikel/290961</id>
-        <link href="https://www.fz.se/artikel/290961-steam-stopp-for-betyg-priser-och-erbjudanden-pa-spelens-grafiska-logga"/>
-        <updated>2022-08-01T11:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Valve vill göra det enklare och tydligare.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valve bans devs from adding review scores and awards on Steam store assets]]></title>
-        <id>https://www.gamingonlinux.com/2022/08/valve-bans-devs-from-adding-review-scores-and-awards-on-steam-store-assets/</id>
-        <link href="https://www.gamingonlinux.com/2022/08/valve-bans-devs-from-adding-review-scores-and-awards-on-steam-store-assets/"/>
-        <updated>2022-08-01T11:37:28.000Z</updated>
-        <summary type="html"><![CDATA[There's a lot of places where developers can have their game logo across Steam, and some developers have been going pretty overboard with noisy images filled with extras. Valve is putting a stop to it.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indonesian government blocks online services for Steam, Epic Games and more]]></title>
-        <id>https://www.eurogamer.net/indonesian-government-blocks-online-services-for-steam-epic-games-and-more</id>
-        <link href="https://www.eurogamer.net/indonesian-government-blocks-online-services-for-steam-epic-games-and-more"/>
-        <updated>2022-08-01T11:37:28.000Z</updated>
-        <summary type="html"><![CDATA[UPDATE 02/08/22: Following yesterday's story, Valve has now registered with Kominfo. As such, Steam is no longer blocked by the Indonesian government. 
-PayPal and Yahoo services have also resumed in the country.
-At this time, however, the Epic Games Store and its services, as well as EA's Origin, are still blocked. Industry analyst Daniel Ahmed has stated, "there is no official confirmation on whether [Epic and EA] plan to register yet."
- Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
         </author>
     </entry>
 </feed>
