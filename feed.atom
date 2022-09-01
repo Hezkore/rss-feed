@@ -2,10 +2,140 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-01T07:24:32.460Z</updated>
+    <updated>2022-09-01T08:31:35.155Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Goodbye, humans: Call centers 'could save $80b' switching to AI]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/01/call-center-ai-gartner/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/01/call-center-ai-gartner/"/>
+        <updated>2022-09-01T08:03:06.000Z</updated>
+        <summary type="html"><![CDATA[<h4>You'll just have to learn to code instead – oh wait, computers can do that, too</h4> <p>By 2026 the call center industry could save up to $80 billion by replacing humans with AI chatbots, according to analysts at Gartner.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Systemkraven för Hogwarts Legacy ser rätt snälla ut]]></title>
+        <id>https://www.fz.se/artikel/291307</id>
+        <link href="https://www.fz.se/artikel/291307-systemkraven-for-hogwarts-legacy-ser-ratt-snalla-ut"/>
+        <updated>2022-09-01T07:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Men förlitar sig på uppskalningsteknik.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Emmanuel Kasper: OpenShift  vs. AWS product mapping]]></title>
+        <id>http://00formicapunk00.wordpress.com/?p=82</id>
+        <link href="https://00formicapunk00.wordpress.com/2022/09/01/openshift-vs-aws-product-mapping/"/>
+        <updated>2022-09-01T07:45:00.000Z</updated>
+        <summary type="html"><![CDATA[If you know the Amazon Web Services portfolio, and you are interested in OpenShift or the OKD OpenShift community distribution, this is a table of corresponding technologies.
+OpenShift is Red Hat’s Kubernetes distribution: it is basically the upstream Kubernetes delivered with monitoring, logging, CI/CD, underlying OS, tested upgrade paths not found with a manual kubernetes.io kubeadm install.
+AWS
+OpenShift
+OpenShift upstream project
+
+
+
+
+Cloud Trail
+Kubernetes API Server audit log
+Kubernetes
+
+
+Cloud Watch
+OpenShift Monitoring
+Prometheus
+
+
+AWS Artifact
+Compliance Operator
+OpenSCAP
+
+
+AWS Trusted Advisor
+Insights
+
+
+
+AWS Marketplace
+OpenShift Operator Hub
+
+
+
+AWS Identity and Access Management (IAM)
+Red Hat SSO
+Keycloack
+
+
+AWS Elastisc Beanstalk
+OpenShift Source2Image (S2I)
+Source2Image (S2I)
+
+
+AWS S3
+ODF Rados Gateway
+Rook RGW
+
+
+AWS Elastic Bloc Storage
+ODF Rados Block Device
+Rook RBD
+
+
+AWS Elastic File System
+ODF Ceph FS
+Rook CephFS
+
+
+Amazon Simple Notification Service
+OpenShift Streams for Apache Kafka
+Apache Kafka
+
+
+Amazon Guard Duty
+API Server audit log review, ACS Runtime detection
+Stackrox
+
+
+Amazon Inspector
+Quay.io container scanner, ACS Vulnerability Assessment
+Clair, Stackrox
+
+
+AWS Lambda
+Openshift Serverless*
+Knative
+
+
+AWS Key Management System
+could be done with Hashicorp Vault
+Vault
+
+
+AWS WAF
+NGINX Ingress Controller Operator with ModSecurity
+NGINX ModSecurity
+
+
+Amazon Elasticache
+Redis Enterprise Operator
+Redis, memcached as alternative
+
+
+AWS Relational Database Service
+Crunchy Data Operator
+PostgreSQL
+
+
+
+* OpenShift Serverless requires the application to be packaged as a container, something AWS Lamda does not require.]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oh no, that James Webb Space Telescope snap might actually contain malware]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/01/webb_telescrope_malware/</id>
@@ -38698,49 +38828,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Single-Core PC Breaks Post-Quantum Encryption Candidate Algorithm in One Hour]]></title>
-        <id>VE8DWimwq5NyXnqZJ7oKmA</id>
-        <link href="https://www.tomshardware.com/news/single-core-pc-breaks-post-quantum-encryption-candidate-algorithm-in-one-hour"/>
-        <updated>2022-08-02T20:21:25.000Z</updated>
-        <summary type="html"><![CDATA[Researchers from the Computer Security and Industrial Cryptography group at KU Leuven have used a single-core classical computer and advanced mathematics to take down a post-quantum cryptography algorithm.]]></summary>
-        <author>
-            <name>francisco.pires@outlook.com (Francisco Pires)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logitech are making a cloud gaming handheld with Tencent]]></title>
-        <id>https://www.rockpapershotgun.com/logitech-are-making-a-cloud-gaming-handheld-with-tencent</id>
-        <link href="https://www.rockpapershotgun.com/logitech-are-making-a-cloud-gaming-handheld-with-tencent"/>
-        <updated>2022-08-02T20:17:14.000Z</updated>
-        <summary type="html"><![CDATA[Logitech and Tencent Games are partnering to create a handheld device tailored for cloud gaming. There are no images of it yet, but the handheld will support multiple cloud gaming services including Xbox Cloud Gaming and Nvidia GeForce Now when it launches later this year.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EA cracks down on modders selling their custom Sims 4 content]]></title>
-        <id>https://arstechnica.com/?p=1870938</id>
-        <link href="https://arstechnica.com/?p=1870938"/>
-        <updated>2022-08-02T19:41:23.000Z</updated>
-        <summary type="html"><![CDATA[But publisher leaves lucrative loophole for "early access" Patreon subscriptions.]]></summary>
-        <author>
-            <name>Kyle Orland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avowed bitcoin creator Craig Wright is not happy with £1 win in UK libel lawsuit]]></title>
-        <id>https://arstechnica.com/?p=1870911</id>
-        <link href="https://arstechnica.com/?p=1870911"/>
-        <updated>2022-08-02T19:27:53.000Z</updated>
-        <summary type="html"><![CDATA[What the judge calls "deliberately false," Wright calls misunderstood evidence.]]></summary>
-        <author>
-            <name>Ashley Belanger</name>
         </author>
     </entry>
 </feed>

@@ -15142,16 +15142,6 @@
           "wordCount": 4818,
           "title": "Get MSI's 360mm AiO CPU cooler for £70",
           "imageUrl": "https://assets2.rockpapershotgun.com/coreliquid-360r.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/coreliquid-360r.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/logitech-are-making-a-cloud-gaming-handheld-with-tencent",
-          "author": "Graham Smith",
-          "description": "Logitech and Tencent Games are partnering to create a handheld device tailored for cloud gaming. There are no images of it yet, but the handheld will support multiple cloud gaming services including Xbox Cloud Gaming and Nvidia GeForce Now when it launches later this year.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/logitech-are-making-a-cloud-gaming-handheld-with-tencent",
-          "publishedOn": "2022-08-02T20:17:14.000Z",
-          "wordCount": 4712,
-          "title": "Logitech are making a cloud gaming handheld with Tencent",
-          "imageUrl": "https://assets2.rockpapershotgun.com/fortnite-steam-deck.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/fortnite-steam-deck.jpg"
         }
       ]
     },
@@ -20364,21 +20354,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/dkEx6momy9WazkfwuPRLJW.png"
-        },
-        {
-          "id": "VE8DWimwq5NyXnqZJ7oKmA",
-          "author": "francisco.pires@outlook.com (Francisco Pires)",
-          "description": "Researchers from the Computer Security and Industrial Cryptography group at KU Leuven have used a single-core classical computer and advanced mathematics to take down a post-quantum cryptography algorithm.",
-          "link": "https://www.tomshardware.com/news/single-core-pc-breaks-post-quantum-encryption-candidate-algorithm-in-one-hour",
-          "publishedOn": "2022-08-02T20:21:25.000Z",
-          "wordCount": 18077,
-          "title": "Single-Core PC Breaks Post-Quantum Encryption Candidate Algorithm in One Hour",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/gPRXvX8gWNQnXUcQw6pzQe.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/gPRXvX8gWNQnXUcQw6pzQe.jpg"
         }
       ]
     },
@@ -20387,6 +20362,16 @@
       "feedUrl": "https://planet.debian.org/rss20.xml",
       "siteUrl": "https://planet.debian.org/",
       "articles": [
+        {
+          "id": "http://00formicapunk00.wordpress.com/?p=82",
+          "author": null,
+          "description": "If you know the Amazon Web Services portfolio, and you are interested in OpenShift or the OKD OpenShift community distribution, this is a table of corresponding technologies.\nOpenShift is Red Hat’s Kubernetes distribution: it is basically the upstream Kubernetes delivered with monitoring, logging, CI/CD, underlying OS, tested upgrade paths not found with a manual kubernetes.io kubeadm install.\nAWS\nOpenShift\nOpenShift upstream project\n\n\n\n\nCloud Trail\nKubernetes API Server audit log\nKubernetes\n\n\nCloud Watch\nOpenShift Monitoring\nPrometheus\n\n\nAWS Artifact\nCompliance Operator\nOpenSCAP\n\n\nAWS Trusted Advisor\nInsights\n\n\n\nAWS Marketplace\nOpenShift Operator Hub\n\n\n\nAWS Identity and Access Management (IAM)\nRed Hat SSO\nKeycloack\n\n\nAWS Elastisc Beanstalk\nOpenShift Source2Image (S2I)\nSource2Image (S2I)\n\n\nAWS S3\nODF Rados Gateway\nRook RGW\n\n\nAWS Elastic Bloc Storage\nODF Rados Block Device\nRook RBD\n\n\nAWS Elastic File System\nODF Ceph FS\nRook CephFS\n\n\nAmazon Simple Notification Service\nOpenShift Streams for Apache Kafka\nApache Kafka\n\n\nAmazon Guard Duty\nAPI Server audit log review, ACS Runtime detection\nStackrox\n\n\nAmazon Inspector\nQuay.io container scanner, ACS Vulnerability Assessment\nClair, Stackrox\n\n\nAWS Lambda\nOpenshift Serverless*\nKnative\n\n\nAWS Key Management System\ncould be done with Hashicorp Vault\nVault\n\n\nAWS WAF\nNGINX Ingress Controller Operator with ModSecurity\nNGINX ModSecurity\n\n\nAmazon Elasticache\nRedis Enterprise Operator\nRedis, memcached as alternative\n\n\nAWS Relational Database Service\nCrunchy Data Operator\nPostgreSQL\n\n\n\n* OpenShift Serverless requires the application to be packaged as a container, something AWS Lamda does not require.",
+          "link": "https://00formicapunk00.wordpress.com/2022/09/01/openshift-vs-aws-product-mapping/",
+          "publishedOn": "2022-09-01T07:45:00.000Z",
+          "wordCount": 1623,
+          "title": "Emmanuel Kasper: OpenShift  vs. AWS product mapping",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
         {
           "id": "http://flossexperiences.wordpress.com/?p=7317",
           "author": null,
@@ -24420,26 +24405,6 @@
           "wordCount": 1484,
           "title": "3 years after launch, Apple Arcade loses 15 games",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/Screen-Shot-2022-08-02-at-4.17.21-PM-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1870938",
-          "author": "Kyle Orland",
-          "description": "But publisher leaves lucrative loophole for \"early access\" Patreon subscriptions.",
-          "link": "https://arstechnica.com/?p=1870938",
-          "publishedOn": "2022-08-02T19:41:23.000Z",
-          "wordCount": 1798,
-          "title": "EA cracks down on modders selling their custom Sims 4 content",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/sims4mpreg-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1870911",
-          "author": "Ashley Belanger",
-          "description": "What the judge calls \"deliberately false,\" Wright calls misunderstood evidence.",
-          "link": "https://arstechnica.com/?p=1870911",
-          "publishedOn": "2022-08-02T19:27:53.000Z",
-          "wordCount": 1645,
-          "title": "Avowed bitcoin creator Craig Wright is not happy with £1 win in UK libel lawsuit",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1152506125-760x380.jpg"
         }
       ]
     },
@@ -24448,6 +24413,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291307",
+          "author": null,
+          "description": "Men förlitar sig på uppskalningsteknik.",
+          "link": "https://www.fz.se/artikel/291307-systemkraven-for-hogwarts-legacy-ser-ratt-snalla-ut",
+          "publishedOn": "2022-09-01T07:59:00.000Z",
+          "wordCount": 1871,
+          "title": "Systemkraven för Hogwarts Legacy ser rätt snälla ut",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291307"
+        },
         {
           "id": "https://www.fz.se/artikel/291306",
           "author": null,
@@ -29873,6 +29848,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/01/call-center-ai-gartner/",
+          "author": null,
+          "description": "<h4>You'll just have to learn to code instead – oh wait, computers can do that, too</h4> <p>By 2026 the call center industry could save up to $80 billion by replacing humans with AI chatbots, according to analysts at Gartner.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/01/call-center-ai-gartner/",
+          "publishedOn": "2022-09-01T08:03:06.000Z",
+          "wordCount": 1356,
+          "title": "Goodbye, humans: Call centers 'could save $80b' switching to AI",
+          "imageUrl": "https://regmedia.co.uk/2022/03/17/shutterstock_nuisancecall.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/01/webb_telescrope_malware/",
           "author": null,
