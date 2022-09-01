@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-01T13:40:04.796Z</updated>
+    <updated>2022-09-01T14:21:41.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[No longer prepared to <code>svn commit</code>: WebKit migrates to GitHub]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/01/webkit_migrates/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/01/webkit_migrates/"/>
+        <updated>2022-09-01T14:16:14.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Apple-developed web engine to take advantage of Git’s distributed nature, GitHub’s large community</h4> <p>Apple-developed web rendering engine, WebKit, the basis of its Safari browser, is migrating to Git.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diablo, CoD och Overwatch kommer till Game Pass, om Activision Blizzard-köpet blir av]]></title>
+        <id>https://www.fz.se/artikel/291312</id>
+        <link href="https://www.fz.se/artikel/291312-diablo-cod-och-overwatch-kommer-till-game-pass-om-activision-blizzard-kopet-blir-av"/>
+        <updated>2022-09-01T14:04:28.000Z</updated>
+        <summary type="html"><![CDATA[Phil Spencer snackar framtidsplaner.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Last of Us Part 1: all performance modes tested, which should you use?]]></title>
+        <id>https://www.eurogamer.net/digitalfoundry-2022-the-last-of-us-part-1-testing-performance-in-the-ps5-remake</id>
+        <link href="https://www.eurogamer.net/digitalfoundry-2022-the-last-of-us-part-1-testing-performance-in-the-ps5-remake"/>
+        <updated>2022-09-01T13:57:00.000Z</updated>
+        <summary type="html"><![CDATA[The Last of Us on PS3 was a boundary-pushing title with stunning graphics and animation. Novel techniques - like capsule shadows and real-time bounce lighting - alongside ruthless attention to detail produced one of the most technically accomplished games in its time, even though it often failed to reach its 30fps target, frequently dipping into the mid-20s in combat and traversal sequences. Enter The Last of Us Part 1.
+Some nine-and-a-half years after its original release, The Last of Us has been fully remade with modern technology on PS5 hardware. With an advanced suite of graphics tech in tow, does the remake also blow past its frame-time budgets? Or has Naughty Dog more sensibly balanced visual beauty with fluid frame-rates? 
+The Last of Us Part 1 offers players five genuine visual modes, engaged through various selections and system-level tweaks. With the PS5 set to 60Hz output, you get the option of a fidelity mode that offers 4K visuals with a 30fps target framerate, alongside a performance mode that advertises dynamic 4K visuals or native 1440p visuals depending on your output resolution - but actually delivers 1440p regardless. With 120Hz engaged, you get the same options, though the fidelity mode now promises a 40fps framerate target. As an additional modifier, engaging both 120Hz and VRR gives you the option to 'unlock' the 120Hz options, maximising frame-rate and using VRR to smooth out any inconsistencies. 
+ Read more]]></summary>
+        <author>
+            <name>Oliver Mackenzie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quiz: Svensk tech-historia]]></title>
+        <id>https://www.sweclockers.com/artikel/34854</id>
+        <link href="https://www.sweclockers.com/artikel/34854-quiz-svensk-tech-historia"/>
+        <updated>2022-09-01T13:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Svenska IT- och teknikbolag finns det gott om. Hur bra koll har du på svensk tech-historia?]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grafaiai, the latest addition to Pokémon Scarlet and Violet, officially revealed]]></title>
+        <id>https://www.eurogamer.net/grafaiai-the-latest-addition-to-pokemon-scarlet-and-violet-officially-revealed</id>
+        <link href="https://www.eurogamer.net/grafaiai-the-latest-addition-to-pokemon-scarlet-and-violet-officially-revealed"/>
+        <updated>2022-09-01T13:44:58.000Z</updated>
+        <summary type="html"><![CDATA[The Pokémon Company has officially revealed the next Pokémon in Scarlet and Violet: Grafaiai.
+
+
+The Pokémon has been teased all week with a series of images taken by a Paldean photographer featuring brightly coloured markings in a forest.
+
+
+Now, in a new documentary format video, we finally got a look at the little painter.
+ 
+Read more]]></summary>
+        <author>
+            <name>Ed Nightingale</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Call of Duty, Diablo, and Overwatch will come to Game Pass]]></title>
         <id>https://www.vg247.com/call-of-duty-diablo-and-overwatch-xbox-game-pass</id>
@@ -17,6 +78,16 @@ That's according to an open letter discussing the Activision Blizzard acquisitio
  Read more]]></summary>
         <author>
             <name>Stephany Nunneley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA will pay Boeing more than twice as much as SpaceX for crew seats]]></title>
+        <id>https://arstechnica.com/?p=1877497</id>
+        <link href="https://arstechnica.com/?p=1877497"/>
+        <updated>2022-09-01T13:31:26.000Z</updated>
+        <summary type="html"><![CDATA["I don't know whether the business case closes today."]]></summary>
+        <author>
+            <name>Eric Berger</name>
         </author>
     </entry>
     <entry>
