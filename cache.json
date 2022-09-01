@@ -12,6 +12,16 @@
       "siteUrl": "https://itsfoss.com",
       "articles": [
         {
+          "id": "http://itsfoss.com/?p=10209",
+          "author": "sreenath",
+          "description": "Editing with Micro is much easier than with other editors like Vim and Emacs. You can even use your regular Ctrl+C, Ctrl+V, Ctrl+Z shortcuts in Micro.",
+          "link": "https://itsfoss.com/micro-editor-linux/",
+          "publishedOn": "2022-09-01T06:11:00.000Z",
+          "wordCount": 7323,
+          "title": "Micro: Making File Editing Easier in Linux Terminal",
+          "imageUrl": "https://itsfoss.com/wp-content/uploads/2016/04/micro-command-line-editor.png"
+        },
+        {
           "id": "https://itsfoss.com/?p=101504",
           "author": "Abhishek Prakash",
           "description": "Learn how to change the lid closing behavior with Ubuntu and make it not go in suspend mode when the laptop lid is closed.",
@@ -1574,16 +1584,6 @@
           "wordCount": 1264,
           "title": "OBS Studio 28.0 Beta 1 brings Linux improvements, lots of new features",
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/267117487id21394gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/08/humble-choice-has-the-ascent-hot-wheels-unleashed-a-plague-tale-innocence/",
-          "author": "Liam Dawe",
-          "description": "It's a fresh month which means a new curated monthly bundle with the Humble Choice, so here's what's inside and what you can expect on Linux and Steam Deck.",
-          "link": "https://www.gamingonlinux.com/2022/08/humble-choice-has-the-ascent-hot-wheels-unleashed-a-plague-tale-innocence/",
-          "publishedOn": "2022-08-02T17:56:38.000Z",
-          "wordCount": 1490,
-          "title": "Humble Choice has The Ascent, Hot Wheels Unleashed, A Plague Tale: Innocence",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/303416460id21392gol.jpg"
         }
       ]
     },
@@ -11835,26 +11835,6 @@
           "wordCount": 1546,
           "title": "Fedora 37 To Offer Official Support On Raspberry Pi 4 Devices",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Chrome-104-Released",
-          "author": null,
-          "description": "Google has promoted Chrome 104 to stable today as their newest feature update to this leading, cross-platform web browser...",
-          "link": "https://www.phoronix.com/news/Chrome-104-Released",
-          "publishedOn": "2022-08-02T18:30:00.000Z",
-          "wordCount": 1431,
-          "title": "Chrome 104 Released With Region Capture Support, WebGL Canvas Color Management",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/GCC-12-PGO-TR-3990X-AMD",
-          "author": null,
-          "description": "Last month I ran a number of GCC 12 compiler optimization benchmarks for this latest-stable compiler atop an AMD Ryzen Threadripper 3990X workstation. Those tests included various optimization levels as well as link-time optimizations (LTO). Some Phoronix Premium  supporters also requested to see some fresh GCC 12 Profile Guided Optimization (PGO) benchmarks, so here in this article are those PGO benchmark results...",
-          "link": "https://www.phoronix.com/news/GCC-12-PGO-TR-3990X-AMD",
-          "publishedOn": "2022-08-02T18:00:00.000Z",
-          "wordCount": 1568,
-          "title": "GCC 12 Profile Guided Optimization Benchmarks With The AMD Threadripper 3990X",
-          "imageUrl": null
         }
       ]
     },
@@ -20389,21 +20369,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/gPRXvX8gWNQnXUcQw6pzQe.jpg"
-        },
-        {
-          "id": "7GEpLDP3t2CNNDXvNzEemF",
-          "author": null,
-          "description": "Samsung getting ready to release new flagship client SSD.",
-          "link": "https://www.tomshardware.com/news/samsung-990-pro-ssd-listed",
-          "publishedOn": "2022-08-02T18:21:38.000Z",
-          "wordCount": 17561,
-          "title": "Samsung's Next-Gen Flagship 990 Pro PCIe 5.0 SSD Listed",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/fZUknBWcAkSGQ7thqmokhZ.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/fZUknBWcAkSGQ7thqmokhZ.jpg"
         }
       ]
     },
@@ -20412,6 +20377,16 @@
       "feedUrl": "https://planet.debian.org/rss20.xml",
       "siteUrl": "https://planet.debian.org/",
       "articles": [
+        {
+          "id": "http://flossexperiences.wordpress.com/?p=7317",
+          "author": null,
+          "description": "Culture\nJust before I start, I would like to point out that this post may or would probably be NSFW. Again, what is SFW (Safe at Work) and NSFW that so much depends on culture and perception of culture from wherever we are or wherever we take birth? But still, to be on the safe side I have put it as NSFW. Now there have been a few statements and ideas that gave me a pause. This will be a sort of chaotic blog post as I am in such a phase today. \nFor e.g. while I do not know which culture or which country this comes from, somebody shared that in some cultures one can talk/comment ‘May your poop be easy’ and with a straight face. I dunno which culture is this but if somebody asked me that I would just die from laughing or maybe poop there itself. While I can understand if it is a constipated …",
+          "link": "https://flossexperiences.wordpress.com/2022/09/01/culture-books-friends/",
+          "publishedOn": "2022-09-01T05:59:07.000Z",
+          "wordCount": 6029,
+          "title": "Shirish Agarwal: Culture, Books, Friends",
+          "imageUrl": "https://flossexperiences.files.wordpress.com/2022/09/wearing-new-clothes.jpg"
+        },
         {
           "id": "https://www.eyrie.org/~eagle/journal/2022-08/001.html",
           "author": null,
@@ -24455,26 +24430,6 @@
           "wordCount": 1645,
           "title": "Avowed bitcoin creator Craig Wright is not happy with £1 win in UK libel lawsuit",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1152506125-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1870902",
-          "author": "Jonathan M. Gitlin",
-          "description": "Two-thirds of US drivers can charge at home—that leaves plenty who can't.",
-          "link": "https://arstechnica.com/?p=1870902",
-          "publishedOn": "2022-08-02T18:25:02.000Z",
-          "wordCount": 1529,
-          "title": "What do we do about all the people who can’t charge an EV at home?",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/no-ev-charging-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1870867",
-          "author": "Jon Brodkin",
-          "description": "Victims lured with \"smart contracts\" on Ethereum, Tron, and Binance blockchains.",
-          "link": "https://arstechnica.com/?p=1870867",
-          "publishedOn": "2022-08-02T18:04:32.000Z",
-          "wordCount": 1560,
-          "title": "SEC: Crypto fraudsters raised $300M with “textbook pyramid and Ponzi scheme”",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-coins-pyramid-760x380.jpg"
         }
       ]
     },
@@ -29888,6 +29843,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/01/surrey_police_waze_traffic/",
+          "author": null,
+          "description": "<h4>You're under app-vest, sunshine</h4> <p>Traffic cops in Surrey, England, have drawn criticism after revealing how they game Waze to spook drivers into slowing down while out on patrol.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/01/surrey_police_waze_traffic/",
+          "publishedOn": "2022-09-01T06:02:08.000Z",
+          "wordCount": 1453,
+          "title": "Braking news: Cops slammed for spamming Waze to make drivers slow down",
+          "imageUrl": "https://regmedia.co.uk/2022/08/31/police_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/01/us_stops_nvidia_and_amd/",
           "author": null,

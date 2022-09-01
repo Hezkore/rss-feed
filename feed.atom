@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-01T05:53:07.402Z</updated>
+    <updated>2022-09-01T06:36:12.469Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Micro: Making File Editing Easier in Linux Terminal]]></title>
+        <id>http://itsfoss.com/?p=10209</id>
+        <link href="https://itsfoss.com/micro-editor-linux/"/>
+        <updated>2022-09-01T06:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Editing with Micro is much easier than with other editors like Vim and Emacs. You can even use your regular Ctrl+C, Ctrl+V, Ctrl+Z shortcuts in Micro.]]></summary>
+        <author>
+            <name>sreenath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Braking news: Cops slammed for spamming Waze to make drivers slow down]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/01/surrey_police_waze_traffic/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/01/surrey_police_waze_traffic/"/>
+        <updated>2022-09-01T06:02:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>You're under app-vest, sunshine</h4> <p>Traffic cops in Surrey, England, have drawn criticism after revealing how they game Waze to spook drivers into slowing down while out on patrol.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shirish Agarwal: Culture, Books, Friends]]></title>
+        <id>http://flossexperiences.wordpress.com/?p=7317</id>
+        <link href="https://flossexperiences.wordpress.com/2022/09/01/culture-books-friends/"/>
+        <updated>2022-09-01T05:59:07.000Z</updated>
+        <summary type="html"><![CDATA[Culture
+Just before I start, I would like to point out that this post may or would probably be NSFW. Again, what is SFW (Safe at Work) and NSFW that so much depends on culture and perception of culture from wherever we are or wherever we take birth? But still, to be on the safe side I have put it as NSFW. Now there have been a few statements and ideas that gave me a pause. This will be a sort of chaotic blog post as I am in such a phase today. 
+For e.g. while I do not know which culture or which country this comes from, somebody shared that in some cultures one can talk/comment ‘May your poop be easy’ and with a straight face. I dunno which culture is this but if somebody asked me that I would just die from laughing or maybe poop there itself. While I can understand if it is a constipated …]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russ Allbery: Summer haul]]></title>
         <id>https://www.eyrie.org/~eagle/journal/2022-08/001.html</id>
@@ -38666,66 +38698,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[What the judge calls "deliberately false," Wright calls misunderstood evidence.]]></summary>
         <author>
             <name>Ashley Belanger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome 104 Released With Region Capture Support, WebGL Canvas Color Management]]></title>
-        <id>https://www.phoronix.com/news/Chrome-104-Released</id>
-        <link href="https://www.phoronix.com/news/Chrome-104-Released"/>
-        <updated>2022-08-02T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Google has promoted Chrome 104 to stable today as their newest feature update to this leading, cross-platform web browser...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What do we do about all the people who can’t charge an EV at home?]]></title>
-        <id>https://arstechnica.com/?p=1870902</id>
-        <link href="https://arstechnica.com/?p=1870902"/>
-        <updated>2022-08-02T18:25:02.000Z</updated>
-        <summary type="html"><![CDATA[Two-thirds of US drivers can charge at home—that leaves plenty who can't.]]></summary>
-        <author>
-            <name>Jonathan M. Gitlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung's Next-Gen Flagship 990 Pro PCIe 5.0 SSD Listed]]></title>
-        <id>7GEpLDP3t2CNNDXvNzEemF</id>
-        <link href="https://www.tomshardware.com/news/samsung-990-pro-ssd-listed"/>
-        <updated>2022-08-02T18:21:38.000Z</updated>
-        <summary type="html"><![CDATA[Samsung getting ready to release new flagship client SSD.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEC: Crypto fraudsters raised $300M with “textbook pyramid and Ponzi scheme”]]></title>
-        <id>https://arstechnica.com/?p=1870867</id>
-        <link href="https://arstechnica.com/?p=1870867"/>
-        <updated>2022-08-02T18:04:32.000Z</updated>
-        <summary type="html"><![CDATA[Victims lured with "smart contracts" on Ethereum, Tron, and Binance blockchains.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GCC 12 Profile Guided Optimization Benchmarks With The AMD Threadripper 3990X]]></title>
-        <id>https://www.phoronix.com/news/GCC-12-PGO-TR-3990X-AMD</id>
-        <link href="https://www.phoronix.com/news/GCC-12-PGO-TR-3990X-AMD"/>
-        <updated>2022-08-02T18:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Last month I ran a number of GCC 12 compiler optimization benchmarks for this latest-stable compiler atop an AMD Ryzen Threadripper 3990X workstation. Those tests included various optimization levels as well as link-time optimizations (LTO). Some Phoronix Premium  supporters also requested to see some fresh GCC 12 Profile Guided Optimization (PGO) benchmarks, so here in this article are those PGO benchmark results...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Humble Choice has The Ascent, Hot Wheels Unleashed, A Plague Tale: Innocence]]></title>
-        <id>https://www.gamingonlinux.com/2022/08/humble-choice-has-the-ascent-hot-wheels-unleashed-a-plague-tale-innocence/</id>
-        <link href="https://www.gamingonlinux.com/2022/08/humble-choice-has-the-ascent-hot-wheels-unleashed-a-plague-tale-innocence/"/>
-        <updated>2022-08-02T17:56:38.000Z</updated>
-        <summary type="html"><![CDATA[It's a fresh month which means a new curated monthly bundle with the Humble Choice, so here's what's inside and what you can expect on Linux and Steam Deck.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
         </author>
     </entry>
 </feed>
