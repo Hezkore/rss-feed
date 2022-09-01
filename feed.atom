@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-01T20:24:40.310Z</updated>
+    <updated>2022-09-01T21:21:42.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why bother with warrants when cops can buy location data for under $10k?]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/01/eff_fog_data_broker/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/01/eff_fog_data_broker/"/>
+        <updated>2022-09-01T20:28:30.000Z</updated>
+        <summary type="html"><![CDATA[<h4>How Fog Data Science sells records of your whereabouts, according to the EFF</h4> <p>For less than $10,000, and without a warrant, cops can buy large amounts of location data on private citizens and track people's movements over long periods of time.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia's GeForce RTX 4080 Allegedly Exposed]]></title>
+        <id>wZ5mYmiHfj7fXphvwnHkJe</id>
+        <link href="https://www.tomshardware.com/news/nvidias-geforce-rtx-4080-allegedly-exposed"/>
+        <updated>2022-09-01T20:21:34.000Z</updated>
+        <summary type="html"><![CDATA[Alleged GeForce RTX 4080: Huge cooler, strange fonts, new fan.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cooler Master’s Vertical GPU Mount Is More Expensive Than Its Cases]]></title>
         <id>RXJhNpPLYi6pesHqbBsSWi</id>
@@ -39831,124 +39851,6 @@ Read more]]></summary>
         <link href="https://www.phoronix.com/news/SVT-AV1-1.2-Released"/>
         <updated>2022-08-03T09:33:23.000Z</updated>
         <summary type="html"><![CDATA[Earlier this year Intel released SVT-AV1 1.0 as a big update to this leading open-source AV1 video encoder. Since then they have not let up and now three months after v1.1, SVT-AV1 1.2 is now shipped as the latest update to this cross-platform, high performance AV1 encoder...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chunky Steam Deck update adds overheat warning, docked mode improvements, performance fixes and more]]></title>
-        <id>https://www.rockpapershotgun.com/chunky-steam-deck-update-adds-overheat-warning-docked-mode-improvements-performance-fixes-and-more</id>
-        <link href="https://www.rockpapershotgun.com/chunky-steam-deck-update-adds-overheat-warning-docked-mode-improvements-performance-fixes-and-more"/>
-        <updated>2022-08-03T09:21:18.000Z</updated>
-        <summary type="html"><![CDATA[The latest Steam Deck software update, comprised of both a client update and SteamOS 3.3, is out now. It’s a fat stack of improvements and fixes, too, including a handful of brand new features.
-You can read the full patch notes on Steam, but I’ll give you the highlights, which include a new warning that pops up when the Steam Deck’s temperature “goes outside the safe operating range”. When it starts throttling, in other words, a threshold that many Deck owners have been discovering during recent heatwaves. I have an overheating notification feature myself, only it’s just me typing “too hot” in the RPS Slack.
-Read more]]></summary>
-        <author>
-            <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stardew Valley creator shares unseen screenshot of upcoming project, Haunted Chocolatier]]></title>
-        <id>https://www.vg247.com/stardew-valley-new-haunted-chocolatier-screenshot</id>
-        <link href="https://www.vg247.com/stardew-valley-new-haunted-chocolatier-screenshot"/>
-        <updated>2022-08-03T09:19:26.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to solo developer and creator of Stardew Valley, Eric ‘ConcernedApe’ Barone, certainly knows how to get fans excited. Honestly, it doesn’t take much. 
-Barone took to twitter to share an unseen-before screenshot of his upcoming project, Haunted Chocolatier, and has amassed plenty of likes and love in under 24 hours.
-While still trying to find a way to port Stardew Valley’s huge 1.5 update to mobile, which should release by the end of the year, Eric Barone has been chipping away at the development of their next project, Haunted Chocolatier.
- Read more]]></summary>
-        <author>
-            <name>Kelsey Raynor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[På söndag får vi "ny information" om Call of Duty: Modern Warfare II]]></title>
-        <id>https://www.fz.se/artikel/290986</id>
-        <link href="https://www.fz.se/artikel/290986-pa-sondag-far-vi-ny-information-om-call-of-duty-modern-warfare-ii"/>
-        <updated>2022-08-03T09:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Det luktar multiplayer-info.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[South of the Circle has some of the best performances in games I've ever seen]]></title>
-        <id>https://www.eurogamer.net/south-of-the-circle-has-some-of-the-best-performances-in-games-ive-ever-seen</id>
-        <link href="https://www.eurogamer.net/south-of-the-circle-has-some-of-the-best-performances-in-games-ive-ever-seen"/>
-        <updated>2022-08-03T09:12:52.000Z</updated>
-        <summary type="html"><![CDATA[Doug Cockle said something to me once that always stayed with me. He said when he recorded his lines for The Witcher games - he played the English Geralt of Rivia - he did them alone. He never recorded with any of the other actors - he barely met them. And I found that so strange - I still do. But I get it. I understand that in order to give meaningful dialogue choice, you need to cut performances up so you can stick them back together again in the way the player wants. And the greater the interactivity, the more you need to do it.
-The problem with this is disjointedness: pauses in conversations where there would normally be none, mismatched tone where there wouldn't normally be any. Sometimes it's obvious, sometimes it's not. And however good the performer - and direction and sticking back together - the result is never quite what it's aiming to be: natural. Because it's not.
-South of the Circle got me thinking about this again. It's a smallish game that came out on Apple Arcade a couple of years ago and resurfaced on PC and Switch this week, and I'm very glad it did, because it has some of the best performances in a game I have ever witnessed.
- Read more]]></summary>
-        <author>
-            <name>Robert Purchese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.0 HID Brings AMD SFH v1.1 Support, XP-PEN Deco L Tablet Support]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.0-HID</id>
-        <link href="https://www.phoronix.com/news/Linux-6.0-HID"/>
-        <updated>2022-08-03T09:09:28.000Z</updated>
-        <summary type="html"><![CDATA[The HID subsystem updates for the Linux 6.0 (nee 5.20) kernel have been submitted...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SteamOS 3.3 and Steam Deck Client updates released for all users]]></title>
-        <id>https://www.gamingonlinux.com/2022/08/steamos-33-and-steam-deck-client-updates-released-for-all-users/</id>
-        <link href="https://www.gamingonlinux.com/2022/08/steamos-33-and-steam-deck-client-updates-released-for-all-users/"/>
-        <updated>2022-08-03T09:01:02.000Z</updated>
-        <summary type="html"><![CDATA[All the latest Beta and Preview changes from Valve have gone live with SteamOS 3.3 and all the Steam Deck Client updates are now available for all users.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pimoroni Inventor 2040 W Review: The Spark of Invention]]></title>
-        <id>EoUSbUdH86NHRHLu43WCW3</id>
-        <link href="https://www.tomshardware.com/reviews/pimoroni-inventor-2040-w"/>
-        <updated>2022-08-03T09:00:57.000Z</updated>
-        <summary type="html"><![CDATA[Pimoroni’s Pico W Aboard-powered Inventor 2040 W enables projects both on your desk and on the web.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OBS Studio 28.0 Beta 1 brings Linux improvements, lots of new features]]></title>
-        <id>https://www.gamingonlinux.com/2022/08/obs-studio-280-beta-1-brings-linux-improvements-lots-of-new-features/</id>
-        <link href="https://www.gamingonlinux.com/2022/08/obs-studio-280-beta-1-brings-linux-improvements-lots-of-new-features/"/>
-        <updated>2022-08-03T08:55:53.000Z</updated>
-        <summary type="html"><![CDATA[OBS Studio is getting another major version bump with OBS Studio 28.0 Beta 1 now available for testing. Lots of big features included in this one, plus some nice Linux client updates.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lisa Su: "Ryzen 7000 lanseras senast i september"]]></title>
-        <id>https://www.sweclockers.com/artikel/34694</id>
-        <link href="https://www.sweclockers.com/artikel/34694-lisa-su-ryzen-7000-lanseras-senast-i-september"/>
-        <updated>2022-08-03T08:47:21.000Z</updated>
-        <summary type="html"><![CDATA[Lanseringsfönstret för AMD:s nästa processorserie blir mer konkret när bolagets VD tar ton, och slår fast att Ryzen 7000 följer tidsplanen.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EA nöjda som oberoende, men stänger inte dörren för att bli uppköpta]]></title>
-        <id>https://www.fz.se/artikel/290985</id>
-        <link href="https://www.fz.se/artikel/290985-ea-nojda-som-oberoende-men-stanger-inte-dorren-for-att-bli-uppkopta"/>
-        <updated>2022-08-03T08:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Andrew Wilson öppen för förändringar.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OBS Studio 28 Beta 1 Brings 10-bit & HDR Video Encoding, Qt6 Toolkit]]></title>
-        <id>https://www.phoronix.com/news/OBS-Studio-28-Beta</id>
-        <link href="https://www.phoronix.com/news/OBS-Studio-28-Beta"/>
-        <updated>2022-08-03T08:29:14.000Z</updated>
-        <summary type="html"><![CDATA[OBS Studio as the popular, cross-platform, open-source software widely used by live-streamers is working on its next major release...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
