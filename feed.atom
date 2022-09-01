@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-01T08:31:35.155Z</updated>
+    <updated>2022-09-01T09:23:30.422Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.1 Thunderbolt Networking To Support USB4 End-To-End Flow Control]]></title>
+        <id>https://www.phoronix.com/news/USB4NET-End-To-End-Flow-Control</id>
+        <link href="https://www.phoronix.com/news/USB4NET-End-To-End-Flow-Control"/>
+        <updated>2022-09-01T09:20:04.000Z</updated>
+        <summary type="html"><![CDATA[One of the interesting capabilities with Thunderbolt and now USB4 that is seemingly not too widely used is for networking between systems. The Linux kernel for the past half-decade already has offered a Thunderbolt networking driver for networking between hosts with Thunderbolt cables. The latest improvement on this front is now supporting USB4's end-to-end flow control mode...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo Direct September 2022 rumours suggest big news for Zelda fans]]></title>
+        <id>https://www.vg247.com/nintendo-direct-september-2022-rumours-suggest-big-news-for-zelda-fans</id>
+        <link href="https://www.vg247.com/nintendo-direct-september-2022-rumours-suggest-big-news-for-zelda-fans"/>
+        <updated>2022-09-01T09:15:58.000Z</updated>
+        <summary type="html"><![CDATA[Just yesterday, a rumour emerged that the next Nintendo Direct is much closer than you might’ve though, and it’s going to be packed with news for keen Zelda fans. This report comes directly from Giant Bomb’s Jeff Grubb in a recent stream to YouTube.
+In the video, Grubb suggests that a Nintendo Direct could be happening the week of September 12, which is the same week that the Tokyo Game Show is expected to begin – this does track, given that we have seen a Nintendo Direct every September since the launch of the Nintendo Switch in 2017.
+When it comes to what this rumoured Nintendo Direct will feature, Grubb suggests that “I think there’s going to be a lot of Zelda stuff at this thing.” More specifically, it’s believed that Wind Waker HD and Twilight Princess HD ports could very well be coming to Nintendo Switch soon. These titles have been rumoured before, and are also very much titles that fans want to see on the newer console.
+ Read more]]></summary>
+        <author>
+            <name>Kelsey Raynor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Astronaut blood reveals genetic mutations for cancer and heart disease]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/01/astronauts_blood_space_health/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/01/astronauts_blood_space_health/"/>
+        <updated>2022-09-01T09:08:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Could just be a coincidence ... let's keep going into space and see what happens</h4> <p>Analyses of blood taken before and after spaceflight have confirmed astronauts undergo genetic mutations that could make them more susceptible to developing cancer and heart disease.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arkane tvingades att döpa Prey till Prey av Bethesda]]></title>
+        <id>https://www.fz.se/artikel/291308</id>
+        <link href="https://www.fz.se/artikel/291308-arkane-tvingades-att-dopa-prey-till-prey-av-bethesda"/>
+        <updated>2022-09-01T09:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Och gillade det verkligen inte.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung utökar Odyssey-familjen med ultrabred OLED]]></title>
+        <id>https://www.sweclockers.com/artikel/34852</id>
+        <link href="https://www.sweclockers.com/artikel/34852-samsung-utokar-odyssey-familjen-med-ultrabred-oled"/>
+        <updated>2022-09-01T08:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Samsungs panelteknik QD-OLED tar plats i det egna sortimentet, där 34 tum i välvt utförande och 175 Hz kombineras med TV-funktionen Gaming Hub.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OBS Studio 28.0 Released With 10-Bit & HDR Video Encoding, Qt 6 Ported]]></title>
+        <id>https://www.phoronix.com/news/OBS-Studio-28.0-Released</id>
+        <link href="https://www.phoronix.com/news/OBS-Studio-28.0-Released"/>
+        <updated>2022-09-01T08:27:54.000Z</updated>
+        <summary type="html"><![CDATA[For the open-source software popular for screen-casting and videogame live-streaming, OBS Studio 28.0 was released today as a big feature update...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Goodbye, humans: Call centers 'could save $80b' switching to AI]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/01/call-center-ai-gartner/</id>
@@ -38761,70 +38824,6 @@ Read more]]></summary>
         <link href="https://www.rockpapershotgun.com/this-weeks-best-gaming-laptop-deal-is-a-lenovo-legion-5i-pro-16-w-rtx-3070-ti"/>
         <updated>2022-08-02T21:25:14.000Z</updated>
         <summary type="html"><![CDATA[We spotted a rare discount on Lenovo's brand new Legion 5i Pro 16 laptop, and it's a high-end model with a 12th-gen Core i7 processor, RTX 3070 Ti graphics card and a stunning 16-in 2560x1600 165Hz display. Normally this laptop retails for £1500, but thanks to an Ebay code (AUG15) you can take £60 off. This isn't a massive discount, but it's a notable price reduction for a laptop that is literally brand new with the latest-gen tech inside. 
-Read more]]></summary>
-        <author>
-            <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Ultrabooks and Premium Laptops 2022]]></title>
-        <id>oDpKAasmQy4CFb4srujdf3</id>
-        <link href="https://www.tomshardware.com/best-picks/best-ultrabooks-premium-laptops"/>
-        <updated>2022-08-02T21:20:44.000Z</updated>
-        <summary type="html"><![CDATA[Our picks for the best ultrabooks (super thin and light notebooks), along with other premium laptops now.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steinar H. Gunderson: AV1 live streaming: The bitrate difference]]></title>
-        <id>http://blog.sesse.net/blog/tech/2022-08-02-23-11_av1_live_streaming_the_bitrate_difference.html</id>
-        <link href="http://blog.sesse.net/blog/tech/2022-08-02-23-11_av1_live_streaming_the_bitrate_difference.html"/>
-        <updated>2022-08-02T21:15:22.000Z</updated>
-        <summary type="html"><![CDATA[As part of looking into AV1, I wanted to get a feel for what kind of bitrate
-to aim for. Of course, Intel and others have made exquisite graphs containing
-results for many different encoders (although they might have wanted to spend
-a little more pixels on that latest one…), but you always feel suspicious
-that the results might be a bit cherry-picked. In particular, SVT-AV1 always
-seems to run on pretty wide machines (in this case, 48 cores/96 threads),
-and I wondered whether this was the primary reason for it doing so ell.
-So I made my own test, with the kind of footage I care about (a sports clip)
-at the speeds that I care about (realtime).
-I intentionally restricted the encoders to 16 cores (no HT, since that was
-the easiest), and tried various bitrates until I hit VMAF 85, which felt l…]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Are OFK's episodic indie-pop adventure will launch this month]]></title>
-        <id>https://www.rockpapershotgun.com/we-are-ofks-episodic-indie-pop-adventure-will-launch-this-month</id>
-        <link href="https://www.rockpapershotgun.com/we-are-ofks-episodic-indie-pop-adventure-will-launch-this-month"/>
-        <updated>2022-08-02T21:12:05.000Z</updated>
-        <summary type="html"><![CDATA[We Are OFK, a narrative game about an indie-pop band, will launch its first two episodes on August 18th. The following three episodes will then release weekly on August 25th, September 1st and September 8th. There's a new trailer below and it looks gorgeous.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Gaming Laptops of 2022]]></title>
-        <id>oGP9nKE7bBcRw2H2pW4eSe</id>
-        <link href="https://www.tomshardware.com/reviews/best-gaming-laptops,4828.html"/>
-        <updated>2022-08-02T20:52:04.000Z</updated>
-        <summary type="html"><![CDATA[Here are our favorite gaming laptops for every need, based on our testing and reviews.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get MSI's 360mm AiO CPU cooler for £70]]></title>
-        <id>https://www.rockpapershotgun.com/get-msis-360mm-aio-cpu-cooler-for-70</id>
-        <link href="https://www.rockpapershotgun.com/get-msis-360mm-aio-cpu-cooler-for-70"/>
-        <updated>2022-08-02T20:32:15.000Z</updated>
-        <summary type="html"><![CDATA[Right now a combination of a Box discount and an Ebay voucher code are making two MSI AiO liquid CPU coolers extremely cheap. The 360mm CoreLiquid 360R is down to £60 when you use code AUG15, while the CoreLiquid 280R is down to £52 using the same one. This is a massive reduction from their original prices and a frankly unbeatable deal for a liquid cooler with decent fans, RGB lighting and good thermal performance. 
 Read more]]></summary>
         <author>
             <name>Will Judd</name>
