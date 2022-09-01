@@ -2,10 +2,132 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-01T04:36:31.570Z</updated>
+    <updated>2022-09-01T05:53:07.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Russ Allbery: Summer haul]]></title>
+        <id>https://www.eyrie.org/~eagle/journal/2022-08/001.html</id>
+        <link href="https://www.eyrie.org/~eagle/journal/2022-08/001.html"/>
+        <updated>2022-09-01T05:26:00.000Z</updated>
+        <summary type="html"><![CDATA[Squire (graphic novel)
+Legends & Lattes (sff)
+Six of Crows (sff)
+Artifact Space (sff)
+The Power Broker (nonfiction)
+Servant Mage (sff)
+Spear (sff)
+A Mirror Mended (sff)
+Postwar (nonfiction)
+Nettle & Bone (sff)
+Why Buildings Fall Down
+(nonfiction)
+The Fed Unbound (nonfiction)
+Trade Me (romance)
+Allow Me to Retort (nonfiction)
+Miss Percy's Pocket Guide (sff)
+The Nordic Theory of Everything (nonfiction)
+Hogfather (sff)
+Jingo (sff)
+The Last Continent (sff)
+Carpe Jugulum (sff)
+The Fifth Elephant (sff)
+The Truth (sff)
+On Critical Race Theory (nonfiction)
+A Spaceship Repair Girl Supposedly Named Rachel
+(sff)
+Black Stars (sff anthology)
+The Kaiju Preservation Society (sff)
+Seeing Like a State (nonfiction)
+Trang (sff)
+Trust (sff)
+And Shall Machines Surrender (sff)
+Free (nonfiction)]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US bars Nvidia and AMD from selling AI-centric accelerators to China and Russia]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/01/us_stops_nvidia_and_amd/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/01/us_stops_nvidia_and_amd/"/>
+        <updated>2022-09-01T04:45:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Makes Nvidia tense with ban on Tensor tech that could cost it $400m this quarter alone</h4> <p>As part of ongoing efforts to restrict China and Russia accessing advanced American technology, the US government last week banned AMD and NVIDIA from selling some AI kit to China.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paul Wise: FLOSS Activities August 2022]]></title>
+        <id>http://bonedaddy.net/pabs3/log/2022/09/01/floss-activities/</id>
+        <link href="http://bonedaddy.net/pabs3/log/2022/09/01/floss-activities/"/>
+        <updated>2022-09-01T04:32:51.000Z</updated>
+        <summary type="html"><![CDATA[Focus
+This month I didn't have any particular focus.
+I just worked on issues in my info bubble.
+Changes
+webdl:
+support ffmpeg 5
+libpst:
+better error
+purple-discord:
+fix
+line ending,
+mojibake
+pass-audit:
+typos
+duck:
+add
+more match output,
+obsolete site,
+indicator phrase,
+fix
+comparisons,
+whitespace,
+sentence
+lintian:
+add obsolete site
+reportbug:
+minor cleanup,
+add
+ftp.d.o usertags
+Debian usertags:
+fix repro builds, ports, ftp-master usertags
+Debian package uploads:
+sptag,
+purple-discord,
+circuitbreaker
+Debian wiki pages:
+DebConf/25,
+DebianDay/2022/Brazil
+(FranciscoBeltr%C3%A3o,
+MinasGerais),
+DebianExperimental,
+DebianHosting,
+DebianServiceForDD,
+Firmware/Open,
+InstallingDebianOn/Microsoft/SurfaceBook,
+Locale,
+LocalGroups/DebianQuebec,
+Martinwguy,
+NetworkManager/iwd,
+PortsDocs/New,
+PrivacyIs…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hands-on: Lenovo’s second foldable PC addresses the first’s biggest problems]]></title>
+        <id>https://arstechnica.com/?p=1876903</id>
+        <link href="https://arstechnica.com/?p=1876903"/>
+        <updated>2022-09-01T04:00:57.000Z</updated>
+        <summary type="html"><![CDATA[A bigger screen, better specs, and more fitting OS could finally make foldable PCs a thing.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lenovo's New ThinkPad X1 Fold Goes Bigger]]></title>
         <id>qRgmEkyLFcsfAyx2jDAfrP</id>
@@ -38602,89 +38724,6 @@ Read more]]></summary>
         <link href="https://www.gamingonlinux.com/2022/08/humble-choice-has-the-ascent-hot-wheels-unleashed-a-plague-tale-innocence/"/>
         <updated>2022-08-02T17:56:38.000Z</updated>
         <summary type="html"><![CDATA[It's a fresh month which means a new curated monthly bundle with the Humble Choice, so here's what's inside and what you can expect on Linux and Steam Deck.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Över 1 TB lagring och 16 GB primärminne guldstandard enligt Steams användare]]></title>
-        <id>https://www.sweclockers.com/artikel/34692</id>
-        <link href="https://www.sweclockers.com/artikel/34692-over-1-tb-lagring-och-16-gb-primarminne-guldstandard-enligt-steams-anvandare"/>
-        <updated>2022-08-02T17:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Oculus Quest 2 klättrar till slut över 50-procentsgränsen. Samtidigt vinner större mängd primärminne och högre lagringskapacitet mark.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GaN-powered Thunderbolt 4 dock wants to rid data-hungry setups of power bricks]]></title>
-        <id>https://arstechnica.com/?p=1870829</id>
-        <link href="https://arstechnica.com/?p=1870829"/>
-        <updated>2022-08-02T17:44:12.000Z</updated>
-        <summary type="html"><![CDATA[Hyper-brand dock has four power-delivering Thunderbolt 4 ports, seeks crowdfunding.]]></summary>
-        <author>
-            <name>Scharon Harding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raspberry Pi 4 expands 3D potential with Vulkan update]]></title>
-        <id>https://arstechnica.com/?p=1870842</id>
-        <link href="https://arstechnica.com/?p=1870842"/>
-        <updated>2022-08-02T17:16:19.000Z</updated>
-        <summary type="html"><![CDATA[Developers and Android games get more-robust access to the GPU.]]></summary>
-        <author>
-            <name>Kevin Purdy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some Studio Display owners are having audio problems; software fix may be coming]]></title>
-        <id>https://arstechnica.com/?p=1870851</id>
-        <link href="https://arstechnica.com/?p=1870851"/>
-        <updated>2022-08-02T17:01:51.000Z</updated>
-        <summary type="html"><![CDATA[Short-term fix is simple, and a more permanent fix should be doable in software.]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberpunk: Edgerunners trailer shows off the Netflix animated series]]></title>
-        <id>https://www.vg247.com/cyberpunk-edgerunners-trailer-shows-off-the-netflix-animated-series</id>
-        <link href="https://www.vg247.com/cyberpunk-edgerunners-trailer-shows-off-the-netflix-animated-series"/>
-        <updated>2022-08-02T16:54:47.000Z</updated>
-        <summary type="html"><![CDATA[The Cyberpunk 2077 series from Netflix has a new trailer, and it shows off what to expect out of the anime when it airs this fall.
-The anime series will debut on the streaming service in September.
-Cyberpunk: Edgerunners is a joint project between CD Projekt and Netflix. While set in the game’s universe, the show features a different story and takes place in a separate period.
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DXVK 1.10.3 out with work for Halo Infinite plus better Stray performance for Proton]]></title>
-        <id>https://www.gamingonlinux.com/2022/08/dxvk-1103-out-with-work-for-halo-infinite-plus-better-stray-performance-for-proton/</id>
-        <link href="https://www.gamingonlinux.com/2022/08/dxvk-1103-out-with-work-for-halo-infinite-plus-better-stray-performance-for-proton/"/>
-        <updated>2022-08-02T16:46:32.000Z</updated>
-        <summary type="html"><![CDATA[DXVK is a Direct3D to Vulkan translation layer used in Proton, to help run Windows games on Linux and Steam Deck. A new release version 1.10.3 is out now.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nostalgimys åt ett nytt Twitter-konto som hedrar butiker i spel]]></title>
-        <id>https://www.fz.se/artikel/290979</id>
-        <link href="https://www.fz.se/artikel/290979-nostalgimys-at-ett-nytt-twitter-konto-som-hedrar-butiker-i-spel"/>
-        <updated>2022-08-02T16:45:00.000Z</updated>
-        <summary type="html"><![CDATA[Även restauranger och caféer, om vi ska vara petiga.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Check out the new Scrabdackle demo, a scribbly hand-drawn Zelda-like adventure]]></title>
-        <id>https://www.gamingonlinux.com/2022/08/check-out-the-new-scrabdackle-demo-a-scribbly-hand-drawn-zelda-like-adventure/</id>
-        <link href="https://www.gamingonlinux.com/2022/08/check-out-the-new-scrabdackle-demo-a-scribbly-hand-drawn-zelda-like-adventure/"/>
-        <updated>2022-08-02T16:37:15.000Z</updated>
-        <summary type="html"><![CDATA[Go on a bit of adventure as a Wizard in Scrabdackle, you just have to find your wand first. This scribbly-art hand-drawn adventure is ridiculously charming.]]></summary>
         <author>
             <name>Liam Dawe</name>
         </author>

@@ -1584,26 +1584,6 @@
           "wordCount": 1490,
           "title": "Humble Choice has The Ascent, Hot Wheels Unleashed, A Plague Tale: Innocence",
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/303416460id21392gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/08/dxvk-1103-out-with-work-for-halo-infinite-plus-better-stray-performance-for-proton/",
-          "author": "Liam Dawe",
-          "description": "DXVK is a Direct3D to Vulkan translation layer used in Proton, to help run Windows games on Linux and Steam Deck. A new release version 1.10.3 is out now.",
-          "link": "https://www.gamingonlinux.com/2022/08/dxvk-1103-out-with-work-for-halo-infinite-plus-better-stray-performance-for-proton/",
-          "publishedOn": "2022-08-02T16:46:32.000Z",
-          "wordCount": 1456,
-          "title": "DXVK 1.10.3 out with work for Halo Infinite plus better Stray performance for Proton",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/146979301id21391gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/08/check-out-the-new-scrabdackle-demo-a-scribbly-hand-drawn-zelda-like-adventure/",
-          "author": "Liam Dawe",
-          "description": "Go on a bit of adventure as a Wizard in Scrabdackle, you just have to find your wand first. This scribbly-art hand-drawn adventure is ridiculously charming.",
-          "link": "https://www.gamingonlinux.com/2022/08/check-out-the-new-scrabdackle-demo-a-scribbly-hand-drawn-zelda-like-adventure/",
-          "publishedOn": "2022-08-02T16:37:15.000Z",
-          "wordCount": 1272,
-          "title": "Check out the new Scrabdackle demo, a scribbly hand-drawn Zelda-like adventure",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1738643831id21390gol.jpg"
         }
       ]
     },
@@ -9488,16 +9468,6 @@
           "wordCount": 4701,
           "title": "Stardew Valley creator shares unseen screenshot of upcoming project, Haunted Chocolatier",
           "imageUrl": "https://asset.vg247.com/haunted-chocolatier-new-screenshot-(1).jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/haunted-chocolatier-new-screenshot-(1).jpg"
-        },
-        {
-          "id": "https://www.vg247.com/cyberpunk-edgerunners-trailer-shows-off-the-netflix-animated-series",
-          "author": "Stephany Nunneley",
-          "description": "The Cyberpunk 2077 series from Netflix has a new trailer, and it shows off what to expect out of the anime when it airs this fall.\nThe anime series will debut on the streaming service in September.\nCyberpunk: Edgerunners is a joint project between CD Projekt and Netflix. While set in the game’s universe, the show features a different story and takes place in a separate period.\n Read more",
-          "link": "https://www.vg247.com/cyberpunk-edgerunners-trailer-shows-off-the-netflix-animated-series",
-          "publishedOn": "2022-08-02T16:54:47.000Z",
-          "wordCount": 4450,
-          "title": "Cyberpunk: Edgerunners trailer shows off the Netflix animated series",
-          "imageUrl": "https://asset.vg247.com/cyberpunk_edgerunners_03.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/cyberpunk_edgerunners_03.jpg"
         }
       ]
     },
@@ -20443,6 +20413,26 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "https://www.eyrie.org/~eagle/journal/2022-08/001.html",
+          "author": null,
+          "description": "Squire (graphic novel)\nLegends & Lattes (sff)\nSix of Crows (sff)\nArtifact Space (sff)\nThe Power Broker (nonfiction)\nServant Mage (sff)\nSpear (sff)\nA Mirror Mended (sff)\nPostwar (nonfiction)\nNettle & Bone (sff)\nWhy Buildings Fall Down\n(nonfiction)\nThe Fed Unbound (nonfiction)\nTrade Me (romance)\nAllow Me to Retort (nonfiction)\nMiss Percy's Pocket Guide (sff)\nThe Nordic Theory of Everything (nonfiction)\nHogfather (sff)\nJingo (sff)\nThe Last Continent (sff)\nCarpe Jugulum (sff)\nThe Fifth Elephant (sff)\nThe Truth (sff)\nOn Critical Race Theory (nonfiction)\nA Spaceship Repair Girl Supposedly Named Rachel\n(sff)\nBlack Stars (sff anthology)\nThe Kaiju Preservation Society (sff)\nSeeing Like a State (nonfiction)\nTrang (sff)\nTrust (sff)\nAnd Shall Machines Surrender (sff)\nFree (nonfiction)",
+          "link": "https://www.eyrie.org/~eagle/journal/2022-08/001.html",
+          "publishedOn": "2022-09-01T05:26:00.000Z",
+          "wordCount": 364,
+          "title": "Russ Allbery: Summer haul",
+          "imageUrl": null
+        },
+        {
+          "id": "http://bonedaddy.net/pabs3/log/2022/09/01/floss-activities/",
+          "author": null,
+          "description": "Focus\nThis month I didn't have any particular focus.\nI just worked on issues in my info bubble.\nChanges\nwebdl:\nsupport ffmpeg 5\nlibpst:\nbetter error\npurple-discord:\nfix\nline ending,\nmojibake\npass-audit:\ntypos\nduck:\nadd\nmore match output,\nobsolete site,\nindicator phrase,\nfix\ncomparisons,\nwhitespace,\nsentence\nlintian:\nadd obsolete site\nreportbug:\nminor cleanup,\nadd\nftp.d.o usertags\nDebian usertags:\nfix repro builds, ports, ftp-master usertags\nDebian package uploads:\nsptag,\npurple-discord,\ncircuitbreaker\nDebian wiki pages:\nDebConf/25,\nDebianDay/2022/Brazil\n(FranciscoBeltr%C3%A3o,\nMinasGerais),\nDebianExperimental,\nDebianHosting,\nDebianServiceForDD,\nFirmware/Open,\nInstallingDebianOn/Microsoft/SurfaceBook,\nLocale,\nLocalGroups/DebianQuebec,\nMartinwguy,\nNetworkManager/iwd,\nPortsDocs/New,\nPrivacyIs…",
+          "link": "http://bonedaddy.net/pabs3/log/2022/09/01/floss-activities/",
+          "publishedOn": "2022-09-01T04:32:51.000Z",
+          "wordCount": 361,
+          "title": "Paul Wise: FLOSS Activities August 2022",
+          "imageUrl": null
+        },
+        {
           "id": "https://etbe.coker.com.au/?p=5130",
           "author": null,
           "description": "Armor is an interesting technology from Manchester University for stopping rowhammer attacks on DRAM [1]. Unfortunately “armor” is a term used for DRAM that looks fancy for ricers so finding out whether it’s used in production is difficult.\nThe Reckless Limitless Scope of Web Browsers is an insightful analysis of the size of web specs and why it’s impossible to implement them properly [2].\nFramework is a company that makes laptop kits you can assemble and upgrade, interesting concept [3]. I’ll keep buying second hand laptops for less than $400 but if I wanted to spend $1000 then I’d consider one of these.\nFS has an insightful article about why unstructured job interviews (IE the vast majority of job interviews) give a bad result [4].\nHow a child killer inspired Ayn Rand and indirectly cons…",
@@ -21136,6 +21126,16 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1876903",
+          "author": "Scharon Harding",
+          "description": "A bigger screen, better specs, and more fitting OS could finally make foldable PCs a thing.",
+          "link": "https://arstechnica.com/?p=1876903",
+          "publishedOn": "2022-09-01T04:00:57.000Z",
+          "wordCount": 1713,
+          "title": "Hands-on: Lenovo’s second foldable PC addresses the first’s biggest problems",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/listing-7-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1877506",
           "author": "Dan Goodin",
@@ -24475,36 +24475,6 @@
           "wordCount": 1560,
           "title": "SEC: Crypto fraudsters raised $300M with “textbook pyramid and Ponzi scheme”",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-coins-pyramid-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1870829",
-          "author": "Scharon Harding",
-          "description": "Hyper-brand dock has four power-delivering Thunderbolt 4 ports, seeks crowdfunding.",
-          "link": "https://arstechnica.com/?p=1870829",
-          "publishedOn": "2022-08-02T17:44:12.000Z",
-          "wordCount": 1716,
-          "title": "GaN-powered Thunderbolt 4 dock wants to rid data-hungry setups of power bricks",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/44966f2df320e277a7ffc91552b835f4_original-670x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1870842",
-          "author": "Kevin Purdy",
-          "description": "Developers and Android games get more-robust access to the GPU.",
-          "link": "https://arstechnica.com/?p=1870842",
-          "publishedOn": "2022-08-02T17:16:19.000Z",
-          "wordCount": 1401,
-          "title": "Raspberry Pi 4 expands 3D potential with Vulkan update",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/real_racing_vulkan_pi-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1870851",
-          "author": "Andrew Cunningham",
-          "description": "Short-term fix is simple, and a more permanent fix should be doable in software.",
-          "link": "https://arstechnica.com/?p=1870851",
-          "publishedOn": "2022-08-02T17:01:51.000Z",
-          "wordCount": 1376,
-          "title": "Some Studio Display owners are having audio problems; software fix may be coming",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/IMG_0142-760x380.jpeg"
         }
       ]
     },
@@ -27792,16 +27762,6 @@
           "wordCount": null,
           "title": "Assassin's Creed Valhalla har fått ett nytt, gratis spelläge",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.fz.se/artikel/290979",
-          "author": null,
-          "description": "Även restauranger och caféer, om vi ska vara petiga.",
-          "link": "https://www.fz.se/artikel/290979-nostalgimys-at-ett-nytt-twitter-konto-som-hedrar-butiker-i-spel",
-          "publishedOn": "2022-08-02T16:45:00.000Z",
-          "wordCount": 1855,
-          "title": "Nostalgimys åt ett nytt Twitter-konto som hedrar butiker i spel",
-          "imageUrl": "https://www.fz.se/artikel/og-image/290979"
         }
       ]
     },
@@ -29349,16 +29309,6 @@
           "wordCount": 1860,
           "title": "Lisa Su: \"Ryzen 7000 lanseras senast i september\"",
           "imageUrl": "https://www.sweclockers.com/artikel/34694/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34692",
-          "author": null,
-          "description": "Oculus Quest 2 klättrar till slut över 50-procentsgränsen. Samtidigt vinner större mängd primärminne och högre lagringskapacitet mark.",
-          "link": "https://www.sweclockers.com/artikel/34692-over-1-tb-lagring-och-16-gb-primarminne-guldstandard-enligt-steams-anvandare",
-          "publishedOn": "2022-08-02T17:47:00.000Z",
-          "wordCount": 1934,
-          "title": "Över 1 TB lagring och 16 GB primärminne guldstandard enligt Steams användare",
-          "imageUrl": "https://www.sweclockers.com/artikel/34692/og-image"
         }
       ]
     },
@@ -29938,6 +29888,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/01/us_stops_nvidia_and_amd/",
+          "author": null,
+          "description": "<h4>Makes Nvidia tense with ban on Tensor tech that could cost it $400m this quarter alone</h4> <p>As part of ongoing efforts to restrict China and Russia accessing advanced American technology, the US government last week banned AMD and NVIDIA from selling some AI kit to China.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/01/us_stops_nvidia_and_amd/",
+          "publishedOn": "2022-09-01T04:45:10.000Z",
+          "wordCount": 1398,
+          "title": "US bars Nvidia and AMD from selling AI-centric accelerators to China and Russia",
+          "imageUrl": "https://regmedia.co.uk/2021/03/12/us_china_chips_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/01/labmd_tiversa_defamation_lawsuit/",
           "author": null,
