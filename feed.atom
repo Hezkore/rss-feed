@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-01T23:25:10.976Z</updated>
+    <updated>2022-09-02T02:31:06.690Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[John Goerzen: Dead USB Drives Are Fine: Building a Reliable Sneakernet]]></title>
+        <id>https://changelog.complete.org/?p=10421</id>
+        <link href="https://changelog.complete.org/archives/10421-dead-usb-drives-are-fine-building-a-reliable-sneakernet"/>
+        <updated>2022-09-02T01:43:20.000Z</updated>
+        <summary type="html"><![CDATA[“OK,” you’re probably thinking.  “John, you talk a lot about things like Gopher and personal radios, and now you want to talk about building a reliable network out of…  USB drives?”
+Well, yes.  In fact, I’ve already done it.
+What is sneakernet?
+Normally, “sneakernet” is a sort of tongue-in-cheek reference to using disconnected storage to transport data or messages.  By “disconnect storage” I mean anything like CD-ROMs, hard drives, SD cards, USB drives, and so forth.  There are times when loading up 12TB on a device and driving it across town is just faster and easier than using the Internet for the same.  And, sometimes you need to get data to places that have no Internet at all.
+Another reason for sneakernet is security.  For instance, if your backup system is online, and your systems be…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-NSA trio who spied on Americans for UAE now banned from arms exports]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/02/us_cyber_spies_debarred/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/02/us_cyber_spies_debarred/"/>
+        <updated>2022-09-02T01:11:24.000Z</updated>
+        <summary type="html"><![CDATA[<h4>From hero to zero-day ... to plain zero</h4> <p>Three former US government cyber-spies who, among other things, illicitly compromised and snooped on Americans' devices for the United Arab Emirates government have been banned from participating in international arms exports under a deal reached with Uncle Sam.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam On Linux Marketshare Crawls Up To 1.27% For August 2022]]></title>
+        <id>https://www.phoronix.com/news/Steam-Survey-August-2022</id>
+        <link href="https://www.phoronix.com/news/Steam-Survey-August-2022"/>
+        <updated>2022-09-02T00:40:24.000Z</updated>
+        <summary type="html"><![CDATA[Valve just published the Steam Survey results for August 2022 that show a slight increase to Linux gaming as part of the overall marketshare on a percentage basis...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arc A770 Beats RTX 3060 in Ray Tracing Performance, According to Intel Benchmarks]]></title>
+        <id>ksAkMWV4HQhZeZDRf4dSJ</id>
+        <link href="https://www.tomshardware.com/news/arc-a770-beats-rtx-3060-in-ray-tracing-performance-in-new-intel-benchmarks"/>
+        <updated>2022-09-02T00:35:23.000Z</updated>
+        <summary type="html"><![CDATA[Intel has shared lower level details along with multiple ray tracing benchmarks for the upcoming Arc A770 graphics card, pitching it against the GeForce RTX 3060.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crusader Kings 3's Friends & Foes DLC adding over 100 new relationship-themed events next week]]></title>
         <id>https://www.eurogamer.net/crusader-kings-3s-friends-foes-dlc-adding-over-100-new-relationship-themed-events-next-week</id>
@@ -39392,274 +39436,6 @@ After releasing a demo for their creation several years ago, yesterday saw Copel
  Read more]]></summary>
         <author>
             <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turn Your Aquarium Up to 11 With the MetalFish PC Case]]></title>
-        <id>uqiExDEWHUeQAuU9JKy5GP</id>
-        <link href="https://www.tomshardware.com/news/turn-your-aquarium-up-to-11-with-the-metalfish-pc-case"/>
-        <updated>2022-08-03T14:20:25.000Z</updated>
-        <summary type="html"><![CDATA[The case includes a USB-powered filter, oxygenator, fish health tuned lighting, and it can fit up to a Micro-ATX motherboard, 90mm tall CPU cooler, and 220mm graphics card.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bright Memory: Infinite - a technically impressive FPS action game tested on PS5 and Xbox Series consoles]]></title>
-        <id>https://www.eurogamer.net/digitalfoundry-2022-bright-memory-infinite-a-development-marvel-for-ps5-and-xbox-series-consoles</id>
-        <link href="https://www.eurogamer.net/digitalfoundry-2022-bright-memory-infinite-a-development-marvel-for-ps5-and-xbox-series-consoles"/>
-        <updated>2022-08-03T14:08:11.000Z</updated>
-        <summary type="html"><![CDATA[On May 7th 2020, Microsoft kicked off the new generation of consoles with a gameplay showcase featuring a wide range of games planned for the Xbox Series X - and Bright Memory: Infinite was the very first game shown off during this presentation. Now, more than two years later - and half a year after the arrival of the PC version - Bright Memory: Infinite has arrived on console. Given its prominent placement in that original showcase, I felt that we needed to check it out here on Digital Foundry. On the face of it, this is indeed a 'next-gen only' exclusive - you can't play the game on PS4 or Xbox One consoles - which makes the launch of a Nintendo Switch version all the more intriguing.
-
-
-Bright Memory: Infinite is a fast-paced first-person shooter which combines snappy gunplay with sword driven melee combat. It's not a long game but what's here is solid and reasonably well executed - it almost recalls the 2013 reboot of Shadow Warrior, though with more focused, linear level design. Plus, if you're playing on the latest consoles, Bright Memory Infinite promises support for 120Hz output and ray traced reflections, though not simultaneously.
-
-
-Where it surprises the most, perhaps, is in its development history. Bright Memory: Infinite is a showpiece title for what modern development tools can offer when in the right hands - you see, most of the development duties on the game were executed by one person. In creating the game, Infinite was built using Unreal Engine 4 with additional support software and Quixel assets to speed up development time. That's not to say this is entirely a solo project - artists, musicians and voice actors were all required to complete the game but considering the quality of the presentation, it's an impressive accomplishment.
- 
-Read more]]></summary>
-        <author>
-            <name>John Linneman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Halo Infinites öppna värld blev mindre och mindre varierad än ursprungsvisionen: "Hann inte"]]></title>
-        <id>https://www.fz.se/artikel/290992</id>
-        <link href="https://www.fz.se/artikel/290992-halo-infinites-oppna-varld-blev-mindre-och-mindre-varierad-an-ursprungsvisionen-hann-inte"/>
-        <updated>2022-08-03T14:02:00.000Z</updated>
-        <summary type="html"><![CDATA[343i tvingades prioritera.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NBA 2K23 gameplay changes have been revealed - improved accessibility, new techniques, and better AI]]></title>
-        <id>https://www.vg247.com/nba-2k23-gameplay-changes-ai-accessible-shots</id>
-        <link href="https://www.vg247.com/nba-2k23-gameplay-changes-ai-accessible-shots"/>
-        <updated>2022-08-03T14:00:39.000Z</updated>
-        <summary type="html"><![CDATA[NBA 2K23 is nearly with us, releasing September 9 this year. In the build up to launch, we’ve learnt a lot about the gameplay changes coming to the hugely popular basketball game. This includes improvements to shooting, dribbling, and blocking with new gesture combos, AI improvements, accessibility features and more.
-We’ve broken down each major change coming with the latest release from 2K, so if you want to hit the court running, check out each major gameplay change coming to NBA 2K23 below!
-First, there’s the pro stick and a vast selection of new gesture combos coming to it. Players have been able to flick or hold the stick to do more complex shots since 2K21, but with this entry, a new selection of options are coming for dexterous players. Speaking of shots, skill dunks were a tad too strong last year, so that’s been touched up to be more complex. This includes a physics-based rim hanging system.
- Read more]]></summary>
-        <author>
-            <name>Connor Makar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's better: Cameras which actually take pictures, or running into a wall so fast you hurt yourself?]]></title>
-        <id>https://www.rockpapershotgun.com/whats-better-cameras-which-actually-take-pictures-or-running-into-a-wall-so-fast-you-hurt-yourself</id>
-        <link href="https://www.rockpapershotgun.com/whats-better-cameras-which-actually-take-pictures-or-running-into-a-wall-so-fast-you-hurt-yourself"/>
-        <updated>2022-08-03T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Our last deliberations ran a little long because I was away, but I'm now back to make it final: you decided that demos are better than gibs (by a pretty close margin). You have chosen your favourite little bits—of games, not corpses—and our quest resumes. This week, we pick between two forms of really committing to a game's reality. What's better: cameras which actually take pictures, or running into a wall so fast you hurt yourself?
-Read more]]></summary>
-        <author>
-            <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung's Memory-Semantic CXL SSD Brings a 20X Performance Uplift]]></title>
-        <id>Pir2DqZYB6RRo3rY4RuMHA</id>
-        <link href="https://www.tomshardware.com/news/samsung-memory-semantic-cxl-ssd-brings-20x-performance-uplift"/>
-        <updated>2022-08-03T13:48:12.000Z</updated>
-        <summary type="html"><![CDATA[Samsung's Memory-Semantic CXL SSD targets AI and ML applications with a large DRAM cache.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New game Roller Drama gives my friends who do roller derby even more ways to do roller derby]]></title>
-        <id>https://www.rockpapershotgun.com/new-game-roller-drama-gives-my-friends-who-do-roller-derby-even-more-ways-to-do-roller-derby</id>
-        <link href="https://www.rockpapershotgun.com/new-game-roller-drama-gives-my-friends-who-do-roller-derby-even-more-ways-to-do-roller-derby"/>
-        <updated>2022-08-03T13:46:35.000Z</updated>
-        <summary type="html"><![CDATA[Whomst among us didn't watch Whip It over a decade ago and think about giving full-contact skating sport a go, before falling over on once and deciding to pack it in? I have a bunch of friends who persisted and now spend their weekends in gyms and car parks, where they skate under 11/10 names like Correctional Felicity and give each other huge bruises. I can't be sure, but from their activity on social media I estimate they spend about 114% of their time being excited about roller derby, which I endorse. Now both they (and people like me, who find wheels frightening), can spend even more free time on roller derby with the annoucenment of 2023's sports management game Roller Drama.
-Read more]]></summary>
-        <author>
-            <name>Alice Bell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veckans fråga: Tangentbordets formfaktor och layout]]></title>
-        <id>https://www.sweclockers.com/artikel/34698</id>
-        <link href="https://www.sweclockers.com/artikel/34698-veckans-fraga-tangentbordets-formfaktor-och-layout"/>
-        <updated>2022-08-03T13:33:31.000Z</updated>
-        <summary type="html"><![CDATA[Förra veckan behandlades virtuell layout och efter stor efterfrågan kompletterar vi dubbelt upp med både formfaktor och fysisk layout.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[111 miljoner sålda Switch-konsoler, men försäljningen mattas]]></title>
-        <id>https://www.fz.se/artikel/290991</id>
-        <link href="https://www.fz.se/artikel/290991-111-miljoner-salda-switch-konsoler-men-forsaljningen-mattas"/>
-        <updated>2022-08-03T13:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Det går trögare för Playstation och Xbox. Nintendo hakar på trenden.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Beavis & Butt-Head reclaim their thrones of the reaction video genre]]></title>
-        <id>https://arstechnica.com/?p=1870910</id>
-        <link href="https://arstechnica.com/?p=1870910"/>
-        <updated>2022-08-03T13:00:42.000Z</updated>
-        <summary type="html"><![CDATA[Paramount+ revival adapts to how teen "TV" watching has shifted 30 years later.]]></summary>
-        <author>
-            <name>Sam Machkovech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tonight we’re gonna log on like it’s 1979]]></title>
-        <id>https://arstechnica.com/?p=1854257</id>
-        <link href="https://arstechnica.com/?p=1854257"/>
-        <updated>2022-08-03T13:00:26.000Z</updated>
-        <summary type="html"><![CDATA[A series of transcripts lets us explore the world of Telenet, Dialcom, and The Source.]]></summary>
-        <author>
-            <name>Ars Contributors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.0 Networking Brings Performance Optimizations, Early Preparations For WiFi 7]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.0-Networking</id>
-        <link href="https://www.phoronix.com/news/Linux-6.0-Networking"/>
-        <updated>2022-08-03T13:00:01.000Z</updated>
-        <summary type="html"><![CDATA[With the Linux 5.19 kernel there are some exciting networking improvements like big TCP support, PureLiFi drivers for light-based networking, WFX WiFi being promoted out of staging, and much more. Now with the in-development Linux 6.0 there is a lot more work in store...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Bomberman game coming to Apple Arcade]]></title>
-        <id>https://www.eurogamer.net/new-bomberman-game-coming-to-apple-arcade</id>
-        <link href="https://www.eurogamer.net/new-bomberman-game-coming-to-apple-arcade"/>
-        <updated>2022-08-03T12:49:52.000Z</updated>
-        <summary type="html"><![CDATA[Apple Arcade users will soon be getting a new game in the Bomberman series to add to their collection.
-
-
-Amazing Bomberman will be available to download on the iOS Apple Arcade this Friday (5th August).
-
-
-The release of Amazing Bomberman will introduce "musical mayhem to the storied series" and see players "use various bomb types to smash obstacles and collect special items as the stage changes to match different songs". You can check out the new trailer for it all below.
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Survival Fest is live now until August 8th]]></title>
-        <id>https://www.gamingonlinux.com/2022/08/steam-survival-fest-is-live-now-until-august-8th/</id>
-        <link href="https://www.gamingonlinux.com/2022/08/steam-survival-fest-is-live-now-until-august-8th/"/>
-        <updated>2022-08-03T12:29:21.000Z</updated>
-        <summary type="html"><![CDATA[Yet another event is happening now on Steam with the Survival Fest, giving you a showcase of various games that in some way force you to survive the elements.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Square Enix kräver att podcast med "läckt" Tomb Raider-manus plockas ner]]></title>
-        <id>https://www.fz.se/artikel/290990</id>
-        <link href="https://www.fz.se/artikel/290990-square-enix-kraver-att-podcast-med-lackt-tomb-raider-manus-plockas-ner"/>
-        <updated>2022-08-03T12:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Talar för dess äkthet?]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel 13th-Gen Raptor Lake Specs, Rumored Release Date, Benchmarks, and More]]></title>
-        <id>phD5H6ZPRfdX4oEQ6giK7N</id>
-        <link href="https://www.tomshardware.com/news/intel-13th-gen-raptor-lake-release-date-specifications-pricing-benchmarks-all-we-know-specs"/>
-        <updated>2022-08-03T12:19:03.000Z</updated>
-        <summary type="html"><![CDATA[Here's the Intel 13th-Gen Raptor Lake release date, benchmarks, specifications, pricing, and all we know about the new chip architecture.]]></summary>
-        <author>
-            <name>palcorn@outlook.com (Paul Alcorn)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raspberry Pi 4 gets a graphics bump with Vulkan 1.2 conformance]]></title>
-        <id>https://www.gamingonlinux.com/2022/08/raspberry-pi-4-gets-a-graphics-bump-with-vulkan-12-conformance/</id>
-        <link href="https://www.gamingonlinux.com/2022/08/raspberry-pi-4-gets-a-graphics-bump-with-vulkan-12-conformance/"/>
-        <updated>2022-08-03T12:13:34.000Z</updated>
-        <summary type="html"><![CDATA[Are you still enjoying your Raspberry Pi 4? Well, there's a graphics bump coming thanks to all the work in the drivers with it hitting Vulkan 1.2 conformance.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MSI Pro B660M-A DDR4 Motherboard Review: Pro Board on a Budget]]></title>
-        <id>qqKu33ku4nMn3d2TsxGaPQ</id>
-        <link href="https://www.tomshardware.com/reviews/msi-pro-b660ma-review"/>
-        <updated>2022-08-03T12:00:48.000Z</updated>
-        <summary type="html"><![CDATA[The MSI Pro B660M-A DDR4 sports a jet-black appearance offering two M.2 sockets, four SATA ports, mid-range audio, and fast wired networking. At under $140, it’s a good deal for those looking to get into Alder Lake and not overclock. That said, there are less expensive options available with similar specifications.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD trotsar sval marknad – ökar omsättningen med 70 procent]]></title>
-        <id>https://www.sweclockers.com/artikel/34695</id>
-        <link href="https://www.sweclockers.com/artikel/34695-amd-trotsar-sval-marknad-okar-omsattningen-med-70-procent"/>
-        <updated>2022-08-03T11:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Efter flera rekordår fortsätter AMD uppåt och omsätter 6,55 miljarder USD till följd av Xilinx-förvärvet och stark försäljning av Epyc-processorer.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hokko Life! Steams svar på Animal Crossing till konsoler i september]]></title>
-        <id>https://www.fz.se/artikel/290989</id>
-        <link href="https://www.fz.se/artikel/290989-hokko-life-steams-svar-pa-animal-crossing-till-konsoler-i-september"/>
-        <updated>2022-08-03T11:41:00.000Z</updated>
-        <summary type="html"><![CDATA[Kliver dessutom ur early access-läget.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crystal Dynamics issues takedown notice following Tomb Raider leak]]></title>
-        <id>https://www.eurogamer.net/crystal-dynamics-issues-takedown-notice-following-tomb-raider-leak</id>
-        <link href="https://www.eurogamer.net/crystal-dynamics-issues-takedown-notice-following-tomb-raider-leak"/>
-        <updated>2022-08-03T11:38:47.000Z</updated>
-        <summary type="html"><![CDATA[Over the weekend, a leak with potential details of the next Tomb Raider game made its way around the internet. These details came from an audition script for a role in the game, and told of Lara Croft leading a team of younger tomb raiders as she deals with the isolation of success. 
-
-
-Now, Tomb Raider developer Crystal Dynamics has issued a DMCA takedown notice to the Sacred Symbols Patreon, which leaked the audition script in question - and in doing so pretty much verified the details as accurate. 
-
-
-Sacred Symbols has since released a video about this takedown, saying the company had "[forced] our hand" on the matter.
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Square Enix on bringing characters to life and ditching episodes for Life Is Strange: True Colors]]></title>
-        <id>https://www.rockpapershotgun.com/square-enix-on-bringing-characters-to-life-and-ditching-episodes-for-life-is-strange-true-colors</id>
-        <link href="https://www.rockpapershotgun.com/square-enix-on-bringing-characters-to-life-and-ditching-episodes-for-life-is-strange-true-colors"/>
-        <updated>2022-08-03T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[It’s fair to say that Deck Nine had a lot to prove with Life Is Strange: True Colors. While it wasn’t their first Life Is Strange - the Colorado studio released the spin-off  game Before The Storm in 2017 - it was the first time they were tasked with creating their own world and characters, instead of inheriting Dontnod’s creations. 
-
-
-Fortunately Deck Nine successfully managed the tightrope walk of honouring the series’ existing DNA, while still taking the Life Is Strange world in new directions. To find out more about how it was done, I sat down with Philip Lawrence and Sarah Van Rompeay, respectively the Senior Narrative Designer and Senior Producer at Square Enix External Studios.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Chris Wallace</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watch today's Pokémon Presents livestream here]]></title>
-        <id>https://www.eurogamer.net/watch-todays-pokemon-presents-livestream-here</id>
-        <link href="https://www.eurogamer.net/watch-todays-pokemon-presents-livestream-here"/>
-        <updated>2022-08-03T11:27:19.000Z</updated>
-        <summary type="html"><![CDATA[Settle down into your Snorlax bean bag and pop down the hood of your Pikachu onesie. Today's Pokémon Presents presentation - a Pokémon-focused Nintendo Direct - is due to broadcast today at 2pm UK time.
-We're expecting around 20 minutes of announcements and footage, including a deeper dive into this year's highly-anticipated Pokémon Scarlet and Violet, due for Nintendo Switch in time for Christmas. (Stand by for more Lechonk!)
-These shows typically pack in updates on other Pokémon spin-offs too, so expect a brief mention of things like Pokémon Unite, Pokémon Go or Pokémon Cafe Mix. And finally, after years of waiting will we finally hear more about Pokémon Sleep?
- Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
         </author>
     </entry>
 </feed>
