@@ -1634,16 +1634,6 @@
           "wordCount": 1141,
           "title": "Here's the current most-played games on Steam Deck",
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1517218452id21403gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/08/valve-teams-with-komodo-to-bring-the-steam-deck-to-asia/",
-          "author": "Liam Dawe",
-          "description": "Some huge news for the future of the Steam Deck, as Valve has announced a teaming up with Komodo for the release of the Steam Deck in Asia.",
-          "link": "https://www.gamingonlinux.com/2022/08/valve-teams-with-komodo-to-bring-the-steam-deck-to-asia/",
-          "publishedOn": "2022-08-04T08:09:39.000Z",
-          "wordCount": 1245,
-          "title": "Valve teams with Komodo to bring the Steam Deck to Asia",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1818937012id21402gol.jpg"
         }
       ]
     },
@@ -9946,6 +9936,16 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/sdl12-compat-1.254",
+          "author": null,
+          "description": "The sdl12-compat is a SDL 1.2 compatibility layer implementation atop SDL 2.0. This sdl12-compat project allows for old, out-of-date games and other applications relying on the old SDL 1.2 interface to in turn run via the modern SDL2 library for better compatibility with input devices, Wayland support (assuming no direct X11 hard dependencies), support for PipeWire audio, improved input controls, and various other enhancements only found in SDL 2.0 and not the unmaintained SDL 1.2...",
+          "link": "https://www.phoronix.com/news/sdl12-compat-1.254",
+          "publishedOn": "2022-09-02T19:29:04.000Z",
+          "wordCount": 1383,
+          "title": "sdl12-compat 1.2.54 Pre-Release Gets More Games Running On This SDL2 Compatibility Layer",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Intel-Linux-Vulkan-Mesh-Shader",
           "author": null,
@@ -28072,26 +28072,6 @@
           "wordCount": 1807,
           "title": "Utöver Black Panther påstås EA ha ett singleplayer-spel på gång – med Iron Man?",
           "imageUrl": "https://www.fz.se/artikel/og-image/291002"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291001",
-          "author": null,
-          "description": "Legendariska Pokémon är fordon.",
-          "link": "https://www.fz.se/artikel/291001-massa-nytt-om-pokemon-scarlet-och-violet-varlden-berattelsen-trailer",
-          "publishedOn": "2022-08-04T08:21:00.000Z",
-          "wordCount": 1944,
-          "title": "Massa nytt om Pokémon Scarlet och Violet: världen, berättelsen, trailer",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291001"
-        },
-        {
-          "id": "https://www.fz.se/artikel/290999",
-          "author": null,
-          "description": "Från Dead by Daylight-skaparna.",
-          "link": "https://www.fz.se/artikel/290999-i-meet-your-maker-bygger-vi-kluriga-dungeons-och-forsoker-klara-andras",
-          "publishedOn": "2022-08-04T07:57:00.000Z",
-          "wordCount": 2010,
-          "title": "I Meet Your Maker bygger vi kluriga dungeons och försöker klara andras",
-          "imageUrl": "https://www.fz.se/artikel/og-image/290999"
         }
       ]
     },
@@ -29709,16 +29689,6 @@
           "wordCount": 1728,
           "title": "Asrock avtäcker Intel Arc A380 i Mini ITX-format",
           "imageUrl": "https://www.sweclockers.com/artikel/34702/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34699",
-          "author": null,
-          "description": "Nästa generation lagringsenheter står precis utanför dörren. Phison demonstrerar prestandan med hjälp av nyheter på tre fronter.",
-          "link": "https://www.sweclockers.com/artikel/34699-pci-express-5-0-lagring-demonstreras-med-ryzen-7000-i-testsystemet",
-          "publishedOn": "2022-08-04T07:28:52.000Z",
-          "wordCount": 1843,
-          "title": "PCI Express 5.0-lagring demonstreras med Ryzen 7000 i testsystemet",
-          "imageUrl": "https://www.sweclockers.com/artikel/34699/og-image"
         }
       ]
     },
@@ -35357,16 +35327,6 @@
           "wordCount": 1435,
           "title": "Strike days should serve as 'wake-up call' to BT's top brass, says union",
           "imageUrl": "https://regmedia.co.uk/2018/10/25/philip_jansen_bt.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/04/solar_hydrocarbon_production/",
-          "author": null,
-          "description": "<h4>Thanks, we'll take any good news, large or small, right now</h4> <p><strong>Vid</strong>  The aviation industry's attempts to go green are getting a boost from an unlikely place: carbon-neutral jet fuel pulled from thin air.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/04/solar_hydrocarbon_production/",
-          "publishedOn": "2022-08-04T07:27:10.000Z",
-          "wordCount": 1334,
-          "title": "Pull jet fuel from thin air? We can do that, say scientists",
-          "imageUrl": "https://regmedia.co.uk/2022/08/03/air-to-kerosene-test-facility.jpg"
         }
       ]
     }
