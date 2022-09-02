@@ -1573,6 +1573,26 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/domina-delisted-by-steam-after-developers-transphobic-rant",
+          "author": "Victoria Kennedy",
+          "description": "Indie Gladiator game Domina has been delisted from Steam, after its developer went off on a transphobic rant.\r\n\n\r\nDeveloper Nicholas John Leonhard Groissen took it upon himself to use his game as a platform to spout these comments in a recent 'update' announcing Domina's new name - Dominus.\r\n\n\r\n\"We're Out of Ideas, Mentally Unstable, Totally Degenerate, & Desperate for Clout - Let's Pretend We're A Completely Different Game to Regain Relevance!\" the post began.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/domina-delisted-by-steam-after-developers-transphobic-rant",
+          "publishedOn": "2022-09-02T10:19:48.000Z",
+          "wordCount": 4777,
+          "title": "Domina delisted by Steam after developer's transphobic rant",
+          "imageUrl": "https://assets.reedpopcdn.com/domina_bIZmR0F.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/domina_bIZmR0F.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/nintendo-to-gut-mario-kart-tour-of-grubby-gacha-elements",
+          "author": "Tom Phillips",
+          "description": "After two years of operation, Nintendo has decided to scrub Mario Kart Tour of its gacha-like elements. \r\n\n\r\nNintendo's smartphone version of Mario Kart currently allows you to dump currency into an in-game warp pipe in exchange for randomised rewards, such as characters and karts. \r\n\n\r\nThis will soon be replaced by a Fortnite-style rotating item shop, where you can exchange currency for items directly.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/nintendo-to-gut-mario-kart-tour-of-grubby-gacha-elements",
+          "publishedOn": "2022-09-02T10:15:22.000Z",
+          "wordCount": 4531,
+          "title": "Nintendo to gut Mario Kart Tour of grubby gacha elements",
+          "imageUrl": "https://assets.reedpopcdn.com/fphzkn4xdb5hk_brax_ai3ksa5kn5vsdn_zonkn0qq.png/BROK/thumbnail/1600x900/format/jpg/quality/80/fphzkn4xdb5hk_brax_ai3ksa5kn5vsdn_zonkn0qq.png"
+        },
+        {
           "id": "https://www.eurogamer.net/what-weve-been-playing-74",
           "author": "Eurogamer staff",
           "description": "Hello! Welcome back to our regular feature where we write a little bit about some of the games we've found ourselves playing over the last few days. This time: juice, B-Type, and a bit of spelunking.\nIf you fancy catching up on some of the older editions of What We've Been Playing, \r\nhere's our archive.\nPoinpy is one of the first Netflix games, a surprisingly great selection of smartphone treats that are worryingly easy to miss or forget about, given the streaming giant's slightly odd rollout.\n Read more",
@@ -6791,16 +6811,6 @@
           "wordCount": 6304,
           "title": "Rare talks captaincy, personalisation, and waterfalls ahead of Sea of Thieves' big new update",
           "imageUrl": "https://assets.reedpopcdn.com/sea-of-thieves-captaincy-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sea-of-thieves-captaincy-header.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/nba-2k23-bigs-up-authenticity-in-detailed-new-gameplay-breakdown",
-          "author": "Matt Wales",
-          "description": "With NBA 2K23's 9th September release date rapidly approaching, publisher 2K has shared a closer look at this latest series instalment's new features - including a new trailer - playing up the concept of \"authenticity\" across its defensive and offensive tool kit.\r\n\n\r\nIt's an extensive list of new features, as detailed in a lengthy new blog post, with 2K saying this year's gameplay changes should \"should translate to more wins, and more seamless actions\".\r\n\n\r\nOn the offensive side of things, there are new gesture combos to the Pro Stick, which 2K says has allowed it to \"expand the dunking controls to let you dunk exactly how you want\". That includes the addition of a new rim hang control which, on new gen consoles, incorporates physics-based simulated rim hangs.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/nba-2k23-bigs-up-authenticity-in-detailed-new-gameplay-breakdown",
-          "publishedOn": "2022-08-03T21:42:10.000Z",
-          "wordCount": 4586,
-          "title": "NBA 2K23 emphasises \"authenticity\" in detailed new gameplay breakdown",
-          "imageUrl": "https://assets.reedpopcdn.com/nba-2k23-art.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/nba-2k23-art.jpg"
         }
       ]
     },
@@ -9617,6 +9627,46 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Ubuntu-22.10-Linux-5.19",
+          "author": null,
+          "description": "As expected, Ubuntu 22.10 will be powered by the Linux 5.19 kernel...",
+          "link": "https://www.phoronix.com/news/Ubuntu-22.10-Linux-5.19",
+          "publishedOn": "2022-09-02T10:16:28.000Z",
+          "wordCount": 1497,
+          "title": "Ubuntu 22.10 Readied With The Linux 5.19 Kernel",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Mesa-Rust-OpenCL-Merging-Soon",
+          "author": null,
+          "description": "As part of experimenting with using Rust code inside Mesa, longtime Mesa developer Karol Herbst of Red Hat has been developing Rusticl as a new Rust-based OpenCL implementation for Gallium3D and an alternative to the long-standing \"Clover\" OpenCL state tracker. That Rusticl code with the initial Rust infrastructure for Mesa is expected to be merged in the coming days...",
+          "link": "https://www.phoronix.com/news/Mesa-Rust-OpenCL-Merging-Soon",
+          "publishedOn": "2022-09-02T10:02:39.000Z",
+          "wordCount": 1296,
+          "title": "Mesa's Rust OpenCL Implementation Expected To Be Merged In Coming Days",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/OOMD-Preference-All-Cgroups",
+          "author": null,
+          "description": "Stemming from Ubuntu 22.04 LTS activating systemd's out-of-memory daemon (systemd-oomd) and users finding their web browser being killed when facing memory or swap pressure, a change has been upstreamed in systemd to help alleviate this situation...",
+          "link": "https://www.phoronix.com/news/OOMD-Preference-All-Cgroups",
+          "publishedOn": "2022-09-02T09:47:50.000Z",
+          "wordCount": 1403,
+          "title": "Systemd OOMD Will Now Honor \"ManagedOOMPreference\" For All cgroups",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Mesa-AVX-512-LLVMpipe-Start",
+          "author": null,
+          "description": "An independent contributor to the open-source Mesa 3D graphics project has begun eyeing AVX-512 support by the LLVMpipe software rasterizer due to AVX-512 being present with the new AMD Ryzen 7000 series \"Zen 4\" processors...",
+          "link": "https://www.phoronix.com/news/Mesa-AVX-512-LLVMpipe-Start",
+          "publishedOn": "2022-09-02T09:23:35.000Z",
+          "wordCount": 1409,
+          "title": "Mesa's LLVMpipe Driver Begins Experimenting With AVX-512 Optimizations Ahead Of Zen 4",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Mesa-Arc-Graphics-Models",
           "author": null,
           "description": "When currently using Intel's open-source OpenGL and Vulkan drivers on Linux with their new Arc Graphics discrete GPUs, it's simply been reported as \"Intel{R} Graphics\" for the product/renderer string. With the latest Mesa 22.3-devel work and for back-porting to the current stable series, the graphics card models are beginning to be properly reported...",
@@ -11963,6 +12013,16 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/assassins-creed-mirage-is-real-and-well-find-out-more-next-week",
+          "author": "CJ Wheeler",
+          "description": "Leaked Assassin’s Creed game Mirage is real, Ubisoft have confirmed, and they’re planning to show more of it at next week’s Ubisoft Forward event. All we know for sure so far is that the game exists, it’s definitely called Mirage, and returns to the Middle Eastern setting of the original Assassin’s Creed. I rather like the blue highlights to the assassin’s robes in this one.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/assassins-creed-mirage-is-real-and-well-find-out-more-next-week",
+          "publishedOn": "2022-09-02T09:24:57.000Z",
+          "wordCount": 5085,
+          "title": "Assassin’s Creed: Mirage is real, and we’ll find out more next week",
+          "imageUrl": "https://assets2.rockpapershotgun.com/Assassins-Creed-Mirage-announcement.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Assassins-Creed-Mirage-announcement.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/kitsune-the-journey-of-adashino-is-a-japanese-fantasy-world-of-yokai-and-mystery",
           "author": "Alicia Haddick",
@@ -15232,16 +15292,6 @@
           "wordCount": 4846,
           "title": "MultiVersus season one has been postponed indefinitely",
           "imageUrl": "https://assets2.rockpapershotgun.com/multiversus-full-roster.png/BROK/thumbnail/1600x900/format/jpg/quality/80/multiversus-full-roster.png"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/pick-up-a-650w-seasonic-80-gold-power-supply-for-48-was-68",
-          "author": "Will Judd",
-          "description": "Seasonic is the name when it comes to reliable PC power supplies, so it's rare to see big discounts - especially on their more affordable models. That trend is reversed at CCL in the UK today though, as their G12 GC-650 power supply has dropped from £68 to £48 as part of CCL's summer sale. \nRead more",
-          "link": "https://www.rockpapershotgun.com/pick-up-a-650w-seasonic-80-gold-power-supply-for-48-was-68",
-          "publishedOn": "2022-08-03T22:09:19.000Z",
-          "wordCount": 4760,
-          "title": "Pick up a 650W Seasonic 80+ Gold power supply for £48 (was £68)",
-          "imageUrl": "https://assets2.rockpapershotgun.com/G12-GC-650.png/BROK/thumbnail/1600x900/format/jpg/quality/80/G12-GC-650.png"
         }
       ]
     },
@@ -20274,21 +20324,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/krwUrHEPv6XuPAxn73usxm.jpg"
-        },
-        {
-          "id": "KC5jWopSEk7fro7jZRh2Ug",
-          "author": null,
-          "description": "Wi-Fi 7 may make Ethernet obsolete already in 2024 if everything goes well.",
-          "link": "https://www.tomshardware.com/news/intel-plans-to-bring-wi-fi-7-to-client-platforms-by-2024",
-          "publishedOn": "2022-08-03T21:23:53.000Z",
-          "wordCount": 18517,
-          "title": "Intel Plans to Bring Wi-Fi 7 to Client Platforms by 2024",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/eSJrRrzyw6U9iV6pBSWrGk.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/eSJrRrzyw6U9iV6pBSWrGk.jpg"
         }
       ]
     },
@@ -24130,16 +24165,6 @@
           "wordCount": 1498,
           "title": "With help from BA.5, new COVID hospitalizations quadrupled since April",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/05/GettyImages-1208282169-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1871375",
-          "author": "Eric Berger",
-          "description": "We've still got to wait three years before the first asteroid flyby.",
-          "link": "https://arstechnica.com/?p=1871375",
-          "publishedOn": "2022-08-03T21:23:10.000Z",
-          "wordCount": 1686,
-          "title": "With solar arrays now operational, Lucy’s got some shimmering to do",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/Lucy’s-Solar-Powered-Journey-Continues-0-42-screenshot-760x380.png"
         }
       ]
     },
@@ -29365,16 +29390,6 @@
           "wordCount": 1475,
           "title": "Comic for 2022.08.05 - Millennial",
           "imageUrl": null
-        },
-        {
-          "id": "https://explosm.net/comics/origin-story",
-          "author": null,
-          "description": "New Cyanide and Happiness Comic",
-          "link": "https://explosm.net/comics/origin-story",
-          "publishedOn": "2022-08-03T21:40:17.000Z",
-          "wordCount": 1476,
-          "title": "Comic for 2022.08.03 - Origin Story",
-          "imageUrl": null
         }
       ]
     },
@@ -29653,6 +29668,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/02/eu_tablet_battery_regulations/",
+          "author": null,
+          "description": "<h4>Rules for devices including phones aimed at reducing environmental impact of scroll addiction</h4> <p>The European Union is proposing legislation which will make manufacturers of tablets and smartphones offer longer-life batteries and spare parts for at least five years.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/02/eu_tablet_battery_regulations/",
+          "publishedOn": "2022-09-02T09:30:07.000Z",
+          "wordCount": 1248,
+          "title": "EU proposes regulations for tablet battery life, spare parts",
+          "imageUrl": "https://regmedia.co.uk/2022/05/03/shutterstock_tablet.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/02/microsoft_activision_blizzard_cma/",
           "author": null,
