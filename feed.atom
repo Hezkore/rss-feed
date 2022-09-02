@@ -2,10 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-02T18:29:33.227Z</updated>
+    <updated>2022-09-02T19:17:43.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What are you playing this weekend?]]></title>
+        <id>https://www.vg247.com/what-are-you-playing-this-weekend-21</id>
+        <link href="https://www.vg247.com/what-are-you-playing-this-weekend-21"/>
+        <updated>2022-09-02T18:52:20.000Z</updated>
+        <summary type="html"><![CDATA[It's a three-day weekend in the US, which means those of you in the region will hopefully be enjoying the time off.
+The Labor Day weekend is usually like any other long weekend in the US. Full of barbeques, relaxing, having a few drinks, and enjoying what's left of the summer. As you see, this is the last summer holiday weekend for us, and it also signals the end of the swimming season at public pools. This is fine for some of us who have a phobia of community swimming pools (pools are NOT a unrinal people!)
+For the rest of the folks not in the US, it's probably just an ordinary weekend, but time off nonetheless, so why not enjoy it by playing some games? That's what the folks at VG247 plan to do.
+ Read more]]></summary>
+        <author>
+            <name>Stephany Nunneley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta hedges bets on metaverse silicon with Qualcomm VR deal]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/02/meta_metaverse_qualcomm/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/02/meta_metaverse_qualcomm/"/>
+        <updated>2022-09-02T18:45:18.000Z</updated>
+        <summary type="html"><![CDATA[<h4>More silicon sales for us says Qualcomm</h4> <p>Meta’s latest move in the effort to reinvent Second Life, or roll out the metaverse, involves building better VR chips and it's trusting Qualcomm with the job.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tveksam? Nyfiken? Sega ger oss en genomgång av Sonic Frontiers i videoform]]></title>
+        <id>https://www.fz.se/artikel/291331</id>
+        <link href="https://www.fz.se/artikel/291331-tveksam-nyfiken-sega-ger-oss-en-genomgang-av-sonic-frontiers-i-videoform"/>
+        <updated>2022-09-02T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[8 november är det skarpt läge.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intel's Open-Source Driver Lands Vulkan Mesh Shader Support]]></title>
         <id>https://www.phoronix.com/news/Intel-Linux-Vulkan-Mesh-Shader</id>
@@ -39854,36 +39887,6 @@ Read more]]></summary>
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/solar_hydrocarbon_production/"/>
         <updated>2022-08-04T07:27:10.000Z</updated>
         <summary type="html"><![CDATA[<h4>Thanks, we'll take any good news, large or small, right now</h4> <p><strong>Vid</strong>  The aviation industry's attempts to go green are getting a boost from an unlikely place: carbon-neutral jet fuel pulled from thin air.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call of Duty ska få "premiuminnehåll" – DLC istället för nytt spel nästa år?]]></title>
-        <id>https://www.fz.se/artikel/290998</id>
-        <link href="https://www.fz.se/artikel/290998-call-of-duty-ska-fa-premiuminnehall-dlc-istallet-for-nytt-spel-nasta-ar"/>
-        <updated>2022-08-04T06:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Kanske en Modern Warfare 2-expansion?]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[India scraps data protection law in favor of better law coming … sometime]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/04/india_scraps_data_protection_law/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/india_scraps_data_protection_law/"/>
-        <updated>2022-08-04T06:58:12.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Tech giants and digital rights groups didn't like it, but at least it was a law</h4> <p>The government of India has scrapped the Personal Data Protection Bill it's worked on for three years, and announced it will – eventually – unveil a superior bill.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Student crashes Cloudflare beta party, redirects email, bags a bug bounty]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/04/cloudflare_email_beta_bug/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/cloudflare_email_beta_bug/"/>
-        <updated>2022-08-04T06:31:14.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Simple to exploit, enough to pocket $3,000</h4> <p>A Danish ethical hacker was able to work his way uninvited into a closed Cloudflare beta and found a vulnerability that could have been exploited by a cybercriminal to hijack and steal someone else's email.…</p>]]></summary>
         <author>
             <name>The Register</name>
         </author>
