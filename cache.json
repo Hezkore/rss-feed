@@ -1633,6 +1633,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/11-bit-studios-will-no-longer-give-keys-to-steam-curators",
+          "author": "Liv Ngan",
+          "description": "11 bit studios has released a statement saying it will no longer issue Steam keys to curators.\r\n\nThe developer, known for This War of Mine and Frostpunk, will follow this rule starting from today, following on from the recent awareness of key scammers posing as curators.\r\n\nIn its statement, the studio said that the decision was made based on its own experiences and those of other  developers.\n Read more",
+          "link": "https://www.eurogamer.net/11-bit-studios-will-no-longer-give-keys-to-steam-curators",
+          "publishedOn": "2022-09-02T14:46:08.000Z",
+          "wordCount": 4664,
+          "title": "11 bit studios will no longer give keys to Steam curators",
+          "imageUrl": "https://assets.reedpopcdn.com/frostpunks.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/frostpunks.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/cd-projekt-to-reveal-whats-next-for-cyberpunk-2077-next-week",
           "author": "Tom Phillips",
           "description": "Cyberpunk 2077 developer CD Projekt Red will reveal its plans for the future of the game next week, via a fresh livestream. \r\n\n\r\nA \"special episode\" of the developer's Night City Wire video series will broadcast next Tuesday, 6th September at 4pm UK time. \r\n\n\r\nWill this be when we finally get a glimpse of Cyberpunk 2077's long-awaited multiplayer component? Will we see a single-player expansion? Or is this just more hairstyles for V?\r\n \nRead more",
@@ -6970,6 +6980,26 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/cd-projekt-cyberpunk-2077-night-city-wire-september-6",
+          "author": "Stephany Nunneley",
+          "description": "CD Projekt Red will talk about all things Cyberpunk next week on September 6, and specifically about what's next for Cyberpunk 2077.\nThe studio will also discuss its anime series Cyberpunk: Edgerunners which is scheduled to debut on Netflix September 13.\nThe show is a joint project between CD Projekt, Studio Trigger, and Netflix and is set in Cyberpunk 2077’s universe, but features a different story and takes place in a separate period.\n Read more",
+          "link": "https://www.vg247.com/cd-projekt-cyberpunk-2077-night-city-wire-september-6",
+          "publishedOn": "2022-09-02T15:00:33.000Z",
+          "wordCount": 4564,
+          "title": "CD Projekt will discuss what's next for Cyberpunk 2077 on September 6 in a Night City Wire stream",
+          "imageUrl": "https://asset.vg247.com/cyberpunk_2077_johnny_02.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/cyberpunk_2077_johnny_02.jpg"
+        },
+        {
+          "id": "https://www.vg247.com/uk-still-probing-microsofts-activision-blizzard-acquisition",
+          "author": "Stephany Nunneley",
+          "description": "The UK government’s Competition and Markets Authority (CMA) is concerned that Microsoft’s acquisition of Activision Blizzard could “substantially lessen competition” in consoles, multi-game subscription services, and cloud gaming services.\nAccording to a public notice from the CMA, it is concerned that should Microsoft purchase Activision Blizzard, it would harm rivals by refusing access to the company’s games, such as Overwatch or Call of Duty, or providing access on bad terms.\nThe CMA said it received evidence about the “potential impact” of combining Activision Blizzard with Microsoft’s broader ecosystem. It feels the latter could “leverage Activision Blizzard’s games” with its strength across console, cloud, and PC operating systems to “damage competition in the nascent market” for cloud gaming services.\n Read more",
+          "link": "https://www.vg247.com/uk-still-probing-microsofts-activision-blizzard-acquisition",
+          "publishedOn": "2022-09-02T14:33:56.000Z",
+          "wordCount": 4777,
+          "title": "UK still probing Microsoft's acquisition of Activision Blizzard, concerned it will \"lessen competition”",
+          "imageUrl": "https://asset.vg247.com/microsoftgaming118_1920x1080.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/microsoftgaming118_1920x1080.jpg"
+        },
+        {
           "id": "https://www.vg247.com/immortality-review",
           "author": "Kelsey Raynor",
           "description": "I find that there’s quite the divide between video games and cinema, and that isn’t necessarily a problem for either industry, but Sam Barlow’s latest game – Immortality – shows just how powerful intertwining the two can be, when done effectively. \nJean-Luc Godard, a renowned French-Swiss film director and critic, once said “a story should have a beginning, middle, and an end… but not necessarily in that order.” Immortality is perhaps one of the most ideal examples of Godard’s words in practice. As you try to unravel the mystery of Marissa Marcel (Manon Gage), you find yourself using a Moviola, threading together random clips from the three movies that she starred in.\nMarcel’s first film, Ambrosio, borrows its plot from the Gothic novel, The Monk. It’s equal parts sexy and unnerving, and the temptress character that Marcel plays seems to flow into her next film, too. Minsky followed a year later with a new director, John Durick, and saw Marcel play an artist’s muse in a murder-mystery. Finally, 20 years later, Marcel worked on Two of Everything – once again with John Durick, and after a period of inactivity from the actress. In this one, the tone is even darker than before; Marcel plays a successful pop-star with a body double, but everything goes awry.\n Read more",
@@ -9856,6 +9886,16 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Call-Depth-Tracking-Retbleed-v2",
+          "author": null,
+          "description": "Back in July Intel's Peter Zijlstra proposed \"Call Depth Tracking\" as a mitigation approach for handling Retbleed and avoiding the \"performance horror show\" of Indirect Branch Restricted Speculation (IBRS) usage. Out today is the newest version of the Call Depth Tracking code and the performance benchmark results are looking very promising for lessening the pain of the Retbleed CPU mitigation performance impact...",
+          "link": "https://www.phoronix.com/news/Call-Depth-Tracking-Retbleed-v2",
+          "publishedOn": "2022-09-02T15:00:02.000Z",
+          "wordCount": 1752,
+          "title": "Call Depth Tracking Mitigation Updated For Linux In Better Mitigating Retbleed",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Intel-ANV-HASVK-Split-Merged",
           "author": null,
@@ -15590,6 +15630,36 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "jbTFwg7Hx3sFTmDufhDSGM",
+          "author": null,
+          "description": "Having already covered a price drop on the 5800X3D this week, it's a surprise to see its price fall even further. But, thanks to a Labor Day sale, you can now pick up AMD's Ryzen 7 5800X3D on eBay (via seller Antonline) for just $365.",
+          "link": "https://www.tomshardware.com/news/amd-5800x3d-lowest-price-ever-real-deals",
+          "publishedOn": "2022-09-02T14:43:09.000Z",
+          "wordCount": 20021,
+          "title": "Labor Day Discount Brings AMD’s Ryzen 7 5800X3D Down to its Lowest Price Ever, $365: Real Deals",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/i5822kzw3PZxXjxGMqX7MC.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/i5822kzw3PZxXjxGMqX7MC.jpg"
+        },
+        {
+          "id": "kvNSPvKQcdnBeiPnh5qh7n",
+          "author": null,
+          "description": "Igor's Lab ran tests on a GeForce RTX 3080 with a liquid cooler to test various thermal paste application techniques.",
+          "link": "https://www.tomshardware.com/news/sausage-style-gpu-thermal-paste-application-results-in-lowset-temps",
+          "publishedOn": "2022-09-02T14:08:49.000Z",
+          "wordCount": 18107,
+          "title": "Sausage-Style GPU Thermal Paste Application Results in Lowest Temps",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/BLe4KyKWL57WmdW8ErWgAN.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/BLe4KyKWL57WmdW8ErWgAN.jpg"
+        },
         {
           "id": "rSfDmZpwGLr9MG8D7kBsYK",
           "author": null,
@@ -24504,6 +24574,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291324",
+          "author": null,
+          "description": "",
+          "link": "https://www.fz.se/artikel/291324-det-har-spelar-fz-i-helgen-vad-spelar-du",
+          "publishedOn": "2022-09-02T15:00:00.000Z",
+          "wordCount": 1989,
+          "title": "Det här spelar FZ i helgen - vad spelar du?",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291324"
+        },
+        {
           "id": "https://www.fz.se/artikel/291329",
           "author": null,
           "description": "Luktar det expansion?",
@@ -27852,16 +27932,6 @@
           "wordCount": 1812,
           "title": "Far Cry 6 kan spelas gratis i helgen",
           "imageUrl": "https://www.fz.se/artikel/og-image/290997"
-        },
-        {
-          "id": "https://www.fz.se/artikel/290996",
-          "author": null,
-          "description": "Blizzard och Netease ska inte ha kunnat komma överens.",
-          "link": "https://www.fz.se/artikel/290996-utvecklingen-av-ett-mobilt-warcraft-mmo-sags-ha-lagts-ner",
-          "publishedOn": "2022-08-04T02:59:30.000Z",
-          "wordCount": 1752,
-          "title": "Utvecklingen av ett mobilt Warcraft-MMO sägs ha lagts ner",
-          "imageUrl": "https://www.fz.se/artikel/og-image/290996"
         }
       ]
     },
@@ -30068,6 +30138,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/02/taiwan_chip_magnate_pledges_cash/",
+          "author": null,
+          "description": "<h4>UMC founder Robert Tsao wants to train more than 3m 'civilian warriors' and sharpshooters</h4> <p>A Taiwanese semiconductor magnate is to provide the money to prime several million \"civilian warriors\" and marksmen to help defend the island nation in the event of an invasion by China.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/02/taiwan_chip_magnate_pledges_cash/",
+          "publishedOn": "2022-09-02T15:00:08.000Z",
+          "wordCount": 1296,
+          "title": "Taiwan chip magnate pledges cash for defense against China: 'I'm telling everyone to oppose the CCP'",
+          "imageUrl": "https://regmedia.co.uk/2022/02/17/shutterstock_taiwan_in_chinas_shadow.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/02/telegram_court_ip/",
           "author": null,
