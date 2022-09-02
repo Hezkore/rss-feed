@@ -2,10 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-02T02:31:06.690Z</updated>
+    <updated>2022-09-02T04:47:37.528Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft changes the way it certifies network cards for Windows Server]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/02/windows_server_nic_certification/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/02/windows_server_nic_certification/"/>
+        <updated>2022-09-02T04:00:13.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Increased ‘configuration not supported’ heartbreak sparks move</h4> <p>Microsoft’s networking team has made a change to the way certifies network interface cards (NICs) for use in Windows Server.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kunal Mehta: Kiwix in Debian, 2022 update]]></title>
+        <id>tag:blog.legoktm.com,2022-09-02:/2022/09/02/kiwix-in-debian-2022-update.html</id>
+        <link href="https://blog.legoktm.com/2022/09/02/kiwix-in-debian-2022-update.html"/>
+        <updated>2022-09-02T03:06:58.000Z</updated>
+        <summary type="html"><![CDATA[Previous updates: 2018, 2021
+Kiwix is an offline content reader, best known
+for distributing copies of Wikipedia. I have been maintaining it in Debian
+since 2017.
+This year most of the work has been keeping all the packages up to date in anticipation of next year's Debian 12 Bookworm release,
+including several transitions
+for new libzim and libkiwix versions.
+libzim: 6.3.0 → 8.0.0
+zim-tools: 2.1.0 → 3.1.1
+python-libzim: 0.0.3 → 1.1.1 (with a cherry-picked patch)
+libkiwix: 9.4.1 → 11.0.0 (with DFSG issues fixed!)
+kiwix-tools: 3.1.2 → 3.3.0
+kiwix (desktop): 2.0.5 → 2.2.2
+The Debian Package Tracker
+makes it really easy to keep an eye on all Kiwix-related packages.
+All of the "user-facing" packages (zim-tools, kiwix-tools, kiwix) now have
+very basic autopkgtests that can provide a
+bit of confidence that the package isn't totally broken. I recommend reading
+the "FAQ for package maintainers"
+to learn about all the benefits you get from having autopkgtests.
+Finally, back in March I wrote a blog post, How to mirror the Russian Wikipedia with Debian and Kiwix,
+which got significant readership (compared to most posts on this blog), including
+being quoted by LWN!
+We are always looking for more contributors, please reach out if you're
+interested. The Kiwix team is one of my favorite groups of people to work
+with and they love Debian too.]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Assassin's Creed Mirage har officiellt tillkännagivits]]></title>
+        <id>https://www.fz.se/artikel/291320</id>
+        <link href="https://www.fz.se/artikel/291320-assassins-creed-mirage-har-officiellt-tillkannagivits"/>
+        <updated>2022-09-02T02:51:59.000Z</updated>
+        <summary type="html"><![CDATA[Och Ubisoft ska visa upp det på riktigt inom kort.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USB-C to hit 80Gbps under updated USB4 v. 2.0 spec]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/02/usb4_v2_80gpbs/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/02/usb4_v2_80gpbs/"/>
+        <updated>2022-09-02T02:45:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>You’re going to need new cables and learn to recognize revised logos</h4> <p>The USB Promoter Group has announced version 2.0 of the USB4 spec and promises it can carry data at 80Gbps.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Halo Infinites utlovade splitscreen co-op-läge har skrotats]]></title>
+        <id>https://www.fz.se/artikel/291319</id>
+        <link href="https://www.fz.se/artikel/291319-halo-infinites-utlovade-splitscreen-co-op-lage-har-skrotats"/>
+        <updated>2022-09-02T02:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Men co-op online såväl som Forge-läget kommer i november.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[John Goerzen: Dead USB Drives Are Fine: Building a Reliable Sneakernet]]></title>
         <id>https://changelog.complete.org/?p=10421</id>
@@ -39128,314 +39203,6 @@ In hardware, Switch sales declined 22.9% to 3.43 million units partially due to 
         <summary type="html"><![CDATA[Western Digital's latest WD Black SN850X PCIe 4.0 NVMe SSDs are finally available.]]></summary>
         <author>
             <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia wants a better look at what America’s newest spy satellite can do]]></title>
-        <id>https://arstechnica.com/?p=1871193</id>
-        <link href="https://arstechnica.com/?p=1871193"/>
-        <updated>2022-08-03T16:46:59.000Z</updated>
-        <summary type="html"><![CDATA[Spying in space does not violate any international norms.]]></summary>
-        <author>
-            <name>Eric Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mexican farmers and scientists share a mission: Saving a wetland]]></title>
-        <id>https://arstechnica.com/?p=1871208</id>
-        <link href="https://arstechnica.com/?p=1871208"/>
-        <updated>2022-08-03T16:43:46.000Z</updated>
-        <summary type="html"><![CDATA[Farmers, scientists work together to save a key ecosystem—and an endangered salamander.]]></summary>
-        <author>
-            <name>Undark Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jetpack Joyride 2 resurfaces as Apple Arcade exclusive, launching this month]]></title>
-        <id>https://www.eurogamer.net/jetpack-joyride-2-resurfaces-as-apple-arcade-exclusive-launches-later-this-month</id>
-        <link href="https://www.eurogamer.net/jetpack-joyride-2-resurfaces-as-apple-arcade-exclusive-launches-later-this-month"/>
-        <updated>2022-08-03T16:33:34.000Z</updated>
-        <summary type="html"><![CDATA[Jetpack Joyride 2 - the sequel to developer Halfbrick Studios' enormously enjoyable (and hugely successful) 2011 endless side-scrolling mobile shooter - has finally resurfaced and will launch as an Apple Arcade exclusive on 19th August.
-
-
-Halfbrick - also the studio responsible for mobile classic Fruit Ninja - initially announced an iOS and Android sequel to Jetpack Joyride back in February 2021, with an accompanying trailer suggesting some very familiar action, albeit with a slightly slicker new HD art style.
-
-
-That announcement was accompanied by a limited launch in select territories, but Halfbrick suddenly pulled the game from Google Play and the iOS App Store in March this year, saying it had "entered a new closed phase of development for an indefinite period".
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blizzard and NetEase have canceled development on a World of Warcraft mobile game]]></title>
-        <id>https://www.vg247.com/blizzard-and-netease-have-canceled-development-on-a-world-of-warcraft-mobile-game</id>
-        <link href="https://www.vg247.com/blizzard-and-netease-have-canceled-development-on-a-world-of-warcraft-mobile-game"/>
-        <updated>2022-08-03T16:29:18.000Z</updated>
-        <summary type="html"><![CDATA[Blizzard and NetEase had a World of Warcraft mobile game in the works, but the companies have apparently canceled development on the project.
-This is according to a Bloomberg report which states the mobile version of the MMO was in development for three years before being canceled.
-The report states the cancellation resulted in the disbandment of a 100-strong team at NetEase, with only some offered positions elsewhere in the company.
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pokémon Center London's Beefeater Pikachu and Roserade will make you feel like royalty]]></title>
-        <id>https://www.eurogamer.net/pokemon-center-londons-beefeater-pikachu-and-roserade-will-make-you-feel-like-royalty</id>
-        <link href="https://www.eurogamer.net/pokemon-center-londons-beefeater-pikachu-and-roserade-will-make-you-feel-like-royalty"/>
-        <updated>2022-08-03T16:27:36.000Z</updated>
-        <summary type="html"><![CDATA[Today's Pokémon livestream, gave us a look at the exclusive plushies that'll be sold at London's upcoming Pokémon Center.
-The Pokémon Company had already announced the Pokémon Centre pop-up store will be returning to London, but hadn't given away any details on what new Pikachu design will be appearing. Images of the plushies have now been released, via today's Pokémon livestream.
-The previous pop-up store in 2018 had Pikachu suited up and topped off with a bowler hat, and was so popular the store ended up having to limit purchases and opening hours in order to cope with demand. This time, Pikachu has an even more iconic London look.
- Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASRock Intel Arc A380 Challenger ITX 6GB OC Debuts in China]]></title>
-        <id>w3ZcVDZCNcHGofp2ntBJeA</id>
-        <link href="https://www.tomshardware.com/news/asrock-intel-arc-a380-challenger-itx-6gb-oc-debuts-in-china"/>
-        <updated>2022-08-03T16:22:14.000Z</updated>
-        <summary type="html"><![CDATA[The OC isn't as impressive as the previously released Gunnir model, but ASRock's ITX design is smaller, and much lighter.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung and iFixit launch repair program for flagship phones and tablets]]></title>
-        <id>https://arstechnica.com/?p=1871161</id>
-        <link href="https://arstechnica.com/?p=1871161"/>
-        <updated>2022-08-03T16:22:14.000Z</updated>
-        <summary type="html"><![CDATA[iFixit and Samsung both hope to expand the program in the future.]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teenage Mutant Ninja Turtles: Shredder's Revenge gets a nice big stability update]]></title>
-        <id>https://www.gamingonlinux.com/2022/08/teenage-mutant-ninja-turtles-shredders-revenge-gets-a-nice-big-stability-update/</id>
-        <link href="https://www.gamingonlinux.com/2022/08/teenage-mutant-ninja-turtles-shredders-revenge-gets-a-nice-big-stability-update/"/>
-        <updated>2022-08-03T16:19:07.000Z</updated>
-        <summary type="html"><![CDATA[Teenage Mutant Ninja Turtles: Shredder's Revenge is an absolutely fantastic beat 'em up throwback and now perhaps even better, with a big stability update out now!]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grab a Creality Ender 3 V2 for just $199: Real Deals]]></title>
-        <id>mTQZ3CQcLjTaunuPkzHrFg</id>
-        <link href="https://www.tomshardware.com/news/grab-a-creality-ender-3-v2-for-just-dollar199-real-deals"/>
-        <updated>2022-08-03T16:16:53.000Z</updated>
-        <summary type="html"><![CDATA[Grab a Creality Ender 3 V2 for just $199 right now. This is one of our favorite 3D printers and a great way of diving into the 3D printing maker space without laying out a fortune.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World's First Apple M1 Data Recovery, Firm Claims]]></title>
-        <id>4g9xfR8JkRUuoPa9VwTc3R</id>
-        <link href="https://www.tomshardware.com/news/m1-data-recovery-possible"/>
-        <updated>2022-08-03T16:09:55.000Z</updated>
-        <summary type="html"><![CDATA[DriveSavers claims it may be the first in the world to achieve M1 data recovery.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How listening to uninterrupted noise helped millions to focus]]></title>
-        <id>https://arstechnica.com/?p=1871199</id>
-        <link href="https://arstechnica.com/?p=1871199"/>
-        <updated>2022-08-03T16:08:10.000Z</updated>
-        <summary type="html"><![CDATA[False copyright claim briefly took Lofi Girl and her continuous music stream down.]]></summary>
-        <author>
-            <name>Financial Times</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MSI Oculux NXG253R review: Nvidia Reflex is sharp, but 360Hz is still unnecessary]]></title>
-        <id>https://www.rockpapershotgun.com/msi-oculux-nxg253r-review</id>
-        <link href="https://www.rockpapershotgun.com/msi-oculux-nxg253r-review"/>
-        <updated>2022-08-03T16:06:16.000Z</updated>
-        <summary type="html"><![CDATA[Even if you’re not “into” PC gaming hardware, spend enough time in its orbit and you’ll eventually develop a healthy scepticism for a specific type of electro-trickery. The kind that promises, naturally with the right purchases, to help you shoot better or drive cars faster or generally be a more PRO ELITE WINNER in competitive games.
-For me, there have been two such technologies I’ve never really bought into: ultra-high 360Hz monitor refresh rates, and Nvidia Reflex, a kind of setup-wide latency reduction system. Now, having spent some quality time with the MSI Oculux NXG253R – which features both – I’ll cop to being wrong about one of them.
-Read more]]></summary>
-        <author>
-            <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 30th update for Dead Cells is out now as 'Enter the Panchaku']]></title>
-        <id>https://www.gamingonlinux.com/2022/08/the-30th-update-for-dead-cells-is-out-now-as-enter-the-panchaku/</id>
-        <link href="https://www.gamingonlinux.com/2022/08/the-30th-update-for-dead-cells-is-out-now-as-enter-the-panchaku/"/>
-        <updated>2022-08-03T16:05:39.000Z</updated>
-        <summary type="html"><![CDATA[Enter the Panchaku is the latest big update to the rather great game Dead Cells, continuing to expand the game in a number of ways and tweak existing features.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rykte: AMD avtäcker Ryzen 7000 den 30 augusti – tillgänglig i september]]></title>
-        <id>https://www.sweclockers.com/artikel/34697</id>
-        <link href="https://www.sweclockers.com/artikel/34697-rykte-amd-avtacker-ryzen-7000-den-30-augusti-tillganglig-i-september"/>
-        <updated>2022-08-03T16:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Lanseringsfönstret för AMD Ryzen 7000 "Raphael" krymper raskt från årstid, till månad till dag, åtminstone om Wccftechs branschkontakter har koll på läget.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hindsight review - a glorious, elbowy, frustrating examination of memory]]></title>
-        <id>https://www.eurogamer.net/hindsight-review-a-glorious-elbowy-frustrating-examination-of-memory</id>
-        <link href="https://www.eurogamer.net/hindsight-review-a-glorious-elbowy-frustrating-examination-of-memory"/>
-        <updated>2022-08-03T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It is impossible to get your head around memory. It's intangible, yet all-powerful. It can be like living with a ghost, but the ghost is Arnold Schwarzenegger. 
-If I was making a game about my own memories, my own experience of interacting with memory, I am confident that it would be the worst game ever made. An open-world affair, but an endlessly glitchy one. Landmarks disappear and shift. The same journey can take hours one day and seconds the next, and when you reach the destination it's entirely different anyway. And wherever you go, you're always at the centre of the map. I do not want to play this game.
-But what about a game exploring someone else's memories? What form would that take? What problems might it run into? Hindsight is an attempt to answer the first question, I think, and it also provides plenty of answers to the second.
- Read more]]></summary>
-        <author>
-            <name>Christian Donlan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mobile games see revenue declines across most genres]]></title>
-        <id>https://www.eurogamer.net/mobile-games-see-revenue-declines-across-most-genres</id>
-        <link href="https://www.eurogamer.net/mobile-games-see-revenue-declines-across-most-genres"/>
-        <updated>2022-08-03T15:56:17.000Z</updated>
-        <summary type="html"><![CDATA[New data reveals that most mobile gaming genres have seen a decline in revenue during the first half of this year. 
-The data from reliable app store analysis firm SensorTower stated the mobile gaming market fell by 9.6 percent year-over-year to $11.4bn in the US.
-The only two categories that did not see a decline in the mobile gaming market were tabletop and arcade games.
- Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logitech G and Tencent are bringing a cloud gaming handheld to market later this year]]></title>
-        <id>https://www.vg247.com/logitech-g-tencent-cloud-gaming-handheld</id>
-        <link href="https://www.vg247.com/logitech-g-tencent-cloud-gaming-handheld"/>
-        <updated>2022-08-03T15:54:28.000Z</updated>
-        <summary type="html"><![CDATA[Logitech G and Tencent Games have announced a partnership to bring a cloud gaming handheld to market.
-The new device will support multiple cloud gaming services, and both companies are working with the Xbox Cloud Gaming and Nvidia GeForce Now teams which will allow you to play youe games when away from your conosle or PC.
-"Logitech G’s leadership in PC and console gaming gear make them an ideal partner to help us realize the vision of bringing a better gaming experience to gamers around the globe," said Daniel Wu, general manager of Tencent Games Smart Solution Innovation Lab.
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Activision Blizzard reportedly cancels unannounced World of Warcraft MMO for mobile]]></title>
-        <id>https://www.eurogamer.net/blizzard-reportedly-cancels-unannounced-world-of-warcraft-mmo-for-mobile</id>
-        <link href="https://www.eurogamer.net/blizzard-reportedly-cancels-unannounced-world-of-warcraft-mmo-for-mobile"/>
-        <updated>2022-08-03T15:48:14.000Z</updated>
-        <summary type="html"><![CDATA[Activision Blizzard and Chinese publisher NetEase have reportedly cancelled an unannounced World of Warcraft MMO following a disagreement between the two parties.
-
-
-As reported by Bloomberg, the unannounced project - internally known as Neptune and in development for three years - wasn't a direct adaptation of the existing WoW MMO, but rather an MMORPG spin-off set in the same universe but during a different time period.
-
-
-However, despite the project's already lengthy development period, NetEase is now said to have disbanded its creative team - consisting of more than 100 developers - after a disagreement with Activision Blizzard "over financial terms" resulted in both parties pulling the plug.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kioxia Unveils 2nd Gen XL-Flash Storage Class Memory for Ultra-High-End SSDs]]></title>
-        <id>rV2hW9wfQDGHbqr2Sfne2U</id>
-        <link href="https://www.tomshardware.com/news/kioxia-launches-2nd-gen-xl-flash"/>
-        <updated>2022-08-03T15:38:01.000Z</updated>
-        <summary type="html"><![CDATA[Kioxia releases 256Gb XL-Flash storage class memory for advanced solid-state storage solutions.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Manchin rebuffs industry criticism of new EV tax credit]]></title>
-        <id>https://arstechnica.com/?p=1871168</id>
-        <link href="https://arstechnica.com/?p=1871168"/>
-        <updated>2022-08-03T15:37:25.000Z</updated>
-        <summary type="html"><![CDATA[Price caps, income caps, and no Chinese batteries are the stumbling blocks.]]></summary>
-        <author>
-            <name>Jonathan M. Gitlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The OnePlus 10T returns to a winning formula of high specs, low ($649!) price]]></title>
-        <id>https://arstechnica.com/?p=1870819</id>
-        <link href="https://arstechnica.com/?p=1870819"/>
-        <updated>2022-08-03T15:30:24.000Z</updated>
-        <summary type="html"><![CDATA[OnePlus cuts the price way down, but we miss the water resistance of the 10 Pro.]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pokemon Scarlet and Violet stream details Terastel forms, ridable Legendaries, and Tera Raids]]></title>
-        <id>https://www.vg247.com/pokemon-scarlet-and-violet-terastel-forms-ridable-legendaries</id>
-        <link href="https://www.vg247.com/pokemon-scarlet-and-violet-terastel-forms-ridable-legendaries"/>
-        <updated>2022-08-03T15:28:35.000Z</updated>
-        <summary type="html"><![CDATA[A Pokemon Presents was held today by Nintendo and The Pokemon Company International, and it revealed more details about Pokemon Scarlet and Pokemon Violet.
-During the stream, a glimpse of the Paldea region was given, we were introduced to five new characters, three Pokemon (Fidough, Paldean Wooper, and Cetitan) were revealed, the Terastel Phenomenon was announced, and information on Tera Raid Battles was provided.
-Set in the Paldea region, a land filled with open spaces, lakes, mountains, and even wastelands, the game features plenty of people and Pokemon living together in various locations. The land is filled with Pokemon living in treetops, rivers, and wilderness locations.
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X670E Version of Asus Apex Motherboard PCB Diagram Leaked]]></title>
-        <id>QqdUrgurqonZnJyezWU6L8</id>
-        <link href="https://www.tomshardware.com/news/pcb-diagram-asus-rog-apex-amd-board"/>
-        <updated>2022-08-03T15:20:17.000Z</updated>
-        <summary type="html"><![CDATA[A new mysterious motherboard diagram that looks like an AMD AM5 variant of Asus' ROG overclocking motherboards has been shared online.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THQ Nordic publishing AEW: Fight Forever; wrestling games now almost a circle]]></title>
-        <id>https://www.rockpapershotgun.com/thq-nordic-publishing-aew-fight-forever-wrestling-games-now-almost-a-circle</id>
-        <link href="https://www.rockpapershotgun.com/thq-nordic-publishing-aew-fight-forever-wrestling-games-now-almost-a-circle"/>
-        <updated>2022-08-03T15:02:53.000Z</updated>
-        <summary type="html"><![CDATA[All Elite Wrestling announced like, I dunno, three games at once a couple of years ago. They all sounded terrible and we haven't posted about them (also because a bunch of them aren't on PC). AEW: Fight Forever, still officially Coming Soon, is their first crack at a sweaty graps sim to rival WWE's series, and today it was confirmed the publisher is THQ Nordic. This not only means that we'll see more gameplay at next week's THQ Nordic showcase, per a tiny teaser, but it adds another horse to the confusing carousel of companies that have worked on wrestling sims.
-Read more]]></summary>
-        <author>
-            <name>Alice Bell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More Stray mods for you to paw over]]></title>
-        <id>https://www.eurogamer.net/more-stray-mods-for-you-to-paw-over</id>
-        <link href="https://www.eurogamer.net/more-stray-mods-for-you-to-paw-over"/>
-        <updated>2022-08-03T14:59:02.000Z</updated>
-        <summary type="html"><![CDATA[If I was a cat, I think I would've lost one of my nyan lives already with my pun game in my first mod round-up. But alas, the Stray modding community continues to give, and I am therefore compelled to continue cataloguing their work (see, that one wasn't even noticeable! That wasn't painful now, was it?).
-
-
-First up, there's another mod for the dog lovers among us, thanks to MrMarco1003, this time with Bolt from the titular Disney movie. The mod also changes Stray's meows into barks, and you'll get to see Bolt chilling out with his identically-shaped fur-iends at the beginning of the game. 
-
-
-With the dog lovers placated, let's move onto the modifications for us cat lovers.
- 
-Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sonic Triple Trouble gets fan-made 16-bit makeover]]></title>
-        <id>https://www.eurogamer.net/sonic-triple-trouble-gets-fan-made-16-bit-makeover</id>
-        <link href="https://www.eurogamer.net/sonic-triple-trouble-gets-fan-made-16-bit-makeover"/>
-        <updated>2022-08-03T14:37:33.000Z</updated>
-        <summary type="html"><![CDATA[A dedicated Sonic fan has taken the Sega Game Gear's Triple Trouble release and given it a 16-bit reimagining.
-"What if Sonic Triple Trouble had been originally released on the Sega Genesis / MegaDrive, after Sonic 3 and Knuckles," asked fan game developer Noah Copeland. Well, Copeland not only asked this question, but they also answered it.
-After releasing a demo for their creation several years ago, yesterday saw Copeland's passion project fully realised (thanks, The Deleter). 
- Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
         </author>
     </entry>
 </feed>
