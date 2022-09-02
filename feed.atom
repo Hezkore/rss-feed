@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-02T07:27:49.754Z</updated>
+    <updated>2022-09-02T08:29:31.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[G2 Esports announces new all-female League of Legends team]]></title>
+        <id>https://www.eurogamer.net/g2-esports-announces-new-all-female-league-of-legends-team</id>
+        <link href="https://www.eurogamer.net/g2-esports-announces-new-all-female-league-of-legends-team"/>
+        <updated>2022-09-02T08:12:07.000Z</updated>
+        <summary type="html"><![CDATA[G2 Esports has announced a brand new all-female League of Legends team, one of the first of its kind.
+
+
+The team, called Hel, is named after Norse mythology's goddess of death and includes the elite players Olivia "Olizia" Nnenna Calistus, Agnė "Karina" Ivaškevičiūtė, Alena "TIFA" Maurer, Maya "Caltys" Henckel and Ève "Colomblbl" Monvoisin.
+
+
+It follows the similarly all-female Valorant team G2 Gozen formed last year and proves G2's commitment to boosting the visibility of women in esports and to eventually empower men and women to compete together in future.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Ed Nightingale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Destroy All Humans 2: Reprobed]]></title>
+        <id>https://www.fz.se/artikel/291318</id>
+        <link href="https://www.fz.se/artikel/291318-destroy-all-humans-2-reprobed"/>
+        <updated>2022-09-02T08:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Prisa den allsmäktige Arkvoodle! Crypto är tillbaka, men vill vi verkligen ha mer av hans massmordsfilosofi och sexistiska humor?]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARM stämmer Qualcomm för licensbrott]]></title>
+        <id>https://www.sweclockers.com/artikel/34851</id>
+        <link href="https://www.sweclockers.com/artikel/34851-arm-stammer-qualcomm-for-licensbrott"/>
+        <updated>2022-09-02T07:54:03.000Z</updated>
+        <summary type="html"><![CDATA[Qualcomms satsningar på PC- och serversegmentet stöter på patrull, då ARM menar att licenser tilldelade förvärvet Nuvia inte är giltiga längre.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux user share on Steam continues the slow climb, SteamOS hits top]]></title>
+        <id>https://www.gamingonlinux.com/2022/09/linux-user-share-on-steam-continues-the-slow-climb-steamos-hits-top/</id>
+        <link href="https://www.gamingonlinux.com/2022/09/linux-user-share-on-steam-continues-the-slow-climb-steamos-hits-top/"/>
+        <updated>2022-09-02T07:39:20.000Z</updated>
+        <summary type="html"><![CDATA[Another month has finished and the Steam Hardware & Software Survey has been refreshed. It shows once again that the Linux user share has risen.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terminal downgrade saves the day after a client/server heist]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/02/on_call/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/02/on_call/"/>
+        <updated>2022-09-02T07:28:12.000Z</updated>
+        <summary type="html"><![CDATA[<h4>When the PCs were pilfered by ram raiding rotters, green screens proved their worth</h4> <p><strong>On Call</strong>  Welcome again to On-Call, <i>The Register</i>’s trawl through readers’ reminiscences of tech trials and tribulations.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[E-sport blir en del av årets Finnkamp]]></title>
         <id>https://www.fz.se/artikel/291321</id>
@@ -38912,36 +38971,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Delay will give Apple more time to catch up with iOS 16 for September.]]></summary>
         <author>
             <name>Samuel Axon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Serpent Canyon NUC Surfaces With Arc A770M, A730M GPUs]]></title>
-        <id>H8CxSBY7BFkZt5NKC4ENCn</id>
-        <link href="https://www.tomshardware.com/news/intel-serpent-canyon-nuc-12-arc-alder-lake"/>
-        <updated>2022-08-03T20:21:05.000Z</updated>
-        <summary type="html"><![CDATA[Intel's Serpent Canyon NUC 12 systems pair 12th Gen Alder Lake CPUs with Arc A-Series mobile GPUs.]]></summary>
-        <author>
-            <name>brandon.hill@futurenet.com (Brandon Hill)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD's 64-Core Zen 3 Threadripper CPU Sets Cinebench R23 World Record at 5.2 GHz]]></title>
-        <id>4rRgv5qL5mYMS7cFxbjDvF</id>
-        <link href="https://www.tomshardware.com/news/amds-64-core-zen-3-threadripper-cpu-sets-cinebench-r23-world-record-at-52-ghz"/>
-        <updated>2022-08-03T19:37:48.000Z</updated>
-        <summary type="html"><![CDATA[A Ryzen Threadripper Pro 5995WX 64-core chip has officially broken the Cinebench R23 world record holder with a multi-threaded score of over 11,600 points.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPU Benchmarks and Hierarchy 2022: Graphics Cards Ranked]]></title>
-        <id>L8SfcAV5o28ayEFjzq6cfX</id>
-        <link href="https://www.tomshardware.com/reviews/gpu-hierarchy,4388.html"/>
-        <updated>2022-08-03T19:28:41.000Z</updated>
-        <summary type="html"><![CDATA[Our GPU benchmarks hierarchy ranks all the current and previous generation graphics cards based on real-world gaming tests. Find out how the latest GPUs stack up.]]></summary>
-        <author>
-            <name>Tomshardware</name>
         </author>
     </entry>
 </feed>
