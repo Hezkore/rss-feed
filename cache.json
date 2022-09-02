@@ -1573,6 +1573,26 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/what-weve-been-playing-74",
+          "author": "Eurogamer staff",
+          "description": "Hello! Welcome back to our regular feature where we write a little bit about some of the games we've found ourselves playing over the last few days. This time: juice, B-Type, and a bit of spelunking.\nIf you fancy catching up on some of the older editions of What We've Been Playing, \r\nhere's our archive.\nPoinpy is one of the first Netflix games, a surprisingly great selection of smartphone treats that are worryingly easy to miss or forget about, given the streaming giant's slightly odd rollout.\n Read more",
+          "link": "https://www.eurogamer.net/what-weve-been-playing-74",
+          "publishedOn": "2022-09-02T09:00:00.000Z",
+          "wordCount": 5121,
+          "title": "What we've been playing",
+          "imageUrl": "https://assets.reedpopcdn.com/spelunky.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/spelunky.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/creative-assemblys-hyenas-makes-more-sense-now-weve-seen-it-in-action",
+          "author": "Chris Tapsell",
+          "description": "We'd been waiting a little while to learn something concrete about Creative Assembly's long-rumoured first-person shooter, but when Hyenas was finally revealed, the response was maybe a little muted. Hyenas was a surprise: Creative Assembly had been an entirely strategy-based studio for decades until it released Alien Isolation, a small, considered first-person game. A multiplayer, co-op, character-based shooter with a loud and brash tone doesn't seem like the most natural follow-up.\nBut then, Alien Isolation wasn't exactly a natural follow-up to Total War, and speaking to Eurogamer at Gamescom, product director Alex Hunnisett explained that, actually, these games are rarely interlinked - despite some staff from within the studio moving across to work on it.\n\"Really, when we were looking at Hyenas, it was a case of going, well, what are folks enjoying playing at the moment, for starters, and the great thing about working in a studio is often you're enjoying doing something, you've got enough capable people around you just go, 'let's just do that then.'\" Aside from the fact that both games are set in space, he said, that's really where the similarities or shared inspirations end. Hyenas, like Alien Isolation before it, is very much its own thing.\n Read more",
+          "link": "https://www.eurogamer.net/creative-assemblys-hyenas-makes-more-sense-now-weve-seen-it-in-action",
+          "publishedOn": "2022-09-02T08:45:38.000Z",
+          "wordCount": 5715,
+          "title": "Creative Assembly's Hyenas makes more sense now we've seen it in action",
+          "imageUrl": "https://assets.reedpopcdn.com/hyenas_Gamescom-1.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/hyenas_Gamescom-1.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/g2-esports-announces-new-all-female-league-of-legends-team",
           "author": "Ed Nightingale",
           "description": "G2 Esports has announced a brand new all-female League of Legends team, one of the first of its kind.\r\n\n\r\nThe team, called Hel, is named after Norse mythology's goddess of death and includes the elite players Olivia \"Olizia\" Nnenna Calistus, Agnė \"Karina\" Ivaškevičiūtė, Alena \"TIFA\" Maurer, Maya \"Caltys\" Henckel and Ève \"Colomblbl\" Monvoisin.\r\n\n\r\nIt follows the similarly all-female Valorant team G2 Gozen formed last year and proves G2's commitment to boosting the visibility of women in esports and to eventually empower men and women to compete together in future.\r\n\r\n \nRead more",
@@ -6790,6 +6810,16 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/sons-of-the-forest-delayed-again-to-february-2023-misses-halloween",
+          "author": "Connor Makar",
+          "description": "Sons of the Forest, the survival horror title initially planned for a close-to-Halloween release, has been delayed one last time to February 2023.\nAccording to a tweet from the official Twitter account for the game, this delay is so the team can “complete the polish we feel is needed”. Bittersweet news for those who have been crossing their fingers for this title as a late-in-the-year treat.\nHowever, as Sons of the Forest is the sequel to the hugely popular PC horror title The Forest, the importance of nailing a first impression makes sense. The prior game quickly became one of the most popular spooky experiences on the platform, meaning there’s a lot of hype out there for what Endnight Games has in store.\n Read more",
+          "link": "https://www.vg247.com/sons-of-the-forest-delayed-again-to-february-2023-misses-halloween",
+          "publishedOn": "2022-09-02T09:06:12.000Z",
+          "wordCount": 4624,
+          "title": "Sons of the Forest delayed again to February 2023 — misses Halloween",
+          "imageUrl": "https://asset.vg247.com/sons_of_the_forest_1.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sons_of_the_forest_1.jpg"
+        },
+        {
           "id": "https://www.vg247.com/sonic-frontiers-gameplay-overview-trailer",
           "author": "Stephany Nunneley",
           "description": "SEGA has released a new video for Sonic Frontiers that provides an overview of the game.\nThe video shows all sorts of gameplay, and the narration provides plenty of details regarding Sonic's latest adventure.\nIn Sonic Frontiers, our blue hero is searching for the Chaos emeralds. While on this adventure, he becomes stranded on an ancient island teeming with unusual creatures.\n Read more",
@@ -9587,6 +9617,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Mesa-Arc-Graphics-Models",
+          "author": null,
+          "description": "When currently using Intel's open-source OpenGL and Vulkan drivers on Linux with their new Arc Graphics discrete GPUs, it's simply been reported as \"Intel{R} Graphics\" for the product/renderer string. With the latest Mesa 22.3-devel work and for back-porting to the current stable series, the graphics card models are beginning to be properly reported...",
+          "link": "https://www.phoronix.com/news/Mesa-Arc-Graphics-Models",
+          "publishedOn": "2022-09-02T09:06:24.000Z",
+          "wordCount": 1399,
+          "title": "Intel's OpenGL/Vulkan Mesa Drivers Begin Properly Identifying Arc Graphics Hardware",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Steam-Survey-August-2022",
           "author": null,
           "description": "Valve just published the Steam Survey results for August 2022 that show a slight increase to Linux gaming as part of the overall marketshare on a percentage basis...",
@@ -11923,6 +11963,16 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/kitsune-the-journey-of-adashino-is-a-japanese-fantasy-world-of-yokai-and-mystery",
+          "author": "Alicia Haddick",
+          "description": "As indie developers from Japan and around the world descended upon the former Japanese capital of Kyoto for Bitsummit 2022, some developers present at the event were showcasing their games a little closer to home. Having already been hyped up amongst Japanese games outlets for its unique visuals and inspirations from Japanese yokai and folk tales, Kitsune: The Journey Of Adashino was a rather hot ticket at the event, and with an English localisation and a release in 2023 or 2024 planned, it stands with the opportunity to shine a light on the Japanese indie gaming scene.\r\n\n\r\nWhile it may perhaps be reductive to make a Studio Ghibli comparison to the game’s opening moments, the familiarity many have with those films compared to Japanese folklore makes the equivalence an easy one. My time with the demo was from a moment early in the game, when you’ve already set foot into this new world but don't have much knowledge about the yokai-infested supernatural surprises that await you.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/kitsune-the-journey-of-adashino-is-a-japanese-fantasy-world-of-yokai-and-mystery",
+          "publishedOn": "2022-09-02T09:19:35.000Z",
+          "wordCount": 5116,
+          "title": "Kitsune: The Journey Of Adashino is a Japanese fantasy world of yokai and mystery",
+          "imageUrl": "https://assets2.rockpapershotgun.com/kitsune-the-journey-of-adashino-preview-2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/kitsune-the-journey-of-adashino-preview-2.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/a-boat-load-of-blue-microphones-are-discounted-in-the-uk",
           "author": "Will Judd",
@@ -24090,36 +24140,6 @@
           "wordCount": 1686,
           "title": "With solar arrays now operational, Lucy’s got some shimmering to do",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/Lucy’s-Solar-Powered-Journey-Continues-0-42-screenshot-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1871355",
-          "author": "Kevin Purdy",
-          "description": "Leap seconds cause network turmoil. Meta wants to end them before the next one.",
-          "link": "https://arstechnica.com/?p=1871355",
-          "publishedOn": "2022-08-03T21:00:59.000Z",
-          "wordCount": 1548,
-          "title": "Record-short days could speed up debate on leap seconds",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/07/atomic-clock1-640x215.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1871384",
-          "author": "Jon Brodkin",
-          "description": "AGs send demands to carriers allegedly responsible for most foreign robocalls.",
-          "link": "https://arstechnica.com/?p=1871384",
-          "publishedOn": "2022-08-03T20:45:33.000Z",
-          "wordCount": 1457,
-          "title": "50 state AGs vow action against carriers that bring foreign robocalls to US",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-unknown-caller-id-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1871362",
-          "author": "Samuel Axon",
-          "description": "Delay will give Apple more time to catch up with iOS 16 for September.",
-          "link": "https://arstechnica.com/?p=1871362",
-          "publishedOn": "2022-08-03T20:33:04.000Z",
-          "wordCount": 1505,
-          "title": "Facing quality and pacing issues, Apple reportedly delays iPadOS 16",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/10/iPadOS-15-cover-760x380.png"
         }
       ]
     },
@@ -24128,6 +24148,26 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291323",
+          "author": null,
+          "description": "Phil Crifo visar vad spelet går ut på.",
+          "link": "https://www.fz.se/artikel/291323-fa-en-gameplay-genomgang-av-den-tropiska-varlden-i-tchia",
+          "publishedOn": "2022-09-02T08:58:00.000Z",
+          "wordCount": 1954,
+          "title": "Få en gameplay-genomgång av den tropiska världen i Tchia",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291323"
+        },
+        {
+          "id": "https://www.fz.se/artikel/291322",
+          "author": null,
+          "description": "Och några andra ikoniska platser i slotet med omnejd.",
+          "link": "https://www.fz.se/artikel/291322-hogwarts-legacy-videor-ger-oss-en-titt-pa-elevhemmens-boningar",
+          "publishedOn": "2022-09-02T08:41:00.000Z",
+          "wordCount": 2224,
+          "title": "Hogwarts Legacy-videor ger oss en titt på elevhemmens boningar",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291322"
+        },
         {
           "id": "https://www.fz.se/artikel/291318",
           "author": null,
@@ -27436,6 +27476,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34858",
+          "author": null,
+          "description": "Netflix indikerar att företaget ska försöka möta Disney+ genom att göra sitt reklamfinansierade abonnemang tillgängligt tidigare än väntat.",
+          "link": "https://www.sweclockers.com/artikel/34858-netflix-reklamabonnemang-vantas-lanseras-i-november",
+          "publishedOn": "2022-09-02T09:09:00.000Z",
+          "wordCount": 1644,
+          "title": "Netflix reklamabonnemang väntas lanseras i november",
+          "imageUrl": "https://www.sweclockers.com/artikel/34858/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34851",
           "author": null,
           "description": "Qualcomms satsningar på PC- och serversegmentet stöter på patrull, då ARM menar att licenser tilldelade förvärvet Nuvia inte är giltiga längre.",
@@ -29603,6 +29653,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/02/microsoft_activision_blizzard_cma/",
+          "author": null,
+          "description": "<h4>Brit watchdog says what we're all thinking, motions for deeper investigation</h4> <p>Following the launch of a merger inquiry into Microsoft's acquisition of video game developer and publisher Activision Blizzard in July, the UK's Competition and Markets Authority (CMA) said yesterday it had identified potential concerns about the tie-up.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/02/microsoft_activision_blizzard_cma/",
+          "publishedOn": "2022-09-02T08:28:05.000Z",
+          "wordCount": 1757,
+          "title": "Microsoft, Activision Blizzard have days to show merger won't harm competition",
+          "imageUrl": "https://regmedia.co.uk/2022/02/09/shutterstock_microsoft_activision.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/02/on_call/",
           "author": null,
