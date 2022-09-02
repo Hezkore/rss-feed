@@ -2,10 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-02T17:25:57.932Z</updated>
+    <updated>2022-09-02T18:29:33.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel's Open-Source Driver Lands Vulkan Mesh Shader Support]]></title>
+        <id>https://www.phoronix.com/news/Intel-Linux-Vulkan-Mesh-Shader</id>
+        <link href="https://www.phoronix.com/news/Intel-Linux-Vulkan-Mesh-Shader"/>
+        <updated>2022-09-02T18:24:17.000Z</updated>
+        <summary type="html"><![CDATA[Intel's open-source "ANV" Vulkan driver for Linux systems has added support for the newly-ratified Vulkan mesh shader extension...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Splitgate "ending feature development" so dev can focus on new game in same universe]]></title>
+        <id>https://www.eurogamer.net/splitgate-is-ending-feature-development-so-dev-can-focus-on-new-game-in-same-universe</id>
+        <link href="https://www.eurogamer.net/splitgate-is-ending-feature-development-so-dev-can-focus-on-new-game-in-same-universe"/>
+        <updated>2022-09-02T18:23:51.000Z</updated>
+        <summary type="html"><![CDATA[Developer 1047 Games has announced it will be "ending feature development" on its acclaimed free-to-play sci-fi shooter Splitgate in order to shift its focus to creating a new game in the same universe.
+
+
+Splitgate - which has been described as "Halo meets Portal" in some quarters - made quite the splash last year. Despite having been around on PC since May 2019, an open crossplay beta for Xbox, PlayStation, and PC proved so popular that 1047 Games elected to delay the game's multi-platform early access launch in order to better accommodate its unexpected surge in popularity.
+
+
+1047 Games has continued to build on that success in the months since, most recently launching Splitgate's beta season two in July. However, the developer has now said it will be "ending feature development" on the game as a result of what it seemingly considers to be insurmountable legacy issues.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xbox Partners With IHOP for Gaming  Rewards and Xbox Menu Items]]></title>
+        <id>9j5KZwP3ac8yajoEHeGamV</id>
+        <link href="https://www.tomshardware.com/news/xbox-ihop-gaming-microsoft"/>
+        <updated>2022-09-02T18:00:49.000Z</updated>
+        <summary type="html"><![CDATA[The best gaming rewards are the 1-month Xbox Game Pass Ultimate trial, the Forza Horizon 5 Premium Add-Ons Bundle, and full game download codes for Grounded.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft extends Teams into VMware and Citrix VDI]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/02/microsoft_teams_vmware_vdi/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/02/microsoft_teams_vmware_vdi/"/>
+        <updated>2022-09-02T18:00:12.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Users will now be able to blur or replace their backgrounds during video meetings or calls</h4> <p>Microsoft is making it easier for Teams to work with virtual desktop infrastructure (VDI) in a bid to grow the number of monthly active users on the collaboration platform.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://shencomix.tumblr.com/post/694305423211249664</id>
+        <link href="https://shencomix.tumblr.com/post/694305423211249664"/>
+        <updated>2022-09-02T17:54:09.000Z</updated>
+        <author>
+            <name>Shen Comix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPU Benchmarks and Hierarchy 2022: Graphics Cards Ranked]]></title>
+        <id>L8SfcAV5o28ayEFjzq6cfX</id>
+        <link href="https://www.tomshardware.com/reviews/gpu-hierarchy,4388.html"/>
+        <updated>2022-09-02T17:37:27.000Z</updated>
+        <summary type="html"><![CDATA[Our GPU benchmarks hierarchy ranks all the current and previous generation graphics cards based on real-world gaming tests. Find out how the latest GPUs stack up.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Revealed: US telcos admit to storing, handing over location data]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/02/us_carriers_fcc_data_report/</id>
@@ -108,6 +175,16 @@ To call Northern Journey "retro" would completely misrepresent it. It's beautifu
 Read more]]></summary>
         <author>
             <name>Sin Vega</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Internet pranksters send hundreds of cabs to Moscow street, cause gridlock]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/02/russia_taxi_jam_prank/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/02/russia_taxi_jam_prank/"/>
+        <updated>2022-09-02T15:45:09.000Z</updated>
+        <summary type="html"><![CDATA[<h4>'Improved algorithm' set to keep miscreants at bay, web-based taxi service promises</h4> <p>The taxi offshoot of troubled Russian tech giant Yandex has been hit by online pranksters, who yesterday ordered dozens of cabs to a single address in central Moscow, resulting in a major traffic jam.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
         </author>
     </entry>
     <entry>
@@ -39807,16 +39884,6 @@ Read more]]></summary>
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/cloudflare_email_beta_bug/"/>
         <updated>2022-08-04T06:31:14.000Z</updated>
         <summary type="html"><![CDATA[<h4>Simple to exploit, enough to pocket $3,000</h4> <p>A Danish ethical hacker was able to work his way uninvited into a closed Cloudflare beta and found a vulnerability that could have been exploited by a cybercriminal to hijack and steal someone else's email.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK Parliament bins its TikTok account over China surveillance fears]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/04/uk_parliament_tiktok_account_discontinued/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/04/uk_parliament_tiktok_account_discontinued/"/>
-        <updated>2022-08-04T05:58:13.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Plan to educate the children turned out to be a 'won't someone think of the children?' moment</h4> <p>The UK's Parliament has ended its presence on TikTok after MPs pointed out the made-in-China social media service probably sends data about its users back to Beijing.…</p>]]></summary>
         <author>
             <name>The Register</name>
         </author>
