@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-03T17:23:02.791Z</updated>
+    <updated>2022-09-03T18:27:41.096Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Crucial P3 SSD Review: Solid Secondary SSD]]></title>
+        <id>WRW9MD5X7dtih8ZzuDSvhD</id>
+        <link href="https://www.tomshardware.com/reviews/crucial-p3-ssd-review"/>
+        <updated>2022-09-03T17:35:11.000Z</updated>
+        <summary type="html"><![CDATA[The Crucial P3 SSD is an efficient budget drive with capacity to spare.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Here's your chance to wear one of Randy Pitchford's shirts]]></title>
         <id>https://www.eurogamer.net/heres-your-chance-to-wear-one-of-randy-pitchfords-shirts</id>
@@ -38669,16 +38679,6 @@ I have now been part of the Eurogamer team for six wonderful months (woo). Howev
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/05/ground_comms_established_with_south/"/>
         <updated>2022-08-05T06:31:10.000Z</updated>
         <summary type="html"><![CDATA[<h4>Moon probe will play BTS to test space internet. Also for fun</h4> <p>South Korea's first lunar orbiter, which is about to test disruption-tolerant, network-based space communications, successfully made contact with its Australian ground station after launching on Thursday.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Citrix adds Hypervisor Cloud to bring more and faster updates]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/05/citrix_hypervisor_cloud/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/05/citrix_hypervisor_cloud/"/>
-        <updated>2022-08-05T05:45:08.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Years after the company quit server virtualization, but may be handy for hybrid work</h4> <p>Citrix has added a development stream to its hypervisor that promises fast and frequent enhancements, plus a cloud service to deliver them to users.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
         <author>
             <name>The Register</name>
         </author>
