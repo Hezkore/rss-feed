@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-03T19:19:37.195Z</updated>
+    <updated>2022-09-03T20:23:40.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up a Headless Raspberry Pi, Without Ever Attaching a Monitor]]></title>
+        <id>oMaEfff5m9Cmx5VGqe5orf</id>
+        <link href="https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html"/>
+        <updated>2022-09-03T19:26:46.000Z</updated>
+        <summary type="html"><![CDATA[By tweaking a few settings in Raspberry Pi imager, you can control your Pi over the network and will never need a screen.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crucial P3 SSD Review: Solid Secondary SSD]]></title>
         <id>WRW9MD5X7dtih8ZzuDSvhD</id>
@@ -38621,36 +38631,6 @@ I have now been part of the Eurogamer team for six wonderful months (woo). Howev
         <summary type="html"><![CDATA[<h4>I have bigger problems than where you put our code</h4> <p><strong>On Call</strong>  Be careful where you install stuff, and who is doing the installing. Welcome to an <a target="_blank" href="https://www.theregister.com/Tag/on-call">On Call</a> in which normal service is interrupted by a military intervention.…</p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox har börjat testa en familjeprenumeration för Game Pass]]></title>
-        <id>https://www.fz.se/artikel/291013</id>
-        <link href="https://www.fz.se/artikel/291013-xbox-har-borjat-testa-en-familjeprenumeration-for-game-pass"/>
-        <updated>2022-08-05T07:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Men än så länge bara i Colombia och på Irland.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Claims of AI sentience branded 'pure clickbait']]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/05/ai-sentience-rubbish/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/05/ai-sentience-rubbish/"/>
-        <updated>2022-08-05T07:27:09.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Stanford academics peeved over LaMDA chatbot brouhaha</h4> <p>AI chatbots are not sentient – they have just got better at tricking humans into thinking they might be, experts at Stanford University conclude.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hårdvara möter guldfisk i glasklart kombinationschassi]]></title>
-        <id>https://www.sweclockers.com/artikel/34706</id>
-        <link href="https://www.sweclockers.com/artikel/34706-hardvara-moter-guldfisk-i-glasklart-kombinationschassi"/>
-        <updated>2022-08-05T07:23:14.000Z</updated>
-        <summary type="html"><![CDATA[Tillverkaren Metalfish gör varje dag till en spännande upplevelse, genom att kombinera akvarium och datorchassi. En produkt ingen visste behövdes.]]></summary>
-        <author>
-            <name>SweClockers</name>
         </author>
     </entry>
 </feed>
