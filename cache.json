@@ -1603,6 +1603,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/the-simmering-wickedness-of-pentiments-dialogue-is-a-delight",
+          "author": "Chris Tapsell",
+          "description": "\"Good writing\" is a phrase that gets used quite often, and it can mean a lot of different things. Is good writing a good story? An unguessable twist? Fancy prose or deliberate themes? I'm sure I've used it at some point when what I meant to say is really: \"lots of long words I don't completely understand.\" \r\n\n\r\nStill, Pentiment has good writing - wonderful writing, actually - and in this case I do know what it means. This game's writing is witty, it has tempo and timing, it is genuinely, wickedly funny. It is also, above all, natural - something that so often seems impossible in games, things where you're so often controlling a character impulsively, pulling their puppet strings on a whim. How do you write around that? Pentiment, Obsidian's surprise new thing that I am judging from an admittedly quite brief hands-on at Gamescom, seems to manage it remarkably well.\r\n\n\r\nThings begin in Pentiment with you choosing a background, in a fairly typical, tabletop RPG-inspired way but with a nicely in-theme twist, whereby you play as a semi-educated bloke with a choice of studies and interests. I chose to have studied Logic and dropped out halfway through Theology, with an interest in the Occult, a mediaeval gap year to Flanders and a bit of a taste for Hedonism (although I was tempted to be a Rapscallion who liked scampering about picking fights and generally being a peevish little imp, like a kind of Dark Age Bart Simpson. Hedonism ultimately just felt like it suited a dropout Theologian a little better.)\r\n \nRead more",
+          "link": "https://www.eurogamer.net/the-simmering-wickedness-of-pentiments-dialogue-is-a-delight",
+          "publishedOn": "2022-09-03T10:54:34.000Z",
+          "wordCount": 5243,
+          "title": "The simmering wickedness of Pentiment's dialogue is a delight",
+          "imageUrl": "https://assets.reedpopcdn.com/pentiment-gamescom-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/pentiment-gamescom-header.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/the-unexpected-dignity-of-morgues",
           "author": "Robert Purchese",
           "description": "Content warning: this piece contains descriptions of the mortuary process.\nMorgues. All I have to do is write the word and it evokes a reaction. These places are steeped in our fundamental fears and preoccupations with death, and those fears and preoccupations are preyed upon by entertainment and amped up for horrors or police dramas. Chances are, you've never been in a morgue, but I bet you have an idea of what one looks like.\nI've been thinking about morgues this week because I've been in a couple and they made a strong impression on me. They're not real, they're in games, and the games are very much based around them.\n Read more",
@@ -6691,16 +6701,6 @@
           "wordCount": 5245,
           "title": "What we've been playing",
           "imageUrl": "https://assets.reedpopcdn.com/Sang-Froid-1.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Sang-Froid-1.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/microsoft-begins-insider-testing-for-xbox-game-pass-family-plan",
-          "author": "Matt Wales",
-          "description": "Cast your mind back to March and you might recall reports claiming Microsoft was working on a new family plan for Game Pass. Those reports, it now transpires, were true, and an Insider Preview test of the new scheme is available now in an extremely limited number of countries.\r\n\n\r\nAs detailed in a new Microsoft blog post, the Xbox Insider trial version of the scheme will enable anyone with a special Insider Preview Game Pass plan to invite up to four people to share that subscription, with each one then gaining unique access to Xbox Game Pass Ultimate's full selection of games, content, and benefits.\r\n\n\r\nThe immediate catch right now is that the test is only available to those in Colombia and Ireland. And while the people being added to a subscription by Insiders don't need to be an Insider themselves, they do need a Microsoft account and must be in the same country.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/microsoft-begins-insider-testing-for-xbox-game-pass-family-plan",
-          "publishedOn": "2022-08-04T22:58:11.000Z",
-          "wordCount": 4471,
-          "title": "Microsoft begins Insider testing for Xbox Game Pass family plan",
-          "imageUrl": "https://assets.reedpopcdn.com/xbox-game-pass-logo.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/xbox-game-pass-logo.jpg"
         }
       ]
     },
@@ -20661,26 +20661,6 @@
           "wordCount": 910,
           "title": "Dirk Eddelbuettel: RcppXts 0.0.5 on CRAN: Routine Refreshment",
           "imageUrl": null
-        },
-        {
-          "id": "https://current.workingdirectory.net/posts/2022/thunderbird-and-openpgp/",
-          "author": null,
-          "description": "I love that Thunderbird really tackled OpenPGP head on and incorporated it\ndirectly into the client. I know it’s been a bit rough for some users, but I\nthink it’s a good long term investment.\nAnd to demonstrate I’ll now complain about a minor issue :).\nI replied to an encrypted message but couldn’t send the response using\nencryption. I got an error message indicating that “End-to-end encryption\nrequires resolving certificate issues for” and it listed the recipient\nemail address.\n\n\nI spent an enormous amount of time examining the recipient’s OpenPGP key. I\nmade sure it was not expired. I made sure it was actually in my Thunderbird key\nstore not just in my OpenPGP keychain. I made sure I had indicated that I trust it\nenough to use. I re-downloaded it.\nI eventually gave up and didn’t send the email. Then I responded to another\nencrypted email and it worked. What!?!?\nI spent more time comparing the recipients before I realized the problem was\nthe sending address, not the recipient address.\nI have an OpenPGP key that lists several identities. I have a Thunderbird\nAccount that uses the Identities feature to add several from addresses. And, it\nturns out that in Thunderbird, you need to indicate which OpenPGP key to use\nfor your main account… but also for each identity. When you drill down to\nManage Identities for your account, you are able to indicate which OpenPGP key\nyou want to use for each identity. Once I indicated that each identity should\nuse my OpenPGP key, the issue was resolved.\nAnd here’s my Thunderbird bug asking for an error message pointing to the\nsender address, not the recipient\naddress.",
-          "link": "https://current.workingdirectory.net/posts/2022/thunderbird-and-openpgp/",
-          "publishedOn": "2022-08-04T22:27:10.000Z",
-          "wordCount": 343,
-          "title": "Jamie McClelland: Fine tuning Thunderbird's end-to-end encryption",
-          "imageUrl": null
-        },
-        {
-          "id": "https://current.workingdirectory.net/posts/2022/thunderbird-and-openpgpg/",
-          "author": null,
-          "description": "I love that Thunderbird really tackled OpenPGP head on and incorporated it\ndirectly into the client. I know it’s been a bit rough for some users, but I\nthink it’s a good long term investment.\nAnd to demonstrate I’ll now complain about a minor issue :).\nI replied to an encrypted message but couldn’t send the response using\nencryption. I got an error message indicating that “End-to-end encryption\nrequires resolving certificate issues for” … and it listed the recipient\nemail address.\n\nI spent an enormous amount of time examining the recipient’s OpenPGP key. I\nmade sure it was not expired. I made sure it was actually in my Thunderbird key\nstore not just in my OpenPGP keychain. I made sure I had indicated that I trust it\nenough to use. I re-downloaded it.\nI eventually gave up and didn’t send the email. Then I responded to another\nencrypted email and it worked. What!?!?\nI spent more time comparing the recipients before I realized the problem was\nthe sending address, not the recipient address.\nI have an OpenPGP key that lists several identities. I have a Thunderbird\nAccount that uses the Identities feature to add several from addresses. And, it\nturns out that in Thunderbird, you need to indicate which OpenPGP key to use\nfor your main account… but also for each identity. When you drill down to\nManage Identities for your account, you are able to indicate which OpenPGP key\nyou want to use for each identity. Once I indicated that each identity should\nuse my OpenPGP key, the issue was resolved.\nAnd here’s my Thunderbird bug asking for an error message pointing to the\nsender address, not the recipient\naddress.",
-          "link": "https://current.workingdirectory.net/posts/2022/thunderbird-and-openpgpg/",
-          "publishedOn": "2022-08-04T22:27:10.000Z",
-          "wordCount": 344,
-          "title": "Jamie McClelland: Fine tuning Thunderbird's end-to-end encryption",
-          "imageUrl": null
         }
       ]
     },
@@ -27030,6 +27010,16 @@
       "feedUrl": "https://www.sweclockers.com/feeds/nyheter",
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
+        {
+          "id": "https://www.sweclockers.com/artikel/34862",
+          "author": null,
+          "description": "Med nya processorer på ingång är tillhörande DDR5-minne fortfarande dyrt. Detta ska successivt ändras, med en förbättrad prisnivå senast tidigt 2023.",
+          "link": "https://www.sweclockers.com/artikel/34862-ddr5-krymper-prisskillnaden-mot-ddr4-fram-till-arsskiftet",
+          "publishedOn": "2022-09-03T10:35:12.000Z",
+          "wordCount": 1650,
+          "title": "DDR5 krymper prisskillnaden mot DDR4 fram till årsskiftet",
+          "imageUrl": "https://www.sweclockers.com/artikel/34862/og-image"
+        },
         {
           "id": "https://www.sweclockers.com/artikel/34863",
           "author": null,

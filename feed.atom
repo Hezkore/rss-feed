@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-03T10:25:12.647Z</updated>
+    <updated>2022-09-03T11:18:50.835Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The simmering wickedness of Pentiment's dialogue is a delight]]></title>
+        <id>https://www.eurogamer.net/the-simmering-wickedness-of-pentiments-dialogue-is-a-delight</id>
+        <link href="https://www.eurogamer.net/the-simmering-wickedness-of-pentiments-dialogue-is-a-delight"/>
+        <updated>2022-09-03T10:54:34.000Z</updated>
+        <summary type="html"><![CDATA["Good writing" is a phrase that gets used quite often, and it can mean a lot of different things. Is good writing a good story? An unguessable twist? Fancy prose or deliberate themes? I'm sure I've used it at some point when what I meant to say is really: "lots of long words I don't completely understand." 
+
+
+Still, Pentiment has good writing - wonderful writing, actually - and in this case I do know what it means. This game's writing is witty, it has tempo and timing, it is genuinely, wickedly funny. It is also, above all, natural - something that so often seems impossible in games, things where you're so often controlling a character impulsively, pulling their puppet strings on a whim. How do you write around that? Pentiment, Obsidian's surprise new thing that I am judging from an admittedly quite brief hands-on at Gamescom, seems to manage it remarkably well.
+
+
+Things begin in Pentiment with you choosing a background, in a fairly typical, tabletop RPG-inspired way but with a nicely in-theme twist, whereby you play as a semi-educated bloke with a choice of studies and interests. I chose to have studied Logic and dropped out halfway through Theology, with an interest in the Occult, a mediaeval gap year to Flanders and a bit of a taste for Hedonism (although I was tempted to be a Rapscallion who liked scampering about picking fights and generally being a peevish little imp, like a kind of Dark Age Bart Simpson. Hedonism ultimately just felt like it suited a dropout Theologian a little better.)
+ 
+Read more]]></summary>
+        <author>
+            <name>Chris Tapsell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DDR5 krymper prisskillnaden mot DDR4 fram till årsskiftet]]></title>
+        <id>https://www.sweclockers.com/artikel/34862</id>
+        <link href="https://www.sweclockers.com/artikel/34862-ddr5-krymper-prisskillnaden-mot-ddr4-fram-till-arsskiftet"/>
+        <updated>2022-09-03T10:35:12.000Z</updated>
+        <summary type="html"><![CDATA[Med nya processorer på ingång är tillhörande DDR5-minne fortfarande dyrt. Detta ska successivt ändras, med en förbättrad prisnivå senast tidigt 2023.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FWUPD Explores Improvement For Easier & More Robust Firmware Updating On Linux]]></title>
         <id>https://www.phoronix.com/news/FWUPD-Descriptor-Sets-Matching</id>
@@ -38382,97 +38410,6 @@ I have now been part of the Eurogamer team for six wonderful months (woo). Howev
         <summary type="html"><![CDATA[Greg Kroah-Hartman has submitted all of the USB and Thunderbolt driver changes targeting the Linux 6.0 kernel of which there is a lot of new hardware enablement and enhancements to existing driver support...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft begins Insider testing for Xbox Game Pass family plan]]></title>
-        <id>https://www.eurogamer.net/microsoft-begins-insider-testing-for-xbox-game-pass-family-plan</id>
-        <link href="https://www.eurogamer.net/microsoft-begins-insider-testing-for-xbox-game-pass-family-plan"/>
-        <updated>2022-08-04T22:58:11.000Z</updated>
-        <summary type="html"><![CDATA[Cast your mind back to March and you might recall reports claiming Microsoft was working on a new family plan for Game Pass. Those reports, it now transpires, were true, and an Insider Preview test of the new scheme is available now in an extremely limited number of countries.
-
-
-As detailed in a new Microsoft blog post, the Xbox Insider trial version of the scheme will enable anyone with a special Insider Preview Game Pass plan to invite up to four people to share that subscription, with each one then gaining unique access to Xbox Game Pass Ultimate's full selection of games, content, and benefits.
-
-
-The immediate catch right now is that the test is only available to those in Colombia and Ireland. And while the people being added to a subscription by Insiders don't need to be an Insider themselves, they do need a Microsoft account and must be in the same country.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jamie McClelland: Fine tuning Thunderbird's end-to-end encryption]]></title>
-        <id>https://current.workingdirectory.net/posts/2022/thunderbird-and-openpgp/</id>
-        <link href="https://current.workingdirectory.net/posts/2022/thunderbird-and-openpgp/"/>
-        <updated>2022-08-04T22:27:10.000Z</updated>
-        <summary type="html"><![CDATA[I love that Thunderbird really tackled OpenPGP head on and incorporated it
-directly into the client. I know it’s been a bit rough for some users, but I
-think it’s a good long term investment.
-And to demonstrate I’ll now complain about a minor issue :).
-I replied to an encrypted message but couldn’t send the response using
-encryption. I got an error message indicating that “End-to-end encryption
-requires resolving certificate issues for” and it listed the recipient
-email address.
-
-
-I spent an enormous amount of time examining the recipient’s OpenPGP key. I
-made sure it was not expired. I made sure it was actually in my Thunderbird key
-store not just in my OpenPGP keychain. I made sure I had indicated that I trust it
-enough to use. I re-downloaded it.
-I eventually gave up and didn’t send the email. Then I responded to another
-encrypted email and it worked. What!?!?
-I spent more time comparing the recipients before I realized the problem was
-the sending address, not the recipient address.
-I have an OpenPGP key that lists several identities. I have a Thunderbird
-Account that uses the Identities feature to add several from addresses. And, it
-turns out that in Thunderbird, you need to indicate which OpenPGP key to use
-for your main account… but also for each identity. When you drill down to
-Manage Identities for your account, you are able to indicate which OpenPGP key
-you want to use for each identity. Once I indicated that each identity should
-use my OpenPGP key, the issue was resolved.
-And here’s my Thunderbird bug asking for an error message pointing to the
-sender address, not the recipient
-address.]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jamie McClelland: Fine tuning Thunderbird's end-to-end encryption]]></title>
-        <id>https://current.workingdirectory.net/posts/2022/thunderbird-and-openpgpg/</id>
-        <link href="https://current.workingdirectory.net/posts/2022/thunderbird-and-openpgpg/"/>
-        <updated>2022-08-04T22:27:10.000Z</updated>
-        <summary type="html"><![CDATA[I love that Thunderbird really tackled OpenPGP head on and incorporated it
-directly into the client. I know it’s been a bit rough for some users, but I
-think it’s a good long term investment.
-And to demonstrate I’ll now complain about a minor issue :).
-I replied to an encrypted message but couldn’t send the response using
-encryption. I got an error message indicating that “End-to-end encryption
-requires resolving certificate issues for” … and it listed the recipient
-email address.
-
-I spent an enormous amount of time examining the recipient’s OpenPGP key. I
-made sure it was not expired. I made sure it was actually in my Thunderbird key
-store not just in my OpenPGP keychain. I made sure I had indicated that I trust it
-enough to use. I re-downloaded it.
-I eventually gave up and didn’t send the email. Then I responded to another
-encrypted email and it worked. What!?!?
-I spent more time comparing the recipients before I realized the problem was
-the sending address, not the recipient address.
-I have an OpenPGP key that lists several identities. I have a Thunderbird
-Account that uses the Identities feature to add several from addresses. And, it
-turns out that in Thunderbird, you need to indicate which OpenPGP key to use
-for your main account… but also for each identity. When you drill down to
-Manage Identities for your account, you are able to indicate which OpenPGP key
-you want to use for each identity. Once I indicated that each identity should
-use my OpenPGP key, the issue was resolved.
-And here’s my Thunderbird bug asking for an error message pointing to the
-sender address, not the recipient
-address.]]></summary>
-        <author>
-            <name>Planet Debian</name>
         </author>
     </entry>
 </feed>
