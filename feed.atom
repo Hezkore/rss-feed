@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-03T13:33:44.607Z</updated>
+    <updated>2022-09-03T14:20:47.076Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
@@ -30,6 +30,32 @@ Read more]]></summary>
         <summary type="html"><![CDATA[DeepCool delivers yet another impressive air cooler with its AK500. Our tests show it can handle thermal demands over 200W while remaining quiet.]]></summary>
         <author>
             <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joachim Breitner: More recursive definitions]]></title>
+        <id>http://www.joachim-breitner.de/blog/792-More_recursive_definitions</id>
+        <link href="http://www.joachim-breitner.de/blog/792-More_recursive_definitions"/>
+        <updated>2022-09-03T12:31:51.000Z</updated>
+        <summary type="html"><![CDATA[Haskell is a pure and lazy programming language, and the laziness allows us to write some algorithms very elegantly, by recursively referring to already calculated values. A typical example is the following definition of the Fibonacci numbers, as an infinite stream:
+fibs = 0 : 1 : zipWith (+) fibs (tail fibs)
+
+Elegant graph traversals
+A maybe more practical example is the following calculation of the transitive closure of a graph:
+
+import qualified Data.Set as S
+import qualified Data.Map as M
+
+type Graph = M.Map Int (S.Set Int)
+transitive1 :: Graph -> Graph
+transitive1 g = sets
+  where
+    sets :: M.Map Int (S.Set Int)
+    sets = M.mapWithKey (\v vs -> S.insert v (S.unions [ sets M.! v' | v' <- S.toList vs ])) g
+
+We represent graphs as maps from vertex to their successors vertex, and defin…]]></summary>
+        <author>
+            <name>mail@joachim-breitner.de (Joachim Breitner)</name>
         </author>
     </entry>
     <entry>

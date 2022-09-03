@@ -20133,6 +20133,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "http://www.joachim-breitner.de/blog/792-More_recursive_definitions",
+          "author": "mail@joachim-breitner.de (Joachim Breitner)",
+          "description": "Haskell is a pure and lazy programming language, and the laziness allows us to write some algorithms very elegantly, by recursively referring to already calculated values. A typical example is the following definition of the Fibonacci numbers, as an infinite stream:\nfibs = 0 : 1 : zipWith (+) fibs (tail fibs)\n\nElegant graph traversals\nA maybe more practical example is the following calculation of the transitive closure of a graph:\n\nimport qualified Data.Set as S\nimport qualified Data.Map as M\n\ntype Graph = M.Map Int (S.Set Int)\ntransitive1 :: Graph -> Graph\ntransitive1 g = sets\n  where\n    sets :: M.Map Int (S.Set Int)\n    sets = M.mapWithKey (\\v vs -> S.insert v (S.unions [ sets M.! v' | v' <- S.toList vs ])) g\n\nWe represent graphs as maps from vertex to their successors vertex, and defin…",
+          "link": "http://www.joachim-breitner.de/blog/792-More_recursive_definitions",
+          "publishedOn": "2022-09-03T12:31:51.000Z",
+          "wordCount": 1001,
+          "title": "Joachim Breitner: More recursive definitions",
+          "imageUrl": null
+        },
+        {
           "id": "http://flossexperiences.wordpress.com/?p=7395",
           "author": null,
           "description": "J.R.R. Tolkein\nNow unless you have been living under a rock cave, I am sure you know who Mr. Tolkein is. Apparently, the gentleman passed away on 2nd September 1973 at the sprightly age of 80. And this gives fans like me to talk about fantasy, fantasy authors, and the love-hate relationship we have with them. For a matter of record, I am currently reading Babylon Steel by Gaie Sebold. Now while I won’t go into many details (I never like to, if I enjoy a book, I would want the book to be mysterious rather than give praise, simply so that the next person enjoys it as much as I did without having any expectations.) Now this book has plenty of sex so wouldn’t recommend it for teenagers but more perhaps to mature audiences, although for the life of me couldn’t find any rating on the book. I did…",
