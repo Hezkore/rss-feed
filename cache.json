@@ -6701,16 +6701,6 @@
           "wordCount": 4471,
           "title": "Microsoft begins Insider testing for Xbox Game Pass family plan",
           "imageUrl": "https://assets.reedpopcdn.com/xbox-game-pass-logo.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/xbox-game-pass-logo.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/heres-a-first-trailer-for-frogwares-sherlock-holmes-and-lovecraft-remake-the-awakened",
-          "author": "Matt Wales",
-          "description": "Following last week's announcement that Frogwares - the developer behind the likes of Sherlock Holmes: Chapter One and The Sinking City - is remaking its 2007 Sherlock/Lovecraft crossover The Awakened, the studio has released a first cinematic trailer for the project, which is seeking Kickstarter funding right now.\r\n\n\r\nThe Awakened, if you're unfamiliar, was the third instalment in a series of Frogwares-developed Sherlock Holmes investigatory adventures that has so far spanned nine games, pitting the Baker Street detective against Cthulhu cults and eldritch abominations across Victorian London, Switzerland, New Orleans, and the Scottish Highlands.\r\n\n\r\nFrogwares' remake will see the studio reimagining the title for modern audiences, drawing on its learning from the more recent Sherlock games, and retooling its story to be a continuation of the young Sherlock arc, which started in last year's Chapter One. And if you're curious to know how that might look, the developer has you covered with a new cinematic trailer in which Sherlock and Watson traverse the New Orleans bayous into a strange realm  that, pleasingly, looks to share more than a few aesthetic beats with Frogwares' Lovecraftian The Sinking City.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/heres-a-first-trailer-for-frogwares-sherlock-holmes-and-lovecraft-remake-the-awakened",
-          "publishedOn": "2022-08-04T22:02:43.000Z",
-          "wordCount": 4673,
-          "title": "Here's a first trailer for Frogwares' Sherlock Holmes and Lovecraft remake The Awakened",
-          "imageUrl": "https://assets.reedpopcdn.com/sherlock-holmes-the-awakened-brightened.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sherlock-holmes-the-awakened-brightened.jpg"
         }
       ]
     },
@@ -9567,6 +9557,56 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/FWUPD-Descriptor-Sets-Matching",
+          "author": null,
+          "description": "Currently when it comes to shipping new/updated device support for firmware updating under Linux with FWUPD/LVFS, it requires making/adjusting a Fwupd plug-in for carrying out the actual firmware copying/updating of the device and then adding in the device VID/PID to a quirks table so Fwupd knows about what to match a given device to for the firmware plug-in to use. Even in new devices where no plug-in changes are required, new device entries are still needed in the quirks table and it makes it challenging when Linux distributions don't quickly move to new FWUPD releases. Moving forward a better solution is being explored...",
+          "link": "https://www.phoronix.com/news/FWUPD-Descriptor-Sets-Matching",
+          "publishedOn": "2022-09-03T09:51:02.000Z",
+          "wordCount": 1653,
+          "title": "FWUPD Explores Improvement For Easier & More Robust Firmware Updating On Linux",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/KDE-Plasma-5.26-Ahead-Of-Beta",
+          "author": null,
+          "description": "There is a lot of last minute feature work and improvements heading into Plasma 5.26 ahead of its upcoming beta and feature freeze...",
+          "link": "https://www.phoronix.com/news/KDE-Plasma-5.26-Ahead-Of-Beta",
+          "publishedOn": "2022-09-03T09:28:01.000Z",
+          "wordCount": 1363,
+          "title": "KDE Plasma 5.26 Sees More Features & Fixes Ahead Of Beta",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Ubuntu-Unity-22.10-Official",
+          "author": null,
+          "description": "While it's been years since Canonical dropped Unity as the official desktop environment of Ubuntu, some within the open-source community have still been maintaining it and running an unofficial Ubuntu Unity flavor of the distribution. Now with next month's Ubuntu 22.10 release, Ubuntu Unity will be an official flavor/spin...",
+          "link": "https://www.phoronix.com/news/Ubuntu-Unity-22.10-Official",
+          "publishedOn": "2022-09-03T09:14:01.000Z",
+          "wordCount": 1296,
+          "title": "Ubuntu Unity Becoming An Official Flavor With 22.10 Release",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Chrome-106-Beta-Released",
+          "author": null,
+          "description": "Following this week's release of Chrome 105, Google has promoted Chrome 106 to their beta channel...",
+          "link": "https://www.phoronix.com/news/Chrome-106-Beta-Released",
+          "publishedOn": "2022-09-03T09:09:06.000Z",
+          "wordCount": 1357,
+          "title": "Chrome 106 Beta Adds Pop-Up API, SerialPort BYOB Reader Support",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/PipeWire-0.3.57-Released",
+          "author": null,
+          "description": "PipeWire 0.3.57 was released on Friday as the newest update to this Linux audio/video streams management solution that aims to fill the functionality currently provided by the likes of JACK and PulseAudio...",
+          "link": "https://www.phoronix.com/news/PipeWire-0.3.57-Released",
+          "publishedOn": "2022-09-03T09:05:23.000Z",
+          "wordCount": 1264,
+          "title": "PipeWire 0.3.57 Adds AAC Decoder, Opus For Bluetooth",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/sdl12-compat-1.254",
           "author": null,
           "description": "The sdl12-compat is a SDL 1.2 compatibility layer implementation atop SDL 2.0. This sdl12-compat project allows for old, out-of-date games and other applications relying on the old SDL 1.2 interface to in turn run via the modern SDL2 library for better compatibility with input devices, Wayland support (assuming no direct X11 hard dependencies), support for PipeWire audio, improved input controls, and various other enhancements only found in SDL 2.0 and not the unmaintained SDL 1.2...",
@@ -11883,6 +11923,26 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/the-93-lenovo-legion-booststation-gpu-enclosure-deal-is-back",
+          "author": "Will Judd",
+          "description": "A few weeks ago we posted about a stellar deal on Lenovo's BoostStation, an external GPU enclosure that lets you turn almost any Thunderbolt 3 laptop into a gaming powerhouse with the simple addition of a graphics card. Rather than the £200 or £300 prices we normally see attached to these enclosures, this one was available at just £93. Now that deal is back, once again via the Laptop Outlet store on Ebay. \nThis time though, you'll  need to use code FANCY15 to knock 15% off the price of the BoostStation, bringing it down to that alluring £93 price point once again. \nRead more",
+          "link": "https://www.rockpapershotgun.com/the-93-lenovo-legion-booststation-gpu-enclosure-deal-is-back",
+          "publishedOn": "2022-09-03T09:32:19.000Z",
+          "wordCount": 4741,
+          "title": "The £93 Lenovo Legion BoostStation GPU enclosure deal is back",
+          "imageUrl": "https://assets2.rockpapershotgun.com/booststation.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/booststation.jpg"
+        },
+        {
+          "id": "https://www.rockpapershotgun.com/store-all-the-things-with-an-8tb-seagate-ironwolf-hard-drive-for-150",
+          "author": "Will Judd",
+          "description": "Seagate's IronWolf and IronWolf Pro hard drives are amongst the best available, and now you can get an 8TB IronWolf model for £150 at Amazon, a historic low price. \nThis is a huge amount of storage, ideal for archiving games and storing media like music and video, and well worth considering especially if your boot SSD is getting full. By comparison, the cheapest 8TB SSD is £669, making this more than four times cheaper. \nRead more",
+          "link": "https://www.rockpapershotgun.com/store-all-the-things-with-an-8tb-seagate-ironwolf-hard-drive-for-150",
+          "publishedOn": "2022-09-03T09:24:02.000Z",
+          "wordCount": 4755,
+          "title": "Store all the things with an 8TB Seagate IronWolf hard drive for £150",
+          "imageUrl": "https://assets2.rockpapershotgun.com/ironwolf.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ironwolf.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-205",
           "author": "Alice O'Connor",
@@ -23685,16 +23745,6 @@
           "wordCount": 1611,
           "title": "“Huge flaw” threatens US emergency alert system, DHS researcher warns",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/emergency-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1871675",
-          "author": "Aurich Lawson",
-          "description": "The world's largest fighting game tournament is live all weekend long.",
-          "link": "https://arstechnica.com/?p=1871675",
-          "publishedOn": "2022-08-04T22:15:59.000Z",
-          "wordCount": 1961,
-          "title": "Evo weekend is here: How to watch the fighting game event of the year",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/296931603_1062491494373747_9126623648687951881_n-760x380.jpg"
         }
       ]
     },
@@ -23703,6 +23753,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291333",
+          "author": null,
+          "description": "Banan, Melon, Kiwi och Citron…*dunka, dunka*",
+          "link": "https://www.fz.se/artikel/291333-aurora-punks-slapper-musikvideo-i-pixeltema-tillsammans-med-hooja",
+          "publishedOn": "2022-09-03T09:32:06.000Z",
+          "wordCount": 2055,
+          "title": "Aurora Punks släpper musikvideo i pixeltema tillsammans med Hooja",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291333"
+        },
         {
           "id": "https://www.fz.se/artikel/291317",
           "author": null,
@@ -34087,16 +34147,6 @@
           "wordCount": 1506,
           "title": "Bloke robbed of $800,000 in cryptocurrency by fake wallet app wants payback from Google",
           "imageUrl": "https://regmedia.co.uk/2020/02/26/shutterstock_stealing_bitcoin.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/04/doe_battery_tech_china/",
-          "author": null,
-          "description": "<h4>Licencing snafu sends American invention overseas</h4> <p>When US national laboratories develop a new technology, Uncle Sam is supposed to ensure it is commercialized in America. But that's not what happened with what's said to be a breakthrough battery design. …</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/04/doe_battery_tech_china/",
-          "publishedOn": "2022-08-04T21:28:35.000Z",
-          "wordCount": 1610,
-          "title": "US-funded breakthrough battery tech just simply handed over to China",
-          "imageUrl": "https://regmedia.co.uk/2022/08/04/shutterstock_president_xi_china.jpg"
         }
       ]
     }
