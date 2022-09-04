@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-04T20:24:59.006Z</updated>
+    <updated>2022-09-04T21:19:49.678Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.0-rc4 Released With Various Driver Fixes]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.0-rc4-Released</id>
+        <link href="https://www.phoronix.com/news/Linux-6.0-rc4-Released"/>
+        <updated>2022-09-04T20:25:56.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvalds just released the fourth weekly release candidate of Linux 6.0 in time for some US Labor Day holiday weekend testing...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nyhetsquiz vecka 35 2022: AMD Ryzen 7000 och skärmar]]></title>
         <id>https://www.sweclockers.com/artikel/34868</id>
@@ -37734,19 +37744,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[KDE developers have started the month of August to a lot of fixes and polishing for the Plasma desktop...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can we really only be wowed by something once?]]></title>
-        <id>https://www.eurogamer.net/can-we-really-only-be-wowed-by-something-once</id>
-        <link href="https://www.eurogamer.net/can-we-really-only-be-wowed-by-something-once"/>
-        <updated>2022-08-06T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[There's something I keep thinking about lately. It's this idea that we only have so much space in our minds for formative gaming experiences and it's diminishing returns forever after.
-I was talking to a guy in a pub about it, who overheard a conversation I was having with someone else and leaped in, delighted to talk to someone, anyone, about games. It was quite endearing. And it was while talking about older games and remakes he said: I don't think anything will ever be as good as the original Deus Ex.
-On the one hand, that's fair enough - the old Deus Ex was good, and it was a proper moment for games when people realised RPGs and FPSs could work together. It's not that which bothered me.
- Read more]]></summary>
-        <author>
-            <name>Robert Purchese</name>
         </author>
     </entry>
 </feed>
