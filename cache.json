@@ -11535,26 +11535,6 @@
           "wordCount": 1301,
           "title": "OpenRISC Enables PCI Support With Linux 6.0",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/DreamWorks-MoonRay-Open-Source",
-          "author": null,
-          "description": "DreamWorks Animation announced today that they intend to release their MoonRay production renderer as open-source softwate later in 2022. DreamWorks' MoonRay renderer has been used for films such as How To Train Your Dragon: The Hidden World, The Bad Guys, Puss In Boots: The Last Wish, and other animated films...",
-          "link": "https://www.phoronix.com/news/DreamWorks-MoonRay-Open-Source",
-          "publishedOn": "2022-08-05T18:04:31.000Z",
-          "wordCount": 1296,
-          "title": "DreamWorks Animation To Open-Source MoonRay Renderer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Rust-For-Linux-v9-Patches",
-          "author": null,
-          "description": "Earlier this week saw the Rust for Linux v8 patches posted that introduced a number of new abstractions and expanding the Rust programming language integration to more areas of the kernel. Those patches amounted to 43.6k lines of new code while \"Rust for Linux v9\" was posted today and comes in at just 12.5k lines of new code...",
-          "link": "https://www.phoronix.com/news/Rust-For-Linux-v9-Patches",
-          "publishedOn": "2022-08-05T17:53:57.000Z",
-          "wordCount": 1621,
-          "title": "Rust For Linux Kernel v9 Patches Trim Things Down Greatly For Easier Upstreaming",
-          "imageUrl": null
         }
       ]
     },
@@ -14810,6 +14790,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "c6gE24pFiqgwWrjotLuua3",
+          "author": null,
+          "description": "Here are the gaming laptop deals we've seen.",
+          "link": "https://www.tomshardware.com/news/best-gaming-laptop-deals",
+          "publishedOn": "2022-09-04T05:28:02.000Z",
+          "wordCount": 18977,
+          "title": "Best Gaming Laptop Deals 2022",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/RJpR29tctBHy9ozKcSEegc.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/RJpR29tctBHy9ozKcSEegc.jpg"
+        },
         {
           "id": "t7J2HzjELwmqoxPSHtRTsW",
           "author": null,
@@ -23335,16 +23330,6 @@
           "wordCount": 1619,
           "title": "Formula E’s most successful racer shares his ideas on racing technology",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/EPS813_142727_R3I0049-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1871810",
-          "author": "Scharon Harding",
-          "description": "Retro keyboards commemorate some of Sega's most memorable brands.",
-          "link": "https://arstechnica.com/?p=1871810",
-          "publishedOn": "2022-08-05T17:47:11.000Z",
-          "wordCount": 1508,
-          "title": "Sonic the Hedgehog doesn’t need easily legible legends on his mechanical keyboard",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/293099341_443407024048448_7694724969889348897_n-760x380.jpg"
         }
       ]
     },
@@ -33407,16 +33392,6 @@
           "wordCount": 2127,
           "title": "Too little, too late: Intel's legacy is eroding",
           "imageUrl": "https://regmedia.co.uk/2021/05/14/shutterstock_pat_gelsinger.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/05/eas_vulnerabilities_dhs/",
-          "author": null,
-          "description": "<h4>DEF CON may be about to blow lid off security hole</h4> <p>The US government is warning of critical vulnerabilities in its Emergency Alert System (EAS) systems that, if exploited, could enable intruders to send fake alerts out over television, radio, and cable networks.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/05/eas_vulnerabilities_dhs/",
-          "publishedOn": "2022-08-05T18:05:55.000Z",
-          "wordCount": 1647,
-          "title": "Warning! Critical flaws found in US Emergency Alert System",
-          "imageUrl": "https://regmedia.co.uk/2019/11/26/buzzer.jpg"
         }
       ]
     }

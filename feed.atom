@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-04T05:37:38.572Z</updated>
+    <updated>2022-09-04T06:27:27.373Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Best Gaming Laptop Deals 2022]]></title>
+        <id>c6gE24pFiqgwWrjotLuua3</id>
+        <link href="https://www.tomshardware.com/news/best-gaming-laptop-deals"/>
+        <updated>2022-09-04T05:28:02.000Z</updated>
+        <summary type="html"><![CDATA[Here are the gaming laptop deals we've seen.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RPS@PAX West 2022: Saturday daily round-up]]></title>
         <id>https://www.rockpapershotgun.com/rpspax-west-2022-saturday-daily-round-up</id>
@@ -37533,46 +37543,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Andra spel går inte alls lika bra.]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warning! Critical flaws found in US Emergency Alert System]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/05/eas_vulnerabilities_dhs/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/05/eas_vulnerabilities_dhs/"/>
-        <updated>2022-08-05T18:05:55.000Z</updated>
-        <summary type="html"><![CDATA[<h4>DEF CON may be about to blow lid off security hole</h4> <p>The US government is warning of critical vulnerabilities in its Emergency Alert System (EAS) systems that, if exploited, could enable intruders to send fake alerts out over television, radio, and cable networks.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DreamWorks Animation To Open-Source MoonRay Renderer]]></title>
-        <id>https://www.phoronix.com/news/DreamWorks-MoonRay-Open-Source</id>
-        <link href="https://www.phoronix.com/news/DreamWorks-MoonRay-Open-Source"/>
-        <updated>2022-08-05T18:04:31.000Z</updated>
-        <summary type="html"><![CDATA[DreamWorks Animation announced today that they intend to release their MoonRay production renderer as open-source softwate later in 2022. DreamWorks' MoonRay renderer has been used for films such as How To Train Your Dragon: The Hidden World, The Bad Guys, Puss In Boots: The Last Wish, and other animated films...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust For Linux Kernel v9 Patches Trim Things Down Greatly For Easier Upstreaming]]></title>
-        <id>https://www.phoronix.com/news/Rust-For-Linux-v9-Patches</id>
-        <link href="https://www.phoronix.com/news/Rust-For-Linux-v9-Patches"/>
-        <updated>2022-08-05T17:53:57.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this week saw the Rust for Linux v8 patches posted that introduced a number of new abstractions and expanding the Rust programming language integration to more areas of the kernel. Those patches amounted to 43.6k lines of new code while "Rust for Linux v9" was posted today and comes in at just 12.5k lines of new code...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sonic the Hedgehog doesn’t need easily legible legends on his mechanical keyboard]]></title>
-        <id>https://arstechnica.com/?p=1871810</id>
-        <link href="https://arstechnica.com/?p=1871810"/>
-        <updated>2022-08-05T17:47:11.000Z</updated>
-        <summary type="html"><![CDATA[Retro keyboards commemorate some of Sega's most memorable brands.]]></summary>
-        <author>
-            <name>Scharon Harding</name>
         </author>
     </entry>
 </feed>
