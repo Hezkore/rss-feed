@@ -6470,6 +6470,16 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/splitgate-development-ends-new-game-from-1047-games",
+          "author": "Oisin Kuhnke",
+          "description": "Earlier this week, Splitgate developer 1047 Games announced that development on the game would cease as it shifts over to an Unreal Engine 5 follow-up title.\nThe breakout hit that mixed Halo and Portal will no longer have any feature updates, but while this marks the end of one game, it also marks the start of another. In a statement provided on Twitter, 1047 Games explained its decision to stop development on Splitgate, while also reassuring fans that its next game will also be a shooter with portals.\n\"After careful consideration and much deliberation the 1047 Games team has determined that in order to build the game fans deserve - and to build it in a way that isn't trying to retrofit and live operate an existing product - we are ending feature development of Splitgate,\" reads the announcement.\n Read more",
+          "link": "https://www.vg247.com/splitgate-development-ends-new-game-from-1047-games",
+          "publishedOn": "2022-09-04T09:30:12.000Z",
+          "wordCount": 4704,
+          "title": "Splitgate development coming to an end as devs move to an equally portal filled follow-up",
+          "imageUrl": "https://asset.vg247.com/splitgate_screen_1.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/splitgate_screen_1.jpg"
+        },
+        {
           "id": "https://www.vg247.com/new-tales-from-the-borderlands-drops-infamous-conversation-prompt",
           "author": "Dom Peppiatt",
           "description": "The Walking Dead, Game of Thrones, Batman, The Wolf Among Us, Minecraft, Borderlands, Guardians of the Galaxy… the reign of Telltale Games, at its peak, was truly something to behold. Between 2010 and 2016, the studio churned out a number of games that defined the conversation in gaming. You couldn’t open a gaming mag (or navigate the homepage of a gaming site) without something from Telltale making itself known. Its games were everywhere, all of the time. \r\n\n\r\nUntil they weren’t. The studio hit critical mass, and the quality of its games suffered: from 2017 onwards, after a restructuring of the studio that affected the cadence of its releases, the studio fell from grace. In trying to recreate the magic of The Walking Dead, Telltale creatively suffocated its staff and homogenised its output. A series of gaffes soiled the company’s reputation. As quickly as the world fell in love with the studio, it forgot about it. The second season of the Wolf Among Us, as well as a planned Stranger Things game, were cancelled.\nBut that’s not to say there’s anything wrong with the formula: in fact, quite the opposite is true. During its height, people loved Telltale because it harkened back to an era of classic, narrative-focused adventure games. You don’t sell 28 million-plus episodes if there’s something fundamentally wrong with the way your games work, do you? To that end, you can see why Gearbox Software partnered with “key alumni” of the original Telltale Games narrative team revisit one of the most cult titles in the studio’s back catalogue: Tales From the Borderlands. \n Read more",
@@ -9246,6 +9256,36 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/RADV-Radeon-Raytracing-RRA",
+          "author": null,
+          "description": "Mesa's Radeon Vulkan driver \"RADV\" has added support for compatibility with GPUOpen's Radeon Raytracing Analyzer...",
+          "link": "https://www.phoronix.com/news/RADV-Radeon-Raytracing-RRA",
+          "publishedOn": "2022-09-04T09:47:47.000Z",
+          "wordCount": 1381,
+          "title": "Mesa RADV Driver Adds Radeon Raytracing Analyzer Support",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Kaidan-Encrypt-Audio-Video-Call",
+          "author": null,
+          "description": "KDE's Kaidan app has been in development for a number of years now as a Jabber/XMPP chat client built around Kirigami and Qt Quick. Kaidan has been under active development and formally became a KDE project in 2019. It's newest ambition is now working out encrypted audio and video calls...",
+          "link": "https://www.phoronix.com/news/Kaidan-Encrypt-Audio-Video-Call",
+          "publishedOn": "2022-09-04T09:38:03.000Z",
+          "wordCount": 1243,
+          "title": "KDE's Kaidan Messaging App Adding Encrypted Audio/Video Calls",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/GravityMark-1.70-Released",
+          "author": null,
+          "description": "GravityMark 1.70 has been released as the multi-API graphics benchmark developed by Tellusim Technologies that was started by one of the former Unigine engine developers...",
+          "link": "https://www.phoronix.com/news/GravityMark-1.70-Released",
+          "publishedOn": "2022-09-04T09:20:00.000Z",
+          "wordCount": 1353,
+          "title": "GravityMark 1.70 Released With VK_EXT_mesh_shader, Vulkan ReBAR Support",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/GNU-Grep-3.8-Stop-egrep-fgrep",
           "author": null,
@@ -23210,26 +23250,6 @@
           "wordCount": 3018,
           "title": "The weekend’s best deals: Amazon Kindle Paperwhite, 8BitDo gamepads, and more",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/dealmaster080622-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1871913",
-          "author": "Kevin Purdy",
-          "description": "Search privacy company still needs Bing, but won't allow Microsoft's trackers.",
-          "link": "https://arstechnica.com/?p=1871913",
-          "publishedOn": "2022-08-05T21:33:42.000Z",
-          "wordCount": 1552,
-          "title": "Microsoft trackers run afoul of DuckDuckGo, get added to blocklist",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/duck-duck-go-vs-microsoft-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1871914",
-          "author": "WIRED",
-          "description": "Tehran-linked hack of a NATO member is a significant escalation.",
-          "link": "https://arstechnica.com/?p=1871914",
-          "publishedOn": "2022-08-05T21:30:37.000Z",
-          "wordCount": 1580,
-          "title": "Cyberattack on Albanian government suggests new Iranian aggression",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/tirane-760x380.jpg"
         }
       ]
     },
@@ -33272,16 +33292,6 @@
           "wordCount": 1741,
           "title": "Apple tells suppliers to use 'Taiwan, China' or 'Chinese Taipei' to appease Beijing",
           "imageUrl": "https://regmedia.co.uk/2022/02/17/shutterstock_taiwan_in_chinas_shadow.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/05/roscosmos_nasa_iss/",
-          "author": null,
-          "description": "<h4>Yeah, they do have a habit of being in places where they are no longer welcome</h4> <p>Russia's space agency has signaled it may well continue maintaining its chunk of the International Space Station to potentially as far out as 2030. Or as early as 2025.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/05/roscosmos_nasa_iss/",
-          "publishedOn": "2022-08-05T22:10:32.000Z",
-          "wordCount": 1435,
-          "title": "Russia: Hey, don't act surprised if we're still on the ISS in 2030",
-          "imageUrl": "https://regmedia.co.uk/2019/01/09/iss.jpg"
         }
       ]
     }

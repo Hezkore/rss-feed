@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-04T09:22:00.737Z</updated>
+    <updated>2022-09-04T10:24:32.696Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mesa RADV Driver Adds Radeon Raytracing Analyzer Support]]></title>
+        <id>https://www.phoronix.com/news/RADV-Radeon-Raytracing-RRA</id>
+        <link href="https://www.phoronix.com/news/RADV-Radeon-Raytracing-RRA"/>
+        <updated>2022-09-04T09:47:47.000Z</updated>
+        <summary type="html"><![CDATA[Mesa's Radeon Vulkan driver "RADV" has added support for compatibility with GPUOpen's Radeon Raytracing Analyzer...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE's Kaidan Messaging App Adding Encrypted Audio/Video Calls]]></title>
+        <id>https://www.phoronix.com/news/Kaidan-Encrypt-Audio-Video-Call</id>
+        <link href="https://www.phoronix.com/news/Kaidan-Encrypt-Audio-Video-Call"/>
+        <updated>2022-09-04T09:38:03.000Z</updated>
+        <summary type="html"><![CDATA[KDE's Kaidan app has been in development for a number of years now as a Jabber/XMPP chat client built around Kirigami and Qt Quick. Kaidan has been under active development and formally became a KDE project in 2019. It's newest ambition is now working out encrypted audio and video calls...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Splitgate development coming to an end as devs move to an equally portal filled follow-up]]></title>
+        <id>https://www.vg247.com/splitgate-development-ends-new-game-from-1047-games</id>
+        <link href="https://www.vg247.com/splitgate-development-ends-new-game-from-1047-games"/>
+        <updated>2022-09-04T09:30:12.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this week, Splitgate developer 1047 Games announced that development on the game would cease as it shifts over to an Unreal Engine 5 follow-up title.
+The breakout hit that mixed Halo and Portal will no longer have any feature updates, but while this marks the end of one game, it also marks the start of another. In a statement provided on Twitter, 1047 Games explained its decision to stop development on Splitgate, while also reassuring fans that its next game will also be a shooter with portals.
+"After careful consideration and much deliberation the 1047 Games team has determined that in order to build the game fans deserve - and to build it in a way that isn't trying to retrofit and live operate an existing product - we are ending feature development of Splitgate," reads the announcement.
+ Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GravityMark 1.70 Released With VK_EXT_mesh_shader, Vulkan ReBAR Support]]></title>
+        <id>https://www.phoronix.com/news/GravityMark-1.70-Released</id>
+        <link href="https://www.phoronix.com/news/GravityMark-1.70-Released"/>
+        <updated>2022-09-04T09:20:00.000Z</updated>
+        <summary type="html"><![CDATA[GravityMark 1.70 has been released as the multi-API graphics benchmark developed by Tellusim Technologies that was started by one of the former Unigine engine developers...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Two Point Campus har nått 1 miljon spelare efter endast 2 veckor]]></title>
         <id>https://www.fz.se/artikel/291340</id>
@@ -37415,36 +37458,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<h4>That's the way the Cook he crumbles</h4> <p>Apple, which celebrates its self-professed commitment to free expression and human rights, has reportedly told its suppliers in Taiwan to label their components so they describe Taiwan as a province of the People's Republic of China (PRC).…</p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russia: Hey, don't act surprised if we're still on the ISS in 2030]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/05/roscosmos_nasa_iss/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/05/roscosmos_nasa_iss/"/>
-        <updated>2022-08-05T22:10:32.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Yeah, they do have a habit of being in places where they are no longer welcome</h4> <p>Russia's space agency has signaled it may well continue maintaining its chunk of the International Space Station to potentially as far out as 2030. Or as early as 2025.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft trackers run afoul of DuckDuckGo, get added to blocklist]]></title>
-        <id>https://arstechnica.com/?p=1871913</id>
-        <link href="https://arstechnica.com/?p=1871913"/>
-        <updated>2022-08-05T21:33:42.000Z</updated>
-        <summary type="html"><![CDATA[Search privacy company still needs Bing, but won't allow Microsoft's trackers.]]></summary>
-        <author>
-            <name>Kevin Purdy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberattack on Albanian government suggests new Iranian aggression]]></title>
-        <id>https://arstechnica.com/?p=1871914</id>
-        <link href="https://arstechnica.com/?p=1871914"/>
-        <updated>2022-08-05T21:30:37.000Z</updated>
-        <summary type="html"><![CDATA[Tehran-linked hack of a NATO member is a significant escalation.]]></summary>
-        <author>
-            <name>WIRED</name>
         </author>
     </entry>
 </feed>
