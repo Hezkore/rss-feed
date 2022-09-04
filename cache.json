@@ -62,6 +62,16 @@
           "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/08/openbox-distros.png"
         },
         {
+          "id": "https://itsfoss.com/?p=101199",
+          "author": "Sagar Sharma",
+          "description": "Wondering how to compare files in Linux? You can use these command line and GUI utilities to compare files and folders.",
+          "link": "https://itsfoss.com/compare-files-linux-tools/",
+          "publishedOn": "2022-08-25T11:54:40.000Z",
+          "wordCount": 7967,
+          "title": "Compare Files in Linux With These Tools",
+          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/08/gui-and-cli-tools-for-comparing-files.jpg"
+        },
+        {
           "id": "https://itsfoss.com/?p=101025",
           "author": "sreenath",
           "description": "Nemo is a good file manager with plenty of features. You can further enhance your experience by using these extensions, tweaks and tips.",
@@ -1534,16 +1544,6 @@
           "wordCount": 1661,
           "title": "Top quick Steam Deck tips and tricks",
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/886192872id21414gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/08/open-source-game-development-advances-with-godot-engine-35-out-now/",
-          "author": "Liam Dawe",
-          "description": "Godot Engine, the free and open source full game development engine has a big new release available with version 3.5.",
-          "link": "https://www.gamingonlinux.com/2022/08/open-source-game-development-advances-with-godot-engine-35-out-now/",
-          "publishedOn": "2022-08-05T14:48:24.000Z",
-          "wordCount": 1142,
-          "title": "Open source game development advances with Godot Engine 3.5 out now",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/437160786id21413gol.jpg"
         }
       ]
     },
@@ -6501,46 +6501,6 @@
           "wordCount": 4743,
           "title": "Latest Sonic Origins patch takes aim at Sonic the Hedgehog 2's wonky Tails AI",
           "imageUrl": "https://assets.reedpopcdn.com/sonic-origins_o0ETtrM.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sonic-origins_o0ETtrM.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/digitalfoundry-2022-face-off-multiversus-vs-super-smash-bros-ultimate",
-          "author": "Thomas Morgan",
-          "description": "The Super Smash Bros series is a near-impossible act to follow, but that's exactly the challenge MultiVersus faces as a new, free to play Smash-like from developer Player First Games. Now in open beta on PS5, Xbox Series X, last-gen and PC, it's a 5GB download that lets anyone hop in. It's admittedly light on options - as you may expect from an open beta - but you do get to tinker with 17 characters - all fully voice-acted. Crucially, MultiVersus also launches with robust online play, built from the ground up with rollback netcode - right away giving it an edge over Super Smash Bros Ultimate's online play on Switch. It's off to a good start. Speaking purely on MultiVersus' visual design though as an Unreal Engine 4 title, how much does it get right next to Nintendo's heavyweight? And where…",
-          "link": "https://www.eurogamer.net/digitalfoundry-2022-face-off-multiversus-vs-super-smash-bros-ultimate",
-          "publishedOn": "2022-08-05T16:05:32.000Z",
-          "wordCount": 5633,
-          "title": "Face-Off: MultiVersus vs Super Smash Bros Ultimate",
-          "imageUrl": "https://assets.reedpopcdn.com/EGS_MultiVersus_PlayerFirstGames.jfif/BROK/thumbnail/1600x900/format/jpg/quality/80/EGS_MultiVersus_PlayerFirstGames.jfif"
-        },
-        {
-          "id": "https://www.eurogamer.net/steam-now-officially-supports-switchs-joy-con-controllers",
-          "author": "Matt Wales",
-          "description": "Valve continues to tinker behind the scenes with Steam and its latest client beta has officially introduced support for Nintendo's Switch Joy-Con controllers.\r\n\n\r\nAs such, those with a preference for Nintendo's dual-handed clutch capsules will now be able to use them across their PC games in a number of different configurations.\r\n\n\r\nThere's support for individual Joy-Cons, which can be used as mini gamepad, and two controllers can also be combined into pairs - as is the case on Switch - for a more traditional controller configuration.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/steam-now-officially-supports-switchs-joy-con-controllers",
-          "publishedOn": "2022-08-05T16:03:11.000Z",
-          "wordCount": 4264,
-          "title": "Steam now officially supports Switch's Joy-Con controllers",
-          "imageUrl": "https://assets.reedpopcdn.com/joy-cons.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/joy-cons.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/ea-put-liverpool-star-diogo-jotas-gamer-celebration-in-fifa-23",
-          "author": "Wesley Yin-Poole",
-          "description": "This one's a bit Inception: EA has put Liverpool star Diogo Jota's real life 'gamer' celebration in FIFA 23 - a celebration that sees Jota mimicking himself playing FIFA.\r\n\nBackground: one of my favourite video game stories of 2021 was the time when Jota had to quit a FIFA 22 tournament early to play a real-life match that afternoon - and performed a gamer celebration after scoring after just 97 seconds.\r\n\n\r\nJota celebrated by sitting down and pretending to play FIFA. (Jota continued his impressive form in front of goal by adding a second goal later in the first half. Liverpool went on to win 4-0.)\r\n \nRead more",
-          "link": "https://www.eurogamer.net/ea-put-liverpool-star-diogo-jotas-gamer-celebration-in-fifa-23",
-          "publishedOn": "2022-08-05T15:47:45.000Z",
-          "wordCount": 4659,
-          "title": "EA put Liverpool star Diogo Jota's 'gamer' celebration in FIFA 23",
-          "imageUrl": "https://assets.reedpopcdn.com/Jota_X7bJ0bs.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Jota_X7bJ0bs.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/mario-kart-8-deluxes-unmissable-second-dlc-polishes-some-of-the-series-best-tracks",
-          "author": "Tom Phillips",
-          "description": "Nintendo has finally delivered its second dollop of downloadable tracks for Mario Kart 8 Deluxe, and it's a doozy. Some of Mario Kart's finest moments are included here, alongside a few other enjoyable additions, throwbacks, and a brand-new entry. \nAs with the first wave, Nintendo has added eight courses divided into two cups. (Sadly, there's still no sign of extra kart pieces or characters, including Birdo.) And if you're not up to speed (sorry), players have already worked out what many other upcoming DLC courses will likely be. \n\r\nUp first  is New York Minute, a lively track from mobile game Mario Kart Tour's roster featuring a checklist of city landmarks. I'll get this out the way now - I am not enamoured with Mario Kart Tour, and the Mushroom Kingdom purist in me bristles at the inclusion of real-world cities. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/mario-kart-8-deluxes-unmissable-second-dlc-polishes-some-of-the-series-best-tracks",
-          "publishedOn": "2022-08-05T14:55:24.000Z",
-          "wordCount": 5374,
-          "title": "Mario Kart 8 Deluxe's unmissable second DLC polishes some of the series' best tracks",
-          "imageUrl": "https://assets.reedpopcdn.com/MK8DX_Sky-High_Sundae_Scene_2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/MK8DX_Sky-High_Sundae_Scene_2.jpg"
         }
       ]
     },
@@ -11635,26 +11595,6 @@
           "wordCount": 1621,
           "title": "Rust For Linux Kernel v9 Patches Trim Things Down Greatly For Easier Upstreaming",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/review/ryzen7-6850u-acpi",
-          "author": null,
-          "description": "As with many new Intel/AMD laptops these days, the recently launched Lenovo ThinkPad X13 Gen3 with AMD Ryzen 7 PRO 6850U \"Rembrandt\" SoC boasts ACPI Platform Profile support that is exposed under Linux for switching between low-power, balanced (default), and performance modes. For those curious about this ACPI Platform Profile impact, here are some benchmarks from this 6850U laptop under Ubuntu Linux and its impact on power and thermal efficiency too.",
-          "link": "https://www.phoronix.com/review/ryzen7-6850u-acpi",
-          "publishedOn": "2022-08-05T16:22:30.000Z",
-          "wordCount": 1369,
-          "title": "AMD Ryzen 7 PRO 6850U: ACPI Platform Profile Low-Power vs. Balanced vs. Performance",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/GNU-Binutils-2.39-Released",
-          "author": null,
-          "description": "Following the release of GNU Glibc 2.36 earlier this week, GNU Binutils 2.39 released today for this common set of binary utilities on open-source systems...",
-          "link": "https://www.phoronix.com/news/GNU-Binutils-2.39-Released",
-          "publishedOn": "2022-08-05T15:16:28.000Z",
-          "wordCount": 1299,
-          "title": "GNU Binutils 2.39 Released - ELF Linker Now Warns If A Stack Is Made Executable",
-          "imageUrl": null
         }
       ]
     },
@@ -11663,6 +11603,36 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/rpspax-west-2022-saturday-daily-round-up",
+          "author": "Rachel Watts",
+          "description": "It's been one heck of a busy day for team RPS on day two of PAX West. It's now the weekend so the show floor was significantly busier, but not enough to keep us from getting our mitts on some games. That's right, we actually played some games today!\nHave a click on the video below were we break down the day's activities and also to see us get booted out from the show floor when it closed at 7. Here's today's daily round-up:\nRead more",
+          "link": "https://www.rockpapershotgun.com/rpspax-west-2022-saturday-daily-round-up",
+          "publishedOn": "2022-09-04T04:16:49.000Z",
+          "wordCount": 4568,
+          "title": "RPS@PAX West 2022: Saturday daily round-up",
+          "imageUrl": "https://assets2.rockpapershotgun.com/C0075.MP4.18_20_04_16.Still001.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/C0075.MP4.18_20_04_16.Still001.jpg"
+        },
+        {
+          "id": "https://www.rockpapershotgun.com/rpspax-west-2022-ron-gilbert-tells-us-about-the-pirate-shenanigans-in-return-to-monkey-island",
+          "author": "Rachel Watts",
+          "description": "Today's PAX West interview is with the one and only Ron Gilbert, series creator of the iconic point-and-click adventure series, Monkey Island. We are big fans of Monkey Island here at RPS, so after watching him guest speak on the Adventure Games PAX panel today, we got a chance to chinwag with Gilbert and to chat about his upcoming comeback to the series with Return to Monkey Island.\nGilbert was lovely enough to tell us all about the next game in the Monkey Island saga -  what it was like to return to Monkey Island's world after so long, what we can expect from the puzzles, and snippets of the game's story. Watch below to see the interview in its entirety and make sure you watch to the end to see my impression of a pirate - you won't wanna miss that.\nRead more",
+          "link": "https://www.rockpapershotgun.com/rpspax-west-2022-ron-gilbert-tells-us-about-the-pirate-shenanigans-in-return-to-monkey-island",
+          "publishedOn": "2022-09-04T04:02:51.000Z",
+          "wordCount": 4711,
+          "title": "RPS@PAX West 2022: Ron Gilbert tells us about the pirate shenanigans in Return to Monkey Island",
+          "imageUrl": "https://assets2.rockpapershotgun.com/RPS%40PAX-West-2022---Ron-Gilbert-Talks-Return-To-Monkey-Island-thumbnail-6.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/RPS%40PAX-West-2022---Ron-Gilbert-Talks-Return-To-Monkey-Island-thumbnail-6.jpg"
+        },
+        {
+          "id": "https://www.rockpapershotgun.com/rpspax-west-2022-hands-on-with-souls-like-fairytale-lies-of-p",
+          "author": "Rachel Watts",
+          "description": "It's day two of PAX West and to kick off our second day of game events and demos we got hands-on with a build of Neowiz's Pinocchio RPG, Lies of P. The gameplay demo caused quite a stir when it was at Gamescom earlier this year, so we made it one of our priorities to check it out here in Seattle.\nNeowiz are not actually at PAX so there wasn't anyone on the team to give us some behind-the-scenes info, but I got stuck into the demo for a solid 30 minutes, brawling with the game's angry robot lads that roamed the city's blood-washed cobbled streets.\nOverall, I had a great time with the demo. Yes, it is incredibly similar to Bloodborne in both its combat and environments but there are plenty of other elements that steer it away from FromSoftware's horror-filled gothic RPG. If you want more details instead of that short summary then check out our video below where I talk about my time with the build, and about having my arse kicked by giant mechanical automatons. Enjoy!\nRead more",
+          "link": "https://www.rockpapershotgun.com/rpspax-west-2022-hands-on-with-souls-like-fairytale-lies-of-p",
+          "publishedOn": "2022-09-04T04:02:20.000Z",
+          "wordCount": 4634,
+          "title": "RPS@PAX West 2022: Hands-on with Souls-like fairytale Lies of P",
+          "imageUrl": "https://assets2.rockpapershotgun.com/lies-of-p-gameplay-trailer.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/lies-of-p-gameplay-trailer.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/the-93-lenovo-legion-booststation-gpu-enclosure-deal-is-back",
           "author": "Will Judd",
@@ -14872,26 +14842,6 @@
           "wordCount": 5227,
           "title": "What are we all playing this weekend?",
           "imageUrl": "https://assets2.rockpapershotgun.com/wapwpapwpapwapaw.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/wapwpapwpapwapaw.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/ultimate-audio-bang-podcast-our-favourite-fps-game-modes",
-          "author": "Ed Thorn",
-          "description": "On this week's episode of the Ultimate Audio Bang, we get all nostalgic as we pick our favourite FPS game modes over the years. It's mainly an excuse for me for me to bring up Gears Of War and it's long-forgotten Wingman mode, which I demand make a return to the series. I also learn that Hayden likes big games, big modes, and big comradery.\nRead more",
-          "link": "https://www.rockpapershotgun.com/ultimate-audio-bang-podcast-our-favourite-fps-game-modes",
-          "publishedOn": "2022-08-05T16:00:00.000Z",
-          "wordCount": 4919,
-          "title": "Ultimate Audio Bang #23: our favourite FPS game modes",
-          "imageUrl": "https://assets2.rockpapershotgun.com/gears-of-war-2-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/gears-of-war-2-header.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/descenders-is-a-bland-roguelike-but-a-lovely-mountain-biking-game",
-          "author": "Alice O'Connor",
-          "description": "I don't think I like the game Descenders ostensibly is, but I enjoy playing. It's a downhill mountain biking game with dangerous speeds and even more dangerous stunts, including leaping through a ring of fire over of a moving train. This is fun. The roguelikelike campaign structure this is all built into, eh, I don't think it has added any enjoyment. But it is very fun to stack a double-backflip, slam into a rock, and watch your ragdoll corpse rocket downhill. It's a good reminder to ride whichever way you enjoy, expectations and pressures be damned.\nRead more",
-          "link": "https://www.rockpapershotgun.com/descenders-is-a-bland-roguelike-but-a-lovely-mountain-biking-game",
-          "publishedOn": "2022-08-05T14:51:11.000Z",
-          "wordCount": 5508,
-          "title": "Descenders is a fun mountain biking game wrapped in a bland roguelike",
-          "imageUrl": "https://assets2.rockpapershotgun.com/descenders-b.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/descenders-b.jpg"
         }
       ]
     },
@@ -14900,6 +14850,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "t7J2HzjELwmqoxPSHtRTsW",
+          "author": null,
+          "description": "Whether you're looking for PC components, peripherals or prebuilt systems, these are the best deals on tech.",
+          "link": "https://www.tomshardware.com/news/best-deals-on-tech",
+          "publishedOn": "2022-09-04T04:00:34.000Z",
+          "wordCount": 21071,
+          "title": "Best Tech and PC Hardware Deals for Labor Day 2022",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/AyKdcEseyAAGGA9xr5undb.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/AyKdcEseyAAGGA9xr5undb.jpg"
+        },
         {
           "id": "MnkHezp47CSHf6YcVWJQBX",
           "author": null,
@@ -19699,81 +19664,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/HVJBf8JcMj7qJJtsHX3PG8.jpg"
-        },
-        {
-          "id": "CFteXJTkF6LaNCoUcMtUPh",
-          "author": null,
-          "description": "AMD Ryzen 7000 and AM5 motherboards are confirmed to be launching on September 15th, just a month away from now.",
-          "link": "https://www.tomshardware.com/news/ryzen-7000-launching-september-15th",
-          "publishedOn": "2022-08-05T16:21:31.000Z",
-          "wordCount": 18097,
-          "title": "AMD Ryzen 7000 Zen 4 CPUs, AM5 Motherboards Launching September 15",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/fAVXE8Cb53GdefTkTCtzbd.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/fAVXE8Cb53GdefTkTCtzbd.jpg"
-        },
-        {
-          "id": "BdGSDyASTk2aSRyzduJY38",
-          "author": null,
-          "description": "TSMC denies any changes with N3 expansion plans.",
-          "link": "https://www.tomshardware.com/news/tsmc-comments-on-intel-n3-orders-report",
-          "publishedOn": "2022-08-05T15:33:27.000Z",
-          "wordCount": 18120,
-          "title": "TSMC Comments on Intel 3nm Order Rumors: Nothing Has Changed",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/wkVR5qt7gw3ECbNgVzLhYj.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/wkVR5qt7gw3ECbNgVzLhYj.jpg"
-        },
-        {
-          "id": "5VqP2RgJypnm4YXX5bt9L6",
-          "author": null,
-          "description": "Power your rig with a Corsair RM750 (2021) PSU for $99. Get a powerful heart for your PC for less.",
-          "link": "https://www.tomshardware.com/news/corsairs-rm750-psu-is-back-down-to-dollar99-real-deals",
-          "publishedOn": "2022-08-05T15:23:17.000Z",
-          "wordCount": 20169,
-          "title": "Corsair’s RM750 PSU Is Back Down to $99: Real Deals",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/hExhgRo7nusEnUTq875QBA.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/hExhgRo7nusEnUTq875QBA.jpg"
-        },
-        {
-          "id": "5GivWBhFZyXeJUcB3Czr9X",
-          "author": null,
-          "description": "Ingenuous hacker uses Raspberry Pi and Arduino boards to output a Linux Terminal on a typewriter form the '80s.",
-          "link": "https://www.tomshardware.com/news/typewriter-hacked-with-raspberry-pi",
-          "publishedOn": "2022-08-05T15:00:44.000Z",
-          "wordCount": 18145,
-          "title": "Raspberry Pi Gives 80s-Era Typewriter a New Lease on Life",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/bjEa4iWS2wBtypoAKuPTiW.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/bjEa4iWS2wBtypoAKuPTiW.jpg"
-        },
-        {
-          "id": "4kN23jtiz8vKFvdVSv4BaW",
-          "author": null,
-          "description": "Intel's poor performance on its Arc GPUs surrounding DirectX 11 games, will be a constant issue, that will take a lot of time to work out.",
-          "link": "https://www.tomshardware.com/news/poor-dx11-performance-arc-gpus-constant-work-in-progress",
-          "publishedOn": "2022-08-05T14:39:13.000Z",
-          "wordCount": 18671,
-          "title": "Intel Confirms Poor Arc GPU DX11 Performance Is a Work in Progress",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/ubzmHVCKsZEqsuZm8qgAja.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/ubzmHVCKsZEqsuZm8qgAja.jpg"
         }
       ]
     },
@@ -19782,6 +19672,16 @@
       "feedUrl": "https://planet.debian.org/rss20.xml",
       "siteUrl": "https://planet.debian.org/",
       "articles": [
+        {
+          "id": "http://www.netfort.gr.jp/~dancer/diary/daily/2022-Sep-4.html.en#2022-Sep-4-11:28:43",
+          "author": null,
+          "description": "September. Digging into why my apt-get doesn't complete.",
+          "link": "http://www.netfort.gr.jp/~dancer/diary/daily/2022-Sep-4.html.en#2022-Sep-4-11:28:43",
+          "publishedOn": "2022-09-04T02:28:43.000Z",
+          "wordCount": 48,
+          "title": "Junichi Uekawa: September.",
+          "imageUrl": null
+        },
         {
           "id": "http://www.joachim-breitner.de/blog/792-More_recursive_definitions",
           "author": "mail@joachim-breitner.de (Joachim Breitner)",
@@ -20340,16 +20240,6 @@
           "publishedOn": "2022-08-06T18:52:00.000Z",
           "wordCount": 898,
           "title": "Dirk Eddelbuettel: RcppCCTZ 0.2.11 on CRAN: Updates",
-          "imageUrl": null
-        },
-        {
-          "id": "http://blog.alteholz.eu/?p=1433",
-          "author": null,
-          "description": "FTP master\nThis month I accepted 420 and rejected 44 packages. The overall number of packages that got accepted was 422.\nI am sad to write the following lines, but unfortunately there are people who rather take advantage of others instead of doing a proper maintenance of their packages.\nSo, in order to find time slots for as much packages in NEW as possible, I no longer write a debian/copyright for others. I know it is a boring task to collect the copyright information, but our policy still requires this. Of course nobody is perfect and certainly one or the other license or copyright holder can be overlooked. Luckily most of the contributors maintain their debian/copyright very thouroughly with a terrific result.\nOn the other hand some contributors upload only some crap and demand that I e…",
-          "link": "http://blog.alteholz.eu/2022/08/my-debian-activities-in-july-2022/",
-          "publishedOn": "2022-08-05T15:43:54.000Z",
-          "wordCount": 938,
-          "title": "Thorsten Alteholz: My Debian Activities in July 2022",
           "imageUrl": null
         }
       ]
@@ -23535,36 +23425,6 @@
           "wordCount": 1699,
           "title": "Twitter says Musk’s spam analysis used tool that called his own account a bot",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/muskbots-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1871742",
-          "author": "Eric Berger",
-          "description": "\"We've made a few key decisions.\"",
-          "link": "https://arstechnica.com/?p=1871742",
-          "publishedOn": "2022-08-05T16:25:46.000Z",
-          "wordCount": 1587,
-          "title": "As losses mount, Astra announces a radical pivot to a larger launch vehicle",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/FUvciCXXEAMXIoN-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1871790",
-          "author": "Kevin Purdy",
-          "description": "This $55 module could put a homebrew router into the palm of your hand (literally).",
-          "link": "https://arstechnica.com/?p=1871790",
-          "publishedOn": "2022-08-05T15:42:11.000Z",
-          "wordCount": 1327,
-          "title": "This 6-inch board turns a Raspberry Pi module into a DIY router",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/cm4_router-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1871788",
-          "author": "Ron Amadeo",
-          "description": "Amazon says it wants to help customers handle chores like vacuuming.",
-          "link": "https://arstechnica.com/?p=1871788",
-          "publishedOn": "2022-08-05T14:40:31.000Z",
-          "wordCount": 1407,
-          "title": "Amazon buys Roomba maker for $1.7 billion",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/j755020_11-760x380.jpg"
         }
       ]
     },
@@ -26712,26 +26572,6 @@
           "wordCount": 1795,
           "title": "Sämre kvartal för Square Enix, räddas delvis av Final Fantasy XIV",
           "imageUrl": "https://www.fz.se/artikel/og-image/291023"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291022",
-          "author": null,
-          "description": "Kliver in i ett finrum med andra storheter.",
-          "link": "https://www.fz.se/artikel/291022-dark-souls-och-elden-ring-regissoren-hidetaka-miyazaki-prisas-for-sitt-livsverk",
-          "publishedOn": "2022-08-05T16:13:00.000Z",
-          "wordCount": 1798,
-          "title": "Dark Souls- och Elden Ring-regissören Hidetaka Miyazaki prisas för sitt livsverk",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291022"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291019",
-          "author": null,
-          "description": "Björnbestyr, pizzaälskande skölpaddor, vilsna katter med mera. Det blir en fin spelhelg.",
-          "link": "https://www.fz.se/artikel/291019-det-har-spelar-fz-i-helgen-vad-spelar-du",
-          "publishedOn": "2022-08-05T15:00:00.000Z",
-          "wordCount": 1873,
-          "title": "Det här spelar FZ i helgen - Vad spelar du?",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291019"
         }
       ]
     },
@@ -28299,16 +28139,6 @@
           "wordCount": 1668,
           "title": "Helgsnack: När byter du ut din kringutrustning?",
           "imageUrl": "https://www.sweclockers.com/artikel/34713/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34712",
-          "author": null,
-          "description": "Fredagspanelen får åter finbesök @wittwang, som tillsammans med Noelia avhandlar omsusad Ryzen 7000-lansering i september och kritiserade drivrutiner.",
-          "link": "https://www.sweclockers.com/artikel/34712-fredagspanelen-262-ryzen-narmar-sig-och-arc-far-bannor",
-          "publishedOn": "2022-08-05T16:00:00.000Z",
-          "wordCount": 1494,
-          "title": "Fredagspanelen 262: Ryzen närmar sig och Arc får bannor",
-          "imageUrl": "https://www.sweclockers.com/artikel/34712/og-image"
         }
       ]
     },
@@ -33677,26 +33507,6 @@
           "wordCount": 1409,
           "title": "Fancy a freshened up SLAX or ChromeOS replacement Peppermint OS?",
           "imageUrl": "https://regmedia.co.uk/2022/08/05/slax-15-desktop.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/05/amazon_robot_ecommerce_giant_buys/",
-          "author": null,
-          "description": "<h4>Bezos empire continues to clean up, but did it pick the proper postulates?</h4> <p><strong>Updated</strong>  Megacorp Amazon wants to buy iRobot, a company that is best known for its Roomba autonomous vacuum cleaner.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/05/amazon_robot_ecommerce_giant_buys/",
-          "publishedOn": "2022-08-05T15:30:08.000Z",
-          "wordCount": 1433,
-          "title": "Amazon buys Roomba maker iRobot for $1.7b",
-          "imageUrl": "https://regmedia.co.uk/2017/07/25/roomba.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/05/pcie_50_ssds_cxl_30/",
-          "author": null,
-          "description": "<h4>Folk of flash meet in person as Compute Express Link 3.0 debuts</h4> <p><strong>Flash Memory Summit</strong>  The Flash Memory Summit 2022 was held as an in-person event again this week for the first time since 2019, at the Santa Clara Convention Center San Francisco, showcasing the latest developments in memory and storage.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/05/pcie_50_ssds_cxl_30/",
-          "publishedOn": "2022-08-05T15:05:10.000Z",
-          "wordCount": 1876,
-          "title": "Flash memory vendors unveil PCIe 5.0 SSDs, latest spec for CXL interconnect tech",
-          "imageUrl": "https://regmedia.co.uk/2022/08/05/238_layer_nand.jpg"
         }
       ]
     }
