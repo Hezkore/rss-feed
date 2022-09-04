@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-04T17:23:05.009Z</updated>
+    <updated>2022-09-04T18:27:25.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Specifikationer för Core 13000 "Raptor Lake" hittar ut på webben]]></title>
+        <id>https://www.sweclockers.com/artikel/34865</id>
+        <link href="https://www.sweclockers.com/artikel/34865-specifikationer-for-core-13000-raptor-lake-hittar-ut-pa-webben"/>
+        <updated>2022-09-04T17:45:55.000Z</updated>
+        <summary type="html"><![CDATA[Turbofrekvenser och andra specifikationer trängs i de tabeller som Wccftech nu publicerar, som i mångt och mycket återupprepar tidigare rykten.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux 6.1 Default Kernel Config To Warn At Boot Of W+X Mappings]]></title>
         <id>https://www.phoronix.com/news/Linux-6.1-Warn-WX-Defconfig</id>
