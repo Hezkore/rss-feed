@@ -9588,16 +9588,6 @@
           "wordCount": 4580,
           "title": "Zenless Zone Zero's beta test shows some flashy looking gameplay",
           "imageUrl": "https://asset.vg247.com/zenless-zone-zero_obqWbPP.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/zenless-zone-zero_obqWbPP.jpg"
-        },
-        {
-          "id": "https://www.vg247.com/multiversus-hitbox-hurtbox-overhaul",
-          "author": "Oisin Kuhnke",
-          "description": "According to MultiVersus director Tony Huynh, the game's hitbox and hurtbox system is going to get a \"big overhaul.\"\nWe've had our hands on the Smash Bros-like MultiVersus for coming up to two weeks now, so obviously the team at Player First Games will have a stronger idea of what does and doesn't need changing. And based on what Huynh is saying, as spotted by VGC, it's the hitbox and hurtbox system that needs some big changes.\nIn response to a follower asking if Finn would be receiving a particular nerf, Huynh said \"We’ll be looking at Finn in sections, we are working on a big overhaul of our hitbox/hurtbox system so don’t want too many moving parts.\"\n Read more",
-          "link": "https://www.vg247.com/multiversus-hitbox-hurtbox-overhaul",
-          "publishedOn": "2022-08-07T09:37:01.000Z",
-          "wordCount": 4594,
-          "title": "MultiVersus' hitbox and hurtbox system is getting a \"big overhaul\"",
-          "imageUrl": "https://asset.vg247.com/multiversus_10.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/multiversus_10.jpg"
         }
       ]
     },
@@ -11874,36 +11864,6 @@
           "publishedOn": "2022-08-07T10:53:51.000Z",
           "wordCount": 1322,
           "title": "RADV Lands Rewritten Acceleration Structures For Ray-Tracing In Mesa 22.3",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/BUS1-r-linux",
-          "author": null,
-          "description": "BUS1 started out as a Linux kernel IPC module following the failure of KDBUS and while there still are occasional commits to that out-of-tree BUS1 kernel module, the involved (Red Hat) developers have been primarily working on Dbus-Broker as the high performance, user-space D-Bus implementation that delivers greater speed and reliability over the reference D-Bus code. Now also popping up under the BUS1 umbrella is \"r-linux\" as a Rust-written, capability-based Linux runtime...",
-          "link": "https://www.phoronix.com/news/BUS1-r-linux",
-          "publishedOn": "2022-08-07T10:09:18.000Z",
-          "wordCount": 1453,
-          "title": "BUS1 Working On \"r-linux\" - A Rust Capability-Based Linux Runtime",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.0-RISC-V",
-          "author": null,
-          "description": "Each new kernel cycle there continues to be more maturity to the RISC-V processor architecture code. With Linux 6.0 there are a few new features wired up as well as bug fixes / clean-ups...",
-          "link": "https://www.phoronix.com/news/Linux-6.0-RISC-V",
-          "publishedOn": "2022-08-07T09:53:07.000Z",
-          "wordCount": 1327,
-          "title": "RISC-V With Linux 6.0 Improves Svpbmt, More Useful Default Kernel Configuration",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.0-ACPI-PM",
-          "author": null,
-          "description": "The ACPI and power management changes for the in-development Linux 6.0 landed this week with continued preparations for upcoming Intel and AMD hardware as well as improving existing hardware support...",
-          "link": "https://www.phoronix.com/news/Linux-6.0-ACPI-PM",
-          "publishedOn": "2022-08-07T09:39:21.000Z",
-          "wordCount": 1631,
-          "title": "Linux 6.0 Fixes Broken Keyboards On Ryzen 6000 Laptops, Power Management Additions",
           "imageUrl": null
         }
       ]
@@ -15212,16 +15172,6 @@
           "wordCount": 4706,
           "title": "Street Fighter 6 announces newcomer Kimberly and the return of Juri",
           "imageUrl": "https://assets2.rockpapershotgun.com/kimberly_ss04.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/kimberly_ss04.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/the-sunday-papers-649",
-          "author": "Ed Thorn",
-          "description": "Sundays are for indulging in a Walkers grab bag. Before you reach in, let's read this week's best writing about games (and game related things).\n Read more",
-          "link": "https://www.rockpapershotgun.com/the-sunday-papers-649",
-          "publishedOn": "2022-08-07T10:00:00.000Z",
-          "wordCount": 5149,
-          "title": "The Sunday Papers",
-          "imageUrl": "https://assets2.rockpapershotgun.com/the-sunday-papers-big.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/the-sunday-papers-big.jpg"
         }
       ]
     },
@@ -15230,6 +15180,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "bxjmoqMhuTVSskubvHtWJE",
+          "author": null,
+          "description": "Intel details features and capabilities of Arc A770 8GB and 16GB boards, Arc 750 cards.",
+          "link": "https://www.tomshardware.com/news/intel-arc-a770-to-launch-very-soon",
+          "publishedOn": "2022-09-05T20:59:39.000Z",
+          "wordCount": 18114,
+          "title": "Intel: Arc A770 GPUs Will Launch “Very Soon”",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/4jq9rXGAKE5hWUY376hbBC.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/4jq9rXGAKE5hWUY376hbBC.jpg"
+        },
         {
           "id": "WpZXEeqNuehgf96rMyZ3YR",
           "author": null,

@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-05T21:20:46.334Z</updated>
+    <updated>2022-09-05T22:24:08.965Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel: Arc A770 GPUs Will Launch “Very Soon”]]></title>
+        <id>bxjmoqMhuTVSskubvHtWJE</id>
+        <link href="https://www.tomshardware.com/news/intel-arc-a770-to-launch-very-soon"/>
+        <updated>2022-09-05T20:59:39.000Z</updated>
+        <summary type="html"><![CDATA[Intel details features and capabilities of Arc A770 8GB and 16GB boards, Arc 750 cards.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Want a fancy box with 15 programmable buttons? Elgato's Stream Deck MK.2 is 30% off]]></title>
         <id>https://www.rockpapershotgun.com/want-a-fancy-box-with-15-programmable-buttons-elgatos-stream-deck-mk2-is-30-off</id>
@@ -38329,60 +38339,6 @@ Sarah Arellano, who has done work for Blizzard and Volition, announced the news 
         <summary type="html"><![CDATA[The first beta test for Zenless Zone Zero is underway, and gameplay has started appearing online giving us a first proper look.
 First revealed back in May, Zenless Zone Zero is the next big title from HoYoverse, obviously best known for the insatiably popular Genshin Impact. There's been tasty morsels of gameplay shown here and there since its announcement, but never anything too substantial. August 5 saw the start of the game's first beta test however, and so far it's looking pretty action packed based on gameplay shared online (thanks, PCGamer).
 Where Genshin Impact's genre is obviously fantasy, Zenless Zone Zero is much more modern, with some strong Jet Set Radio and The World Ends With You vibes. It also differs in that it's a roguelike, where you explore areas called Hollows to take down monsters. It seems that each mission is made up of various screens, in the very literal TV sense, which each contain their own levels.
- Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BUS1 Working On "r-linux" - A Rust Capability-Based Linux Runtime]]></title>
-        <id>https://www.phoronix.com/news/BUS1-r-linux</id>
-        <link href="https://www.phoronix.com/news/BUS1-r-linux"/>
-        <updated>2022-08-07T10:09:18.000Z</updated>
-        <summary type="html"><![CDATA[BUS1 started out as a Linux kernel IPC module following the failure of KDBUS and while there still are occasional commits to that out-of-tree BUS1 kernel module, the involved (Red Hat) developers have been primarily working on Dbus-Broker as the high performance, user-space D-Bus implementation that delivers greater speed and reliability over the reference D-Bus code. Now also popping up under the BUS1 umbrella is "r-linux" as a Rust-written, capability-based Linux runtime...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Sunday Papers]]></title>
-        <id>https://www.rockpapershotgun.com/the-sunday-papers-649</id>
-        <link href="https://www.rockpapershotgun.com/the-sunday-papers-649"/>
-        <updated>2022-08-07T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sundays are for indulging in a Walkers grab bag. Before you reach in, let's read this week's best writing about games (and game related things).
- Read more]]></summary>
-        <author>
-            <name>Ed Thorn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RISC-V With Linux 6.0 Improves Svpbmt, More Useful Default Kernel Configuration]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.0-RISC-V</id>
-        <link href="https://www.phoronix.com/news/Linux-6.0-RISC-V"/>
-        <updated>2022-08-07T09:53:07.000Z</updated>
-        <summary type="html"><![CDATA[Each new kernel cycle there continues to be more maturity to the RISC-V processor architecture code. With Linux 6.0 there are a few new features wired up as well as bug fixes / clean-ups...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.0 Fixes Broken Keyboards On Ryzen 6000 Laptops, Power Management Additions]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.0-ACPI-PM</id>
-        <link href="https://www.phoronix.com/news/Linux-6.0-ACPI-PM"/>
-        <updated>2022-08-07T09:39:21.000Z</updated>
-        <summary type="html"><![CDATA[The ACPI and power management changes for the in-development Linux 6.0 landed this week with continued preparations for upcoming Intel and AMD hardware as well as improving existing hardware support...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MultiVersus' hitbox and hurtbox system is getting a "big overhaul"]]></title>
-        <id>https://www.vg247.com/multiversus-hitbox-hurtbox-overhaul</id>
-        <link href="https://www.vg247.com/multiversus-hitbox-hurtbox-overhaul"/>
-        <updated>2022-08-07T09:37:01.000Z</updated>
-        <summary type="html"><![CDATA[According to MultiVersus director Tony Huynh, the game's hitbox and hurtbox system is going to get a "big overhaul."
-We've had our hands on the Smash Bros-like MultiVersus for coming up to two weeks now, so obviously the team at Player First Games will have a stronger idea of what does and doesn't need changing. And based on what Huynh is saying, as spotted by VGC, it's the hitbox and hurtbox system that needs some big changes.
-In response to a follower asking if Finn would be receiving a particular nerf, Huynh said "We’ll be looking at Finn in sections, we are working on a big overhaul of our hitbox/hurtbox system so don’t want too many moving parts."
  Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
