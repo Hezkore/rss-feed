@@ -9597,6 +9597,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/PHP-8.2-RC1-Released",
+          "author": null,
+          "description": "After a series of alpha and beta releases over the past several months, out this past week is the first release candidate of the upcoming PHP 8.2...",
+          "link": "https://www.phoronix.com/news/PHP-8.2-RC1-Released",
+          "publishedOn": "2022-09-05T20:03:39.000Z",
+          "wordCount": 1286,
+          "title": "PHP 8.2 RC1 Released With Various Fixes & Improvements",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/RADV-Mesa-Lands-EXT_mesh_shader",
           "author": null,
           "description": "Being merged a few minutes ago into Mesa 22.3 is the Radeon Vulkan driver \"RADV\" support for the recently ratified mesh shader extension...",
@@ -34077,16 +34087,6 @@
           "wordCount": 1949,
           "title": "India proposes increased power to vet tech mergers",
           "imageUrl": "https://regmedia.co.uk/2022/02/17/shutterstock_asia_pacific.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/07/in_breif_ai/",
-          "author": null,
-          "description": "<h4>Plus: Meta launches prototype AI chatbot, and cities reverse facial recognition bans</h4> <p><strong>In brief</strong>  The UK's Home Office and Ministry of Justice want migrants with criminal convictions to scan their faces up to five times a day using a smartwatch kitted out with facial-recognition software.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/07/in_breif_ai/",
-          "publishedOn": "2022-08-07T08:21:11.000Z",
-          "wordCount": 1788,
-          "title": "UK wants criminal migrants to scan their faces up to five times a day using a watch",
-          "imageUrl": "https://regmedia.co.uk/2022/08/06/shutterstock_smartwatch.jpg"
         }
       ]
     }

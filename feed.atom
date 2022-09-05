@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-05T19:18:24.725Z</updated>
+    <updated>2022-09-05T20:24:54.489Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PHP 8.2 RC1 Released With Various Fixes & Improvements]]></title>
+        <id>https://www.phoronix.com/news/PHP-8.2-RC1-Released</id>
+        <link href="https://www.phoronix.com/news/PHP-8.2-RC1-Released"/>
+        <updated>2022-09-05T20:03:39.000Z</updated>
+        <summary type="html"><![CDATA[After a series of alpha and beta releases over the past several months, out this past week is the first release candidate of the upcoming PHP 8.2...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Löfte: nya Perfect Dark inte i fara]]></title>
         <id>https://www.fz.se/artikel/291356</id>
@@ -38346,16 +38356,6 @@ In response to a follower asking if Finn would be receiving a particular nerf, H
         <summary type="html"><![CDATA[Mer cyberpunk åt folket!]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK wants criminal migrants to scan their faces up to five times a day using a watch]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/07/in_breif_ai/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/07/in_breif_ai/"/>
-        <updated>2022-08-07T08:21:11.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Plus: Meta launches prototype AI chatbot, and cities reverse facial recognition bans</h4> <p><strong>In brief</strong>  The UK's Home Office and Ministry of Justice want migrants with criminal convictions to scan their faces up to five times a day using a smartwatch kitted out with facial-recognition software.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
