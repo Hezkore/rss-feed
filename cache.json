@@ -286,6 +286,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/09/the-kubuntu-focus-nx-is-a-small-and-mighty-linux-desktop/",
+          "author": "Liam Dawe",
+          "description": "The Kubuntu Focus team recently announced the Kubuntu Focus NX, a small but surprisingly mighty little Linux desktop.",
+          "link": "https://www.gamingonlinux.com/2022/09/the-kubuntu-focus-nx-is-a-small-and-mighty-linux-desktop/",
+          "publishedOn": "2022-09-05T13:07:40.000Z",
+          "wordCount": 1200,
+          "title": "The Kubuntu Focus NX is a small and mighty Linux desktop",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1602799824id21545gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/09/jsaux-announce-their-new-steam-deck-dock-with-an-m2-ssd-slot/",
           "author": "Liam Dawe",
           "description": "Need more storage space for your Steam Deck when docked up to a TV or monitor? JSAUX have returned with their next-generation Steam Deck Dock and it sounds pretty interesting.",
@@ -1562,6 +1572,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/elden-ring-mod-adds-lord-of-the-rings-sauron-to-the-fight",
+          "author": "Victoria Kennedy",
+          "description": "The Lord of the Rings' primary antagonist Sauron has come to Elden Ring thanks to a new armour mod. \r\n\n\r\nThe mod comes from MaxTheMiracle, and reskins the player with Sauron's black armour and  humanoid figure seen in the likes of Peter Jackson's The Lord of the Rings film adaptations (but without that imposing height).\r\n\n\r\nThis mod is still in its early days, but has been released to coincide with Amazon's Rings of Power series. As such, the current weapon moveset used within this mod is borrowed from another mod, as work on it continues behind the scenes.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/elden-ring-mod-adds-lord-of-the-rings-sauron-to-the-fight",
+          "publishedOn": "2022-09-05T12:52:18.000Z",
+          "wordCount": 4586,
+          "title": "Elden Ring mod adds Lord of the Rings' Sauron to the fight",
+          "imageUrl": "https://assets.reedpopcdn.com/sauron-lotr.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sauron-lotr.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/perfect-dark-not-in-trouble-microsoft-says-despite-crystal-dynamics-involvement",
           "author": "Ed Nightingale",
@@ -15021,6 +15041,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "BYKb2QDeeHWcRQHoVjiGte",
+          "author": null,
+          "description": "It is interesting to see some performance uplift in the iGPU, but it is only about 2 or 3% faster than the UHD Graphics 770 in the Core i9-12900 processors.",
+          "link": "https://www.tomshardware.com/news/raptor-lake-igpu-catches-up-to-amd-vega-10-in-opengl-benchmark",
+          "publishedOn": "2022-09-05T13:19:58.000Z",
+          "wordCount": 17885,
+          "title": "Raptor Lake iGPU Catches Up To AMD Vega 10 In OpenGL Benchmark",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/ojtu8JsCRWpJeRnodaAZTV.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/ojtu8JsCRWpJeRnodaAZTV.png"
+        },
+        {
           "id": "zqfM6jRt9D2epuqB9n8KLm",
           "author": null,
           "description": "Biostar’s B660M Silver is a well-appointed budget Micro ATX board that costs under $160. You get two PCIe 4.0 x4 M.2 sockets, four SATA ports, a premium audio codec, and a rear IO panel full of USB ports. There is stiff competition around this price, however.",
@@ -23489,6 +23524,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291353",
+          "author": null,
+          "description": "Spelläget som inte blir av.",
+          "link": "https://www.fz.se/artikel/291353-halo-infinite-bugg-later-spelare-kora-co-op-i-split-screen",
+          "publishedOn": "2022-09-05T13:02:00.000Z",
+          "wordCount": 1901,
+          "title": "Halo Infinite-bugg låter spelare köra co-op i split-screen",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291353"
+        },
+        {
           "id": "https://www.fz.se/artikel/291352",
           "author": null,
           "description": "Ännu ett tecken på att GTA VI-avslöjande närmar sig?",
@@ -28883,6 +28928,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/05/in-brief-secuirty/",
+          "author": null,
+          "description": "<h4>Also, Microsoft’s one-click TikTok trick, a 14-year old Aussie cracks ASD encryption in an hour, and more</h4> <p><strong>In brief</strong>  NATO officials are investigating after criminals put up some data for sale on dark forums that they claim is \"classified\" information stolen from European missile maker MBDA.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/05/in-brief-secuirty/",
+          "publishedOn": "2022-09-05T13:04:07.000Z",
+          "wordCount": 2390,
+          "title": "NATO investigates after criminals claim to be selling its stolen missile plans",
+          "imageUrl": "https://regmedia.co.uk/2015/07/08/missile_873647634645.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/05/nasa_sls_northrop_grumman/",
           "author": null,
