@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-05T06:04:59.319Z</updated>
+    <updated>2022-09-05T07:34:35.257Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft: The deadline to get off Basic Auth is approaching]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/05/microsoft_basic_auth_deadline/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/05/microsoft_basic_auth_deadline/"/>
+        <updated>2022-09-05T07:27:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Exchange Online face Halloween deadline</h4> <p>Don't say you weren't warned.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reservdelar till telefoner kan bli EU-krav]]></title>
+        <id>https://www.sweclockers.com/artikel/34869</id>
+        <link href="https://www.sweclockers.com/artikel/34869-reservdelar-till-telefoner-kan-bli-eu-krav"/>
+        <updated>2022-09-05T07:15:09.000Z</updated>
+        <summary type="html"><![CDATA[I EU-kommissionens senaste förslag återfinns krav på tillverkare att erbjuda 15 olika reservdelar i upp till 5 år. Därtill ställs högre krav på batterier.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft mistakenly rated Chromium, Electron, as malware]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/05/windows_defender_chrome_false_positive/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/05/windows_defender_chrome_false_positive/"/>
+        <updated>2022-09-05T06:57:12.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Windows Defender update fixed the mess after a weekend of false positive weirdness</h4> <p>Microsoft appears to have fixed a problem that saw its Defender antivirus program identify apps based on the Chromium browser engine and/or Electron JavaScript framework as malware, and suggest users remove them.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Quarry-utvecklaren Supermassive har börjat jobba på nästa spel]]></title>
+        <id>https://www.fz.se/artikel/291346</id>
+        <link href="https://www.fz.se/artikel/291346-the-quarry-utvecklaren-supermassive-har-borjat-jobba-pa-nasta-spel"/>
+        <updated>2022-09-05T06:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Och de fortsätter på skräcktemat.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Salesperson's tech dream delivered by ill-equipped consultant who charged for the inevitable fix]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/05/who_me/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/05/who_me/"/>
+        <updated>2022-09-05T06:32:12.000Z</updated>
+        <summary type="html"><![CDATA[<h4>‘I had a sharp new suit and a misplaced sense of confidence’ – and made a costly mistake</h4> <p>Before you shell out big bucks to engage the services of consultants, perhaps consider this week’s instalment of <a target="_blank" href="https://www.theregister.com/Tag/Who,%20Me?/">Who, Me?</a> and the adventures of a reader we’ll call “Norman” for the duration of this tale.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google tests alternative payment methods in Play store]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/05/google_play_alternative_payments_test/</id>
@@ -37428,45 +37478,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<h4>Plus: That Twitter privacy leak, scammers send Ubers for victims, critical flaw in Cisco gear, and more</h4> <p><strong>In brief</strong>  DuckDuckGo has finally mostly cracked down on the third-party Microsoft tracking scripts that got the alternative search engine into hot water earlier this year.…</p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dirk Eddelbuettel: RcppCCTZ 0.2.11 on CRAN: Updates]]></title>
-        <id>http://dirk.eddelbuettel.com/blog/2022/08/06#rcppcctz_0.2.11</id>
-        <link href="http://dirk.eddelbuettel.com/blog/2022/08/06#rcppcctz_0.2.11"/>
-        <updated>2022-08-06T18:52:00.000Z</updated>
-        <summary type="html"><![CDATA[A new release 0.2.11 of RcppCCTZ is now on CRAN.
-RcppCCTZ uses Rcpp to bring CCTZ to R. CCTZ is a C++ library for translating between absolute and civil times using the rules of a time zone. In fact, it is two libraries. One for dealing with civil time: human-readable dates and times, and one for converting between between absolute and civil times via time zones. And while CCTZ is made by Google(rs), it is not an official Google product. The RcppCCTZ page has a few usage examples and details. This package was the first CRAN package to use CCTZ; by now four others packages include its sources too. Not ideal, but beyond our control.
-This version updates the include headers used in the interface API header thanks to a PR by Jing Lu, updates to upstream changes, and switched r-ci CI to r2u.
-Changes in version 0.2.11 (2022-08-06)
-More specific includes in RcppCCTZ_API.h (Jing Lu in #42 closing #41).
-
-
-Synchronized with upstream CCTZ (Dirk in #43).
-
-
-Switched r-ci to r2u use.
-
-
-
-Courtesy of my CRANberries, there is also a diffstat to the previous version. More details are at the RcppCCTZ page; code, issue tickets etc at the GitHub repository.
-If you like this or other open-source work I do, you can now sponsor me at GitHub.
-Dirk Eddelbuettel originated on his Thinking inside the box blog. Please report excessive re-aggregation in third-party for-profit settings.]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Support for Nintendo Joy-Con controllers added to Steam]]></title>
-        <id>https://www.vg247.com/support-for-nintendo-joy-con-controllers-added-to-steam</id>
-        <link href="https://www.vg247.com/support-for-nintendo-joy-con-controllers-added-to-steam"/>
-        <updated>2022-08-06T18:47:35.000Z</updated>
-        <summary type="html"><![CDATA[Quick bit of news for you: Steam now supports Nintendo Switch's Joy-Con controllers.
-Support was added by Valve via the latest Steam Client Beta which was released earlier this week.
-The update supports the controllers both individually as a mini-gamepad and combined into pairs.
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
         </author>
     </entry>
 </feed>

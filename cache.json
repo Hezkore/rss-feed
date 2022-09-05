@@ -9258,16 +9258,6 @@
           "wordCount": 4594,
           "title": "MultiVersus' hitbox and hurtbox system is getting a \"big overhaul\"",
           "imageUrl": "https://asset.vg247.com/multiversus_10.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/multiversus_10.jpg"
-        },
-        {
-          "id": "https://www.vg247.com/support-for-nintendo-joy-con-controllers-added-to-steam",
-          "author": "Stephany Nunneley",
-          "description": "Quick bit of news for you: Steam now supports Nintendo Switch's Joy-Con controllers.\nSupport was added by Valve via the latest Steam Client Beta which was released earlier this week.\nThe update supports the controllers both individually as a mini-gamepad and combined into pairs.\n Read more",
-          "link": "https://www.vg247.com/support-for-nintendo-joy-con-controllers-added-to-steam",
-          "publishedOn": "2022-08-06T18:47:35.000Z",
-          "wordCount": 4331,
-          "title": "Support for Nintendo Joy-Con controllers added to Steam",
-          "imageUrl": "https://asset.vg247.com/joy_con.png/BROK/thumbnail/1600x900/format/jpg/quality/80/joy_con.png"
         }
       ]
     },
@@ -20091,16 +20081,6 @@
           "wordCount": 856,
           "title": "Dirk Eddelbuettel: RApiSerialize 0.1.1 on CRAN: Updates",
           "imageUrl": null
-        },
-        {
-          "id": "http://dirk.eddelbuettel.com/blog/2022/08/06#rcppcctz_0.2.11",
-          "author": null,
-          "description": "A new release 0.2.11 of RcppCCTZ is now on CRAN.\nRcppCCTZ uses Rcpp to bring CCTZ to R. CCTZ is a C++ library for translating between absolute and civil times using the rules of a time zone. In fact, it is two libraries. One for dealing with civil time: human-readable dates and times, and one for converting between between absolute and civil times via time zones. And while CCTZ is made by Google(rs), it is not an official Google product. The RcppCCTZ page has a few usage examples and details. This package was the first CRAN package to use CCTZ; by now four others packages include its sources too. Not ideal, but beyond our control.\nThis version updates the include headers used in the interface API header thanks to a PR by Jing Lu, updates to upstream changes, and switched r-ci CI to r2u.\nChanges in version 0.2.11 (2022-08-06)\nMore specific includes in RcppCCTZ_API.h (Jing Lu in #42 closing #41).\n\n\nSynchronized with upstream CCTZ (Dirk in #43).\n\n\nSwitched r-ci to r2u use.\n\n\n\nCourtesy of my CRANberries, there is also a diffstat to the previous version. More details are at the RcppCCTZ page; code, issue tickets etc at the GitHub repository.\nIf you like this or other open-source work I do, you can now sponsor me at GitHub.\nDirk Eddelbuettel originated on his Thinking inside the box blog. Please report excessive re-aggregation in third-party for-profit settings.",
-          "link": "http://dirk.eddelbuettel.com/blog/2022/08/06#rcppcctz_0.2.11",
-          "publishedOn": "2022-08-06T18:52:00.000Z",
-          "wordCount": 898,
-          "title": "Dirk Eddelbuettel: RcppCCTZ 0.2.11 on CRAN: Updates",
-          "imageUrl": null
         }
       ]
     },
@@ -23223,6 +23203,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291346",
+          "author": null,
+          "description": "Och de fortsätter på skräcktemat.",
+          "link": "https://www.fz.se/artikel/291346-the-quarry-utvecklaren-supermassive-har-borjat-jobba-pa-nasta-spel",
+          "publishedOn": "2022-09-05T06:57:00.000Z",
+          "wordCount": 1934,
+          "title": "The Quarry-utvecklaren Supermassive har börjat jobba på nästa spel",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291346"
+        },
         {
           "id": "https://www.fz.se/artikel/291345",
           "author": null,
@@ -26381,6 +26371,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34869",
+          "author": null,
+          "description": "I EU-kommissionens senaste förslag återfinns krav på tillverkare att erbjuda 15 olika reservdelar i upp till 5 år. Därtill ställs högre krav på batterier.",
+          "link": "https://www.sweclockers.com/artikel/34869-reservdelar-till-telefoner-kan-bli-eu-krav",
+          "publishedOn": "2022-09-05T07:15:09.000Z",
+          "wordCount": 1682,
+          "title": "Reservdelar till telefoner kan bli EU-krav",
+          "imageUrl": "https://www.sweclockers.com/artikel/34869/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34868",
           "author": null,
           "description": "Böjbara skärmar och färska processorer är de största händelserna när startskottet för teknikhösten 2022 ljuder. Sätter du full pott?",
@@ -28538,6 +28538,36 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/05/microsoft_basic_auth_deadline/",
+          "author": null,
+          "description": "<h4>Exchange Online face Halloween deadline</h4> <p>Don't say you weren't warned.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/05/microsoft_basic_auth_deadline/",
+          "publishedOn": "2022-09-05T07:27:07.000Z",
+          "wordCount": 1697,
+          "title": "Microsoft: The deadline to get off Basic Auth is approaching",
+          "imageUrl": "https://regmedia.co.uk/2017/05/12/shutterstock_181596782.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/05/windows_defender_chrome_false_positive/",
+          "author": null,
+          "description": "<h4>Windows Defender update fixed the mess after a weekend of false positive weirdness</h4> <p>Microsoft appears to have fixed a problem that saw its Defender antivirus program identify apps based on the Chromium browser engine and/or Electron JavaScript framework as malware, and suggest users remove them.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/05/windows_defender_chrome_false_positive/",
+          "publishedOn": "2022-09-05T06:57:12.000Z",
+          "wordCount": 1185,
+          "title": "Microsoft mistakenly rated Chromium, Electron, as malware",
+          "imageUrl": "https://regmedia.co.uk/2022/09/05/shutterstock_classic_windows_fail_button.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/05/who_me/",
+          "author": null,
+          "description": "<h4>‘I had a sharp new suit and a misplaced sense of confidence’ – and made a costly mistake</h4> <p>Before you shell out big bucks to engage the services of consultants, perhaps consider this week’s instalment of <a target=\"_blank\" href=\"https://www.theregister.com/Tag/Who,%20Me?/\">Who, Me?</a> and the adventures of a reader we’ll call “Norman” for the duration of this tale.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/05/who_me/",
+          "publishedOn": "2022-09-05T06:32:12.000Z",
+          "wordCount": 1467,
+          "title": "Salesperson's tech dream delivered by ill-equipped consultant who charged for the inevitable fix",
+          "imageUrl": "https://regmedia.co.uk/2015/07/23/suit_lifting_weight_photo_via_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/05/google_play_alternative_payments_test/",
           "author": null,
