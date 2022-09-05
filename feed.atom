@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-05T07:34:35.257Z</updated>
+    <updated>2022-09-05T08:28:31.428Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blizzard drar tillbaka Diablo Immortal-valuta som köpts från tredje part]]></title>
+        <id>https://www.fz.se/artikel/291347</id>
+        <link href="https://www.fz.se/artikel/291347-blizzard-drar-tillbaka-diablo-immortal-valuta-som-kopts-fran-tredje-part"/>
+        <updated>2022-09-05T07:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Och många spelare är nu skuldsatta i spelet.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft: The deadline to get off Basic Auth is approaching]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/05/microsoft_basic_auth_deadline/</id>
@@ -37468,16 +37478,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DuckDuckGo says Hell, Hell, No to those Microsoft trackers after web revolt]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/06/in_brief_security/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/06/in_brief_security/"/>
-        <updated>2022-08-06T19:41:14.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Plus: That Twitter privacy leak, scammers send Ubers for victims, critical flaw in Cisco gear, and more</h4> <p><strong>In brief</strong>  DuckDuckGo has finally mostly cracked down on the third-party Microsoft tracking scripts that got the alternative search engine into hot water earlier this year.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
