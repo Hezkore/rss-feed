@@ -9568,26 +9568,6 @@
           "wordCount": 4646,
           "title": "Square Enix sold off Western studios due to concern of Japanese game sales being \"cannibalised\"",
           "imageUrl": "https://asset.vg247.com/marvels_guardians_of_the_galaxy_pc%20(3).png/BROK/thumbnail/1600x900/format/jpg/quality/80/marvels_guardians_of_the_galaxy_pc%20(3).png"
-        },
-        {
-          "id": "https://www.vg247.com/beyond-good-and-evil-2-new-lead-writer",
-          "author": "Oisin Kuhnke",
-          "description": "Somehow, despite everything suggesting it should be dead in the water, Beyond Good and Evil 2 is still in development, as it just got a new lead writer.\nBeyond Good and Evil 2, the supposedly upcoming sequel to the cult classic original, hasn't exactly had a smooth development. Some version of it has been in development since at least 2008, though its first teaser trailer was the only evidence of its existence until the re-reveal in 2017. In 2020 the game's director Michel Ancel left the games industry entirely, though in 2021 Ubisoft did say it's still in development. And that somehow does still seem to be the case, as the game recently took on a new lead writer, as reported by PC Gamer.\nSarah Arellano, who has done work for Blizzard and Volition, announced the news via her personal Twitter account, which is the most we've heard about the game in the last year.\n Read more",
-          "link": "https://www.vg247.com/beyond-good-and-evil-2-new-lead-writer",
-          "publishedOn": "2022-08-07T11:24:07.000Z",
-          "wordCount": 4676,
-          "title": "Beyond Good and Evil 2, despite all odds, is still kicking as it takes on new lead writer",
-          "imageUrl": "https://asset.vg247.com/beyond-good-and-evil-2_u1cZ18p.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/beyond-good-and-evil-2_u1cZ18p.jpg"
-        },
-        {
-          "id": "https://www.vg247.com/zenless-zone-zero-gameplay",
-          "author": "Oisin Kuhnke",
-          "description": "The first beta test for Zenless Zone Zero is underway, and gameplay has started appearing online giving us a first proper look.\nFirst revealed back in May, Zenless Zone Zero is the next big title from HoYoverse, obviously best known for the insatiably popular Genshin Impact. There's been tasty morsels of gameplay shown here and there since its announcement, but never anything too substantial. August 5 saw the start of the game's first beta test however, and so far it's looking pretty action packed based on gameplay shared online (thanks, PCGamer).\nWhere Genshin Impact's genre is obviously fantasy, Zenless Zone Zero is much more modern, with some strong Jet Set Radio and The World Ends With You vibes. It also differs in that it's a roguelike, where you explore areas called Hollows to take down monsters. It seems that each mission is made up of various screens, in the very literal TV sense, which each contain their own levels.\n Read more",
-          "link": "https://www.vg247.com/zenless-zone-zero-gameplay",
-          "publishedOn": "2022-08-07T10:43:37.000Z",
-          "wordCount": 4580,
-          "title": "Zenless Zone Zero's beta test shows some flashy looking gameplay",
-          "imageUrl": "https://asset.vg247.com/zenless-zone-zero_obqWbPP.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/zenless-zone-zero_obqWbPP.jpg"
         }
       ]
     },
@@ -9596,6 +9576,16 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Mesa-22-S3TC-Software-Fallback",
+          "author": null,
+          "description": "Mesa recently landed BPTC software fallback handling that is a requirement for OpenGL 4.2 support but BPTC is not natively supported by all GPU hardware, particularly on the embedded side. That software emulation support for BPTC is similar to what already has existed within Mesa for the ASTC and ETC formats too. A merge request is pending that also adds S3TC software fallback handling, which helps out some of the smaller, embedded GPU drivers too for getting more games running that are dependent on S3 Texture Compression...",
+          "link": "https://www.phoronix.com/news/Mesa-22-S3TC-Software-Fallback",
+          "publishedOn": "2022-09-05T23:16:26.000Z",
+          "wordCount": 1403,
+          "title": "Mesa Preparing Software Fallback For S3TC Texture Compression",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/PHP-8.2-RC1-Released",
           "author": null,
@@ -11854,16 +11844,6 @@
           "publishedOn": "2022-08-07T17:58:21.000Z",
           "wordCount": 1499,
           "title": "Realtek R8188EU Driver Sees \"Huge Cleanups\" With Linux 6.0",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/RADV-RT-New-Accel-Structs",
-          "author": null,
-          "description": "Being merged into Mesa 22.3 this morning for the open-source Radeon Vulkan driver \"RADV\" are rewritten acceleration structures for the ray-tracing support...",
-          "link": "https://www.phoronix.com/news/RADV-RT-New-Accel-Structs",
-          "publishedOn": "2022-08-07T10:53:51.000Z",
-          "wordCount": 1322,
-          "title": "RADV Lands Rewritten Acceleration Structures For Ray-Tracing In Mesa 22.3",
           "imageUrl": null
         }
       ]
@@ -28654,16 +28634,6 @@
           "wordCount": 1633,
           "title": "MSI bekräftar datumet för Ryzen 7000-lanseringen",
           "imageUrl": "https://www.sweclockers.com/artikel/34716/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34715",
-          "author": null,
-          "description": "Med rakblad och värmepistol avlägsnas värmespridaren från ett utvecklingsexemplar av Core i9-13900. Under huven hittas en krets på 257 mm².",
-          "link": "https://www.sweclockers.com/artikel/34715-intel-core-i9-13900-raptor-lake-pa-operationsbordet",
-          "publishedOn": "2022-08-07T10:47:58.000Z",
-          "wordCount": 1727,
-          "title": "Intel Core i9-13900 \"Raptor Lake\" på operationsbordet",
-          "imageUrl": "https://www.sweclockers.com/artikel/34715/og-image"
         }
       ]
     },
