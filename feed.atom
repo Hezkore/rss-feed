@@ -2,10 +2,114 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-05T09:24:10.792Z</updated>
+    <updated>2022-09-05T10:26:16.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux May Flip On Indirect Branch Tracking By Default (IBT)]]></title>
+        <id>https://www.phoronix.com/news/Linux-x86-IBT-Default-Patch</id>
+        <link href="https://www.phoronix.com/news/Linux-x86-IBT-Default-Patch"/>
+        <updated>2022-09-05T10:14:00.000Z</updated>
+        <summary type="html"><![CDATA[A new patch floated by a Google Chrome OS / Linux kernel engineer would enable support for the Intel-led Indirect Branch Tracking (IBT) by default as part of the standard kernel configuration for this security feature...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elden Ring's Ancestor Spirit bosses are much more complex and horrifying than we realised]]></title>
+        <id>https://www.vg247.com/elden-ring-ancestor-spirit-hidden-mechanic-horrifying</id>
+        <link href="https://www.vg247.com/elden-ring-ancestor-spirit-hidden-mechanic-horrifying"/>
+        <updated>2022-09-05T10:12:05.000Z</updated>
+        <summary type="html"><![CDATA[Elden Ring is full of hidden areas, obscure bosses, and entire communities you may not get to see if you don't venture too far off the beaten path. One of the more unique are the Ancestral Followers, who can be found deep underground in the Siofra River Bank.
+The Followers worship the Ancestor Spirits, and can be seen gathering around its remains performing their rites. By following a simple mini-game, you can travel to the realm of the Ancestor Spirit and take it on in a boss fight.
+All that is well and good, but the fight itself plays quite differently from all the other fights in Elden Ring. Most players who fought the Ancestor Spirit bosses in the game felt that they got a slightly different experience from the rest.
+ Read more]]></summary>
+        <author>
+            <name>Sherif Saed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu Talks Up Its GNOME Dynamic Triple Buffering Support In 22.04/22.10]]></title>
+        <id>https://www.phoronix.com/news/GNOME-Triple-Buffering-22.04-10</id>
+        <link href="https://www.phoronix.com/news/GNOME-Triple-Buffering-22.04-10"/>
+        <updated>2022-09-05T10:05:14.000Z</updated>
+        <summary type="html"><![CDATA[Originally carried as a patch against Ubuntu 22.04 for its GNOME 42 desktop and continued to be maintained against GNOME 43 for the upcoming Ubuntu 22.10 is supporting dynamic triple buffering with the Mutter compositor. This has allowed Ubuntu's GNOME desktop environment to perform better for some systems albeit not upstream in GNOME...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jack Move is a brisk cyberpunk JRPG-alike that's out this week]]></title>
+        <id>https://www.eurogamer.net/jack-move-is-a-brisk-cyberpunk-jrpg-alike-thats-out-this-week</id>
+        <link href="https://www.eurogamer.net/jack-move-is-a-brisk-cyberpunk-jrpg-alike-thats-out-this-week"/>
+        <updated>2022-09-05T10:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Jack Move. Jack Move. Here is a phrase that tickles somewhere, deep in the back of the brain, buried under boxes and old coats. Wasn't someone...down for a Jack Move? I want to say William Gibson. One of the early ones - or maybe one of the present-day ones?
+
+
+Googling will have to wait, because here is Jack Move, with a demo out on Steam now and a release planned for the 8th of September. Turns out we're all down for a Jack Move.
+
+
+And I reckon I was right about Gibson, because Jack Move is a cyberpunk JRPG, albeit one with modern sensibilities, which means the pixel-art is smooth and Treasure-textured and the action is implausibly brisk. Straight up: this is a lovely thing. Lovely from the way that you PATCH items rather than use them, to the way that you have stats for Sass and Guts and Grok.
+ 
+Read more]]></summary>
+        <author>
+            <name>Christian Donlan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seasonic förbereder nätaggregat med ATX 3.0 och 12VHPWR-kontakt]]></title>
+        <id>https://www.sweclockers.com/artikel/34871</id>
+        <link href="https://www.sweclockers.com/artikel/34871-seasonic-forbereder-nataggregat-med-atx-3-0-och-12vhpwr-kontakt"/>
+        <updated>2022-09-05T09:49:00.000Z</updated>
+        <summary type="html"><![CDATA[Inför höstens grafikkortlanseringar laddar Seasonic upp med den nya nätaggregatsserien Vertex, vilken har en 16-pins 12VHPWR-kontakt som kan leverera upp till 600 W.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gerda: A Flame in Winter]]></title>
+        <id>https://www.fz.se/artikel/291348</id>
+        <link href="https://www.fz.se/artikel/291348-gerda-a-flame-in-winter"/>
+        <updated>2022-09-05T09:48:00.000Z</updated>
+        <summary type="html"><![CDATA[O-dejliga danska dilemman.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenMandriva Lx 5.0 ROME "Silver Candidate" Released]]></title>
+        <id>https://www.phoronix.com/news/OpenMandriva-5.0-ROME-Silver</id>
+        <link href="https://www.phoronix.com/news/OpenMandriva-5.0-ROME-Silver"/>
+        <updated>2022-09-05T09:41:23.000Z</updated>
+        <summary type="html"><![CDATA[Following the OpenMandriva Lx ROME Technical Preview release from earlier this summer, a "silver candidate" for OpenMandriva Lx 5.0 ROME is now available for testing...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open source databases: What are they and why do they matter?]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/05/open_source_databases/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/05/open_source_databases/"/>
+        <updated>2022-09-05T09:32:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>We trawled through the licensing terms and spoke to the vendors so you don't have to</h4> <p><strong>Feature</strong>  For developers, there is no debate. The future of the database is open source. A glance at the 2022 Stack Overflow survey of around 70,000 code-wranglers shows nearly all pros use one of the two leading open source RDBMSes, PostgreSQL (46.5 percent) or MySQL (45.7 percent), although they use other systems as well.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silent Hill 2 Remake screenshots leak, reportedly from Bloober Team's internal pitch for the game]]></title>
+        <id>https://www.vg247.com/silent-hill-2-remake-screenshots-reportedly-leaked</id>
+        <link href="https://www.vg247.com/silent-hill-2-remake-screenshots-reportedly-leaked"/>
+        <updated>2022-09-05T09:23:05.000Z</updated>
+        <summary type="html"><![CDATA[Over the weekend, VGC reporter Andrew Marmo took to Twitter to share some images that caused many a Silent Hill fan to be on the edge of their seat once again. The images are reportedly shots - albeit very poor-quality ones - of an upcoming Silent Hill 2 remake from Bloober Team.
+Now, we’re aware that Bloober Team are working with Konami given that the pair entered a partnership during summer last year. Just a month following that announcement, rumours began to emerge that Bloober Team was working on a new Silent Hill title.
+Bloober’s CMO, Tomasz Galikowski, took part in an interview with IGN to clear the rumours up. Although, he ultimately left fans with more questions. The CMO told IGN that Bloober had applied for two projects with Konami, respectively codenamed Dum Spiro and Black.
+ Read more]]></summary>
+        <author>
+            <name>Kelsey Raynor</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nästa Nintendo Direct ryktas inkludera en It Takes Two-utannonsering]]></title>
         <id>https://www.fz.se/artikel/291349</id>
@@ -469,6 +573,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How sustainable are fake meats?]]></title>
+        <id>https://arstechnica.com/?p=1878018</id>
+        <link href="https://arstechnica.com/?p=1878018"/>
+        <updated>2022-09-04T12:30:28.000Z</updated>
+        <summary type="html"><![CDATA[Checking whether plant-based burgers may have lighter environmental footprints.]]></summary>
+        <author>
+            <name>Knowable Magazine</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Diablo Immortal players are finding themselves with big in-game orb debt]]></title>
         <id>https://www.vg247.com/diablo-immortal-orb-debt</id>
         <link href="https://www.vg247.com/diablo-immortal-orb-debt"/>
@@ -489,6 +603,16 @@ A number of different posts on Diablo Immortal's subreddit are making the claim,
         <summary type="html"><![CDATA[On paper, the Ssupd Meshroom S looks like the most versatile SFF case ever. But it’s expensive at $160, and complicated to build in if you veer from a traditional ITX layout.]]></summary>
         <author>
             <name>mylesgoldman@icloud.com (Myles Goldman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Examining the game industry’s hidden impacts on climate change]]></title>
+        <id>https://arstechnica.com/?p=1870754</id>
+        <link href="https://arstechnica.com/?p=1870754"/>
+        <updated>2022-09-04T12:00:26.000Z</updated>
+        <summary type="html"><![CDATA[Researcher Ben Abraham lays out how the game industry can lessen its carbon footprint.]]></summary>
+        <author>
+            <name>Ars Contributors</name>
         </author>
     </entry>
     <entry>
@@ -713,6 +837,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Years after shuttle, NASA rediscovers the perils of liquid hydrogen]]></title>
+        <id>https://arstechnica.com/?p=1878188</id>
+        <link href="https://arstechnica.com/?p=1878188"/>
+        <updated>2022-09-03T22:38:27.000Z</updated>
+        <summary type="html"><![CDATA["Every time we saw a leak, it pretty quickly exceeded our flammability limits."]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Intel's Xeon Emerald Rapids CPUs Could Wield Up To 64 Cores]]></title>
         <id>MnkHezp47CSHf6YcVWJQBX</id>
         <link href="https://www.tomshardware.com/news/intels-xeon-emerald-rapids-cpus-could-wield-up-to-64-cores"/>
@@ -730,6 +864,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[By tweaking a few settings in Raspberry Pi imager, you can control your Pi over the network and will never need a screen.]]></summary>
         <author>
             <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All the best Labor Day tech deals we can find this weekend]]></title>
+        <id>https://arstechnica.com/?p=1878008</id>
+        <link href="https://arstechnica.com/?p=1878008"/>
+        <updated>2022-09-03T18:01:24.000Z</updated>
+        <summary type="html"><![CDATA[Dealmaster includes MacBook Pros, OLED TVs, AirPods Max, video games freebies, and more.]]></summary>
+        <author>
+            <name>Jeff Dunn</name>
         </author>
     </entry>
     <entry>
@@ -37469,32 +37613,6 @@ Read more]]></summary>
         <updated>2022-08-06T22:47:50.000Z</updated>
         <author>
             <name>Shen Comix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam now has support for Nintendo Joy-Cons in beta]]></title>
-        <id>https://www.rockpapershotgun.com/steam-now-has-support-for-nintendo-joy-cons-in-beta</id>
-        <link href="https://www.rockpapershotgun.com/steam-now-has-support-for-nintendo-joy-cons-in-beta"/>
-        <updated>2022-08-06T22:17:32.000Z</updated>
-        <summary type="html"><![CDATA[Last week, Steam added support for Nintendo Online classic controllers. What it didn't have was support for the Nintendo Switch's default Joy-Con controllers. A beta update has now changed that.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zenless Zone Zero's closed beta has started, offering glimpses of its Genshin Impact-style combat]]></title>
-        <id>https://www.rockpapershotgun.com/zenless-zone-zeros-closed-beta-has-started-offering-glimpses-of-its-genshin-impact-style-combat</id>
-        <link href="https://www.rockpapershotgun.com/zenless-zone-zeros-closed-beta-has-started-offering-glimpses-of-its-genshin-impact-style-combat"/>
-        <updated>2022-08-06T21:35:08.000Z</updated>
-        <summary type="html"><![CDATA[Zenless Zone Zero has begun its closed beta. If you don't know the name, it's Hoyoverse's upcoming free-to-play action-RPG which draws on their experience making Genshin Impact (and its many antecedents) but places those combat and RPG systems within a roguelike structure. Because it's now in closed beta, the internet is covered in videos showing it in action, and its action looks nice.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
         </author>
     </entry>
 </feed>
