@@ -286,6 +286,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/09/void-scrappers-is-my-new-favourite-coffee-break-game-m-try-the-free-prologue/",
+          "author": "Liam Dawe",
+          "description": "Void Scrappers Prologue, the new free version of the bigger upcoming Void Scrappers is out now and I had a chance to try it before release and came away very impressed.",
+          "link": "https://www.gamingonlinux.com/2022/09/void-scrappers-is-my-new-favourite-coffee-break-game-m-try-the-free-prologue/",
+          "publishedOn": "2022-09-06T11:59:56.000Z",
+          "wordCount": 1197,
+          "title": "Void Scrappers is my new favourite coffee-break game — try the free Prologue",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1403706747id21551gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/09/classic-pixel-art-rts-tfc-the-fertile-crescent-gets-an-online-co-op-horde-mode/",
           "author": "Liam Dawe",
           "description": "TFC: The Fertile Crescent is a really criminally overlooked pixel-art RTS that just got a major upgrade for all players.",
@@ -1622,6 +1632,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/more-evidence-emerges-returnal-could-be-headed-to-pc",
+          "author": "Ed Nightingale",
+          "description": "More evidence has emerged that a PC release of Returnal could be on the way.\r\n\n\r\nThis time, it's courtesy of a GDC talk on VFX from Housemarque & Playstation Studios' Risto Jankkila and Sharman Jagadeesan.\r\n\n\r\nAs Digital Foundry's Alex Battaglia spotted, the game appears to be running on a PC dev kit and includes a debug readout.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/more-evidence-emerges-returnal-could-be-headed-to-pc",
+          "publishedOn": "2022-09-06T11:59:00.000Z",
+          "wordCount": 4502,
+          "title": "More evidence emerges Returnal could be headed to PC",
+          "imageUrl": "https://assets.reedpopcdn.com/returnals-latest-patch-has-another-crack-at-making-more-deceased-scouts-appear-1621530791129.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/returnals-latest-patch-has-another-crack-at-making-more-deceased-scouts-appear-1621530791129.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/tactical-bullet-hell-rpg-grid-force-out-next-week",
           "author": "Ed Nightingale",
@@ -15301,6 +15321,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "FaSiEkxrDGj6Kp4rJ7rTo",
+          "author": null,
+          "description": "The Lenovo X13s is the first ThinkPad with an Arm processor. While it has long battery life and a silent, fanless design, performance isn't up to par with x86 notebooks, and Windows 11 still has a few compatibility issues.",
+          "link": "https://www.tomshardware.com/reviews/lenovo-thinkpad-x13s",
+          "publishedOn": "2022-09-06T12:00:36.000Z",
+          "wordCount": 21828,
+          "title": "Lenovo ThinkPad X13s Review: Quiet Travel Buddy",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/PL9HQG8jxyYqNBLwKeXukb.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/PL9HQG8jxyYqNBLwKeXukb.jpg"
+        },
+        {
           "id": "phD5H6ZPRfdX4oEQ6giK7N",
           "author": "palcorn@outlook.com (Paul Alcorn)",
           "description": "Here's the Intel 13th-Gen Raptor Lake release date, benchmarks, specifications, pricing, and all we know about the new chip architecture.",
@@ -20681,16 +20716,6 @@
           "wordCount": 6824,
           "title": "Adnan Hodzic: atuf.app: Amsterdam Toilet & Urinal Finder",
           "imageUrl": "http://foolcontrol.org/wp-content/uploads/2022/08/atuf-screenshot-marker-description.jpg"
-        },
-        {
-          "id": "tag:dreamwidth.org,2009-05-21:377446:12191",
-          "author": null,
-          "description": "Background\nInternet email is becoming more reliant on DKIM, a scheme for having mail servers cryptographically sign emails. The Big Email providers have started silently spambinning messages that lack either DKIM signatures, or SPF. DKIM is arguably less broken than SPF, so I wanted to deploy it.\nBut it has a problem: if done in a naive way, it makes all your emails non-repudiable, forever. This is not really a desirable property - at least, not desirable for you, although it can be nice for someone who (for example) gets hold of leaked messages obtained by hacking mailboxes.\nThis problem was described at some length in Matthew Green’s article Ok Google: please publish your DKIM secret keys. Following links from that article does get you to a short script to achieve key rotation but it had…",
-          "link": "https://diziet.dreamwidth.org/12191.html",
-          "publishedOn": "2022-08-08T00:20:56.000Z",
-          "wordCount": null,
-          "title": "Ian Jackson: dkim-rotate - rotation and revocation of DKIM signing keys",
-          "imageUrl": null
         }
       ]
     },
@@ -20818,16 +20843,6 @@
           "wordCount": 232,
           "title": "Complex Vowels",
           "imageUrl": "https://imgs.xkcd.com/comics/complex_vowels_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2656/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/scientific_field_prefixes.png\" title=\"Massage: Theoretical (10), Quantum (6), High-energy (2), Computational (1), Marine (1), Astro- (None)\" alt=\"Massage: Theoretical (10), Quantum (6), High-energy (2), Computational (1), Marine (1), Astro- (None)\" />",
-          "link": "https://xkcd.com/2656/",
-          "publishedOn": "2022-08-08T00:00:00.000Z",
-          "wordCount": 234,
-          "title": "Scientific Field Prefixes",
-          "imageUrl": "https://imgs.xkcd.com/comics/scientific_field_prefixes_2x.png"
         }
       ]
     },
@@ -23863,6 +23878,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291363",
+          "author": null,
+          "description": "Serien gör ett nytt free to play-försök.",
+          "link": "https://www.fz.se/artikel/291363-nu-kan-du-betatesta-torchlight-infinite",
+          "publishedOn": "2022-09-06T12:04:00.000Z",
+          "wordCount": 1894,
+          "title": "Nu kan du betatesta Torchlight: Infinite",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291363"
+        },
         {
           "id": "https://www.fz.se/artikel/291362",
           "author": null,
@@ -27161,6 +27186,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34876",
+          "author": null,
+          "description": "Med Nvidias GTC runt hörnet fortsätter Twitter att tissla och tassla om Geforce RTX 4000-serien. Den här gången uppges RTX 4080 lanseras i två upplagor.",
+          "link": "https://www.sweclockers.com/artikel/34876-geforce-rtx-4080-kan-fa-bade-12-och-16-gb-grafikminne",
+          "publishedOn": "2022-09-06T12:18:50.000Z",
+          "wordCount": 1750,
+          "title": "Geforce RTX 4080 kan få både 12 och 16 GB grafikminne",
+          "imageUrl": "https://www.sweclockers.com/artikel/34876/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34872",
           "author": null,
           "description": "I en djupdykning med Digital Foundry medger Intel att Kina-lanseringen inte gjorde succé och råder användare med äldre system att söka sig till konkurrenterna.",
@@ -29338,6 +29373,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/06/sk_hynix_11b_fab/",
+          "author": null,
+          "description": "<h4>Leadership believes path to recovery is through investing in times of crisis</h4> <p>Chipmaker SK hynix intends to invest nearly $11 billion over the next five years on a new manufacturing plant in South Korea, showing confidence in the future despite the curent dip in demand for semiconductors.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/06/sk_hynix_11b_fab/",
+          "publishedOn": "2022-09-06T12:30:06.000Z",
+          "wordCount": 1282,
+          "title": "SK hynix to plow $11b into South Korean fab complex",
+          "imageUrl": "https://regmedia.co.uk/2018/02/05/skhynix_.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/06/softiron_unveils_ambitious_fully_turnkey/",
+          "author": null,
+          "description": "<h4>Hypercloud will be facing some stiff competition in the hyperconverged infrastructure space, say analysts</h4> <p>Storage player SoftIron is extending its portfolio to the rest of the datacenter with the launch of a complete cloud infrastructure platform - a bold effort to take on better known brands in their own back yard.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/06/softiron_unveils_ambitious_fully_turnkey/",
+          "publishedOn": "2022-09-06T11:29:14.000Z",
+          "wordCount": 2220,
+          "title": "SoftIron to start selling 'fully turnkey' cloud platform",
+          "imageUrl": "https://regmedia.co.uk/2019/04/30/softiron_bezel.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/06/broadband_speed_global_rankings/",
           "author": null,
@@ -34227,16 +34282,6 @@
           "wordCount": 1257,
           "title": "China allows robo taxis – without backup drivers – in parts of two major cities",
           "imageUrl": "https://regmedia.co.uk/2022/08/08/supplied_baidu_5th_gen_apollo_robotaxi.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/08/asia_tech_news_roundup/",
-          "author": null,
-          "description": "<h4>Chinese phone makers' tax deals probed; PayPal back in Indonesia; Boeing seeks sustainability in Japan; and more</h4> <p><strong>Asia In brief</strong>  India's parliament will this week debate a bill that would see the nation's competition regulator add officers with technology industry expertise to its ranks, and gain the power to review and veto takeovers.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/08/asia_tech_news_roundup/",
-          "publishedOn": "2022-08-08T00:15:15.000Z",
-          "wordCount": 1949,
-          "title": "India proposes increased power to vet tech mergers",
-          "imageUrl": "https://regmedia.co.uk/2022/02/17/shutterstock_asia_pacific.jpg"
         }
       ]
     }
