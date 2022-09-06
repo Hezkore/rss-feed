@@ -250,16 +250,6 @@
           "wordCount": 7635,
           "title": "7 Best Distributions Based on Fedora Linux",
           "imageUrl": "https://itsfoss.com/wp-content/uploads/2015/12/best-distros-based-on-fedora.png"
-        },
-        {
-          "id": "https://itsfoss.com/?p=100353",
-          "author": "Sagar Sharma",
-          "description": "Want to control your music using a beautiful widget on Linux? Sunamu is for you to try! It can even detect and show lyrics for currently playing music.",
-          "link": "https://itsfoss.com/sunamu-music-widget/",
-          "publishedOn": "2022-08-08T04:34:49.000Z",
-          "wordCount": 7202,
-          "title": "Sunamu: Display Lyrics for Currently Playing Music on the Dekstop in Linux",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/08/sunamu-1.jpg"
         }
       ]
     },
@@ -295,6 +285,16 @@
       "feedUrl": "http://www.gamingonlinux.com/news_rss.php",
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
+        {
+          "id": "https://www.gamingonlinux.com/2022/09/survival-game-vintage-story-adds-200-new-blocks-lightning-water-physics-update/",
+          "author": "Liam Dawe",
+          "description": "It's pretty staggering just how advanced Vintage Story is becoming as a survival game. It's still relatively unknown but in my eyes it already rivals many popular games and another huge upgrade is out now.",
+          "link": "https://www.gamingonlinux.com/2022/09/survival-game-vintage-story-adds-200-new-blocks-lightning-water-physics-update/",
+          "publishedOn": "2022-09-06T17:19:42.000Z",
+          "wordCount": 1139,
+          "title": "Survival game Vintage Story adds 200+ new blocks, lightning, water physics update",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1388603632id21553gol.jpg"
+        },
         {
           "id": "https://www.gamingonlinux.com/2022/09/the-wandering-village-launches-with-linux-support-on-september-14th/",
           "author": "Liam Dawe",
@@ -1652,6 +1652,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/take-a-look-at-god-of-war-ragnaroks-dwarven-realm-of-svartalfheim-in-new-video",
+          "author": "Matt Wales",
+          "description": "With God of War Ragnarök inching ever closer to its 9th November release on PlayStation, the pre-launch pre-amble keeps on coming, this time with a closer look at the dwarven realm of Svartalfheim in a new video.\r\n\n\r\nSvartalfheim is, of course, one of the Nine Realms at the heart of God of War's current Norse-themed saga, and one of three - alongside Vanaheim and Asgard - that were unreachable in the first game. Players will finally be able to complete the set in Ragnarök, though, as well as getting a chance to return to previously visited realms to explore new locations.\r\n\n\r\nSvartalfheim, like other realms, can be accessed via the gateway located at the centre of the Lake of Nine (frozen over in Ragnarök thanks to the onset of Fimbulwinter) and - as detailed in a new GameInformer video - will present players with plenty of dwarven ingenuity to explore, including mine pits, artificial water channels, and sprawling cities.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/take-a-look-at-god-of-war-ragnaroks-dwarven-realm-of-svartalfheim-in-new-video",
+          "publishedOn": "2022-09-06T16:39:40.000Z",
+          "wordCount": 4622,
+          "title": "Here's a look at God of War Ragnarök's dwarven realm of Svartalfheim",
+          "imageUrl": "https://assets.reedpopcdn.com/god-of-war-ragnarok-svartalfheim-screen-grab.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/god-of-war-ragnarok-svartalfheim-screen-grab.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/tencent-increases-stakes-in-ubisoft-with-300m-investment-in-guillemot-bros",
           "author": "Ed Nightingale",
@@ -15561,6 +15571,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "gyMggNHKaLWbRT2vkmWW2R",
+          "author": null,
+          "description": "A new board from Aaeon, the GENE-ADP6, offers Alder Lake processors and the chance to drive four screens from a tiny form factor.",
+          "link": "https://www.tomshardware.com/news/aaeon-announces-alder-lake-sbc",
+          "publishedOn": "2022-09-06T16:32:16.000Z",
+          "wordCount": 18834,
+          "title": "New Aaeon SBC Puts Alder Lake on a Tiny Board",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/QrZFVonx5JKZCFZ3oaADL7.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/QrZFVonx5JKZCFZ3oaADL7.jpg"
+        },
+        {
           "id": "ggrFLvKRvYci87A5xrQAVF",
           "author": null,
           "description": "Besides the color, Cooler Master's CryoFuze Violet thermal paste delivers 12.6 W/mK and is stable at a very wide range of temperatures. It's claimed to have a balanced viscosity for easy application and removal.",
@@ -20563,6 +20588,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "http://flossexperiences.wordpress.com/?p=7408",
+          "author": null,
+          "description": "History\nBefore I start, the game I was talking about is called Cell To Singularity. Now I haven’t gone much in the game as I have shared but think that the Singularity it refers to is the Technological Singularity that people think will happen. Whether that will happen or not is open to debate to one and all. This is going to be a bit long one. \nConfession Time :- When I was sharing in the blog post, I had no clue that we actually had sessions on it in this year’s Debconf. I just saw the schedule yesterday and then came to know. Then I saw Guido’s two talks, one at Debconf as well as one as Froscon. In fact, saw the Froscon talk first, and then the one at Debconf. Both the talks are nearly the same except for a thing here or a thing there.   \nNow because I was not there so my understanding…",
+          "link": "https://flossexperiences.wordpress.com/2022/09/06/debian-on-phone/",
+          "publishedOn": "2022-09-06T16:41:11.000Z",
+          "wordCount": 5549,
+          "title": "Shirish Agarwal: Debian on Phone",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "https://jmtd.net/log/borg_woes/",
           "author": null,
           "description": "I've been using Borg backup for a couple of years and it has\nseemingly worked very well for me. One difference I really appreciate from my\nprevious arrangement (rdiff-backup) is the freedom to move large\nfiles or file hierarchies around (including between different filesystems)\nwithout provoking large backup incrementals.\nAbout a week ago I had my first real problem with Borg: backups started to\nfail with the following complaints:\nCreating archive at \"/backup/borg::{hostname}-home-jon-{now:%Y-%m-%dT%H:%M:%S.%f}\"\nsegment 61916 not found, but listed in compaction data\n[ further, similar lines ]\nLocal Exception\nTraceback (most recent call last):\n  File \"/usr/lib/python3/dist-packages/borg/archiver.py\", line 4690, in main\n    exit_code = archiver.run(args)\n  File \"/usr/lib/python3/dist-package…",
@@ -24313,6 +24348,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291367",
+          "author": null,
+          "description": "Nya Assassin's Creed Mirage i strålkastarljuset.",
+          "link": "https://www.fz.se/artikel/291367-mario-rabbids-och-mycket-assassins-creed-i-lordagens-ubisoft-forward",
+          "publishedOn": "2022-09-06T16:58:00.000Z",
+          "wordCount": 1857,
+          "title": "Mario + Rabbids och (mycket) Assassin's Creed i lördagens Ubisoft Forward",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291367"
+        },
         {
           "id": "https://www.fz.se/artikel/291369",
           "author": null,
@@ -29838,6 +29883,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/06/meta_guilty_again_of_violating/",
+          "author": null,
+          "description": "<h4>Hundreds of 'intentional' violations could cost Zuck and Co $30k each</h4> <p>Facebook has been found guilty in Washington of breaking the state's strict campaign finance transparency laws – again – and was defeated in its attempt to get a judge to loosen those laws to favor it. …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/06/meta_guilty_again_of_violating/",
+          "publishedOn": "2022-09-06T17:00:06.000Z",
+          "wordCount": 1353,
+          "title": "Meta found guilty of flouting Washington political ad laws – again",
+          "imageUrl": "https://regmedia.co.uk/2021/03/23/facebook.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/06/worok_espionage_asia/",
           "author": null,
