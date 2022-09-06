@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-06T06:21:14.402Z</updated>
+    <updated>2022-09-06T07:40:17.271Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Xbox lovar "flera år" av Call of Duty till Playstation]]></title>
+        <id>https://www.fz.se/artikel/291359</id>
+        <link href="https://www.fz.se/artikel/291359-xbox-lovar-flera-ar-av-call-of-duty-till-playstation"/>
+        <updated>2022-09-06T06:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Men hur många?]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A refined Apple desktop debuts ahead of Wednesday’s big iThing launch]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/06/apple_ii_desktop_update/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/06/apple_ii_desktop_update/"/>
+        <updated>2022-09-06T06:29:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>It’s an eight-bit affair for the Apple II, complete with Flying Toasters and many other upgrades</h4> <p>Apple will on September 7th stage one of its live infomercials to launch products expected to include this year’s iPhone – complete with satellite messaging capabilities – plus wireless earbuds, an enhanced smart watch, and maybe even some new tablet computers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snabbkoll: Passar skärmar i 40-tumsklassen vid datorn?]]></title>
+        <id>https://www.sweclockers.com/artikel/34874</id>
+        <link href="https://www.sweclockers.com/artikel/34874-snabbkoll-passar-skarmar-i-40-tumsklassen-vid-datorn"/>
+        <updated>2022-09-06T06:21:51.000Z</updated>
+        <summary type="html"><![CDATA[Skärmstorlekar som tidigare förknippats med TV-apparater blir allt vanligare på skrivbordet. Hur känner du för 40-tummare till datorn?]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dead people could be designated authors of Atlassian Confluence docs but that can't be changed]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/06/atlassian_confluence_feature_request_confcloud_7247/</id>
@@ -54,6 +84,16 @@
         <summary type="html"><![CDATA[<h4>Also separatism, nationalism, and whether Big Tech does enough to police user-generated content</h4> <p>India’s IT minister has picked a fight with Wikipedia after alleging that Pakistani entities edited a page describing a member of the men’s national cricket team in ways that suggest the player has separatist affiliations.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comic for 2022.09.06 - About To Nut]]></title>
+        <id>https://explosm.net/comics/about-to-nut</id>
+        <link href="https://explosm.net/comics/about-to-nut"/>
+        <updated>2022-09-06T00:46:51.000Z</updated>
+        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
+        <author>
+            <name>Explosm.net</name>
         </author>
     </entry>
     <entry>
@@ -38155,16 +38195,6 @@ GNU libc 2.36 into Bookworm.]]></summary>
         <summary type="html"><![CDATA[Förväntan och besvikelse löper parallellt i nyhetsflödet, när färska processorer och tveksamma grafikkort trängs. Får du alla rätt den här veckan?]]></summary>
         <author>
             <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenSUSE Tumblewed Planning To Finally End ReiserFS Support]]></title>
-        <id>https://www.phoronix.com/news/OpenSUSE-Drop-ReiserFS</id>
-        <link href="https://www.phoronix.com/news/OpenSUSE-Drop-ReiserFS"/>
-        <updated>2022-08-07T19:38:02.000Z</updated>
-        <summary type="html"><![CDATA[SUSE had been one of the big supporters of ReiserFS two decades ago when it was using the ReiserFS file-system by default but that practice ended in 2006. While SUSE/openSUSE hasn't defaulted to ReiserFS for many years, it has remained an install-time option and retained support for mounting ReiserFS file-systems, but that practice is likely soon ending...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
 </feed>
