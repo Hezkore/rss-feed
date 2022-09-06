@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-06T04:57:11.634Z</updated>
+    <updated>2022-09-06T06:21:14.402Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
@@ -38163,26 +38163,6 @@ GNU libc 2.36 into Bookworm.]]></summary>
         <link href="https://www.phoronix.com/news/OpenSUSE-Drop-ReiserFS"/>
         <updated>2022-08-07T19:38:02.000Z</updated>
         <summary type="html"><![CDATA[SUSE had been one of the big supporters of ReiserFS two decades ago when it was using the ReiserFS file-system by default but that practice ended in 2006. While SUSE/openSUSE hasn't defaulted to ReiserFS for many years, it has remained an install-time option and retained support for mounting ReiserFS file-systems, but that practice is likely soon ending...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVGA Slashes $1,000 Off GeForce RTX 3090 Ti GPUs, Starting at $1,149]]></title>
-        <id>VBGmQEjTxzNQLPt4mnhBz3</id>
-        <link href="https://www.tomshardware.com/news/evga-slashes-dollar1000-off-geforce-rtx-3090-ti-gpus-starting-at-dollar1149"/>
-        <updated>2022-08-07T18:09:53.000Z</updated>
-        <summary type="html"><![CDATA[EVGA is selling a couple of custom GeForce RTX 3090 Ti graphics cards below MSRP.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Realtek R8188EU Driver Sees "Huge Cleanups" With Linux 6.0]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.0-Staging</id>
-        <link href="https://www.phoronix.com/news/Linux-6.0-Staging"/>
-        <updated>2022-08-07T17:58:21.000Z</updated>
-        <summary type="html"><![CDATA[Along with his various other pull requests for areas of the kernel he oversees, Greg Kroah-Hartman submitted the Linux 6.0 staging changes this week...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
