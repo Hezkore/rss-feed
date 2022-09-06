@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-06T18:29:20.915Z</updated>
+    <updated>2022-09-06T19:18:58.623Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[US wants to give global chipmakers a 25% tax credit on new fabs]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/06/chips_commerce_funding_tax_credit/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/06/chips_commerce_funding_tax_credit/"/>
+        <updated>2022-09-06T19:15:13.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Plus $39 billion in subsidies for 'domestic' effort that will welcome foreign semiconductor players</h4> <p>Leading foundry operators stand to benefit from a 25 percent investment tax credit (ITC) on domestic fab projects, according to a document published by the US Department of Commerce this week.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fedora 39 Looks To Use DNF5 By Default For Better Performance & Improved User Experience]]></title>
+        <id>https://www.phoronix.com/news/Fedora-39-DNF-Plan</id>
+        <link href="https://www.phoronix.com/news/Fedora-39-DNF-Plan"/>
+        <updated>2022-09-06T19:04:37.000Z</updated>
+        <summary type="html"><![CDATA[With Fedora 39 next spring it will likely replace DNF, libdnf, and dnf-automatic with the new DNF5 packaging tool and libdnf5 support library. DNF5 should improve the user experience and deliver better performance for dealing with software management on Fedora Linux...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyberpunk 2077 gets a huge update, expansion teaser and fixes the Steam Deck preset]]></title>
+        <id>https://www.gamingonlinux.com/2022/09/cyberpunk-2077-gets-a-huge-update-expansion-teaser-and-fixes-the-steam-deck-preset/</id>
+        <link href="https://www.gamingonlinux.com/2022/09/cyberpunk-2077-gets-a-huge-update-expansion-teaser-and-fixes-the-steam-deck-preset/"/>
+        <updated>2022-09-06T18:49:21.000Z</updated>
+        <summary type="html"><![CDATA[The Edgerunners Update is out now for Cyberpunk 2077, along with the Cyberpunk 2077: Phantom Liberty expansion getting a reveal and a 2023 release date. Some fixes included for Steam Deck finally too.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[California passes bill requiring salary ranges on job listings]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/06/california_lawmakers_pass_bill_requiring/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/06/california_lawmakers_pass_bill_requiring/"/>
+        <updated>2022-09-06T18:30:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Legislation also aims to tackle wage gaps around gender, race, and ethnicity</h4> <p>California lawmakers passed a bill that aims to promote pay equity by requiring employers to post salary ranges with job listings in the state.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brazil halts sales of charger-less iPhones, fines Apple $2.3 million]]></title>
         <id>https://arstechnica.com/?p=1878430</id>
@@ -39367,36 +39407,6 @@ We get to see him drop his unloving, sociopathic father, Heihachi, off a cliff �
         <summary type="html"><![CDATA[Är ni redo?]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[India to revisit hardware incentives after struggling to move manufacturers out of China]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/08/india_hardware_incentives_revisited/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/08/india_hardware_incentives_revisited/"/>
-        <updated>2022-08-08T07:06:17.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Minister laments Dell, HPE and pals have the market locked up and little incentive to change</h4> <p>India will tweak the incentive scheme it offers to manufacturers of enterprise hardware after disappointing uptake.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dead by Daylight-utvecklarnas nästa är ett pusselspel i en öppen fantasyvärld]]></title>
-        <id>https://www.fz.se/artikel/291033</id>
-        <link href="https://www.fz.se/artikel/291033-dead-by-daylight-utvecklarnas-nasta-ar-ett-pusselspel-i-en-oppen-fantasyvarld"/>
-        <updated>2022-08-08T06:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Och inkluderar dessutom co-op.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dark Utilities C2 service draws thousands of cyber criminals]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/08/dark_utilities_c2_service/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/08/dark_utilities_c2_service/"/>
-        <updated>2022-08-08T06:31:12.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Nascent platform provides miscreants an easier and cheaper way to launch remote access, DDoS, and other attacks</h4> <p>A platform that makes it easier for cyber criminals to establish command-and-control (C2) servers has already attracted 3,000 users since launching earlier this year, and will likely expand its client list in the coming months.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
