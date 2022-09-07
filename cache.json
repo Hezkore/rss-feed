@@ -11805,16 +11805,6 @@
           "wordCount": 1286,
           "title": "Linux 6.0 Promotes Its H.265/HEVC User-Space API To Stable",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Intel-Arc-Pro-A-Series",
-          "author": null,
-          "description": "Intel used SIGGRAPH to announce their forthcoming Arc Pro A-series professional GPUs. The initial products include the Arc A30M mobile GPU, the Arc Pro A40 single-slot GPU, and the Arc Pro A50 dual-slot GPU...",
-          "link": "https://www.phoronix.com/news/Intel-Arc-Pro-A-Series",
-          "publishedOn": "2022-08-08T17:38:03.000Z",
-          "wordCount": 1284,
-          "title": "Intel Announces Arc Pro A-Series Professional GPUs",
-          "imageUrl": null
         }
       ]
     },
@@ -20194,36 +20184,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/hXENuMNzXQ9p6q9k9jpM3L.jpg"
-        },
-        {
-          "id": "MoKGnatvfNhLk8bx9Jjkhj",
-          "author": null,
-          "description": "Nvidia is discounting its RTX 30-series GPUs at a steep rate, in an apparent attempt to deplete its overabundance of 30-series GPUs prior to the 40-series launch.",
-          "link": "https://www.tomshardware.com/news/steep-rtx-30-series-discounts",
-          "publishedOn": "2022-08-08T17:57:44.000Z",
-          "wordCount": 18366,
-          "title": "Steep RTX 30-Series Discounts Suggest Impending 40-Series Launch",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/eGD8qXssCB6EGXk6VXQJq4.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/eGD8qXssCB6EGXk6VXQJq4.jpg"
-        },
-        {
-          "id": "fJc4qyF8AZaQD4uQ6PByWU",
-          "author": null,
-          "description": "You can get your hands on an Nvidia RTX 3060 Ti FE at Best Buy for $399, making it one of the cheapest 3060 Ti's on the market currently.",
-          "link": "https://www.tomshardware.com/news/nvidia-rtx-3060-ti-fe-real-deal",
-          "publishedOn": "2022-08-08T17:24:11.000Z",
-          "wordCount": 20166,
-          "title": "Nvidia's RTX 3060 Ti Founders Edition Is in Stock for $399: Real Deals",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/UYspZGWQxcPk6rU4nHzDPe.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/UYspZGWQxcPk6rU4nHzDPe.jpg"
         }
       ]
     },
@@ -20232,6 +20192,16 @@
       "feedUrl": "https://planet.debian.org/rss20.xml",
       "siteUrl": "https://planet.debian.org/",
       "articles": [
+        {
+          "id": "https://anarc.at/blog/2022-09-06-deleted-gitlab/",
+          "author": null,
+          "description": "I have just deleted two forks I had of the GitLab project in my\ngitlab.com account. I did this after receiving a warning that quotas\nwould now start to be enforced. It didn't say that I was going over\nquota, so I actually had to go look in the usage quotas page,\nwhich stated I was using 5.6GB of storage.\nI found that puzzling: maybe wallabako? I build images there in\nCI... Or the ISOs in stressant?\nNope. The biggest disk users were... my forks of gitlab-ce and\ngitlab-ee (now respectively called gitlab-foss and gitlab-ee,\nbut whatever). CE was taking up roughly 1GB and EE was taking up the\nrest.\nSo I deleted both repos, which means that the next time I want to\ncontribute a fix to their documentation — which is as far as I managed\nto contribute to GitLab — I will need to re-fork those humongous\nrepositories.\nMaybe I'm reading this wrong. Maybe there's a bug in the quotas\nsystem. Or, if I'm reading this right, GitLab is actually\ndouble-billing people: once for the source repository, and once for\nthe fork. Because surely repos are not duplicating all those blobs\non disk... right? RIGHT?\nEither case, that's rather a bad move on their part, I feel like. With\nGitHub charging 4$/user/month, it feels like GitLab is going to\nhave to trouble to compete by charging 20$/user/month as a\nchallenger...\nBut maybe it's just me: I'm not an economist, surely there's some\nbrilliant plan here I'm missing...\nIn the meantime, free-ish alternatives include Quay.io (currently\nfree for public repos) and sr.ht (2$/mth, but at least not\nopen-core, unfortunately no plan for a container registry). And\nof course, you can painfully self-host GitLab, sr.ht, gitea,\npagure, or whatever it is the current fancy gitweb.",
+          "link": "https://anarc.at/blog/2022-09-06-deleted-gitlab/",
+          "publishedOn": "2022-09-07T01:34:43.000Z",
+          "wordCount": 382,
+          "title": "Antoine Beaupré: Deleted GitLab forks from my account",
+          "imageUrl": null
+        },
         {
           "id": "tag:veronneau.org,2022-09-07:/montreals-debian-stuff-august-2022.html",
           "author": null,
@@ -24035,36 +24005,6 @@
           "wordCount": 1972,
           "title": "Big Tech just got one step closer to squashing key US antitrust bill",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1165010225-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1872076",
-          "author": "Andrew Cunningham",
-          "description": "Cheaper GPUs are good for gamers but bad for Nvidia's bottom line.",
-          "link": "https://arstechnica.com/?p=1872076",
-          "publishedOn": "2022-08-08T18:14:57.000Z",
-          "wordCount": 1506,
-          "title": "Crypto-driven GPU crash makes Nvidia miss Q2 projections by $1.4 billion",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/11/nvidia-sign-2-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1872073",
-          "author": "Kevin Purdy",
-          "description": "Where one sheet link can be the difference between success or elimination.",
-          "link": "https://arstechnica.com/?p=1872073",
-          "publishedOn": "2022-08-08T18:01:32.000Z",
-          "wordCount": 1520,
-          "title": "Excel esports on ESPN show world the pain of format errors",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/excel_competitors-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1872055",
-          "author": "Eric Berger",
-          "description": "\"Our cadence today is 100 percent driven by market demand.\"",
-          "link": "https://arstechnica.com/?p=1872055",
-          "publishedOn": "2022-08-08T17:32:21.000Z",
-          "wordCount": 1543,
-          "title": "Peter Beck explains why Electron may only ever launch 10-15 times a year",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/52262617030_1e255a23e0_k-760x380.jpg"
         }
       ]
     },
@@ -27331,6 +27271,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34878",
+          "author": null,
+          "description": "En Kickstarter-insamling har startats för Nofio – ett tillbehör till Valves VR-headset Index som gör enheten användbar över Wifi 6E.",
+          "link": "https://www.sweclockers.com/artikel/34878-nofio-gor-valve-index-tradlost",
+          "publishedOn": "2022-09-07T04:58:00.000Z",
+          "wordCount": 1662,
+          "title": "Nofio gör Valve Index trådlöst",
+          "imageUrl": "https://www.sweclockers.com/artikel/34878/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34877",
           "author": null,
           "description": "Efter skarp kritik från Riksrevisionen och till följd av rådande omständigheter ska teknikjättarnas serverhallar åter börja beskattas.",
@@ -29448,6 +29398,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/07/china_accuses_usa_nsa_cyberattack/",
+          "author": null,
+          "description": "<h4>National Security Agency apparently has tools that crack Solaris boxes</h4> <p>China has accused the United States of a savage cyber attack on a university famed for conducting aerospace research and linked to China's military.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/07/china_accuses_usa_nsa_cyberattack/",
+          "publishedOn": "2022-09-07T05:15:14.000Z",
+          "wordCount": 1485,
+          "title": "As Cybersecurity Week begins, Beijing claims US attacked Uni doing military research",
+          "imageUrl": "https://regmedia.co.uk/2021/07/14/shutterstock_us_pc_china_mouse_mat.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/07/pakistan_government_security_incompetent/",
           "author": null,
@@ -34327,26 +34287,6 @@
           "wordCount": 1383,
           "title": "Qualcomm, GlobalFoundries double down on US chip production",
           "imageUrl": "https://regmedia.co.uk/2020/11/05/shutterstock_qualcomm_editorial_only.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/08/twilio_phishing_attack/",
-          "author": null,
-          "description": "<h4>Comms giant says several other firms targeted in 'sophisticated attack'</h4> <p>Twilio confirmed a breach of the communication giant's network and accessed \"a limited number\" of customer accounts after tricking some employees into falling for a phishing attack.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/08/twilio_phishing_attack/",
-          "publishedOn": "2022-08-08T17:45:05.000Z",
-          "wordCount": 1317,
-          "title": "Twilio customer data exposed after its staffers got phished",
-          "imageUrl": "https://regmedia.co.uk/2022/08/08/twilio_two_factor_authentication_app_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/08/microsoft_edge_security_browsing/",
-          "author": null,
-          "description": "<h4>We're pretty sure that doesn't mean it's safe to click on sketchy popups</h4> <p>Microsoft wants to make it safer for Edge users to browse and visit unfamiliar websites by automatically applying stronger security settings.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/08/microsoft_edge_security_browsing/",
-          "publishedOn": "2022-08-08T17:15:08.000Z",
-          "wordCount": 1532,
-          "title": "Microsoft tightens Edge security for less visited websites",
-          "imageUrl": "https://regmedia.co.uk/2021/02/03/microsoftedge.jpg"
         }
       ]
     }

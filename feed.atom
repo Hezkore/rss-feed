@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-07T05:00:39.435Z</updated>
+    <updated>2022-09-07T06:20:29.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[As Cybersecurity Week begins, Beijing claims US attacked Uni doing military research]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/07/china_accuses_usa_nsa_cyberattack/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/07/china_accuses_usa_nsa_cyberattack/"/>
+        <updated>2022-09-07T05:15:14.000Z</updated>
+        <summary type="html"><![CDATA[<h4>National Security Agency apparently has tools that crack Solaris boxes</h4> <p>China has accused the United States of a savage cyber attack on a university famed for conducting aerospace research and linked to China's military.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nofio gör Valve Index trådlöst]]></title>
+        <id>https://www.sweclockers.com/artikel/34878</id>
+        <link href="https://www.sweclockers.com/artikel/34878-nofio-gor-valve-index-tradlost"/>
+        <updated>2022-09-07T04:58:00.000Z</updated>
+        <summary type="html"><![CDATA[En Kickstarter-insamling har startats för Nofio – ett tillbehör till Valves VR-headset Index som gör enheten användbar över Wifi 6E.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tencent köper in sig i Ubisoft-ägarnas holdingbolag]]></title>
         <id>https://www.fz.se/artikel/291371</id>
@@ -34,6 +54,46 @@
         <summary type="html"><![CDATA[<h4>MP alleges taxpayer database – which holds personal info on millions – has come under attack</h4> <p>A Pakistani parliamentary committee has labelled its own cybersecurity agency "incompetent".…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Antoine Beaupré: Deleted GitLab forks from my account]]></title>
+        <id>https://anarc.at/blog/2022-09-06-deleted-gitlab/</id>
+        <link href="https://anarc.at/blog/2022-09-06-deleted-gitlab/"/>
+        <updated>2022-09-07T01:34:43.000Z</updated>
+        <summary type="html"><![CDATA[I have just deleted two forks I had of the GitLab project in my
+gitlab.com account. I did this after receiving a warning that quotas
+would now start to be enforced. It didn't say that I was going over
+quota, so I actually had to go look in the usage quotas page,
+which stated I was using 5.6GB of storage.
+I found that puzzling: maybe wallabako? I build images there in
+CI... Or the ISOs in stressant?
+Nope. The biggest disk users were... my forks of gitlab-ce and
+gitlab-ee (now respectively called gitlab-foss and gitlab-ee,
+but whatever). CE was taking up roughly 1GB and EE was taking up the
+rest.
+So I deleted both repos, which means that the next time I want to
+contribute a fix to their documentation — which is as far as I managed
+to contribute to GitLab — I will need to re-fork those humongous
+repositories.
+Maybe I'm reading this wrong. Maybe there's a bug in the quotas
+system. Or, if I'm reading this right, GitLab is actually
+double-billing people: once for the source repository, and once for
+the fork. Because surely repos are not duplicating all those blobs
+on disk... right? RIGHT?
+Either case, that's rather a bad move on their part, I feel like. With
+GitHub charging 4$/user/month, it feels like GitLab is going to
+have to trouble to compete by charging 20$/user/month as a
+challenger...
+But maybe it's just me: I'm not an economist, surely there's some
+brilliant plan here I'm missing...
+In the meantime, free-ish alternatives include Quay.io (currently
+free for public repos) and sr.ht (2$/mth, but at least not
+open-core, unfortunately no plan for a container registry). And
+of course, you can painfully self-host GitLab, sr.ht, gitea,
+pagure, or whatever it is the current fancy gitweb.]]></summary>
+        <author>
+            <name>Planet Debian</name>
         </author>
     </entry>
     <entry>
@@ -38505,86 +38565,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Uppföljaren "fått grönt ljus", bekräftar SNK.]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto-driven GPU crash makes Nvidia miss Q2 projections by $1.4 billion]]></title>
-        <id>https://arstechnica.com/?p=1872076</id>
-        <link href="https://arstechnica.com/?p=1872076"/>
-        <updated>2022-08-08T18:14:57.000Z</updated>
-        <summary type="html"><![CDATA[Cheaper GPUs are good for gamers but bad for Nvidia's bottom line.]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Excel esports on ESPN show world the pain of format errors]]></title>
-        <id>https://arstechnica.com/?p=1872073</id>
-        <link href="https://arstechnica.com/?p=1872073"/>
-        <updated>2022-08-08T18:01:32.000Z</updated>
-        <summary type="html"><![CDATA[Where one sheet link can be the difference between success or elimination.]]></summary>
-        <author>
-            <name>Kevin Purdy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steep RTX 30-Series Discounts Suggest Impending 40-Series Launch]]></title>
-        <id>MoKGnatvfNhLk8bx9Jjkhj</id>
-        <link href="https://www.tomshardware.com/news/steep-rtx-30-series-discounts"/>
-        <updated>2022-08-08T17:57:44.000Z</updated>
-        <summary type="html"><![CDATA[Nvidia is discounting its RTX 30-series GPUs at a steep rate, in an apparent attempt to deplete its overabundance of 30-series GPUs prior to the 40-series launch.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twilio customer data exposed after its staffers got phished]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/08/twilio_phishing_attack/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/08/twilio_phishing_attack/"/>
-        <updated>2022-08-08T17:45:05.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Comms giant says several other firms targeted in 'sophisticated attack'</h4> <p>Twilio confirmed a breach of the communication giant's network and accessed "a limited number" of customer accounts after tricking some employees into falling for a phishing attack.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Announces Arc Pro A-Series Professional GPUs]]></title>
-        <id>https://www.phoronix.com/news/Intel-Arc-Pro-A-Series</id>
-        <link href="https://www.phoronix.com/news/Intel-Arc-Pro-A-Series"/>
-        <updated>2022-08-08T17:38:03.000Z</updated>
-        <summary type="html"><![CDATA[Intel used SIGGRAPH to announce their forthcoming Arc Pro A-series professional GPUs. The initial products include the Arc A30M mobile GPU, the Arc Pro A40 single-slot GPU, and the Arc Pro A50 dual-slot GPU...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peter Beck explains why Electron may only ever launch 10-15 times a year]]></title>
-        <id>https://arstechnica.com/?p=1872055</id>
-        <link href="https://arstechnica.com/?p=1872055"/>
-        <updated>2022-08-08T17:32:21.000Z</updated>
-        <summary type="html"><![CDATA["Our cadence today is 100 percent driven by market demand."]]></summary>
-        <author>
-            <name>Eric Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia's RTX 3060 Ti Founders Edition Is in Stock for $399: Real Deals]]></title>
-        <id>fJc4qyF8AZaQD4uQ6PByWU</id>
-        <link href="https://www.tomshardware.com/news/nvidia-rtx-3060-ti-fe-real-deal"/>
-        <updated>2022-08-08T17:24:11.000Z</updated>
-        <summary type="html"><![CDATA[You can get your hands on an Nvidia RTX 3060 Ti FE at Best Buy for $399, making it one of the cheapest 3060 Ti's on the market currently.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft tightens Edge security for less visited websites]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/08/microsoft_edge_security_browsing/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/08/microsoft_edge_security_browsing/"/>
-        <updated>2022-08-08T17:15:08.000Z</updated>
-        <summary type="html"><![CDATA[<h4>We're pretty sure that doesn't mean it's safe to click on sketchy popups</h4> <p>Microsoft wants to make it safer for Edge users to browse and visit unfamiliar websites by automatically applying stronger security settings.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
