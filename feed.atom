@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-07T07:44:36.172Z</updated>
+    <updated>2022-09-07T08:31:39.213Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cyberpunk 2077 får omfattande moddstöd]]></title>
+        <id>https://www.sweclockers.com/artikel/34880</id>
+        <link href="https://www.sweclockers.com/artikel/34880-cyberpunk-2077-far-omfattande-moddstod"/>
+        <updated>2022-09-07T08:01:24.000Z</updated>
+        <summary type="html"><![CDATA[En stor uppdatering bjuder på moddstöd via Redmod, synkroniserade framgångar mellan plattformar och nya uppdrag. Därtill ges ett smakprov på nästa expansion.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japan's NTT claims it's built 1.2Tbit/s optical comms that sip power]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/07/ntt_1_2_tbits_optical_comms/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/07/ntt_1_2_tbits_optical_comms/"/>
+        <updated>2022-09-07T07:59:14.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Cloud and 5G mean the world needs beefier backbones and NTT thinks this could build them</h4> <p>Japan's NTT Corporation claims it has developed technologies that allow data transmission at 1.2Tbit/s per wavelength in an optical system.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3 miljoner spelare har städat virtuellt i Powerwash Simulator]]></title>
+        <id>https://www.fz.se/artikel/291373</id>
+        <link href="https://www.fz.se/artikel/291373-3-miljoner-spelare-har-stadat-virtuellt-i-powerwash-simulator"/>
+        <updated>2022-09-07T07:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Roligare än att städa på riktigt?]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The answer to 3D printing equipment on Mars might lie in the Red Planet's dust]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/07/mars_dust_3d_printing/</id>
@@ -38547,16 +38577,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Debate over the American Innovation and Choice Online Act will resume this fall.]]></summary>
         <author>
             <name>Ashley Belanger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qualcomm, GlobalFoundries double down on US chip production]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/08/globalfoundries_qualcomm_us/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/08/globalfoundries_qualcomm_us/"/>
-        <updated>2022-08-08T20:07:36.000Z</updated>
-        <summary type="html"><![CDATA[<h4>The line for chip susidies and tax breaks is getting longer by the minute</h4> <p>Qualcomm says it is doubling investments in US chip manufacturer GlobalFoundries in a bid to secure additional wafer capacity with government money on the table.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
