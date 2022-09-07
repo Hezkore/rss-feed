@@ -1624,36 +1624,6 @@
           "wordCount": 1150,
           "title": "What if Pong had 'lore, special moves & gay aliens'? You get ZONERS",
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1424788575id21426gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/08/emberbane-is-a-pixel-action-platformer-inspired-by-avatar-the-last-airbender/",
-          "author": "Liam Dawe",
-          "description": "The popular Avatar the Last Airbender series continues to have an influence on game developers, with Emberbane being announced as an upcoming pixel action-platformer with combat revolving around a mixture of four elements with unique abilities.",
-          "link": "https://www.gamingonlinux.com/2022/08/emberbane-is-a-pixel-action-platformer-inspired-by-avatar-the-last-airbender/",
-          "publishedOn": "2022-08-09T09:05:33.000Z",
-          "wordCount": 1179,
-          "title": "Emberbane is a pixel action-platformer inspired by Avatar the Last Airbender",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/153498449id21425gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/08/justin-wack-and-the-big-time-hack-is-another-fun-looking-point-and-clicker-coming/",
-          "author": "Liam Dawe",
-          "description": "Do you love your point and click adventures? We have another to highlight with Justin Wack and the Big Time Hack that will have Native Linux support.",
-          "link": "https://www.gamingonlinux.com/2022/08/justin-wack-and-the-big-time-hack-is-another-fun-looking-point-and-clicker-coming/",
-          "publishedOn": "2022-08-09T08:55:56.000Z",
-          "wordCount": 1098,
-          "title": "Justin Wack and the Big Time Hack is another fun looking point and clicker coming",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1976003609id21424gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/08/adventure-game-nine-noir-lives-seems-to-let-you-lick-everything/",
-          "author": "Liam Dawe",
-          "description": "Nine Noir Lives is an upcoming point and click adventure game that follows feline private investigator Cuddles Nutterbutter. A new brief trailer is out, showing off a very important game mechanic.",
-          "link": "https://www.gamingonlinux.com/2022/08/adventure-game-nine-noir-lives-seems-to-let-you-lick-everything/",
-          "publishedOn": "2022-08-09T08:41:06.000Z",
-          "wordCount": 1301,
-          "title": "Adventure game Nine Noir Lives seems to let you lick everything",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/65915556id21423gol.jpg"
         }
       ]
     },
@@ -1662,6 +1632,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/playstation-boss-calls-microsofts-post-acquisition-call-of-duty-offer-inadequate-on-many-levels",
+          "author": "Matt Wales",
+          "description": "PlayStation boss Jim Ryan has spoken out against Microsoft's offer to keep Call of Duty on PlayStation for \"at least several more years\" beyond Sony's existing agreement with publisher Activision Blizzard, calling the deal \"inadequate on many levels\" - despite Microsoft's insistence it went \"well beyond typical gaming industry agreements\".\r\n\n\r\nIt's the latest shot fired in an increasingly public back and forth between the two companies as governmental scrutiny of Microsoft's proposed $69bn USD acquisition of Activision Blizzard grows, particularly in relation to its impact on other gaming platforms. The UK's Competition and Markets Authority, for instance, recently said the deal would give rise to the \"realistic prospect of a substantial lessening of competition in gaming consoles, multi-game subscription services, and cloud gaming services.\"\r\n\n\r\nIt's in this climate that Xbox boss Phil Spencer last week attempted to placate concerns it might be looking to make the hugely popular Call of Duty series - which the CMA called \"important and capable of making a material difference to the success of rivals' gaming platforms\" - an Xbox exclusive if the acquisition gained approval, insisting that it had \"provided a signed agreement to Sony [in January] to guarantee Call of Duty on PlayStation, with feature and content parity, for at least several more years beyond the current Sony contract\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/playstation-boss-calls-microsofts-post-acquisition-call-of-duty-offer-inadequate-on-many-levels",
+          "publishedOn": "2022-09-07T20:37:57.000Z",
+          "wordCount": 4899,
+          "title": "PlayStation boss calls Microsoft's post-acquisition Call of Duty offer \"inadequate on many levels\"",
+          "imageUrl": "https://assets.reedpopcdn.com/call-of-duty-modern-warfare-2-2022.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/call-of-duty-modern-warfare-2-2022.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/cd-projekt-says-its-already-thinking-about-multiple-new-witcher-games",
           "author": "Matt Wales",
@@ -12235,26 +12215,6 @@
           "wordCount": 1410,
           "title": "Renewed Work Around GNOME 30-bit Deep Color Frame-Buffer Support",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/FreeBSD-Q2-2022",
-          "author": null,
-          "description": "The FreeBSD project has published their latest quarterly status report highlighting the advancements made to this open-source BSD operating system...",
-          "link": "https://www.phoronix.com/news/FreeBSD-Q2-2022",
-          "publishedOn": "2022-08-09T09:21:27.000Z",
-          "wordCount": 1331,
-          "title": "FreeBSD In Q2-2022: More Than 30k Ports, Driver Improvements, Better Linux Compatibility",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.0-Hostname",
-          "author": null,
-          "description": "A patch coming about earlier this year allows setting the system's hostname before user-space starts by way of the hostname= kernel parameter. That patch has now landed as part of Andrew Morton's accumulated changes for Linux 6.0...",
-          "link": "https://www.phoronix.com/news/Linux-6.0-Hostname",
-          "publishedOn": "2022-08-09T08:30:00.000Z",
-          "wordCount": 1312,
-          "title": "Linux 6.0 Allows Setting The Hostname Via New \"hostname=\" Parameter",
-          "imageUrl": null
         }
       ]
     },
@@ -21670,6 +21630,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2669/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/things_you_should_not_do.png\" title=\"Now I'm tempted to start telling people that I secretly don't actually know how to do any physics calculations, and so all the answers in What If are based on me actually trying to do the thing and then reporting what happened, but phrased as if it's hypothetical.\" alt=\"Now I'm tempted to start telling people that I secretly don't actually know how to do any physics calculations, and so all the answers in What If are based on me actually trying to do the thing and then reporting what happened, but phrased as if it's hypothetical.\" />",
+          "link": "https://xkcd.com/2669/",
+          "publishedOn": "2022-09-07T00:00:00.000Z",
+          "wordCount": 238,
+          "title": "Things You Should Not Do",
+          "imageUrl": "https://imgs.xkcd.com/comics/things_you_should_not_do_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2668/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/artemis_quote.png\" title=\"Another option: &quot;It is an honor to be the first human to set foot on the moon.&quot;\" alt=\"Another option: &quot;It is an honor to be the first human to set foot on the moon.&quot;\" />",
@@ -21796,6 +21766,86 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1879468",
+          "author": "Kevin Purdy",
+          "description": "Gone, but probably not too soon: Apple's weirdly old, slightly discounted Watch.",
+          "link": "https://arstechnica.com/?p=1879468",
+          "publishedOn": "2022-09-07T20:34:07.000Z",
+          "wordCount": 1579,
+          "title": "Apple Watch Series 3, dead in all but name, now actually dead",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2017/09/IMG_3109-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1879485",
+          "author": "Kyle Orland",
+          "description": "PlayStation CEO says Microsoft \"undermines the principle\" of cross-platform access.",
+          "link": "https://arstechnica.com/?p=1879485",
+          "publishedOn": "2022-09-07T20:28:09.000Z",
+          "wordCount": 1715,
+          "title": "Sony calls Microsoft’s 3-year Call of Duty sharing offer “inadequate”",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-xbox-call-of-duty-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1879455",
+          "author": "Andrew Cunningham",
+          "description": "Persistent reports of poor sales mean small-screened phones are vanishingly rare.",
+          "link": "https://arstechnica.com/?p=1879455",
+          "publishedOn": "2022-09-07T20:16:46.000Z",
+          "wordCount": 1479,
+          "title": "There’s no iPhone 14 mini, but the iPhone 13 mini lives to fight another day",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/apple_iphone-12_super-retina-xdr-display_10132020-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1878812",
+          "author": "Ron Amadeo",
+          "description": "Previously, Google Maps' \"efficient\" routes were only for gas vehicles.",
+          "link": "https://arstechnica.com/?p=1878812",
+          "publishedOn": "2022-09-07T20:02:20.000Z",
+          "wordCount": 1371,
+          "title": "Google Maps can now pick the most efficient route for EVs",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/2-1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1878803",
+          "author": "Jennifer Ouellette",
+          "description": "Proteins form gel-like filaments that stiffen into networks to support dried-out cells.",
+          "link": "https://arstechnica.com/?p=1878803",
+          "publishedOn": "2022-09-07T19:44:53.000Z",
+          "wordCount": 2130,
+          "title": "Scientists glean new insights into how tardigrades can survive dehydration",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/12/tardigradeTOP-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1879389",
+          "author": "Dan Goodin",
+          "description": "DeadBolt has already infected thousands of QNAP storage devices this year.",
+          "link": "https://arstechnica.com/?p=1879389",
+          "publishedOn": "2022-09-07T19:14:34.000Z",
+          "wordCount": 1493,
+          "title": "New wave of data-destroying ransomware attacks hits QNAP NAS devices",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/04/ransom-note700-640x215.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1879292",
+          "author": "Ashley Belanger",
+          "description": "Interactive map makes it easier to track security threats from state to state.",
+          "link": "https://arstechnica.com/?p=1879292",
+          "publishedOn": "2022-09-07T19:13:56.000Z",
+          "wordCount": 1712,
+          "title": "Leaked Oath Keepers’ list includes hundreds of cops, dozens of elected officials",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1241210916-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1878502",
+          "author": "Samuel Axon",
+          "description": "New iPhone software will bring lock screen changes, passkeys, and app updates.",
+          "link": "https://arstechnica.com/?p=1878502",
+          "publishedOn": "2022-09-07T19:04:25.000Z",
+          "wordCount": 1351,
+          "title": "iOS 16 launches September 12",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/chrome_p5KPFcdRuY-760x380.png"
+        },
         {
           "id": "https://arstechnica.com/?p=1877853",
           "author": "Andrew Cunningham",
@@ -28332,16 +28382,6 @@
           "wordCount": 1866,
           "title": "Embark släpper shootern Project Discovery före Arc Raiders",
           "imageUrl": "https://www.fz.se/artikel/og-image/291053"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291052",
-          "author": null,
-          "description": "Utvecklingen rullar på, säger chefen för Rockstars moderbolag.",
-          "link": "https://www.fz.se/artikel/291052-gta-6-ska-hoja-den-kreativa-ribban-for-hela-underhallningsbranschen",
-          "publishedOn": "2022-08-09T08:49:03.000Z",
-          "wordCount": 1924,
-          "title": "GTA 6 ska höja den kreativa ribban för hela underhållningsbranschen",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291052"
         }
       ]
     },
@@ -28350,6 +28390,16 @@
       "feedUrl": "https://www.sweclockers.com/feeds/nyheter",
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
+        {
+          "id": "https://www.sweclockers.com/artikel/34886",
+          "author": null,
+          "description": "Apple bjuder favorit i repris hos den ordinarie Iphone 14-familjen, medan justerad design, ny systemkrets och bättre kameror sticker ut hos Pro-syskonen.",
+          "link": "https://www.sweclockers.com/artikel/34886-nytt-och-gammalt-nar-iphone-14-serien-gor-debut",
+          "publishedOn": "2022-09-07T20:27:55.000Z",
+          "wordCount": 3138,
+          "title": "Nytt och gammalt när Iphone 14-serien gör debut",
+          "imageUrl": "https://www.sweclockers.com/artikel/34886/og-image"
+        },
         {
           "id": "https://www.sweclockers.com/artikel/34888",
           "author": null,
@@ -30538,6 +30588,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/07/apple_iphone_watch_launch/",
+          "author": null,
+          "description": "<h4>With Crash Detection (no, not that kind) and satellite-powered SOS when cell service is absent</h4> <p>Apple on Wednesday enticed favored members of the media and its ever-enthusiastic employees from Cupertino to hear word of the company's iPhone 14, Apple Watch 8, and second generation AirPods Pro earbuds.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/07/apple_iphone_watch_launch/",
+          "publishedOn": "2022-09-07T21:07:15.000Z",
+          "wordCount": 1901,
+          "title": "Apple debuts iPhone 14, Watch 8, other sparkly things",
+          "imageUrl": "https://regmedia.co.uk/2022/09/07/apple_iphone_14.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/07/microsoft_windows_chile_time_change/",
           "author": null,
@@ -35457,16 +35517,6 @@
           "wordCount": 1375,
           "title": "BT demos 4-carrier 5G aggregation – on a live network",
           "imageUrl": "https://regmedia.co.uk/2022/04/12/5g_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/09/scitech_superpower/",
-          "author": null,
-          "description": "<h4>Lords cite 'frequent' policy changes, lack of metrics, post-Brexit funding issues as top issues</h4> <p>How's the UK doing in its ambitions to become a sci-tech \"superpower\" by 2030? According to a report by the Lords Science and Technology Committee, it's currently on track to make the phrase an \"empty slogan.\"…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/09/scitech_superpower/",
-          "publishedOn": "2022-08-09T08:30:10.000Z",
-          "wordCount": 2498,
-          "title": "Report slams UK plan to become 'science superpower' by 2030",
-          "imageUrl": "https://regmedia.co.uk/2022/08/08/shutterstock_microscope.jpg"
         }
       ]
     }
