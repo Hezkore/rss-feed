@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-08T19:21:09.929Z</updated>
+    <updated>2022-09-08T20:27:56.716Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wolfenstein: Enemy Territory now has new official dedicated servers]]></title>
+        <id>https://www.rockpapershotgun.com/wolfenstein-enemy-territory-now-has-new-official-dedicated-servers</id>
+        <link href="https://www.rockpapershotgun.com/wolfenstein-enemy-territory-now-has-new-official-dedicated-servers"/>
+        <updated>2022-09-08T20:16:12.000Z</updated>
+        <summary type="html"><![CDATA[I somehow missed that Wolfenstein: Enemy Territory came to Steam back in April, 19 years after it was first released. Now Bethesda have announced that they're launching new dedicated servers for the free World War 2 shooter, which will all run the six original maps with no mods.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft unveils SQL Server release candidate for Linux]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/08/microsoft_sql_server_linux/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/08/microsoft_sql_server_linux/"/>
+        <updated>2022-09-08T20:10:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Remond modernizes database management system for an open and cloudy world</h4> <p>Just weeks after rolling out SQL Server 2022 Release Candidate 0 for Windows, Microsoft is following with a release candidate for Linux systems.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eidos Montreal is "now the owner" of Deus Ex and Thief games, but don't get too excited]]></title>
+        <id>https://www.rockpapershotgun.com/eidos-montreal-is-now-the-owner-of-deus-ex-and-thief-games-but-dont-get-too-excited</id>
+        <link href="https://www.rockpapershotgun.com/eidos-montreal-is-now-the-owner-of-deus-ex-and-thief-games-but-dont-get-too-excited"/>
+        <updated>2022-09-08T19:53:42.000Z</updated>
+        <summary type="html"><![CDATA[Eidos Montreal, the studio behind recent Thief and Deus Ex games, say they are "now the owner of the games [we] developed, like the Deus Ex and Thief games." Likewise, Crystal Dynamics say they have taken "control" of its Tomb Raider and Legacy Of Kain games from their previous owner, Square Enix.
+
+Which sounds like a big deal, but really both studios are just reporting a change to their terms of service and privacy notices since they were bought by Embracer Group last month.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rest in peace, Queen Elizabeth II – Britain's first high-tech monarch]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/08/queen_elizabeth_dies/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/08/queen_elizabeth_dies/"/>
+        <updated>2022-09-08T19:44:46.000Z</updated>
+        <summary type="html"><![CDATA[<h4>HME2 signs off</h4> <p><strong>Obit</strong>  Queen Elizabeth Alexandra Mary Windsor has died, ending the reign of Britain's longest-serving monarch. She was 96.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft is currently testing new Xbox homepage "experiments" for launch in 2023]]></title>
         <id>https://www.eurogamer.net/microsoft-is-currently-testing-new-xbox-homepage-experiments-for-launch-in-2023</id>
@@ -22,6 +70,16 @@ To that end, Microsoft is this week launching what it calls a "multi-month serie
 Read more]]></summary>
         <author>
             <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare explains why Kiwi Farms was its most dangerous customer ever]]></title>
+        <id>https://arstechnica.com/?p=1879770</id>
+        <link href="https://arstechnica.com/?p=1879770"/>
+        <updated>2022-09-08T19:18:38.000Z</updated>
+        <summary type="html"><![CDATA[Cloudflare wants government to be responsible for blocking sites like Kiwi Farms.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
         </author>
     </entry>
     <entry>
@@ -66,6 +124,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bridgestone has put more than $100M into eco-tires made of shrubs]]></title>
+        <id>https://arstechnica.com/?p=1879699</id>
+        <link href="https://arstechnica.com/?p=1879699"/>
+        <updated>2022-09-08T18:25:19.000Z</updated>
+        <summary type="html"><![CDATA[Drought-friendly plant can produce rubber good enough for Indy race tires.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Amazon CEO says company will slow hiring rate, no hard return to office planned]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/08/amazon_andy_jassy_hiring_return_to_office/</id>
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/08/amazon_andy_jassy_hiring_return_to_office/"/>
@@ -73,6 +141,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<h4>Anyone fancy renting some office space?</h4> <p>Amazon CEO Andy Jassy says the parent firm of the world's largest cloud service provider will likely slow the rate at which it's hiring staff, while noting he has no plans to force current workers to return to the office.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple updates its AppleCare+ support service to offer unlimited repairs]]></title>
+        <id>https://arstechnica.com/?p=1879722</id>
+        <link href="https://arstechnica.com/?p=1879722"/>
+        <updated>2022-09-08T17:59:55.000Z</updated>
+        <summary type="html"><![CDATA[The subscription service formerly only let you pay for two repairs per year.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
         </author>
     </entry>
     <entry>
@@ -39923,26 +40001,6 @@ Read more]]></summary>
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/10/netbsd_93/"/>
         <updated>2022-08-10T08:28:11.000Z</updated>
         <summary type="html"><![CDATA[<h4>Need a cold shower? This is xNix like Windows users imagine it still is</h4> <p>Version 9.3 of NetBSD is here, able to run on very low-end systems and with that authentic early-1990s experience.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gamescoms öppningsshow blir två timmar lång]]></title>
-        <id>https://www.fz.se/artikel/291066</id>
-        <link href="https://www.fz.se/artikel/291066-gamescoms-oppningsshow-blir-tva-timmar-lang"/>
-        <updated>2022-08-10T07:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Med 30+ spel som ska visas upp.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian anti-satellite test added to a 'pressing threat to security' in space]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/10/space_debris_russia/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/10/space_debris_russia/"/>
-        <updated>2022-08-10T07:30:09.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Too much junk in the orbital trunk</h4> <p>Debris from a Russian anti-satellite missile is causing chaos in orbit, with shards of ex-spacecraft circling the Earth at perilous speeds.…</p>]]></summary>
         <author>
             <name>The Register</name>
         </author>
