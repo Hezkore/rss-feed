@@ -286,6 +286,26 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/09/amd-announces-fidelityfx-super-resolution-21-upgrade/",
+          "author": "Liam Dawe",
+          "description": "AMD continue pushing ahead with improvements to their upscaling tech FidelityFX Super Resolution with version 2.1 already available now.",
+          "link": "https://www.gamingonlinux.com/2022/09/amd-announces-fidelityfx-super-resolution-21-upgrade/",
+          "publishedOn": "2022-09-08T13:53:50.000Z",
+          "wordCount": 1261,
+          "title": "AMD announces FidelityFX Super Resolution 2.1 upgrade",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/643260204id21567gol.jpg"
+        },
+        {
+          "id": "https://www.gamingonlinux.com/2022/09/proton-experimental-fixes-up-red-dead-redemption-2-gets-more-games-working/",
+          "author": "Liam Dawe",
+          "description": "Recently Red Dead Redemption 2 had a big update which amongst other things, added in FidelityX Super Resolution (FSR) 2.0. Sadly, it broke it on Linux and Steam Deck but Valve already have a fix out but you need to pick it manually for now.",
+          "link": "https://www.gamingonlinux.com/2022/09/proton-experimental-fixes-up-red-dead-redemption-2-gets-more-games-working/",
+          "publishedOn": "2022-09-08T13:42:58.000Z",
+          "wordCount": 1088,
+          "title": "Proton Experimental fixes up Red Dead Redemption 2, gets more games working",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1882183836id21562gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/09/counter-strike-global-offensive-improves-startup-time-steam-deck-steam-input-improvement/",
           "author": "Liam Dawe",
           "description": "Valve has put out an update for Counter-Strike: Global Offensive that not only makes it startup faster but improves Steam Input handling on Steam Deck too.",
@@ -1652,6 +1672,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/digitalfoundry-2022-soul-hackers-2-atlus-new-persona-lite-has-major-tech-problems",
+          "author": "Oliver Mackenzie",
+          "description": "What's the longest you've ever waited for a video game sequel? Devil Summoner: Soul Hackers was released all the way back in 1997 on the Sega Saturn, a first-person dungeon crawler JRPG made by developer Atlus. Four console generations later we finally have a sequel - Soul Hackers 2 - though it's really a standalone game with mostly thematic connections to the original. 25 years is a long time in computer graphics, and Soul Hackers 2 has a wide variety of tech it could potentially use - but early footage didn't exactly impress. There's little here to suggest that the current wave of consoles are being taxed by this Persona-lite release - and the knock-on effect of that seems to be that the last-gen machines get some shocking ports, especially the vanilla Xbox One. \r\n\n\r\nSoul Hackers 2 borrows its gameplay elements from other recent Atlus titles, so at a basic level, it's a turn-based RPG oriented around exploiting weaknesses, which is an enjoyable enough system but nothing out-of-the ordinary for RPG veterans. There are some twists, like an overkill-style mechanic that rewards strategic play, and plenty of customization. But this isn't especially novel. Elsewhere, however, this game really shines. Soul Hackers 2 is a party-oriented title that weaves multiple characters through a winding, serialised story. Interpersonal conflicts and interactions take center stage here, and a social system gamifies out-of-combat interactions, giving simple conversations actual consequences. It's more like a TV show than a movie, with a 'villain of the week'-style narrative that features multiple short story arcs that build over time. \r\n\n\r\nThis formula is fairly novel by industry standards but if you've played other recent Atlus RPGs - particularly Persona 5 or Tokyo Mirage Sessions - you'll know what to expect. That fortunately extends to the rest of the package as well, with a keen sense of visual style. But you can't make a video game out of artistic flourishes alone - so how does the 3D rendering hold up?\r\n \nRead more",
+          "link": "https://www.eurogamer.net/digitalfoundry-2022-soul-hackers-2-atlus-new-persona-lite-has-major-tech-problems",
+          "publishedOn": "2022-09-08T13:57:00.000Z",
+          "wordCount": 6015,
+          "title": "Soul Hackers 2: Atlus' new Persona-lite has major tech problems",
+          "imageUrl": "https://assets.reedpopcdn.com/Soul-Hackers-Site.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Soul-Hackers-Site.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/sony-reveals-new-grey-camouflage-playstation-5-collection",
           "author": "Victoria Kennedy",
@@ -9757,6 +9787,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/AMD-FidelityFX-FSR-2.1",
+          "author": null,
+          "description": "AMD's GPUOpen group has released an updated version of FidelityFX Super Resolution 2. The new FSR 2.1 brings quality enhancements and a reduction in artifacts as the primary benefits over the original FSR2 that was unvelied earlier this year and open-sourced during the summer...",
+          "link": "https://www.phoronix.com/news/AMD-FidelityFX-FSR-2.1",
+          "publishedOn": "2022-09-08T13:37:33.000Z",
+          "wordCount": 1341,
+          "title": "AMD Releases FidelityFX Super Resolution FSR 2.1",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/review/5800x3d-windows11-linux",
           "author": null,
           "description": "With the AMD Ryzen 7 5800X3D as the first consumer processor with AMD 3D V-Cache technology that launched earlier this year, the Linux performance has been fantastic for a variety of workloads especially in areas of technical computing and other non-gaming workloads -- similar to the great results we've enjoyed with AMD EPYC Milan-X processors too. One of the areas I hadn't had a chance to look at until recently was how the Windows 11 vs. Linux performance is looking for this Ryzen CPU with its 96MB L3 cache. Here are those quick benchmarks.",
@@ -12053,6 +12093,26 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/football-manager-2023-scores-a-pc-and-game-pass-release-date-of-november-8th",
+          "author": "CJ Wheeler",
+          "description": "Football Manager 2023 starts its career on November 8th, publishers Sega have announced today, and it’s also coming to Game Pass on launch day alongside its regular PC release. Put on your warmest big coat and take a glance at the stats-heavy trailer below.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/football-manager-2023-scores-a-pc-and-game-pass-release-date-of-november-8th",
+          "publishedOn": "2022-09-08T14:18:09.000Z",
+          "wordCount": 5049,
+          "title": "Football Manager 2023 scores a PC and Game Pass release date of November 8th",
+          "imageUrl": "https://assets2.rockpapershotgun.com/Football-Manager-2023-release-date.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Football-Manager-2023-release-date.jpg"
+        },
+        {
+          "id": "https://www.rockpapershotgun.com/temtem-review",
+          "author": "Hayden Hefford",
+          "description": "Temtem’s inspiration has always been clear. We didn’t beat around the bush when it entered early access back in 2020 - Cian Maher called it the best Pokemon game in years - and I won’t beat around the bush now. It’s still the best Pokemon game in years. It borrows so much from Nintendo's behemoth, but it also takes some much-needed lessons that Game Freak fails to recognise, taking the formula to its highest evolution yet.\nRead more",
+          "link": "https://www.rockpapershotgun.com/temtem-review",
+          "publishedOn": "2022-09-08T14:00:00.000Z",
+          "wordCount": 6248,
+          "title": "Temtem review: a Pokemon-like that listens to what fans want",
+          "imageUrl": "https://assets2.rockpapershotgun.com/Temtem-review-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Temtem-review-header.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/temtem-devs-address-its-premium-battle-pass-controversy",
           "author": "CJ Wheeler",
@@ -15470,6 +15530,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "LRv8Vut9ocJmR97dSqnCJn",
+          "author": null,
+          "description": "Press invites arrived a few hours after a mysterious teaser emerged. The special event will begin at 8am PT on the day, and be followed by the Nvidia CEO’s keynote speech.",
+          "link": "https://www.tomshardware.com/news/nvidia-rtx-40-series-debut-expected-at-sept-20-geforce-beyond-event",
+          "publishedOn": "2022-09-08T14:13:41.000Z",
+          "wordCount": 17839,
+          "title": "Nvidia RTX 40 Series Debut Expected at Sept 20 GeForce Beyond Event",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/iQZYono99FsDSThDVze7BM.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/iQZYono99FsDSThDVze7BM.jpg"
+        },
         {
           "id": "y4oq6BQNp35aQq9C2uTqTK",
           "author": null,
@@ -24659,6 +24734,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291393",
+          "author": null,
+          "description": "Har beslutat att bara göra en expansion.",
+          "link": "https://www.fz.se/artikel/291393-cd-projekt-bedyrar-fullt-engagemang-i-cyberpunk-ipt-bortom-expansionen",
+          "publishedOn": "2022-09-08T14:01:34.000Z",
+          "wordCount": 1902,
+          "title": "CD Projekt bedyrar \"fullt engagemang\" i Cyberpunk-ip:t bortom expansionen",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291393"
+        },
+        {
           "id": "https://www.fz.se/artikel/291392",
           "author": null,
           "description": "Vanilla-versionen.",
@@ -30194,6 +30279,16 @@
       "siteUrl": "https://www.theregister.com/",
       "articles": [
         {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/08/ntt_docomo_5g/",
+          "author": null,
+          "description": "<h4>Handsets with Qualcomm's Snapdragon 8 Gen 1 platform should be able to take full advantage</h4> <p>Japanese telco NTT Docomo claims to have the world's first commercial 5G Standalone (SA) network that enables smartphones to simultaneously use both mid-band (sub-6 GHz) and mmWave frequencies, known as 5G NR Dual Connectivity.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/08/ntt_docomo_5g/",
+          "publishedOn": "2022-09-08T14:06:12.000Z",
+          "wordCount": 1271,
+          "title": "NTT Docomo claims first 5G network with both sub-6 GHz and mmWave",
+          "imageUrl": "https://regmedia.co.uk/2021/01/06/shutterstock_cell_tower.jpg"
+        },
+        {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/08/thoma_bravo_darktrace/",
           "author": null,
           "description": "<h4>'Enterprise immune system' sees share price slump</h4> <p>US private equity investor Thoma Bravo has pulled out of its planned takeover of Darktrace, causing shares in the UK cybersecurity company to plummet.…</p>",
@@ -35032,16 +35127,6 @@
           "wordCount": 1906,
           "title": "GitHub courts controversy by suspending Tornado Cash developers and reneging on cookie commitments",
           "imageUrl": "https://regmedia.co.uk/2020/03/16/github_shutterstock1.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/10/google_cloud_malaysia_thailand_nz/",
-          "author": null,
-          "description": "<h4>Hopes to tap expected growth as it levels up to match rivals' presences</h4> <p>Google Cloud has announced it will build facilities in Thailand, Malaysia, and New Zealand.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/10/google_cloud_malaysia_thailand_nz/",
-          "publishedOn": "2022-08-10T02:03:16.000Z",
-          "wordCount": 1130,
-          "title": "Google Cloud expands to Thailand, Malaysia and New Zealand",
-          "imageUrl": "https://regmedia.co.uk/2021/01/27/shutterstock_cloud.jpg"
         }
       ]
     }
