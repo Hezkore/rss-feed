@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-08T22:24:57.068Z</updated>
+    <updated>2022-09-08T23:27:09.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The knives are out again in first teaser for Glass Onion]]></title>
+        <id>https://arstechnica.com/?p=1879703</id>
+        <link href="https://arstechnica.com/?p=1879703"/>
+        <updated>2022-09-08T22:24:46.000Z</updated>
+        <summary type="html"><![CDATA["Lock the doors. Stay in your rooms. Everyone is in danger."]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mandiant ‘highly confident’ foreign cyberspies will target US midterm elections]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/08/mandiant_cyberspies_us_elections/</id>
@@ -17,6 +27,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Intel Reveals Specifications For Arc Alchemist Desktop GPUs]]></title>
+        <id>ASDWp2URJyDVQ2wwFrXkKV</id>
+        <link href="https://www.tomshardware.com/news/intel-reveals-specifications-for-arc-alchemist-desktop-gpus"/>
+        <updated>2022-09-08T22:17:02.000Z</updated>
+        <summary type="html"><![CDATA[Almost everything you wanted to know about Arc Alchemist desktop GPUs, except actual performance numbers, is here.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Intel Details More Arc Graphics A-Series Hardware Specifications]]></title>
         <id>https://www.phoronix.com/news/Intel-Arc-More-GPU-Specs</id>
         <link href="https://www.phoronix.com/news/Intel-Arc-More-GPU-Specs"/>
@@ -24,6 +44,16 @@
         <summary type="html"><![CDATA[Intel has detailed more of the Arc Graphics A-Series hardware specifications for upcoming models, including the A700 series...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From “stop the spread” to “you do you”: NY mask policy has experts facepalming]]></title>
+        <id>https://arstechnica.com/?p=1879862</id>
+        <link href="https://arstechnica.com/?p=1879862"/>
+        <updated>2022-09-08T21:49:27.000Z</updated>
+        <summary type="html"><![CDATA[The messaging is seen as a "low point" in public health messaging.]]></summary>
+        <author>
+            <name>Beth Mole</name>
         </author>
     </entry>
     <entry>
@@ -77,6 +107,16 @@ However, Marvel rumour collator MCU Status is now reporting that Hennig's game t
 Read more]]></summary>
         <author>
             <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GirlsDoPorn founder, on the run for 3 years, now on FBI’s Ten Most Wanted list]]></title>
+        <id>https://arstechnica.com/?p=1879847</id>
+        <link href="https://arstechnica.com/?p=1879847"/>
+        <updated>2022-09-08T21:11:21.000Z</updated>
+        <summary type="html"><![CDATA[$100K reward for Michael Pratt, who was charged with sex trafficking in 2019.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
         </author>
     </entry>
     <entry>
@@ -39807,151 +39847,6 @@ For those who wish to attend the event in-person, which is said to have an audie
         <summary type="html"><![CDATA[I Minecraft finns inte rätt eller fel, men maskininlärning med understöd av instruktionsvideor som träningsdata knäcker den komplexa koden.]]></summary>
         <author>
             <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel 'Sunny Cove' SGX Vulnerability Discovered]]></title>
-        <id>QihKL7qh5WHBoC2tdnrc3R</id>
-        <link href="https://www.tomshardware.com/news/another-intel-sgx-vulnerability-discovered"/>
-        <updated>2022-08-10T11:24:45.000Z</updated>
-        <summary type="html"><![CDATA[Intel's Ice Lake, Rocket Lake, and Gemini Lake CPUs are vulnerable to ÆPIC Leak vulnerability.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything you need to know about the monkeypox health emergency]]></title>
-        <id>https://arstechnica.com/?p=1872452</id>
-        <link href="https://arstechnica.com/?p=1872452"/>
-        <updated>2022-08-10T11:20:57.000Z</updated>
-        <summary type="html"><![CDATA[Global cases have topped 30,000, and the US is scrambling to vaccinate thousands.]]></summary>
-        <author>
-            <name>Beth Mole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call of Duty Black Ops 4 cut campaign detailed in huge cache of documents]]></title>
-        <id>https://www.eurogamer.net/call-of-duty-black-ops-4-cut-campaign-detailed-in-huge-cache-of-documents</id>
-        <link href="https://www.eurogamer.net/call-of-duty-black-ops-4-cut-campaign-detailed-in-huge-cache-of-documents"/>
-        <updated>2022-08-10T11:15:57.000Z</updated>
-        <summary type="html"><![CDATA[An enormous cache of cut content from Call of Duty: Black Ops 4 has been posted online, detailing developer Treyarch's early plans for a campaign mode.
-
-
-Gameplay details, screenshots and design documentation are all included in a post on the infamous GamingLeaksAndRumours reddit by user Purpletoaster20, who states that it is the culmination of "months of research and discussion" with those who knew about the mode before it was ditched.
-
-
-The post also comes ahead of a 30-minute video on the mode, which the user says they intend to post online next week.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Foxconn will have to forget about investing in Tsinghua Unigroup]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/10/foxconn_tsinghua_investment/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/10/foxconn_tsinghua_investment/"/>
-        <updated>2022-08-10T11:15:13.000Z</updated>
-        <summary type="html"><![CDATA[<h4>International relations are hot as chips, and Taiwan cannot afford to empower China</h4> <p>Taiwanese electronics manufacturer and Apple supplier Foxconn will likely be forced to back out of a $800 million investment in Chinese chipmaker and foundry operator Tsinghua Unigroup, thanks to rapidly deteriorating international relations.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chinese Biren's New GPUs Have 77 Billion Transistors, 2 PFLOPS of AI Performance]]></title>
-        <id>3WTvD2McdQYEobT9PmXWiU</id>
-        <link href="https://www.tomshardware.com/news/chinese-biren-rolls-out-new-gpus-with-77-billion-transistors-2-pflops-of-ai-performance"/>
-        <updated>2022-08-10T11:11:49.000Z</updated>
-        <summary type="html"><![CDATA[Biren's first GPUs can challenge Nvidia's A100 GPU in select workloads, at least on paper.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comic for 2022.08.10 - Thud]]></title>
-        <id>https://explosm.net/comics/thud</id>
-        <link href="https://explosm.net/comics/thud"/>
-        <updated>2022-08-10T11:11:27.000Z</updated>
-        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
-        <author>
-            <name>Explosm.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pokémon: The Arceus Chronicles anime to debut at Pokémon World Championships]]></title>
-        <id>https://www.eurogamer.net/pokemon-the-arceus-chronicles-anime-to-debut-at-pokemon-world-championships</id>
-        <link href="https://www.eurogamer.net/pokemon-the-arceus-chronicles-anime-to-debut-at-pokemon-world-championships"/>
-        <updated>2022-08-10T11:11:16.000Z</updated>
-        <summary type="html"><![CDATA[The Pokémon anime special The Arceus Chronicles is set to receive its English language debut at the Pokémon World Championships in London on 19th August.
-
-
-Following on from the success of Pokémon Legends: Arceus, the anime sees Ash and co defeating the remnants of Team Galactic after receiving a message from the Mythical Pokémon Arceus.
-
-
-It also features a topless Brock, if that's your thing.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Return to Off-Peak City with Betrayal At Club Low in September]]></title>
-        <id>https://www.rockpapershotgun.com/return-to-off-peak-city-with-betrayal-at-club-low-in-september</id>
-        <link href="https://www.rockpapershotgun.com/return-to-off-peak-city-with-betrayal-at-club-low-in-september"/>
-        <updated>2022-08-10T11:01:40.000Z</updated>
-        <summary type="html"><![CDATA[We'll soon return to the weird and wonderful world of Cosmo D's Off-Peak City, with the next game in the series today announcing a shiny release date of September 9th. Betrayal At Club Low is the name, and an RPG infiltrating a former coffin factory-turned-nightclub is its game. This time, Cosmo D says he's inspired by one-shot indie RPGs as we roll dice, bake pizzas, and try to help an undercover agent escape.
-Read more]]></summary>
-        <author>
-            <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Battalion 1944 kapitulerar - gratis pc-version på Steam, konsolversionerna skrotas]]></title>
-        <id>https://www.fz.se/artikel/291070</id>
-        <link href="https://www.fz.se/artikel/291070-battalion-1944-kapitulerar-gratis-pc-version-pa-steam-konsolversionerna-skrotas"/>
-        <updated>2022-08-10T10:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Intresset för WW2-pangande online var för svalt.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Ryzen Threadripper 5965WX Benchmarks Show Some Speedups With Linux 6.0 Git]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.0-TR-5965WX</id>
-        <link href="https://www.phoronix.com/news/Linux-6.0-TR-5965WX"/>
-        <updated>2022-08-10T10:50:00.000Z</updated>
-        <summary type="html"><![CDATA[With AMD EPYC showing some nice gains on Linux 6.0, I've been eager to begin testing Linux 6.0 on more systems especially now that the v6.0 merge window is winding down... With now having the shiny new AMD Ryzen Threadripper 5965WX, I decided to take this high-end 24-core chip for a run with Linux 6.0 Git to see how it performs over Linux 5.19 stable...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's what's coming to Temtem version 1.0]]></title>
-        <id>https://www.eurogamer.net/heres-whats-coming-to-temtem-version-10</id>
-        <link href="https://www.eurogamer.net/heres-whats-coming-to-temtem-version-10"/>
-        <updated>2022-08-10T10:32:10.000Z</updated>
-        <summary type="html"><![CDATA[A new trailer has been released for monster catcher-battler Temtem that shows off new content coming in its Version 1.0 launch.
-
-
-That's set for 6th September across Switch, PlayStation 5, Xbox Series X/S, and PC (via Steam).
-
-
-The big new addition is Tamer's Paradise, a brand new island coming to the game's Airborne Archipelago. Check it out below.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Businesses should dump Windows for the Linux desktop]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/10/opinion_column_drop_windows_for_linux/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/10/opinion_column_drop_windows_for_linux/"/>
-        <updated>2022-08-10T10:32:05.000Z</updated>
-        <summary type="html"><![CDATA[<h4>It makes perfect sense for enterprises as well as enthusiasts. Just ask GitLab</h4> <p><strong>Opinion</strong>  I've been preaching the gospel of the Linux desktop for more years than some of you have been alive. However, unless you argue that the Linux desktop includes Android smartphones and ChromeOS laptops, there will be no year of the Linux desktop.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
