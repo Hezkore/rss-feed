@@ -240,16 +240,6 @@
           "wordCount": 8055,
           "title": "How to Record Streaming Audio in Ubuntu and other Linux Distributions",
           "imageUrl": "https://itsfoss.com/wp-content/uploads/2013/07/how-to-record-audio-in-ubuntu-linux.png"
-        },
-        {
-          "id": "http://itsfoss.com/?p=29634",
-          "author": "Ankush Das",
-          "description": "No macOS is not based on Linux. No macOS is not entirely similar to Linux. Take a look at the similarities and differences between macOS and Linux.",
-          "link": "https://itsfoss.com/mac-linux-difference/",
-          "publishedOn": "2022-08-10T05:44:00.000Z",
-          "wordCount": 9338,
-          "title": "What is the Difference Between macOS and Linux?",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/08/macos-vs-linux.jpg"
         }
       ]
     },
@@ -285,6 +275,16 @@
       "feedUrl": "http://www.gamingonlinux.com/news_rss.php",
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
+        {
+          "id": "https://www.gamingonlinux.com/2022/09/classic-racer-re-volt-returned-to-steam-m-heres-how-to-work-it-on-steam-deck-linux/",
+          "author": "Liam Dawe",
+          "description": "Re-Volt is a retro delight originally from the year 1999, that originally came to Steam in 2013. Sadly it was pulled from Steam when it was found to contain code written by the community, that the Steam release did not have permission to use. Now it's back.",
+          "link": "https://www.gamingonlinux.com/2022/09/classic-racer-re-volt-returned-to-steam-m-heres-how-to-work-it-on-steam-deck-linux/",
+          "publishedOn": "2022-09-08T17:45:12.000Z",
+          "wordCount": 1199,
+          "title": "Classic racer Re-Volt returned to Steam — here's how to work it on Steam Deck / Linux",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1888582863id21568gol.jpg"
+        },
         {
           "id": "https://www.gamingonlinux.com/2022/09/amd-announces-fidelityfx-super-resolution-21-upgrade/",
           "author": "Liam Dawe",
@@ -6979,6 +6979,16 @@
       "feedUrl": "https://www.vg247.com/feed",
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
+        {
+          "id": "https://www.vg247.com/new-ea-studio-to-develop-narrative-campaign-set-in-the-battlefield-universe",
+          "author": "Stephany Nunneley",
+          "description": "Today, Electronic Arts announced a new studio, Seattle-based Ridgeline Games, tasked with developing a narrative campaign taking place in the Battlefield universe.\nLed by Halo co-creator Marcus Lehto and composed of industry veterans from around the world, the studio is \"excited to tell stories and take players on incredible adventures that are only possible within the Battlefield universe.\"\n\"It is a great honor to have the opportunity to collaborate with DICE and Ripple Effect and lead the charge on expanding the narrative, storytelling, and character development opportunities in the Battlefield series,” said Lehto, game director and head of Ridgeline Games.\n Read more",
+          "link": "https://www.vg247.com/new-ea-studio-to-develop-narrative-campaign-set-in-the-battlefield-universe",
+          "publishedOn": "2022-09-08T17:32:42.000Z",
+          "wordCount": 4526,
+          "title": "New EA studio to develop narrative campaign set in the Battlefield universe",
+          "imageUrl": "https://asset.vg247.com/battlefield-2042-zero-hour-screen-1.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/battlefield-2042-zero-hour-screen-1.jpg"
+        },
         {
           "id": "https://www.vg247.com/football-manager-2023-release-date-ps5-apple-arcade",
           "author": "Stephany Nunneley",
@@ -15711,6 +15721,51 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "TqjuaMz2ucjshBkdvWSUYY",
+          "author": "francisco.pires@outlook.com (Francisco Pires)",
+          "description": "AMD keeps providing the goods with its open-source alternative to NVIDIA's DLSS, heating up the supersampling tech wars.",
+          "link": "https://www.tomshardware.com/news/amd-fidelityfx-super-resolution-v21-improves-ghosting-temporal-stability",
+          "publishedOn": "2022-09-08T17:57:23.000Z",
+          "wordCount": 18999,
+          "title": "AMD FidelityFX Super Resolution V2.1 Improves Ghosting, Temporal Stability",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/qtfXzqbG766fFFqdEPYBVK.jpeg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/qtfXzqbG766fFFqdEPYBVK.jpeg"
+        },
+        {
+          "id": "QVxcbLMHcGDbZKqwWvXi2a",
+          "author": null,
+          "description": "Cooler Master is releasing new 120mm ARGB and non-RGB fans that promises to provide good performance while featuring smooth and quiet operation.",
+          "link": "https://www.tomshardware.com/news/mobius-120mm-anti-vibration-fans-cooler-master",
+          "publishedOn": "2022-09-08T17:44:49.000Z",
+          "wordCount": 17963,
+          "title": "Cooler Master Launches New 120mm Fans That Promise To Reduce Unwanted Vibrations",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/p8nQEF9wFxMc2YCUwTbc4.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/p8nQEF9wFxMc2YCUwTbc4.png"
+        },
+        {
+          "id": "eb5Pgm5QuajtXF5JmGgVEV",
+          "author": null,
+          "description": "Radxa’s new board is CM4 compatible but has more powerful specs.",
+          "link": "https://www.tomshardware.com/news/radxa-compute-module-takes-on-raspberry-pi",
+          "publishedOn": "2022-09-08T17:20:31.000Z",
+          "wordCount": 18893,
+          "title": "Radxa Lifts Lid on Eight-core Compute Module To Take On Raspberry Pi",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/7mCQ8zkBYeruXYFrtGQmkc.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/7mCQ8zkBYeruXYFrtGQmkc.jpg"
+        },
+        {
           "id": "kMWrmz8Ezh9sAz2WfS2U5R",
           "author": null,
           "description": "Here are the best power supplies for gaming PCs. These PSUs offer the best reliability, performance and protection for your PC components.",
@@ -21861,6 +21916,36 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1879685",
+          "author": "Ron Amadeo",
+          "description": "It sounds like Google's 4-year-old 1080p streamer is getting a full OS and remote.",
+          "link": "https://arstechnica.com/?p=1879685",
+          "publishedOn": "2022-09-08T17:21:54.000Z",
+          "wordCount": 1398,
+          "title": "The cheap Chromecast is rumored to also upgrade to Google TV",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/chrome_slTTpq3sq4-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1879723",
+          "author": "Jon Brodkin",
+          "description": "Judge also chides Musk for wasting time, says there's no time for \"just kiddings.\"",
+          "link": "https://arstechnica.com/?p=1879723",
+          "publishedOn": "2022-09-08T17:07:58.000Z",
+          "wordCount": 1643,
+          "title": "Judge slams Musk for withholding text messages, cites “glaring” omissions",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-musk-twitter-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1879606",
+          "author": "Benj Edwards",
+          "description": "New AI tool alters the style and timbre of your voice, concealing your vocal identity.",
+          "link": "https://arstechnica.com/?p=1879606",
+          "publishedOn": "2022-09-08T16:24:40.000Z",
+          "wordCount": 1730,
+          "title": "With Koe Recast, you can change your voice as easily as your clothing",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/colorful_waveform-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1879607",
           "author": "Jennifer Ouellette",
@@ -30654,6 +30739,16 @@
       "siteUrl": "https://www.theregister.com/",
       "articles": [
         {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/08/amazon_andy_jassy_hiring_return_to_office/",
+          "author": null,
+          "description": "<h4>Anyone fancy renting some office space?</h4> <p>Amazon CEO Andy Jassy says the parent firm of the world's largest cloud service provider will likely slow the rate at which it's hiring staff, while noting he has no plans to force current workers to return to the office.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/08/amazon_andy_jassy_hiring_return_to_office/",
+          "publishedOn": "2022-09-08T18:12:11.000Z",
+          "wordCount": 1576,
+          "title": "Amazon CEO says company will slow hiring rate, no hard return to office planned",
+          "imageUrl": "https://regmedia.co.uk/2020/12/03/andy_jassy_reinvent_2020.jpg"
+        },
+        {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/08/virginia_datacenter_alley_capacity/",
           "author": null,
           "description": "<h4>Welcome to Datacenter Alley, where you'll find the backbones of Microsoft, Facebook, Google, ByteDance...</h4> <p>The state of Virginia has over a third of America's hyperscale datacenter capacity, and this amounts to more than the entire capacity of China or the whole of Europe, highlighting just how much infrastructure is concentrated along the so-called Datacenter Alley.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
@@ -35492,16 +35587,6 @@
           "wordCount": 1279,
           "title": "Unity game engine attracts big cash from China's tech titans",
           "imageUrl": "https://regmedia.co.uk/2021/04/13/unity-masterbrand-black.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/10/apple_google_south_korea_investigation/",
-          "author": null,
-          "description": "<h4>Feels some actions may amount to coercion to stick with giants' own payment schemes instead of seeking alternatives</h4> <p>South Korea's Communications Commission (KCC) said on Tuesday it is investigating Google, Apple and domestic app store operator One Store Co. over sneaky ways the companies may be dodging the country's in-app payment laws.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/10/apple_google_south_korea_investigation/",
-          "publishedOn": "2022-08-10T06:25:11.000Z",
-          "wordCount": 1254,
-          "title": "South Korean regulator worried Apple, Google, may be working around app store payment choice law",
-          "imageUrl": "https://regmedia.co.uk/2022/04/06/shutterstock_south_korea_flag_icon.jpg"
         }
       ]
     }
