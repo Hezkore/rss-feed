@@ -1673,6 +1673,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/battlefield-creative-director-lars-gustavsson-leaving-dice-after-more-than-20-years",
+          "author": "Matt Wales",
+          "description": "Lars Gustavsson, creative director on the Battlefield series, is leaving its developer DICE after more than 20 years at the studio.\r\n\n\r\nNews of Gustavsson's departure from Battlefield, DICE, and indeed EA as a whole, was announced by Battlefield general manager Byron Beede in a blog post detailing the future of the long-running first-person shooter series.\r\n\n\r\n\"Lars Gustavsson, who has been with the franchise since the beginning and is affectionately known as Mr Battlefield, has decided he is ready for a new adventure,\" Beede wrote. \"Lars has dedicated a substantial portion of his life to Battlefield and is proud to have helped shape the franchise into what it is today. He is excited to pass the baton to the next generation of Battlefield creators at DICE, Ripple Effect, Industrial Toys, and Ridgeline Games.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/battlefield-creative-director-lars-gustavsson-leaving-dice-after-more-than-20-years",
+          "publishedOn": "2022-09-08T16:36:11.000Z",
+          "wordCount": 4709,
+          "title": "Battlefield creative director Lars Gustavsson leaving DICE after 22 years",
+          "imageUrl": "https://assets.reedpopcdn.com/bf2042_ojtv1oJ.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/bf2042_ojtv1oJ.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/the-nier-automata-secret-church-is-now-open-to-the-public",
           "author": "Ed Nightingale",
           "description": "The NieR: Automata secret church that had players puzzled back in July is now available as a mod.\r\n\n\r\nFans originally thought the new area was a long-hidden secret, but now it's accessible by downloading The NieR Automata Church mod on NexusMods.\r\n\r\n\n\r\n\"Hello, i'm new to reddit and want to know how to open the church in Nier'Automata,\" reads the description, in a cheeky nod to the mod's humble beginnings as a confusing reddit post.\r\n \nRead more",
@@ -9897,6 +9907,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Blender-3.3-CPU-Benchmarks",
+          "author": null,
+          "description": "With yesterday's release of Blender 3.3 much of the excitement has been about the new Intel oneAPI back-end for Arc Graphics acceleration and also improvements to AMD's HIP back-end for supporting GPUs back to Vega. However, even if you are using CPU-based rendering, Blender 3.3 LTS is looking like a nice upgrade for better performance...",
+          "link": "https://www.phoronix.com/news/Blender-3.3-CPU-Benchmarks",
+          "publishedOn": "2022-09-08T16:53:01.000Z",
+          "wordCount": 1372,
+          "title": "Blender 3.3 CPU-Based Performance Looking Nice For AMD & Intel",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/AMD-FidelityFX-FSR-2.1",
           "author": null,
           "description": "AMD's GPUOpen group has released an updated version of FidelityFX Super Resolution 2. The new FSR 2.1 brings quality enhancements and a reduction in artifacts as the primary benefits over the original FSR2 that was unvelied earlier this year and open-sourced during the summer...",
@@ -15690,6 +15710,51 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "kMWrmz8Ezh9sAz2WfS2U5R",
+          "author": null,
+          "description": "Here are the best power supplies for gaming PCs. These PSUs offer the best reliability, performance and protection for your PC components.",
+          "link": "https://www.tomshardware.com/reviews/best-psus,4229.html",
+          "publishedOn": "2022-09-08T16:50:30.000Z",
+          "wordCount": 22305,
+          "title": "Best Power Supplies 2022",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/7ME636bQNGEGGrg5qEtWrK.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/7ME636bQNGEGGrg5qEtWrK.jpg"
+        },
+        {
+          "id": "DvSiZuNpcfCrDAWQjgG7hj",
+          "author": null,
+          "description": "Seagate's prototype machine is the size of a family kitchen, but using ‘lab on a chip’ technology it is hoped to shrink the device size down to seven liters.",
+          "link": "https://www.tomshardware.com/news/seagate-partners-with-dna-tech-startup-for-1000x-data-densities",
+          "publishedOn": "2022-09-08T16:44:48.000Z",
+          "wordCount": 17886,
+          "title": "Seagate Partners With DNA Tech Startup for 1000x Data Densities",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/t4p4SmNnFcX7EaAxhMAd8Y.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/t4p4SmNnFcX7EaAxhMAd8Y.jpg"
+        },
+        {
+          "id": "6tT8vZif93bMTJ3BaLYEdP",
+          "author": null,
+          "description": "EVGA is back at top performance with the SuperNOVA 850 G7.",
+          "link": "https://www.tomshardware.com/reviews/evga-supernova-850-g7-power-supply-review",
+          "publishedOn": "2022-09-08T16:29:00.000Z",
+          "wordCount": 21070,
+          "title": "EVGA SuperNOVA 850 G7 Power Supply Review",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/c4j24LdtfV3qMRw4ta4dDc.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/c4j24LdtfV3qMRw4ta4dDc.png"
+        },
         {
           "id": "j5s4eKMhx8evmxEsMMcgrj",
           "author": null,
@@ -25004,6 +25069,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291395",
+          "author": null,
+          "description": "Är \"på god väg\".",
+          "link": "https://www.fz.se/artikel/291395-cd-projekt-new-gen-releasen-av-the-witcher-3-kommer-slappas-i-ar",
+          "publishedOn": "2022-09-08T16:57:00.000Z",
+          "wordCount": 1863,
+          "title": "CD Projekt: new-gen-releasen av The Witcher 3 kommer släppas i år",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291395"
+        },
+        {
           "id": "https://www.fz.se/artikel/291394",
           "author": null,
           "description": "Square Enix inte längre ansvariga.",
@@ -28351,6 +28426,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34892",
+          "author": null,
+          "description": "Folket som gästade Meet & Geek GBG fick en rejäl utmaning i quizform och vinnarlaget kammade hem segern med blygsamma 4 poäng. Anta utmaningen och visa att du är bättre än göteborgarna!",
+          "link": "https://www.sweclockers.com/artikel/34892-quiz-ar-du-smartare-an-en-goteborgare",
+          "publishedOn": "2022-09-08T16:38:00.000Z",
+          "wordCount": 1545,
+          "title": "Quiz: Är du smartare än en göteborgare?",
+          "imageUrl": "https://www.sweclockers.com/artikel/34892/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34893",
           "author": null,
           "description": "Med evenemanget GTC nära förestående bjuder Nvidia datorentusiaster till specialsändningen \"Project Beyond\" med mystisk teaser.",
@@ -30568,6 +30653,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/08/virginia_datacenter_alley_capacity/",
+          "author": null,
+          "description": "<h4>Welcome to Datacenter Alley, where you'll find the backbones of Microsoft, Facebook, Google, ByteDance...</h4> <p>The state of Virginia has over a third of America's hyperscale datacenter capacity, and this amounts to more than the entire capacity of China or the whole of Europe, highlighting just how much infrastructure is concentrated along the so-called Datacenter Alley.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/08/virginia_datacenter_alley_capacity/",
+          "publishedOn": "2022-09-08T17:06:11.000Z",
+          "wordCount": 1441,
+          "title": "US state of Virginia has more datacenter capacity than Europe or China",
+          "imageUrl": "https://regmedia.co.uk/2022/09/08/shutterstock_virginia.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/08/axiom_spacesuits_artemis_moon_astronauts/",
           "author": null,
@@ -35407,16 +35502,6 @@
           "wordCount": 1254,
           "title": "South Korean regulator worried Apple, Google, may be working around app store payment choice law",
           "imageUrl": "https://regmedia.co.uk/2022/04/06/shutterstock_south_korea_flag_icon.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/10/lenovo_q1_23/",
-          "author": null,
-          "description": "<h4>Sees sunlit uplands ahead with plans for factory and ITaaS expansions</h4> <p>Lenovo's Infrastructure Solutions Group has reported a third straight quarterly profit, and the company sees better days ahead in the field so has ordered expansion of plants in Mexico and Hungary.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/10/lenovo_q1_23/",
-          "publishedOn": "2022-08-10T05:30:08.000Z",
-          "wordCount": 1381,
-          "title": "Clouds lift Lenovo ISG to third consecutive profit",
-          "imageUrl": "https://regmedia.co.uk/2022/02/23/shutterstock_lenovo_editorial_only.jpg"
         }
       ]
     }
