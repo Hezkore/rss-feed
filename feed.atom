@@ -2,10 +2,124 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-08T09:25:38.310Z</updated>
+    <updated>2022-09-08T10:27:35.395Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AMD Ryzen 7 5800X3D - Windows 11 vs. Ubuntu 22.04 LTS Linux Benchmarks]]></title>
+        <id>https://www.phoronix.com/review/5800x3d-windows11-linux</id>
+        <link href="https://www.phoronix.com/review/5800x3d-windows11-linux"/>
+        <updated>2022-09-08T10:10:06.000Z</updated>
+        <summary type="html"><![CDATA[With the AMD Ryzen 7 5800X3D as the first consumer processor with AMD 3D V-Cache technology that launched earlier this year, the Linux performance has been fantastic for a variety of workloads especially in areas of technical computing and other non-gaming workloads -- similar to the great results we've enjoyed with AMD EPYC Milan-X processors too. One of the areas I hadn't had a chance to look at until recently was how the Windows 11 vs. Linux performance is looking for this Ryzen CPU with its 96MB L3 cache. Here are those quick benchmarks.]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paper Animal RPG takes inspiration from Paper Mario and Pokémon Mystery Dungeon]]></title>
+        <id>https://www.gamingonlinux.com/2022/09/paper-animal-rpg-takes-inspiration-from-paper-mario-and-pokemon-mystery-dungeon/</id>
+        <link href="https://www.gamingonlinux.com/2022/09/paper-animal-rpg-takes-inspiration-from-paper-mario-and-pokemon-mystery-dungeon/"/>
+        <updated>2022-09-08T10:06:55.000Z</updated>
+        <summary type="html"><![CDATA[Paper Animal RPG is a rather cute looking upcoming game. Currently in development from Cuddling Raccoons Studio it's a mixture of exploration, dungeon crawling, combat and a little relaxation by the campfire too.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best SSD and Hard Drive Deals 2022]]></title>
+        <id>H8j8FJesm47HqhyoP9jdR9</id>
+        <link href="https://www.tomshardware.com/features/best-deals-on-ssds"/>
+        <updated>2022-09-08T10:03:47.000Z</updated>
+        <summary type="html"><![CDATA[These are the best SSD and HDD deals — guaranteed to expand the storage on your PC without emptying your wallet.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beast Breaker devs are closing due to lack of funding, along with their historic workers union]]></title>
+        <id>https://www.rockpapershotgun.com/beast-breaker-devs-are-closing-due-to-lack-of-funding-along-with-their-historic-workers-union</id>
+        <link href="https://www.rockpapershotgun.com/beast-breaker-devs-are-closing-due-to-lack-of-funding-along-with-their-historic-workers-union"/>
+        <updated>2022-09-08T10:00:48.000Z</updated>
+        <summary type="html"><![CDATA[Vodeo Games, the first game development studio in North America to unionise, are shutting down. The team behind turn-based RPG Beast Breaker announced their closure on Twitter, after being unable to find financial backers for another project. Beast Breaker wasn’t a game I was familiar with but its little mouse protagonist looks charming, as you can see in the trailer below.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>CJ Wheeler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quiz – Vad kan du om Battlefield?]]></title>
+        <id>https://www.fz.se/artikel/291054</id>
+        <link href="https://www.fz.se/artikel/291054-quiz-vad-kan-du-om-battlefield"/>
+        <updated>2022-09-08T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[20 år har gått sedan Battlefield 1942. FZ firar med ett jubileumsquiz.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playstation 5 med omdanat inre är energisnålare]]></title>
+        <id>https://www.sweclockers.com/artikel/34884</id>
+        <link href="https://www.sweclockers.com/artikel/34884-playstation-5-med-omdanat-inre-ar-energisnalare"/>
+        <updated>2022-09-08T09:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Den nya revisionen av Playstation 5 har ett mindre moderkort och förändrad kylning, något som ser ut att ge ett lägre effektuttag.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Distrobox 1.4 Released - Easier Container Upgrades, Local Podman Install For Steam Deck]]></title>
+        <id>https://www.phoronix.com/news/Distrobox-1.4-Released</id>
+        <link href="https://www.phoronix.com/news/Distrobox-1.4-Released"/>
+        <updated>2022-09-08T09:49:11.000Z</updated>
+        <summary type="html"><![CDATA[Distrobox is the open-source software that quickly and easily fires up Linux distributions in containers for helping to augment the package selection from your host distribution, easily experiment with different distributions, and other use-cases. Distrobox 1.4 is out this week with the latest enhancements for this project...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skyrim mod adds hidden keys to find for all those locked chests]]></title>
+        <id>https://www.rockpapershotgun.com/skyrim-mod-adds-hidden-keys-to-find-for-all-those-locked-chests</id>
+        <link href="https://www.rockpapershotgun.com/skyrim-mod-adds-hidden-keys-to-find-for-all-those-locked-chests"/>
+        <updated>2022-09-08T09:48:32.000Z</updated>
+        <summary type="html"><![CDATA[Every corner of Skyrim houses a locked chest, but where are all the keys? Only a handful actually have keys to open them. So do the chest's owners lockpick them every time they want an apple or knife? Are these chests merely decorative, their contents deemed inaccessible and long forgotten? A new mod for Skyrim Special Edition answers this playfully by adding a load of hidden keys to unlock these chests. Some of the keys look quite well hidden in this object hunt, so you'll need to poke around, rummage, and turn things over.
+Read more]]></summary>
+        <author>
+            <name>Alice O'Connor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulkan 1.3.227 Adds Legacy Dithering Extension To Help OpenGL On Vulkan]]></title>
+        <id>https://www.phoronix.com/news/Vulkan-1.3.227-Released</id>
+        <link href="https://www.phoronix.com/news/Vulkan-1.3.227-Released"/>
+        <updated>2022-09-08T09:28:56.000Z</updated>
+        <summary type="html"><![CDATA[Last week saw the debut of Vulkan 1.3.226 with mesh shader support introduced as a new cross-vendor extension while out this morning is Vulkan 1.3.227 with a new extension for helping the layering of OpenGL atop Vulkan...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Storrea - 16 euro för Mafia-remaken, Xcom x2, Borderlands 3, Civ 6, Bioshock x3...]]></title>
+        <id>https://www.fz.se/artikel/291389</id>
+        <link href="https://www.fz.se/artikel/291389-storrea-16-euro-for-mafia-remaken-xcom-x2-borderlands-3-civ-6-bioshock-x3"/>
+        <updated>2022-09-08T09:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Humble Bundle kränger 2K-spel för en spottstyver.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Halfords slapped on wrist for breaching email marketing laws]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/08/halfords_ico_email_breach_pecr_fine/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/08/halfords_ico_email_breach_pecr_fine/"/>
+        <updated>2022-09-08T09:27:06.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Bike and car accessory slinger fined £30,000 for hitting send on more than 499k unsolicited emails</h4> <p>Bike and car accessory retailer Halfords has found itself in the wrong lane with Britain’s data watchdog for sending hundreds of thousands of unsolicited marketing emails to members of the public.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Qt 5.15.6 LTS Open-Source Version Released]]></title>
         <id>https://www.phoronix.com/news/Qt-5.15.6-LTS-Open-Source</id>
@@ -38945,59 +39059,6 @@ As of today, Farthest Frontier is now in early access.
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Google site begs Apple for mercy in messaging war]]></title>
-        <id>https://arstechnica.com/?p=1872402</id>
-        <link href="https://arstechnica.com/?p=1872402"/>
-        <updated>2022-08-09T22:18:18.000Z</updated>
-        <summary type="html"><![CDATA[Google is tired of losing so badly to iMessage, so it wants Apple to adopt RCS.]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Micron pledges $40b for US fabs as financial headwinds mount]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/09/micron_40b_fabs/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/09/micron_40b_fabs/"/>
-        <updated>2022-08-09T22:15:10.000Z</updated>
-        <summary type="html"><![CDATA[<h4>The memory biz is bracing for a recession-fueled drop in demand</h4> <p>Micron committed to investing $40 billion in new semiconductor manufacturing capacity in the US over the next decade, even as the company warns of financial headwinds due to slipping product demand.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Patch Tuesday: Yet another Microsoft RCE bug under active exploit]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/09/august_patch_tuesday_microsoft/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/09/august_patch_tuesday_microsoft/"/>
-        <updated>2022-08-09T21:51:15.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Oh, and that critical VMware auth bypass vuln? Miscreants found it, too</h4> <p>August Patch Tuesday clicks off the week of hacker summer camp in Las Vegas this year, so it's basically a code cracker's holiday too. …</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity considering $17.5b offer from mobile tech company AppLovin]]></title>
-        <id>https://www.rockpapershotgun.com/unity-considering-175b-offer-from-mobile-tech-company-applovin</id>
-        <link href="https://www.rockpapershotgun.com/unity-considering-175b-offer-from-mobile-tech-company-applovin"/>
-        <updated>2022-08-09T21:47:07.000Z</updated>
-        <summary type="html"><![CDATA[Mobile gaming technology company AppLovin have made an offer to buy Unity Software in a $17.54 billion all-stock deal. As reported by Reuters, Unity's board said it would consider the offer. The proposal comes a few weeks after Unity announced plans to purchase AppLovin competitor ironSource.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teen’s jailing shows exactly how Facebook will help anti-abortion states]]></title>
-        <id>https://arstechnica.com/?p=1872574</id>
-        <link href="https://arstechnica.com/?p=1872574"/>
-        <updated>2022-08-09T21:45:45.000Z</updated>
-        <summary type="html"><![CDATA[A teen shared one message, then cops requested all her data without her consent.]]></summary>
-        <author>
-            <name>Ashley Belanger</name>
         </author>
     </entry>
 </feed>

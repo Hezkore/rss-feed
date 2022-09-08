@@ -286,6 +286,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/09/paper-animal-rpg-takes-inspiration-from-paper-mario-and-pokemon-mystery-dungeon/",
+          "author": "Liam Dawe",
+          "description": "Paper Animal RPG is a rather cute looking upcoming game. Currently in development from Cuddling Raccoons Studio it's a mixture of exploration, dungeon crawling, combat and a little relaxation by the campfire too.",
+          "link": "https://www.gamingonlinux.com/2022/09/paper-animal-rpg-takes-inspiration-from-paper-mario-and-pokemon-mystery-dungeon/",
+          "publishedOn": "2022-09-08T10:06:55.000Z",
+          "wordCount": 1296,
+          "title": "Paper Animal RPG takes inspiration from Paper Mario and Pokémon Mystery Dungeon",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/887847854id21565gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/09/the-excavation-of-hobs-barrow-releases-september-28th/",
           "author": "Liam Dawe",
           "description": "The Excavation of Hob's Barrow is an upcoming folk horror narrative-driven point and click adventure, with a really great mixture of animated pixel-art and Native Linux support.",
@@ -9667,6 +9677,36 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/review/5800x3d-windows11-linux",
+          "author": null,
+          "description": "With the AMD Ryzen 7 5800X3D as the first consumer processor with AMD 3D V-Cache technology that launched earlier this year, the Linux performance has been fantastic for a variety of workloads especially in areas of technical computing and other non-gaming workloads -- similar to the great results we've enjoyed with AMD EPYC Milan-X processors too. One of the areas I hadn't had a chance to look at until recently was how the Windows 11 vs. Linux performance is looking for this Ryzen CPU with its 96MB L3 cache. Here are those quick benchmarks.",
+          "link": "https://www.phoronix.com/review/5800x3d-windows11-linux",
+          "publishedOn": "2022-09-08T10:10:06.000Z",
+          "wordCount": 1307,
+          "title": "AMD Ryzen 7 5800X3D - Windows 11 vs. Ubuntu 22.04 LTS Linux Benchmarks",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Distrobox-1.4-Released",
+          "author": null,
+          "description": "Distrobox is the open-source software that quickly and easily fires up Linux distributions in containers for helping to augment the package selection from your host distribution, easily experiment with different distributions, and other use-cases. Distrobox 1.4 is out this week with the latest enhancements for this project...",
+          "link": "https://www.phoronix.com/news/Distrobox-1.4-Released",
+          "publishedOn": "2022-09-08T09:49:11.000Z",
+          "wordCount": 1466,
+          "title": "Distrobox 1.4 Released - Easier Container Upgrades, Local Podman Install For Steam Deck",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Vulkan-1.3.227-Released",
+          "author": null,
+          "description": "Last week saw the debut of Vulkan 1.3.226 with mesh shader support introduced as a new cross-vendor extension while out this morning is Vulkan 1.3.227 with a new extension for helping the layering of OpenGL atop Vulkan...",
+          "link": "https://www.phoronix.com/news/Vulkan-1.3.227-Released",
+          "publishedOn": "2022-09-08T09:28:56.000Z",
+          "wordCount": 1305,
+          "title": "Vulkan 1.3.227 Adds Legacy Dithering Extension To Help OpenGL On Vulkan",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Qt-5.15.6-LTS-Open-Source",
           "author": null,
           "description": "One day shy of a year since Qt 5.15.6 LTS Commercial was released, The Qt Company has now published that point release as open-source...",
@@ -11933,6 +11973,26 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/beast-breaker-devs-are-closing-due-to-lack-of-funding-along-with-their-historic-workers-union",
+          "author": "CJ Wheeler",
+          "description": "Vodeo Games, the first game development studio in North America to unionise, are shutting down. The team behind turn-based RPG Beast Breaker announced their closure on Twitter, after being unable to find financial backers for another project. Beast Breaker wasn’t a game I was familiar with but its little mouse protagonist looks charming, as you can see in the trailer below.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/beast-breaker-devs-are-closing-due-to-lack-of-funding-along-with-their-historic-workers-union",
+          "publishedOn": "2022-09-08T10:00:48.000Z",
+          "wordCount": 4989,
+          "title": "Beast Breaker devs are closing due to lack of funding, along with their historic workers union",
+          "imageUrl": "https://assets2.rockpapershotgun.com/Beast-Breaker-main.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Beast-Breaker-main.jpg"
+        },
+        {
+          "id": "https://www.rockpapershotgun.com/skyrim-mod-adds-hidden-keys-to-find-for-all-those-locked-chests",
+          "author": "Alice O'Connor",
+          "description": "Every corner of Skyrim houses a locked chest, but where are all the keys? Only a handful actually have keys to open them. So do the chest's owners lockpick them every time they want an apple or knife? Are these chests merely decorative, their contents deemed inaccessible and long forgotten? A new mod for Skyrim Special Edition answers this playfully by adding a load of hidden keys to unlock these chests. Some of the keys look quite well hidden in this object hunt, so you'll need to poke around, rummage, and turn things over.\nRead more",
+          "link": "https://www.rockpapershotgun.com/skyrim-mod-adds-hidden-keys-to-find-for-all-those-locked-chests",
+          "publishedOn": "2022-09-08T09:48:32.000Z",
+          "wordCount": 4907,
+          "title": "Skyrim mod adds hidden keys to find for all those locked chests",
+          "imageUrl": "https://assets2.rockpapershotgun.com/skyrim-locked-chest.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/skyrim-locked-chest.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/a-plague-tale-requiem-has-dialled-up-the-rat-horror-but-shows-restraint-in-its-approach-to-violence",
           "author": "Katharine Castle",
@@ -15292,16 +15352,6 @@
           "wordCount": 4669,
           "title": "Farthest Frontiers, a Banished-style survival citybuilder, is out in early access",
           "imageUrl": "https://assets2.rockpapershotgun.com/farthest-frontier-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/farthest-frontier-header.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/unity-considering-175b-offer-from-mobile-tech-company-applovin",
-          "author": "Graham Smith",
-          "description": "Mobile gaming technology company AppLovin have made an offer to buy Unity Software in a $17.54 billion all-stock deal. As reported by Reuters, Unity's board said it would consider the offer. The proposal comes a few weeks after Unity announced plans to purchase AppLovin competitor ironSource.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/unity-considering-175b-offer-from-mobile-tech-company-applovin",
-          "publishedOn": "2022-08-09T21:47:07.000Z",
-          "wordCount": 4602,
-          "title": "Unity considering $17.5b offer from mobile tech company AppLovin",
-          "imageUrl": "https://assets2.rockpapershotgun.com/Unity-logo_0xsnwMk.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Unity-logo_0xsnwMk.jpg"
         }
       ]
     },
@@ -15310,6 +15360,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "H8j8FJesm47HqhyoP9jdR9",
+          "author": null,
+          "description": "These are the best SSD and HDD deals — guaranteed to expand the storage on your PC without emptying your wallet.",
+          "link": "https://www.tomshardware.com/features/best-deals-on-ssds",
+          "publishedOn": "2022-09-08T10:03:47.000Z",
+          "wordCount": 19394,
+          "title": "Best SSD and Hard Drive Deals 2022",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/6crC2XE5J6sgVFWpvDbssN.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/6crC2XE5J6sgVFWpvDbssN.jpg"
+        },
         {
           "id": "8MDxhPCjyoRWuRpX2ffNyX",
           "author": "palcorn@outlook.com (Paul Alcorn)",
@@ -24435,26 +24500,6 @@
           "wordCount": 1628,
           "title": "These researchers watched dead fish rot for 70 days—for science",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/fish-rot-study-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1872402",
-          "author": "Ron Amadeo",
-          "description": "Google is tired of losing so badly to iMessage, so it wants Apple to adopt RCS.",
-          "link": "https://arstechnica.com/?p=1872402",
-          "publishedOn": "2022-08-09T22:18:18.000Z",
-          "wordCount": 1912,
-          "title": "New Google site begs Apple for mercy in messaging war",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/08/Google-Messaging-mess-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1872574",
-          "author": "Ashley Belanger",
-          "description": "A teen shared one message, then cops requested all her data without her consent.",
-          "link": "https://arstechnica.com/?p=1872574",
-          "publishedOn": "2022-08-09T21:45:45.000Z",
-          "wordCount": 1893,
-          "title": "Teen’s jailing shows exactly how Facebook will help anti-abortion states",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-964465830-760x380.jpg"
         }
       ]
     },
@@ -24463,6 +24508,26 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291054",
+          "author": null,
+          "description": "20 år har gått sedan Battlefield 1942. FZ firar med ett jubileumsquiz.",
+          "link": "https://www.fz.se/artikel/291054-quiz-vad-kan-du-om-battlefield",
+          "publishedOn": "2022-09-08T10:00:00.000Z",
+          "wordCount": 1805,
+          "title": "Quiz – Vad kan du om Battlefield?",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291054"
+        },
+        {
+          "id": "https://www.fz.se/artikel/291389",
+          "author": null,
+          "description": "Humble Bundle kränger 2K-spel för en spottstyver.",
+          "link": "https://www.fz.se/artikel/291389-storrea-16-euro-for-mafia-remaken-xcom-x2-borderlands-3-civ-6-bioshock-x3",
+          "publishedOn": "2022-09-08T09:28:00.000Z",
+          "wordCount": 1941,
+          "title": "Storrea - 16 euro för Mafia-remaken, Xcom x2, Borderlands 3, Civ 6, Bioshock x3...",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291389"
+        },
         {
           "id": "https://www.fz.se/artikel/291388",
           "author": null,
@@ -27751,6 +27816,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34884",
+          "author": null,
+          "description": "Den nya revisionen av Playstation 5 har ett mindre moderkort och förändrad kylning, något som ser ut att ge ett lägre effektuttag.",
+          "link": "https://www.sweclockers.com/artikel/34884-playstation-5-med-omdanat-inre-ar-energisnalare",
+          "publishedOn": "2022-09-08T09:59:00.000Z",
+          "wordCount": 1665,
+          "title": "Playstation 5 med omdanat inre är energisnålare",
+          "imageUrl": "https://www.sweclockers.com/artikel/34884/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34885",
           "author": null,
           "description": "Bolaget vill bland annat göra det tydligare att se vilken arkitektur som används i en specifik processor genom att endast titta på modellnamnet.",
@@ -29918,6 +29993,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/08/halfords_ico_email_breach_pecr_fine/",
+          "author": null,
+          "description": "<h4>Bike and car accessory slinger fined £30,000 for hitting send on more than 499k unsolicited emails</h4> <p>Bike and car accessory retailer Halfords has found itself in the wrong lane with Britain’s data watchdog for sending hundreds of thousands of unsolicited marketing emails to members of the public.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/08/halfords_ico_email_breach_pecr_fine/",
+          "publishedOn": "2022-09-08T09:27:06.000Z",
+          "wordCount": 1234,
+          "title": "Halfords slapped on wrist for breaching email marketing laws",
+          "imageUrl": "https://regmedia.co.uk/2018/06/05/shutterstock_red_card.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/08/open_source_biz_sick_of/",
           "author": null,
@@ -34737,26 +34822,6 @@
           "wordCount": 1321,
           "title": "US claims Chinese supplier violated export rules by helping ZTE sell telco equipment to Iran",
           "imageUrl": "https://regmedia.co.uk/2021/03/15/us_binary.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/09/micron_40b_fabs/",
-          "author": null,
-          "description": "<h4>The memory biz is bracing for a recession-fueled drop in demand</h4> <p>Micron committed to investing $40 billion in new semiconductor manufacturing capacity in the US over the next decade, even as the company warns of financial headwinds due to slipping product demand.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/09/micron_40b_fabs/",
-          "publishedOn": "2022-08-09T22:15:10.000Z",
-          "wordCount": 1459,
-          "title": "Micron pledges $40b for US fabs as financial headwinds mount",
-          "imageUrl": "https://regmedia.co.uk/2021/03/17/shutterstock_micron_boise.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/09/august_patch_tuesday_microsoft/",
-          "author": null,
-          "description": "<h4>Oh, and that critical VMware auth bypass vuln? Miscreants found it, too</h4> <p>August Patch Tuesday clicks off the week of hacker summer camp in Las Vegas this year, so it's basically a code cracker's holiday too. …</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/09/august_patch_tuesday_microsoft/",
-          "publishedOn": "2022-08-09T21:51:15.000Z",
-          "wordCount": 2203,
-          "title": "Patch Tuesday: Yet another Microsoft RCE bug under active exploit",
-          "imageUrl": "https://regmedia.co.uk/2022/08/09/pirate_eye_patch_shutterstock.jpg"
         }
       ]
     }
