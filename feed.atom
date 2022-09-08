@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-07T23:29:05.048Z</updated>
+    <updated>2022-09-08T02:39:41.290Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple Silicon takes a back seat at iPhone-heavy launch event]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/07/apple_silicon_iphone/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/07/apple_silicon_iphone/"/>
+        <updated>2022-09-07T23:50:11.000Z</updated>
+        <summary type="html"><![CDATA[<h4>We guess new chips are only for Pros</h4> <p>At this week’s big iPhone launch, Apple's custom Arm-compatible chips – known as Apple Silicon – received little fanfare compared to what the processors have enjoyed at previous events.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine is under attack by hacking tools repurposed from Conti cybercrime group]]></title>
+        <id>https://arstechnica.com/?p=1879583</id>
+        <link href="https://arstechnica.com/?p=1879583"/>
+        <updated>2022-09-07T23:30:03.000Z</updated>
+        <summary type="html"><![CDATA[Researchers from Google and IBM see unprecedented blurring of lines.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[£48 is a ludicrously low price for Razer's flagship wireless mouse]]></title>
         <id>https://www.rockpapershotgun.com/48-is-a-ludicrously-low-price-for-razers-flagship-wireless-mouse</id>
@@ -36,6 +56,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[While LLVM 15.0 was just released this week with many new compiler features, a big change just merged for next spring's LLVM/Clang 16.0 release: C++17 with GNU extensions is now the default C++ and ObjectiveC++ version...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hands-on with the Apple Watch Ultra and AirPods Pro]]></title>
+        <id>https://arstechnica.com/?p=1879554</id>
+        <link href="https://arstechnica.com/?p=1879554"/>
+        <updated>2022-09-07T22:29:24.000Z</updated>
+        <summary type="html"><![CDATA[Plus glimpses of the updated Apple Watch SE and Apple Watch Series 8.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
         </author>
     </entry>
     <entry>
@@ -223,6 +253,16 @@ Hardly a shocking revelation, admittedly, but additional clarity is always welco
 Read more]]></summary>
         <author>
             <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comic for 2022.09.07 - Rough Start]]></title>
+        <id>https://explosm.net/comics/rough-start</id>
+        <link href="https://explosm.net/comics/rough-start"/>
+        <updated>2022-09-07T19:19:36.000Z</updated>
+        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
+        <author>
+            <name>Explosm.net</name>
         </author>
     </entry>
     <entry>
@@ -39243,418 +39283,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[A new report has revealed that AMD's mysterious Sabrina project was just an alias for the already announced Mendocino project, featuring Zen 2 6nm SoC's running RDAN2 graphics.]]></summary>
         <author>
             <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Space Force deploys robot dogs at Cape Canaveral base]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/09/space_force_robot_dogs/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/09/space_force_robot_dogs/"/>
-        <updated>2022-08-09T14:30:10.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Patrolling quadrupeds not fitted with 7.62mm tank machine guns – yet</h4> <p>Space Force, the sixth branch of the US military has tasked robot dogs with patrolling its base at Cape Canaveral.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What if Pong had 'lore, special moves & gay aliens'? You get ZONERS]]></title>
-        <id>https://www.gamingonlinux.com/2022/08/what-if-pong-had-lore-special-moves-gay-aliens-you-get-zoners/</id>
-        <link href="https://www.gamingonlinux.com/2022/08/what-if-pong-had-lore-special-moves-gay-aliens-you-get-zoners/"/>
-        <updated>2022-08-09T14:22:21.000Z</updated>
-        <summary type="html"><![CDATA[The developer of ZONERS certainly had an interesting pitch when introducing their new game over email and it turns out it's pretty fun.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GameStop's NFT marketplace sold games without developers' permission]]></title>
-        <id>https://www.rockpapershotgun.com/gamestop-nft-marketplace-sold-games-without-developer-permission</id>
-        <link href="https://www.rockpapershotgun.com/gamestop-nft-marketplace-sold-games-without-developer-permission"/>
-        <updated>2022-08-09T14:15:14.000Z</updated>
-        <summary type="html"><![CDATA[An NFT minter using the GameStop marketplace has admitted to minting developers' games without their consent or knowledge. The games, which are freely available on itch.io, were sold several hundred times before GameStop delisted them, and continue to exist on GameStop's servers regardless of the wishes of the original creators.
-Read more]]></summary>
-        <author>
-            <name>Jay Castello</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Streamer plays Final Fantasy 14 with an actual book and pencil]]></title>
-        <id>https://www.eurogamer.net/streamer-plays-final-fantasy-14-with-an-actual-book-and-pencil</id>
-        <link href="https://www.eurogamer.net/streamer-plays-final-fantasy-14-with-an-actual-book-and-pencil"/>
-        <updated>2022-08-09T14:10:57.000Z</updated>
-        <summary type="html"><![CDATA[Not content with playing through Elden Ring with a banana (no, really), streamer Super Louis 64 has now been playing Final Fantasy 14 using an actual book and pencil.
-
-
-The streamer played as the book-wielding Scholar healer, complete with a matching graduation gown.
-
-
-Spells are cast by literally scribbling in a giant book. Fantasy becomes reality!
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Battalion developer Bulkhead says Square Enix partnership has reached an end]]></title>
-        <id>https://www.eurogamer.net/battalion-developer-bulkhead-says-square-enix-partnership-has-reached-an-end</id>
-        <link href="https://www.eurogamer.net/battalion-developer-bulkhead-says-square-enix-partnership-has-reached-an-end"/>
-        <updated>2022-08-09T14:10:51.000Z</updated>
-        <summary type="html"><![CDATA[Bulkhead Interactive, the Derby-based developer of old-school WW2 shooter Battalion 1944, has announced a "formal end" to its relationship with Square Enix. 
-
-
-The Final Fantasy publisher purchased a 20 percent stake of Bulkhead back in 2018, and announced plans for a fresh project at the studio. 
-
-
-Today also brings a long-awaited update on Battalion itself, which will get an "overhauled, final update" and name change to Battalion: Legacy on 16th August. 
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dogmatic]]></title>
-        <id>https://tapas.io/episode/2610359</id>
-        <link href="https://tapas.io/episode/2610359"/>
-        <updated>2022-08-09T14:10:28.000Z</updated>
-        <author>
-            <name>J. L. Westover</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Footage surfaces of white Xbox Elite Series 2 controller]]></title>
-        <id>https://www.eurogamer.net/footage-surfaces-of-xbox-elite-series-2-controller</id>
-        <link href="https://www.eurogamer.net/footage-surfaces-of-xbox-elite-series-2-controller"/>
-        <updated>2022-08-09T14:10:07.000Z</updated>
-        <summary type="html"><![CDATA[New footage showing off a white version of the Xbox Elite Series 2 controller has made its way online. 
-
-
-This footage shared by YouTuber Nicholas Lugo and spotted by Twitter user Rebs Gaming (via VGC), shows Lugo unboxing what they claim to be the "only white Xbox Elite in the United States".
-
-
-While the video doesn't go into any more details, such as how Lugo happens to have this mythical controller in their possession, it does all seem to be genuine. It even has the controller's soft shell case.
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Få seriösa Skyrim-fiender! Mod ger spelet Shadow of Mordors nemesis-system]]></title>
-        <id>https://www.fz.se/artikel/291058</id>
-        <link href="https://www.fz.se/artikel/291058-fa-seriosa-skyrim-fiender-mod-ger-spelet-shadow-of-mordors-nemesis-system"/>
-        <updated>2022-08-09T14:08:38.000Z</updated>
-        <summary type="html"><![CDATA[Hämnden är ljuv - och ett måste.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Få seriösa Skyrim-fiender! Mod ger spelet Shadow or Mordors nemesis-system]]></title>
-        <id>https://www.fz.se/artikel/291058</id>
-        <link href="https://www.fz.se/artikel/291058-fa-seriosa-skyrim-fiender-mod-ger-spelet-shadow-or-mordors-nemesis-system"/>
-        <updated>2022-08-09T14:08:38.000Z</updated>
-        <summary type="html"><![CDATA[Hämnden är ljuv - och ett måste.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lenovo updates ThinkPad mobile workstations with AMD variants]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/09/lenovo_shows_new_thinkpad_mobile/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/09/lenovo_shows_new_thinkpad_mobile/"/>
-        <updated>2022-08-09T14:00:09.000Z</updated>
-        <summary type="html"><![CDATA[<h4>SIGGRAPH 2022: Lenovo's ThinkStation P620 only desktop workstation powered by AMD's Ryzen Threadripper</h4> <p>Lenovo has unveiled new mobile workstations based on AMD Ryzen processors, comprising a mid-range model with a 15.6 inch screen, and a 14 inch system pitched as Lenovo's lightest mobile workstation.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pac-Man munching his way onto the silver screen with a live action movie in development]]></title>
-        <id>https://www.vg247.com/pac-man-munching-his-way-onto-the-silver-screen-with-a-live-action-movie-in-development</id>
-        <link href="https://www.vg247.com/pac-man-munching-his-way-onto-the-silver-screen-with-a-live-action-movie-in-development"/>
-        <updated>2022-08-09T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As if the news of Sonic getting a third movie wasn’t enough, it appears that Pac-Man will also be in receipt of its very own live-action movie.
-Pac-Man is a video game series first conceived in 1980 by Namco, that went on to become somewhat of a social phenomenon. As a result, Pac-Man isn’t a complete stranger to the world of television and cinema, having already been privy to two series from ABC and Disney XD respectively.
-First reported by The Hollywood Reporter, a new Pac-Man project is in the works with Bandai Namco Entertainment and Wayfarer Studios on board. The movie itself is reported to be based on Chuck Williams’ (of Lightbeam Entertainment) original idea, who was also an associate producer on 2020’s Sonic the Hedgehog.
- Read more]]></summary>
-        <author>
-            <name>Kelsey Raynor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crypto and the US government are headed for a decisive showdown]]></title>
-        <id>https://arstechnica.com/?p=1872307</id>
-        <link href="https://arstechnica.com/?p=1872307"/>
-        <updated>2022-08-09T13:52:46.000Z</updated>
-        <summary type="html"><![CDATA[Lawsuits may decide whether most digital assets are illegal securities offerings.]]></summary>
-        <author>
-            <name>WIRED</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skyrim mod adds innovative Nemesis system from Shadow of Mordor]]></title>
-        <id>https://www.eurogamer.net/skyrim-mod-adds-innovative-nemesis-system-from-shadow-of-mordor</id>
-        <link href="https://www.eurogamer.net/skyrim-mod-adds-innovative-nemesis-system-from-shadow-of-mordor"/>
-        <updated>2022-08-09T13:42:27.000Z</updated>
-        <summary type="html"><![CDATA[The most innovative aspect of Lord of the Rings game Shadow of Mordor was its Nemesis system that had enemies being promoted after killing you.
-
-
-Now it's in Skyrim, thanks to modder Syclonix (via PC Gamer).
-
-
-The Nemesis and Alternative Death System mod is available on NexusMods and makes "every enemy that defeats you into a unique Nemesis" to create "emergent stories of revenge".
-
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft's fix for 'data damage' risk hits PC performance]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/09/widows_data_damage/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/09/widows_data_damage/"/>
-        <updated>2022-08-09T13:30:06.000Z</updated>
-        <summary type="html"><![CDATA[<h4>'AES-based operations might be two times slower' without latest updates</h4> <p>Microsoft has warned that Windows devices with the newest supported processors might be susceptible to data damage, noting the initial fix might have slowed operations down for some.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple M2 vs. AMD Rembrandt vs. Intel Alder Lake Linux Benchmarks]]></title>
-        <id>https://www.phoronix.com/review/apple-m2-linux</id>
-        <link href="https://www.phoronix.com/review/apple-m2-linux"/>
-        <updated>2022-08-09T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Given the significant interest from Phoronix readers about how well Apple M2 performs on Linux, especially after it was noted Linus Torvalds using an Apple MacBook Air M2, here are the first of many benchmark articles to come looking at how well Apple's M2 performs under Linux against Intel/AMD x86_64 competition. The new Apple MacBook Air with M2 was benchmarked for this article against the AMD Ryzen 7 PRO 6850U "Rembrandt" Zen 3+, Intel Core i7 1280P "Alder Lake P", an AMD Ryzen 9 5900HX "Cezanne H", and also for reference an Apple Mac Mini M1 model. All of these laptops were tested under Arch Linux (x86_64) and the Arch-based Asahi Linux (M1/M2).]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Small businesses count cost of Apple’s privacy changes]]></title>
-        <id>https://arstechnica.com/?p=1872301</id>
-        <link href="https://arstechnica.com/?p=1872301"/>
-        <updated>2022-08-09T13:29:23.000Z</updated>
-        <summary type="html"><![CDATA[Online brands reliant on personalised ads ramp back marketing spending.]]></summary>
-        <author>
-            <name>Financial Times</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Encryption May Damage Data, Microsoft Says]]></title>
-        <id>SMzMkZiFWwSbnC5tZF3zKe</id>
-        <link href="https://www.tomshardware.com/news/microsoft-windows-11-encryption-could-damage-your-data"/>
-        <updated>2022-08-09T13:28:20.000Z</updated>
-        <summary type="html"><![CDATA[VAES (vectorized AES) instructions used by apps like like BitLocker should accelerate disk data encryption. But Microsoft has recently had to patch a data damage flaw.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ny Elden Ring-patch balanserar om i multiplayer]]></title>
-        <id>https://www.fz.se/artikel/291056</id>
-        <link href="https://www.fz.se/artikel/291056-ny-elden-ring-patch-balanserar-om-i-multiplayer"/>
-        <updated>2022-08-09T13:28:19.000Z</updated>
-        <summary type="html"><![CDATA[Version 1.06 ute nu.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valorant nerfs Chamber and updates its engine in patch 5.03]]></title>
-        <id>https://www.vg247.com/valorant-nerfs-chamber-and-updates-its-engine-in-patch-503</id>
-        <link href="https://www.vg247.com/valorant-nerfs-chamber-and-updates-its-engine-in-patch-503"/>
-        <updated>2022-08-09T13:01:21.000Z</updated>
-        <summary type="html"><![CDATA[Valorant is in receipt of its latest patch today, and players globally are going to no doubt be commiserating the current meta as Chamber is drastically nerfed.
-Chamber was first introduced to Valorant back in November 2021, and the Sentinel Agent certainly went down a treat. With a pistol and a sniper built into his kit of abilities, Chamber has perhaps been one of the most offensive defense specialists in the roster. So, understandably, he quickly became a top pick amongst ranked players.
-However, Valorant has noticed that its players have managed to master Chamber quite efficiently by now. So much so, that his strengths are overshadowing his weaknesses, and counter-playing his kit isn’t as effective as the developer once hoped.
- Read more]]></summary>
-        <author>
-            <name>Kelsey Raynor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Setting our heart-attack-predicting AI loose with “no-code” tools]]></title>
-        <id>https://arstechnica.com/?p=1871110</id>
-        <link href="https://arstechnica.com/?p=1871110"/>
-        <updated>2022-08-09T13:00:40.000Z</updated>
-        <summary type="html"><![CDATA[In the second part of this three-part series, our heart attack predictions take flight.]]></summary>
-        <author>
-            <name>Sean Gallagher</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quantum systems maker D-Wave takes the SPAC route]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/09/dwave_goes_public/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/09/dwave_goes_public/"/>
-        <updated>2022-08-09T13:00:09.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Company had hoped deal would grant access to $300m trust account, but shareholders cleared it out</h4> <p>Quantum computing pioneer D-Wave Systems has completed its planned merger with DPCM Capital, taking the company public on the New York Stock Exchange.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's a breakdown on Dragon Quest Treasures' loot mechanics]]></title>
-        <id>https://www.eurogamer.net/heres-a-breakdown-on-dragon-quest-treasures-loot-mechanics</id>
-        <link href="https://www.eurogamer.net/heres-a-breakdown-on-dragon-quest-treasures-loot-mechanics"/>
-        <updated>2022-08-09T12:59:34.000Z</updated>
-        <summary type="html"><![CDATA[Square Enix has shared new gameplay details of the upcoming Dragon Quest Treasures, the upcoming role-playing game spin-off headed to Nintendo Switch.
-
-
-Throughout the game, and as the name suggests, there will be a variety of treasures for players to uncover. This includes smaller items, known as "bric-a-brac", which will glow with a silvery aura when you come up to them. 
-You will also see your monster companions getting excited, and little speech bubbles will appear above their heads when they know you are in the vicinity of some goodies.
- Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://shencomix.tumblr.com/post/692111953931419649</id>
-        <link href="https://shencomix.tumblr.com/post/692111953931419649"/>
-        <updated>2022-08-09T12:49:54.000Z</updated>
-        <author>
-            <name>Shen Comix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Batterimetallen litium kan giftklassas]]></title>
-        <id>https://www.sweclockers.com/artikel/34726</id>
-        <link href="https://www.sweclockers.com/artikel/34726-batterimetallen-litium-kan-giftklassas"/>
-        <updated>2022-08-09T12:48:14.000Z</updated>
-        <summary type="html"><![CDATA[Litium-jon-batterier finns i elbilar, telefoner och datorer, men hanteringen kan komma att skärpas.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Almost every Ferrari sold since 2005 is being recalled]]></title>
-        <id>https://arstechnica.com/?p=1872294</id>
-        <link href="https://arstechnica.com/?p=1872294"/>
-        <updated>2022-08-09T12:46:08.000Z</updated>
-        <summary type="html"><![CDATA[A faulty brake fluid reservoir cap might not vent properly, causing brake failure.]]></summary>
-        <author>
-            <name>Jonathan M. Gitlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GTA 6 to set "creative benchmark for all entertainment," says Strauss Zelnick]]></title>
-        <id>https://www.vg247.com/gta-6-benchmark-all-entertainment-strauss-zelnick</id>
-        <link href="https://www.vg247.com/gta-6-benchmark-all-entertainment-strauss-zelnick"/>
-        <updated>2022-08-09T12:45:45.000Z</updated>
-        <summary type="html"><![CDATA[By this point, we all know that Rockstar is working on the next entry in the Grand Theft Auto series. Per a development update from the studio back in February, GTA 6 is "well underway."
-But the shape of the game is currently unclear: there have been many rumours about what it will (and won't) include, but the fact remains that neither Rockstar, nor publisher Take-Two, have given us any hint of what to expect from the game.
-Enter Strauss Zelnick, CEO of Take-Two. Known for making quite incendiary comments – like telling us we're all ready to pay for $70 games, saying backwards compatibility doesn't matter, and so on – the anti-union CEO made some on-brand comments during last night's earnings presentation.
- Read more]]></summary>
-        <author>
-            <name>Dom Peppiatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD X670E AM5 Motherboard Lands in Overclocker's Hands]]></title>
-        <id>xGq8qWW7guJDLr4KUT3VGD</id>
-        <link href="https://www.tomshardware.com/news/overclockers-reciving-amd-x670e-samples"/>
-        <updated>2022-08-09T12:41:52.000Z</updated>
-        <summary type="html"><![CDATA[Overclockers are now receiving AM5 X670E motherboard samples ahead of reviews to overclock AMD's Ryzen 7000 processors.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4 500 spel är Steam Deck-kompatibla]]></title>
-        <id>https://www.fz.se/artikel/291055</id>
-        <link href="https://www.fz.se/artikel/291055-4-500-spel-ar-steam-deck-kompatibla"/>
-        <updated>2022-08-09T12:17:02.000Z</updated>
-        <summary type="html"><![CDATA[Mängden spel ökar i rasande takt.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Barclays inks multi-year deal with Microsoft, starts rolling out Teams]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/09/barclays_teams/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/09/barclays_teams/"/>
-        <updated>2022-08-09T12:15:11.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Deployment plan includes unified data governance platform Purview</h4> <p>Barclays Bank has selected Microsoft Teams as its preferred collaboration platform, meaning that up to 120,000 of the company's employees and partners globally could be using the service soon.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BenQ Mobiuz EX2710R Gaming Monitor Review: Curvaceous, Colorful and Snappy]]></title>
-        <id>3i8hVnwNhPQB8WMgG4j7uH</id>
-        <link href="https://www.tomshardware.com/reviews/benq-mobiuz-ex2710r-review"/>
-        <updated>2022-08-09T12:00:18.000Z</updated>
-        <summary type="html"><![CDATA[Curved 27-inch monitors are somewhat rare, but BenQ’s Mobiuz EX2710R is one of the better examples. It combines a high-contrast VA panel with 165 Hz, Adaptive-Sync, HDR and extended color. And it delivers a smooth and responsive gaming experience.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Diofield Chronicle hands-on preview: Good tabletop vibes feel slightly plastic]]></title>
-        <id>https://www.vg247.com/the-diofield-chronicle-preview</id>
-        <link href="https://www.vg247.com/the-diofield-chronicle-preview"/>
-        <updated>2022-08-09T12:00:08.000Z</updated>
-        <summary type="html"><![CDATA[If you’ve ever listened to J-Rock, you know that Japanese musicians couldn’t care less about genres. There’s a radio rock intro, then they’ll rap for a bit, then do a bit of a shout and scream before doing it all again three times. 
-
-
-The world of new Square Enix strategy RPG The DioField Chronicle is a bit like that, but for English history. 
-
-
-You’ve got medieval knights collecting their kit from 17th century plague doctors, before going out to fight stovepipe-hatted cockneys straight out of the Victorian workhouse at the behest of tweed-jacketed gentlemen. Then some skeletons turn up with a couple of trolls in suits of armour. It goes places. 
- 
-Read more]]></summary>
-        <author>
-            <name>James Billcliffe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mario Kart Tour adding "new ways to play" in September]]></title>
-        <id>https://www.eurogamer.net/mario-kart-tour-adding-new-ways-to-play-in-september</id>
-        <link href="https://www.eurogamer.net/mario-kart-tour-adding-new-ways-to-play-in-september"/>
-        <updated>2022-08-09T11:54:10.000Z</updated>
-        <summary type="html"><![CDATA[Smartphone spin-off Mario Kart Tour will receive a multiplayer update in September which will add "new ways to play". 
-
-This seems likely to be the game's Battle Mode update, after files hinting to its inclusion were found a couple of months ago. 
-
-
-"With the Mario Kart Tour multiplayer update at the end of September, we're adding new ways to play multiplayer," Nintendo wrote, "and removing Gold Races (available only to Mario Kart Tour Gold Pass subscribers; see in-game notification for more details). Look for more info in early September!"
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turns out Metroid Prime was almost scored by electronic duo Autechre]]></title>
-        <id>https://www.eurogamer.net/turns-out-metroid-prime-was-almost-scored-by-electronic-duo-autechre</id>
-        <link href="https://www.eurogamer.net/turns-out-metroid-prime-was-almost-scored-by-electronic-duo-autechre"/>
-        <updated>2022-08-09T11:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Sean Booth of British electronic duo Autechre has claimed they were considered to score the GameCube classic Metroid Prime.
-
-
-Booth streamed a "quick AMA" video on Twitch (ironically, six hours long) in which a fan asked if the duo were involved in Metroid Prime's music (thanks VGC).
-
-
-Both Booth and his musical partner Rob Brown appear in the credits of the 2002 game, sparking much speculation as to their involvement.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ARC Raiders also won’t be coming in 2022]]></title>
-        <id>https://www.vg247.com/arc-raiders-delay-2023</id>
-        <link href="https://www.vg247.com/arc-raiders-delay-2023"/>
-        <updated>2022-08-09T11:49:03.000Z</updated>
-        <summary type="html"><![CDATA[ARC Raiders, the co-op shooter that's been turning heads for its impressive visuals, has been pushed back to 2023. ARC Raiders is Embark Studios' first project, a team made up of former DICE and Frostbite Engine developers.
-You probably already guessed a delay was on the cards, considering public tests have yet to begin for the game, not to mention the fact Embark has been quiet on the news and gameplay footage front.
-Well, the developer made it official today. In a Twitter announcement, Embark said ARC Raiders has been delayed to 2023. The extra time will be used to "expand the experience." Seeing as there's plenty we still don't know about the game, Embark added that more details will arrive once tests with players begin - though it's not clear when that's going to be.
- Read more]]></summary>
-        <author>
-            <name>Sherif Saed</name>
         </author>
     </entry>
 </feed>
