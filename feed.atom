@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-09T02:36:39.561Z</updated>
+    <updated>2022-09-09T04:36:30.132Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[US seeks standards dominance, lets Huawei access previously forbidden crypto tech]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/09/bis_eases_tech_export_restrictions/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/09/bis_eases_tech_export_restrictions/"/>
+        <updated>2022-09-09T03:58:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Beijing thinks standards should include central network controls. Washington does not</h4> <p>The US Commerce Department's Bureau of Industry and Security (BIS) has relaxed restrictions that barred export of some encryption technologies to Huawei, in the name of ensuring the United States is in a better position to negotiate global standards.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atomic Heart försenas till i vinter]]></title>
+        <id>https://www.fz.se/artikel/291398</id>
+        <link href="https://www.fz.se/artikel/291398-atomic-heart-forsenas-till-i-vinter"/>
+        <updated>2022-09-09T03:21:58.000Z</updated>
+        <summary type="html"><![CDATA[Vilket kan innebära både 2022 och 2023.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EA avtäcker studion Ridgeline Games, med Halo-veteranen Marcus Lehto]]></title>
+        <id>https://www.fz.se/artikel/291397</id>
+        <link href="https://www.fz.se/artikel/291397-ea-avtacker-studion-ridgeline-games-med-halo-veteranen-marcus-lehto"/>
+        <updated>2022-09-09T02:59:53.000Z</updated>
+        <summary type="html"><![CDATA[Och som bekant ska den syssla med Battlefield-kampanjer.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NASA just weeks away from trying again with SLS Moon rocket launch]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/09/nasa_sls_launch/</id>
@@ -39246,346 +39276,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Dealmaster also has Wacom tablets, the Apple Pencil, the Surface Pro 8, and the iPad Mini.]]></summary>
         <author>
             <name>Jeff Dunn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You'll soon be able to ghost a WhatsApp group without making everyone hate you]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/10/whatsapp_group_ghosting/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/10/whatsapp_group_ghosting/"/>
-        <updated>2022-08-10T16:31:31.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Well, until they find out that you've left, but at least they won't be immediately notified of your every move</h4> <p>Many years ago, in the bowels of Silicon Valley, some genius realized that people enjoy getting notifications through social media – those little pings of dopamine that make you feel like you matter.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marvel's Spider-Man PC: why we aren't posting our review today]]></title>
-        <id>https://www.eurogamer.net/digitalfoundry-2022-marvels-spider-man-pc-why-we-arent-posting-our-review-today</id>
-        <link href="https://www.eurogamer.net/digitalfoundry-2022-marvels-spider-man-pc-why-we-arent-posting-our-review-today"/>
-        <updated>2022-08-10T16:27:53.000Z</updated>
-        <summary type="html"><![CDATA[The embargo for the highly anticipated Marvel's Spider-Man Remastered lifted today and you may be wondering where the Digital Foundry coverage is - we received the game a while back along with most other outlets. Well, the truth is that developer Nixxes is still hard at work with the game, patches are still incoming (the latest arriving a few hours ago) and we're intent on delivering coverage that accurately reflects the state of the game you'll be playing on day oneas best as we can manage. Right now, the port is looking exceptionally impressive in many regards but to briefly sum up, it plays brilliant on higher-end PCs, it also works very nicely on Steam Deck, but we've experienced some problems with low to mid-range GPUs. In fact, the very latest update to the game seeks to address those very issues - with some success.
-
-
-Taking a more global look at the conversion though, there's much to commend Nixxes' efforts. The game supports all aspects ratios we could test, from the 16:9 of most modern screens to the 21:9 and 32:9 ultra-wide variants, the 16:10 of Steam Deck and even 4:3 for those interested in an old-school CRT experience. On top of this, there's adjustable field of view support too.
-Per other Nixxes titles, there's also fullscreen and exclusive fullscreen support - and it is properly implemented with resolutions and refresh rates independent of what the desktop is configured to. It sounds mundane, but these things matter. Of course, unlocked frame-rates are supported, but for those with less capable PCs, the half refresh rate v-sync mode actually works properly with consistent frame-pacing (not on Steam Deck though - use the system level option for that) while dynamic resolution scaling is also implemented, with a configurable frame-rate target. Targeting a locked, consistent 30fps or 60fps experience is made that much easier.
- 
-Read more]]></summary>
-        <author>
-            <name>Richard Leadbetter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long-in-the works Half-Life 2 VR mod gets public beta next month]]></title>
-        <id>https://www.eurogamer.net/long-in-the-works-half-life-2-vr-mod-gets-public-beta-next-month</id>
-        <link href="https://www.eurogamer.net/long-in-the-works-half-life-2-vr-mod-gets-public-beta-next-month"/>
-        <updated>2022-08-10T16:24:00.000Z</updated>
-        <summary type="html"><![CDATA[A fan-made Half-Life 2 VR mod nearly eight years in the making will finally be getting a public release next month in the form of an open beta.
-
-
-Eurogamer first reported on the Source VR Mod Team's Half-Life 2: VR mod in 2017, but that version was actually an extension of an earlier mod released for Razer Hydra back in 2013. Some time after the new version's announcement, the project appeared to stall - it entered "its own kind of development hell and was all but abandoned", according to the team's website - but it re-emerged in 2021 and is slowly approaching the finish line.
-
-
-Half-Life 2: VR - one of several attempts to bring Valve's seminal shooter sequel to virtual reality headsets - promises a range of features, including room scale VR, the ability to manipulate items and weapons directly with your hands, full locomotion, a weapon selection menu inspired by Valve's Half-Life: Alyx, and tweaked vehicle rides intended to help reduce motion sickness.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All AMD Zen CPUs Vulnerable, Might Need to Disable SMT]]></title>
-        <id>FNUfMusD7jwGUKZLDP3gon</id>
-        <link href="https://www.tomshardware.com/news/new-vulnerability-affects-all-amd-zen-cpus"/>
-        <updated>2022-08-10T16:16:24.000Z</updated>
-        <summary type="html"><![CDATA[Newly discovered side-channel attack recovers 4096-bit RSA key on AMD's Zen-based CPUs.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft says Elden Ring, GTA5 Xbox cloud listings due to "bug"]]></title>
-        <id>https://www.eurogamer.net/microsoft-says-elden-ring-gta5-xbox-cloud-listings-due-to-bug</id>
-        <link href="https://www.eurogamer.net/microsoft-says-elden-ring-gta5-xbox-cloud-listings-due-to-bug"/>
-        <updated>2022-08-10T16:03:54.000Z</updated>
-        <summary type="html"><![CDATA[Xbox cloud streaming options advertised for Elden Ring and Grand Theft Auto 5 were a "bug", Microsoft has told Eurogamer. 
-
-
-Last night, fans spotted games such as Soul Hackers 2, GTA5 and Elden Ring were listed with an option to play via cloud streaming. Some speculated this was being rolled out now, in advance of a Gamescom announcement later this month.
-
-
-But Microsoft has now said that the games' listings - which also flagged them as being part of Xbox Game Pass - were bugged, and that the issue has now been fixed.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["It doesn't surprise me, but I'm still pretty upset" – MultiVersus modders lose momentum after DMCA strikes]]></title>
-        <id>https://www.vg247.com/it-doesnt-surprise-me-but-im-still-pretty-upset-multiversus-modders-lose-momentum-after-dmca-strikes</id>
-        <link href="https://www.vg247.com/it-doesnt-surprise-me-but-im-still-pretty-upset-multiversus-modders-lose-momentum-after-dmca-strikes"/>
-        <updated>2022-08-10T16:01:16.000Z</updated>
-        <summary type="html"><![CDATA[The MultiVersus hype is still strong, moving on from its rapturous release a few weeks ago. The game has a lot to offer for fans of the ridiculous collection of IP under the Warner Bros umbrella, and with news of more characters on the horizon, it looks like they’ll have more to look forward to. Even then, for a significant portion of the playerbase, the game is ripe for more. These creatives, artists, and memsters make up the MultiVersus Modding community.
-However, the future of this community and all the momentum it gained due to a mix of the popularity of the platform fighter and the appeal of what they were creating is uncertain. This comes thanks to a rise in copyright strikes on published video content featuring mods, the main avenue creatives use to show off their modded works. 
-
-One such modder, who goes by JtheDuelist online, began creating mods around four years ago, where they created skins for Monster Hunter World, afterwards moving onto Guilty Gear: Strive and Final Fantasy 14 after cutting their teeth. They first got into MultiVersus after receiving a code for the alpha test prior to launch, and began their modding projects for the title after coming across others on modding website Gamebanana.
- Read more]]></summary>
-        <author>
-            <name>Connor Makar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft open-sources its cute 3D emoji, albeit without Clippy]]></title>
-        <id>https://arstechnica.com/?p=1872313</id>
-        <link href="https://arstechnica.com/?p=1872313"/>
-        <updated>2022-08-10T16:00:43.000Z</updated>
-        <summary type="html"><![CDATA[Designs will be useful for incorporating emoji into apps, art projects, and more.]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google's bug bounty boss: Finding and patching vulns? 'Totally useless']]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/10/google_bug_bounty_boss/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/10/google_bug_bounty_boss/"/>
-        <updated>2022-08-10T16:00:06.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Disclosing exploits, however, will earn you $100k</h4> <p>Simply finding vulnerabilities and patching them "is totally useless," according to Google's Eduardo Vela, who heads the cloud giant's product security response team.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony announces August PlayStation Plus Extra and Premium games]]></title>
-        <id>https://www.eurogamer.net/sony-announces-august-playstation-plus-extra-and-premium-games</id>
-        <link href="https://www.eurogamer.net/sony-announces-august-playstation-plus-extra-and-premium-games"/>
-        <updated>2022-08-10T15:54:47.000Z</updated>
-        <summary type="html"><![CDATA[PlayStation has announced the games coming to its PS Plus subscription service on 16th August.
-
-
-Last month the company set out a plan to add eight Yakuza games to the service this year - that begins this month with Yakuza 0, Yakuza Kiwami, and Yakuza Kiwami 2 on PS Plus for Premium and Extra subscribers. That's on top of Yakuza: Like A Dragon that's already been added to Essential.
-
-
-
-
-Also coming for Premium and Extra subscribers are Dead by Daylight, Bugsnax, and Tom Clancy's Ghost Recon Wildlands.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apex Legends season 14 patch notes round-up: Hunted buffs, nerfs, and map changes]]></title>
-        <id>https://www.vg247.com/apex-legends-season-14-patch-notes-round-up-hunted-buffs-nerfs-and-map-changes</id>
-        <link href="https://www.vg247.com/apex-legends-season-14-patch-notes-round-up-hunted-buffs-nerfs-and-map-changes"/>
-        <updated>2022-08-10T15:53:19.000Z</updated>
-        <summary type="html"><![CDATA[Apex Legends season 14 is finally out, and with it comes a huge number of changes to the battle royale. With Hunted, you can expect map changes, buffs and nerfs to weapons and characters, and tweaks to the ranked system.
-As such, we’ve recapped the Apex Legends season 14 patch notes here so you can quickly go through and see how the game has shifted.
-Vantage is the new sniper brought to Apex Legends season 14, and comes with a variety of unique abilities that you need to know about!
- Read more]]></summary>
-        <author>
-            <name>Connor Makar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forspoken has an ad so bad it's becoming a meme]]></title>
-        <id>https://www.vg247.com/forspoken-has-an-ad-so-bad-its-becoming-a-meme</id>
-        <link href="https://www.vg247.com/forspoken-has-an-ad-so-bad-its-becoming-a-meme"/>
-        <updated>2022-08-10T15:48:02.000Z</updated>
-        <summary type="html"><![CDATA[A brand new trailer for Forspoken was released today, bringing alongside it a wave of cringe via the protagonists’ description of the wacky situation they’ve found themselves in. In fact, this bad boy can fit so much cringe in it, that the internet has gathered round and have begun the age-old practice of memeing it to death, creating their own snarky takes on the video across social media.
-Mock-narration for God of War, Yakuza, Doom, and Devil May Cry have all been thrown into the ring. Our favourite though has to be a full on trailer made for Tony Hawk Pro Skater 1+2. Which was posted online by Twitter user Bobvids. It’s an absolute must-watch! The original trailer, you can watch for yourselves below. Brace yourselves.
-So you may be wondering, what’s the deal with Forspoken anyway? Originally planned for a October 11 release date, Square Enix announced the title would be pushed back to early next year on January 24. That means you’ve still got some time to kill before you see freaking dragons and talk to your cuffs, we’re afraid.
- Read more]]></summary>
-        <author>
-            <name>Connor Makar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk cashes in $6.9 billion of Tesla stock, just in case]]></title>
-        <id>https://arstechnica.com/?p=1872836</id>
-        <link href="https://arstechnica.com/?p=1872836"/>
-        <updated>2022-08-10T15:42:28.000Z</updated>
-        <summary type="html"><![CDATA[Musk has now sold $15.4 billion worth of TSLA shares since agreeing to buy Twitter.]]></summary>
-        <author>
-            <name>Eric Bangeman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Färre än 1 % av Netflix prenumeranter spelar dagligen Netflix-spel]]></title>
-        <id>https://www.fz.se/artikel/291073</id>
-        <link href="https://www.fz.se/artikel/291073-farre-an-1-av-netflix-prenumeranter-spelar-dagligen-netflix-spel"/>
-        <updated>2022-08-10T15:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Detta enligt dataanalyser.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung Galaxy Watch 5 adds battery life, screen strength, and temperature sensor]]></title>
-        <id>https://arstechnica.com/?p=1872771</id>
-        <link href="https://arstechnica.com/?p=1872771"/>
-        <updated>2022-08-10T15:31:20.000Z</updated>
-        <summary type="html"><![CDATA[You lose the rotation bezel, but you gain somewhat confusing temp monitoring.]]></summary>
-        <author>
-            <name>Kevin Purdy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung Unveils 128TB PCIe SSD to Tackle Petabyte-Scale Storage]]></title>
-        <id>YV8kAHoFaYqgqVKPoAYTYP</id>
-        <link href="https://www.tomshardware.com/news/samsung-128tb-petabyte-storage"/>
-        <updated>2022-08-10T15:12:18.000Z</updated>
-        <summary type="html"><![CDATA[The 128TB SSD uses QLC NAND and a PCIe interface.]]></summary>
-        <author>
-            <name>brandon.hill@futurenet.com (Brandon Hill)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Secret of Monkey Island saw 25% of its dialogue cut before release]]></title>
-        <id>https://www.eurogamer.net/the-secret-of-monkey-island-saw-25-of-its-dialogue-cut-before-release</id>
-        <link href="https://www.eurogamer.net/the-secret-of-monkey-island-saw-25-of-its-dialogue-cut-before-release"/>
-        <updated>2022-08-10T15:08:11.000Z</updated>
-        <summary type="html"><![CDATA[Technological constraints meant that the original Monkey Island game saw 25 percent of its dialogue text cut before it was released.
-
-
-Talking to Sony Santa Monica's Alanah Pearce, writer Tim Schafer revealed that The Secret of Monkey Island was originally too long and had to get some heavy editing. 
-
-
-"We were writing on Monkey Island, and we were told 'you guys, we can't go on six floppies. We have to go on five. We have too much text,'" Schafer recalled before remarking how strange that sort of thing is to imagine now. 
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Marvel’s Spider-Man Remastered PC devs want players to “feel like we're honouring the platform”]]></title>
-        <id>https://www.rockpapershotgun.com/why-marvels-spider-man-remastered-pc-devs-want-players-to-feel-like-were-honouring-the-platform</id>
-        <link href="https://www.rockpapershotgun.com/why-marvels-spider-man-remastered-pc-devs-want-players-to-feel-like-were-honouring-the-platform"/>
-        <updated>2022-08-10T15:00:33.000Z</updated>
-        <summary type="html"><![CDATA[Marvel’s Spider-Man Remastered is the latest ex-PlayStation exclusive to rock up on PC, following a collaborative effort between original developers Insomniac Games and porting specialists Nixxes. It’s also a skyscape-swinging, baddie-decking good time, so says Alice Bee’s review, and one that comes with plenty of special features just for the Windows version. I’ll be posting a more performance-and-hardware-focused guide to it later this week, but in the meantime I called up Jurjen Katsman, founder and senior director of development at Nixxes, and Mike Fitzgerald, core technology director at Insomniac, for a chat about how Marvel’s Spider-Man Remastered makes the jump to PC.
-
- 
-Read more]]></summary>
-        <author>
-            <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You can finally play Sony’s Spider-Man on PC—but it’s not all good news (yet)]]></title>
-        <id>https://arstechnica.com/?p=1872527</id>
-        <link href="https://arstechnica.com/?p=1872527"/>
-        <updated>2022-08-10T15:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Good news for ultrawide screens, ray tracing, and Steam Deck. Bad news for lesser PCs.]]></summary>
-        <author>
-            <name>Sam Machkovech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft unveils native Arm64 support in the .NET Framework]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/10/dotnet_481/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/10/dotnet_481/"/>
-        <updated>2022-08-10T15:00:05.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Older operating systems excluded from the 4.8.1 release party</h4> <p>Microsoft has updated its venerable .NET Framework once more, this time to add native Arm64 support while also removing support for some older operating systems.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Farthest Frontier understands the best moments of city-builders are the beginnings]]></title>
-        <id>https://www.eurogamer.net/farthest-frontier-understands-the-best-moments-of-city-builders-are-the-beginnings</id>
-        <link href="https://www.eurogamer.net/farthest-frontier-understands-the-best-moments-of-city-builders-are-the-beginnings"/>
-        <updated>2022-08-10T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To me, the best moments of a city-building game are always the beginnings, when there's nothing but potential ahead of you. Things are manageable, the world is unspoiled, the pace is slow. To me, that's idyllic. And if ever a game understood that, it's Farthest Frontier.
-It's a game about a group of working class people fed up with being shat on by the rich, in the big city where they live, so they strike out for the literal farthest frontier to make it on their own. It's that fantasy. The era is the birth of the Industrial Revolution, maybe - it's not explicitly clear. And that's how it begins: a dozen people and a caravan and an endless wilderness around them to tame.
-What I love about what comes next is how unhurriedly it happens, and how small-scale it continues to be. Farthest Frontier is not about going from dozens to thousands, from village to sprawling metropolis, and that zooming out you then feel as the person in charge. It's about staying small and staying close to the people you're caring for. It's probably wrong to call it a city-builder at all but rather a town-builder, because even many hours in, from what I've read, settlements are still only a few hundred people big (apparently the game struggles performance-wise past that, but it is Early Access).
- Read more]]></summary>
-        <author>
-            <name>Robert Purchese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spider-Man Remastered runs great on Steam Deck, with very few caveats]]></title>
-        <id>https://www.rockpapershotgun.com/spider-man-remastered-runs-great-on-steam-deck-with-very-few-caveats</id>
-        <link href="https://www.rockpapershotgun.com/spider-man-remastered-runs-great-on-steam-deck-with-very-few-caveats"/>
-        <updated>2022-08-10T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When Sony revealed that Spider-Man Remastered was headed to PC earlier this year, I became fixated with the idea that the game would potentially work on the Steam Deck. I mean, it worked on a base PS4, right? By my understanding the Steam Deck is basically just a PS4 with a screen slapped on it, so surely portable Spider-Manning wasn't an unrealistic thing to expect?
-After spending a few days testing out the game on the Deck I'm thrilled to confirm that Spider-Man Remastered plays great on Valve's handheld with only a few very minor caveats. Hooray! I can finally punch a Vulture in my back garden without getting shouted at by local bird protection services. What a time to be alive.
-Read more]]></summary>
-        <author>
-            <name>Liam Richardson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marvel's Spider-Man Remastered review: a fun hero epic that takes the wall-crawler to new heights]]></title>
-        <id>https://www.rockpapershotgun.com/marvels-spider-man-remastered-review</id>
-        <link href="https://www.rockpapershotgun.com/marvels-spider-man-remastered-review"/>
-        <updated>2022-08-10T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I've played a lot of Spider-Man games. To this day I nurture the belief that all tutorials should be narrated by Bruce Campbell. I even played Spider-Man: Shattered Dimensions, which had four different web-dudes and later inspired the Spider-Verse storyline in the comics. Point is, I'm standing on pretty solid ground to judge Spider-Man games. Marvel's Spider-Man, originally released onto Sonyboxes in 2018, is finally coming to PC in a Remastered form, and let me tell you: it is a great Spidey game.
-
-You know Spider-Man. He's a dude named Peter Parker who was bitten by a radioactive spider and can now climb up walls and punch criminals really well. Marvel's Spider-Man Remastered lets you roleplay being Spidey against the backdrop of a big, living New York city. It is, if you'll excuse the pun, amazing. Now, is it the best Spidey game? Nah. I reckon that's its spin-off/sequel Marvel's Spider-Man: Miles Morales, but that's not on PC yet. This means Marvel's Spider-Man gets to be the best wall-crawler game on PC for another few months, which isn't a bad consolation prize. 
-Read more]]></summary>
-        <author>
-            <name>Alice Bell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sonic Triple Trouble 16-bit is a free fan-game – and a worthy successor to Sonic Mania]]></title>
-        <id>https://www.vg247.com/sonic-triple-trouble-16-bit-sonic-mania</id>
-        <link href="https://www.vg247.com/sonic-triple-trouble-16-bit-sonic-mania"/>
-        <updated>2022-08-10T14:59:08.000Z</updated>
-        <summary type="html"><![CDATA[It’s been a bit of an up-and-down year to be a Sonic fan. Sonic Frontiers has looked brilliant and troubled in alternating media drops, and Sonic Origins offered fans the definitive versions of the 2D classics they’ve been clamoring for – except they were riddled with bugs, and weren’t really definitive. But now, Sonic fans have another reason to celebrate: the release of Sonic Triple Trouble… but in a new format.
-
-For those of you who aren’t a thousand years old, Triple Trouble is a classic 8-bit Sonic game. Because the 8-bit games came out at roughly the same time as the 16-bit games, they’re rightly not as revered or beloved – but they are still, broadly, lovely little platformers that attempt to adapt the Sonic formula for much weaker platforms. A few of these games were loose adaptations of their Mega Drive equivalents – but a few were all-original affairs.
-
-Most notable of these is Sonic the Hedgehog: Triple Trouble. This 8-but title is actually older than Sonic’s other classic 2D adventures, releasing for the Sega Game Gear handheld a few months after Sonic & Knuckles hit Mega Drive. That placement in the Sonic timeline got some fans thinking: what if this game had been 16-bit, and what if it were a sequel to Sonic 3 & Knuckles? What if it were, essentially, Sonic 4?
- 
-Read more]]></summary>
-        <author>
-            <name>Alex Donaldson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diskreta nyheter när vikbara Samsung Galaxy Z Fold 4 och Z Flip 4 lanseras]]></title>
-        <id>https://www.sweclockers.com/artikel/34739</id>
-        <link href="https://www.sweclockers.com/artikel/34739-diskreta-nyheter-nar-vikbara-samsung-galaxy-z-fold-4-och-z-flip-4-lanseras"/>
-        <updated>2022-08-10T14:48:17.000Z</updated>
-        <summary type="html"><![CDATA[Förändringarna med årets upplaga av Samsungs vikbara satsningar är inte övertydliga, men för den som eftersöker bättre kamera eller mer prestanda finns intressanta nyheter.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsungs presenterar vikbara Galaxy Z Fold 4 och Z Flip 4]]></title>
-        <id>https://www.sweclockers.com/artikel/34739</id>
-        <link href="https://www.sweclockers.com/artikel/34739-samsungs-presenterar-vikbara-galaxy-z-fold-4-och-z-flip-4"/>
-        <updated>2022-08-10T14:48:17.000Z</updated>
-        <summary type="html"><![CDATA[Förändringarna med årets upplaga av Samsungs vikbara satsningar är inte övertydliga, men för den som eftersöker bättre kamera eller mer prestanda finns intressanta nyheter.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Galaxy Z Fold 4 is official, brings Android 12L’s new taskbar]]></title>
-        <id>https://arstechnica.com/?p=1872212</id>
-        <link href="https://arstechnica.com/?p=1872212"/>
-        <updated>2022-08-10T14:41:06.000Z</updated>
-        <summary type="html"><![CDATA[Samsung's foldable lineup gets new chips but otherwise doesn't change much.]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cult Of The Lamb review: an adorably twisted cult management game]]></title>
-        <id>https://www.rockpapershotgun.com/cult-of-the-lamb-review</id>
-        <link href="https://www.rockpapershotgun.com/cult-of-the-lamb-review"/>
-        <updated>2022-08-10T14:37:10.000Z</updated>
-        <summary type="html"><![CDATA[A bright sun heralds the start of day 37 for CultPaperShotgun. Katharine wakes up and immediately sets to work cleaning up the mountains of poop and vomit puddles left over from the previous night's revelries. As she works, she spies her good friend Alice B harvesting cauliflowers from the cult's garden, trying to keep as far as possible away from the (now slightly rotting) corpse of Graham that lays nearby. A cluster of other followers are busy dancing around a shrine in the centre of the village, but they all stop to witness a fight between the two oldest members of the cult - Alice0 and Liam. Ritual combat of the elderly is a staple of CultPaperShotgun, and as Alice0 delivers the final blow to an ailing Liam, cries of euphoria reverberate about the camp as his spirit (and chunks of flesh) are donated to the cause.
-Where am I in all this, you ask? I, the Lamb, the glorious leader of our cult, the holy vessel of Death itself, and the sworn enemy of the Bishops of the Old Faith that are destined soon to die by my blade? I'm kicking back at a nearby camp, enjoying a spot of fishing and a friendly game of Knucklebones.
-This, friends, is Cult Of The Lamb. And it is excellent.
-Read more]]></summary>
-        <author>
-            <name>Ollie Toms</name>
         </author>
     </entry>
 </feed>
