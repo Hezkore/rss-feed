@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-09T16:35:12.884Z</updated>
+    <updated>2022-09-09T17:29:50.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Förhandsbokningar av Ukraina-utvecklade Stalker 2 betalas tillbaka]]></title>
+        <id>https://www.fz.se/artikel/291408</id>
+        <link href="https://www.fz.se/artikel/291408-forhandsbokningar-av-ukraina-utvecklade-stalker-2-betalas-tillbaka"/>
+        <updated>2022-09-09T17:05:00.000Z</updated>
+        <summary type="html"><![CDATA[2023 ska fortfarande hålla, hävdar utvecklarna.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alleged Intel Arc A580 Shows Odd Performance in Ashes of the Singularity]]></title>
+        <id>3RQMBz8vQRKSmzf48nW5mZ</id>
+        <link href="https://www.tomshardware.com/news/intel-arc-a580-alleged-performance-in-aots"/>
+        <updated>2022-09-09T16:31:14.000Z</updated>
+        <summary type="html"><![CDATA[Intel's midrange Arc A580 GPU is supposed to be quite a bit faster than the A380, but it only competes against entry-level Nvidia GPUs in this alleged Ashes of the Singularity benchmark result.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nvidia claims 'record performance' for Hopper MLPerf debut]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/09/nvidia_hopper_mlperf/</id>
@@ -17789,16 +17809,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<h4>Also, Charming Kittens from Iran scrape email inboxes, France could fine Google again, and more</h4> <p><strong>In brief</strong>  A survey of cybersecurity decision makers found 77 percent think the world is now in a perpetual state of cyberwarfare.…</p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pac-Man World OmPACeteras – Se trailern här]]></title>
-        <id>https://www.fz.se/artikel/291257</id>
-        <link href="https://www.fz.se/artikel/291257-pac-man-world-ompaceteras-se-trailern-har"/>
-        <updated>2022-08-27T05:16:41.000Z</updated>
-        <summary type="html"><![CDATA[3D Pac-Man paketeras om för nya generationer.]]></summary>
-        <author>
-            <name>FZ.se</name>
         </author>
     </entry>
 </feed>
