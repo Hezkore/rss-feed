@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-09T06:44:39.378Z</updated>
+    <updated>2022-09-09T07:28:47.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Slafsiga Evil West har fått en lång gameplay-trailer]]></title>
+        <id>https://www.fz.se/artikel/291399</id>
+        <link href="https://www.fz.se/artikel/291399-slafsiga-evil-west-har-fatt-en-lang-gameplay-trailer"/>
+        <updated>2022-09-09T06:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Mosa vampyrer i vilda västern.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Switch and router sales surge, with 200/400 gigabit Ethernet kit growing fastest]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/09/idc_switch_router_trackers_q2/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/09/idc_switch_router_trackers_q2/"/>
+        <updated>2022-09-09T06:44:05.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Clouds are buying plenty, but there's lots of product left for the rest of us – outside Russia</h4> <p>Major networking vendors continue to report supply chain challenges, but the market for their switches and routers is growing at quite a clip according to analyst outfit IDC.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple co-founder Steve Jobs memorialized with online archive of emails, guff]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/09/apple_jobs_archived/</id>
@@ -39067,56 +39087,6 @@ Read more]]></summary>
 I dunno from where to start. While I’m not supposed to announce it, mum left this earth a  month ago (thirteen days when I started to write this blog post) ago. I am still in part denial, part shock, and morose. Of all the seasons in a year, the rainy season used to be my favorite, now would I ever be able to look and feel other than the emptiness that this season has given me? In some senses, it is and was very ironic, when she became ill about last year, I had promised myself I would be by her side for 5-6 years, not go anywhere either Hillhacks or Debconf or any meetup and I was ok with that. Now that she’s no more I have no clue why am I living. What is the purpose, the utility? When she was alive, the utility was understandable. We had an unspoken agreement, I would like after her…]]></summary>
         <author>
             <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FCC cancels Starlink’s $886 million grant from Ajit Pai’s mismanaged auction]]></title>
-        <id>https://arstechnica.com/?p=1872985</id>
-        <link href="https://arstechnica.com/?p=1872985"/>
-        <updated>2022-08-10T19:23:03.000Z</updated>
-        <summary type="html"><![CDATA[FCC: "Nascent" Starlink tech has capacity limits, may not deliver required speed.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Continues PC and Server Market Share Gains Amid Slumping Market]]></title>
-        <id>dC9GnReRNWjUvnm37xkydi</id>
-        <link href="https://www.tomshardware.com/news/amd-continues-pc-and-server-market-share-gains-amid-slumping-market"/>
-        <updated>2022-08-10T19:03:15.000Z</updated>
-        <summary type="html"><![CDATA[AMD makes big gains in desktop, mobile and server CPU markets.]]></summary>
-        <author>
-            <name>palcorn@outlook.com (Paul Alcorn)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["CC_OPTIMIZE_FOR_PERFORMANCE_O3" Performance Tunable Dropped In Linux 6.0]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.0-Drops-O3-Kconfig</id>
-        <link href="https://www.phoronix.com/news/Linux-6.0-Drops-O3-Kconfig"/>
-        <updated>2022-08-10T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Following recent upstream discussions around the -O3 compiler optimizations for the Linux kernel, the Kconfig switch advertising this option is being removed in Linux 6.0...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s not just social media: Cable news has bigger effect on polarization]]></title>
-        <id>https://arstechnica.com/?p=1872969</id>
-        <link href="https://arstechnica.com/?p=1872969"/>
-        <updated>2022-08-10T18:59:45.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to echo chambers, TV trumps online.]]></summary>
-        <author>
-            <name>The Conversation</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MSI Introduces World's First ATX 3.0 PSU, Ready for 2,600W Power Spikes]]></title>
-        <id>iFd6wf3GiLoSZL9XnvujeF</id>
-        <link href="https://www.tomshardware.com/news/msi-first-atx-3-compliant-psu"/>
-        <updated>2022-08-10T18:46:21.000Z</updated>
-        <summary type="html"><![CDATA[MSI releases the world's first PSU, that is compatible with Intel's new ATX 3.0 power supply standard. The new standard focuses on improving power-delivery and reliability, and features 600W power connectors for video cards.]]></summary>
-        <author>
-            <name>Tomshardware</name>
         </author>
     </entry>
 </feed>
