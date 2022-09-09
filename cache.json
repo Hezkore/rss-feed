@@ -793,6 +793,26 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/sonic-frontiers-now-has-its-intro-and-ending-themes",
+          "author": "Ed Nightingale",
+          "description": "The intro and ending songs for Sonic Frontiers have now been released and it seems 00s rock is the vibe.\r\n\n\r\n\"I'm Here\" is the name of the intro song, sung by vocalist Merry Kirk-Holmes a.k.a To Octavia. The ending song, meanwhile, is \"Vandalize\" by Japanese rock band One OK Rock.\r\n\n\r\nBoth songs have teaser videos featuring footage from the game.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sonic-frontiers-now-has-its-intro-and-ending-themes",
+          "publishedOn": "2022-09-09T15:20:01.000Z",
+          "wordCount": 4638,
+          "title": "Sonic Frontiers now has its intro and ending themes",
+          "imageUrl": "https://assets.reedpopcdn.com/sonic-frontiers-gamescom-preview-2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sonic-frontiers-gamescom-preview-2.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/hundred-days-winemaking-simulator-is-this-weeks-epic-freebie",
+          "author": "Liv Ngan",
+          "description": "The colourful and cheery Hundred Days - Winemaking Simulator is this week's free game on the Epic Store.\r\n\nYou can also grab a free skin bundle for Realm Royale, but Hundred Days is certainly the bigger pull of the two.\r\n\nBertie and Donlan called Hundred Days charming and bright in their preview piece last year, and it's a game I would personally recommend too. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/hundred-days-winemaking-simulator-is-this-weeks-epic-freebie",
+          "publishedOn": "2022-09-09T15:04:49.000Z",
+          "wordCount": 4489,
+          "title": "Hundred Days - Winemaking Simulator is this week's Epic freebie",
+          "imageUrl": "https://assets.reedpopcdn.com/hundred-days-winemaking.png/BROK/thumbnail/1600x900/format/jpg/quality/80/hundred-days-winemaking.png"
+        },
+        {
           "id": "https://www.eurogamer.net/abetterubisoft-members-discuss-state-of-company-ahead-of-ubisoft-forward",
           "author": "Ed Nightingale",
           "description": "Members of the ABetterUbisoft group have spoken up about the state of the company, ahead of its Ubisoft Forward event and over a year after the group launched its public campaign.\r\n\r\n\n\r\nInterviewees discussed diversity and inclusion activities, home working, and unionisation among other topics following the abuse allegations that rocked the company in 2020.\r\n\n\r\nThe interviews were conducted by the ACSisterhood group, a movement that began in response to those misconduct and abuse allegations.\r\n \nRead more",
@@ -3050,6 +3070,16 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/cd-projekt-has-released-an-official-modding-tool-for-cyberpunk-2077",
+          "author": "Stephany Nunneley",
+          "description": "CD Projekt RED has released an official modding tool for Cyberpunk 2077.\nReleased as \"DLC\" for the game, it will not only allow you to use, modify, and create experiences but adds integrated support for installing and loading mods into the game.\nThis means you will be able to create custom sounds, animations, scripts, and more.\n Read more",
+          "link": "https://www.vg247.com/cd-projekt-has-released-an-official-modding-tool-for-cyberpunk-2077",
+          "publishedOn": "2022-09-09T15:19:36.000Z",
+          "wordCount": 4623,
+          "title": "CD Projekt has released an official modding tool for Cyberpunk 2077",
+          "imageUrl": "https://asset.vg247.com/cyberpunk-2077-gun-alley.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/cyberpunk-2077-gun-alley.jpg"
+        },
+        {
           "id": "https://www.vg247.com/watch-the-disney-and-marvel-games-showcase-here",
           "author": "Stephany Nunneley",
           "description": "D23 Expo 2022 kicks off today, and it promises to be full of Disney and Marvel goodness.\nThis goodness will include the Disney & Marvel Games Showcase which airs today at 1pm PT, 4pm ET, 9pm UK.\nYou can watch the stream on the official D23 Expo website, the Disney YouTube channel, and via the Marvel YouTube channel. We have embedded the Marvel YouTube stream above.\n Read more",
@@ -4297,6 +4327,26 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/VMware-Linux-5.19-ESXi-Retbleed",
+          "author": null,
+          "description": "VMware's performance engineering team today announced a performance regression in Linux 5.19 affecting compute performance up to -70%, networking up to -30%, and storage up to -13%.  But the unfortunate thing is the heavy hitting regressions are known and a side effect of the Intel Retbleed mitigation for older processors...",
+          "link": "https://www.phoronix.com/news/VMware-Linux-5.19-ESXi-Retbleed",
+          "publishedOn": "2022-09-09T15:18:05.000Z",
+          "wordCount": 1459,
+          "title": "VMware: ESXi VM Performance Tanks Up To 70% Due To Intel Retbleed Mitigation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/openSUSE-Leap-Micro-5.3-Beta",
+          "author": null,
+          "description": "OpenSUSE has today made available their Leap Micro 5.3 Beta operating system as the lightweight, immutable OS intended for edge / embedded / IoT use-cases...",
+          "link": "https://www.phoronix.com/news/openSUSE-Leap-Micro-5.3-Beta",
+          "publishedOn": "2022-09-09T15:00:46.000Z",
+          "wordCount": 1277,
+          "title": "openSUSE Leap Micro 5.3 Beta Released For Lightweight, Immutable OS",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/RADV-100p-VLK-Dynamic-Rendering",
           "author": null,
           "description": "Last month I wrote about the work being done by Jason Ekstrand for switching RADV completely over to dynamic rendering. That work has now panned out and as of a few minutes ago the transition to \"100%\" dynamic rendering for RADV has landed in Mesa 22.3...",
@@ -5363,6 +5413,16 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/overwatch-2s-battle-pass-has-a-free-track-and-wont-lock-heroes-behind-a-paywall",
+          "author": "CJ Wheeler",
+          "description": "Overwatch 2 won’t be locking new heroes behind a paid battle pass, it’s emerged. Blizzard VP Jon Spector confirmed that heroes will be available through a free track for the battle pass. Spector’s comments were an attempt to put an end to speculation over what he described as “incomplete info” circulating online about Overwatch 2’s battle pass.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/overwatch-2s-battle-pass-has-a-free-track-and-wont-lock-heroes-behind-a-paywall",
+          "publishedOn": "2022-09-09T14:47:30.000Z",
+          "wordCount": 5168,
+          "title": "Overwatch 2’s battle pass has a free track and won’t lock heroes behind a paywall",
+          "imageUrl": "https://assets2.rockpapershotgun.com/overwatch%202.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/overwatch%202.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/the-next-generations-wesley-crusher-becomes-star-trek-onlines-terran-emperor-next-week",
           "author": "CJ Wheeler",
@@ -6700,6 +6760,51 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "8vqaUZCqPdrE7XsfCN3v88",
+          "author": null,
+          "description": "The VIM1S Raspberry Pi rival arrives six years after the original VIM1.",
+          "link": "https://www.tomshardware.com/news/khadas-vim2-low-power-board-refreshed",
+          "publishedOn": "2022-09-09T14:57:43.000Z",
+          "wordCount": 17925,
+          "title": "Khadas VIM1S Low-Power SBC Gets Processor Refresh",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/GaXNFQe4Gq2keLuRrEtucC.jpeg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/GaXNFQe4Gq2keLuRrEtucC.jpeg"
+        },
+        {
+          "id": "MqVANfxsyxXXP7iHB3weNZ",
+          "author": null,
+          "description": "A new set of Nvidia GeForce RTX 4090 listings have appeared via Vietnamese and Australian retailers, suggesting the 4090 is already being shipped to retailers and Nvidia is prepping for its imminent launch.",
+          "link": "https://www.tomshardware.com/news/nvidia-geforce-rtx-4090-early-retail-listings",
+          "publishedOn": "2022-09-09T14:36:04.000Z",
+          "wordCount": 19140,
+          "title": "Nvidia GeForce RTX 4090 Shows Up in Early Retail Listings",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/PE2pTwXrM69vX2E8reJVoE.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/PE2pTwXrM69vX2E8reJVoE.jpg"
+        },
+        {
+          "id": "DC3aNsMmNu8PGr7A5yv2HV",
+          "author": null,
+          "description": "We hope none of the shortage issues which hampered Wi-Fi 6E rollout will be seen. Current plans indicate the first Wi-Fi 7 (IEEE 802.11be) devices will arrive approx one year from now.",
+          "link": "https://www.tomshardware.com/news/intel-broadcom-wifi-7",
+          "publishedOn": "2022-09-09T14:36:00.000Z",
+          "wordCount": 17866,
+          "title": "Intel and Broadcom Demo Wi-Fi 7 Transfer Speeds of 5 Gbps",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/Rfrenuwswi88dgQ5c7NJBA.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/Rfrenuwswi88dgQ5c7NJBA.jpg"
+        },
         {
           "id": "PBLbcSfSs89Z8Ct3KrxQ55",
           "author": "francisco.pires@outlook.com (Francisco Pires)",
@@ -11284,6 +11389,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291404",
+          "author": null,
+          "description": "Frrredagspuls!",
+          "link": "https://www.fz.se/artikel/291404-det-har-spelar-fz-i-helgen-vad-spelar-du",
+          "publishedOn": "2022-09-09T15:01:00.000Z",
+          "wordCount": 1950,
+          "title": "Det här spelar FZ i helgen - vad spelar du?",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291404"
+        },
+        {
           "id": "https://www.fz.se/artikel/291406",
           "author": null,
           "description": "Har på senare år experimenterat med kortare historier.",
@@ -13737,6 +13852,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/09/supply_chain_dell/",
+          "author": null,
+          "description": "<h4>Over at HP, CEO says a client price war is now looming</h4> <p>The supply chain for personal computers is back to normal after 30 months of plague-induced disruption – there is nothing more to worry heads of procurement teams at big corporate buyers.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/09/supply_chain_dell/",
+          "publishedOn": "2022-09-09T14:34:12.000Z",
+          "wordCount": 1346,
+          "title": "Supply chain normality returns for PCs but not servers, says Dell",
+          "imageUrl": "https://regmedia.co.uk/2016/10/26/clock_gears_photo_via_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/09/servicenow_software_slowdown/",
           "author": null,
