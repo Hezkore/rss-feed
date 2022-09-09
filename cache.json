@@ -4357,6 +4357,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/AMD-P-State-EPP-Linux",
+          "author": null,
+          "description": "Over the past year AMD engineers have been developing the AMD P-State CPU frequency scaling driver as an alternative to the long-used ACPI CPUFreq driver to provide better performance/power efficiency with Zen 2 and newer Ryzen/EPYC processors. Today they have now introduced AMD P-State EPP as they aim to deliver better performance-per-Watt...",
+          "link": "https://www.phoronix.com/news/AMD-P-State-EPP-Linux",
+          "publishedOn": "2022-09-09T17:42:54.000Z",
+          "wordCount": 1472,
+          "title": "AMD Posts \"P-State EPP\" Driver As New Attempt To Improve Performance-Per-Watt On Linux",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/VMware-Linux-5.19-ESXi-Retbleed",
           "author": null,
           "description": "VMware's performance engineering team today announced a performance regression in Linux 5.19 affecting compute performance up to -70%, networking up to -30%, and storage up to -13%.  But the unfortunate thing is the heavy hitting regressions are known and a side effect of the Intel Retbleed mitigation for older processors...",
@@ -6830,6 +6840,66 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "cpgyusjZLFbUgsSHTmgDYo",
+          "author": null,
+          "description": "Valve has opened Steam Deck repair centers, where you can mail in devices for repair, which will be free under warranty.",
+          "link": "https://www.tomshardware.com/news/valve-steam-deck-repair-centers",
+          "publishedOn": "2022-09-09T18:13:39.000Z",
+          "wordCount": 17901,
+          "title": "Valve Opens Steam Deck Repair Centers for DIY Averse Gamers",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/6cECHbmDviYx4YBhmSFnBH.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/6cECHbmDviYx4YBhmSFnBH.jpg"
+        },
+        {
+          "id": "fU4c24MfZeBvbF7yQURGTA",
+          "author": "palcorn@outlook.com (Paul Alcorn)",
+          "description": "We've picked the best CPUs for work, sorted by price range and needs, based on our extensive testing.",
+          "link": "https://www.tomshardware.com/reviews/best-performance-cpus,5683.html",
+          "publishedOn": "2022-09-09T17:54:52.000Z",
+          "wordCount": 22048,
+          "title": "Best CPUs for Workstations 2022",
+          "enclosure": {
+            "url": "https://cdn.mos.cms.futurecdn.net/42oG7wzPEsNwJgM7mxz6XW.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/42oG7wzPEsNwJgM7mxz6XW.png"
+        },
+        {
+          "id": "nY9jHJLSkhriU8s3KunD3h",
+          "author": null,
+          "description": "We've tested webcams for remote work, streaming, and selfies. Here are the best webcams for every situation.",
+          "link": "https://www.tomshardware.com/best-picks/best-webcams",
+          "publishedOn": "2022-09-09T17:49:15.000Z",
+          "wordCount": 25749,
+          "title": "Best Webcams of 2022",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/omf8jfNwdhHKJHrGnR7ufP.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/omf8jfNwdhHKJHrGnR7ufP.jpg"
+        },
+        {
+          "id": "gdjkVvkXD3x2X4L2T7P6VS",
+          "author": null,
+          "description": "A pair of 48 core Sapphire Rapids server processors were tested in Geekbench 5, featuring scores on par with AMD's flagship 64-core EPYIC Milan CPUs",
+          "link": "https://www.tomshardware.com/news/48-core-sapphire-rapids-match-amds-best-zen-3",
+          "publishedOn": "2022-09-09T17:33:36.000Z",
+          "wordCount": 17973,
+          "title": "48-Core Sapphire Rapids Xeons Match AMD's Zen 3 Flagships in New Benchmarks",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/J7vB2BKXLZiyQTdH8syGrV.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/J7vB2BKXLZiyQTdH8syGrV.jpg"
+        },
         {
           "id": "3RQMBz8vQRKSmzf48nW5mZ",
           "author": null,
@@ -10111,6 +10181,76 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1880034",
+          "author": "Jon Brodkin",
+          "description": "Planned rule for low Earth satellites requires deorbit 5 years after end-of-life.",
+          "link": "https://arstechnica.com/?p=1880034",
+          "publishedOn": "2022-09-09T17:47:54.000Z",
+          "wordCount": 1937,
+          "title": "FCC to fight space debris by requiring satellite disposal in 5 years or less",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/08/SATCON1-satellites-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1879954",
+          "author": "Scharon Harding",
+          "description": "Extra programmability is a plus, but laptop-height mechanical switches aren't for everyone.",
+          "link": "https://arstechnica.com/?p=1879954",
+          "publishedOn": "2022-09-09T17:28:34.000Z",
+          "wordCount": 1659,
+          "title": "Corsair crams 4 extra keys into an extremely thin wireless mechanical keyboard",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/listing-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1880002",
+          "author": "Ashley Belanger",
+          "description": "Security experts: Uber exec \"did nothing wrong\" by disguising data breach.",
+          "link": "https://arstechnica.com/?p=1880002",
+          "publishedOn": "2022-09-09T17:21:40.000Z",
+          "wordCount": 1889,
+          "title": "Uber exec accused of disguising data-breach extortion as “bug bounty”",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1142304872-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1879961",
+          "author": "Ron Amadeo",
+          "description": "Phones that don't meet the minimum requirements won't be eligible to upgrade.",
+          "link": "https://arstechnica.com/?p=1879961",
+          "publishedOn": "2022-09-09T16:42:35.000Z",
+          "wordCount": 1471,
+          "title": "Android 13 raises minimum system requirement to 2GB of RAM, 16GB of storage",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/4-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1879984",
+          "author": "Kyle Orland",
+          "description": "Gold-plated 2009 marketing stunt is now a $36,000, one-of-a-kind collectible.",
+          "link": "https://arstechnica.com/?p=1879984",
+          "publishedOn": "2022-09-09T16:19:04.000Z",
+          "wordCount": 1515,
+          "title": "Remembering the strange tale of Queen Elizabeth II and the golden Nintendo Wii",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/goldwii-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1879660",
+          "author": "WIRED",
+          "description": "New research into the circadian clock helps explain this mystery.",
+          "link": "https://arstechnica.com/?p=1879660",
+          "publishedOn": "2022-09-09T16:01:52.000Z",
+          "wordCount": 1652,
+          "title": "Why pain feels worse at night",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/sleep-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1879936",
+          "author": "Benj Edwards",
+          "description": "Promotional video suggests future video editing could be as easy as writing a suggestion in a box.",
+          "link": "https://arstechnica.com/?p=1879936",
+          "publishedOn": "2022-09-09T15:55:28.000Z",
+          "wordCount": 1552,
+          "title": "Runway teases AI-powered text-to-video editing using written prompts",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/runway_text2video_hero1-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1879800",
           "author": "Sam Machkovech",
@@ -13992,6 +14132,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/09/meta_disbands_responsible_innovation_team/",
+          "author": null,
+          "description": "<h4>Still unclear: Were members just screaming into a void for the past few years?</h4> <p>Facebook parent Meta has disbanded its Responsible Innovation Team (RIT) that it claimed last year was a central part of efforts to \"proactively surface and address potential harms to society in all that we build.\" …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/09/meta_disbands_responsible_innovation_team/",
+          "publishedOn": "2022-09-09T17:28:09.000Z",
+          "wordCount": 1434,
+          "title": "Meta disbands Responsible Innovation team, spreads it out over Facebook and co",
+          "imageUrl": "https://regmedia.co.uk/2021/02/11/shutterstock_bad_facebook.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/09/nvidia_hopper_mlperf/",
           "author": null,
