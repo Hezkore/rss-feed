@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-10T08:30:45.244Z</updated>
+    <updated>2022-09-10T09:23:46.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LLVM Begins Landing Support For Zstd Compressed ELF Debug Sections (ELFCOMPRESS_ZSTD)]]></title>
+        <id>https://www.phoronix.com/news/LLVM-Landing-Zstd-Debug-Section</id>
+        <link href="https://www.phoronix.com/news/LLVM-Landing-Zstd-Debug-Section"/>
+        <updated>2022-09-10T09:11:19.000Z</updated>
+        <summary type="html"><![CDATA[Following the news from this summer of Zstd compression being eyed for use within LLVM, the code has begun being merged to allow for Zstd-compressed ELF debug sections as an alternative to the long-used Zlib...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iphone i topp hos svenska användare]]></title>
+        <id>https://www.sweclockers.com/artikel/34890</id>
+        <link href="https://www.sweclockers.com/artikel/34890-iphone-i-topp-hos-svenska-anvandare"/>
+        <updated>2022-09-10T09:11:02.000Z</updated>
+        <summary type="html"><![CDATA[Enligt en ny kartläggning av Sifo använder majoriteten av svenskarna Apple-märkta telefoner och störst andel Iphone-användare finns i Stockholm.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2000-talets renässanskvinna - Johan ställer frågor till Stefanie Joosten]]></title>
+        <id>https://www.fz.se/artikel/291380</id>
+        <link href="https://www.fz.se/artikel/291380-2000-talets-renassanskvinna-johan-staller-fragor-till-stefanie-joosten"/>
+        <updated>2022-09-10T09:02:04.000Z</updated>
+        <summary type="html"><![CDATA[Efter att ha spelat Quiet i Metal Gear Solid 5 bryter Stefanie Joosten tystnaden om sitt jobb inom spelindustrin. FZ får nöjet att gör den första svenska intervjun någonsin med Ms. Joosten.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warhammer 40,000: Darktide's gunplay is deliciously meaty]]></title>
+        <id>https://www.eurogamer.net/warhammer-40000-darktides-gunplay-is-deliciously-meaty</id>
+        <link href="https://www.eurogamer.net/warhammer-40000-darktides-gunplay-is-deliciously-meaty"/>
+        <updated>2022-09-10T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It feels real good to shoot stuff in Warhammer 40,000: Darktide. This might not sound like the biggest deal - it's always important for this type of horde-based, zombie-mowing game - but for Darktide good shooting is significant. Developer Fatshark, who previously made spiritual, franchise-adjacent predecessors Warhammer: Vermintide and Vermintide 2, hadn't used actual FPS mechanics before, with Vermintide almost entirely based on melee. And doing it right in Darktide, it turns out, has been a challenge.
+
+
+"It's been tricky," says Mats Andersson, lead combat designer at Fatshark, who was speaking to us at Gamescom. He explains it's something they had to build up to step-by-step, in part because of the game's hybrid approach that mixes both melee and first-person shooting. "We knew that we wanted to do a hybrid kind of thing," he said, "as we wanted to keep the melee part, because we wanted to extend it, rather than have a completely separate game mode with ranged combat."
+
+
+Originally Darktide had what Andersson called "simple ADS," where holding aim will simply bring a ranged weapon up to the middle of the screen to give you that "aim down sights" perspective, like it would in most FPS games. But Andersson described the result, "if you just have a static animation with some spread on it," as "less than stellar." The big push, therefore, has been to "up the quality of that, and doing some more finicky and sophisticated things with recoil and spread, the swaying animation blend sets, lining everything up so it's so controlled that the gun lines up and shoots where it needs to shoot."
+ 
+Read more]]></summary>
+        <author>
+            <name>Chris Tapsell</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pentiment]]></title>
         <id>https://www.fz.se/artikel/291350</id>
@@ -18021,19 +18069,6 @@ Read more]]></summary>
         <link href="https://www.rockpapershotgun.com/former-payday-developers-are-working-on-a-new-co-op-heist-shooter"/>
         <updated>2022-08-27T22:03:01.000Z</updated>
         <summary type="html"><![CDATA[The second project from 10 Chambers, the developers of co-op horror shooter GTFO, will be a co-op heist shooter. Creative director Ulf Andersson shared the news at Gamescom, saying that making a game in the genre "feels like it’s an unclosed chapter". Andersson previously worked on Payday 1 and 2 at Overkill Software, before leaving to found 10 Chambers.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Create your own Disney avatar in Dreamlight Valley's free character creator]]></title>
-        <id>https://www.rockpapershotgun.com/create-your-own-disney-avatar-in-dreamlight-valleys-free-character-creator</id>
-        <link href="https://www.rockpapershotgun.com/create-your-own-disney-avatar-in-dreamlight-valleys-free-character-creator"/>
-        <updated>2022-08-27T21:09:50.000Z</updated>
-        <summary type="html"><![CDATA[Disney Dreamlight Valley pitches itself as a "life-sim adventure game", in which you can return a cursed land to health while hanging out with characters from across the Disney pantheon. I'm skeptical of it in several different ways, but there's now a free character creator to download and try ahead of its launch next month, and hey, I had fun with it.
 
  
 Read more]]></summary>
