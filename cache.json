@@ -99,6 +99,21 @@
       "siteUrl": "https://9to5linux.com/category/news/desktop-environment",
       "articles": [
         {
+          "id": "https://9to5linux.com/?p=13960",
+          "author": "Marius Nestor",
+          "description": "GNOME desktop environment on mobile is shaping up nicely with navigation gestures, Quick Settings, revamped on-screen keyboard, and many other improvements. Here's a sneak peak!\nThe post GNOME Shell on Mobile Is Shaping Up Nicely, Gets New Navigation Gestures, Quick Settings appeared first on 9to5Linux - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.",
+          "link": "https://9to5linux.com/gnome-shell-on-mobile-is-shaping-up-nicely-gets-new-navigation-gestures-quick-settings",
+          "publishedOn": "2022-09-10T06:11:16.000Z",
+          "wordCount": 11411,
+          "title": "GNOME Shell on Mobile Is Shaping Up Nicely, Gets New Navigation Gestures, Quick Settings",
+          "enclosure": {
+            "url": "https://9to5linux.com/wp-content/uploads/2022/09/gsmgs.webm",
+            "length": "0",
+            "type": "video/webm"
+          },
+          "imageUrl": "https://9to5linux.com/wp-content/uploads/2022/09/gsm2.webp"
+        },
+        {
           "id": "https://9to5linux.com/?p=13938",
           "author": "Marius Nestor",
           "description": "KDE Plasma 5.25.5 desktop environment is now available as the last update in the series with various bug fixes and improvements. All users are urged to update as soon as possible!\nThe post KDE Plasma 5.25.5 Is Out as the Last Update in the Series, Improves Multi-Monitor Support appeared first on 9to5Linux - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.",
@@ -5414,16 +5429,6 @@
           "publishedOn": "2022-08-28T08:55:16.000Z",
           "wordCount": 1370,
           "title": "Linux 6.1 HID Changes Accumulating: More Tablets, Intel Meteor Lake ISH Support",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/GIMP-2.99.12-Released",
-          "author": null,
-          "description": "GIMP 2.99.12 is out as a weekend surprise as the newest development release towards the GIMP 3.0 image manipulation program's release...",
-          "link": "https://www.phoronix.com/news/GIMP-2.99.12-Released",
-          "publishedOn": "2022-08-27T18:16:34.000Z",
-          "wordCount": 1343,
-          "title": "GIMP 2.99.12 Released - \"A Huge Milestone Towards GIMP 3.0\"",
           "imageUrl": null
         }
       ]
@@ -13945,6 +13950,16 @@
       "feedUrl": "https://explosm.net/rss.xml",
       "siteUrl": "https://explosm.net",
       "articles": [
+        {
+          "id": "https://explosm.net/comics/oldest-friend",
+          "author": null,
+          "description": "New Cyanide and Happiness Comic",
+          "link": "https://explosm.net/comics/oldest-friend",
+          "publishedOn": "2022-09-10T00:00:01.000Z",
+          "wordCount": 639,
+          "title": "Comic for 2022.09.10 - Oldest Friend",
+          "imageUrl": null
+        },
         {
           "id": "https://explosm.net/comics/email",
           "author": null,
