@@ -2,10 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-10T20:25:50.510Z</updated>
+    <updated>2022-09-10T21:21:07.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Ubisoft is experimenting with “standalone multiplayer experiences” for Assassin’s Creed]]></title>
+        <id>https://www.vg247.com/standalone-multiplayer-experiences-assassins-creed-project-infinity</id>
+        <link href="https://www.vg247.com/standalone-multiplayer-experiences-assassins-creed-project-infinity"/>
+        <updated>2022-09-10T20:20:15.000Z</updated>
+        <summary type="html"><![CDATA["History can help us better understand the world we live in," said Ubisoft during its Ubisoft Forward presentation, where we learned an awful lot about the future of the Assassin's Creed franchise. "So many elements from the past resonate with our present." It's a pretty big nod to the current state of world affairs, and the developer notes that it doesn't want to stop making games about the past to help us better understand our future.
+To that end, the publisher shared more details on its mysterious Infinty project. Back in Summer 2021, Ubisoft officially confirmed Assassin's Creed Infinity to be in development at its Montreal, and Quebec studios. Since we learned about the project, we've heard precious little about it – until today. 
+During the showcase, staff from Ubisoft noted that Project Infinity “is not a game” per se; instead, it’s a single entry point for fans, that will act as something as a springboard into the future. It’s a hub, then, "like a real-life animus" per the developer – a place that unifies stories and experiences in one place. It sounds a little bit like a launcher to me, but we'll see.
+ Read more]]></summary>
+        <author>
+            <name>Dom Peppiatt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Far Cry 2 and Splinter Cell writer, Clint Hocking, is leading the upcoming Assassin’s Creed: Codename Hexe]]></title>
+        <id>https://www.vg247.com/clint-hocking-leading-the-assassins-creed-codename-hexe</id>
+        <link href="https://www.vg247.com/clint-hocking-leading-the-assassins-creed-codename-hexe"/>
+        <updated>2022-09-10T20:20:02.000Z</updated>
+        <summary type="html"><![CDATA[You've probably played something by Clint Hocking: he's a massive name in games, and has been attached to some of the largest games in Ubisoft's history. The Canadian video game designer and director wrote Spliter Cell, Splinter Cell: Chaos Theory, and Far Cry 2. He was also creative director on Watch Dogs Legion, and is co-creative director alongside Jonathan Dumont on the upcoming Assassin's Creed Infinity..
+He also coined the term 'ludonarrative dissonance' back in 2007, too, so you've got him to thank for that one.
+Why the history lesson? Well, at Ubisoft Forward, the French publisher noted that Hocking will be heading up a brand new game in the Assassin's Creed universe: Codename Hexe. The teaser basically makes it look like Assassin’s Creed: Blair Witch – there's deep dark woods, a spooky wooden Assassin's Creed symbol, and the promise of mystery.
+ Read more]]></summary>
+        <author>
+            <name>Dom Peppiatt</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ubisoft teases past Assassin's Creed heroes may return in multiplayer game Codename Invictus]]></title>
         <id>https://www.eurogamer.net/ubisoft-teases-past-assassins-creed-heroes-may-return-in-multiplayer-game-codename-invictus</id>
@@ -150,6 +176,16 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Alice Bell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Assassin's Creed Mirage]]></title>
+        <id>https://www.fz.se/artikel/291405</id>
+        <link href="https://www.fz.se/artikel/291405-assassins-creed-mirage"/>
+        <updated>2022-09-10T20:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Efter flera jättelika actionrollspel vänder Assassin's Creed blicken mot sitt ursprung.]]></summary>
+        <author>
+            <name>FZ.se</name>
         </author>
     </entry>
     <entry>
@@ -18650,47 +18686,6 @@ Of course, the most eye-catching addition to this season are the turtles in a ha
  Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inside Marvel's Spider-Man Remastered on PC - the Nixxes tech interview]]></title>
-        <id>https://www.eurogamer.net/digitalfoundry-2022-inside-marvels-spider-man-remastered-on-pc-the-nixxes-tech-interview</id>
-        <link href="https://www.eurogamer.net/digitalfoundry-2022-inside-marvels-spider-man-remastered-on-pc-the-nixxes-tech-interview"/>
-        <updated>2022-08-28T09:10:01.000Z</updated>
-        <summary type="html"><![CDATA[One of the biggest releases of the summer, Sony continues to release PC ports of its enviable back-catalogue of first-party PlayStation titles. After shaky beginnings with Horizon Zero Dawn, these PC conversions have gone from strength to strength - and we were very impressed with the conversions of Days Gone and God of War. Just over a year ago, Sony acquired Dutch developer Nixxes - a studio that has previously delivered excellent PC ports of console titles - and with the team having already helped in improving the Horizon port, it has now delivered its first full project for PlayStation: Marvel's Spider-Man Remastered.
-We've already covered the quality of the conversion elsewhere on Digital Foundry and we've also assessed how the same code runs on both Valve's Steam Deck and the cute AyaNeo Air - and crucial to our work was the assistance of Nixxes itself, who made four key staff members available to us during the review period for this discussion - as well as continuing dialogue and taking on our feedback the more time we spent with the game.
-This interview is quite lengthy and took considerable time to transcribe but it offers a unique insight into the developmental process of this port from beginning to end, the choice of rendering API, the implementation of key PC enhancements including ultrawide support, plus how and why Nixxes boosted the fidelity of the game's already impressive hardware-accelerated ray tracing.
- Read more]]></summary>
-        <author>
-            <name>Alex Battaglia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Games are starting to understand there's more to wildlife than hunting]]></title>
-        <id>https://www.eurogamer.net/games-are-starting-to-understand-theres-more-to-wildlife-than-hunting</id>
-        <link href="https://www.eurogamer.net/games-are-starting-to-understand-theres-more-to-wildlife-than-hunting"/>
-        <updated>2022-08-28T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Arthur Morgan sets off on a hunting expedition along the banks of the Upper Montana River to gather the provisions needed to feed the whole Van Der Linde gang. He spots the perfect prey: a whitetail deer, with its head down drinking water from the river’s edge. He unsaddles from his trusty horse, equipping his bow and grabbing several arrows upon landing. He initiates hunting mode, stealthily stalking his prey from downwind, until he reaches optimal distance, slipping into cover behind a tree. 
-
-
-Arthur carefully draws an arrow from his quiver, notching it to his bow and slowly applying tension to the bow string. He focuses on making a clean kill, nailing the heart of the whitetail deer. He releases his bow string. The arrow whistles through the air. Suddenly something startles the deer, causing the arrow to miss the heart, instead plunging into the lungs. We hear the pained heart-wrenching grunts of the wounded deer. Arthur trudges over, unsheathing his knife. He compassionately puts the animal out of its misery. The Van Der Linde gang will be well fed for a few days. However, as a player, this hunting activity made me re-evaluate my views on the relationship between video games and the wild.
-
-
-Even as a child, I've always had an affinity with animals and nature. A lot of this came from learning about dinosaurs. Who wouldn't be astonished to know that gigantic reptiles roamed the Earth millions of years ago?  I've always known that animals  are integral to the world and need to be protected.
- 
-Read more]]></summary>
-        <author>
-            <name>Vivek Gohil</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.1 HID Changes Accumulating: More Tablets, Intel Meteor Lake ISH Support]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.1-Early-Changes</id>
-        <link href="https://www.phoronix.com/news/Linux-6.1-Early-Changes"/>
-        <updated>2022-08-28T08:55:16.000Z</updated>
-        <summary type="html"><![CDATA[A number of noteworthy changes have begun queuing for the Human Interface Devices (HID) subsystem ahead of the Linux 6.1 merge window opening up in just over one month...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
 </feed>
