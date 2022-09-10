@@ -3145,6 +3145,16 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/disney-illusion-island-is-a-lovely-looking-co-op-platformer-coming-exclusively-to-switch",
+          "author": "Stephany Nunneley",
+          "description": "During the D23 Expo yesterday, Disney announced the upcoming platformer Disney Illusion Island, and it is a lovely-looking game that resembles a Mickey cartoon.\nStarring Mickey, Minnie, Goofy, and Donald Duck, the foursome have arrived on the islands of Monoth on a quest to recover three mystical books. Doing so will save the world from disaster.\nDeveloped by Disney and Dlala Studios, this 1-4 player cooperative adventure platformer allows you to choose your favorite character and unlock special abilities as you perform platforming feats, solve puzzles, and participate in boss battles.\n Read more",
+          "link": "https://www.vg247.com/disney-illusion-island-is-a-lovely-looking-co-op-platformer-coming-exclusively-to-switch",
+          "publishedOn": "2022-09-10T13:36:04.000Z",
+          "wordCount": 4541,
+          "title": "Disney Illusion Island is a lovely looking co-op platformer coming exclusively to Switch",
+          "imageUrl": "https://asset.vg247.com/disney-illusion-island-05.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/disney-illusion-island-05.jpg"
+        },
+        {
           "id": "https://www.vg247.com/what-are-you-playing-this-weekend-22",
           "author": "Stephany Nunneley",
           "description": "On Friday evening, when the day is done, it's time to reflect on your week and decide what to do with your next two days off.\nWhatever you decide to do, be sure to take some time and be like us by playing some games. Because, like, you know, we're cool and stuff.\nThis weekend, we're going a little cyberpunk, getting scared by T-800s, and traveling to a galaxy far, far away. \n Read more",
@@ -4451,6 +4461,16 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/AMD-User-Space-Hiting-Linux",
+          "author": null,
+          "description": "AMD engineers are working to better optimize the Linux kernel's scheduler for split-LLC (last level cache) processor designs, namely to benefit their EPYC server processors...",
+          "link": "https://www.phoronix.com/news/AMD-User-Space-Hiting-Linux",
+          "publishedOn": "2022-09-10T13:36:44.000Z",
+          "wordCount": 1783,
+          "title": "AMD Aims To Squeeze More EPYC Performance Out Of Linux With User-Space Hinting For Tasks",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Intel-Linux-Classes-Of-Tasks-TD",
           "author": null,
@@ -6945,6 +6965,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "V7teKs7ev9p3jsgMmVR9A",
+          "author": "palcorn@outlook.com (Paul Alcorn)",
+          "description": "All of today's desktop CPU benchmarks compared, including Intel's 12th-Gen Core series and AMD's Ryzen Zen 3 and Threadripper.",
+          "link": "https://www.tomshardware.com/reviews/cpu-hierarchy,4312.html",
+          "publishedOn": "2022-09-10T13:38:26.000Z",
+          "wordCount": 25720,
+          "title": "CPU Benchmarks and Hierarchy 2022: Processor Ranking Charts",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/F8LbVqh2HanAaMDUKLVFZi.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/F8LbVqh2HanAaMDUKLVFZi.png"
+        },
         {
           "id": "LTsyWEvzbAPi2mveuuqH4J",
           "author": null,
@@ -9968,6 +10003,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "https://jmtd.net/log/prusa_mini/",
+          "author": null,
+          "description": "In June I caved and bought a Prusa\nMini\n3D printer for home. I bought it just before an announced price hike. I went\nfor a Prusa because of their reputation for \"just working\", and the Mini mostly\nas its the cheapest, although, the print area (7\"³) is large enough for most of\nthe things I am likely to print.\n\n\n\n\n\n\nTo get started, at the same time I bought some Prusament recycled\nPLA to print\nwith which, unfortunately, I've been a little disappointed with.\nI was attracted to the idea of buying a recycled material and Prusa make a lot\nabout the quality of their filaments.\nThe description was pretty clear that the colour would be somewhat random and\nvary throughout the spool, but I didn't mind that, and I planned to use it for\nmainly functional prints where the precise colour didn't matter. The colour\nexamples from the product page were mostly off-white grey with some tint,\ntypically green. There are not a lot of reviews of the recycled PLA that\ncomment on the colour of their spools, but in a couple of youtube videos\n(1,\n2) the spools have looked a\ngrey-ish silver, sometimes with a greenish tint, pretty similar to the product\npage.\nThe colour I got is quite unlike those: it's a dull brown, with little flecks\nof glitter, presumably originally from recycling something like Galaxy\nBlack.\nThat's totally within \"spec\", of course, but it's a bit boring.\n\n\nBrown recycled Prusament PLA on the right\nIn terms of quality, sadly I've ended up with had at least one tangle in the\nspool wind so far. There's at least two reviews on their own product page from\npeople who have had similar difficulties.",
+          "link": "https://jmtd.net/log/prusa_mini/",
+          "publishedOn": "2022-09-10T13:25:29.000Z",
+          "wordCount": 321,
+          "title": "Jonathan Dowland: Prusa Mini",
+          "imageUrl": null
+        },
+        {
           "id": "tag:blogger.com,1999:blog-8085113335874848981.post-3519443490915380574",
           "author": "noreply@blogger.com (Andrew Cater)",
           "description": "And I'm over here with the Debian images/media release team in Cambridge.\nFirst time together in Cambridge for a long time: several of the usual suspects - RattusRattus, Sledge, Isy and myself. Also in the room are Kartik and egw - I think this is their first time.\nChat is now physically in Sledge's sitting room as well as on IRC. The first couple of images are trickling in and tests are starting for Bullseye.\n\nThis is going to be a very long day - we've got full tests for Bullseye (Debian 11) and Buster (Debian 10) so double duty. This should be the last release for Buster since this has now passed to LTS.",
@@ -10351,6 +10396,16 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1879983",
+          "author": "WIRED",
+          "description": "Protesters oppose Israeli government contract they say could have military uses.",
+          "link": "https://arstechnica.com/?p=1879983",
+          "publishedOn": "2022-09-10T12:00:03.000Z",
+          "wordCount": 1529,
+          "title": "Google and Amazon want more defense contracts, despite worker protests",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/google-cloud-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1879881",
           "author": "Sam Machkovech",
@@ -11868,6 +11923,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291403",
+          "author": null,
+          "description": "Följ streamen av det hyllade FMV-spelet.",
+          "link": "https://www.fz.se/artikel/291403-fz-play-vi-brottsutreder-som-pa-90-talet-i-immortality",
+          "publishedOn": "2022-09-10T14:00:00.000Z",
+          "wordCount": 1706,
+          "title": "FZ Play - Vi brottsutreder som på 90-talet i Immortality",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291403"
+        },
         {
           "id": "https://www.fz.se/artikel/291411",
           "author": null,
