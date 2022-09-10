@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-09T23:27:20.127Z</updated>
+    <updated>2022-09-10T02:37:34.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Best 3D Printers 2022: FDM, Resin and Sub-$250 Models]]></title>
+        <id>UuhombnucHvxAgQAGG8BrU</id>
+        <link href="https://www.tomshardware.com/best-picks/best-3d-printers"/>
+        <updated>2022-09-09T23:36:39.000Z</updated>
+        <summary type="html"><![CDATA[We help you find the best 3D printers for beginners, under $300 and more.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data tracking poses a 'national security risk' FTC told]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/09/data_tracking_national_security_risk/</id>
@@ -1734,6 +1744,16 @@ pactl list sinks]]></summary>
         <summary type="html"><![CDATA[<h4>For those who reckon we'll make it out of 2022 alive and into 2024</h4> <p>Intel and Broadcom have demonstrated cross-vendor interoperability of Wi-Fi 7 kit, claiming over-the-air speeds of more than 5Gbps between an Intel-based laptop and a Broadcom Wi-Fi 7 access point.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Interruption]]></title>
+        <id>https://xkcd.com/2670/</id>
+        <link href="https://xkcd.com/2670/"/>
+        <updated>2022-09-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/interruption.png" title="It's been extra bad ever since my GPS got stuck on Phoebe Judge mode." alt="It's been extra bad ever since my GPS got stuck on Phoebe Judge mode." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -18074,129 +18094,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Skrivbordsgeneralerna Creative Assembly satsar på action.]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia: "Marknaden i balans till årsskiftet"]]></title>
-        <id>https://www.sweclockers.com/artikel/34824</id>
-        <link href="https://www.sweclockers.com/artikel/34824-nvidia-marknaden-i-balans-till-arsskiftet"/>
-        <updated>2022-08-27T14:25:58.000Z</updated>
-        <summary type="html"><![CDATA[VD Jensen Huang berättar mer om hur Nvidia agerar för att tackla överlager och övergången till en ny generations grafikkort.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asus ProArt B660-Creator D4 Review: Pros on a Budget]]></title>
-        <id>9RrYGXEkMTCHtvP8pniSsE</id>
-        <link href="https://www.tomshardware.com/reviews/asus-proart-b660-creator-d4-review"/>
-        <updated>2022-08-27T14:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Asus’ B660-Creator is an inexpensive ATX option for creative professionals. For under $200 you get three M.2 sockets, a Thunderbolt header, USB Type-C DisplayPort and a black-and-gold RGB-free appearance.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FZ Play - Världen startar om i My Time at Sandrock]]></title>
-        <id>https://www.fz.se/artikel/291256</id>
-        <link href="https://www.fz.se/artikel/291256-fz-play-varlden-startar-om-i-my-time-at-sandrock"/>
-        <updated>2022-08-27T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Efter regn kommer solsken!]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Voxel Doom brings 3D enemies to the classic id shooter - and it's brilliant]]></title>
-        <id>https://www.eurogamer.net/voxel-doom-brings-3d-enemies-to-the-classic-id-shooter-and-its-brilliant</id>
-        <link href="https://www.eurogamer.net/voxel-doom-brings-3d-enemies-to-the-classic-id-shooter-and-its-brilliant"/>
-        <updated>2022-08-27T13:57:00.000Z</updated>
-        <summary type="html"><![CDATA[After 28 years, id Software's classic Doom has finally been voxelised, its 2D sprite graphics given an extra dimension in space thanks to modder Daniel Peterson - aka Cheelio - providing us with another excellent excuse to revisit one of the greatest titles in gaming history. 
-In recent times, various source ports have become the method of choice in playing the game on modern hardware and one of the key features over and above the visual overhaul is the inclusion of mouse look. Original Doom was a 3D game effectively playing out on a 2D plane with no ability to look up or down. If you are shooting enemies that are elevated above, you have a hard time seeing them and the game just chooses to automatically aim vertically for you. This can be a bit frustrating to someone with modern sensibilities for first person games but it can also be annoying as Doom's auto-aim often had strange ideas on what it is you're actually looking to shoot.
-So this new voxelised mod not only looks to add a welcome 3D look to the 2D sprites, it also helps to make the more modern 'mouse look' enabled version of the game even better. If you're looking up at an enemy you're about to shoot, you'll get a perspective-correct rendition of the enemy in front of you. On top of that, the overall sense of 'believability' is enhanced as circling enemies or objects doesn't give the same flat view any more as the sprites are given 3D dimensions. This applies to all camera-facing sprites from the original game so health packs no longer just rotate to face the camera, but instead have tops, bottoms, sides and more that such a box should have in 3D space. Enemy sprites? Those required a bit more work.
- Read more]]></summary>
-        <author>
-            <name>Alex Battaglia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD smartNICs to meld ASICs, FPGAs, Arm cores]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/27/amd_smartnics/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/27/amd_smartnics/"/>
-        <updated>2022-08-27T13:50:10.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Why choose one when you can use them all?</h4> <p><strong>Hot Chips</strong>  Over the past two years, AMD has steadily expanded its computing portfolio. This included the addition of FPGAs and smartNICs through the acquisition of Xilinx in 2020 and Pensando earlier this year.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Keep Windows Running Smoothly]]></title>
-        <id>LjZHMFECQfDvuR9pTdcWL6</id>
-        <link href="https://www.tomshardware.com/how-to/keep-windows-running-smoothly"/>
-        <updated>2022-08-27T13:00:53.000Z</updated>
-        <summary type="html"><![CDATA[A smooth running system will bring months of productivity / entertainment. Keep your rig running smooth with just a little work.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: HP’s 13.5-inch Spectre x360 is a top ultralight—with flair]]></title>
-        <id>https://arstechnica.com/?p=1871379</id>
-        <link href="https://arstechnica.com/?p=1871379"/>
-        <updated>2022-08-27T13:00:47.000Z</updated>
-        <summary type="html"><![CDATA[Not the top performer, but the Spectre has other wins, like its 3:2 screen.]]></summary>
-        <author>
-            <name>Scharon Harding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pinecil V2 Review: Smart Soldering Iron, Powered by RISC-V CPU]]></title>
-        <id>u6KT77o6SXzWxq5JULJoSN</id>
-        <link href="https://www.tomshardware.com/reviews/pinecil-v2"/>
-        <updated>2022-08-27T12:00:55.000Z</updated>
-        <summary type="html"><![CDATA[Pine64’s latest RISC-V soldering iron comes in at a low price point, but with features commonly found on more expensive irons.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix Resident Evil-serie läggs ned efter en säsong]]></title>
-        <id>https://www.fz.se/artikel/291258</id>
-        <link href="https://www.fz.se/artikel/291258-netflix-resident-evil-serie-laggs-ned-efter-en-sasong"/>
-        <updated>2022-08-27T11:56:59.000Z</updated>
-        <summary type="html"><![CDATA[Inga döda återupplivas för en andra säsong.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Petting dogs in games is old news: in boomer shooter Ripout, you can pet your gun]]></title>
-        <id>https://www.vg247.com/petting-dogs-in-games-old-news-ripout-pet-your-gun</id>
-        <link href="https://www.vg247.com/petting-dogs-in-games-old-news-ripout-pet-your-gun"/>
-        <updated>2022-08-27T11:53:07.000Z</updated>
-        <summary type="html"><![CDATA[Ripout’s standout feature is not the retro-future 80’s aesthetic. It’s not the excellent gunplay, or the way little aliens that scurry around its industrial spaceships before attaching themselves to bigger aliens and coming to kill you. It’s not the looter shooter aspiration, nor is it the rogue-like setup of its levels. No, it’s the gun. Your gun. Your pet gun.
-
-That’s right, your gun is alive – and it’s not something incessant and irritating like your Johnson in Shadows of the Damned, or those endlessly quipping lunatic firearms in High on Life. Your gun is better; more ‘man’s best friend’ than ‘obnoxious bellend’. In Ripout, you wield a little pet alien, resembling something somewhere between a shrunken-down xenomorph and gothic gargoyle, that fires bullets from its maw and snatches body parts off grotesque aliens. And you can pet it, if you feel so obliged. 
-This living weapon is at the center of everything Ripout is doing. The game, a self-confessed boomer shooter from a team of developers that take rich inspiration from 90s shooters, is a gameplay-first effort that has no cutscenes, no cinematics, and no “fluff” (per the creative director, Goran Rajsic). Instead, the 10-person strong development team has focused all its efforts on the shooting, the level setup, and – of course – your gun. 
- Read more]]></summary>
-        <author>
-            <name>Dom Peppiatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Terror Zones are coming to Diablo 2: Resurrected]]></title>
-        <id>https://www.eurogamer.net/terror-zones-are-coming-to-diablo-2-resurrected</id>
-        <link href="https://www.eurogamer.net/terror-zones-are-coming-to-diablo-2-resurrected"/>
-        <updated>2022-08-27T11:34:48.000Z</updated>
-        <summary type="html"><![CDATA[Diablo 2: Resurrected has launched a public test realm for the upcoming 2.5 patch that boasts an all-new "experimental" feature: Terror Zones.
-
-As well as a "variety of bug fixes to address feedback the community has provided" Blizzard, Terror Zones see you take up monsters at least two levels higher than you (or their original level) for extra XP and loot in the hope we'll stop "repeatedly farming" Baal, Diablo, or Nihlathak.
-
-"The journey to level 99 is a celebrated experience for players and quite the milestone if achieved - a rite of passage, even," Blizzard explains in the patch notes. "We want to offer an alternative to repeatedly farming Baal, Diablo, or Nihlathak. We also want the journey to level 99 to be accessible to a larger population of players, full of variety, and most importantly, challenging - this is where Terror Zones come in. As we get into details, please note that players can choose to opt-out of Terror Zones if desired.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
         </author>
     </entry>
 </feed>
