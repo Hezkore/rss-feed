@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-10T16:32:51.065Z</updated>
+    <updated>2022-09-10T17:26:37.518Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel "Alder Lake"-arkitektur återanvänds i Core i5-13400]]></title>
+        <id>https://www.sweclockers.com/artikel/34901</id>
+        <link href="https://www.sweclockers.com/artikel/34901-intel-alder-lake-arkitektur-ateranvands-i-core-i5-13400"/>
+        <updated>2022-09-10T16:50:37.000Z</updated>
+        <summary type="html"><![CDATA[Uppgraderad cacheminnesmängd uteblir i låsta Core i5- och samtliga Core i3-processorer, som därmed hänger kvar med årsgammal processorarkitektur.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nvidia AD106, A107 Ada Lovelace GPUs May Use PCIe x8 Interface]]></title>
         <id>zKjykgsL6qTmfqkd3a7Bv6</id>
@@ -18518,16 +18528,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Openbox is a lightweight, configurable, stacking window manager. Here are a few distros that provide Openbox preconfigured.]]></summary>
         <author>
             <name>Anuj Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nilla Hansson tar oss med bakom kulisserna på Horizon Forbidden West]]></title>
-        <id>https://www.fz.se/artikel/291261</id>
-        <link href="https://www.fz.se/artikel/291261-nilla-hansson-tar-oss-med-bakom-kulisserna-pa-horizon-forbidden-west"/>
-        <updated>2022-08-28T05:11:06.000Z</updated>
-        <summary type="html"><![CDATA[Ms.Hansson berättar om motioncapture-arbetet i Aloys senaste äventyr.]]></summary>
-        <author>
-            <name>FZ.se</name>
         </author>
     </entry>
 </feed>
