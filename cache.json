@@ -4412,6 +4412,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Intel-Linux-Classes-Of-Tasks-TD",
+          "author": null,
+          "description": "Sent out as a \"request for comments\" on Friday night was a new patch series out of Intel introducing the notion of \"classes of tasks\" for the Linux kernel so that the scheduler can make better decisions on hybrid processors like with Intel's Alder Lake processors and upcoming Raptor Lake. This also provides a more complete implementation of Intel Thread Director for Linux and may also be used as the basis for instruction set differences between the performance and efficient cores...",
+          "link": "https://www.phoronix.com/news/Intel-Linux-Classes-Of-Tasks-TD",
+          "publishedOn": "2022-09-10T10:40:00.000Z",
+          "wordCount": 1798,
+          "title": "Intel Posts Big Linux Patch Set For \"Classes of Tasks\" On Hybrid CPUs, Thread Director",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-6.1-Intel-GPU-FW-MTL-More",
           "author": null,
           "description": "Intel engineers have submitted another batch of \"i915\" kernel graphics driver changes intended for Linux 6.1 that include updated GuC firmware version handling, more DG2/Alchemist Arc Graphics work, and also more Meteor Lake \"MTL\" enablement for that successor to Raptor Lake...",
@@ -9888,6 +9898,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "http://layer-acht.org/thinking/blog/20220910-youngest-LUKS-user/",
+          "author": null,
+          "description": "youngest LUKS user I know...\nSo I'm in Berlin currently to attend the fourth Qubes OS Summit, also to discuss the future of the reproducible-builds.org mirror of snapshot.debian.org and in the evening I've met an old Debian friend who told a lovely story about his 5 year old daughter, who since recently is a Debian user using an old laptop with LUKS encryption, knowing her data will be lost when she forgets her passphrase... 😀\nThe Qubes OS Summit is also very cool, great people and exciting developments!",
+          "link": "http://layer-acht.org/thinking/blog/20220910-youngest-LUKS-user/",
+          "publishedOn": "2022-09-10T10:39:00.000Z",
+          "wordCount": 108,
+          "title": "Holger Levsen: 20220910-youngest-LUKS-user",
+          "imageUrl": null
+        },
+        {
           "id": "http://www.netfort.gr.jp/~dancer/diary/daily/2022-Sep-10.html.en#2022-Sep-10-18:53:53",
           "author": null,
           "description": "Tried implementing FUSE cpiofs.\n\t  I thought it might be fun to implement a file system that can mount initrd file systems. I've implemented symlinks and regular files handling and then I realized that it is kind of annoying that I need to implement hard links.\n\t  cpiofs",
@@ -9895,6 +9915,16 @@
           "publishedOn": "2022-09-10T09:53:53.000Z",
           "wordCount": 90,
           "title": "Junichi Uekawa: Tried implementing FUSE cpiofs.",
+          "imageUrl": null
+        },
+        {
+          "id": "http://www.joachim-breitner.de/blog/793-rec-def__Behind_the_scenes",
+          "author": "mail@joachim-breitner.de (Joachim Breitner)",
+          "description": "A week ago I wrote about the rec-def Haskell library, which allows you to write more recursive definitions, such as in this small example:\nlet s1 = rInsert 23 s2\n    s2 = rInsert 42 s1\nin getR s1\nThis will not loop (as it would if you’d just used Data.Set), but rather correctly return the set S.fromList [23,42]. See the previous blog post for more examples and discussion of the user-facing side of this.\nFor quick reference, these are the types of the functions involved here:\nrInsert :: a -> R (Set a) -> R (Set a)\ngetR :: R (Set a) -> Set a\n\nThe type of s1 and s2 above is not Set Int, but rather R (Set Int), and in this post I’ll explain how R works internally.\nPropagators, in general\nThe conceptual model behind an recursive equation like above is\nThere are a multiple cells that can hold va…",
+          "link": "http://www.joachim-breitner.de/blog/793-rec-def__Behind_the_scenes",
+          "publishedOn": "2022-09-10T09:08:24.000Z",
+          "wordCount": 1723,
+          "title": "Joachim Breitner: rec-def: Behind the scenes",
           "imageUrl": null
         },
         {
@@ -14252,6 +14282,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/10/in_brief_security/",
+          "author": null,
+          "description": "<h4>Also, Authorities seize WT1SHOP selling 5.8m sets of PII, The North Face users face tough secuirty hike</h4> <p><strong>In brief</strong>  AT&amp;T cybersecurity researchers have discovered a sneaky piece of malware targeting Linux endpoints and IoT devices in the hopes of gaining persistent access and turning victims into crypto-mining drones.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/10/in_brief_security/",
+          "publishedOn": "2022-09-10T11:00:07.000Z",
+          "wordCount": 2292,
+          "title": "Shape-shifting cryptominer savaging Linux endpoints and IoT",
+          "imageUrl": "https://regmedia.co.uk/2016/08/18/transformer_photo_by_wasan_ritthawon_via_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/09/data_tracking_national_security_risk/",
           "author": null,

@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-10T10:26:07.440Z</updated>
+    <updated>2022-09-10T11:20:32.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Shape-shifting cryptominer savaging Linux endpoints and IoT]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/10/in_brief_security/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/10/in_brief_security/"/>
+        <updated>2022-09-10T11:00:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Also, Authorities seize WT1SHOP selling 5.8m sets of PII, The North Face users face tough secuirty hike</h4> <p><strong>In brief</strong>  AT&amp;T cybersecurity researchers have discovered a sneaky piece of malware targeting Linux endpoints and IoT devices in the hopes of gaining persistent access and turning victims into crypto-mining drones.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Posts Big Linux Patch Set For "Classes of Tasks" On Hybrid CPUs, Thread Director]]></title>
+        <id>https://www.phoronix.com/news/Intel-Linux-Classes-Of-Tasks-TD</id>
+        <link href="https://www.phoronix.com/news/Intel-Linux-Classes-Of-Tasks-TD"/>
+        <updated>2022-09-10T10:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Sent out as a "request for comments" on Friday night was a new patch series out of Intel introducing the notion of "classes of tasks" for the Linux kernel so that the scheduler can make better decisions on hybrid processors like with Intel's Alder Lake processors and upcoming Raptor Lake. This also provides a more complete implementation of Intel Thread Director for Linux and may also be used as the basis for instruction set differences between the performance and efficient cores...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Holger Levsen: 20220910-youngest-LUKS-user]]></title>
+        <id>http://layer-acht.org/thinking/blog/20220910-youngest-LUKS-user/</id>
+        <link href="http://layer-acht.org/thinking/blog/20220910-youngest-LUKS-user/"/>
+        <updated>2022-09-10T10:39:00.000Z</updated>
+        <summary type="html"><![CDATA[youngest LUKS user I know...
+So I'm in Berlin currently to attend the fourth Qubes OS Summit, also to discuss the future of the reproducible-builds.org mirror of snapshot.debian.org and in the evening I've met an old Debian friend who told a lovely story about his 5 year old daughter, who since recently is a Debian user using an old laptop with LUKS encryption, knowing her data will be lost when she forgets her passphrase... 😀
+The Qubes OS Summit is also very cool, great people and exciting developments!]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Starlight Children's Foundation Bundle has a really odd selection]]></title>
         <id>https://www.gamingonlinux.com/2022/09/the-starlight-childrens-foundation-bundle-has-a-really-odd-selection/</id>
@@ -76,6 +108,28 @@
         <summary type="html"><![CDATA[Enligt en ny kartläggning av Sifo använder majoriteten av svenskarna Apple-märkta telefoner och störst andel Iphone-användare finns i Stockholm.]]></summary>
         <author>
             <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joachim Breitner: rec-def: Behind the scenes]]></title>
+        <id>http://www.joachim-breitner.de/blog/793-rec-def__Behind_the_scenes</id>
+        <link href="http://www.joachim-breitner.de/blog/793-rec-def__Behind_the_scenes"/>
+        <updated>2022-09-10T09:08:24.000Z</updated>
+        <summary type="html"><![CDATA[A week ago I wrote about the rec-def Haskell library, which allows you to write more recursive definitions, such as in this small example:
+let s1 = rInsert 23 s2
+    s2 = rInsert 42 s1
+in getR s1
+This will not loop (as it would if you’d just used Data.Set), but rather correctly return the set S.fromList [23,42]. See the previous blog post for more examples and discussion of the user-facing side of this.
+For quick reference, these are the types of the functions involved here:
+rInsert :: a -> R (Set a) -> R (Set a)
+getR :: R (Set a) -> Set a
+
+The type of s1 and s2 above is not Set Int, but rather R (Set Int), and in this post I’ll explain how R works internally.
+Propagators, in general
+The conceptual model behind an recursive equation like above is
+There are a multiple cells that can hold va…]]></summary>
+        <author>
+            <name>mail@joachim-breitner.de (Joachim Breitner)</name>
         </author>
     </entry>
     <entry>
