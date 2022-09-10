@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-10T17:26:37.518Z</updated>
+    <updated>2022-09-10T18:30:47.410Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
@@ -161,6 +161,16 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Will Judd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FZ Play - Vi kör den hyllade pusselplattformaren Tinykin]]></title>
+        <id>https://www.fz.se/artikel/291403</id>
+        <link href="https://www.fz.se/artikel/291403-fz-play-vi-kor-den-hyllade-pusselplattformaren-tinykin"/>
+        <updated>2022-09-10T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Följ kvällens stream.]]></summary>
+        <author>
+            <name>FZ.se</name>
         </author>
     </entry>
     <entry>
@@ -18518,16 +18528,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[SMS, samtal och en enkel kamera – innan de smarta telefonerna fick fotfäste var det detta som rymdes i en telefon. Hur fungerar det att gå tillbaka till den tiden?]]></summary>
         <author>
             <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7 Minimalist Linux Distributions Featuring Openbox]]></title>
-        <id>https://itsfoss.com/?p=101254</id>
-        <link href="https://itsfoss.com/openbox-distros/"/>
-        <updated>2022-08-28T06:01:10.000Z</updated>
-        <summary type="html"><![CDATA[Openbox is a lightweight, configurable, stacking window manager. Here are a few distros that provide Openbox preconfigured.]]></summary>
-        <author>
-            <name>Anuj Sharma</name>
         </author>
     </entry>
 </feed>
