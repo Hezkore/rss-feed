@@ -131,6 +131,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/09/the-starlight-childrens-foundation-bundle-has-a-really-odd-selection/",
+          "author": "Liam Dawe",
+          "description": "Humble recently launched the Starlight Children's Foundation Bundle and it's a thoroughly odd selection but some of you might want to check it out.",
+          "link": "https://www.gamingonlinux.com/2022/09/the-starlight-childrens-foundation-bundle-has-a-really-odd-selection/",
+          "publishedOn": "2022-09-10T10:25:58.000Z",
+          "wordCount": 1144,
+          "title": "The Starlight Children's Foundation Bundle has a really odd selection",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/357995848id21576gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/09/valve-opens-official-steam-deck-repair-centers/",
           "author": "Liam Dawe",
           "description": "Need to get your Steam Deck fixed up? Well, you no longer have to do it yourself as Valve have officially opened up some repair centers.",
@@ -4402,6 +4412,36 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-6.1-Intel-GPU-FW-MTL-More",
+          "author": null,
+          "description": "Intel engineers have submitted another batch of \"i915\" kernel graphics driver changes intended for Linux 6.1 that include updated GuC firmware version handling, more DG2/Alchemist Arc Graphics work, and also more Meteor Lake \"MTL\" enablement for that successor to Raptor Lake...",
+          "link": "https://www.phoronix.com/news/Linux-6.1-Intel-GPU-FW-MTL-More",
+          "publishedOn": "2022-09-10T10:06:34.000Z",
+          "wordCount": 1453,
+          "title": "Intel Sends Updated GPU Firmware Handling, More Meteor Lake Graphics Code For Linux 6.1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Fedora-37-Beta-Next-Week",
+          "author": null,
+          "description": "Fedora Linux releases whether they be development/beta snapshots or the stable releases are known for slipping all too often. Fedora will often delay due to blocker bugs as they aim to deliver a bleeding-edge yet reliable Linux distribution and thus a week or two delay here and there isn't uncommon at all. While they have been delivering more timely releases than in the past with their notorious delays, for Fedora Linux 37 Beta they have delivered on the feat of an on-time release...",
+          "link": "https://www.phoronix.com/news/Fedora-37-Beta-Next-Week",
+          "publishedOn": "2022-09-10T09:51:59.000Z",
+          "wordCount": 1369,
+          "title": "Fedora Linux 37 Beta To Be Released On-Time Next Week",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/KDE-Plasma-5.26-More-Wayland",
+          "author": null,
+          "description": "KDE Plasma 5.26 is due for release on 11 October while the Plasma 5.26 beta is planned for next week. As such the developers involved have been quite busy with finishing touches ahead of the beta...",
+          "link": "https://www.phoronix.com/news/KDE-Plasma-5.26-More-Wayland",
+          "publishedOn": "2022-09-10T09:29:07.000Z",
+          "wordCount": 1468,
+          "title": "KDE Developers Prepare For Plasma 5.26, More Plasma Wayland Fixes Readied",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/LLVM-Landing-Zstd-Debug-Section",
           "author": null,
           "description": "Following the news from this summer of Zstd compression being eyed for use within LLVM, the code has begun being merged to allow for Zstd-compressed ELF debug sections as an alternative to the long-used Zlib...",
@@ -6847,16 +6887,6 @@
           "wordCount": 5142,
           "title": "World Of Warcraft: Wrath Of The Lich King Classic’s pre-patch resurrects Death Knights today",
           "imageUrl": "https://assets2.rockpapershotgun.com/World-of-Warcraft-Lich-King-Classic-Death-Knight.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/World-of-Warcraft-Lich-King-Classic-Death-Knight.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/former-payday-developers-are-working-on-a-new-co-op-heist-shooter",
-          "author": "Graham Smith",
-          "description": "The second project from 10 Chambers, the developers of co-op horror shooter GTFO, will be a co-op heist shooter. Creative director Ulf Andersson shared the news at Gamescom, saying that making a game in the genre \"feels like it’s an unclosed chapter\". Andersson previously worked on Payday 1 and 2 at Overkill Software, before leaving to found 10 Chambers.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/former-payday-developers-are-working-on-a-new-co-op-heist-shooter",
-          "publishedOn": "2022-08-27T22:03:01.000Z",
-          "wordCount": 4761,
-          "title": "Former Payday developers are working on a new co-op heist shooter",
-          "imageUrl": "https://assets2.rockpapershotgun.com/payday_2_1.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/payday_2_1.jpg"
         }
       ]
     },
@@ -9857,6 +9887,16 @@
       "feedUrl": "https://planet.debian.org/rss20.xml",
       "siteUrl": "https://planet.debian.org/",
       "articles": [
+        {
+          "id": "http://www.netfort.gr.jp/~dancer/diary/daily/2022-Sep-10.html.en#2022-Sep-10-18:53:53",
+          "author": null,
+          "description": "Tried implementing FUSE cpiofs.\n\t  I thought it might be fun to implement a file system that can mount initrd file systems. I've implemented symlinks and regular files handling and then I realized that it is kind of annoying that I need to implement hard links.\n\t  cpiofs",
+          "link": "http://www.netfort.gr.jp/~dancer/diary/daily/2022-Sep-10.html.en#2022-Sep-10-18:53:53",
+          "publishedOn": "2022-09-10T09:53:53.000Z",
+          "wordCount": 90,
+          "title": "Junichi Uekawa: Tried implementing FUSE cpiofs.",
+          "imageUrl": null
+        },
         {
           "id": "https://reproducible-builds.org/reports/2022-08/",
           "author": null,
