@@ -3185,6 +3185,16 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/disney-dreamlight-valley-toy-story-realm",
+          "author": "Oisin Kuhnke",
+          "description": "Disney Dreamlight Valley just launched, but the promise of new content is already on the horizon with the announcement of a Toy Story realm.\nIt's D23 at the moment, the Disney event that announces a big range of upcoming films, TV shows, merch, and games owned by the media conglomerate. Considering Disney Dreamlight Valley literally only launched this week it's a bit of a surprise that new content has already been announced, but either way, there's a Toy Story realm coming to the game this autumn. \nA trailer was released showing off the realm in action, which unsurprisingly is set in a kids room, though doesn't appear to be Andy's room specifically, with your player character shrunk down to get a toy's perspective. The trailer revealed a couple of new outfits that your character will be able to wear, one an obviously Woody-themed cowperson outfit, the other themed Buzz that sort of looks like something you'd wear in your downtime at Space Command.\n Read more",
+          "link": "https://www.vg247.com/disney-dreamlight-valley-toy-story-realm",
+          "publishedOn": "2022-09-11T09:41:50.000Z",
+          "wordCount": 4620,
+          "title": "Disney Dreamlight Valley shrinks you down for a Toy Story realm coming this autumn",
+          "imageUrl": "https://asset.vg247.com/disney-dreamlight-valley-toy-story.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/disney-dreamlight-valley-toy-story.jpg"
+        },
+        {
           "id": "https://www.vg247.com/tekken-3-watch-netflix-tekken-anime",
           "author": "Dom Peppiatt",
           "description": "Tekken is a massively popular series: the latest game in the series bypassing 9 million sales in its lifetime is proof enough of that. But as popular as the series is today, there’s something about the early games in the fighting game franchise – Tekken 2 and Tekken 3, specifically – that left their mark in the cultural consciousness in an altogether different way.\r\n\nFor lots of people, their first exposure to Bandai Namco’s 3D fighter was in Tekken 2 – but thanks to Demo One discs and the proliferation of Platinum games on the original PlayStation, I’d wager more people eventually got their hands on (and spent more time with) Tekken 3. And rightly so; it was argueably better than Tekken 2 in every way – and there’s something about the style, the music, the story, and the whole aesthetic that just belongs so wholly in the 90s. It’s become more than a game; it’s become a vessel for nostalgia. \nIt’s fitting, then, that Netflix’s latest video game adaptation revolves mostly around Tekken 3. Tekken: Bloodline’s story takes us back to just before the third King of Iron Fist Tournament; we see a young Jin Kazama being taught by his mother, Jun, to channel his rage and power – and only use his martial arts prowess for good. Tragedy befalls the family, and Jin is instructed to seek out his paternal grandfather: Heihachi Mishima. One of the richest, and most evil, men in Japan.\n Read more",
@@ -4531,6 +4541,46 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/New-Linux-printk-Threaded-Work",
+          "author": null,
+          "description": "As part of the multi-year effort to overhaul the Linux kernel's printk() code there has been much work in recent months around threaded console printing so each registered console would have a kernel thread and console printing would be decoupled from the printk() callers. That work was aimed for Linux 5.19 but then reverted due to troubles. There is now a new implementation in the works...",
+          "link": "https://www.phoronix.com/news/New-Linux-printk-Threaded-Work",
+          "publishedOn": "2022-09-11T10:13:04.000Z",
+          "wordCount": 1500,
+          "title": "Linux Sees A New Attempt At Threaded Console Printing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/FLAC-1.4-Released",
+          "author": null,
+          "description": "FLAC 1.4 was released on Friday as the \"Free Lossless Audio Codec\" that is known for its great, no-cost lossless compression for digital audio...",
+          "link": "https://www.phoronix.com/news/FLAC-1.4-Released",
+          "publishedOn": "2022-09-11T09:39:22.000Z",
+          "wordCount": 1301,
+          "title": "FLAC 1.4 Released With AArch64 Optimizations, Faster x86_64 FMA",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-oneVPL-FFmpeg-Accel",
+          "author": null,
+          "description": "Last month Intel began landing oneVPL support within FFmpeg as their video processing and acceleration library that is part of their oneAPI toolkit. The oneVPL Video Processing Library supports CPU-based execution as well as native Intel GPU acceleration for their latest Gen12/Xe hardware with a focus on Arc Graphics / DG2 hardware, targeting the Intel Media SDK for their older GPUs, and can be adapted for other possible back-ends...",
+          "link": "https://www.phoronix.com/news/Intel-oneVPL-FFmpeg-Accel",
+          "publishedOn": "2022-09-11T09:30:15.000Z",
+          "wordCount": 1433,
+          "title": "Intel Talks Up Their oneVPL Acceleration Within FFmpeg",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Ubuntu-Summit-2022",
+          "author": null,
+          "description": "Canonical used to host a stellar in-person event each Ubuntu Linux development cycle with the Ubuntu Developer Summit. That was over a decade ago and then it became largely a virtual event and then faded away in favor of Canonical's internal road-map planning and other developer sprints among their employees. Coming up in November in Prague is the return of an in-person official event with the Ubuntu Summit...",
+          "link": "https://www.phoronix.com/news/Ubuntu-Summit-2022",
+          "publishedOn": "2022-09-11T08:49:28.000Z",
+          "wordCount": 1256,
+          "title": "Ubuntu Summit Making A Return In November",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Debian-11.5-Released",
           "author": null,
@@ -12043,6 +12093,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291414",
+          "author": null,
+          "description": "All knives out.",
+          "link": "https://www.fz.se/artikel/291414-ubisoft-teasar-om-ett-multiplayer-inriktat-assassins-creed",
+          "publishedOn": "2022-09-11T10:00:00.000Z",
+          "wordCount": 1817,
+          "title": "Ubisoft teasar om ett multiplayer-inriktat Assassin’s Creed",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291414"
+        },
         {
           "id": "https://www.fz.se/artikel/291351",
           "author": null,

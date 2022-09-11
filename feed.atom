@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-11T09:23:37.044Z</updated>
+    <updated>2022-09-11T10:26:16.568Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Sees A New Attempt At Threaded Console Printing]]></title>
+        <id>https://www.phoronix.com/news/New-Linux-printk-Threaded-Work</id>
+        <link href="https://www.phoronix.com/news/New-Linux-printk-Threaded-Work"/>
+        <updated>2022-09-11T10:13:04.000Z</updated>
+        <summary type="html"><![CDATA[As part of the multi-year effort to overhaul the Linux kernel's printk() code there has been much work in recent months around threaded console printing so each registered console would have a kernel thread and console printing would be decoupled from the printk() callers. That work was aimed for Linux 5.19 but then reverted due to troubles. There is now a new implementation in the works...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubisoft teasar om ett multiplayer-inriktat Assassin’s Creed]]></title>
+        <id>https://www.fz.se/artikel/291414</id>
+        <link href="https://www.fz.se/artikel/291414-ubisoft-teasar-om-ett-multiplayer-inriktat-assassins-creed"/>
+        <updated>2022-09-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[All knives out.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disney Dreamlight Valley shrinks you down for a Toy Story realm coming this autumn]]></title>
+        <id>https://www.vg247.com/disney-dreamlight-valley-toy-story-realm</id>
+        <link href="https://www.vg247.com/disney-dreamlight-valley-toy-story-realm"/>
+        <updated>2022-09-11T09:41:50.000Z</updated>
+        <summary type="html"><![CDATA[Disney Dreamlight Valley just launched, but the promise of new content is already on the horizon with the announcement of a Toy Story realm.
+It's D23 at the moment, the Disney event that announces a big range of upcoming films, TV shows, merch, and games owned by the media conglomerate. Considering Disney Dreamlight Valley literally only launched this week it's a bit of a surprise that new content has already been announced, but either way, there's a Toy Story realm coming to the game this autumn. 
+A trailer was released showing off the realm in action, which unsurprisingly is set in a kids room, though doesn't appear to be Andy's room specifically, with your player character shrunk down to get a toy's perspective. The trailer revealed a couple of new outfits that your character will be able to wear, one an obviously Woody-themed cowperson outfit, the other themed Buzz that sort of looks like something you'd wear in your downtime at Space Command.
+ Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FLAC 1.4 Released With AArch64 Optimizations, Faster x86_64 FMA]]></title>
+        <id>https://www.phoronix.com/news/FLAC-1.4-Released</id>
+        <link href="https://www.phoronix.com/news/FLAC-1.4-Released"/>
+        <updated>2022-09-11T09:39:22.000Z</updated>
+        <summary type="html"><![CDATA[FLAC 1.4 was released on Friday as the "Free Lossless Audio Codec" that is known for its great, no-cost lossless compression for digital audio...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Talks Up Their oneVPL Acceleration Within FFmpeg]]></title>
+        <id>https://www.phoronix.com/news/Intel-oneVPL-FFmpeg-Accel</id>
+        <link href="https://www.phoronix.com/news/Intel-oneVPL-FFmpeg-Accel"/>
+        <updated>2022-09-11T09:30:15.000Z</updated>
+        <summary type="html"><![CDATA[Last month Intel began landing oneVPL support within FFmpeg as their video processing and acceleration library that is part of their oneAPI toolkit. The oneVPL Video Processing Library supports CPU-based execution as well as native Intel GPU acceleration for their latest Gen12/Xe hardware with a focus on Arc Graphics / DG2 hardware, targeting the Intel Media SDK for their older GPUs, and can be adapted for other possible back-ends...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu Summit Making A Return In November]]></title>
+        <id>https://www.phoronix.com/news/Ubuntu-Summit-2022</id>
+        <link href="https://www.phoronix.com/news/Ubuntu-Summit-2022"/>
+        <updated>2022-09-11T08:49:28.000Z</updated>
+        <summary type="html"><![CDATA[Canonical used to host a stellar in-person event each Ubuntu Linux development cycle with the Ubuntu Developer Summit. That was over a decade ago and then it became largely a virtual event and then faded away in favor of Canonical's internal road-map planning and other developer sprints among their employees. Coming up in November in Prague is the return of an in-person official event with the Ubuntu Summit...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hyenas]]></title>
         <id>https://www.fz.se/artikel/291351</id>
