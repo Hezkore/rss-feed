@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-11T19:19:30.161Z</updated>
+    <updated>2022-09-11T20:25:40.396Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
@@ -18877,55 +18877,6 @@ On top of that, PlayStation also announced that Savage Game Studios is joining t
         <link href="https://www.fz.se/artikel/291269-dual-universe-slapps-nasta-manad-trial-version-utlovad"/>
         <updated>2022-08-29T08:48:00.000Z</updated>
         <summary type="html"><![CDATA[Rymd-MMO:t färdigt efter åtta års utveckling.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metas nya VR-headset visas i oktober]]></title>
-        <id>https://www.sweclockers.com/artikel/34830</id>
-        <link href="https://www.sweclockers.com/artikel/34830-metas-nya-vr-headset-visas-i-oktober"/>
-        <updated>2022-08-29T08:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Mark Zuckerberg avslöjar en del av Metas framtidsplaner inom VR och bekräftar att nästa VR-headset visas upp i oktober.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Metas nya VR-headset visas upp i oktober]]></title>
-        <id>https://www.sweclockers.com/artikel/34830</id>
-        <link href="https://www.sweclockers.com/artikel/34830-metas-nya-vr-headset-visas-upp-i-oktober"/>
-        <updated>2022-08-29T08:24:00.000Z</updated>
-        <summary type="html"><![CDATA[Mark Zuckerberg avslöjar en del av Metas framtidsplaner inom VR och bekräftar att nästa VR-headset visas upp i oktober.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emmanuel Kasper: Moving blog from blogger.com to wordpress.com]]></title>
-        <id>http://00formicapunk00.wordpress.com/?p=71</id>
-        <link href="https://00formicapunk00.wordpress.com/2022/08/29/moving-blog-from-blogger-com-to-wordpress-com/"/>
-        <updated>2022-08-29T08:05:04.000Z</updated>
-        <summary type="html"><![CDATA[I switched from blogger.com the Google Blog platform to the hosted wordpress.com of Automaticc, the WordPress blog engine main authors.
-markdown formatting when writing blog entries, finally !
-running on a opensource core, that I can move locally to my own server if I ever want to fiddle with MySQL and PHP.
-I lose:
-free CNAME redirect using my own domain name
-a bit of advertising-free space. The blog at wordpress.com has a prominent header indicating I am using the free plan, but I am OK so far with that.
-What stays the same:
-Blogger and WordPress.com offer both tag-based RSS feed exports, so I decided to keep for  Debian Planet a feed containing only the posts related to free, libre and opensource software.
-I was not ready to make the jump to a self hosted static blog generator, as I still wanted to have the possibility to comment, without me having to host the comment subsystem.
-On the personal side, I also intend to pause twitter activity, as I notice current microblogging platforms tend to mostly contain flame wars, self promotion, or shared links I could find anyway with a good feed reader.]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dome Keeper blandar gruvarbete med kupolförsvar]]></title>
-        <id>https://www.fz.se/artikel/291268</id>
-        <link href="https://www.fz.se/artikel/291268-dome-keeper-blandar-gruvarbete-med-kupolforsvar"/>
-        <updated>2022-08-29T07:59:00.000Z</updated>
-        <summary type="html"><![CDATA[En demo finns, men bara i en vecka till.]]></summary>
         <author>
             <name>FZ.se</name>
         </author>
