@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-11T02:38:57.958Z</updated>
+    <updated>2022-09-11T04:26:20.230Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Shirish Agarwal: Politics, accessibility, books]]></title>
+        <id>http://flossexperiences.wordpress.com/?p=7457</id>
+        <link href="https://flossexperiences.wordpress.com/2022/09/11/politics-accessibility-books/"/>
+        <updated>2022-09-11T03:47:46.000Z</updated>
+        <summary type="html"><![CDATA[Politics
+I have been reading books, both fiction and non-fiction for a long long time. My first book was a comic most probably when I was down with Malaria when I was a kid. I must be around 4-5 years old. Over the years, books have given me great joy and I continue to find nuggets of useful information, both in fiction as well as non-fiction books. So here’s to sharing something and how that can lead you to a rabbit hole. This entry would be a bit NSFW as far as language is concerned. 
+NYPD Red 5 by James Patterson – First of all, have no clue as to why James Patterson’s popularity has been falling. He used to be right there with Lee Child and others, but not so much now. While I try to be mysterious about books, I would give a bit of heads-up so people know what to expect. This is probab…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Russ Allbery: Review: Hogfather]]></title>
         <id>https://www.eyrie.org/~eagle/reviews/books/0-06-227628-X.html</id>
@@ -18529,102 +18541,6 @@ Thanks to Jo and Steve, to all the cooks and folk sorting things out. One more n
         <summary type="html"><![CDATA[New rumors claim that the next-generation Ryzen 9 7950X 16-core Zen 4 processor can boost up to 5.85 GHz.]]></summary>
         <author>
             <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valve's testing an all-new Steam Mobile app]]></title>
-        <id>https://www.eurogamer.net/valves-testing-an-all-new-steam-mobile-app</id>
-        <link href="https://www.eurogamer.net/valves-testing-an-all-new-steam-mobile-app"/>
-        <updated>2022-08-28T16:19:47.000Z</updated>
-        <summary type="html"><![CDATA[Valve has commenced rolling out a new version of its Steam Mobile app.
-
-Not everyone will be able to give it a try just yet, though, as right now it's only available as part of "a limited beta". Valve said it's holding off from a public release in order to ensure the app works on "so many different phones and devices".
-
-"We’ve rebuilt the app on a new framework and modernized the design," Valve said in a brief blog post on the website, before cheekily adding: "(2015 called and wanted their app back).
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leaked Xbox Game Pass branding suggests family plan can be shared with friends too]]></title>
-        <id>https://www.vg247.com/game-pass-leak-friends-and-family-plan</id>
-        <link href="https://www.vg247.com/game-pass-leak-friends-and-family-plan"/>
-        <updated>2022-08-28T16:03:07.000Z</updated>
-        <summary type="html"><![CDATA[Xbox has recently been trialling letting subscribers share Game Pass with family members, but a recent leak suggests you'll be able to do it with friends too.
-Earlier this month, Microsoft started testing a family plan of Game Pass in Colombia and Ireland, which lets you share Game Pass benefits with your family. However, as reported by The Verge, some branding for the scheme has leaked which suggests that the plan won't just be limited to family members, but to friends too.
-As shared by leaker Aggiornamenti Lumia, shared the branding, quite simply called "Friends & Family," which strongly suggests the branding will be more broad than just family members whenever it does launch. It would make things easier, as registering your friends as family members could possibly cause problems somewhere down the line.
- Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diablo Immortal is redesigning its legendary crests to help players "differentiate" between them]]></title>
-        <id>https://www.eurogamer.net/diablo-immortal-is-redesigning-its-legendary-crests-to-help-players-differentiate-between-them</id>
-        <link href="https://www.eurogamer.net/diablo-immortal-is-redesigning-its-legendary-crests-to-help-players-differentiate-between-them"/>
-        <updated>2022-08-28T16:02:46.000Z</updated>
-        <summary type="html"><![CDATA[Blizzard is redesigning Diablo Immortal's legendary crests to "help differentiate" them from the eternal legendary chests that cost players real money.
-
-Responding to a post in the game's subreddit, lead designer Wyatt Cheng said that the team not only wanted to ensure the colours were different, but also change their shape, too, so "players know exactly what they're getting when they make a purchase". 
-
-"This is artwork that we're working on to help differentiate the Legendary Crest (which will become [the] Orange one) from the Eternal Legendary Crest (which will remain the purple one in the middle, that yields gems that can be sold on the Market)," Cheng explained.
- Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There are no plans to bring couch co-op to MultiVersus just yet]]></title>
-        <id>https://www.eurogamer.net/there-are-no-plans-to-bring-couch-co-op-to-multiversus-just-yet</id>
-        <link href="https://www.eurogamer.net/there-are-no-plans-to-bring-couch-co-op-to-multiversus-just-yet"/>
-        <updated>2022-08-28T15:36:28.000Z</updated>
-        <summary type="html"><![CDATA[There are no plans to introduce co-op to Multiversus just yet. 
-
-That's according to game director Tony Huynh, who - whilst responding to a question posed by a player on Twitter - said that as the team's current focus is "stabilising [MultiVersus'] experience", any plans to integrate couch co-op is "further out".
-
-Huynh added that right now, "netcode improvements, hurt/hitboxes, projectiles, platform interactions" are most important to the team (thanks, NME).
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo gives us a nice long look at Stardew Valley meets Final Fantasy game Harvestella]]></title>
-        <id>https://www.vg247.com/harvestella-nintendo-treehouse-demonstration</id>
-        <link href="https://www.vg247.com/harvestella-nintendo-treehouse-demonstration"/>
-        <updated>2022-08-28T15:35:26.000Z</updated>
-        <summary type="html"><![CDATA[Square Enix's upcoming farming-sim X action game Harvestella was shown off in the latest Nintendo: Treehouse Live.
-If you're part of the venn diagram of fans that sits in between Stardew Valley and Final Fantasy, Harvestella will likely be for you. And thanks to Nintendo, we've been given a nice long look at the game. Unsurprisingly, the game starts with the player character experiencing a bout of amnesia, as any good game does, throwing you into a world where the seasons are dictated by four huge crystals, which sounds like the usual kind of Final Fantasy affair.
-Except uh oh! The fifth season, Quietus, or the season of death, is starting to spread throughout the world, leaving crops withered and dead. As the Treehouse Live quite rapidly explains, another big crystal drops from the sky, which is accompanied by an armoured fellow that the cast aren't quite sure what to do with.
- Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[System Shocks framtid är helt upp till Tencent]]></title>
-        <id>https://www.fz.se/artikel/291263</id>
-        <link href="https://www.fz.se/artikel/291263-system-shocks-framtid-ar-helt-upp-till-tencent"/>
-        <updated>2022-08-28T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Det är upp till Tencent om vi får en uppföljare till System Shock]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cult-classics Wild Arms' and Shadow Hearts' directors join forces for double Kickstarter]]></title>
-        <id>https://www.vg247.com/wild-arms-shadow-hearts-spiritual-successor</id>
-        <link href="https://www.vg247.com/wild-arms-shadow-hearts-spiritual-successor"/>
-        <updated>2022-08-28T14:59:08.000Z</updated>
-        <summary type="html"><![CDATA[The creators of cult-classic JRPGs Wild Arms and Shadow Hearts are joining forces for a double Kickstarter with two spiritual successors to the original titles.
-Earlier this week, the creators of the two JRPGs announced a supposed first for Kickstarter, a double Kickstarter, for two games; Armed Fantasia, a spiritual successor to Wild Arms, and Pennyblood, in turn a spiritual successor to Shadow Hearts. The campaign opens up tomorrow, August 29, and seeks to raise $750,000.
-Armed Fantasia is being developed by Wild Bunch Productions, and as reported by RPG Site, consists of numerous members of key staff that worked on the Wild Arms series. The game features "a dramatic story about a group of Pathfinders and their trusted ARMs who embark on a perilous journey across an expansive Westernpunk world hurtling towards destruction."
- Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
         </author>
     </entry>
 </feed>
