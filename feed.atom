@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-11T10:26:16.568Z</updated>
+    <updated>2022-09-11T11:20:23.562Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Draft EU AI Act regulations could have a chilling effect on open-source software]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/11/in_brief_ai/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/11/in_brief_ai/"/>
+        <updated>2022-09-11T11:00:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Plus: New MLPerf inference results, and artists finds terrifying AI-generated face haunting images</h4> <p><strong>In-brief</strong>  New rules drafted by the European Union aimed at regulating AI could prevent developers from releasing open-source models, according to American think tank Brookings.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wifi 7 visar framfötterna i demonstration]]></title>
+        <id>https://www.sweclockers.com/artikel/34900</id>
+        <link href="https://www.sweclockers.com/artikel/34900-wifi-7-visar-framfotterna-i-demonstration"/>
+        <updated>2022-09-11T10:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Hisnande hastigheter står på menyn när Intel och Broadcom visar den kommande Wifi 7, med hastigheter som slår många trådbundna anslutningar.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overwatch 2's next hero leaks in an unfinished animated short]]></title>
+        <id>https://www.vg247.com/overwatch-2-hero-35-leak</id>
+        <link href="https://www.vg247.com/overwatch-2-hero-35-leak"/>
+        <updated>2022-09-11T10:39:18.000Z</updated>
+        <summary type="html"><![CDATA[What is presumably the next hero that was set to be announced for Overwatch 2 has been leaked via an unfinished animated short.
+Obviously, if you don't want to know anything about this unconfirmed hero before they're officially revealed, stop reading here, but if you're not fussed, be our guest!
+So far, Overwatch 2 has two new characters confirmed to be coming to the game, who was also accidentally revealed through a leak, and Junker Queen, who managed to avoid the leak treatment. Unfortunately for Kiriko, the name of the the newest spirit-fox-themed hero, her reveal comes through another leak, this time of an animated short, though it's not quite finished.
+ Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple M1 Pro/Max/Ultra Device Trees Under Review For Linux]]></title>
+        <id>https://www.phoronix.com/news/Apple-M1-Pro-Max-Ultra-DT</id>
+        <link href="https://www.phoronix.com/news/Apple-M1-Pro-Max-Ultra-DT"/>
+        <updated>2022-09-11T10:26:52.000Z</updated>
+        <summary type="html"><![CDATA[The Device Tree (DT) files needed by the Linux kernel for Apple Macs powered by the M1 Pro, Max, and Ultra SoCs has been submitted on the kernel mailing list for review and working their way towards upstream...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux Sees A New Attempt At Threaded Console Printing]]></title>
         <id>https://www.phoronix.com/news/New-Linux-printk-Threaded-Work</id>
@@ -18617,28 +18660,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/america_songs.png" title="Juraaaassic Park, Juraaaassic Park, God shed his grace on theeeee" alt="Juraaaassic Park, Juraaaassic Park, God shed his grace on theeeee" />]]></summary>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dirk Eddelbuettel: littler 0.3.16 on CRAN: Package Updates]]></title>
-        <id>http://dirk.eddelbuettel.com/blog/2022/08/28#littler-0.3.16</id>
-        <link href="http://dirk.eddelbuettel.com/blog/2022/08/28#littler-0.3.16"/>
-        <updated>2022-08-28T22:54:00.000Z</updated>
-        <summary type="html"><![CDATA[The seventeenth release of littler as a CRAN package just landed, following in the now sixteen year history (!!) as a package started by Jeff in 2006, and joined by me a few weeks later.
-littler is the first command-line interface for R as it predates Rscript. It allows for piping as well for shebang scripting via #!, uses command-line arguments more consistently and still starts faster. It also always loaded the methods package which Rscript only started to do in recent years.
-littler lives on Linux and Unix, has its difficulties on macOS due to yet-another-braindeadedness there (who ever thought case-insensitive filesystems as a default were a good idea?) and simply does not exist on Windows (yet – the build system could be extended – see RInside for an existence proof, and volunteers ar…]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.0-rc3 Released In Marking 31 Years Since Linus Torvalds Announced It]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.0-rc3-Released</id>
-        <link href="https://www.phoronix.com/news/Linux-6.0-rc3-Released"/>
-        <updated>2022-08-28T22:39:51.000Z</updated>
-        <summary type="html"><![CDATA[Linus Torvalds just released the third weekly release candidate of the upcoming Linux 6.0 kernel...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
 </feed>

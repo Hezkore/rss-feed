@@ -3185,6 +3185,16 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/overwatch-2-hero-35-leak",
+          "author": "Oisin Kuhnke",
+          "description": "What is presumably the next hero that was set to be announced for Overwatch 2 has been leaked via an unfinished animated short.\nObviously, if you don't want to know anything about this unconfirmed hero before they're officially revealed, stop reading here, but if you're not fussed, be our guest!\nSo far, Overwatch 2 has two new characters confirmed to be coming to the game, who was also accidentally revealed through a leak, and Junker Queen, who managed to avoid the leak treatment. Unfortunately for Kiriko, the name of the the newest spirit-fox-themed hero, her reveal comes through another leak, this time of an animated short, though it's not quite finished.\n Read more",
+          "link": "https://www.vg247.com/overwatch-2-hero-35-leak",
+          "publishedOn": "2022-09-11T10:39:18.000Z",
+          "wordCount": 4629,
+          "title": "Overwatch 2's next hero leaks in an unfinished animated short",
+          "imageUrl": "https://asset.vg247.com/overwatch-2-kiriko-leak.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/overwatch-2-kiriko-leak.jpg"
+        },
+        {
           "id": "https://www.vg247.com/disney-dreamlight-valley-toy-story-realm",
           "author": "Oisin Kuhnke",
           "description": "Disney Dreamlight Valley just launched, but the promise of new content is already on the horizon with the announcement of a Toy Story realm.\nIt's D23 at the moment, the Disney event that announces a big range of upcoming films, TV shows, merch, and games owned by the media conglomerate. Considering Disney Dreamlight Valley literally only launched this week it's a bit of a surprise that new content has already been announced, but either way, there's a Toy Story realm coming to the game this autumn. \nA trailer was released showing off the realm in action, which unsurprisingly is set in a kids room, though doesn't appear to be Andy's room specifically, with your player character shrunk down to get a toy's perspective. The trailer revealed a couple of new outfits that your character will be able to wear, one an obviously Woody-themed cowperson outfit, the other themed Buzz that sort of looks like something you'd wear in your downtime at Space Command.\n Read more",
@@ -4542,6 +4552,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Apple-M1-Pro-Max-Ultra-DT",
+          "author": null,
+          "description": "The Device Tree (DT) files needed by the Linux kernel for Apple Macs powered by the M1 Pro, Max, and Ultra SoCs has been submitted on the kernel mailing list for review and working their way towards upstream...",
+          "link": "https://www.phoronix.com/news/Apple-M1-Pro-Max-Ultra-DT",
+          "publishedOn": "2022-09-11T10:26:52.000Z",
+          "wordCount": 1579,
+          "title": "Apple M1 Pro/Max/Ultra Device Trees Under Review For Linux",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/New-Linux-printk-Threaded-Work",
           "author": null,
           "description": "As part of the multi-year effort to overhaul the Linux kernel's printk() code there has been much work in recent months around threaded console printing so each registered console would have a kernel thread and console printing would be decoupled from the printk() callers. That work was aimed for Linux 5.19 but then reverted due to troubles. There is now a new implementation in the works...",
@@ -5619,16 +5639,6 @@
           "publishedOn": "2022-08-29T10:23:41.000Z",
           "wordCount": 1266,
           "title": "ASpeed DRM Driver Adding DMA-BUF/PRIME Sharing For Use With Servers Having dGPUs",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.0-rc3-Released",
-          "author": null,
-          "description": "Linus Torvalds just released the third weekly release candidate of the upcoming Linux 6.0 kernel...",
-          "link": "https://www.phoronix.com/news/Linux-6.0-rc3-Released",
-          "publishedOn": "2022-08-28T22:39:51.000Z",
-          "wordCount": 1389,
-          "title": "Linux 6.0-rc3 Released In Marking 31 Years Since Linus Torvalds Announced It",
           "imageUrl": null
         }
       ]
@@ -10461,16 +10471,6 @@
           "wordCount": 1539,
           "title": "Emmanuel Kasper: Moving blog from blogger.com to wordpress.com",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "http://dirk.eddelbuettel.com/blog/2022/08/28#littler-0.3.16",
-          "author": null,
-          "description": "The seventeenth release of littler as a CRAN package just landed, following in the now sixteen year history (!!) as a package started by Jeff in 2006, and joined by me a few weeks later.\nlittler is the first command-line interface for R as it predates Rscript. It allows for piping as well for shebang scripting via #!, uses command-line arguments more consistently and still starts faster. It also always loaded the methods package which Rscript only started to do in recent years.\nlittler lives on Linux and Unix, has its difficulties on macOS due to yet-another-braindeadedness there (who ever thought case-insensitive filesystems as a default were a good idea?) and simply does not exist on Windows (yet – the build system could be extended – see RInside for an existence proof, and volunteers ar…",
-          "link": "http://dirk.eddelbuettel.com/blog/2022/08/28#littler-0.3.16",
-          "publishedOn": "2022-08-28T22:54:00.000Z",
-          "wordCount": 1094,
-          "title": "Dirk Eddelbuettel: littler 0.3.16 on CRAN: Package Updates",
-          "imageUrl": null
         }
       ]
     },
@@ -13621,6 +13621,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34900",
+          "author": null,
+          "description": "Hisnande hastigheter står på menyn när Intel och Broadcom visar den kommande Wifi 7, med hastigheter som slår många trådbundna anslutningar.",
+          "link": "https://www.sweclockers.com/artikel/34900-wifi-7-visar-framfotterna-i-demonstration",
+          "publishedOn": "2022-09-11T10:59:00.000Z",
+          "wordCount": 1518,
+          "title": "Wifi 7 visar framfötterna i demonstration",
+          "imageUrl": "https://www.sweclockers.com/artikel/34900/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34904",
           "author": null,
           "description": "Den lutade pilen är svår att klara sig utan. I veckans videotips beskriver \"Posy\" muspekarens utveckling och passar på att ge Windows menysystem en känga.",
@@ -14617,6 +14627,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/11/in_brief_ai/",
+          "author": null,
+          "description": "<h4>Plus: New MLPerf inference results, and artists finds terrifying AI-generated face haunting images</h4> <p><strong>In-brief</strong>  New rules drafted by the European Union aimed at regulating AI could prevent developers from releasing open-source models, according to American think tank Brookings.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/11/in_brief_ai/",
+          "publishedOn": "2022-09-11T11:00:10.000Z",
+          "wordCount": 1728,
+          "title": "Draft EU AI Act regulations could have a chilling effect on open-source software",
+          "imageUrl": "https://regmedia.co.uk/2021/06/10/code.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/10/us_sanctions_iran_mois/",
           "author": null,
