@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-11T20:25:40.396Z</updated>
+    <updated>2022-09-11T21:22:00.139Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.0-rc5 Released After A Calm Week Of Kernel Development]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.0-rc5-Released</id>
+        <link href="https://www.phoronix.com/news/Linux-6.0-rc5-Released"/>
+        <updated>2022-09-11T21:08:13.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvalds has just announced Linux 6.0-rc5 as the latest test release of Linux 6.0 that is working its way toward a stable release in early October...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dirk Eddelbuettel: RcppArmadillo 0.11.2.4.0 on CRAN: Bugfix and Deprecation]]></title>
+        <id>http://dirk.eddelbuettel.com/blog/2022/09/11#rcpparmadillo_0.11.2.4.0</id>
+        <link href="http://dirk.eddelbuettel.com/blog/2022/09/11#rcpparmadillo_0.11.2.4.0"/>
+        <updated>2022-09-11T20:31:00.000Z</updated>
+        <summary type="html"><![CDATA[Armadillo is a powerful and expressive C++ template library for linear algebra and scientific computing. It aims towards a good balance between speed and ease of use, has a syntax deliberately close to Matlab, and is useful for algorithm development directly in C++, or quick conversion of research code into production environments. RcppArmadillo integrates this library with the R environment and language–and is widely used by (currently) 1016 packages other packages on CRAN, downloaded 26.2 million times (per the partial logs from the cloud mirrors of CRAN), and the CSDA paper (preprint / vignette) by Conrad and myself has been cited 493 times according to Google Scholar.
+This new release (made yesterday) brings three changes. First, it updates the release to the upstream 11.2.4 bugfix rel…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD's Radeon RX 6600 Emerges In MXM Form Factor]]></title>
         <id>NtMMU4u9XNqcyRLr46x3pN</id>
@@ -18869,16 +18890,6 @@ On top of that, PlayStation also announced that Savage Game Studios is joining t
         <summary type="html"><![CDATA[<h4>A Reg reader comes to appreciate the value of paper</h4> <p><strong>Who, Me?</strong>  In this modern era when massive amounts of storage can be had for pennies on the gigabyte, it's easy to forget that it was not always thus. Once upon a time, keeping business data safe was a cost- and labor-intensive process.…</p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dual Universe släpps nästa månad, trial-version utlovad]]></title>
-        <id>https://www.fz.se/artikel/291269</id>
-        <link href="https://www.fz.se/artikel/291269-dual-universe-slapps-nasta-manad-trial-version-utlovad"/>
-        <updated>2022-08-29T08:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Rymd-MMO:t färdigt efter åtta års utveckling.]]></summary>
-        <author>
-            <name>FZ.se</name>
         </author>
     </entry>
 </feed>

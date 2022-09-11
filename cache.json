@@ -4702,6 +4702,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-6.0-rc5-Released",
+          "author": null,
+          "description": "Linus Torvalds has just announced Linux 6.0-rc5 as the latest test release of Linux 6.0 that is working its way toward a stable release in early October...",
+          "link": "https://www.phoronix.com/news/Linux-6.0-rc5-Released",
+          "publishedOn": "2022-09-11T21:08:13.000Z",
+          "wordCount": 1440,
+          "title": "Linux 6.0-rc5 Released After A Calm Week Of Kernel Development",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-6.1-Disable-ARM64-BHI-BHB",
           "author": null,
           "description": "Disclosed back in March was the Spectre-BHB / Branch History Injection (BHI) speculative execution vulnerability that on the Arm side affected CPUs from the likes of the Spectre-A15 through A78 series as well as the likes of the X1, X2, and A710, plus the Neoverse E1 / N1 / N2 / V1 CPUs. Now for Linux 6.1, a command-line option is being added for ARM64 to be able to disable the Spectre-BHB mitigation due to the \"great impact\" to performance...",
@@ -10393,6 +10403,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "http://dirk.eddelbuettel.com/blog/2022/09/11#rcpparmadillo_0.11.2.4.0",
+          "author": null,
+          "description": "Armadillo is a powerful and expressive C++ template library for linear algebra and scientific computing. It aims towards a good balance between speed and ease of use, has a syntax deliberately close to Matlab, and is useful for algorithm development directly in C++, or quick conversion of research code into production environments. RcppArmadillo integrates this library with the R environment and language–and is widely used by (currently) 1016 packages other packages on CRAN, downloaded 26.2 million times (per the partial logs from the cloud mirrors of CRAN), and the CSDA paper (preprint / vignette) by Conrad and myself has been cited 493 times according to Google Scholar.\nThis new release (made yesterday) brings three changes. First, it updates the release to the upstream 11.2.4 bugfix rel…",
+          "link": "http://dirk.eddelbuettel.com/blog/2022/09/11#rcpparmadillo_0.11.2.4.0",
+          "publishedOn": "2022-09-11T20:31:00.000Z",
+          "wordCount": 1040,
+          "title": "Dirk Eddelbuettel: RcppArmadillo 0.11.2.4.0 on CRAN: Bugfix and Deprecation",
+          "imageUrl": null
+        },
+        {
           "id": "http://flossexperiences.wordpress.com/?p=7457",
           "author": null,
           "description": "Politics\nI have been reading books, both fiction and non-fiction for a long long time. My first book was a comic most probably when I was down with Malaria when I was a kid. I must be around 4-5 years old. Over the years, books have given me great joy and I continue to find nuggets of useful information, both in fiction as well as non-fiction books. So here’s to sharing something and how that can lead you to a rabbit hole. This entry would be a bit NSFW as far as language is concerned. \nNYPD Red 5 by James Patterson – First of all, have no clue as to why James Patterson’s popularity has been falling. He used to be right there with Lee Child and others, but not so much now. While I try to be mysterious about books, I would give a bit of heads-up so people know what to expect. This is probab…",
@@ -13812,16 +13832,6 @@
           "wordCount": 1859,
           "title": "Svenska dino-shootern Second Extinction släpps i oktober",
           "imageUrl": "https://www.fz.se/artikel/og-image/291270"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291269",
-          "author": null,
-          "description": "Rymd-MMO:t färdigt efter åtta års utveckling.",
-          "link": "https://www.fz.se/artikel/291269-dual-universe-slapps-nasta-manad-trial-version-utlovad",
-          "publishedOn": "2022-08-29T08:48:00.000Z",
-          "wordCount": 1776,
-          "title": "Dual Universe släpps nästa månad, trial-version utlovad",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291269"
         }
       ]
     },
