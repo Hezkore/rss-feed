@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-11T22:24:57.098Z</updated>
+    <updated>2022-09-11T23:25:29.037Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[India's IT services exports top $150 billion for the first time, US and UK are biggest buyers]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/11/indian_outsourcing_revenues_surge/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/11/indian_outsourcing_revenues_surge/"/>
+        <updated>2022-09-11T23:15:05.000Z</updated>
+        <summary type="html"><![CDATA[<h4>PLUS: APAC IT spend grows at over 5 percent; China's pop-up clampdown; Pakistan VPN exemptions; and more!</h4> <p><strong>Asia In Brief</strong>  India's software-related services industry won over $150 billion for the first time in 2021–2022, according to the nation's Reserve Bank (RBI).…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nyhetsquiz vecka 36 2022: Apple-nytt och grafikkortstissel]]></title>
         <id>https://www.sweclockers.com/artikel/34905</id>
@@ -18840,56 +18850,6 @@ On top of that, PlayStation also announced that Savage Game Studios is joining t
         <summary type="html"><![CDATA[AMD:s kommande flaggskepp på processorfronten sägs kunna nå klockfrekvenser på upp till 5,85 GHz vid enkeltrådiga laster.]]></summary>
         <author>
             <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waferscale startup says it can stitch chips together with light]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/29/waferscale_photonics_interconnect/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/29/waferscale_photonics_interconnect/"/>
-        <updated>2022-08-29T11:18:08.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Interconnect tech promises 96TB/s die-to-die communications</h4> <p><strong>Hot Chips</strong>  As chipmakers look to scale compute to ever-greater heights, they’re increasingly turning to waferscale compute architectures to circumvent bandwidth and latency bottlenecks.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Revises Linux Graphics Driver Support For DP MST Display Stream Compression]]></title>
-        <id>https://www.phoronix.com/news/Intel-DP-MST-DSC-Linux</id>
-        <link href="https://www.phoronix.com/news/Intel-DP-MST-DSC-Linux"/>
-        <updated>2022-08-29T11:12:34.000Z</updated>
-        <summary type="html"><![CDATA[Along with all the other ongoing Linux work for Arc Graphics, another feature patch series from Intel worth mentioning is they have been buttoning up work on DisplayPort Multi-Stream Transport Display Stream Compression (MST DSC) functionality...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Posts Latest VNMI Patches For The Linux Kernel]]></title>
-        <id>https://www.phoronix.com/news/AMD-VNMI-Linux-v4</id>
-        <link href="https://www.phoronix.com/news/AMD-VNMI-Linux-v4"/>
-        <updated>2022-08-29T10:57:46.000Z</updated>
-        <summary type="html"><![CDATA[Back in early June AMD engineers began posting support for enabling Virtual NMI on Linux for AMD CPUs with KVM and permitting hardware support. VNMI is expected to finally happen on the AMD side with Zen 4 processors and today they posted their latest revision of this work...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Latest Round Of Optimizations Wrap Up For Old ATI R300 To R500 GPUs On Linux]]></title>
-        <id>https://www.phoronix.com/news/R300-Wrapping-Up-August-2022</id>
-        <link href="https://www.phoronix.com/news/R300-Wrapping-Up-August-2022"/>
-        <updated>2022-08-29T10:38:24.000Z</updated>
-        <summary type="html"><![CDATA[Last week I wrote about Mesa's R300 Gallium3D driver seeing new optimizations for R300~R500 class GPUs from the ATI days, thanks to the open-source community. Another merge request is now open that finishes up the latest optimization spree for these old pre-AMD GPUs on Linux...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Svenska dino-shootern Second Extinction släpps i oktober]]></title>
-        <id>https://www.fz.se/artikel/291270</id>
-        <link href="https://www.fz.se/artikel/291270-svenska-dino-shootern-second-extinction-slapps-i-oktober"/>
-        <updated>2022-08-29T10:29:17.000Z</updated>
-        <summary type="html"><![CDATA[Co-op mot muterade urtidsmonster.]]></summary>
-        <author>
-            <name>FZ.se</name>
         </author>
     </entry>
 </feed>

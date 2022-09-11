@@ -5780,36 +5780,6 @@
           "wordCount": 1412,
           "title": "PostgreSQL Optimizes Performance & Lower Memory Management Overhead",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Intel-DP-MST-DSC-Linux",
-          "author": null,
-          "description": "Along with all the other ongoing Linux work for Arc Graphics, another feature patch series from Intel worth mentioning is they have been buttoning up work on DisplayPort Multi-Stream Transport Display Stream Compression (MST DSC) functionality...",
-          "link": "https://www.phoronix.com/news/Intel-DP-MST-DSC-Linux",
-          "publishedOn": "2022-08-29T11:12:34.000Z",
-          "wordCount": 1451,
-          "title": "Intel Revises Linux Graphics Driver Support For DP MST Display Stream Compression",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/AMD-VNMI-Linux-v4",
-          "author": null,
-          "description": "Back in early June AMD engineers began posting support for enabling Virtual NMI on Linux for AMD CPUs with KVM and permitting hardware support. VNMI is expected to finally happen on the AMD side with Zen 4 processors and today they posted their latest revision of this work...",
-          "link": "https://www.phoronix.com/news/AMD-VNMI-Linux-v4",
-          "publishedOn": "2022-08-29T10:57:46.000Z",
-          "wordCount": 1412,
-          "title": "AMD Posts Latest VNMI Patches For The Linux Kernel",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/R300-Wrapping-Up-August-2022",
-          "author": null,
-          "description": "Last week I wrote about Mesa's R300 Gallium3D driver seeing new optimizations for R300~R500 class GPUs from the ATI days, thanks to the open-source community. Another merge request is now open that finishes up the latest optimization spree for these old pre-AMD GPUs on Linux...",
-          "link": "https://www.phoronix.com/news/R300-Wrapping-Up-August-2022",
-          "publishedOn": "2022-08-29T10:38:24.000Z",
-          "wordCount": 1453,
-          "title": "Latest Round Of Optimizations Wrap Up For Old ATI R300 To R500 GPUs On Linux",
-          "imageUrl": null
         }
       ]
     },
@@ -13812,16 +13782,6 @@
           "wordCount": 1690,
           "title": "VR-rea hos HTC - flera Vive till lägre pris",
           "imageUrl": "https://www.fz.se/artikel/og-image/291271"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291270",
-          "author": null,
-          "description": "Co-op mot muterade urtidsmonster.",
-          "link": "https://www.fz.se/artikel/291270-svenska-dino-shootern-second-extinction-slapps-i-oktober",
-          "publishedOn": "2022-08-29T10:29:17.000Z",
-          "wordCount": 1859,
-          "title": "Svenska dino-shootern Second Extinction släpps i oktober",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291270"
         }
       ]
     },
@@ -14837,6 +14797,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/11/indian_outsourcing_revenues_surge/",
+          "author": null,
+          "description": "<h4>PLUS: APAC IT spend grows at over 5 percent; China's pop-up clampdown; Pakistan VPN exemptions; and more!</h4> <p><strong>Asia In Brief</strong>  India's software-related services industry won over $150 billion for the first time in 2021–2022, according to the nation's Reserve Bank (RBI).…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/11/indian_outsourcing_revenues_surge/",
+          "publishedOn": "2022-09-11T23:15:05.000Z",
+          "wordCount": 1929,
+          "title": "India's IT services exports top $150 billion for the first time, US and UK are biggest buyers",
+          "imageUrl": "https://regmedia.co.uk/2022/02/17/shutterstock_asia_pacific.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/11/dpu_market_analysis/",
           "author": null,
@@ -16946,16 +16916,6 @@
           "wordCount": 1569,
           "title": "NASA scrubs today's Space Launch System rocket launch",
           "imageUrl": "https://regmedia.co.uk/2022/04/19/artemis_i.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/29/waferscale_photonics_interconnect/",
-          "author": null,
-          "description": "<h4>Interconnect tech promises 96TB/s die-to-die communications</h4> <p><strong>Hot Chips</strong>  As chipmakers look to scale compute to ever-greater heights, they’re increasingly turning to waferscale compute architectures to circumvent bandwidth and latency bottlenecks.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/29/waferscale_photonics_interconnect/",
-          "publishedOn": "2022-08-29T11:18:08.000Z",
-          "wordCount": 1695,
-          "title": "Waferscale startup says it can stitch chips together with light",
-          "imageUrl": "https://regmedia.co.uk/2022/08/26/lightmatter_passage.jpg"
         }
       ]
     }
