@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-11T13:37:09.800Z</updated>
+    <updated>2022-09-11T14:21:53.549Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How To Use Picamera2 to Take Photos With Raspberry Pi]]></title>
+        <id>BMM9CvG9UALG5CMn7uyH9h</id>
+        <link href="https://www.tomshardware.com/how-to/use-picamera2-take-photos-with-raspberry-pi"/>
+        <updated>2022-09-11T14:00:52.000Z</updated>
+        <summary type="html"><![CDATA[A new Python module is designed to easily capture images and video in your code. Learn how to capture HD video, and create camera triggers for nature cameras.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mario + Rabbids: Sparks of Hope får Rayman-DLC]]></title>
+        <id>https://www.fz.se/artikel/291415</id>
+        <link href="https://www.fz.se/artikel/291415-mario-rabbids-sparks-of-hope-far-rayman-dlc"/>
+        <updated>2022-09-11T14:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Rayman är tillbaka!]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here's PGA Tour 2K23's roster of "elite playable pros" that will be available at launch]]></title>
+        <id>https://www.eurogamer.net/heres-pga-tour-2k23s-roster-of-elite-playable-pros-that-will-be-available-at-launch</id>
+        <link href="https://www.eurogamer.net/heres-pga-tour-2k23s-roster-of-elite-playable-pros-that-will-be-available-at-launch"/>
+        <updated>2022-09-11T13:57:45.000Z</updated>
+        <summary type="html"><![CDATA[PGA Tour 2K23 has unveiled what golf pros will be playable when the sports sim releases next month.
+
+From launch, the pros available include, in PGA Tour 2K23's ordering: Tiger Woods, Justin Thomas, Lexi Thompson, Lydia Ko, Brooke Henderson, Will Zalatoris, Collin Morikawa, Tony Finau, Jon Rahm, Rickie Fowler, Justin Rose, Xander Schauffele, and "more".
+
+"Each pro is decked out in true-to-life attire and gear, and features a unique set of attributes representative of their skill set," 2K says. "Players can step into the tee box as one of the pros in Exhibition, Multiplayer and Divot Derby play, or go head-to-head with them in a battle to climb the leaderboard and claim the FedExCup in PGA Tour MyCareer mode."
+ 
+Read more]]></summary>
+        <author>
+            <name>Vikki Blake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyberpunk 2077 Patch 1.6: the Xbox Series S 60fps upgrade tested]]></title>
+        <id>https://www.eurogamer.net/digitalfoundry-2022-cyberpunk-2077-patch-16-the-xbox-series-s-60fps-upgrade-tested</id>
+        <link href="https://www.eurogamer.net/digitalfoundry-2022-cyberpunk-2077-patch-16-the-xbox-series-s-60fps-upgrade-tested"/>
+        <updated>2022-09-11T13:57:00.000Z</updated>
+        <summary type="html"><![CDATA[It's been six months since the release of Cyberpunk 2077's 1.5 update - the milestone patch that finally added native support for current generation consoles. CD Projekt RED has not been idle though, the new 1.6 'Edgerunners' update arrived last week, tying in with the new anime. A raft of new content features are added, but the focus of this piece is on a brand-new Xbox Series S performance mode, along with optimisations to the 30fps ray tracing mode on PS5 and Series X, where long-standing complaints about high input lag are finally addressed. Going into this one, we had two separate objectives - to put Series S's new 60 frames per second mode through its paces and also to quantify the latency improvements on the more powerful consoles. 
+Until the arrival of the new patch, Series S only ran at a capped 30fps at a dynamic 1440p resolution, going down to 2304x1296 lowest via dynamic scaling. There was no mode toggle like on PS5 or Series X - no option to choose between quality and performance. Adding to the disappointment, Series S had no option for ray-traced shadows either. Patch 1.6 doesn't add the RT features, but at least the option to switch between fidelity and frame-rate is there.
+Quality mode on Series S today works pretty much just as it did before the patch, in its default mode: it runs the gamut from 1440p down to around 1296p, with a reasonably tight 30fps lock with consistent frame-pacing. The new performance mode - inevitably - degrades some settings. In terms of pixel metrics, we're looking at a range of 1080p at peak, going down to 800p lowest, most obvious in the areas where the game can't stick to its 60fps target. As ever, CDPR's engine also uses a form of TAA and reconstruction to produce a final 1080p resolve. 
+ Read more]]></summary>
+        <author>
+            <name>Thomas Morgan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today’s best deals: HBO Max subscriptions, Apple iPads, and more]]></title>
+        <id>https://arstechnica.com/?p=1880204</id>
+        <link href="https://arstechnica.com/?p=1880204"/>
+        <updated>2022-09-11T13:27:08.000Z</updated>
+        <summary type="html"><![CDATA[Dealmaster also includes the AirPods Max, Disney+, and HyperX gaming headsets.]]></summary>
+        <author>
+            <name>Jeff Dunn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Disney confirms a Gargoyles remaster is in development]]></title>
         <id>https://www.eurogamer.net/disney-confirms-a-gargoyles-remaster-is-in-development</id>
