@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-11T21:22:00.139Z</updated>
+    <updated>2022-09-11T22:24:57.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nyhetsquiz vecka 36 2022: Apple-nytt och grafikkortstissel]]></title>
+        <id>https://www.sweclockers.com/artikel/34905</id>
+        <link href="https://www.sweclockers.com/artikel/34905-nyhetsquiz-vecka-36-2022-apple-nytt-och-grafikkortstissel"/>
+        <updated>2022-09-11T21:33:17.000Z</updated>
+        <summary type="html"><![CDATA[September betyder i vanlig ordning att Apple öppnar portarna, samtidigt som fler av höstens teknikexplosioner skrider närmare.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux 6.0-rc5 Released After A Calm Week Of Kernel Development]]></title>
         <id>https://www.phoronix.com/news/Linux-6.0-rc5-Released</id>
@@ -131,6 +141,16 @@ Following Putin's illegal and barbaric invasion of Ukraine, the studio's home, G
 Read more]]></summary>
         <author>
             <name>Vikki Blake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comic for 2022.09.11 - I Like Your Bangs]]></title>
+        <id>https://explosm.net/comics/i-like-your-bangs</id>
+        <link href="https://explosm.net/comics/i-like-your-bangs"/>
+        <updated>2022-09-11T15:52:13.000Z</updated>
+        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
+        <author>
+            <name>Explosm.net</name>
         </author>
     </entry>
     <entry>
@@ -18870,26 +18890,6 @@ On top of that, PlayStation also announced that Savage Game Studios is joining t
         <summary type="html"><![CDATA[Co-op mot muterade urtidsmonster.]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASpeed DRM Driver Adding DMA-BUF/PRIME Sharing For Use With Servers Having dGPUs]]></title>
-        <id>https://www.phoronix.com/news/AST-DMA-BUF-PRIME-Sharing</id>
-        <link href="https://www.phoronix.com/news/AST-DMA-BUF-PRIME-Sharing"/>
-        <updated>2022-08-29T10:23:41.000Z</updated>
-        <summary type="html"><![CDATA[The ASpeed "AST" DRM driver that is for use with ASpeed BMCs on server platforms for display capabilities is preparing to see DMA-BUF and PRIME sharing support. This is useful so the ASpeed BMC can see the screen contents even if the server is relying on a discrete GPU rather than the baseboard management controller's monitor output...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You can never have too many backups. Also, you can never have too many backups]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/29/who_me/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/29/who_me/"/>
-        <updated>2022-08-29T09:31:11.000Z</updated>
-        <summary type="html"><![CDATA[<h4>A Reg reader comes to appreciate the value of paper</h4> <p><strong>Who, Me?</strong>  In this modern era when massive amounts of storage can be had for pennies on the gigabyte, it's easy to forget that it was not always thus. Once upon a time, keeping business data safe was a cost- and labor-intensive process.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>

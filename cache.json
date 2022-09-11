@@ -5810,16 +5810,6 @@
           "wordCount": 1453,
           "title": "Latest Round Of Optimizations Wrap Up For Old ATI R300 To R500 GPUs On Linux",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/AST-DMA-BUF-PRIME-Sharing",
-          "author": null,
-          "description": "The ASpeed \"AST\" DRM driver that is for use with ASpeed BMCs on server platforms for display capabilities is preparing to see DMA-BUF and PRIME sharing support. This is useful so the ASpeed BMC can see the screen contents even if the server is relying on a discrete GPU rather than the baseboard management controller's monitor output...",
-          "link": "https://www.phoronix.com/news/AST-DMA-BUF-PRIME-Sharing",
-          "publishedOn": "2022-08-29T10:23:41.000Z",
-          "wordCount": 1266,
-          "title": "ASpeed DRM Driver Adding DMA-BUF/PRIME Sharing For Use With Servers Having dGPUs",
-          "imageUrl": null
         }
       ]
     },
@@ -13841,6 +13831,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34905",
+          "author": null,
+          "description": "September betyder i vanlig ordning att Apple öppnar portarna, samtidigt som fler av höstens teknikexplosioner skrider närmare.",
+          "link": "https://www.sweclockers.com/artikel/34905-nyhetsquiz-vecka-36-2022-apple-nytt-och-grafikkortstissel",
+          "publishedOn": "2022-09-11T21:33:17.000Z",
+          "wordCount": 1427,
+          "title": "Nyhetsquiz vecka 36 2022: Apple-nytt och grafikkortstissel",
+          "imageUrl": "https://www.sweclockers.com/artikel/34905/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34903",
           "author": null,
           "description": "I ett mejl meddelar intresseorganisationen PCI-SIG att det finns adaptrar och implementationer av 16-pinnarskontakten 12VHPWR som inte bedöms vara säkra.",
@@ -14610,6 +14610,16 @@
       "feedUrl": "https://explosm.net/rss.xml",
       "siteUrl": "https://explosm.net",
       "articles": [
+        {
+          "id": "https://explosm.net/comics/i-like-your-bangs",
+          "author": null,
+          "description": "New Cyanide and Happiness Comic",
+          "link": "https://explosm.net/comics/i-like-your-bangs",
+          "publishedOn": "2022-09-11T15:52:13.000Z",
+          "wordCount": 641,
+          "title": "Comic for 2022.09.11 - I Like Your Bangs",
+          "imageUrl": null
+        },
         {
           "id": "https://explosm.net/comics/oldest-friend",
           "author": null,
@@ -16946,16 +16956,6 @@
           "wordCount": 1695,
           "title": "Waferscale startup says it can stitch chips together with light",
           "imageUrl": "https://regmedia.co.uk/2022/08/26/lightmatter_passage.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/29/who_me/",
-          "author": null,
-          "description": "<h4>A Reg reader comes to appreciate the value of paper</h4> <p><strong>Who, Me?</strong>  In this modern era when massive amounts of storage can be had for pennies on the gigabyte, it's easy to forget that it was not always thus. Once upon a time, keeping business data safe was a cost- and labor-intensive process.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/29/who_me/",
-          "publishedOn": "2022-08-29T09:31:11.000Z",
-          "wordCount": 1415,
-          "title": "You can never have too many backups. Also, you can never have too many backups",
-          "imageUrl": "https://regmedia.co.uk/2022/08/26/shutterstock_195348410.jpg"
         }
       ]
     }
