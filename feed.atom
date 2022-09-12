@@ -2,10 +2,111 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-12T09:27:49.267Z</updated>
+    <updated>2022-09-12T10:28:24.435Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mesa 22.3 Lands New "Rusticl" OpenCL 3.0 Implementation]]></title>
+        <id>https://www.phoronix.com/news/Mesa-22.3-Rusticl-Merged</id>
+        <link href="https://www.phoronix.com/news/Mesa-22.3-Rusticl-Merged"/>
+        <updated>2022-09-12T10:25:26.000Z</updated>
+        <summary type="html"><![CDATA[Karol Herbst of Red Hat has seen his new "Rusticl" implementation merged into mainline Mesa! Mesa 22.3 next quarter will introduce this new Rust-written OpenCL 3.0 implementation that will hopefully be more successful than the existing Gallium3D "Clover" OpenCL driver...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brain-inspired chips promise ultra-efficient AI, so why aren’t they everywhere?]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/12/brain_chips_interview/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/12/brain_chips_interview/"/>
+        <updated>2022-09-12T10:23:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>It's not because our AI overlords aren't keen on the idea</h4> <p><strong>Interview</strong>  Every time a chipmaker or researcher announces an advancement in neuromorphics, it's inevitably the same story: a brain-like AI chip capable of stupendous performance-per-watt compared to traditional accelerators.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust UEFI Firmware Targets Look For A Promotion To Tier-2]]></title>
+        <id>https://www.phoronix.com/news/Rust-UEFI-Firmware-Hope-Tier-2</id>
+        <link href="https://www.phoronix.com/news/Rust-UEFI-Firmware-Hope-Tier-2"/>
+        <updated>2022-09-12T10:07:29.000Z</updated>
+        <summary type="html"><![CDATA[David Rheinsberg of Red Hat who is a contributor to systemd, BUS1, KMSCON, and other projects over the years is leading an effort seeking to get Rust's UEFI firmware targets promoted to a tier-2 class...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Splatoon 3]]></title>
+        <id>https://www.fz.se/artikel/291416</id>
+        <link href="https://www.fz.se/artikel/291416-splatoon-3"/>
+        <updated>2022-09-12T09:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Nintendos färgstarka snäll-shooter bör finnas i alla Switch-samlingar.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Splatoon 3 has best ever Switch game launch in Japan]]></title>
+        <id>https://www.eurogamer.net/splatoon-3-has-best-ever-switch-game-launch-in-japan</id>
+        <link href="https://www.eurogamer.net/splatoon-3-has-best-ever-switch-game-launch-in-japan"/>
+        <updated>2022-09-12T09:53:54.000Z</updated>
+        <summary type="html"><![CDATA[Splatoon 3 has had a hugely successful launch in Japan, with the highest domestic sales for any Switch game in the first three days.
+
+
+Since launching on Friday, the game has sold 3.45m copies in Japan both physically and digitally.
+
+
+It proves how popular the game is in Nintendo's home market and how important the Splatoon IP is, outselling even Animal Crossing: New Horizons which had the previous best launch in Japan.
+ 
+Read more]]></summary>
+        <author>
+            <name>Ed Nightingale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aquacomputer High Flow Next To Be Supported With Linux 6.1]]></title>
+        <id>https://www.phoronix.com/news/High-Flow-Next-Linux-6.1</id>
+        <link href="https://www.phoronix.com/news/High-Flow-Next-Linux-6.1"/>
+        <updated>2022-09-12T09:53:04.000Z</updated>
+        <summary type="html"><![CDATA[Added to the mainline Linux kernel last year was a Aquacomputer HWMON driver for initially supporting the German company's water-cooling pump under Linux with access to the fan speed, power, voltage, current, and coolant temperature. Since then that open-source driver developed by the community has been extended to cover an Aquacomputer fan controller and different models. For the Linux 6.1 cycle coming up there are more additions to the Aquacomputer driver...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vulkan-Using X-Plane 12 Flight Simulator Now Available In Beta Form]]></title>
+        <id>https://www.phoronix.com/news/X-Plane-12-Beta</id>
+        <link href="https://www.phoronix.com/news/X-Plane-12-Beta"/>
+        <updated>2022-09-12T09:37:11.000Z</updated>
+        <summary type="html"><![CDATA[Last week Laminar Research promoted X-Plane 12 to its early access public beta phase. This realistic flight simulator continues to natively support Linux -- and doing so well for many years -- and now with X-Plane 12, the Vulkan steps up past their long-used OpenGL renderer...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gargoyles is being remastered 27 years after launching on the SEGA Genesis]]></title>
+        <id>https://www.vg247.com/gargoyles-is-being-remastered-27-years-after-launching-on-the-sega-genesis</id>
+        <link href="https://www.vg247.com/gargoyles-is-being-remastered-27-years-after-launching-on-the-sega-genesis"/>
+        <updated>2022-09-12T09:35:37.000Z</updated>
+        <summary type="html"><![CDATA[Revealed at The Disney and Marvel Games Showcase, Gargoyles will be privy to a remaster way over 10 years since it first released on the SEGA Genesis.
+Gargoyles, which was first released back in 1995, is a video game adaptation of the animated series of the same name. Both the series and the game didn’t reach the same popularity as other Disney classics at the time, like The Lion King and Aladdin, but it’s still a game that awakes a warm feeling of nostalgia for many.
+It’s a classic platformer through and through, that honestly looks great as is still, so it’ll be interesting to see just what Empty Clip do with the remaster. As of right now, all we know is to expect updated visuals and controls.
+ Read more]]></summary>
+        <author>
+            <name>Kelsey Raynor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gigabyte registrerar elva olika modeller av Geforce RTX 4090]]></title>
+        <id>https://www.sweclockers.com/artikel/34909</id>
+        <link href="https://www.sweclockers.com/artikel/34909-gigabyte-registrerar-elva-olika-modeller-av-geforce-rtx-4090"/>
+        <updated>2022-09-12T09:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Partnertillverkaren ser ut att storsatsa på Nvidias kommande grafikkort enligt ett produktregister hos EEC.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux Plumbers Conference 2022 Livestream]]></title>
         <id>https://www.phoronix.com/news/Linux-LPC-2022-Livestream</id>
@@ -18579,46 +18680,6 @@ This story begins in the 1980s.  Somewhere around my Kindergarte…]]></summary>
         <summary type="html"><![CDATA[AMD CEO Lisa Su today formally introduced their Ryzen 7000 series desktop processors built atop their Zen 4 architecture.]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Live Blog: Watch Zen 4 Ryzen 7000 Livestream Here at 7PM ET]]></title>
-        <id>TmT8e9RwxXDEjjeQ5uaqeH</id>
-        <link href="https://www.tomshardware.com/news/live/amd-live-blog-watch-zen-4-ryzen-7000-livestream-here-at-7pm-et"/>
-        <updated>2022-08-29T22:25:59.000Z</updated>
-        <summary type="html"><![CDATA[AMD CEO Lisa Su takes to the stage to announce the company's new 5nm Zen 4 Ryzen 7000 processors.]]></summary>
-        <author>
-            <name>palcorn@outlook.com (Paul Alcorn)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTC sues data broker for selling millions of people's 'precise' location info]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/29/ftc_sues_kochava/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/29/ftc_sues_kochava/"/>
-        <updated>2022-08-29T22:09:51.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Which would be very problematic in this Post-Roe era</h4> <p>The Federal Trade Commission has accused data broker Kochava of trampling over people's privacy by selling the "precise" whereabouts of hundreds of millions of mobile devices.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Gaming Laptops Under $1,500]]></title>
-        <id>YzTWYmEtmDm2KL5fax9i9A</id>
-        <link href="https://www.tomshardware.com/best-picks/best-gaming-laptops-under-1500"/>
-        <updated>2022-08-29T21:56:20.000Z</updated>
-        <summary type="html"><![CDATA[Today, you can find a powerful gaming laptop without breaking the bank. We’ve tested to help you find the best.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Poliovirus outbreak expands in NY: Third county has vaccination rate of 62%]]></title>
-        <id>https://arstechnica.com/?p=1876830</id>
-        <link href="https://arstechnica.com/?p=1876830"/>
-        <updated>2022-08-29T21:44:43.000Z</updated>
-        <summary type="html"><![CDATA["One New Yorker paralyzed by polio is already too many," state health commissioner says.]]></summary>
-        <author>
-            <name>Beth Mole</name>
         </author>
     </entry>
 </feed>

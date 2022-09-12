@@ -868,6 +868,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/splatoon-3-has-best-ever-switch-game-launch-in-japan",
+          "author": "Ed Nightingale",
+          "description": "Splatoon 3 has had a hugely successful launch in Japan, with the highest domestic sales for any Switch game in the first three days.\r\n\n\r\nSince launching on Friday, the game has sold 3.45m copies in Japan both physically and digitally.\r\n\n\r\nIt proves how popular the game is in Nintendo's home market and how important the Splatoon IP is, outselling even Animal Crossing: New Horizons which had the previous best launch in Japan.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/splatoon-3-has-best-ever-switch-game-launch-in-japan",
+          "publishedOn": "2022-09-12T09:53:54.000Z",
+          "wordCount": 4605,
+          "title": "Splatoon 3 has best ever Switch game launch in Japan",
+          "imageUrl": "https://assets.reedpopcdn.com/NSwitch_Splatoon3_04.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/NSwitch_Splatoon3_04.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/the-gwent-impulse-the-pleasure-of-finding-a-great-game-inside-a-great-game",
           "author": "Christian Donlan",
           "description": "Halfway through playing Cult of the Lamb I found myself engaged in a neat little dice-battling game. It was a mini-game, I guess, but it was so nicely handled, so rich in strategy and the suggestion of depth, that it felt like it could well have been spun off as a game in its own right. Call it the Gwent Impulse: inside this perfectly good game, here's a smaller, also perfectly good game, seemingly included out of sheer generosity.\r\n\n\r\nSince then I have been very lucky with regards to the Gwent Impulse. Is this a trend? I hope so.\r\n\n\r\nWhen I say very lucky, I mean that I played two games over the weekend and they both turned out to have secondary games tucked within them. The first is Boneraiser Minions, a worryingly compelling auto-battler in the style of Vampire Survivors. You move around an arena summoning mobs who fight a horde of enemies for you. It all gets wilder and wilder as you unlock new mobs, new spells and all that jazz. Eventually the screen is filled with action and you can barely keep track of it. Beautiful!\r\n \nRead more",
@@ -3305,6 +3315,16 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/gargoyles-is-being-remastered-27-years-after-launching-on-the-sega-genesis",
+          "author": "Kelsey Raynor",
+          "description": "Revealed at The Disney and Marvel Games Showcase, Gargoyles will be privy to a remaster way over 10 years since it first released on the SEGA Genesis.\nGargoyles, which was first released back in 1995, is a video game adaptation of the animated series of the same name. Both the series and the game didn’t reach the same popularity as other Disney classics at the time, like The Lion King and Aladdin, but it’s still a game that awakes a warm feeling of nostalgia for many.\nIt’s a classic platformer through and through, that honestly looks great as is still, so it’ll be interesting to see just what Empty Clip do with the remaster. As of right now, all we know is to expect updated visuals and controls.\n Read more",
+          "link": "https://www.vg247.com/gargoyles-is-being-remastered-27-years-after-launching-on-the-sega-genesis",
+          "publishedOn": "2022-09-12T09:35:37.000Z",
+          "wordCount": 4644,
+          "title": "Gargoyles is being remastered 27 years after launching on the SEGA Genesis",
+          "imageUrl": "https://asset.vg247.com/Gargoyles-1995.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Gargoyles-1995.jpg"
+        },
+        {
           "id": "https://www.vg247.com/aliens-dark-descent-first-gameplay-trailer",
           "author": "Oisin Kuhnke",
           "description": "The upcoming, tactical squad-based action game Aliens: Dark Descent got its first bit of gameplay shown off during the Disney & Marvel Games Showcase at D23.\r\n\n\r\nFirst revealed back in June, Aliens: Dark Descent is a new single-player action game set to launch in 2023 from Tindalos Interactive and Focus Entertainment, but no gameplay was shown at the time. Now, although only briefly, we've had our first look at the squad-based shooter in action.\r\n\n\r\nThe trailer shows the top-down game in action, where you \"take your squad of marines on missions as you infiltrate and investigate the Xenomorph outbreak. Develop your tactics, assemble your colonial marines, and take on the Xenomorph hordes.\"\r\n \nRead more",
@@ -4691,6 +4711,46 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Mesa-22.3-Rusticl-Merged",
+          "author": null,
+          "description": "Karol Herbst of Red Hat has seen his new \"Rusticl\" implementation merged into mainline Mesa! Mesa 22.3 next quarter will introduce this new Rust-written OpenCL 3.0 implementation that will hopefully be more successful than the existing Gallium3D \"Clover\" OpenCL driver...",
+          "link": "https://www.phoronix.com/news/Mesa-22.3-Rusticl-Merged",
+          "publishedOn": "2022-09-12T10:25:26.000Z",
+          "wordCount": 1287,
+          "title": "Mesa 22.3 Lands New \"Rusticl\" OpenCL 3.0 Implementation",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Rust-UEFI-Firmware-Hope-Tier-2",
+          "author": null,
+          "description": "David Rheinsberg of Red Hat who is a contributor to systemd, BUS1, KMSCON, and other projects over the years is leading an effort seeking to get Rust's UEFI firmware targets promoted to a tier-2 class...",
+          "link": "https://www.phoronix.com/news/Rust-UEFI-Firmware-Hope-Tier-2",
+          "publishedOn": "2022-09-12T10:07:29.000Z",
+          "wordCount": 1349,
+          "title": "Rust UEFI Firmware Targets Look For A Promotion To Tier-2",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/High-Flow-Next-Linux-6.1",
+          "author": null,
+          "description": "Added to the mainline Linux kernel last year was a Aquacomputer HWMON driver for initially supporting the German company's water-cooling pump under Linux with access to the fan speed, power, voltage, current, and coolant temperature. Since then that open-source driver developed by the community has been extended to cover an Aquacomputer fan controller and different models. For the Linux 6.1 cycle coming up there are more additions to the Aquacomputer driver...",
+          "link": "https://www.phoronix.com/news/High-Flow-Next-Linux-6.1",
+          "publishedOn": "2022-09-12T09:53:04.000Z",
+          "wordCount": 1461,
+          "title": "Aquacomputer High Flow Next To Be Supported With Linux 6.1",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/X-Plane-12-Beta",
+          "author": null,
+          "description": "Last week Laminar Research promoted X-Plane 12 to its early access public beta phase. This realistic flight simulator continues to natively support Linux -- and doing so well for many years -- and now with X-Plane 12, the Vulkan steps up past their long-used OpenGL renderer...",
+          "link": "https://www.phoronix.com/news/X-Plane-12-Beta",
+          "publishedOn": "2022-09-12T09:37:11.000Z",
+          "wordCount": 1401,
+          "title": "Vulkan-Using X-Plane 12 Flight Simulator Now Available In Beta Form",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Linux-LPC-2022-Livestream",
           "author": null,
@@ -10204,36 +10264,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/GVT52uUKHhmaHY2MhWeA9Y.jpg"
-        },
-        {
-          "id": "TmT8e9RwxXDEjjeQ5uaqeH",
-          "author": "palcorn@outlook.com (Paul Alcorn)",
-          "description": "AMD CEO Lisa Su takes to the stage to announce the company's new 5nm Zen 4 Ryzen 7000 processors.",
-          "link": "https://www.tomshardware.com/news/live/amd-live-blog-watch-zen-4-ryzen-7000-livestream-here-at-7pm-et",
-          "publishedOn": "2022-08-29T22:25:59.000Z",
-          "wordCount": 29643,
-          "title": "AMD Live Blog: Watch Zen 4 Ryzen 7000 Livestream Here at 7PM ET",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/4t8gPEjnCv258he38UymQJ.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/4t8gPEjnCv258he38UymQJ.jpg"
-        },
-        {
-          "id": "YzTWYmEtmDm2KL5fax9i9A",
-          "author": null,
-          "description": "Today, you can find a powerful gaming laptop without breaking the bank. We’ve tested to help you find the best.",
-          "link": "https://www.tomshardware.com/best-picks/best-gaming-laptops-under-1500",
-          "publishedOn": "2022-08-29T21:56:20.000Z",
-          "wordCount": 20672,
-          "title": "Best Gaming Laptops Under $1,500",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/VwQqmf9gXBb8zMLwFcBoak.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/VwQqmf9gXBb8zMLwFcBoak.jpg"
         }
       ]
     },
@@ -12065,16 +12095,6 @@
           "wordCount": 2173,
           "title": "AMD makes Ryzen 7000 official: Launching September 27, starting at $299",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/AMD_CEO_Lisa-Su_Ryzen-7000-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1876830",
-          "author": "Beth Mole",
-          "description": "\"One New Yorker paralyzed by polio is already too many,\" state health commissioner says.",
-          "link": "https://arstechnica.com/?p=1876830",
-          "publishedOn": "2022-08-29T21:44:43.000Z",
-          "wordCount": 1517,
-          "title": "Poliovirus outbreak expands in NY: Third county has vaccination rate of 62%",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1242560083-760x380.jpeg"
         }
       ]
     },
@@ -12083,6 +12103,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291416",
+          "author": null,
+          "description": "Nintendos färgstarka snäll-shooter bör finnas i alla Switch-samlingar.",
+          "link": "https://www.fz.se/artikel/291416-splatoon-3",
+          "publishedOn": "2022-09-12T09:55:00.000Z",
+          "wordCount": 2405,
+          "title": "Splatoon 3",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291416"
+        },
         {
           "id": "https://www.fz.se/artikel/291421",
           "author": null,
@@ -13571,6 +13601,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34909",
+          "author": null,
+          "description": "Partnertillverkaren ser ut att storsatsa på Nvidias kommande grafikkort enligt ett produktregister hos EEC.",
+          "link": "https://www.sweclockers.com/artikel/34909-gigabyte-registrerar-elva-olika-modeller-av-geforce-rtx-4090",
+          "publishedOn": "2022-09-12T09:33:00.000Z",
+          "wordCount": 1523,
+          "title": "Gigabyte registrerar elva olika modeller av Geforce RTX 4090",
+          "imageUrl": "https://www.sweclockers.com/artikel/34909/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34907",
           "author": null,
           "description": "Två nya varianter av Geforce RTX 3060 ska rensa förråden inför nästa generation. Nedbantad minnesmängd och åtstramad minnesbuss står på menyn.",
@@ -14547,6 +14587,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/12/brain_chips_interview/",
+          "author": null,
+          "description": "<h4>It's not because our AI overlords aren't keen on the idea</h4> <p><strong>Interview</strong>  Every time a chipmaker or researcher announces an advancement in neuromorphics, it's inevitably the same story: a brain-like AI chip capable of stupendous performance-per-watt compared to traditional accelerators.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/12/brain_chips_interview/",
+          "publishedOn": "2022-09-12T10:23:08.000Z",
+          "wordCount": 1719,
+          "title": "Brain-inspired chips promise ultra-efficient AI, so why aren’t they everywhere?",
+          "imageUrl": "https://regmedia.co.uk/2022/03/10/brain_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/12/opinion_column_foss/",
           "author": null,
@@ -16656,16 +16706,6 @@
           "wordCount": 1473,
           "title": "US court backs FCC decision to let SpaceX fly Starlink sats at lower altitudes",
           "imageUrl": "https://regmedia.co.uk/2021/01/11/shutterstock_starlink_satellite.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/29/ftc_sues_kochava/",
-          "author": null,
-          "description": "<h4>Which would be very problematic in this Post-Roe era</h4> <p>The Federal Trade Commission has accused data broker Kochava of trampling over people's privacy by selling the \"precise\" whereabouts of hundreds of millions of mobile devices.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/29/ftc_sues_kochava/",
-          "publishedOn": "2022-08-29T22:09:51.000Z",
-          "wordCount": 1891,
-          "title": "FTC sues data broker for selling millions of people's 'precise' location info",
-          "imageUrl": "https://regmedia.co.uk/2022/08/29/geolocation_tracking_map_shutterstock.jpg"
         }
       ]
     }
