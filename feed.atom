@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-12T18:31:38.500Z</updated>
+    <updated>2022-09-12T19:21:24.593Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PyTorch gets lit under The Linux Foundation]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/12/pytorch_meta_linux_foundation/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/12/pytorch_meta_linux_foundation/"/>
+        <updated>2022-09-12T19:00:13.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Independent management aims to ensure openness and transparency</h4> <p>Meta is shifting the management of PyTorch, a deep learning framework developed by Meta subsidiary Facebook, to the newly formed PyTorch Foundation, which in turn will be under the oversight of The Linux Foundation.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Building a Retro Linux Gaming Computer - Part 18: Run Away and Join the Circus]]></title>
         <id>https://www.gamingonlinux.com/2022/09/building-a-retro-linux-gaming-computer-part-18-run-away-and-join-the-circus/</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[Although being sold for Windows, I found a listing for a physical copy of the free game Circus Linux! as published by Alten8. At first I figured it would just be another keep case in my collection with "Linux" on the cover, but with the source code included, I decided it would be trivial to also build the game for Linux.]]></summary>
         <author>
             <name>Hamish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marvel's Midnight Suns ser ut att släppas i år, trots allt]]></title>
+        <id>https://www.fz.se/artikel/291429</id>
+        <link href="https://www.fz.se/artikel/291429-marvels-midnight-suns-ser-ut-att-slappas-i-ar-trots-allt"/>
+        <updated>2022-09-12T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Släpps i december (väl?).]]></summary>
+        <author>
+            <name>FZ.se</name>
         </author>
     </entry>
     <entry>
@@ -1408,6 +1428,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<h4>VMware ran tests on kernel 5.19 and saw some nasty numbers. Meanwhile progress on version 6.0 is steady</h4> <p>VMware engineers have tested the Linux kernel's fix for the <a target="_blank" href="https://www.theregister.com/2022/07/12/amd_intel_retbleed/">Retbleed</a> speculative execution bug, and report it can impact compute performance by a whopping 70 percent.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rotation]]></title>
+        <id>https://xkcd.com/2671/</id>
+        <link href="https://xkcd.com/2671/"/>
+        <updated>2022-09-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/rotation.png" title="It's okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that's just as cool." alt="It's okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that's just as cool." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
@@ -19610,36 +19640,6 @@ Read more]]></summary>
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/30/microsoft_windows_server_compression/"/>
         <updated>2022-08-30T07:25:10.000Z</updated>
         <summary type="html"><![CDATA[<h4>You might find copying data over a network goes at least a little quicker</h4> <p>Microsoft this month fixed what one of its staffers called an "idiosyncrasy" in the end-to-end SMB compression functionality it began rolling out last year for Windows Server 2022 and Windows 11.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Arc med färska drivrutiner testas i 50 spel – 41 får tummen upp]]></title>
-        <id>https://www.sweclockers.com/artikel/34833</id>
-        <link href="https://www.sweclockers.com/artikel/34833-intel-arc-med-farska-drivrutiner-testas-i-50-spel-41-far-tummen-upp"/>
-        <updated>2022-08-30T07:11:31.000Z</updated>
-        <summary type="html"><![CDATA[PC Games Hardware snurrar igång Intel Arc A380 för att undersöka hur grafikkortet hanterar både nya och gamla spel. För det mesta är resultaten goda.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naughty Dog förklarar varför The Last of Us Part I verkligen är en remake]]></title>
-        <id>https://www.fz.se/artikel/291279</id>
-        <link href="https://www.fz.se/artikel/291279-naughty-dog-forklarar-varfor-the-last-of-us-part-i-verkligen-ar-en-remake"/>
-        <updated>2022-08-30T06:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Färre genvägar, mer "på riktigt".]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI detects 20,000 hidden taxable swimming pools in France, netting €10m]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/30/frances_tax_department_used_ai/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/30/frances_tax_department_used_ai/"/>
-        <updated>2022-08-30T06:36:06.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Aerial photo scanning tool to be expanded to catch out other unreported home improvements</h4> <p>AI software has detected more than 20,000 secret private swimming pools in aerial photography, helping French tax officials bag about €10 million (£ 8.6 million) in extra property levies.…</p>]]></summary>
         <author>
             <name>The Register</name>
         </author>
