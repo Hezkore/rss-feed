@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-12T04:58:53.022Z</updated>
+    <updated>2022-09-12T06:21:34.687Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[China discovers unknown mineral on the moon, names it Changesite-(Y)]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/12/china_discovers_new_mineral_on/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/12/china_discovers_new_mineral_on/"/>
+        <updated>2022-09-12T05:38:47.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Helium-3 also draws excitement as future fusion energy source</h4> <p>China announced last Friday it discovered a hitherto unknown mineral in samples returned from the Moon.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pokémon Go-utvecklarna utannonserar Marvel World of Heroes]]></title>
         <id>https://www.fz.se/artikel/291418</id>
@@ -18541,54 +18551,6 @@ This story begins in the 1980s.  Somewhere around my Kindergarte…]]></summary>
         <summary type="html"><![CDATA[Jobbar i detta nu på ett mobilt AAA-spel.]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical hole in Atlassian Bitbucket allows any miscreant to hijack servers]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/29/atlassian_bitbucket_critical_bug/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/29/atlassian_bitbucket_critical_bug/"/>
-        <updated>2022-08-29T18:08:14.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Grab and deploy this backend update if you offer even repo read access</h4> <p>A critical command-injection vulnerability in multiple API endpoints of Atlassian Bitbucket Server and Data Center could allow an unauthorized attacker to remotely execute malware, and view, change, and even delete data stored in repositories.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony Slices Another 300 Grams off the Weight of the PlayStation 5]]></title>
-        <id>jEJPbhj3heBTfXTG77PUPi</id>
-        <link href="https://www.tomshardware.com/news/new-sony-ps5-gets-lighter"/>
-        <updated>2022-08-29T18:02:17.000Z</updated>
-        <summary type="html"><![CDATA[The Sony PlayStation 5 CFI-1202A (with ODD) is 300g lighter, and the PlayStation 5 CFI-1202B (digital) is 200g lighter. Sony documentation confirms the changes, but no details about what was cut.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dish and Viasat’s fight against Starlink satellite deployment fails in court]]></title>
-        <id>https://arstechnica.com/?p=1876713</id>
-        <link href="https://arstechnica.com/?p=1876713"/>
-        <updated>2022-08-29T17:57:29.000Z</updated>
-        <summary type="html"><![CDATA[Dish interference claim rejected; Viasat environmental protest "too speculative."]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's the first footage of Battlefield 2042's newest map Stranded]]></title>
-        <id>https://www.eurogamer.net/heres-the-first-footage-of-battlefield-2042s-newest-map-stranded</id>
-        <link href="https://www.eurogamer.net/heres-the-first-footage-of-battlefield-2042s-newest-map-stranded"/>
-        <updated>2022-08-29T17:00:00.000Z</updated>
-        <summary type="html"><![CDATA[DICE has shown off new gameplay footage of Battlefield 2042's latest map: Stranded.
-
-
-Set in the drained carcass of the Panama Canal, fitting the broader climate-apocalypse theme of the game, Stranded is a small-sized map with a focus on infantry combat. You can read more about the map and my initial impressions here.
-
-
-You can also have look at how Breakthrough and Conquest 64 plays out on the map through gameplay captured during a hands-on session. 
- 
-Read more]]></summary>
-        <author>
-            <name>Ishraq Subhan</name>
         </author>
     </entry>
 </feed>
