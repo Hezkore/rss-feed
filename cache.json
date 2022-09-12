@@ -849,36 +849,6 @@
           "wordCount": 1139,
           "title": "Steam Deck Verified and Playable hits 5,000",
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1622462534id21514gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/08/amd-announced-qzen-4q-with-ryzen-7000-series-rdna3-teased/",
-          "author": "Liam Dawe",
-          "description": "AMD has revealed their next-generation Zen 4 processors with the Ryzen 7000 series that will be launching September 27.",
-          "link": "https://www.gamingonlinux.com/2022/08/amd-announced-qzen-4q-with-ryzen-7000-series-rdna3-teased/",
-          "publishedOn": "2022-08-30T09:07:35.000Z",
-          "wordCount": 1342,
-          "title": "AMD announced \"Zen 4\" with Ryzen 7000 series, RDNA3 teased",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1191713245id21513gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/08/seems-ill-be-replaying-half-life-2-again-soon-but-this-time-in-vr/",
-          "author": "Liam Dawe",
-          "description": "Half-Life 2: VR Mod is on the way and will hit official Beta on Steam on September 16th, so I guess I'll be playing it all over again then.",
-          "link": "https://www.gamingonlinux.com/2022/08/seems-ill-be-replaying-half-life-2-again-soon-but-this-time-in-vr/",
-          "publishedOn": "2022-08-30T08:42:21.000Z",
-          "wordCount": 1256,
-          "title": "Seems I'll be replaying Half-Life 2 again soon but this time in VR",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1092453673id21512gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/08/necrosmith-is-a-budget-indie-banger/",
-          "author": "anewson",
-          "description": "Necrosmith is a roguelike real-time strategy management game. You create minions and release them to scout your surroundings, defend your castle, gather loot, and destroy enemy lairs.",
-          "link": "https://www.gamingonlinux.com/2022/08/necrosmith-is-a-budget-indie-banger/",
-          "publishedOn": "2022-08-30T08:33:03.000Z",
-          "wordCount": 1468,
-          "title": "Necrosmith is a budget indie banger",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/604699416id21508gol.jpg"
         }
       ]
     },
@@ -4992,6 +4962,26 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-NTFS3-hidedotfiles",
+          "author": null,
+          "description": "Since NTFS3 was mainlined last year in the Linux kernel as a modern NTFS read/write file-system driver developed by Paragon Software, it's mostly just been some fixes since then and other minor updates. A new NTFS3 patch series sent out today is at least preparing a new feature for this kernel driver...",
+          "link": "https://www.phoronix.com/news/Linux-NTFS3-hidedotfiles",
+          "publishedOn": "2022-09-12T21:10:01.000Z",
+          "wordCount": 1361,
+          "title": "Linux's Modern NTFS Driver Preparing A \"hidedotfiles\" Option",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Ubuntu-22.10-Debuginfod",
+          "author": null,
+          "description": "One of many changes to find with next month's Ubuntu 22.10 release is Debuginfod integration...",
+          "link": "https://www.phoronix.com/news/Ubuntu-22.10-Debuginfod",
+          "publishedOn": "2022-09-12T20:34:18.000Z",
+          "wordCount": 1452,
+          "title": "Ubuntu 22.10 Adds Debuginfod Integration",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/review/ubuntu2210-early-icelake",
           "author": null,
           "description": "Now that Ubuntu 22.10 is into its feature freeze and its Linux 5.19 based kernel landed as well as moving to the GCC 12.2 compiler, I've begun testing this forthcoming Ubuntu Linux (non-LTS) release on more systems. For the current-flagship Intel Xeon Platinum 8380 \"Ice Lake\" processors, Ubuntu 22.10 does deliver some performance advantages over the current Ubuntu 22.04.1 LTS release. However, Ubuntu 22.10 still trails in a distance behind Intel's own Clear Linux platform for the most aggressive out-of-the-box performance.",
@@ -6099,16 +6089,6 @@
           "publishedOn": "2022-08-30T09:32:45.000Z",
           "wordCount": 1257,
           "title": "Intel's SYCLomatic 20220829 Released For Converting CUDA Code To C++ SYCL",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Zink-Async-Compute-Pipe-Create",
-          "author": null,
-          "description": "Valve contractor Mike Blumenkrantz who continues to be focused on the Zink OpenGL-on-Vulkan code tacked on the latest feature for Mesa 22.3...",
-          "link": "https://www.phoronix.com/news/Zink-Async-Compute-Pipe-Create",
-          "publishedOn": "2022-08-30T09:23:09.000Z",
-          "wordCount": 1209,
-          "title": "Mesa's Zink Adds Async Compute Pipeline Creation",
           "imageUrl": null
         }
       ]
@@ -11232,6 +11212,16 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1880588",
+          "author": "Andrew Cunningham",
+          "description": "Raptor Lake boosts clocks, cache, and core counts on the same Intel 7 process.",
+          "link": "https://arstechnica.com/?p=1880588",
+          "publishedOn": "2022-09-12T20:01:12.000Z",
+          "wordCount": 1688,
+          "title": "The clock speed wars are back as Intel brags about hitting 6 GHz with 13th-gen CPUs",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/intel-core-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1880593",
           "author": "Jonathan M. Gitlin",
           "description": "Science needs sustainable, boring growth, but we just get flashy ill-formed initiatives.",
@@ -14277,16 +14267,6 @@
           "wordCount": 2785,
           "title": "Dead Island 2",
           "imageUrl": "https://www.fz.se/artikel/og-image/291272"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291281",
-          "author": null,
-          "description": "Från torsdag - hurra!",
-          "link": "https://www.fz.se/artikel/291281-mafia-fyller-20-ges-bort-gratis-pa-steam",
-          "publishedOn": "2022-08-30T08:48:00.000Z",
-          "wordCount": 1718,
-          "title": "Mafia fyller 20 - ges bort gratis på Steam",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291281"
         }
       ]
     },
@@ -14994,16 +14974,6 @@
           "wordCount": 1851,
           "title": "Logitech G visar upp G502 X-serien",
           "imageUrl": "https://www.sweclockers.com/artikel/34840/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34838",
-          "author": null,
-          "description": "AMD visade upp första Ryzen 7000-processorerna i natt. Tyckte du presentationen var bra eller anus?",
-          "link": "https://www.sweclockers.com/artikel/34838-snabbkoll-vad-tyckte-du-om-ryzen-7000-presentationen",
-          "publishedOn": "2022-08-30T08:32:12.000Z",
-          "wordCount": 1518,
-          "title": "Snabbkoll: Vad tyckte du om Ryzen 7000-presentationen?",
-          "imageUrl": "https://www.sweclockers.com/artikel/34838/og-image"
         }
       ]
     },
@@ -15282,6 +15252,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/12/meta_oculus_headset_hotel/",
+          "author": null,
+          "description": "<h4>Nothing to see here, unless it's Second Life Version 2 you're after</h4> <p><strong>Video</strong>  A video showcasing what appears to be Meta's upcoming VR headset has leaked online after the gizmo was apparently left in a hotel room.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/12/meta_oculus_headset_hotel/",
+          "publishedOn": "2022-09-12T20:53:07.000Z",
+          "wordCount": 1160,
+          "title": "Meta's next-gen Oculus headset kit left in a hotel room",
+          "imageUrl": "https://regmedia.co.uk/2022/09/12/meta.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/12/pytorch_meta_linux_foundation/",
           "author": null,
@@ -17431,16 +17411,6 @@
           "wordCount": 3625,
           "title": "Kylin: The multiple semi-official Chinese versions of Ubuntu",
           "imageUrl": "https://regmedia.co.uk/2022/08/26/kylin-pro-startup.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/iss_legacy_tech/",
-          "author": null,
-          "description": "<h4>Your past projects may be a pain, but can they rain fiery death from above?</h4> <p><strong>Opinion</strong>  The International Space Station is showing its age. It's older than a third of the population, over two and a half billion people who have never known a time without humans in orbit.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/30/iss_legacy_tech/",
-          "publishedOn": "2022-08-30T08:33:08.000Z",
-          "wordCount": 1701,
-          "title": "The International Space Station will deorbit in glory. How's your legacy tech doing?",
-          "imageUrl": "https://regmedia.co.uk/2020/11/11/iss.jpg"
         }
       ]
     }
