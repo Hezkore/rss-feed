@@ -131,6 +131,26 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/09/heroic-games-launcher-version-243-is-another-critical-bug-fix-release/",
+          "author": "Liam Dawe",
+          "description": "The open source Heroic Games Launcher for running Epic Games and GOG has another important bug-fix release now available.",
+          "link": "https://www.gamingonlinux.com/2022/09/heroic-games-launcher-version-243-is-another-critical-bug-fix-release/",
+          "publishedOn": "2022-09-12T08:33:11.000Z",
+          "wordCount": 1095,
+          "title": "Heroic Games Launcher version 2.4.3 is another critical bug-fix release",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/81692191id21578gol.jpg"
+        },
+        {
+          "id": "https://www.gamingonlinux.com/2022/09/windows-compatibility-layer-wine-717-is-out-now/",
+          "author": "Liam Dawe",
+          "description": "This is the compatibility layer that allows you to run various Windows applications and games on Linux (and forms part of Steam Play Proton). Once a year or so, a new stable release is made but the development versions are usually fine to use.",
+          "link": "https://www.gamingonlinux.com/2022/09/windows-compatibility-layer-wine-717-is-out-now/",
+          "publishedOn": "2022-09-12T08:25:51.000Z",
+          "wordCount": 1090,
+          "title": "Windows compatibility layer Wine 7.17 is out now",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/tagline_gallery/wine-generic.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/09/voxel-doom-brings-voxel-goodness-to-the-original-doom/",
           "author": "anewson",
           "description": "Voxel Doom is a mod for GZDoom which replaces 2D characters and props from Doom with fully 3D voxel-based models.",
@@ -10597,6 +10617,16 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1880298",
+          "author": "Jennifer Ouellette",
+          "description": "Also: trailer for Werewolf by Night, new footage from Loki S2, The Marvels, and more.",
+          "link": "https://arstechnica.com/?p=1880298",
+          "publishedOn": "2022-09-12T07:00:41.000Z",
+          "wordCount": 2504,
+          "title": "Nick Fury takes the spotlight in first trailer for Secret Invasion",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/furyTOP-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1880284",
           "author": "Eric Berger",
           "description": "Seasonal activity is running 50 percent below normal levels.",
@@ -12035,16 +12065,6 @@
           "wordCount": 1494,
           "title": "Trademark filing for “Reality Pro” suggests Apple’s headset is on the way",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2017/02/apple-park-photo-1-building-trees-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1876773",
-          "author": "Kyle Orland",
-          "description": "New models are about 13 percent lighter than 2020's hefty launch-era consoles.",
-          "link": "https://arstechnica.com/?p=1876773",
-          "publishedOn": "2022-08-29T20:19:26.000Z",
-          "wordCount": 1814,
-          "title": "Sony launches lighter PS5 model for second straight year",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/05/ps5-shot-760x380.jpg"
         }
       ]
     },
@@ -12053,6 +12073,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291420",
+          "author": null,
+          "description": "Eivors resa är nästan slut.",
+          "link": "https://www.fz.se/artikel/291420-snart-kommer-sista-kapitlet-i-assassins-creed-valhalla",
+          "publishedOn": "2022-09-12T07:53:00.000Z",
+          "wordCount": 1797,
+          "title": "Snart kommer sista kapitlet i Assassin's Creed Valhalla",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291420"
+        },
         {
           "id": "https://www.fz.se/artikel/291419",
           "author": null,
@@ -12522,6 +12552,16 @@
           "wordCount": 1862,
           "title": "Phantom Liberty den \"enda planerade expansionen\" till Cyberpunk 2077",
           "imageUrl": "https://www.fz.se/artikel/og-image/291378"
+        },
+        {
+          "id": "https://www.fz.se/artikel/290797",
+          "author": null,
+          "description": "NZXT lanserar ett helt bedrövligt inspelningskort, som behöver tillbaka till ritbordet.",
+          "link": "https://www.fz.se/artikel/290797-nzxt-signal-4k30-streaming-med-trubbel",
+          "publishedOn": "2022-09-07T13:30:00.000Z",
+          "wordCount": 5193,
+          "title": "NZXT Signal 4K30 – streaming med trubbel",
+          "imageUrl": "https://www.fz.se/artikel/og-image/290797"
         },
         {
           "id": "https://www.fz.se/artikel/290797",
@@ -13510,6 +13550,16 @@
       "feedUrl": "https://www.sweclockers.com/feeds/nyheter",
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
+        {
+          "id": "https://www.sweclockers.com/artikel/34907",
+          "author": null,
+          "description": "Två nya varianter av Geforce RTX 3060 ska rensa förråden inför nästa generation. Nedbantad minnesmängd och åtstramad minnesbuss står på menyn.",
+          "link": "https://www.sweclockers.com/artikel/34907-nvidia-utokar-rtx-3000-serien",
+          "publishedOn": "2022-09-12T08:16:32.000Z",
+          "wordCount": 1592,
+          "title": "Nvidia utökar RTX 3000-serien",
+          "imageUrl": "https://www.sweclockers.com/artikel/34907/og-image"
+        },
         {
           "id": "https://www.sweclockers.com/artikel/34905",
           "author": null,
@@ -16596,16 +16646,6 @@
           "wordCount": 1841,
           "title": "Source: IBM disguised Watson Health layoffs as a 'redeployment initiative'",
           "imageUrl": "https://regmedia.co.uk/2019/04/18/ai_doc_data.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/29/microsoft_adds_virtual_windows_licenses/",
-          "author": null,
-          "description": "<h4>Yes, we're totally doing this as a favor for partners and not because we were being sued in Europe</h4> <p>Microsoft has announced a major overhaul to its Windows licensing regimes that make it rather easier to use its operating system in the cloud – without mentioning the real reason for the change is to get the European Union off its back.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/29/microsoft_adds_virtual_windows_licenses/",
-          "publishedOn": "2022-08-29T20:03:47.000Z",
-          "wordCount": 1695,
-          "title": "Microsoft adds virtual core licensing to Windows Server",
-          "imageUrl": "https://regmedia.co.uk/2019/12/10/microsoft.jpg"
         }
       ]
     }
