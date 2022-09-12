@@ -7186,6 +7186,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "PtCmkJjydXceFuiywfkhtV",
+          "author": "palcorn@outlook.com (Paul Alcorn)",
+          "description": "Intel teased a new 8GHz world record for its Raptor Lake processors that will release next month.",
+          "link": "https://www.tomshardware.com/news/intel-teases-8-ghz-raptor-lake-world-record",
+          "publishedOn": "2022-09-12T07:05:49.000Z",
+          "wordCount": 18793,
+          "title": "Intel Teases 6 GHz Raptor Lake at Stock, 8 GHz Overclocking World Record",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/D9su9P8T6VWWVWj2GkP5R5.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/D9su9P8T6VWWVWj2GkP5R5.jpg"
+        },
+        {
           "id": "NtMMU4u9XNqcyRLr46x3pN",
           "author": null,
           "description": "Redditor tears down and showcases AMD Radeon RX 6600 graphics card in the rare MXM form factor.",
@@ -12030,26 +12045,6 @@
           "wordCount": 1814,
           "title": "Sony launches lighter PS5 model for second straight year",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/05/ps5-shot-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1876630",
-          "author": "Eric Berger",
-          "description": "\"I am very proud of this launch team.\"",
-          "link": "https://arstechnica.com/?p=1876630",
-          "publishedOn": "2022-08-29T19:39:01.000Z",
-          "wordCount": 1890,
-          "title": "Warning sign? NASA never finished a fueling test before today’s SLS launch attempt",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/Artemis-I-Aug-19-2022-8968-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1876747",
-          "author": "Dan Goodin",
-          "description": "Agency says data shows users visits to clinics and homeless shelters.",
-          "link": "https://arstechnica.com/?p=1876747",
-          "publishedOn": "2022-08-29T19:06:47.000Z",
-          "wordCount": 1980,
-          "title": "FTC sues data broker that tracks locations of 125M phones per month",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/01/geo-location-760x380.jpg"
         }
       ]
     },
@@ -12058,6 +12053,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291419",
+          "author": null,
+          "description": "Och svärdsamlaren Gilgamesh är med (tillsammans med sin grymma låt).",
+          "link": "https://www.fz.se/artikel/291419-trailer-for-stranger-of-paradise-final-fantasy-origins-andra-expansion",
+          "publishedOn": "2022-09-12T06:55:00.000Z",
+          "wordCount": 1862,
+          "title": "Trailer för Stranger of Paradise: Final Fantasy Origins andra expansion",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291419"
+        },
         {
           "id": "https://www.fz.se/artikel/291418",
           "author": null,
@@ -13497,16 +13502,6 @@
           "wordCount": 1800,
           "title": "Hangar 13 bekräftar att ett nytt Mafia är under utveckling",
           "imageUrl": "https://www.fz.se/artikel/og-image/291277"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291276",
-          "author": null,
-          "description": "Jobbar i detta nu på ett mobilt AAA-spel.",
-          "link": "https://www.fz.se/artikel/291276-sony-i-koptagen-forvarvar-mobilstudion-savage-game-studios",
-          "publishedOn": "2022-08-29T18:30:00.000Z",
-          "wordCount": 1784,
-          "title": "Sony i köptagen, förvärvar mobilstudion Savage Game Studios",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291276"
         }
       ]
     },
@@ -14482,6 +14477,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/12/mic_monitoring_spying/",
+          "author": null,
+          "description": "<h4>TickTock mic lock won't work on Apple</h4> <p>Scientists from the National University of Singapore and Yonsei University in the Republic of Korea have developed a device for verifying whether your laptop microphone is secretly recording your conversations.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/12/mic_monitoring_spying/",
+          "publishedOn": "2022-09-12T07:30:12.000Z",
+          "wordCount": 1576,
+          "title": "Boffins build microphone safety kit to detect eavesdroppers",
+          "imageUrl": "https://regmedia.co.uk/2015/08/17/ear_89763495735.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/12/who_me/",
+          "author": null,
+          "description": "<h4>Who doesn't like a cup of coffee? Anything electrical, that's who</h4> <p><strong>Who, Me?</strong>  A lot of folks in technology and affiliated industries use caffeine as stimulant of choice. A hot cup of Joe is just the thing at the start of a long day shift after an all-nighter, because sleep is for the weak. Importantly, though, it must not be shared with the computers.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/12/who_me/",
+          "publishedOn": "2022-09-12T06:59:12.000Z",
+          "wordCount": 1318,
+          "title": "Chemical plant taken offline by the best one of all: C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub>",
+          "imageUrl": "https://regmedia.co.uk/2016/05/26/coffee.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/12/china_discovers_new_mineral_on/",
           "author": null,
@@ -16591,16 +16606,6 @@
           "wordCount": 1695,
           "title": "Microsoft adds virtual core licensing to Windows Server",
           "imageUrl": "https://regmedia.co.uk/2019/12/10/microsoft.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/29/eu_qualcomm_fine/",
-          "author": null,
-          "description": "<h4>Snapdragon giant was accused of bribing Apple not to use rival modems</h4> <p>The European Commission has reportedly called it quits in its bid to fine Qualcomm for alleged anti-competitive payments to Apple.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/29/eu_qualcomm_fine/",
-          "publishedOn": "2022-08-29T18:47:13.000Z",
-          "wordCount": 1497,
-          "title": "Euro watchdogs 'abandon $1b fine' against Qualcomm",
-          "imageUrl": "https://regmedia.co.uk/2016/07/20/qualcommstadium.jpg"
         }
       ]
     }
