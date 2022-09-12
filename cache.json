@@ -80,16 +80,6 @@
           "wordCount": 10416,
           "title": "21 Basic Linux Networking Commands You Should Know",
           "imageUrl": "https://itsfoss.com/wp-content/uploads/2016/06/essential-linux-networking-commmands.png"
-        },
-        {
-          "id": "https://itsfoss.com/?p=100996",
-          "author": "Sagar Sharma",
-          "description": "Open source library management software are the best! Let's take a look at some of them here.",
-          "link": "https://itsfoss.com/open-source-library-management-software/",
-          "publishedOn": "2022-08-30T06:05:09.000Z",
-          "wordCount": 7644,
-          "title": "7 Best Open Source Library Management Software",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/08/opensource-library-management.jpg"
         }
       ]
     },
@@ -130,6 +120,26 @@
       "feedUrl": "http://www.gamingonlinux.com/news_rss.php",
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
+        {
+          "id": "https://www.gamingonlinux.com/2022/09/building-a-retro-linux-gaming-computer-part-18-run-away-and-join-the-circus/",
+          "author": "Hamish",
+          "description": "Although being sold for Windows, I found a listing for a physical copy of the free game Circus Linux! as published by Alten8. At first I figured it would just be another keep case in my collection with \"Linux\" on the cover, but with the source code included, I decided it would be trivial to also build the game for Linux.",
+          "link": "https://www.gamingonlinux.com/2022/09/building-a-retro-linux-gaming-computer-part-18-run-away-and-join-the-circus/",
+          "publishedOn": "2022-09-12T18:30:01.000Z",
+          "wordCount": 1837,
+          "title": "Building a Retro Linux Gaming Computer - Part 18: Run Away and Join the Circus",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1020879495id21225gol.jpg"
+        },
+        {
+          "id": "https://www.gamingonlinux.com/2022/09/i-hate-to-admit-it-but-i-like-disney-dreamlight-valley-m-works-well-on-steam-deck-linux/",
+          "author": "Liam Dawe",
+          "description": "Well here's a game I didn't expect to like or actually be any good. It's Disney Dreamlight Valley from Gameloft, a game that's a mixture of Harvest Moon and Stardew Valley but for Disney fans.",
+          "link": "https://www.gamingonlinux.com/2022/09/i-hate-to-admit-it-but-i-like-disney-dreamlight-valley-m-works-well-on-steam-deck-linux/",
+          "publishedOn": "2022-09-12T18:11:38.000Z",
+          "wordCount": 1419,
+          "title": "I hate to admit it but I like Disney Dreamlight Valley — works well on Steam Deck / Linux",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/547548327id21583gol.jpg"
+        },
         {
           "id": "https://www.gamingonlinux.com/2022/09/valve-are-still-fixing-up-left-4-dead-2-over-10-years-after-release/",
           "author": "Liam Dawe",
@@ -907,6 +917,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/halo-studio-boss-bonnie-ross-announces-departure-from-microsoft",
+          "author": "Matt Wales",
+          "description": "Bonnie Ross, the founder and head of Halo developer 343 Industries, has announced her departure from the studio and Microsoft.\r\n\n\r\nRoss, who also serves as Microsoft corporate vice president, has been the head of 343 Industries for 15 years, having established the studio - specifically to take over development of the Halo franchise from Bungie - back in 2007.\r\n\n\r\nAnnouncing her departure from 343 in a statement shared on Twitter, Ross explained, \"While I had hoped to stay with Halo until we released the Winter Update, I am letting you know I will be leaving 343 and attending a family medical issue\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/halo-studio-boss-bonnie-ross-announces-departure-from-microsoft",
+          "publishedOn": "2022-09-12T18:04:10.000Z",
+          "wordCount": 4655,
+          "title": "Halo studio boss Bonnie Ross announces departure from Microsoft",
+          "imageUrl": "https://assets.reedpopcdn.com/343-logo.png/BROK/thumbnail/1600x900/format/jpg/quality/80/343-logo.png"
+        },
         {
           "id": "https://www.eurogamer.net/prison-architect-getting-big-free-quality-of-life-update-on-xbox-and-pc-today",
           "author": "Matt Wales",
@@ -11227,6 +11247,76 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1880509",
+          "author": "Scharon Harding",
+          "description": "Roku OS 11.5 with \"Continue Watching\" also en route.",
+          "link": "https://arstechnica.com/?p=1880509",
+          "publishedOn": "2022-09-12T18:10:44.000Z",
+          "wordCount": 1696,
+          "title": "Roku announces a cheaper subwoofer, updates $30 Express streaming device",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/66237085-03f1-4779-a089-1f96736bc774-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1880381",
+          "author": "Andrew Cunningham",
+          "description": "Intel's lineup will likely be competing with new GPUs from AMD and Nvidia soon.",
+          "link": "https://arstechnica.com/?p=1880381",
+          "publishedOn": "2022-09-12T17:52:36.000Z",
+          "wordCount": 1836,
+          "title": "Intel publishes Arc GPU specifications as their launch creeps ever-nearer",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/arc-gpus-2-2-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1880488",
+          "author": "Jon Brodkin",
+          "description": "Starlink says speed tests and $600 dish cost aren't good reasons to deny funding.",
+          "link": "https://arstechnica.com/?p=1880488",
+          "publishedOn": "2022-09-12T17:25:22.000Z",
+          "wordCount": 1593,
+          "title": "Starlink appeals FCC rejection of $886M grant, calls reversal “grossly unfair”",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-starlink-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1880382",
+          "author": "Ars Staff",
+          "description": "The vehicles it showed off at Monterey Car Week were far from production-ready",
+          "link": "https://arstechnica.com/?p=1880382",
+          "publishedOn": "2022-09-12T17:18:44.000Z",
+          "wordCount": 1785,
+          "title": "Remember Faraday Future? We rode in its new EV, and it wasn’t great",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/Faraday-V03-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1880438",
+          "author": "Kevin Purdy",
+          "description": "It's the first time genuine iPhone batteries have cost more than $70 since 2017.",
+          "link": "https://arstechnica.com/?p=1880438",
+          "publishedOn": "2022-09-12T17:11:34.000Z",
+          "wordCount": 1375,
+          "title": "Apple raises iPhone 14 battery costs above pre-Batterygate levels",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/iphone_13_battery-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1880442",
+          "author": "Ron Amadeo",
+          "description": "Plus: Wild rumors say the phone might launch before the end of the year.",
+          "link": "https://arstechnica.com/?p=1880442",
+          "publishedOn": "2022-09-12T16:47:19.000Z",
+          "wordCount": 1449,
+          "title": "Get your first look at the OnePlus 11 Pro and its round camera bump",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/5-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1880346",
+          "author": "Benj Edwards",
+          "description": "Smaller art communities are banning image synthesis amid a wider art ethics debate.",
+          "link": "https://arstechnica.com/?p=1880346",
+          "publishedOn": "2022-09-12T16:36:10.000Z",
+          "wordCount": 1816,
+          "title": "Flooded with AI-generated images, some art communities ban them completely",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/stable_diffusion_on_lexica-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1880383",
           "author": "Eric Berger",
           "description": "There were no passengers on board this flight carrying scientific instruments.",
@@ -15217,6 +15307,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/12/google_closes_mandiant_acquisition/",
+          "author": null,
+          "description": "<h4>Now it's really got all eyes on you</h4> <p>Google closed its $5.4 billion Mandiant acquisition today in a move that brings the threat intel and incident response giant under the Google Cloud umbrella. …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/12/google_closes_mandiant_acquisition/",
+          "publishedOn": "2022-09-12T18:15:07.000Z",
+          "wordCount": 1301,
+          "title": "Google Cloud closes $5.4b Mandiant acquisition",
+          "imageUrl": "https://regmedia.co.uk/2022/09/12/mandiant_logo_computer_screen_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/12/digital_realty_farm/",
+          "author": null,
+          "description": "<h4>No, the devil's lettuce isn't on the menu</h4> <p>A former Digital Realty datacenter in Virginia is getting a new lease on life as an urban farmstead. And no, this isn’t a crypto farm or some seedy weed growing operation.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/12/digital_realty_farm/",
+          "publishedOn": "2022-09-12T17:30:15.000Z",
+          "wordCount": 1140,
+          "title": "Former Digital Realty datacenter reborn as urban farmstead",
+          "imageUrl": "https://regmedia.co.uk/2021/03/17/shutterstock_green_computing.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/12/sap_support_fees_to_rise/",
           "author": null,
