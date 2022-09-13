@@ -90,16 +90,6 @@
           "wordCount": 6961,
           "title": "Don’t Suspend Ubuntu When Laptop Lid is Closed",
           "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/08/ubuntu-laptop-lid-closing-behavior.png"
-        },
-        {
-          "id": "http://itsfoss.com/?p=10907",
-          "author": "Sagar Sharma",
-          "description": "A list of basic Linux networking commands that will help you troubleshoot network issues, monitor packets, connect devices, and much more.",
-          "link": "https://itsfoss.com/basic-linux-networking-commands/",
-          "publishedOn": "2022-08-31T06:34:00.000Z",
-          "wordCount": 10416,
-          "title": "21 Basic Linux Networking Commands You Should Know",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2016/06/essential-linux-networking-commmands.png"
         }
       ]
     },
@@ -927,6 +917,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/discord-voice-chat-support-is-now-available-for-all-xbox-one-and-series-xs-users",
+          "author": "Matt Wales",
+          "description": "Following a period of Xbox Insider testing announced earlier this year, Microsoft has officially launched Discord voice chat support for all Xbox One and Xbox Series X/S users.\r\n\n\r\nAs of today, anyone on either console will be able to connect directly to Discord Voice chats in order to talk with their friends, wherever they may be. The actual process required to do so, though, is a little convoluted, and first demands that users link their Xbox account to their Discord account - a process that'll need to be redone if done previously, so new permissions needed for voice chat on Xbox can be confirmed.\r\n\n\r\nWith that step complete, you'll next need to make sure you have the Xbox mobile app installed on your phone, and that you console is linked to the app. That done, fire up Discord on either your mobile device or desktop and join the Voice call you want to transfer to Xbox. From here, select the transfer call option, which will automatically open the Xbox mobile app.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/discord-voice-chat-support-is-now-available-for-all-xbox-one-and-series-xs-users",
+          "publishedOn": "2022-09-13T18:37:27.000Z",
+          "wordCount": 4506,
+          "title": "Discord voice chat support is now available for all Xbox users",
+          "imageUrl": "https://assets.reedpopcdn.com/xbox-discord-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/xbox-discord-header.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/everything-in-todays-nintendo-direct",
           "author": "Tom Phillips",
@@ -5121,6 +5121,26 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/LPC-2022-Open-Source-NVIDIA",
+          "author": null,
+          "description": "Longtime open-source Linux graphics driver developer and DRM subsystem maintainer, David Airlie of Red Hat, took the stage at Linux Plumbers Conference today to talk about Nouveau and the state of the open-source NVIDIA Linux driver...",
+          "link": "https://www.phoronix.com/news/LPC-2022-Open-Source-NVIDIA",
+          "publishedOn": "2022-09-13T19:11:21.000Z",
+          "wordCount": 1520,
+          "title": "Open-Source NVIDIA Outlook Brighter Due To GSP Firmware, But Major Challenges Remain",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Samba-4.17-Released",
+          "author": null,
+          "description": "Samba as the open-source re-implementation of the SMB networking protocol for better file and print server interoperability with Microsoft Windows platforms is out with a new release. In the nearly six months since Samba 4.16 was introduced, Samba 4.17 has built up performance improvements/fixes and other enhancements for this widely-used open-source project...",
+          "link": "https://www.phoronix.com/news/Samba-4.17-Released",
+          "publishedOn": "2022-09-13T18:51:36.000Z",
+          "wordCount": 1377,
+          "title": "Samba 4.17 Released With Some Performance Enhancements",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Godot-W4-Games",
           "author": null,
@@ -11152,6 +11172,36 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1880993",
+          "author": "Jonathan M. Gitlin",
+          "description": "With up to 3.9 miles/kWh, vehicle-to-load, and very fast charging, there's a lot to like.",
+          "link": "https://arstechnica.com/?p=1880993",
+          "publishedOn": "2022-09-13T18:44:11.000Z",
+          "wordCount": 1615,
+          "title": "Who said sedans were dead? The 2023 Genesis G80 Electrified, tested",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/Genesis-G80-Electrified-1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1880846",
+          "author": "Ron Amadeo",
+          "description": "Loon's laser communications and networking software get new life as Aalyria.",
+          "link": "https://arstechnica.com/?p=1880846",
+          "publishedOn": "2022-09-13T18:31:40.000Z",
+          "wordCount": 1804,
+          "title": "Google spinoff Aalyria salvages Project Loon technology for the US military",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/62fc2965c159e9325f90e79d_aalyria-spacetime-software-defined-network-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1880389",
+          "author": "Jennifer Ouellette",
+          "description": "Ars chats with xkcd creator Randall Munroe about his new book, What If? 2.",
+          "link": "https://arstechnica.com/?p=1880389",
+          "publishedOn": "2022-09-13T17:45:02.000Z",
+          "wordCount": 2140,
+          "title": "What If? 2 is here with even more serious answers to your weird questions",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/what-if-2-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1880953",
           "author": "Ashley Belanger",
           "description": "Snap claims Meta wants “to reconstruct virtually every decision Snap has made.”",
@@ -14307,16 +14357,6 @@
           "wordCount": 1785,
           "title": "Team Ninjas Wo Long: Fallen Dynasty har fått en gameplay-trailer",
           "imageUrl": "https://www.fz.se/artikel/og-image/291294"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291293",
-          "author": null,
-          "description": "Och fokus tycks ligga på molnspelande.",
-          "link": "https://www.fz.se/artikel/291293-bilder-pa-logitechs-barbara-spelkonsol-har-lackt",
-          "publishedOn": "2022-08-31T06:59:00.000Z",
-          "wordCount": 1891,
-          "title": "Bilder på Logitechs bärbara spelkonsol har läckt",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291293"
         }
       ]
     },
@@ -15044,16 +15084,6 @@
           "wordCount": 1731,
           "title": "Ryzen 9 7950X dyker upp i Geekbench",
           "imageUrl": "https://www.sweclockers.com/artikel/34845/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34825",
-          "author": null,
-          "description": "Snabbare minnen enligt DDR5-standarden är här och fler plattformar med stöd närmar sig. Den här veckan undrar Kingston när du planerar att ta klivet över.",
-          "link": "https://www.sweclockers.com/artikel/34825-veckans-fraga-nar-uppgraderar-du-till-ddr5",
-          "publishedOn": "2022-08-31T07:14:13.000Z",
-          "wordCount": 1734,
-          "title": "Veckans fråga: När uppgraderar du till DDR5?",
-          "imageUrl": "https://www.sweclockers.com/artikel/34825/og-image"
         }
       ]
     },
@@ -15332,6 +15362,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/13/lorenz_ransomware_mitel_voip/",
+          "author": null,
+          "description": "<h4>Criminals do love that unpatched VoIP and IoT kit</h4> <p>The Lorenz ransomware gang is exploiting a vulnerability in Mitel VoIP appliances to break corporate networks.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/13/lorenz_ransomware_mitel_voip/",
+          "publishedOn": "2022-09-13T18:38:36.000Z",
+          "wordCount": 1630,
+          "title": "Patch your Mitel VoIP systems, Lorenz ransomware gang is back on the prowl",
+          "imageUrl": "https://regmedia.co.uk/2021/01/22/ransomware.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/13/taiwans_globalwafers_races_to_break/",
           "author": null,

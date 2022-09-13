@@ -2,10 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-13T18:31:07.914Z</updated>
+    <updated>2022-09-13T19:19:57.089Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Open-Source NVIDIA Outlook Brighter Due To GSP Firmware, But Major Challenges Remain]]></title>
+        <id>https://www.phoronix.com/news/LPC-2022-Open-Source-NVIDIA</id>
+        <link href="https://www.phoronix.com/news/LPC-2022-Open-Source-NVIDIA"/>
+        <updated>2022-09-13T19:11:21.000Z</updated>
+        <summary type="html"><![CDATA[Longtime open-source Linux graphics driver developer and DRM subsystem maintainer, David Airlie of Red Hat, took the stage at Linux Plumbers Conference today to talk about Nouveau and the state of the open-source NVIDIA Linux driver...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samba 4.17 Released With Some Performance Enhancements]]></title>
+        <id>https://www.phoronix.com/news/Samba-4.17-Released</id>
+        <link href="https://www.phoronix.com/news/Samba-4.17-Released"/>
+        <updated>2022-09-13T18:51:36.000Z</updated>
+        <summary type="html"><![CDATA[Samba as the open-source re-implementation of the SMB networking protocol for better file and print server interoperability with Microsoft Windows platforms is out with a new release. In the nearly six months since Samba 4.16 was introduced, Samba 4.17 has built up performance improvements/fixes and other enhancements for this widely-used open-source project...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who said sedans were dead? The 2023 Genesis G80 Electrified, tested]]></title>
+        <id>https://arstechnica.com/?p=1880993</id>
+        <link href="https://arstechnica.com/?p=1880993"/>
+        <updated>2022-09-13T18:44:11.000Z</updated>
+        <summary type="html"><![CDATA[With up to 3.9 miles/kWh, vehicle-to-load, and very fast charging, there's a lot to like.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Patch your Mitel VoIP systems, Lorenz ransomware gang is back on the prowl]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/13/lorenz_ransomware_mitel_voip/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/13/lorenz_ransomware_mitel_voip/"/>
+        <updated>2022-09-13T18:38:36.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Criminals do love that unpatched VoIP and IoT kit</h4> <p>The Lorenz ransomware gang is exploiting a vulnerability in Mitel VoIP appliances to break corporate networks.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discord voice chat support is now available for all Xbox users]]></title>
+        <id>https://www.eurogamer.net/discord-voice-chat-support-is-now-available-for-all-xbox-one-and-series-xs-users</id>
+        <link href="https://www.eurogamer.net/discord-voice-chat-support-is-now-available-for-all-xbox-one-and-series-xs-users"/>
+        <updated>2022-09-13T18:37:27.000Z</updated>
+        <summary type="html"><![CDATA[Following a period of Xbox Insider testing announced earlier this year, Microsoft has officially launched Discord voice chat support for all Xbox One and Xbox Series X/S users.
+
+
+As of today, anyone on either console will be able to connect directly to Discord Voice chats in order to talk with their friends, wherever they may be. The actual process required to do so, though, is a little convoluted, and first demands that users link their Xbox account to their Discord account - a process that'll need to be redone if done previously, so new permissions needed for voice chat on Xbox can be confirmed.
+
+
+With that step complete, you'll next need to make sure you have the Xbox mobile app installed on your phone, and that you console is linked to the app. That done, fire up Discord on either your mobile device or desktop and join the Voice call you want to transfer to Xbox. From here, select the transfer call option, which will automatically open the Xbox mobile app.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google spinoff Aalyria salvages Project Loon technology for the US military]]></title>
+        <id>https://arstechnica.com/?p=1880846</id>
+        <link href="https://arstechnica.com/?p=1880846"/>
+        <updated>2022-09-13T18:31:40.000Z</updated>
+        <summary type="html"><![CDATA[Loon's laser communications and networking software get new life as Aalyria.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[More Nintendo 64 games headed to Nintendo Switch Online + Expansion Pack]]></title>
         <id>https://www.vg247.com/more-nintendo-64-games-headed-to-nintendo-switch-online-expansion-pack</id>
@@ -30,6 +98,16 @@ An immutable OS makes the system more stable and its updates less error-prone, b
 How to do that though? It is possible for the u…]]></summary>
         <author>
             <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What If? 2 is here with even more serious answers to your weird questions]]></title>
+        <id>https://arstechnica.com/?p=1880389</id>
+        <link href="https://arstechnica.com/?p=1880389"/>
+        <updated>2022-09-13T17:45:02.000Z</updated>
+        <summary type="html"><![CDATA[Ars chats with xkcd creator Randall Munroe about his new book, What If? 2.]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
         </author>
     </entry>
     <entry>
@@ -19647,36 +19725,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<h4>A gentle primer on these chip giants' accelerators – and your essential guide to the conference so far</h4> <p><strong>VMware Explore</strong>  SmartNICs have long been the domain of hyperscale and cloud datacenters, but they remain relatively uncommon in enterprise environments due in large part to the lack of software compatibility. But with official support for AMD and Nvidia's data processing units (DPUs) now baked into VMware's popular hypervisor, that may not be the case for much longer.…</p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veckans fråga: När uppgraderar du till DDR5?]]></title>
-        <id>https://www.sweclockers.com/artikel/34825</id>
-        <link href="https://www.sweclockers.com/artikel/34825-veckans-fraga-nar-uppgraderar-du-till-ddr5"/>
-        <updated>2022-08-31T07:14:13.000Z</updated>
-        <summary type="html"><![CDATA[Snabbare minnen enligt DDR5-standarden är här och fler plattformar med stöd närmar sig. Den här veckan undrar Kingston när du planerar att ta klivet över.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bilder på Logitechs bärbara spelkonsol har läckt]]></title>
-        <id>https://www.fz.se/artikel/291293</id>
-        <link href="https://www.fz.se/artikel/291293-bilder-pa-logitechs-barbara-spelkonsol-har-lackt"/>
-        <updated>2022-08-31T06:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Och fokus tycks ligga på molnspelande.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21 Basic Linux Networking Commands You Should Know]]></title>
-        <id>http://itsfoss.com/?p=10907</id>
-        <link href="https://itsfoss.com/basic-linux-networking-commands/"/>
-        <updated>2022-08-31T06:34:00.000Z</updated>
-        <summary type="html"><![CDATA[A list of basic Linux networking commands that will help you troubleshoot network issues, monitor packets, connect devices, and much more.]]></summary>
-        <author>
-            <name>Sagar Sharma</name>
         </author>
     </entry>
 </feed>
