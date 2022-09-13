@@ -3635,6 +3635,16 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/more-nintendo-64-games-headed-to-nintendo-switch-online-expansion-pack",
+          "author": "Stephany Nunneley",
+          "description": "During today's Direct, Nintendo announced a swath of Nintendo 64 games coming to Nintendo Switch Online + Expansion Pack.\nYou already heard GoldenEye 007 is included in the batch, and while it's the biggie of the bunch, more games were announced.\nNintendo plans to add  =Pilotwings 64, Mario Party, and Mario Party 2 this year.\n Read more",
+          "link": "https://www.vg247.com/more-nintendo-64-games-headed-to-nintendo-switch-online-expansion-pack",
+          "publishedOn": "2022-09-13T18:02:48.000Z",
+          "wordCount": 4465,
+          "title": "More Nintendo 64 games headed to Nintendo Switch Online + Expansion Pack",
+          "imageUrl": "https://asset.vg247.com/switch-online-plus-expansion-apck.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/switch-online-plus-expansion-apck.jpg"
+        },
+        {
           "id": "https://www.vg247.com/final-fantasy-theatrhythm-final-bar-line-ps4-switch-2023",
           "author": "Dom Peppiatt",
           "description": "Back on the 3DS, there was a pair of rhythm games that got a wide launch called Theatrhythm Final Fantasy, and Theatrhythm Final Fantasy: Curtain Call. They launched in 2012 and 2014, respectively, and anyone you speak to that loves the series – and the 3DS as a platform - will have nothing but good things to say about both games.\nAfter that, an arcade game, Theatrhythm Final Fantasy: All-Star Carnival, was released in Japan (and this poor sap even made a point of hunting it down when they were out there for a holiday) but the series ground to a halt. From 2016 onwards, there was nothing. Until now.\nFast forward some six years, and we get a brand new game in the series – and it's coming to Nintendo Switch and PS4. Titled Theatrhythm Final Bar Line, the game was announced during today's Nintendo Direct as a Switch title, but marketing materials that arrived after also confirmed that the game will arrive on PS4 (and PS5 via backwards compatibility).\n Read more",
@@ -10738,6 +10748,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "http://blogs.igalia.com/berto/?p=833",
+          "author": null,
+          "description": "Introduction: an immutable OS\nThe Steam Deck runs SteamOS, a single-user operating system based on Arch Linux. Although derived from a standard, package-based distro, the OS in the Steam Deck is immutable and system updates replace the contents of the root filesystem atomically instead of using the package manager.\nAn immutable OS makes the system more stable and its updates less error-prone, but users cannot install additional packages to add more software. This is not a problem for most users since they are only going to run Steam and its games (which are stored in the home partition). Nevertheless, the OS also has a desktop mode which provides a standard Linux desktop experience, and here it makes sense to be able to install more software.\nHow to do that though? It is possible for the u…",
+          "link": "https://blogs.igalia.com/berto/2022/09/13/adding-software-to-the-steam-deck-with-systemd-sysext/",
+          "publishedOn": "2022-09-13T18:00:38.000Z",
+          "wordCount": 1576,
+          "title": "Alberto García: Adding software to the Steam Deck with systemd-sysext",
+          "imageUrl": null
+        },
+        {
           "id": "https://people.skolelinux.org/pere/blog/Time_to_translate_the_Bullseye_edition_of_the_Debian_Administrator_s_Handbook.html",
           "author": null,
           "description": "(The picture is of the previous edition.)\nAlmost two years after the previous Norwegian Bokmål translation of\nthe \"The Debian Administrator's\nHandbook\" was published, a new edition is finally being prepared.  The\nenglish text is updated, and it is time to start working on the\ntranslations.  Around 37 percent of the strings have been updated, one\nway or another, and the translations starting from a complete Debian Buster\nedition now need to bring their translation up from 63% to 100%.  The\ncomplete book is licensed using a Creative Commons license, and has\nbeen published in several languages over the years.  The translations\nare done by volunteers to bring Linux in their native tongue.  The\nlast time I checked, it complete text was available in English,\nNorwegian Bokmål, German, Indonesian, Brazil Portuguese and Spanish.\nIn addition, work has been started for Arabic (Morocco), Catalan,\nChinese (Simplified), Chinese (Traditional), Croatian, Czech, Danish,\nDutch, French, Greek, Italian, Japanese, Korean, Persian, Polish,\nRomanian, Russian, Swedish, Turkish and Vietnamese.\nThe translation is conducted on\nthe\nhosted weblate project page.  Prospective translators are\nrecommeded to subscribe to\nthe\ntranslators mailing list and should also check out\nthe instructions for\ncontributors.\nI am one of the Norwegian Bokmål translators of this book, and we\nhave just started.  Your contribution is most welcome.\nAs usual, if you use Bitcoin and want to show your support of my\nactivities, please send Bitcoin donations to my address\n15oWEoG9dUPovwmUL9KWAnYRtNJEkP1u1b.",
@@ -11131,6 +11151,56 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1880953",
+          "author": "Ashley Belanger",
+          "description": "Snap claims Meta wants “to reconstruct virtually every decision Snap has made.”",
+          "link": "https://arstechnica.com/?p=1880953",
+          "publishedOn": "2022-09-13T17:25:35.000Z",
+          "wordCount": 1962,
+          "title": "To defeat FTC lawsuit, Meta demands 100+ rivals share biggest trade secrets",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-523511394-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1880545",
+          "author": "Ars Contributors",
+          "description": "Most soft robots are slow, but these feel the need for speed.",
+          "link": "https://arstechnica.com/?p=1880545",
+          "publishedOn": "2022-09-13T17:15:00.000Z",
+          "wordCount": 1734,
+          "title": "Tiny robots made of “galinstan” can run faster than a (scaled down) cheetah",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/Screen-Shot-2022-09-12-at-2.26.39-PM-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1880815",
+          "author": "Kevin Purdy",
+          "description": "Setting up Wi-Fi, and using a camera for all kinds of projects, both get better.",
+          "link": "https://arstechnica.com/?p=1880815",
+          "publishedOn": "2022-09-13T17:13:54.000Z",
+          "wordCount": 1464,
+          "title": "Raspberry Pi OS improves menus, networking, camera possibilities",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/dogs-640x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1880915",
+          "author": "Kyle Orland",
+          "description": "A new Fire Emblem and an anime-inspired rhythm boxing game feature.",
+          "link": "https://arstechnica.com/?p=1880915",
+          "publishedOn": "2022-09-13T16:56:44.000Z",
+          "wordCount": 1558,
+          "title": "Nintendo announces a boatload of classic game ports, Japanese RPGs for Switch",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/fireemblem-750x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1880827",
+          "author": "Benj Edwards",
+          "description": "New technique uses an image synthesis model and some JavaScript to work its magic.",
+          "link": "https://arstechnica.com/?p=1880827",
+          "publishedOn": "2022-09-13T16:44:16.000Z",
+          "wordCount": 1566,
+          "title": "Artist uses AI to extract color palettes from text descriptions",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/ai_palette_hero3-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1880866",
           "author": "Jon Brodkin",
@@ -17441,16 +17511,6 @@
           "wordCount": 1886,
           "title": "What are Nvidia and AMD doing getting involved with SmartNICs and VMware?",
           "imageUrl": "https://regmedia.co.uk/2022/03/29/server_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/31/space-station-refueling/",
-          "author": null,
-          "description": "<h4>Orbit Fab hopes to charge $20m for a hydrazine refill – and you thought fuel prices down here were bad!</h4> <p>Spacecraft running low on fuel could get a refill from an orbital station by the year 2025, according to a startup named Orbit Fab that reckons it can charge $20 million to top up your tank.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/31/space-station-refueling/",
-          "publishedOn": "2022-08-31T06:18:13.000Z",
-          "wordCount": 1296,
-          "title": "Startup wants to build a space station that refuels satellites by 2025",
-          "imageUrl": "https://regmedia.co.uk/2022/08/30/orbit_lab_refuel_station.jpg"
         }
       ]
     }

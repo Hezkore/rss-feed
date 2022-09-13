@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-13T17:32:53.224Z</updated>
+    <updated>2022-09-13T18:31:07.914Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[More Nintendo 64 games headed to Nintendo Switch Online + Expansion Pack]]></title>
+        <id>https://www.vg247.com/more-nintendo-64-games-headed-to-nintendo-switch-online-expansion-pack</id>
+        <link href="https://www.vg247.com/more-nintendo-64-games-headed-to-nintendo-switch-online-expansion-pack"/>
+        <updated>2022-09-13T18:02:48.000Z</updated>
+        <summary type="html"><![CDATA[During today's Direct, Nintendo announced a swath of Nintendo 64 games coming to Nintendo Switch Online + Expansion Pack.
+You already heard GoldenEye 007 is included in the batch, and while it's the biggie of the bunch, more games were announced.
+Nintendo plans to add  =Pilotwings 64, Mario Party, and Mario Party 2 this year.
+ Read more]]></summary>
+        <author>
+            <name>Stephany Nunneley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alberto García: Adding software to the Steam Deck with systemd-sysext]]></title>
+        <id>http://blogs.igalia.com/berto/?p=833</id>
+        <link href="https://blogs.igalia.com/berto/2022/09/13/adding-software-to-the-steam-deck-with-systemd-sysext/"/>
+        <updated>2022-09-13T18:00:38.000Z</updated>
+        <summary type="html"><![CDATA[Introduction: an immutable OS
+The Steam Deck runs SteamOS, a single-user operating system based on Arch Linux. Although derived from a standard, package-based distro, the OS in the Steam Deck is immutable and system updates replace the contents of the root filesystem atomically instead of using the package manager.
+An immutable OS makes the system more stable and its updates less error-prone, but users cannot install additional packages to add more software. This is not a problem for most users since they are only going to run Steam and its games (which are stored in the home partition). Nevertheless, the OS also has a desktop mode which provides a standard Linux desktop experience, and here it makes sense to be able to install more software.
+How to do that though? It is possible for the u…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To defeat FTC lawsuit, Meta demands 100+ rivals share biggest trade secrets]]></title>
+        <id>https://arstechnica.com/?p=1880953</id>
+        <link href="https://arstechnica.com/?p=1880953"/>
+        <updated>2022-09-13T17:25:35.000Z</updated>
+        <summary type="html"><![CDATA[Snap claims Meta wants “to reconstruct virtually every decision Snap has made.”]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Taiwan’s GlobalWafers races to break ground in Texas before tax breaks dissolve]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/13/taiwans_globalwafers_races_to_break/</id>
@@ -40,6 +76,26 @@ Fast forward some six years, and we get a brand new game in the series – and i
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tiny robots made of “galinstan” can run faster than a (scaled down) cheetah]]></title>
+        <id>https://arstechnica.com/?p=1880545</id>
+        <link href="https://arstechnica.com/?p=1880545"/>
+        <updated>2022-09-13T17:15:00.000Z</updated>
+        <summary type="html"><![CDATA[Most soft robots are slow, but these feel the need for speed.]]></summary>
+        <author>
+            <name>Ars Contributors</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi OS improves menus, networking, camera possibilities]]></title>
+        <id>https://arstechnica.com/?p=1880815</id>
+        <link href="https://arstechnica.com/?p=1880815"/>
+        <updated>2022-09-13T17:13:54.000Z</updated>
+        <summary type="html"><![CDATA[Setting up Wi-Fi, and using a camera for all kinds of projects, both get better.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nintendo teases Mario Kart 8 Deluxe Booster Course Wave 3 by showing off two of its tracks]]></title>
         <id>https://www.vg247.com/nintendo-teases-mario-kart-8-deluxe-booster-course-wave-3</id>
         <link href="https://www.vg247.com/nintendo-teases-mario-kart-8-deluxe-booster-course-wave-3"/>
@@ -50,6 +106,16 @@ Nintendo didn't reveal the other tracks included in the upcoming wave, but accor
  Read more]]></summary>
         <author>
             <name>Stephany Nunneley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo announces a boatload of classic game ports, Japanese RPGs for Switch]]></title>
+        <id>https://arstechnica.com/?p=1880915</id>
+        <link href="https://arstechnica.com/?p=1880915"/>
+        <updated>2022-09-13T16:56:44.000Z</updated>
+        <summary type="html"><![CDATA[A new Fire Emblem and an anime-inspired rhythm boxing game feature.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
         </author>
     </entry>
     <entry>
@@ -73,6 +139,16 @@ Originally confirmed to Eurogamer by Shigeru Miyamoto in 2015, Nintendo finally 
  Read more]]></summary>
         <author>
             <name>Tom Phillips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Artist uses AI to extract color palettes from text descriptions]]></title>
+        <id>https://arstechnica.com/?p=1880827</id>
+        <link href="https://arstechnica.com/?p=1880827"/>
+        <updated>2022-09-13T16:44:16.000Z</updated>
+        <summary type="html"><![CDATA[New technique uses an image synthesis model and some JavaScript to work its magic.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
         </author>
     </entry>
     <entry>
@@ -19601,16 +19677,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[A list of basic Linux networking commands that will help you troubleshoot network issues, monitor packets, connect devices, and much more.]]></summary>
         <author>
             <name>Sagar Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Startup wants to build a space station that refuels satellites by 2025]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/31/space-station-refueling/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/31/space-station-refueling/"/>
-        <updated>2022-08-31T06:18:13.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Orbit Fab hopes to charge $20m for a hydrazine refill – and you thought fuel prices down here were bad!</h4> <p>Spacecraft running low on fuel could get a refill from an orbital station by the year 2025, according to a startup named Orbit Fab that reckons it can charge $20 million to top up your tank.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
