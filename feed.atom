@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-13T08:31:30.564Z</updated>
+    <updated>2022-09-13T09:26:27.472Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Metal: Hellsinger review: a rhythm shooter that can be anybody's tempo]]></title>
+        <id>https://www.rockpapershotgun.com/metal-hellsinger-review</id>
+        <link href="https://www.rockpapershotgun.com/metal-hellsinger-review"/>
+        <updated>2022-09-13T09:04:08.000Z</updated>
+        <summary type="html"><![CDATA[Correctly striking a succession of notes in a rhythm game gives me a huge high, but I'm more familiar with feeling the corresponding low. A succession of missed notes whizzing past sounds like an ode to my failure, and in mashups that mix demanding rhythms with another genre - like Crypt Of The Necrodancer, say - these reminders of my musical inadequacy often drown out even the simplest pleasures. 
+
+Often but not always. Metal: Hellsinger's mix of rhythm game and Doom 2016-style shooter kept me tapping my foot as I battled through hell - even as I failed regularly, and even as someone who doesn't care for metal music.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roadwarden review - one of the finest historical fantasies you’ll play]]></title>
+        <id>https://www.eurogamer.net/roadwarden-review-one-of-the-finest-historical-fantasies-youll-play</id>
+        <link href="https://www.eurogamer.net/roadwarden-review-one-of-the-finest-historical-fantasies-youll-play"/>
+        <updated>2022-09-13T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[You spend a lot of your time in Roadwarden tracing the footsteps of the previous roadwarden - a man named Asterion sent, like you, into a swampy, forested peninsula to safeguard the paths against beasts and the elements, tend to a handful of villages, and assess the region's resources on behalf of a merchant guild back in the big city. Asterion haunts the peninsula much like the protagonist’s identity in Disco Elysium - a game with which Roadwarden has much in common, for all its Robin Hobb-esque historical fantasy backdrop. He exists now as a trail of unkept promises, deliveries not made, conversations unfinished and grand plans that seemingly went nowhere. 
+
+
+I admit, when I started the game I felt a little contemptuous of him. Roadwarden's setting is hardly gigantic – dredged map node by node from the fog of war, it consists of a single road looping a dense, watchful wilderness – and many of the problems you encounter seem trifling. A monk awaits a package of fine quills. A couple of foragers need help lassoing and subduing a massive, flightless bird. A carpenter wants you to shore up a ford. This isn't Dragon Age or Skyrim, but a deceptively sleepy choose-your-own adventure with deceptively delicate RPG appendages, its locations consisting of terse yet evocative descriptions and nested dialogue choices, beautiful eight-colour isometric dioramas and a soundtrack of animal sounds and melancholy guitar. 
+
+
+There are no armies to slay and no ability trees to scale, though you might pick up a new axe and a fancier padded jacket on your voyages. Your first few conversations with soldiers and innkeepers suggest a society of needy bystanders to be systematically won over by fetching herbs and rescuing lost puppies. How hard can it be, I thought. But the more I played, the more setbacks I encountered, and the more I came to identify with my missing predecessor. 
+ 
+Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Halo-utvecklaren 343 Industries grundare, Bonnie Ross, lämnar företaget]]></title>
+        <id>https://www.fz.se/artikel/291432</id>
+        <link href="https://www.fz.se/artikel/291432-halo-utvecklaren-343-industries-grundare-bonnie-ross-lamnar-foretaget"/>
+        <updated>2022-09-13T08:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Tråkigt nog av medicinska anledningar.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geforce RTX 4090 från Zotac tar plats framför kameran]]></title>
+        <id>https://www.sweclockers.com/artikel/34913</id>
+        <link href="https://www.sweclockers.com/artikel/34913-geforce-rtx-4090-fran-zotac-tar-plats-framfor-kameran"/>
+        <updated>2022-09-13T08:54:09.000Z</updated>
+        <summary type="html"><![CDATA[Utöver tilltagen storlek syns kylardesign med rundade hörn och Nvidias uppdaterade typsnitt på kartongen.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One month after Black Hat exposure HP enterprise kit still unpatched]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/13/firmware_bugs_hp/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/13/firmware_bugs_hp/"/>
+        <updated>2022-09-13T08:30:14.000Z</updated>
+        <summary type="html"><![CDATA[<h4>What could go wrong with leaving firmware open after world's biggest hacker convention talk?</h4> <p>Multiple high-severity firmware bugs in HP enterprise computers remain unpatched, some more than a year after Binarly security researchers disclosed the vulnerabilities to HP and then discussed them at the Black Hat security conference last month.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sony's big September State of Play is today]]></title>
         <id>https://www.vg247.com/playstation-state-of-play-september-2022</id>
@@ -18430,41 +18493,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Sales of CPUs drop by 33.7% year-over-year in Q2 2022, JPR says.]]></summary>
         <author>
             <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First US death linked to monkeypox reported in immunocompromised adult in Texas]]></title>
-        <id>https://arstechnica.com/?p=1877105</id>
-        <link href="https://arstechnica.com/?p=1877105"/>
-        <updated>2022-08-30T21:03:26.000Z</updated>
-        <summary type="html"><![CDATA[Officials are still determining the exact cause of death, which occurred August 28.]]></summary>
-        <author>
-            <name>Beth Mole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VMware CEO bats away Broadcom concerns – it’s just ‘the next transition’]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/08/30/vmware_broadcom_/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/08/30/vmware_broadcom_/"/>
-        <updated>2022-08-30T20:53:58.000Z</updated>
-        <summary type="html"><![CDATA[<h4>And so is vSphere for Arm: CEO tells <i>Reg</i> he’s ‘beating up’ the exec responsible for the port</h4> <p><strong>VMware Explore</strong>  VMware is working to bring its flagship virtualization stack to all major processor architectures, CEO Raghu Raghuram said at his company’s Explore conference in San Francisco today.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GTA5's best graphics mod is now available for free download]]></title>
-        <id>https://www.rockpapershotgun.com/gta5s-best-graphics-mod-is-now-available-for-free-download</id>
-        <link href="https://www.rockpapershotgun.com/gta5s-best-graphics-mod-is-now-available-for-free-download"/>
-        <updated>2022-08-30T20:42:39.000Z</updated>
-        <summary type="html"><![CDATA[Most 'realistic graphics' mods make games look worse, but that's not the case with NaturalVision Evolved. The long-in-development Grand Theft Auto 5 mod is a comprehensive revamp of lighting, textures, models and much more, but it remains faithful to the art direction of the base game. 
-
-You can now download a Single Player Beta of the mod - and even if you don't plan on doing that, it's worth watching the trailer below.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
         </author>
     </entry>
 </feed>
