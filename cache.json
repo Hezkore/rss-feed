@@ -141,6 +141,26 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/09/your-steam-deck-deserves-a-deckmate/",
+          "author": "Liam Dawe",
+          "description": "The creator of the DeckMate system sent over a bundle of their accessories for me to try and I was instantly sold on the whole thing.",
+          "link": "https://www.gamingonlinux.com/2022/09/your-steam-deck-deserves-a-deckmate/",
+          "publishedOn": "2022-09-13T13:23:38.000Z",
+          "wordCount": 1229,
+          "title": "Your Steam Deck deserves a DeckMate",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1282916106id21587gol.jpg"
+        },
+        {
+          "id": "https://www.gamingonlinux.com/2022/09/w4-games-raised-8-5-million-usd-to-support-godot-engine/",
+          "author": "Liam Dawe",
+          "description": "W4 Games is a new company from the creator of Godot Engine along with long-time contributors, and now they've managed to gain plenty of funding.",
+          "link": "https://www.gamingonlinux.com/2022/09/w4-games-raised-8-5-million-usd-to-support-godot-engine/",
+          "publishedOn": "2022-09-13T13:02:47.000Z",
+          "wordCount": 1186,
+          "title": "W4 Games raised $8.5 million USD to support Godot Engine",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/632254874id21591gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/09/valheim-gets-more-teasers-of-the-mistlands/",
           "author": "Liam Dawe",
           "description": "Iron Gate assure us it's coming but they're not quite ready to set a date for The Mistlands update to Valheim.",
@@ -907,6 +927,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/nintendo-direct-september-2022-live-report",
+          "author": "Martin Robinson",
+          "description": "Happy Nintendo Direct day! And this promises to be a very happy one indeed, with 40 minutes of news and - fingers crossed - potential for a big update on Breath of the Wild's sequel. There's room for plenty more besides too, so join us from 3pm BST for all the fun! (And the inevitable disappointment when we don't get precisely what we want, of course. Traditions!) \n Read more",
+          "link": "https://www.eurogamer.net/nintendo-direct-september-2022-live-report",
+          "publishedOn": "2022-09-13T12:51:42.000Z",
+          "wordCount": 4450,
+          "title": "Nintendo Direct September 2022 live report",
+          "imageUrl": "https://assets.reedpopcdn.com/v2wVtQ8WPaqeWGBLZvA9J.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/v2wVtQ8WPaqeWGBLZvA9J.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/forza-horizon-5-character-customisation-now-includes-hearing-aids",
           "author": "Liv Ngan",
@@ -4771,6 +4801,26 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Fedora-37-Beta",
+          "author": null,
+          "description": "Fedora 37 beta has been successfully released on-time as a development test release ahead of next month's planned stable release...",
+          "link": "https://www.phoronix.com/news/Fedora-37-Beta",
+          "publishedOn": "2022-09-13T13:30:00.000Z",
+          "wordCount": 1286,
+          "title": "Fedora 37 Beta Now Available For Testing",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/AMDGPU-New-Linux-Firmware-13-9",
+          "author": null,
+          "description": "AMD landed several new GPU firmware binaries into the linux-firmware.git repository this morning for unreleased hardware...",
+          "link": "https://www.phoronix.com/news/AMDGPU-New-Linux-Firmware-13-9",
+          "publishedOn": "2022-09-13T13:13:26.000Z",
+          "wordCount": 1517,
+          "title": "AMD Lands New GPU Firmware Binaries In Linux-Firmware.Git",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Mesa-22.3-More-Zink",
           "author": null,
@@ -10610,6 +10660,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2672/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/what_if_2_flowchart.png\" title=\"Don't worry, the dogs are all fine. That's actually kind of the problem.\" alt=\"Don't worry, the dogs are all fine. That's actually kind of the problem.\" />",
+          "link": "https://xkcd.com/2672/",
+          "publishedOn": "2022-09-13T00:00:00.000Z",
+          "wordCount": 236,
+          "title": "What If? 2 Flowchart",
+          "imageUrl": "https://imgs.xkcd.com/comics/what_if_2_flowchart_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2671/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/rotation.png\" title=\"It's okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that's just as cool.\" alt=\"It's okay, we can just feed the one-pixel image into an AI upscaler and recover the original image, or at least one that's just as cool.\" />",
@@ -10666,6 +10726,16 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1880745",
+          "author": "Eric Berger",
+          "description": "\"Why, Mr. Spock, you almost make me believe in miracles.\"",
+          "link": "https://arstechnica.com/?p=1880745",
+          "publishedOn": "2022-09-13T13:29:03.000Z",
+          "wordCount": 1698,
+          "title": "As summer turns to fall, ULA still waiting for its BE-4 rocket engines",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/FbHt4smUYAck0ar-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1880622",
           "author": "Ron Amadeo",
@@ -12113,6 +12183,26 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291439",
+          "author": null,
+          "description": "",
+          "link": "https://www.fz.se/artikel/291439-har-ser-du-nintendo-direct-streamen",
+          "publishedOn": "2022-09-13T13:42:56.000Z",
+          "wordCount": 1769,
+          "title": "Här ser du Nintendo Direct-streamen",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291439"
+        },
+        {
+          "id": "https://www.fz.se/artikel/291438",
+          "author": null,
+          "description": "Ganska väntat när ingen spelar.",
+          "link": "https://www.fz.se/artikel/291438-babylons-fall-faller-servrarna-slacks-efter-bara-ett-ar",
+          "publishedOn": "2022-09-13T13:36:12.000Z",
+          "wordCount": 1815,
+          "title": "Babylon's Fall faller - servrarna släcks efter bara ett år",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291438"
+        },
         {
           "id": "https://www.fz.se/artikel/291436",
           "author": null,
@@ -14561,6 +14651,16 @@
       "siteUrl": "https://shencomix.tumblr.com/",
       "articles": [
         {
+          "id": "https://shencomix.tumblr.com/post/695284609011859457",
+          "author": null,
+          "description": "",
+          "link": "https://shencomix.tumblr.com/post/695284609011859457",
+          "publishedOn": "2022-09-13T13:17:54.000Z",
+          "wordCount": 706,
+          "title": "Untitled",
+          "imageUrl": "https://64.media.tumblr.com/c0143c3fec092ce2f3a46e8365e8161a/02f8fb4375a385b0-e9/s1280x1920/8552cb2b20e171812c3ed1e7315dd1879631c410.png"
+        },
+        {
           "id": "https://shencomix.tumblr.com/post/694921042737725440",
           "author": null,
           "description": "",
@@ -14617,6 +14717,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/13/backblaze_ssds_hdds/",
+          "author": null,
+          "description": "<h4>The ones used as boot drives in its datacenters seem to be, but perhaps not over time</h4> <p>Cloudy backup and storage provider Backblaze has found that flash SSDs are more reliable than hard drives, at least as far as the boot drives deployed in its datacenters go, but cautions this could change in future as the SSDs age.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/13/backblaze_ssds_hdds/",
+          "publishedOn": "2022-09-13T13:01:56.000Z",
+          "wordCount": 1599,
+          "title": "Backblaze thinks SSDs are more reliable than hard drives",
+          "imageUrl": "https://regmedia.co.uk/2021/09/08/shutterstock_sata.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/13/oracle_launches_heatwave_in_aws/",
           "author": null,
