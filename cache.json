@@ -80,16 +80,6 @@
           "wordCount": 7635,
           "title": "Install ImageMagick on Ubuntu",
           "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/08/install-image-magick-ubuntu.png"
-        },
-        {
-          "id": "https://itsfoss.com/?p=101504",
-          "author": "Abhishek Prakash",
-          "description": "Learn how to change the lid closing behavior with Ubuntu and make it not go in suspend mode when the laptop lid is closed.",
-          "link": "https://itsfoss.com/laptop-lid-suspend-ubuntu/",
-          "publishedOn": "2022-08-31T10:31:36.000Z",
-          "wordCount": 6961,
-          "title": "Don’t Suspend Ubuntu When Laptop Lid is Closed",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/08/ubuntu-laptop-lid-closing-behavior.png"
         }
       ]
     },
@@ -909,16 +899,6 @@
           "wordCount": 1220,
           "title": "SokoChess combines Chess with the Sokoban block-pushing formula",
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/820072701id21517gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/08/valheim-gets-patched-to-prevent-the-world-resetting/",
-          "author": "Liam Dawe",
-          "description": "Quite an important update has rolled out for the open-world survival game Valheim, with a bunch of changes related to the saving system to prevent some big problems.",
-          "link": "https://www.gamingonlinux.com/2022/08/valheim-gets-patched-to-prevent-the-world-resetting/",
-          "publishedOn": "2022-08-31T11:17:08.000Z",
-          "wordCount": 1237,
-          "title": "Valheim gets patched to prevent the world resetting",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/667515116id21516gol.jpg"
         }
       ]
     },
@@ -927,6 +907,56 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/sony-shows-first-peek-at-playstation-stars-collectibles",
+          "author": "Tom Phillips",
+          "description": "The upcoming PlayStation Stars loyalty programme got a spotlight in tonight's State of Play broadcast, with a peek at some of the digital collectibles you'll be able to unlock by completing tasks.\r\n\n\r\nWe also got word on when we'd see the programme launch - beginning in \"some regions in Asia\" from late September onwards. America and Europe will then see Stars arrive \"in the weeks that follow\".\r\n\n\r\nCollectibles shown included 3D models of Ape Escape, Sony's bizarre ChordMachine boombox, a PlayStation 3, Sony's feline mascot Toro, the PocketStation peripheral.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sony-shows-first-peek-at-playstation-stars-collectibles",
+          "publishedOn": "2022-09-13T22:56:37.000Z",
+          "wordCount": 4489,
+          "title": "Sony shows first peek at PlayStation Stars collectibles",
+          "imageUrl": "https://assets.reedpopcdn.com/Untitled-1_B2duD01.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Untitled-1_B2duD01.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/here-is-another-look-at-god-of-war-ragnarok-as-accompanying-controller-revealed",
+          "author": "Victoria Kennedy",
+          "description": "With God of War's highly anticipated sequel inching ever closer, Sony Santa Monica has given us another look at Ragnarök.\r\n\n\r\nClosing out tonight's State of Play, we were invited to \"set out on an epic and unflinching journey as Kratos and Atreus struggle with holding on and letting go\" in a new story trailer. We can see the towing Tyr (the other god of war) in more detail in this new tease, as well as swelling music and heart pounding scenes - I mean, of course.\r\n\n\r\nYou can see this trailer for yourself below.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/here-is-another-look-at-god-of-war-ragnarok-as-accompanying-controller-revealed",
+          "publishedOn": "2022-09-13T22:48:32.000Z",
+          "wordCount": 4571,
+          "title": "Here's a new look at God of War Ragnarök, as accompanying controller revealed",
+          "imageUrl": "https://assets.reedpopcdn.com/Rag-gow-Loki.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Rag-gow-Loki.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/team-ninja-reveals-ps5-exclusive-action-rpg-rise-of-the-ronin",
+          "author": "Ed Nightingale",
+          "description": "Team Ninja has revealed its PlayStation 5 exclusive Rise of the Ronin.\r\n\n\r\nAs the developer is known for, it's another action RPG, this time set in 1863 Japan as civil war rages and a western influence permeates.\r\n\n\r\nIt's set for release in 2024 as a PS5 console exclusive, check out a first look at gameplay in the trailer below.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/team-ninja-reveals-ps5-exclusive-action-rpg-rise-of-the-ronin",
+          "publishedOn": "2022-09-13T22:39:55.000Z",
+          "wordCount": 4534,
+          "title": "Team Ninja reveals PS5 exclusive action RPG Rise of the Ronin",
+          "imageUrl": "https://assets.reedpopcdn.com/rise-of-the-ronin.png/BROK/thumbnail/1600x900/format/jpg/quality/80/rise-of-the-ronin.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/yakuza-samurai-spin-off-like-a-dragon-ishin-heading-to-ps4-and-ps5-next-year",
+          "author": "Matt Wales",
+          "description": "Sega has announced a western release for historical Yakuza spin-off Like a Dragon: Ishin, which has been \"rebuilt from the ground up\" and will be making its way to PS4 and PS5 next February.\r\n\n\r\nLike a Dragon: Ishin originally released for PS3 and PS4 in Japan (under the name Ryū ga Gotoku Ishin!) back in 2014, transplanting the chaotic Yakuza formula to the Late Edo Period for a historical slice of samurai action.\r\n\n\r\nIt follows protagonist Sakamoto Ryōma as he returns to his home in Tosa where, after a run-in with a high-ranking samurai, he's sentenced to be executed.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/yakuza-samurai-spin-off-like-a-dragon-ishin-heading-to-ps4-and-ps5-next-year",
+          "publishedOn": "2022-09-13T22:37:33.000Z",
+          "wordCount": 4519,
+          "title": "Yakuza samurai spin-off Like a Dragon: Ishin heading to PS4 and PS5 next year",
+          "imageUrl": "https://assets.reedpopcdn.com/Like-a-Dragon-Ishin.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Like-a-Dragon-Ishin.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/everything-announced-in-sonys-september-2022-playstation-state-of-play-broadcast",
+          "author": "Wesley Yin-Poole",
+          "description": "Sony's September 2022 State of Play broadcast is over! In case you missed it, here's everything Sony announced during its 20 minute show, from Tekken 8 to God of War Ragnarok - including all the trailers.\r\n\n\r\nState of Play kicked off with a trailer for Bandai Namco's Tekken 8, captured on PlayStation 5. Tekken veterans Jin Kazama and Kazuya Mishima knocked lumps out of each other in the rain. Yep, it's a new Tekken!\r\n\n\r\nNext up, a game for PSVR2: Star Wars Tales from the Galaxy's Edge Enhanced Edition. This one's out next year.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/everything-announced-in-sonys-september-2022-playstation-state-of-play-broadcast",
+          "publishedOn": "2022-09-13T22:28:10.000Z",
+          "wordCount": 4729,
+          "title": "Everything announced in Sony's September 2022 PlayStation State of Play broadcast",
+          "imageUrl": "https://assets.reedpopcdn.com/Untitled-1-(2).jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Untitled-1-(2).jpg"
+        },
         {
           "id": "https://www.eurogamer.net/tekken-8-officially-unveiled-during-sonys-state-of-play",
           "author": "Victoria Kennedy",
@@ -3586,36 +3616,6 @@
           "wordCount": 4451,
           "title": "Immortality will be available on mobile via Netflix \"very soon\"",
           "imageUrl": "https://assets.reedpopcdn.com/immortality-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/immortality-screenshot.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/scammers-posing-as-steam-curators-snuffed-out-by-indie-dev",
-          "author": "Liv Ngan",
-          "description": "A number of Steam curator groups have been removed from the platform after a developer managed to figure out they were in fact scammers.\r\n\nBROK the InvestiGator, developed by solo indie dev Cowcat Games, released on 26th August on Steam and GOG. On Steam, Cowcat noted that BROK had received mostly positive reviews from players, gaming sites and curators alike.\n\r\nTwo days later, Cowcat posted a Twitter thread regarding some unusual behaviour from curators.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/scammers-posing-as-steam-curators-snuffed-out-by-indie-dev",
-          "publishedOn": "2022-08-31T10:57:10.000Z",
-          "wordCount": 4858,
-          "title": "Scammers posing as Steam curators snuffed out by indie dev",
-          "imageUrl": "https://assets.reedpopcdn.com/eng_15.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/eng_15.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/activision-battles-to-contain-call-of-duty-modern-warfare-2-campaign-gameplay-leak",
-          "author": "Wesley Yin-Poole",
-          "description": "Activision is currently battling to contain a Call of Duty: Modern Warfare 2 gameplay leak that popped up online last night.\r\n\n\r\nThe campaign gameplay appears to have originated from Twitter account @3rbbcod. It shows new vehicle mechanics, including hijacking, leaping from vehicle to vehicle and vehicle destruction.\r\n\n\r\nThese new mechanics, already discussed by principal Modern Warfare 2 developer Infinity Ward, are also coming to battle royale Warzone 2.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/activision-battles-to-contain-call-of-duty-modern-warfare-2-campaign-gameplay-leak",
-          "publishedOn": "2022-08-31T10:50:46.000Z",
-          "wordCount": 4523,
-          "title": "Activision battles to contain Call of Duty: Modern Warfare 2 campaign gameplay leak",
-          "imageUrl": "https://assets.reedpopcdn.com/mw2-ghost.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/mw2-ghost.jpeg"
-        },
-        {
-          "id": "https://www.eurogamer.net/terraria-first-steam-game-to-hit-a-million-reviews-and-maintain-overwhelmingly-positive-status",
-          "author": "Ed Nightingale",
-          "description": "Terraria is the first game on Steam to cross a million reviews and maintain an Overwhelmingly Positive status.\r\n\n\r\nThe game has received 1,000,308 reviews, 97.86 percent of which are positive, and has an overall rating of 97.11 percent.\r\n\n\r\nOverwhelmingly Positive games are those with a rating of over 95 percent and at least 500 reviews.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/terraria-first-steam-game-to-hit-a-million-reviews-and-maintain-overwhelmingly-positive-status",
-          "publishedOn": "2022-08-31T10:34:34.000Z",
-          "wordCount": 4399,
-          "title": "Terraria first Steam game to hit a million reviews and maintain Overwhelmingly Positive status",
-          "imageUrl": "https://assets.reedpopcdn.com/Everything-New-in-Terraria-1.4.4-(Updated)-0-18-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Everything-New-in-Terraria-1.4.4-(Updated)-0-18-screenshot.png"
         }
       ]
     },
@@ -3624,6 +3624,36 @@
       "feedUrl": "https://www.vg247.com/feed",
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
+        {
+          "id": "https://www.vg247.com/new-god-of-war-ragnarok-trailer",
+          "author": "Dom Peppiatt",
+          "description": "The end is nigh. The search for Tyr draws to a close. Kratos is being made to confront the sins of his past, the blood on his hands. And Atreus is forced to watch. God of War Ragnarok arrives in November, and ahead of the game's eagerly-anticipated release date, Sony have shown off perhaps the game's most revealing trailer yet.\nThe trailer, which was debuted during tonight's State of Play stream, included looks at both pre-rendered scenes as well as in-engine gameplay, giving us a delectible taste of the sort of experience we'll have with the Norse father/son combo later this year. \nCheck it out below.\n Read more",
+          "link": "https://www.vg247.com/new-god-of-war-ragnarok-trailer",
+          "publishedOn": "2022-09-13T22:58:42.000Z",
+          "wordCount": 4848,
+          "title": "New God of War Ragnarok trailer shows off more combat, more story, and more of that gorgeous world",
+          "imageUrl": "https://asset.vg247.com/god_of_war_ragnarock_state_of_play.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/god_of_war_ragnarock_state_of_play.jpg"
+        },
+        {
+          "id": "https://www.vg247.com/stellar-blade-gameplay-trailer-brings-some-character-action-goodness-to-the-sony-state-of-play",
+          "author": "Connor Makar",
+          "description": "Great news for you character-action fans watching the Sony State of Play tonight, as Stellar Blade (formerly Project Eve) was just shown off via a rad new gameplay and story trailer. The game got much more than just a proper name though, as we now know the title will be coming exclusively to the PS5 in 2023.\nThe new trailer can be found embedded below, which showcases a lot of excellent high fying, combo-centric melee action like we got only a glimpse off last year in the initial reveal trailer for Project Eve. Now, it looks like that action has only be turned up to 11 in the time away from the spotlight, with sci-fi fighting that has us foaming at the mouth.\nIn the trailer, we're introduced to a variety of new friendly characters that come alongside us in a journey across a ruined and largely abbandoned world. It seems like a gigantic disaster botched the place up something serious, leading to a variety of nasty (and frankly, brilliant looking) enemies all over the gaff.\n Read more",
+          "link": "https://www.vg247.com/stellar-blade-gameplay-trailer-brings-some-character-action-goodness-to-the-sony-state-of-play",
+          "publishedOn": "2022-09-13T22:42:17.000Z",
+          "wordCount": 4745,
+          "title": "Stellar Blade gameplay trailer brings some character-action goodness to the Sony State of Play",
+          "imageUrl": "https://asset.vg247.com/stellar_blade_header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/stellar_blade_header.jpg"
+        },
+        {
+          "id": "https://www.vg247.com/nioh-developer-team-ninja-announces-new-sprawling-rpg-rise-of-the-ronin-a-ps5-console-exclusive",
+          "author": "Dom Peppiatt",
+          "description": "Team Ninja has revealed another game coming to PlayStation 5 as a console exclusive in a few years time – the 'sprawling RPG', Rise of the Ronin.\nYou can check out the debut trailer for the game embedded below.\n\"It's darkest before dawn,\" reads a blurb for the game. \"In Rise of the Ronin you will explore an evolving world as you fight to forge a new era for Japan.\n Read more",
+          "link": "https://www.vg247.com/nioh-developer-team-ninja-announces-new-sprawling-rpg-rise-of-the-ronin-a-ps5-console-exclusive",
+          "publishedOn": "2022-09-13T22:35:43.000Z",
+          "wordCount": 4943,
+          "title": "Nioh developer Team Ninja announces new 'sprawling RPG', Rise of the Ronin – a PS5 console exclusive",
+          "imageUrl": "https://asset.vg247.com/Rise-of-the-ronin.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Rise-of-the-ronin.jpg"
+        },
         {
           "id": "https://www.vg247.com/like-a-dragon-ishin-remake-revealed-at-sony-state-of-play",
           "author": "Connor Makar",
@@ -5093,16 +5123,6 @@
           "wordCount": 4808,
           "title": "World of Warcraft Lich King Classic's pre-patch is out, ready to do bad DPS again 14 years later?",
           "imageUrl": "https://asset.vg247.com/lich_king.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/lich_king.jpg"
-        },
-        {
-          "id": "https://www.vg247.com/quantic-dream-has-been-acquired-by-netease-games-will-continue-to-operate-independently",
-          "author": "Connor Makar",
-          "description": "Netease, the developer and publisher behind numerous titles including Naraka: Bladepoint and Diablo Immortal has announced the latest studio to be brought under their umbrella: Quantic Dream. This French developer is known for creating a range of narrative-focused titles including Heavy Rain, Detroit Become: Human, and Beyond Two Souls.\nThis marks the first European company to be acquired by Netease, as the company stretches its financial fingers across the world to pluck up studios left and right. With this particular acquisition, the folks at Netease state the studio will “continue to operate independently” as it develops titles across all platforms.\nThe studio will also apparently continue to support and publish third-party developed titles which is great news if you liked the look of Under the Waves — a game first revealed at Gamescom earlier this month which is published by Quantic Dream and developed by another French team at Parallel Studios.\n Read more",
-          "link": "https://www.vg247.com/quantic-dream-has-been-acquired-by-netease-games-will-continue-to-operate-independently",
-          "publishedOn": "2022-08-31T10:39:02.000Z",
-          "wordCount": 4802,
-          "title": "Quantic Dream has been acquired by Netease Games — will continue to \"operate independently\"",
-          "imageUrl": "https://asset.vg247.com/quantic_netease.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/quantic_netease.jpg"
         }
       ]
     },
@@ -6250,16 +6270,6 @@
           "wordCount": 1403,
           "title": "Genode OS Framework 22.08 With Improvements For Mobile Phone OS Ambitions",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/MGLRU-Performance-OpenWRT",
-          "author": null,
-          "description": "For those running the embedded OpenWrt Linux operating system for routers and other networking devices or just running a memory-constrained MIPS Linux system, the forthcoming Multi-Gen LRU \"MGLRU\" kernel feature is looking very good on that front...",
-          "link": "https://www.phoronix.com/news/MGLRU-Performance-OpenWRT",
-          "publishedOn": "2022-08-31T10:40:00.000Z",
-          "wordCount": 1342,
-          "title": "MGLRU Linux Performance Looking Very Good For OpenWrt Router Use",
-          "imageUrl": null
         }
       ]
     },
@@ -6268,6 +6278,16 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/team-ninja-are-making-open-world-samurai-game-rise-of-the-ronin",
+          "author": "Graham Smith",
+          "description": "During this evening's State Of Play livestream, Team Ninja announced their next game. Rise Of The Ronin is an open world game set in Japan in the wake of country opening its borders to the West, with the trailer showing hang gliding, horse riding, rooftop stealth, and combat involving both swords and guns.\r\n\nIt's also referred to as a \"console exclusive\" for PlayStation, which means it'll probably come to PC.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/team-ninja-are-making-open-world-samurai-game-rise-of-the-ronin",
+          "publishedOn": "2022-09-13T22:59:14.000Z",
+          "wordCount": 4810,
+          "title": "Team Ninja are making open world samurai game, Rise Of The Ronin",
+          "imageUrl": "https://assets2.rockpapershotgun.com/rise-of-the-ronin_YWGgxoj.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/rise-of-the-ronin_YWGgxoj.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/soviet-inspired-platformer-little-orpheus-finally-gets-its-pc-release",
           "author": "Graham Smith",
@@ -7767,16 +7787,6 @@
           "wordCount": 4872,
           "title": "Netflix’s Cyberpunk 2077 anime show Edgerunners streams into your brain from September 13th",
           "imageUrl": "https://assets2.rockpapershotgun.com/Cyberpunk-Edgerunners_VathHsL.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Cyberpunk-Edgerunners_VathHsL.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/shovel-knight-dig-is-a-procedurally-generated-platformer-rocking-up-on-steam-in-september",
-          "author": "CJ Wheeler",
-          "description": "Platforming hero Shovel Knight dons their horned helmet again on September 23rd when the series next instalment, Shovel Knight Dig, arrives on Steam. This time, ol’ Shoves and pal Shield Knight are tangling with the nefarious Drill Knight, who’s pinched all the stuff from their campsite, believe it or not. Devs Yacht Club Games enlisted YouTubers Arin Hanson and Jirard ‘The Completionist’ Khalil to announce the game, and you can watch the trailer below.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/shovel-knight-dig-is-a-procedurally-generated-platformer-rocking-up-on-steam-in-september",
-          "publishedOn": "2022-08-31T10:33:31.000Z",
-          "wordCount": 4836,
-          "title": "Shovel Knight Dig is a procedurally generated platformer rocking up on Steam in September",
-          "imageUrl": "https://assets2.rockpapershotgun.com/Shovel-Knight-Dig-main.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Shovel-Knight-Dig-main.jpg"
         }
       ]
     },
@@ -11217,6 +11227,16 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1881084",
+          "author": "John Timmer",
+          "description": "When it gets too hot, it unrolls a reflective material to block absorption of light.",
+          "link": "https://arstechnica.com/?p=1881084",
+          "publishedOn": "2022-09-13T21:39:53.000Z",
+          "wordCount": 1915,
+          "title": "Device passively registers temperature, switches from heating to cooling",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/Screen-Shot-2022-09-13-at-5.04.11-PM-760x380.png"
+        },
+        {
           "id": "https://arstechnica.com/?p=1881040",
           "author": "Jon Brodkin",
           "description": "Musk wants out, but shareholders approve $54.20-per-share purchase agreement.",
@@ -14372,16 +14392,6 @@
           "wordCount": 1899,
           "title": "Sony och Tencent köper 30 % av Elden Ring-studion From Software",
           "imageUrl": "https://www.fz.se/artikel/og-image/291298"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291296",
-          "author": null,
-          "description": "Vissa tidiga köpare har kunnat spela det.",
-          "link": "https://www.fz.se/artikel/291296-fifa-23-tycks-ha-lackt-en-manad-innan-releasen",
-          "publishedOn": "2022-08-31T10:50:00.000Z",
-          "wordCount": 1784,
-          "title": "Fifa 23 tycks ha läckt - en månad innan releasen",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291296"
         }
       ]
     },
@@ -15089,16 +15099,6 @@
           "wordCount": 1774,
           "title": "LG visar upp böjbara 42-tummaren OLED Flex",
           "imageUrl": "https://www.sweclockers.com/artikel/34848/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34846",
-          "author": null,
-          "description": "Enligt ny rapport från Jon Peddie Research har Nvidias grafikkortsförsäljning sjunkit med en fjärdedel under årets andra kvartal.",
-          "link": "https://www.sweclockers.com/artikel/34846-nvidias-grafikkortsforsaljning-har-sjunkit-med-26-procent",
-          "publishedOn": "2022-08-31T10:31:12.000Z",
-          "wordCount": 1732,
-          "title": "Nvidias grafikkortsförsäljning har sjunkit med 26 procent",
-          "imageUrl": "https://www.sweclockers.com/artikel/34846/og-image"
         }
       ]
     },
@@ -15367,6 +15367,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/13/microsoft_patch_tuesday_september_2022/",
+          "author": null,
+          "description": "<h4>Plus: Nasty no-auth RCE in TCP/IP stack, and many more updates</h4> <p><strong>Patch Tuesday</strong>  September's Patch Tuesday is here and it brings, among other things, fixes from Microsoft for one security bug that miscreants have used to fully take over Windows systems along with details of a second vulnerability that, while not yet under attack, has already been publicly disclosed.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/13/microsoft_patch_tuesday_september_2022/",
+          "publishedOn": "2022-09-13T22:50:07.000Z",
+          "wordCount": 2246,
+          "title": "Microsoft fixes Windows security hole likely widely exploited by miscreants",
+          "imageUrl": "https://regmedia.co.uk/2022/09/13/computer_screen_updating_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/13/ai_health_medicine_diagnosis/",
           "author": null,
@@ -17536,16 +17546,6 @@
           "wordCount": 1611,
           "title": "HP's consumer PC biz shrinks by a fifth as inflation bites",
           "imageUrl": "https://regmedia.co.uk/2015/05/26/hp_648.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/31/uk_health_data_share/",
-          "author": null,
-          "description": "<h4>Britain's National Data Guardian report also warns NHS needs to earn people’s trust, support for controversial data platform</h4> <p>As the NHS in England is set to launch a competition for a far-reaching patient data platform, a public consultation has said decisions about health data sharing should not be taken by politicians.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/31/uk_health_data_share/",
-          "publishedOn": "2022-08-31T11:16:40.000Z",
-          "wordCount": 1650,
-          "title": "Decisions on health data sharing should not be taken by politicians, citizen juries find",
-          "imageUrl": "https://regmedia.co.uk/2019/09/06/shutterstock_surgery_selfie.jpg"
         }
       ]
     }
