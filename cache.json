@@ -898,6 +898,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/sonys-live-action-gran-turismo-movie-casts-stranger-things-david-harbour",
+          "author": "Matt Wales",
+          "description": "Sony's Gran Turismo movie continues to progress, with Stranger Things star David Harbour having now joined the cast.\r\n\n\r\nSony's live-action Gran Turismo adaptation was announced earlier this year, and confirmation of an 11th August 2023 release date for the movie followed not long after. Harbour is the first member of the cast to be officially revealed (thanks The Hollywood Reporter) and he'll be working alongside District 9 and Elyisum director Neill Blomkamp, who's helming the project.\r\n\n\r\nBlomkamp will be directing from a script by Jason Hall (American Sniper) and Zach Baylin (King Richard), which dramatises an apparently true story of a teenage Gran Turismo player whose gaming skills put him on the path toward becoming a professional racecar driver.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sonys-live-action-gran-turismo-movie-casts-stranger-things-david-harbour",
+          "publishedOn": "2022-09-14T21:14:44.000Z",
+          "wordCount": 4478,
+          "title": "Sony's live-action Gran Turismo movie casts Stranger Things' David Harbour",
+          "imageUrl": "https://assets.reedpopcdn.com/gran-turismo-7-best-cars-starting-rally-fastest-car-9011-1646922090646.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/gran-turismo-7-best-cars-starting-rally-fastest-car-9011-1646922090646.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/heres-everything-shown-during-tonights-idxbox-showcase",
           "author": "Matt Wales",
           "description": "'Tis the week of showcases, it seems, and following Nintendo and Sony's efforts last night, Microsoft has taken its own turn today with another one of its predominantly indie-focused ID@Xbox digital showcase events. And if you missed its typically meandering reveals, you can check out everything that put in an appearance, considerably more succinctly, below.\r\n\nEville\n\n\r\nEville is a multiplayer social deduction game from developer VestGames that's coming to Xbox One, Xbox Series X/S, PC, and Game Pass on 11th October. It sees up to 13 players working together - or otherwise - in order to unmask Conspirators hiding in a village beset by murders. Those cast as Villagers must weed out the suspects by day, while those in the role of Conspirators can decide who should be bumped off next by night.\r\n \nRead more",
@@ -3666,26 +3676,6 @@
           "wordCount": 4474,
           "title": "The Xbox app is getting a major upgrade to its search",
           "imageUrl": "https://assets.reedpopcdn.com/xbox-app-user-stories-7164badc38c815e3618a.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/xbox-app-user-stories-7164badc38c815e3618a.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/assassins-creed-mirage-artwork-surfaces-online",
-          "author": "Tom Phillips",
-          "description": "Promotional artwork for the still-unannounced Assassin's Creed Mirage has popped up online, apparently from Ubisoft's own store. \r\n\n\r\nThe image, shared on Twitter by Assassin's Creed fansite The Codex Network, appears to be for some kind of bonus quest. It shows a hooded Assassin hero armed with the series' iconic hidden blade weapon, facing down the silhouette of an enemy with a curved sword. \r\n\n\r\nSetting a story mission around the famous fable of The Forty Thieves would mirror other such bonus quests offered by Ubisoft in the past, such as a Beowulf-themed story for Assassin's Creed Valhalla.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/assassins-creed-mirage-artwork-surfaces-online",
-          "publishedOn": "2022-09-01T10:16:07.000Z",
-          "wordCount": 4526,
-          "title": "Assassin's Creed Mirage artwork surfaces online",
-          "imageUrl": "https://assets.reedpopcdn.com/Untitled-1-Recovered-Recovered.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Untitled-1-Recovered-Recovered.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/bomb-rush-cyberfunk-delayed-to-2023",
-          "author": "Ed Nightingale",
-          "description": "Bomb Rush Cyberfunk, the indie spiritual successor to Jet Set Radio, has been delayed until summer 2023.\r\n\n\r\nIt was originally intended to release this year.\r\n\n\r\nDeveloper Team Reptile is taking extra time to increase the quality of the game.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/bomb-rush-cyberfunk-delayed-to-2023",
-          "publishedOn": "2022-09-01T10:06:27.000Z",
-          "wordCount": 4543,
-          "title": "Bomb Rush Cyberfunk delayed to 2023",
-          "imageUrl": "https://assets.reedpopcdn.com/bomb-rush-cyberfunk.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/bomb-rush-cyberfunk.jpg"
         }
       ]
     },
@@ -6390,26 +6380,6 @@
           "wordCount": 1242,
           "title": "GCC vs. LLVM Clang Compilers For The Apple M2 On Linux",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/LibreOffice-OpenCL-Code-2022",
-          "author": null,
-          "description": "Back in 2013 when AMD was pushing their Heterogeneous System Architecture (HSA) they joined The Document Foundation and wanted to make use of OpenCL acceleration within this open-source office suite. Shortly thereafter they added many OpenCL functions to LibreOffice but now a decade later it seems to be of little use but at least this week thanks to a Collabora engineer there has been some OpenCL code cleaning for this free software office suite...",
-          "link": "https://www.phoronix.com/news/LibreOffice-OpenCL-Code-2022",
-          "publishedOn": "2022-09-01T10:03:44.000Z",
-          "wordCount": 1383,
-          "title": "LibreOffice's Little-Used OpenCL Support Enjoys Some Code Cleaning",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/GCC-std-CPP-Current-Future",
-          "author": null,
-          "description": "Inspired by Microsoft's compiler toolchain having a \"std:c++latest\" option for automatically targeting the latest supported C++ spec, GCC compiler developers have been discussing the possibility of a similar feature with the ability to specify -std=c++current for the current C++ standard or -std=c++future for the future/draft specification...",
-          "link": "https://www.phoronix.com/news/GCC-std-CPP-Current-Future",
-          "publishedOn": "2022-09-01T09:34:41.000Z",
-          "wordCount": 1378,
-          "title": "GCC Developers Discuss Possible -std=c++current & -std=c++future Options",
-          "imageUrl": null
         }
       ]
     },
@@ -7907,26 +7877,6 @@
           "wordCount": 4921,
           "title": "Bomb Rush Cyberfunk's release is sprayed over with a delay to summer 2023",
           "imageUrl": "https://assets2.rockpapershotgun.com/Bomb-Rush-Cyberfunk-delay.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Bomb-Rush-Cyberfunk-delay.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/final-fantasy-xivs-new-island-sanctuary-is-more-tom-nook-sim-than-peaceful-paradise-but-it-works",
-          "author": "Danielle Lucas",
-          "description": "There were high expectations going into Buried Memory, patch 6.2 for Final Fantasy XIV - new raids, new story, and, most importantly, a new mode called Island Sanctuary to fulfil all of your farming dreams. There were Harvest Moon and Animal Crossing memes aplenty in the run up to release, with players hungry to customise their own cosy piece of Hydaelyn.\r\n\n\r\nMeant as a casual mode to relax away from dungeons and grinding levels, Island Sanctuary has no Job level limitations and can be enjoyed by anyone. Even though you can craft your own buildings and gather materials, you don’t need to have played any gathering or crafting classes. With a base to customise, crops to tend to and a pasture full of animals to pet, it’s easy to see why comparisons were drawn to other farming games such as Stardew Valley.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/final-fantasy-xivs-new-island-sanctuary-is-more-tom-nook-sim-than-peaceful-paradise-but-it-works",
-          "publishedOn": "2022-09-01T10:00:00.000Z",
-          "wordCount": 5487,
-          "title": "Final Fantasy XIV’s new Island Sanctuary is more Tom Nook sim than peaceful paradise, but it works",
-          "imageUrl": "https://assets2.rockpapershotgun.com/ffxiv-Island-Sanctuary3.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ffxiv-Island-Sanctuary3.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/ubisoft-give-online-services-for-older-games-a-stay-of-execution",
-          "author": "CJ Wheeler",
-          "description": "Today was due to be the day when some older Ubisoft games would see their online services decommissioned, but the company is granting them a temporary reprieve. You now have until October 1st to cram in some multiplayer for several early Assassin’s Creeds, the original version of Far Cry 3, Driver: San Francisco and others. Ubisoft say they’ve been “exploring what is possible to reduce disruption” over the last month, hence the shuffled date for decommissioning.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/ubisoft-give-online-services-for-older-games-a-stay-of-execution",
-          "publishedOn": "2022-09-01T09:56:41.000Z",
-          "wordCount": 5214,
-          "title": "Ubisoft give online services for older games a stay of execution",
-          "imageUrl": "https://assets2.rockpapershotgun.com/Assassins-Creed-Brotherhood.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Assassins-Creed-Brotherhood.jpg"
         }
       ]
     },
@@ -7935,6 +7885,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "CBYqGsP894zZKKvKxi89qA",
+          "author": null,
+          "description": "Digital Foundry tested Intel's XeSS upscaler in Shadow of the Tomb Raider with stellar results. It showcases performance and image quality that is on par with DLSS.",
+          "link": "https://www.tomshardware.com/news/intel-xess-demo-flaunts-superb-results-compared-to-nvidia-dlss",
+          "publishedOn": "2022-09-14T21:49:45.000Z",
+          "wordCount": 21677,
+          "title": "Intel XeSS Demo Flaunts Superb Results Compared to Nvidia DLSS",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/2c6kRLrPPhmChSYrDMcdf6.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/2c6kRLrPPhmChSYrDMcdf6.jpg"
+        },
         {
           "id": "vExWqKxBMfHsdnTdo68hbA",
           "author": null,
@@ -14382,16 +14347,6 @@
           "wordCount": 1788,
           "title": "Nya Zelda-rykten: Wind Waker och Twilight Princess till Switch presenteras inom kort",
           "imageUrl": "https://www.fz.se/artikel/og-image/291309"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291051",
-          "author": null,
-          "description": "Om vi haft remake-quiz tidigare...? Jo, men det här är en total remake av det quizzet.",
-          "link": "https://www.fz.se/artikel/291051-quiz-vad-kan-du-om-remakes",
-          "publishedOn": "2022-09-01T10:00:00.000Z",
-          "wordCount": 1731,
-          "title": "Quiz – Vad kan du om remakes?",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291051"
         }
       ]
     },
@@ -15387,6 +15342,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/14/white_house_software_security_guidance/",
+          "author": null,
+          "description": "<h4>Developers, why not simply build flawless software, thus solving all our vulnerability worries</h4> <p>The White House has published software security rules for federal agencies as part of a larger push to shore up America's IT supply chains.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/14/white_house_software_security_guidance/",
+          "publishedOn": "2022-09-14T21:24:42.000Z",
+          "wordCount": 1712,
+          "title": "White House to tech world: Promise you'll write secure code – or Feds won't use it",
+          "imageUrl": "https://regmedia.co.uk/2022/09/14/american_flag_lines_of_code_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/14/nvidias_grace_arm_neoverse_v2/",
           "author": null,
@@ -17566,16 +17531,6 @@
           "wordCount": 1558,
           "title": "Merge requests and insecure GitHub workflows may lead to supply-chain attacks",
           "imageUrl": "https://regmedia.co.uk/2018/08/07/shutterstock_bug_hunting.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/01/mobile_apps_leaked_biometrics/",
-          "author": null,
-          "description": "<h4>Spoiler: They used hard-coded AWS credentials</h4> <p>Massive amounts of private data – including more than 300,000 biometric digital fingerprints used by five mobile banking apps – have been put at risk of theft due to hard-coded Amazon Web Services credentials, according to security researchers.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/01/mobile_apps_leaked_biometrics/",
-          "publishedOn": "2022-09-01T10:04:06.000Z",
-          "wordCount": 1829,
-          "title": "Here's how 5 mobile banking apps put 300,000 users' digital fingerprints at risk",
-          "imageUrl": "https://regmedia.co.uk/2022/08/31/digital_fingerprint_shutterstock.jpg"
         }
       ]
     }
