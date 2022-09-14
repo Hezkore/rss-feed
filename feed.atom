@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-14T22:25:45.564Z</updated>
+    <updated>2022-09-14T23:26:20.153Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Endeavour OS  22.9 "Artemis Nova" Released]]></title>
+        <id>https://www.phoronix.com/news/Endeavour-OS-22.9-Released</id>
+        <link href="https://www.phoronix.com/news/Endeavour-OS-22.9-Released"/>
+        <updated>2022-09-14T23:20:26.000Z</updated>
+        <summary type="html"><![CDATA[Endeavour OS 22.9 "Artemis Nova" is out today as the newest version of this enthusiast-oriented Linux distribution built around Arch Linux...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anti-Metaverse package 'explosion' at college VR lab probed by investigators]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/14/pelican_northeastern_explosion/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/14/pelican_northeastern_explosion/"/>
+        <updated>2022-09-14T22:52:02.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Blast, manifesto railing against Zuck and AI may be an artifical reality</h4> <p>A plastic carrying-case apparently exploded at Northeastern University's Boston campus on Tuesday night, injuring one staff member, in what may be a protest against virtual reality – or just a hoax.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Radeon RX 6900 XT Dips To $679, 32 Percent Below MSRP]]></title>
+        <id>HgmhCzg2JkLxFHpB8FBD5</id>
+        <link href="https://www.tomshardware.com/news/radeon-rx-6900-xt-dips-to-dollar679-32-percent-below-msrp"/>
+        <updated>2022-09-14T22:24:37.000Z</updated>
+        <summary type="html"><![CDATA[AMD shares various Radeon RX 6000-series deals for the U.S., Canada, U.K., France, and Germany.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joachim Breitner: rec-def: Program analysis case study]]></title>
+        <id>http://www.joachim-breitner.de/blog/794-rec-def__Program_analysis_case_study</id>
+        <link href="http://www.joachim-breitner.de/blog/794-rec-def__Program_analysis_case_study"/>
+        <updated>2022-09-14T21:53:37.000Z</updated>
+        <summary type="html"><![CDATA[At this week’s International Conference on Functional Programming I showed my rec-def Haskell library to a few people. As this crowd appreciates writing compilers, and example from the realm of program analysis is quite compelling.
+To Throw or not to throw
+Here is our little toy language to analyze: It has variables, lambdas and applications, non-recursive (lazy) let bindings and, so that we have something to analyze, a way to throw and to catch exceptions:
+type Var = String
+
+data Exp
+  = Var Var
+  | Throw
+  | Catch Exp
+  | Lam Var Exp
+  | App Exp Exp
+  | Let Var Exp Exp
+
+Given such an expression, we would like to know whether it might throw an exception. Such an analysis is easy to write: We traverse the syntax tree, remembering in the env which of the variables may throw an exception:
+
+c…]]></summary>
+        <author>
+            <name>mail@joachim-breitner.de (Joachim Breitner)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intel XeSS Demo Flaunts Superb Results Compared to Nvidia DLSS]]></title>
         <id>CBYqGsP894zZKKvKxi89qA</id>
@@ -14,6 +69,36 @@
         <summary type="html"><![CDATA[Digital Foundry tested Intel's XeSS upscaler in Shadow of the Tomb Raider with stellar results. It showcases performance and image quality that is on par with DLSS.]]></summary>
         <author>
             <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iranians hacked US companies, sent ransom demands to printers, indictment says]]></title>
+        <id>https://arstechnica.com/?p=1881431</id>
+        <link href="https://arstechnica.com/?p=1881431"/>
+        <updated>2022-09-14T21:42:38.000Z</updated>
+        <summary type="html"><![CDATA[Alleged victims include domestic violence shelter that paid hackers $13,000.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Regulators put the brakes on Microsoft’s Activision acquisition]]></title>
+        <id>https://arstechnica.com/?p=1881530</id>
+        <link href="https://arstechnica.com/?p=1881530"/>
+        <updated>2022-09-14T21:39:57.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft faces prolonged competition investigation into $75 billion acquisition.]]></summary>
+        <author>
+            <name>Financial Times</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China’s most advanced AI image generator already blocks political content]]></title>
+        <id>https://arstechnica.com/?p=1881321</id>
+        <link href="https://arstechnica.com/?p=1881321"/>
+        <updated>2022-09-14T21:31:08.000Z</updated>
+        <summary type="html"><![CDATA[Baidu's ERNIE-ViLG text-to-image model prevents users from creating political images.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
         </author>
     </entry>
     <entry>
@@ -42,6 +127,16 @@ Blomkamp will be directing from a script by Jason Hall (American Sniper) and Zac
 Read more]]></summary>
         <author>
             <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[California says Amazon ruined online shopping, sues it for driving up prices]]></title>
+        <id>https://arstechnica.com/?p=1881446</id>
+        <link href="https://arstechnica.com/?p=1881446"/>
+        <updated>2022-09-14T21:07:03.000Z</updated>
+        <summary type="html"><![CDATA[Lawsuit mirrors DC's case dismissed in April. Now, DOJ backs DC's appeal.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
         </author>
     </entry>
     <entry>
@@ -19427,134 +19522,6 @@ We also get another look at the game's soul-jumping ability, which allows Tchia 
 Read more]]></summary>
         <author>
             <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG Ultragear belönar League of Legends-fantaster med biljetter]]></title>
-        <id>https://www.sweclockers.com/artikel/34850</id>
-        <link href="https://www.sweclockers.com/artikel/34850-lg-ultragear-belonar-league-of-legends-fantaster-med-biljetter"/>
-        <updated>2022-09-01T11:24:14.000Z</updated>
-        <summary type="html"><![CDATA[Högoktanigt spelande äger rum i Malmö den 10 och 11 september. Nu korar LG Ultragear 8 vinnare som får biljetter till League of Legends European Championship Finals.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge requests and insecure GitHub workflows may lead to supply-chain attacks]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/01/google_firebase_apache_camel_github/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/01/google_firebase_apache_camel_github/"/>
-        <updated>2022-09-01T11:07:10.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Starting with Google Firebase and Apache Camel repos</h4> <p>Security researchers at Legit Security identified vulnerabilities in the GitHub automated workflows used by Google Firebase and Apache Camel that could have been abused to compromise those open-source projects through their GitHub CI/CD pipeline and insert malicious code.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call of Duty: Modern Warfare 2 contains some naughty stuff]]></title>
-        <id>https://www.eurogamer.net/call-of-duty-modern-warfare-2-contains-some-naughty-stuff</id>
-        <link href="https://www.eurogamer.net/call-of-duty-modern-warfare-2-contains-some-naughty-stuff"/>
-        <updated>2022-09-01T11:05:33.000Z</updated>
-        <summary type="html"><![CDATA[As we reach closer to Call of Duty: Modern Warfare 2's October release date, national content rating boards have been reviewing the game for classification. 
-
-
-The Australian Classification Board has jumped the gun and published its classification early, and it makes for a humorous read.  
-
-
-The ACB warns that the game depicts "tracking and killing of numerous opponents, with resulting examples of blood and injury detail."
- 
-Read more]]></summary>
-        <author>
-            <name>Ishraq Subhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Deck's most played game in August was Vampire Survivors]]></title>
-        <id>https://www.eurogamer.net/steam-decks-most-played-game-in-august-was-vampire-survivors</id>
-        <link href="https://www.eurogamer.net/steam-decks-most-played-game-in-august-was-vampire-survivors"/>
-        <updated>2022-09-01T10:56:31.000Z</updated>
-        <summary type="html"><![CDATA[Valve has announced the top 10 games played on Steam Deck in August, plus another milestone it has reached.
-Things are looking smooth for Steam Deck right now. Production is doing well, outperforming Valve's estimates, and people are finally getting their hands on a unit.
-To round off August, Valve has revealed the 10 most played games on Steam Deck during the month.
- Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nya Zelda-rykten: Wind Waker och Twilight Princess till Switch presenteras inom kort]]></title>
-        <id>https://www.fz.se/artikel/291309</id>
-        <link href="https://www.fz.se/artikel/291309-nya-zelda-rykten-wind-waker-och-twilight-princess-till-switch-presenteras-inom-kort"/>
-        <updated>2022-09-01T10:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Kan komma inom två veckor, tror spekulatörer.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bomb Rush Cyberfunk's release is sprayed over with a delay to summer 2023]]></title>
-        <id>https://www.rockpapershotgun.com/bomb-rush-cyberfunks-release-is-sprayed-over-with-a-delay-to-summer-2023</id>
-        <link href="https://www.rockpapershotgun.com/bomb-rush-cyberfunks-release-is-sprayed-over-with-a-delay-to-summer-2023"/>
-        <updated>2022-09-01T10:39:13.000Z</updated>
-        <summary type="html"><![CDATA[Futuristic cel-shaded skate ‘em up Bomb Rush Cyberfunk has seen its release window pushed back. The spiritual successor to classic Dreamcast skateathon Jet Set Radio had been scheduled to arrive sometime this year. You can now expect to play it in summer 2023.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looks like Biomutant will be making a Switch debut this October]]></title>
-        <id>https://www.eurogamer.net/looks-like-biomutant-will-be-making-a-switch-debut-this-october</id>
-        <link href="https://www.eurogamer.net/looks-like-biomutant-will-be-making-a-switch-debut-this-october"/>
-        <updated>2022-09-01T10:38:42.000Z</updated>
-        <summary type="html"><![CDATA[A new listing implies that Biomutant will be getting a Switch release this October.
-
-
-The listing, spotted by GoNintendo, can be found on Portuguese site Gaming Replay. It includes a price (54,99 €), Switch box cover art, and a release date - 25th October.
-
-
-While nothing has been officially announced by developer Experiment 101, a Switch edition of the game has long been rumoured to be coming eventually.
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Third game in Yoko Taro's Voice of Cards series out this month]]></title>
-        <id>https://www.eurogamer.net/third-game-in-yoko-taros-voice-of-cards-series-out-this-month</id>
-        <link href="https://www.eurogamer.net/third-game-in-yoko-taros-voice-of-cards-series-out-this-month"/>
-        <updated>2022-09-01T10:34:57.000Z</updated>
-        <summary type="html"><![CDATA[Voice of Cards: The Beasts of Burden has a release date: 13th September across Switch, PS4 and PC (Steam).
-
-
-It's the third game in Square Enix's Voice of Cards series that presents a turn-based RPG entirely through cards.
-
-
-The series is created by NieR's Yoko Taro, which is why there's DLC for the game based on mobile game NieR Re[in]carnation.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Xbox app is getting a major upgrade to its search]]></title>
-        <id>https://www.eurogamer.net/the-xbox-app-is-getting-a-major-upgrade-to-its-search</id>
-        <link href="https://www.eurogamer.net/the-xbox-app-is-getting-a-major-upgrade-to-its-search"/>
-        <updated>2022-09-01T10:32:01.000Z</updated>
-        <summary type="html"><![CDATA[The Xbox mobile app for iOS and Android is getting a major upgrade to its search engine.
-
-
-The update, which is available right now for beta users, improves the algorithm that powers game searches. 
-
-
-Search for games on the Xbox app has been notoriously bad up until this point, igniting the console wars between PlayStation and Xbox fans since the PlayStation is relatively good at finding what you want. 
- 
-Read more]]></summary>
-        <author>
-            <name>Ishraq Subhan</name>
         </author>
     </entry>
 </feed>
