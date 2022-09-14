@@ -80,16 +80,6 @@
           "wordCount": 7932,
           "title": "Compare Files in Linux With These Tools",
           "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/08/gui-and-cli-tools-for-comparing-files.jpg"
-        },
-        {
-          "id": "http://itsfoss.com/?p=10209",
-          "author": "sreenath",
-          "description": "Editing with Micro is much easier than with other editors like Vim and Emacs. You can even use your regular Ctrl+C, Ctrl+V, Ctrl+Z shortcuts in Micro.",
-          "link": "https://itsfoss.com/micro-editor-linux/",
-          "publishedOn": "2022-09-01T06:11:00.000Z",
-          "wordCount": 7323,
-          "title": "Micro: Making File Editing Easier in Linux Terminal",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2016/04/micro-command-line-editor.png"
         }
       ]
     },
@@ -130,6 +120,16 @@
       "feedUrl": "http://www.gamingonlinux.com/news_rss.php",
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
+        {
+          "id": "https://www.gamingonlinux.com/2022/09/the-wandering-village-is-absolutely-mesmerizing/",
+          "author": "Liam Dawe",
+          "description": "The Wandering Village from Stray Fawn Studio, a game about building a village on the back of a massive moving creature has just entered Early Access with Native Linux support.",
+          "link": "https://www.gamingonlinux.com/2022/09/the-wandering-village-is-absolutely-mesmerizing/",
+          "publishedOn": "2022-09-14T17:58:08.000Z",
+          "wordCount": 1399,
+          "title": "The Wandering Village is absolutely mesmerizing",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/905022832id21598gol.jpg"
+        },
         {
           "id": "https://www.gamingonlinux.com/2022/09/heroes-of-might-and-magic-ii-a-iii-open-source-game-engines-get-new-releases/",
           "author": "Liam Dawe",
@@ -5232,6 +5232,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/review/linux60-5950x-12900k",
+          "author": null,
+          "description": "Ahead of Intel Raptor Lake and AMD Zen 4, it's a lot of fresh CPU re-testing at Phoronix under Linux with the bleeding-edge software stack of the latest Linux kernel as well as many new/updated benchmarks, the latest motherboard BIOSes, and more. As over the past year there has been a lot of work by Intel open-source engineers around better tuning the Linux kernel for their hybrid architecture, here are some fresh side-by-side benchmarks of the Intel Core i9 12900K against the AMD Ryzen 9 5950X.",
+          "link": "https://www.phoronix.com/review/linux60-5950x-12900k",
+          "publishedOn": "2022-09-14T17:56:21.000Z",
+          "wordCount": 1205,
+          "title": "Intel Core i9 12900K vs. AMD Ryzen 9 5950X On Linux 6.0",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/LPC-2022-systemd-mkosi-initrd",
           "author": null,
           "description": "Red Hat engineer and systemd developer Zbigniew Jędrzejewski-Szmek presented on Monday at the Linux Plumbers Conference on a new design for inital RAM disks (initrd) making use of the new systemd mkosi-initrd project...",
@@ -7925,6 +7935,36 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "KpR6KDNuovho6gRvaJNqhC",
+          "author": "francisco.pires@outlook.com (Francisco Pires)",
+          "description": "Fujitsu has announced a breakthrough, photonics-based transmission system that can reach 1.2 Tbps transfers per wavelength while also reaching four times farther than current technology without signal degradation. The company plans to commercialize the technology by 2023.",
+          "link": "https://www.tomshardware.com/news/fujitsu-develops-optical-tech-unlocking-12-tbps-per-wavelength",
+          "publishedOn": "2022-09-14T17:37:16.000Z",
+          "wordCount": 21357,
+          "title": "Fujitsu Develops Optical Tech Unlocking 1.2 Tbps per Wavelength",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/gaKpquareN5UgstKY47kiD.jpeg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/gaKpquareN5UgstKY47kiD.jpeg"
+        },
+        {
+          "id": "QNwAdRviEbU6Xwz2pqVhKB",
+          "author": null,
+          "description": "Gunnir has introduced a new Arc A380 graphics card to the market, known as the Index. This model — in contrast to the Photon — features lower frequencies and ditches the 6-pin PCIe plug.",
+          "link": "https://www.tomshardware.com/news/gunnir-index-a380-ditches-6-pin",
+          "publishedOn": "2022-09-14T17:27:58.000Z",
+          "wordCount": 21456,
+          "title": "New Gunnir Arc A380 Graphics Card Ditches 6-Pin Power Connector",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/h4yGB32TbXRYoRkDE8grRH.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/h4yGB32TbXRYoRkDE8grRH.png"
+        },
         {
           "id": "wTHgEzj5dGtEPoqVcKAAJL",
           "author": null,
@@ -11146,16 +11186,6 @@
           "wordCount": 1623,
           "title": "Emmanuel Kasper: OpenShift  vs. AWS product mapping",
           "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "http://flossexperiences.wordpress.com/?p=7317",
-          "author": null,
-          "description": "Culture\nJust before I start, I would like to point out that this post may or would probably be NSFW. Again, what is SFW (Safe at Work) and NSFW that so much depends on culture and perception of culture from wherever we are or wherever we take birth? But still, to be on the safe side I have put it as NSFW. Now there have been a few statements and ideas that gave me a pause. This will be a sort of chaotic blog post as I am in such a phase today. \nFor e.g. while I do not know which culture or which country this comes from, somebody shared that in some cultures one can talk/comment ‘May your poop be easy’ and with a straight face. I dunno which culture is this but if somebody asked me that I would just die from laughing or maybe poop there itself. While I can understand if it is a constipated …",
-          "link": "https://flossexperiences.wordpress.com/2022/09/01/culture-books-friends/",
-          "publishedOn": "2022-09-01T05:59:07.000Z",
-          "wordCount": 6029,
-          "title": "Shirish Agarwal: Culture, Books, Friends",
-          "imageUrl": "https://flossexperiences.files.wordpress.com/2022/09/wearing-new-clothes.jpg"
         }
       ]
     },
@@ -11231,6 +11261,56 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1881175",
+          "author": "Scharon Harding",
+          "description": "New printers still block non-HP ink, but HP is compensating for lack of advance notice.",
+          "link": "https://arstechnica.com/?p=1881175",
+          "publishedOn": "2022-09-14T17:34:35.000Z",
+          "wordCount": 1607,
+          "title": "HP to pay EU printer customers $1.35 million for disabling third-party ink",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-101341639-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1881162",
+          "author": "Kevin Purdy",
+          "description": "Only the very latest Apple and Samsung devices can ride the 3.45 GHz wave.",
+          "link": "https://arstechnica.com/?p=1881162",
+          "publishedOn": "2022-09-14T17:25:58.000Z",
+          "wordCount": 1598,
+          "title": "AT&T won’t upgrade “older” phones for new 5G bands",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1237817271-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1881118",
+          "author": "Jeff Dunn",
+          "description": "Dealmaster also has LG OLED TVs, MacBooks, and gaming accessories.",
+          "link": "https://arstechnica.com/?p=1881118",
+          "publishedOn": "2022-09-14T17:09:08.000Z",
+          "wordCount": 2774,
+          "title": "Today’s best deals: Anker noise-canceling headphones, USB-C chargers, and more",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/dealmaster091422-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1881219",
+          "author": "Ashley Belanger",
+          "description": "New law responds to concerns over Big Tech's alleged role in US Capitol riot.",
+          "link": "https://arstechnica.com/?p=1881219",
+          "publishedOn": "2022-09-14T16:54:22.000Z",
+          "wordCount": 1853,
+          "title": "Big Tech must prove content moderation works or pay $15K daily fines in Calif.",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1230457159-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1881224",
+          "author": "Kyle Orland",
+          "description": "Publisher promises robust privacy and system security efforts to protect users.",
+          "link": "https://arstechnica.com/?p=1881224",
+          "publishedOn": "2022-09-14T16:39:18.000Z",
+          "wordCount": 1827,
+          "title": "EA’s new anti-cheat tools dip into the dreaded “kernel mode”",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/fifa23-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1881156",
           "author": "Andrew Cunningham",
@@ -15323,6 +15403,16 @@
       "siteUrl": "https://www.theregister.com/",
       "articles": [
         {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/14/microsoft_azure_space_satellite/",
+          "author": null,
+          "description": "<h4>'Cloud connectivity' hits different this time</h4> <p>Microsoft has announced some movement within its two-year-old Azure Space program, which as the name suggests aims to offer cloud services to satellite operators.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/14/microsoft_azure_space_satellite/",
+          "publishedOn": "2022-09-14T17:45:10.000Z",
+          "wordCount": 1447,
+          "title": "Remember Microsoft was trying to put Azure in space? It's still trying",
+          "imageUrl": "https://regmedia.co.uk/2022/03/18/satellite_orbiting_earth_shutterstock.jpg"
+        },
+        {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/14/suns_magnetic_mystery_esa/",
           "author": null,
           "description": "<h4>Understanding solar switchbacks is key to understanding solar winds, and scientists think they've grokked it</h4> <p>Our star harbors one less scientific mystery thanks to data from the Solar Orbiter probe showing how \"solar switchbacks\" that cause the Sun's magnetic field to flip are formed. By furthering astronomer's understanding of solar winds, they hope the discovery will protect astronauts and equipment.…</p>",
@@ -17501,16 +17591,6 @@
           "wordCount": 1565,
           "title": "Oh no, that James Webb Space Telescope snap might actually contain malware",
           "imageUrl": "https://regmedia.co.uk/2021/12/23/shutrterstock_james_webb_space_telescope.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/01/surrey_police_waze_traffic/",
-          "author": null,
-          "description": "<h4>You're under app-vest, sunshine</h4> <p>Traffic cops in Surrey, England, have drawn criticism after revealing how they game Waze to spook drivers into slowing down while out on patrol.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/01/surrey_police_waze_traffic/",
-          "publishedOn": "2022-09-01T06:02:08.000Z",
-          "wordCount": 1453,
-          "title": "Braking news: Cops slammed for spamming Waze to make drivers slow down",
-          "imageUrl": "https://regmedia.co.uk/2022/08/31/police_shutterstock.jpg"
         }
       ]
     }
