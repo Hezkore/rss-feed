@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-14T20:28:09.437Z</updated>
+    <updated>2022-09-14T21:20:40.498Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Here's everything shown during tonight's ID@Xbox showcase]]></title>
+        <id>https://www.eurogamer.net/heres-everything-shown-during-tonights-idxbox-showcase</id>
+        <link href="https://www.eurogamer.net/heres-everything-shown-during-tonights-idxbox-showcase"/>
+        <updated>2022-09-14T20:38:20.000Z</updated>
+        <summary type="html"><![CDATA['Tis the week of showcases, it seems, and following Nintendo and Sony's efforts last night, Microsoft has taken its own turn today with another one of its predominantly indie-focused ID@Xbox digital showcase events. And if you missed its typically meandering reveals, you can check out everything that put in an appearance, considerably more succinctly, below.
+
+Eville
+
+
+Eville is a multiplayer social deduction game from developer VestGames that's coming to Xbox One, Xbox Series X/S, PC, and Game Pass on 11th October. It sees up to 13 players working together - or otherwise - in order to unmask Conspirators hiding in a village beset by murders. Those cast as Villagers must weed out the suspects by day, while those in the role of Conspirators can decide who should be bumped off next by night.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nvidia buys Arm ... Neoverse V2 CPU cores for Grace chip]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/14/nvidias_grace_arm_neoverse_v2/</id>
@@ -27,6 +44,16 @@ With gameplay, there are two unique battle styles to take down adversaries, and 
  Read more]]></summary>
         <author>
             <name>Stephany Nunneley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ford gives dealers 2 months to accept new rules or stop selling EVs]]></title>
+        <id>https://arstechnica.com/?p=1881373</id>
+        <link href="https://arstechnica.com/?p=1881373"/>
+        <updated>2022-09-14T19:38:02.000Z</updated>
+        <summary type="html"><![CDATA[From 2024, Ford EVs will only be sold at Model e-certified dealerships.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
         </author>
     </entry>
     <entry>
@@ -19595,59 +19622,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Inspired by Microsoft's compiler toolchain having a "std:c++latest" option for automatically targeting the latest supported C++ spec, GCC compiler developers have been discussing the possibility of a similar feature with the ability to specify -std=c++current for the current C++ standard or -std=c++future for the future/draft specification...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.1 Thunderbolt Networking To Support USB4 End-To-End Flow Control]]></title>
-        <id>https://www.phoronix.com/news/USB4NET-End-To-End-Flow-Control</id>
-        <link href="https://www.phoronix.com/news/USB4NET-End-To-End-Flow-Control"/>
-        <updated>2022-09-01T09:20:04.000Z</updated>
-        <summary type="html"><![CDATA[One of the interesting capabilities with Thunderbolt and now USB4 that is seemingly not too widely used is for networking between systems. The Linux kernel for the past half-decade already has offered a Thunderbolt networking driver for networking between hosts with Thunderbolt cables. The latest improvement on this front is now supporting USB4's end-to-end flow control mode...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo Direct September 2022 rumours suggest big news for Zelda fans]]></title>
-        <id>https://www.vg247.com/nintendo-direct-september-2022-rumours-suggest-big-news-for-zelda-fans</id>
-        <link href="https://www.vg247.com/nintendo-direct-september-2022-rumours-suggest-big-news-for-zelda-fans"/>
-        <updated>2022-09-01T09:15:58.000Z</updated>
-        <summary type="html"><![CDATA[Just yesterday, a rumour emerged that the next Nintendo Direct is much closer than you might’ve though, and it’s going to be packed with news for keen Zelda fans. This report comes directly from Giant Bomb’s Jeff Grubb in a recent stream to YouTube.
-In the video, Grubb suggests that a Nintendo Direct could be happening the week of September 12, which is the same week that the Tokyo Game Show is expected to begin – this does track, given that we have seen a Nintendo Direct every September since the launch of the Nintendo Switch in 2017.
-When it comes to what this rumoured Nintendo Direct will feature, Grubb suggests that “I think there’s going to be a lot of Zelda stuff at this thing.” More specifically, it’s believed that Wind Waker HD and Twilight Princess HD ports could very well be coming to Nintendo Switch soon. These titles have been rumoured before, and are also very much titles that fans want to see on the newer console.
- Read more]]></summary>
-        <author>
-            <name>Kelsey Raynor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astronaut blood reveals genetic mutations for cancer and heart disease]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/01/astronauts_blood_space_health/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/01/astronauts_blood_space_health/"/>
-        <updated>2022-09-01T09:08:07.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Could just be a coincidence ... let's keep going into space and see what happens</h4> <p>Analyses of blood taken before and after spaceflight have confirmed astronauts undergo genetic mutations that could make them more susceptible to developing cancer and heart disease.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arkane tvingades att döpa Prey till Prey av Bethesda]]></title>
-        <id>https://www.fz.se/artikel/291308</id>
-        <link href="https://www.fz.se/artikel/291308-arkane-tvingades-att-dopa-prey-till-prey-av-bethesda"/>
-        <updated>2022-09-01T09:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Och gillade det verkligen inte.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung utökar Odyssey-familjen med ultrabred OLED]]></title>
-        <id>https://www.sweclockers.com/artikel/34852</id>
-        <link href="https://www.sweclockers.com/artikel/34852-samsung-utokar-odyssey-familjen-med-ultrabred-oled"/>
-        <updated>2022-09-01T08:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Samsungs panelteknik QD-OLED tar plats i det egna sortimentet, där 34 tum i välvt utförande och 175 Hz kombineras med TV-funktionen Gaming Hub.]]></summary>
-        <author>
-            <name>SweClockers</name>
         </author>
     </entry>
 </feed>

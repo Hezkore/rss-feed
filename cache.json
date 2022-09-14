@@ -898,6 +898,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/heres-everything-shown-during-tonights-idxbox-showcase",
+          "author": "Matt Wales",
+          "description": "'Tis the week of showcases, it seems, and following Nintendo and Sony's efforts last night, Microsoft has taken its own turn today with another one of its predominantly indie-focused ID@Xbox digital showcase events. And if you missed its typically meandering reveals, you can check out everything that put in an appearance, considerably more succinctly, below.\r\n\nEville\n\n\r\nEville is a multiplayer social deduction game from developer VestGames that's coming to Xbox One, Xbox Series X/S, PC, and Game Pass on 11th October. It sees up to 13 players working together - or otherwise - in order to unmask Conspirators hiding in a village beset by murders. Those cast as Villagers must weed out the suspects by day, while those in the role of Conspirators can decide who should be bumped off next by night.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/heres-everything-shown-during-tonights-idxbox-showcase",
+          "publishedOn": "2022-09-14T20:38:20.000Z",
+          "wordCount": 5616,
+          "title": "Here's everything shown during tonight's ID@Xbox showcase",
+          "imageUrl": "https://assets.reedpopcdn.com/id-at-xbox-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/id-at-xbox-header.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/cities-skylines-plazas-and-promenades-expansion-out-now-on-xbox-playstation-and-pc",
           "author": "Matt Wales",
           "description": "Cities Skylines' 11th major expansion, Plazas and Promenades, has skipped the release date announcement pre-amble to surprise-launch on Xbox, PlayStation, and PC today.\r\n\n\r\nPlazas and Promenades, which was announced back in August, brings a new pedestrianisation focus to developer Colossal Order's acclaimed city builder, giving players the tools needed to add pedestrian-only streets, pedestrian zones, and zone-specific policies.\r\n\n\r\nPedestrian Streets can be placed like any other road to create green city centres largely free of vehicles and pollution. These work in tandem with new pedestrian zones which can be augmented with new policies, such as Slow Driving (reducing the speed limit for all vehicles in the area to 20km an hour), and Street Music, which boosts happiness in pedestrianised commercial zones at the expense of noise pollution.\r\n \nRead more",
@@ -5223,16 +5233,6 @@
           "wordCount": 4679,
           "title": "Call of Duty, Diablo, and Overwatch will come to Game Pass",
           "imageUrl": "https://asset.vg247.com/overwatch_2_key_art_02.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/overwatch_2_key_art_02.jpg"
-        },
-        {
-          "id": "https://www.vg247.com/nintendo-direct-september-2022-rumours-suggest-big-news-for-zelda-fans",
-          "author": "Kelsey Raynor",
-          "description": "Just yesterday, a rumour emerged that the next Nintendo Direct is much closer than you might’ve though, and it’s going to be packed with news for keen Zelda fans. This report comes directly from Giant Bomb’s Jeff Grubb in a recent stream to YouTube.\nIn the video, Grubb suggests that a Nintendo Direct could be happening the week of September 12, which is the same week that the Tokyo Game Show is expected to begin – this does track, given that we have seen a Nintendo Direct every September since the launch of the Nintendo Switch in 2017.\nWhen it comes to what this rumoured Nintendo Direct will feature, Grubb suggests that “I think there’s going to be a lot of Zelda stuff at this thing.” More specifically, it’s believed that Wind Waker HD and Twilight Princess HD ports could very well be coming to Nintendo Switch soon. These titles have been rumoured before, and are also very much titles that fans want to see on the newer console.\n Read more",
-          "link": "https://www.vg247.com/nintendo-direct-september-2022-rumours-suggest-big-news-for-zelda-fans",
-          "publishedOn": "2022-09-01T09:15:58.000Z",
-          "wordCount": 4754,
-          "title": "Nintendo Direct September 2022 rumours suggest big news for Zelda fans",
-          "imageUrl": "https://asset.vg247.com/Zelda-Wind-Waker-HD-(1).jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Zelda-Wind-Waker-HD-(1).jpg"
         }
       ]
     },
@@ -6409,16 +6409,6 @@
           "publishedOn": "2022-09-01T09:34:41.000Z",
           "wordCount": 1378,
           "title": "GCC Developers Discuss Possible -std=c++current & -std=c++future Options",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/USB4NET-End-To-End-Flow-Control",
-          "author": null,
-          "description": "One of the interesting capabilities with Thunderbolt and now USB4 that is seemingly not too widely used is for networking between systems. The Linux kernel for the past half-decade already has offered a Thunderbolt networking driver for networking between hosts with Thunderbolt cables. The latest improvement on this front is now supporting USB4's end-to-end flow control mode...",
-          "link": "https://www.phoronix.com/news/USB4NET-End-To-End-Flow-Control",
-          "publishedOn": "2022-09-01T09:20:04.000Z",
-          "wordCount": 1278,
-          "title": "Linux 6.1 Thunderbolt Networking To Support USB4 End-To-End Flow Control",
           "imageUrl": null
         }
       ]
@@ -11277,6 +11267,16 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1881373",
+          "author": "Jonathan M. Gitlin",
+          "description": "From 2024, Ford EVs will only be sold at Model e-certified dealerships.",
+          "link": "https://arstechnica.com/?p=1881373",
+          "publishedOn": "2022-09-14T19:38:02.000Z",
+          "wordCount": 1557,
+          "title": "Ford gives dealers 2 months to accept new rules or stop selling EVs",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/Ford-F-150-Lightning-Launch-Celebration_04-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1881324",
           "author": "Jon Brodkin",
           "description": "Jane Doe \"was re-victimized by this unconstitutional practice,\" lawsuit says.",
@@ -14392,16 +14392,6 @@
           "wordCount": 1731,
           "title": "Quiz – Vad kan du om remakes?",
           "imageUrl": "https://www.fz.se/artikel/og-image/291051"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291308",
-          "author": null,
-          "description": "Och gillade det verkligen inte.",
-          "link": "https://www.fz.se/artikel/291308-arkane-tvingades-att-dopa-prey-till-prey-av-bethesda",
-          "publishedOn": "2022-09-01T09:03:00.000Z",
-          "wordCount": 1954,
-          "title": "Arkane tvingades att döpa Prey till Prey av Bethesda",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291308"
         }
       ]
     },
@@ -15129,16 +15119,6 @@
           "wordCount": 2019,
           "title": "LG Ultragear belönar League of Legends-fantaster med biljetter",
           "imageUrl": "https://www.sweclockers.com/artikel/34850/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34852",
-          "author": null,
-          "description": "Samsungs panelteknik QD-OLED tar plats i det egna sortimentet, där 34 tum i välvt utförande och 175 Hz kombineras med TV-funktionen Gaming Hub.",
-          "link": "https://www.sweclockers.com/artikel/34852-samsung-utokar-odyssey-familjen-med-ultrabred-oled",
-          "publishedOn": "2022-09-01T08:31:00.000Z",
-          "wordCount": 1830,
-          "title": "Samsung utökar Odyssey-familjen med ultrabred OLED",
-          "imageUrl": "https://www.sweclockers.com/artikel/34852/og-image"
         }
       ]
     },
@@ -17596,16 +17576,6 @@
           "wordCount": 1829,
           "title": "Here's how 5 mobile banking apps put 300,000 users' digital fingerprints at risk",
           "imageUrl": "https://regmedia.co.uk/2022/08/31/digital_fingerprint_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/01/astronauts_blood_space_health/",
-          "author": null,
-          "description": "<h4>Could just be a coincidence ... let's keep going into space and see what happens</h4> <p>Analyses of blood taken before and after spaceflight have confirmed astronauts undergo genetic mutations that could make them more susceptible to developing cancer and heart disease.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/01/astronauts_blood_space_health/",
-          "publishedOn": "2022-09-01T09:08:07.000Z",
-          "wordCount": 1431,
-          "title": "Astronaut blood reveals genetic mutations for cancer and heart disease",
-          "imageUrl": "https://regmedia.co.uk/2021/02/13/astronaut.jpg"
         }
       ]
     }
