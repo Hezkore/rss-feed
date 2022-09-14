@@ -12,6 +12,16 @@
       "siteUrl": "https://itsfoss.com",
       "articles": [
         {
+          "id": "http://itsfoss.com/?p=88095",
+          "author": "Abhishek Prakash",
+          "description": "Want to try the features of Fedora 37 like GNOME 43 right now? You can upgrade to Fedora 37 beta. Here's how.",
+          "link": "https://itsfoss.com/upgrade-to-fedora-beta/",
+          "publishedOn": "2022-09-14T06:46:00.000Z",
+          "wordCount": 7616,
+          "title": "How to Upgrade to Fedora 37 Beta Right Now",
+          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/09/upgrade-fedora-beta.png"
+        },
+        {
           "id": "https://itsfoss.com/?p=101312",
           "author": "Pratham Patel",
           "description": "Use these Firefox add-ons to step up your browsing experience!",
@@ -7476,6 +7486,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "NqVBBtGLpGqZ2umKDbwtGZ",
+          "author": null,
+          "description": "Logitech’s new 1080p Brio 500 webcam has a built-in privacy shutter, HDR, and makes you look great.",
+          "link": "https://www.tomshardware.com/reviews/logitech-brio-500",
+          "publishedOn": "2022-09-14T07:01:13.000Z",
+          "wordCount": 24235,
+          "title": "Logitech Brio 500 Review",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/Pg3pKBRgrcXQ88VZsoGFZR.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/Pg3pKBRgrcXQ88VZsoGFZR.jpg"
+        },
+        {
           "id": "ezrGsCzsJWaK7PJyQguQM9",
           "author": null,
           "description": "Companies from Japan, South Korea, and Taiwan have concerns over the Chip 4 alliance.",
@@ -10369,21 +10394,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/hMCDAGkWvfbzxrGdc4ahBZ.jpeg"
-        },
-        {
-          "id": "VE6DhdasthJauanaYVjm6Z",
-          "author": null,
-          "description": "A new Geekbench 5 benchmark shows very impressive scores for the Ryzen 9 7950X, especially as compared to its predecessor — but there's more to the story.",
-          "link": "https://www.tomshardware.com/news/ryzen-7000-boosted-by-avx512-geekbench",
-          "publishedOn": "2022-08-31T19:05:21.000Z",
-          "wordCount": 18013,
-          "title": "AVX-512 Makes Ryzen 9 7950X Geekbench 5 Results Look Good — Too Good",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/mW5pZZ3pcmsktqp3HMx3ZX.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/mW5pZZ3pcmsktqp3HMx3ZX.jpg"
         }
       ]
     },
@@ -12295,26 +12305,6 @@
           "wordCount": 2515,
           "title": "Today’s best deals: Apple AirPods Max, Peacock subscriptions, and more",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/dealmaster083122-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1877404",
-          "author": "Dan Goodin",
-          "description": "If you've installed any of these extensions, manually remove them stat.",
-          "link": "https://arstechnica.com/?p=1877404",
-          "publishedOn": "2022-08-31T18:59:42.000Z",
-          "wordCount": 1341,
-          "title": "Chrome extensions with 1.4M installs covertly track visits and inject code",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/05/Chrome.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1877270",
-          "author": "Kevin Purdy",
-          "description": "Move to appease EU partners bars running MS apps on competitors' infrastructure.",
-          "link": "https://arstechnica.com/?p=1877270",
-          "publishedOn": "2022-08-31T18:16:50.000Z",
-          "wordCount": 1624,
-          "title": "Microsoft EU cloud revisions just so happen to exclude Google, Amazon",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-1248800431-760x380.jpg"
         }
       ]
     },
@@ -12323,6 +12313,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291447",
+          "author": null,
+          "description": "Jin och Kazuya tar en svängom.",
+          "link": "https://www.fz.se/artikel/291447-tekken-8-har-officiellt-utannonserats-se-forsta-trailern",
+          "publishedOn": "2022-09-14T06:57:00.000Z",
+          "wordCount": 1900,
+          "title": "Tekken 8 har officiellt utannonserats – se första trailern",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291447"
+        },
         {
           "id": "https://www.fz.se/artikel/291446",
           "author": null,
@@ -13802,16 +13802,6 @@
           "wordCount": 1849,
           "title": "Sons of the Forest försenas till nästa år",
           "imageUrl": "https://www.fz.se/artikel/og-image/291304"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291303",
-          "author": null,
-          "description": "Io tar höjd för mindre inkomster under kommande år.",
-          "link": "https://www.fz.se/artikel/291303-hitman-gangets-james-bond-slapps-kanske-inte-forran-tidigast-2025",
-          "publishedOn": "2022-08-31T18:30:00.000Z",
-          "wordCount": 1853,
-          "title": "Hitman-gängets James Bond släpps kanske inte förrän tidigast 2025",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291303"
         }
       ]
     },
@@ -14747,6 +14737,36 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/14/digital_silence_is_golden/",
+          "author": null,
+          "description": "<h4>There are beautiful, undisturbed places in the world. You do not have to catch 'em all</h4> <p>Social media has made it easy to create large communities and to communicate with them instantly. The downside is that when those communities cross over into the real world, crowds of people can cause real harm regardless of their intent.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/14/digital_silence_is_golden/",
+          "publishedOn": "2022-09-14T07:30:07.000Z",
+          "wordCount": 1441,
+          "title": "To preserve Earth's treasures, digital silence is golden",
+          "imageUrl": "https://regmedia.co.uk/2022/09/14/shutterstock_pin_drop_tropical_island.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/14/red_hat_wfh_policy/",
+          "author": null,
+          "description": "<h4>It works for the FOSS community, but Red Hat's version adds an 'office vibe' and desk-free ‘neighborhoods’</h4> <p>IBM's FOSS unit, Red Hat, has revealed its staff don't need to come back to the office – ever. But if they do, they'll find collaborative \"neighborhoods\" await them.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/14/red_hat_wfh_policy/",
+          "publishedOn": "2022-09-14T07:04:56.000Z",
+          "wordCount": 1368,
+          "title": "Red Hat lets staff stay away from the office forever",
+          "imageUrl": "https://regmedia.co.uk/2015/11/04/redhat-azure.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/14/rare_hexagonal_diamond_from_outer/",
+          "author": null,
+          "description": "<h4>'Lonsdaleite' is even harder than normal diamonds and its genesis shows how we might make more</h4> <p>A rare type of diamond that's even stronger than the usual form of the crystal was created when a large asteroid smashed into an ancient dwarf planet 4.5 billion years ago, researchers assert.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/14/rare_hexagonal_diamond_from_outer/",
+          "publishedOn": "2022-09-14T06:32:07.000Z",
+          "wordCount": 1306,
+          "title": "Rare hexagonal diamond formed by crash of dwarf planet and asteroid, scientists believe",
+          "imageUrl": "https://regmedia.co.uk/2022/09/14/shutterstock_planet_crash.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/14/special_competitive_studies_project_report/",
           "author": null,
@@ -16866,26 +16886,6 @@
           "wordCount": 1745,
           "title": "Cloudflare tries to explain why it protects far-right forums that stalk and harass victims",
           "imageUrl": "https://regmedia.co.uk/2019/09/16/hate_speech.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/31/toyota_commits_25b_to_north/",
-          "author": null,
-          "description": "<h4>Additional Japanese battery plant investments will add 40GWh of production capacity by 2026</h4> <p>Toyota says it plans to invest up to an additional $5.6 billion in electric vehicle (EV) battery production that it will split between facilities in the US and Japan. …</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/31/toyota_commits_25b_to_north/",
-          "publishedOn": "2022-08-31T19:31:10.000Z",
-          "wordCount": 1218,
-          "title": "Toyota commits $2.5b to North Carolina battery factory",
-          "imageUrl": "https://regmedia.co.uk/2022/07/14/shutterstock_lithium_ion_ev_battery.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/08/31/crypto_dotcom_australia_refund/",
-          "author": null,
-          "description": "<h4>Payment from Crypto.com was off by five zeroes because bank account number was mistakenly entered</h4> <p>An Australian woman has been sued after she received part of an erroneous refund from a cryptocurrency exchange – erroneous by five zeroes – that it failed to notice for seven months.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/08/31/crypto_dotcom_australia_refund/",
-          "publishedOn": "2022-08-31T18:47:10.000Z",
-          "wordCount": 1308,
-          "title": "Woman forced to sell 4-bed house after crypto exchange wrongly refunded $7.2m",
-          "imageUrl": "https://regmedia.co.uk/2017/09/15/shutterstock_cryptocurrencies.jpg"
         }
       ]
     }
