@@ -898,6 +898,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/cities-skylines-plazas-and-promenades-expansion-out-now-on-xbox-playstation-and-pc",
+          "author": "Matt Wales",
+          "description": "Cities Skylines' 11th major expansion, Plazas and Promenades, has skipped the release date announcement pre-amble to surprise-launch on Xbox, PlayStation, and PC today.\r\n\n\r\nPlazas and Promenades, which was announced back in August, brings a new pedestrianisation focus to developer Colossal Order's acclaimed city builder, giving players the tools needed to add pedestrian-only streets, pedestrian zones, and zone-specific policies.\r\n\n\r\nPedestrian Streets can be placed like any other road to create green city centres largely free of vehicles and pollution. These work in tandem with new pedestrian zones which can be augmented with new policies, such as Slow Driving (reducing the speed limit for all vehicles in the area to 20km an hour), and Street Music, which boosts happiness in pedestrianised commercial zones at the expense of noise pollution.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/cities-skylines-plazas-and-promenades-expansion-out-now-on-xbox-playstation-and-pc",
+          "publishedOn": "2022-09-14T19:00:00.000Z",
+          "wordCount": 4574,
+          "title": "Cities Skylines' Plazas and Promenades expansion out now on Xbox, PlayStation, and PC",
+          "imageUrl": "https://assets.reedpopcdn.com/Cities-Skylines-Plazas-and-Promenades-Marketplace.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Cities-Skylines-Plazas-and-Promenades-Marketplace.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/spider-gwen-confirmed-for-fortnites-gloop-season",
           "author": "Tom Phillips",
           "description": "A series of teasers for Fortnite's next season has confirmed the arrival of Spider-Man: Into the Spider-Verse's animated heroine Spider-Gwen.\r\n\n\r\nThis latest Marvel character to join Fortnite is one of four new skins teased today via a series of promotional images - each of which simply shows a hand reaching out of a puddle of gloop.\r\n\n\r\nFortnite's next season is set to begin this Sunday, 18th September, as its peaceful summer party gets consumed by chrome-coloured goo.\r\n \nRead more",
@@ -3666,16 +3676,6 @@
           "wordCount": 4543,
           "title": "Bomb Rush Cyberfunk delayed to 2023",
           "imageUrl": "https://assets.reedpopcdn.com/bomb-rush-cyberfunk.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/bomb-rush-cyberfunk.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/without-dungeons-dragons-fighting-fantasy-might-never-have-existed",
-          "author": "Robert Purchese",
-          "description": "What do you think of when you hear the words \"Fighting Fantasy\"? Do you remember being absorbed for hours as a child, hurriedly flipping pages and rolling dice, hoping you'd chosen the right path? Perhaps you talked about it with friends in the schoolyard, swapping strategies, comparing notes. You almost certainly remembered the deaths.\nWhatever you remember of it, the effect the books had is undeniable. More than 20 million copies have been sold, making writers Ian Livingstone and Steve Jackson best-selling authors, in addition to all of the other plaudits they've received. In fact, few people are as decorated in the games industry.\nAnd this year, Fighting Fantasy turns 40 years old, just like me. And in celebration, two new books are being released: Shadow of the Giants, by Livingstone, and Secrets of Salamonis, by Jackson. And they're coming out today - Thursday, 1st September.\n Read more",
-          "link": "https://www.eurogamer.net/without-dungeons-dragons-fighting-fantasy-might-never-have-existed",
-          "publishedOn": "2022-09-01T07:00:00.000Z",
-          "wordCount": 7405,
-          "title": "Without Dungeons & Dragons, Fighting Fantasy might never have existed",
-          "imageUrl": "https://assets.reedpopcdn.com/fighting_fantasy_cover_2.png/BROK/thumbnail/1600x900/format/jpg/quality/80/fighting_fantasy_cover_2.png"
         }
       ]
     },
@@ -5231,6 +5231,16 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/RADV-Lower-Draw-CPU-Overhead",
+          "author": null,
+          "description": "Mike Blumenkrantz has been working under contract for Valve on the open-source Zink OpenGL-on-Vulkan implementation for Mesa but that work has carried over into the Mesa Vulkan drivers too where there is common overlap. His recent work has been focused on lowering the CPU overhead of some operations with the RADV Vulkan driver...",
+          "link": "https://www.phoronix.com/news/RADV-Lower-Draw-CPU-Overhead",
+          "publishedOn": "2022-09-14T18:46:14.000Z",
+          "wordCount": 1374,
+          "title": "RADV Driver Sees Dramatic Improvement To Reduce CPU Overhead For Draw Calls",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/review/linux60-5950x-12900k",
           "author": null,
@@ -7935,6 +7945,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "vExWqKxBMfHsdnTdo68hbA",
+          "author": null,
+          "description": "AMD's partners to demo their B650 and B650E motherboards for AMD's Ryzen 7000 CPUs in early October.",
+          "link": "https://www.tomshardware.com/news/amd-mid-range-b650-platforms-for-zen-4-coming-in-october",
+          "publishedOn": "2022-09-14T18:15:09.000Z",
+          "wordCount": 21422,
+          "title": "AMD's Mid-Range B650/B650E Platforms for Zen 4 Coming in October",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/Y5UTb4tEgFHCngXsXmCq8V.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/Y5UTb4tEgFHCngXsXmCq8V.png"
+        },
         {
           "id": "KpR6KDNuovho6gRvaJNqhC",
           "author": "francisco.pires@outlook.com (Francisco Pires)",
@@ -11262,6 +11287,16 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1881324",
+          "author": "Jon Brodkin",
+          "description": "Jane Doe \"was re-victimized by this unconstitutional practice,\" lawsuit says.",
+          "link": "https://arstechnica.com/?p=1881324",
+          "publishedOn": "2022-09-14T18:05:03.000Z",
+          "wordCount": 1572,
+          "title": "San Francisco sued by woman who says her rape-kit DNA was used to arrest her",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-sf-police-chief-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1881175",
           "author": "Scharon Harding",
           "description": "New printers still block non-HP ink, but HP is compensating for lack of advance notice.",
@@ -12808,6 +12843,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291459",
+          "author": null,
+          "description": "PSP-spelet får en bredare publik i december.",
+          "link": "https://www.fz.se/artikel/291459-crisis-core-remastern-har-releasedatum",
+          "publishedOn": "2022-09-14T18:30:00.000Z",
+          "wordCount": 1849,
+          "title": "Crisis Core-remastern har releasedatum",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291459"
+        },
         {
           "id": "https://www.fz.se/artikel/291458",
           "author": null,
@@ -14377,16 +14422,6 @@
           "wordCount": 1871,
           "title": "Systemkraven för Hogwarts Legacy ser rätt snälla ut",
           "imageUrl": "https://www.fz.se/artikel/og-image/291307"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291306",
-          "author": null,
-          "description": "Och skjuter upp nedstängningen av spelens online-tjänster.",
-          "link": "https://www.fz.se/artikel/291306-ubisoft-ger-pc-spelare-en-chans-att-behalla-dlc-till-aldre-spel",
-          "publishedOn": "2022-09-01T06:54:00.000Z",
-          "wordCount": 1808,
-          "title": "Ubisoft ger pc-spelare en chans att behålla DLC till äldre spel",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291306"
         }
       ]
     },
@@ -15124,16 +15159,6 @@
           "wordCount": 1830,
           "title": "Samsung utökar Odyssey-familjen med ultrabred OLED",
           "imageUrl": "https://www.sweclockers.com/artikel/34852/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34849",
-          "author": null,
-          "description": "Sony bygger ut med ännu en avlång modell, som erbjuder 4K-inspelning i 120 FPS och autofokus med ögonspårning för samtliga av baksidans kameror.",
-          "link": "https://www.sweclockers.com/artikel/34849-sony-avtacker-xperia-5-iv-kompakt-telefon-med-videofokus",
-          "publishedOn": "2022-09-01T07:03:00.000Z",
-          "wordCount": 1778,
-          "title": "Sony avtäcker Xperia 5 IV – kompakt telefon med videofokus",
-          "imageUrl": "https://www.sweclockers.com/artikel/34849/og-image"
         }
       ]
     },
@@ -15402,6 +15427,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/14/struggling_pandemic_darling_twilio_lays/",
+          "author": null,
+          "description": "<h4>As Patreon ditches nearly a fifth of its workforce</h4> <p>Twilio has announced a restructuring effort that will end in an 11 percent cut of its workforce. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/14/struggling_pandemic_darling_twilio_lays/",
+          "publishedOn": "2022-09-14T18:45:06.000Z",
+          "wordCount": 1257,
+          "title": "Twilio more than decimates staff, CEO says it grew too fast",
+          "imageUrl": "https://regmedia.co.uk/2022/03/29/shutterstock_twilio.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/14/microsoft_azure_space_satellite/",
           "author": null,
@@ -17581,16 +17616,6 @@
           "wordCount": 1356,
           "title": "Goodbye, humans: Call centers 'could save $80b' switching to AI",
           "imageUrl": "https://regmedia.co.uk/2022/03/17/shutterstock_nuisancecall.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/01/webb_telescrope_malware/",
-          "author": null,
-          "description": "<h4>Is nothing sacred?</h4> <p>Scumbags are using a photo from the James Webb Space Telescope to smuggle Windows malware onto victims' computers – albeit in a roundabout way.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/01/webb_telescrope_malware/",
-          "publishedOn": "2022-09-01T07:04:15.000Z",
-          "wordCount": 1565,
-          "title": "Oh no, that James Webb Space Telescope snap might actually contain malware",
-          "imageUrl": "https://regmedia.co.uk/2021/12/23/shutrterstock_james_webb_space_telescope.jpg"
         }
       ]
     }

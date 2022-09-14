@@ -2,10 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-14T18:31:06.474Z</updated>
+    <updated>2022-09-14T19:21:13.117Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Cities Skylines' Plazas and Promenades expansion out now on Xbox, PlayStation, and PC]]></title>
+        <id>https://www.eurogamer.net/cities-skylines-plazas-and-promenades-expansion-out-now-on-xbox-playstation-and-pc</id>
+        <link href="https://www.eurogamer.net/cities-skylines-plazas-and-promenades-expansion-out-now-on-xbox-playstation-and-pc"/>
+        <updated>2022-09-14T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cities Skylines' 11th major expansion, Plazas and Promenades, has skipped the release date announcement pre-amble to surprise-launch on Xbox, PlayStation, and PC today.
+
+
+Plazas and Promenades, which was announced back in August, brings a new pedestrianisation focus to developer Colossal Order's acclaimed city builder, giving players the tools needed to add pedestrian-only streets, pedestrian zones, and zone-specific policies.
+
+
+Pedestrian Streets can be placed like any other road to create green city centres largely free of vehicles and pollution. These work in tandem with new pedestrian zones which can be augmented with new policies, such as Slow Driving (reducing the speed limit for all vehicles in the area to 20km an hour), and Street Music, which boosts happiness in pedestrianised commercial zones at the expense of noise pollution.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RADV Driver Sees Dramatic Improvement To Reduce CPU Overhead For Draw Calls]]></title>
+        <id>https://www.phoronix.com/news/RADV-Lower-Draw-CPU-Overhead</id>
+        <link href="https://www.phoronix.com/news/RADV-Lower-Draw-CPU-Overhead"/>
+        <updated>2022-09-14T18:46:14.000Z</updated>
+        <summary type="html"><![CDATA[Mike Blumenkrantz has been working under contract for Valve on the open-source Zink OpenGL-on-Vulkan implementation for Mesa but that work has carried over into the Mesa Vulkan drivers too where there is common overlap. His recent work has been focused on lowering the CPU overhead of some operations with the RADV Vulkan driver...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twilio more than decimates staff, CEO says it grew too fast]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/14/struggling_pandemic_darling_twilio_lays/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/14/struggling_pandemic_darling_twilio_lays/"/>
+        <updated>2022-09-14T18:45:06.000Z</updated>
+        <summary type="html"><![CDATA[<h4>As Patreon ditches nearly a fifth of its workforce</h4> <p>Twilio has announced a restructuring effort that will end in an 11 percent cut of its workforce. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crisis Core-remastern har releasedatum]]></title>
+        <id>https://www.fz.se/artikel/291459</id>
+        <link href="https://www.fz.se/artikel/291459-crisis-core-remastern-har-releasedatum"/>
+        <updated>2022-09-14T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[PSP-spelet får en bredare publik i december.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD's Mid-Range B650/B650E Platforms for Zen 4 Coming in October]]></title>
+        <id>vExWqKxBMfHsdnTdo68hbA</id>
+        <link href="https://www.tomshardware.com/news/amd-mid-range-b650-platforms-for-zen-4-coming-in-october"/>
+        <updated>2022-09-14T18:15:09.000Z</updated>
+        <summary type="html"><![CDATA[AMD's partners to demo their B650 and B650E motherboards for AMD's Ryzen 7000 CPUs in early October.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[San Francisco sued by woman who says her rape-kit DNA was used to arrest her]]></title>
+        <id>https://arstechnica.com/?p=1881324</id>
+        <link href="https://arstechnica.com/?p=1881324"/>
+        <updated>2022-09-14T18:05:03.000Z</updated>
+        <summary type="html"><![CDATA[Jane Doe "was re-victimized by this unconstitutional practice," lawsuit says.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Wandering Village is absolutely mesmerizing]]></title>
         <id>https://www.gamingonlinux.com/2022/09/the-wandering-village-is-absolutely-mesmerizing/</id>
@@ -19687,49 +19755,6 @@ PostgreSQL
 * OpenShift Serverless requires the application to be packaged as a container, something AWS Lamda does not require.]]></summary>
         <author>
             <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh no, that James Webb Space Telescope snap might actually contain malware]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/01/webb_telescrope_malware/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/01/webb_telescrope_malware/"/>
-        <updated>2022-09-01T07:04:15.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Is nothing sacred?</h4> <p>Scumbags are using a photo from the James Webb Space Telescope to smuggle Windows malware onto victims' computers – albeit in a roundabout way.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony avtäcker Xperia 5 IV – kompakt telefon med videofokus]]></title>
-        <id>https://www.sweclockers.com/artikel/34849</id>
-        <link href="https://www.sweclockers.com/artikel/34849-sony-avtacker-xperia-5-iv-kompakt-telefon-med-videofokus"/>
-        <updated>2022-09-01T07:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Sony bygger ut med ännu en avlång modell, som erbjuder 4K-inspelning i 120 FPS och autofokus med ögonspårning för samtliga av baksidans kameror.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Without Dungeons & Dragons, Fighting Fantasy might never have existed]]></title>
-        <id>https://www.eurogamer.net/without-dungeons-dragons-fighting-fantasy-might-never-have-existed</id>
-        <link href="https://www.eurogamer.net/without-dungeons-dragons-fighting-fantasy-might-never-have-existed"/>
-        <updated>2022-09-01T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[What do you think of when you hear the words "Fighting Fantasy"? Do you remember being absorbed for hours as a child, hurriedly flipping pages and rolling dice, hoping you'd chosen the right path? Perhaps you talked about it with friends in the schoolyard, swapping strategies, comparing notes. You almost certainly remembered the deaths.
-Whatever you remember of it, the effect the books had is undeniable. More than 20 million copies have been sold, making writers Ian Livingstone and Steve Jackson best-selling authors, in addition to all of the other plaudits they've received. In fact, few people are as decorated in the games industry.
-And this year, Fighting Fantasy turns 40 years old, just like me. And in celebration, two new books are being released: Shadow of the Giants, by Livingstone, and Secrets of Salamonis, by Jackson. And they're coming out today - Thursday, 1st September.
- Read more]]></summary>
-        <author>
-            <name>Robert Purchese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubisoft ger pc-spelare en chans att behålla DLC till äldre spel]]></title>
-        <id>https://www.fz.se/artikel/291306</id>
-        <link href="https://www.fz.se/artikel/291306-ubisoft-ger-pc-spelare-en-chans-att-behalla-dlc-till-aldre-spel"/>
-        <updated>2022-09-01T06:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Och skjuter upp nedstängningen av spelens online-tjänster.]]></summary>
-        <author>
-            <name>FZ.se</name>
         </author>
     </entry>
 </feed>
