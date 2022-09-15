@@ -928,6 +928,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/mirrormoon-ep-devs-ever-shifting-survival-horror-adventure-saturnalia-out-in-october",
+          "author": "Matt Wales",
+          "description": "Saturnalia - the striking multi-character survival horror from acclaimed developer Santa Ragione - finally has a release date, and will be inviting PlayStation, Xbox, Switch, and PC players into its ever-shifting labyrinth on 27th October.\r\n\n\r\nWe're big fans of Santa Ragione's previous work, which includes MirrorMoon EP and Fotonica, around these parts, and Saturnalia sounds just as intriguing. It's a survival horror adventure, of sorts - one heavily influenced by the folklore of Sardinia - that sees players guiding four different characters through a mysterious ancient village steeped in murky rituals.\r\n\n\r\nThe goal of Saturnalia is to investigate, and ultimately solve, the mystery of village, but there are shadowy things in the night determined to stop you. Should you get captured as one character, you can switch to another and attempt a rescue - but once all four characters are dead, the village gets to reassert itself, its labyrinthine layout physically reconfiguring for another attempt. Narrative and puzzle progress, however, is retained across game-overs.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/mirrormoon-ep-devs-ever-shifting-survival-horror-adventure-saturnalia-out-in-october",
+          "publishedOn": "2022-09-15T19:01:33.000Z",
+          "wordCount": 4597,
+          "title": "MirrorMoon EP dev's ever-shifting survival horror Saturnalia out in October",
+          "imageUrl": "https://assets.reedpopcdn.com/saturnalia-screen-shot.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/saturnalia-screen-shot.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/call-of-duty-warzone-20-gets-a-release-date-and-an-all-new-third-person-mode",
           "author": "Martin Robinson",
           "description": "Following tonight's big Call of Duty blowout we finally have a release date for the much-anticipated Warzone 2.0 - plus we've plenty more details on what to expect. \r\n\n\r\nWarzone 2.0 is set to launch on 16th November, some two weeks after the launch of Modern Warfare 2 on 28th October. The pair will share the same engine, a first for the Call of Duty franchise and one that should ensure parity and a more consistent feature set - all of which makes this feel like something of a new dawn for the series. Warzone 2.0 introduces the new desert map of Al Mazrah, plus some of its own twists on the battle royale formula such as multiple circles appearing in certain end-game scenarios. It'll also feature a new AI faction, with Strong Holds harbouring loot patrolled by NPCs, and a tweaked Gulag system. There will also be a new sandbox mode called DMZ, and while details remain slim it does indeed sound like Warzone's take on Escape from Tarkov. \r\n\n\r\nLike other popular battle royale titles it will also feature a third-person view - something entirely new for Warzone 2.0, and an addition that will likely be the subject of some debate. Third-person playlists will also be available in Modern Warfare 2, harking back to the third-person mode that was available in the original Call of Duty: Modern Warfare 2 back in 2009.\r\n \nRead more",
@@ -5321,6 +5331,26 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/CloudFlare-Pingora-No-Nginx",
+          "author": null,
+          "description": "CloudFlare has long relied upon Nginx as part of its HTTP proxy stack but now has replaced it with their in-house, Rust-written Pingora software that is said to be serving over one trillion requests per day and delivering better performance while only using about a third of the CPU and memory resources...",
+          "link": "https://www.phoronix.com/news/CloudFlare-Pingora-No-Nginx",
+          "publishedOn": "2022-09-15T18:56:30.000Z",
+          "wordCount": 1445,
+          "title": "CloudFlare Ditches Nginx For In-House, Rust-Written Pingora",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Vulkan-1.3.228-Released",
+          "author": null,
+          "description": "The Khronos Group's Vulkan Working Group today released Vulkan API 1.3.228. Aside from the usual assortment of fixes/clarifications to the Vulkan spec, this spec update promotes one of Valve's existing extensions aimed at enhancing Direct3D 12 emulation with Vulkan onto being a formal \"EXT\" extension...",
+          "link": "https://www.phoronix.com/news/Vulkan-1.3.228-Released",
+          "publishedOn": "2022-09-15T18:44:52.000Z",
+          "wordCount": 1460,
+          "title": "Vulkan 1.3.228 Promotes One Of Valve's Extensions Used For Efficient D3D12 Emulation",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Godot-4.0-Beta-1",
           "author": null,
@@ -14567,16 +14597,6 @@
           "wordCount": 2507,
           "title": "Destroy All Humans 2: Reprobed",
           "imageUrl": "https://www.fz.se/artikel/og-image/291318"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291321",
-          "author": null,
-          "description": "Finnarna ska tydligen få stryk i CS:GO, Dota 2, Rocket League och Tekken 7.",
-          "link": "https://www.fz.se/artikel/291321-e-sport-blir-en-del-av-arets-finnkamp",
-          "publishedOn": "2022-09-02T06:57:00.000Z",
-          "wordCount": 1803,
-          "title": "E-sport blir en del av årets Finnkamp",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291321"
         }
       ]
     },
@@ -15294,16 +15314,6 @@
           "wordCount": 1765,
           "title": "ARM stämmer Qualcomm för licensbrott",
           "imageUrl": "https://www.sweclockers.com/artikel/34851/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34857",
-          "author": null,
-          "description": "AMD bekräftar att DDR5 i 6 000 MHz ger användare bäst balans mellan pris, prestanda och stabilitet. Samtidigt delas nya riktlinjer för Infinity Fabric-inställningar.",
-          "link": "https://www.sweclockers.com/artikel/34857-amd-minnesfrekvensen-6-000-mhz-optimal-for-ryzen-7000",
-          "publishedOn": "2022-09-02T06:39:08.000Z",
-          "wordCount": 1756,
-          "title": "AMD: \"Minnesfrekvensen 6 000 MHz optimal för Ryzen 7000\"",
-          "imageUrl": "https://www.sweclockers.com/artikel/34857/og-image"
         }
       ]
     },
@@ -15572,6 +15582,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/15/taiwan_military_support/",
+          "author": null,
+          "description": "<h4>Gotta keep those phone processors and GPUs coming, folks</h4> <p>A US Senate committee has advanced a law bill that would provide billions in military support to Taiwan, the island nation that makes so many many of our chips and is being menaced by China.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/15/taiwan_military_support/",
+          "publishedOn": "2022-09-15T18:48:19.000Z",
+          "wordCount": 1354,
+          "title": "We should give Taiwan $4.5b to protect chip fabs from China, say US senators",
+          "imageUrl": "https://regmedia.co.uk/2015/08/25/taiwan.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/15/biden_900m_electric_vehicles/",
           "author": null,
@@ -17761,16 +17781,6 @@
           "wordCount": 1272,
           "title": "Terminal downgrade saves the day after a client/server heist",
           "imageUrl": "https://regmedia.co.uk/2022/09/01/shutterstock_green_screen_terminal.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/02/vmware_cloud_flex_compute_aws/",
-          "author": null,
-          "description": "<h4>vSphere users can start smaller without paying cluster-bucks</h4> <p><strong>VMware Explore</strong>  VMware has made a profound change to its partnership with AWS by removing the need to run its wares on dedicated clusters.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/02/vmware_cloud_flex_compute_aws/",
-          "publishedOn": "2022-09-02T06:32:09.000Z",
-          "wordCount": 1480,
-          "title": "VMware’s Amazonian incarnation drops requirement to run on dedicated hosts",
-          "imageUrl": "https://regmedia.co.uk/2020/11/24/shutterstock_vmware.jpg"
         }
       ]
     }
