@@ -141,6 +141,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/09/godot-engine-4-hits-beta-with-absolutely-loads-new/",
+          "author": "Liam Dawe",
+          "description": "Godot Engine, the powerful free and open source game engine that is becoming increasingly popular has a massive new Beta release available for Godot 4.",
+          "link": "https://www.gamingonlinux.com/2022/09/godot-engine-4-hits-beta-with-absolutely-loads-new/",
+          "publishedOn": "2022-09-15T18:05:15.000Z",
+          "wordCount": 1140,
+          "title": "Godot Engine 4 hits Beta with absolutely loads new",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/553790141id21606gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/09/golf-with-your-friends-gets-a-free-sports-update-plus-a-free-weekend/",
           "author": "Liam Dawe",
           "description": "Team17 have announced that the latest big free update for Golf With Your Friends is out now, plus it's going on a Free Weekend so you can try before you buy.",
@@ -917,6 +927,26 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/call-of-duty-warzone-20-gets-a-release-date-and-an-all-new-third-person-mode",
+          "author": "Martin Robinson",
+          "description": "Following tonight's big Call of Duty blowout we finally have a release date for the much-anticipated Warzone 2.0 - plus we've plenty more details on what to expect. \r\n\n\r\nWarzone 2.0 is set to launch on 16th November, some two weeks after the launch of Modern Warfare 2 on 28th October. The pair will share the same engine, a first for the Call of Duty franchise and one that should ensure parity and a more consistent feature set - all of which makes this feel like something of a new dawn for the series. Warzone 2.0 introduces the new desert map of Al Mazrah, plus some of its own twists on the battle royale formula such as multiple circles appearing in certain end-game scenarios. It'll also feature a new AI faction, with Strong Holds harbouring loot patrolled by NPCs, and a tweaked Gulag system. There will also be a new sandbox mode called DMZ, and while details remain slim it does indeed sound like Warzone's take on Escape from Tarkov. \r\n\n\r\nLike other popular battle royale titles it will also feature a third-person view - something entirely new for Warzone 2.0, and an addition that will likely be the subject of some debate. Third-person playlists will also be available in Modern Warfare 2, harking back to the third-person mode that was available in the original Call of Duty: Modern Warfare 2 back in 2009.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/call-of-duty-warzone-20-gets-a-release-date-and-an-all-new-third-person-mode",
+          "publishedOn": "2022-09-15T18:00:29.000Z",
+          "wordCount": 4762,
+          "title": "Call of Duty: Warzone 2.0 gets a release date and an all-new third person mode",
+          "imageUrl": "https://assets.reedpopcdn.com/modern-warfare-2-visual-3.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/modern-warfare-2-visual-3.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/lego-bricktales-still-gorgeous-gets-an-october-release-date",
+          "author": "Matt Wales",
+          "description": "Lego Bricktales, the beautiful diorama-based puzzler from developer ClockStone, finally has a release date and will be coming to Switch, Xbox, PlayStation, and PC on 12th October.\r\n\n\r\nAnnounced back in March, Lego Bricktales sees players traversing five gorgeous, brick-based dioramas - a lush jungle, sun-drenched desert, bustling city corner, medieval castle, and tropical island - as they, with the assistant of a cute robot pal, embark on a quest to help their grandfather reinvigorate his rundown amusement park.\r\n\n\r\nThe ensuing adventure offers a blend of puzzling and questing based around Lego Bricktales' brick-by-brick building mechanic, challenging players to come up with a solution to a particular task at hand by building something from a limited number of bricks - a bridge to cross a river, for instance, or a flyable, physics-based gyrocopter.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/lego-bricktales-still-gorgeous-gets-an-october-release-date",
+          "publishedOn": "2022-09-15T17:57:04.000Z",
+          "wordCount": 4582,
+          "title": "Lego Bricktales still gorgeous, gets an October release date",
+          "imageUrl": "https://assets.reedpopcdn.com/lego-bricktales_EvdhQFZ.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/lego-bricktales_EvdhQFZ.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/acclaimed-southern-gothic-mystery-norco-coming-to-consoles-next-month",
           "author": "Matt Wales",
@@ -5292,6 +5322,26 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Godot-4.0-Beta-1",
+          "author": null,
+          "description": "It was just a few days ago that Godot 4.0 Alpha 17 was released while also announcing that W4 Games as the start-up created by Godot Engine developers has raised $8.5M USD to advance the open-source Godot ecosystem. They are now celebrating by releasing the long-awaited Godot 4.0 beta release...",
+          "link": "https://www.phoronix.com/news/Godot-4.0-Beta-1",
+          "publishedOn": "2022-09-15T17:45:23.000Z",
+          "wordCount": 1392,
+          "title": "Godot 4.0 Beta 1 Released With Shiny Vulkan Renderer, Tons Of Other Improvements",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/HEVC-VA-API-To-D3D12-Mesa",
+          "author": null,
+          "description": "In addition to Microsoft continuing to work on OpenGL / OpenCL / Vulkan atop Direct3D 12 by leveraging Mesa in order to benefit Windows Subsystem for Linux (WSL2) and related use-cases, Microsoft engineers have also been working on exposing video acceleration to Linux software backed by Direct3D 12 Video Acceleration...",
+          "link": "https://www.phoronix.com/news/HEVC-VA-API-To-D3D12-Mesa",
+          "publishedOn": "2022-09-15T17:31:56.000Z",
+          "wordCount": 1309,
+          "title": "Microsoft Lands HEVC Video Encode/Decode Within Mesa Using VA-API To Direct3D 12",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/KDE-Plasma-5.26-Beta",
           "author": null,
           "description": "The KDE community has today released the beta of the upcoming Plasma 5.26 desktop...",
@@ -7975,6 +8025,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "DnKDLUyDwMwu25a3DgtWrd",
+          "author": null,
+          "description": "We take a look at GPU prices on eBay over the two weeks prior to Ethereum's Merge and the virtual end of GPU mining profitability.",
+          "link": "https://www.tomshardware.com/news/gpu-prices-right-before-ethereum-merge",
+          "publishedOn": "2022-09-15T18:14:37.000Z",
+          "wordCount": 22336,
+          "title": "A Close Look at GPU Prices Right Before the Ethereum Merge",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/VVjAsRCyyaAFsuFmAewTqc.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/VVjAsRCyyaAFsuFmAewTqc.jpg"
+        },
         {
           "id": "LKYAA3KPt96L6TuED8HAE",
           "author": null,
@@ -11226,6 +11291,96 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1881649",
+          "author": "Kevin Purdy",
+          "description": "Electron-based Teams apps can be easily mined for tokens and used for phishing.",
+          "link": "https://arstechnica.com/?p=1881649",
+          "publishedOn": "2022-09-15T17:27:30.000Z",
+          "wordCount": 1601,
+          "title": "Microsoft Teams stores cleartext auth tokens, won’t be quickly patched",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/50779003257_d5ef47f87d_o-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1881404",
+          "author": "Samuel Axon",
+          "description": "The dream of the '90s is alive on Discord.",
+          "link": "https://arstechnica.com/?p=1881404",
+          "publishedOn": "2022-09-15T17:20:01.000Z",
+          "wordCount": 1414,
+          "title": "Discord’s new feature looks a bit like Internet forums—with a dash of Reddit",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2018/12/discord-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1881627",
+          "author": "Ron Amadeo",
+          "description": "The group has launched several successful projects, but now it's focusing on AI.",
+          "link": "https://arstechnica.com/?p=1881627",
+          "publishedOn": "2022-09-15T17:09:00.000Z",
+          "wordCount": 1504,
+          "title": "More Google cost cutting cancels half of the Area 120 projects",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/13-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1881588",
+          "author": "Benj Edwards",
+          "description": "Adept's ACT-1 has learned how to automate complex UI tasks in web apps using an AI model.",
+          "link": "https://arstechnica.com/?p=1881588",
+          "publishedOn": "2022-09-15T16:52:22.000Z",
+          "wordCount": 1750,
+          "title": "New AI assistant can browse, search, and use web apps like a human",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/act1_hero_1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1881665",
+          "author": "Jon Brodkin",
+          "description": "Ethereum replaces proof-of-work with proof-of-stake, making miners unnecessary.",
+          "link": "https://arstechnica.com/?p=1881665",
+          "publishedOn": "2022-09-15T16:39:52.000Z",
+          "wordCount": 1908,
+          "title": "Ethereum completes the “Merge,” which ends mining and cuts energy use by 99.95%",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-blockchain-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1881710",
+          "author": "WIRED",
+          "description": "Yurii Shchyhol gives a rare interview about the state of the online conflict with Russia.",
+          "link": "https://arstechnica.com/?p=1881710",
+          "publishedOn": "2022-09-15T16:34:58.000Z",
+          "wordCount": 1609,
+          "title": "Ukraine’s cyberwar chief sounds like he’s winning",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/yuri-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1881626",
+          "author": "John Timmer",
+          "description": "DNA may enable computation in storage on massive data sets.",
+          "link": "https://arstechnica.com/?p=1881626",
+          "publishedOn": "2022-09-15T16:28:34.000Z",
+          "wordCount": 1795,
+          "title": "Why are hard drive companies investing in DNA data storage?",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1352375746-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1881623",
+          "author": "Ashley Belanger",
+          "description": "Seesaw has declined to say how many accounts were spammed with Goatse.",
+          "link": "https://arstechnica.com/?p=1881623",
+          "publishedOn": "2022-09-15T15:57:04.000Z",
+          "wordCount": 1684,
+          "title": "Hack of popular parent-teacher app left users wide open to infamous shock image [Updated]",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1266301908-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1881611",
+          "author": "Jonathan M. Gitlin",
+          "description": "Now that there's an industry standard, automakers are starting to deploy the tech.",
+          "link": "https://arstechnica.com/?p=1881611",
+          "publishedOn": "2022-09-15T15:34:05.000Z",
+          "wordCount": 1517,
+          "title": "Easier than a plug: Wireless EV charging gets ready for prime time",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/WiTricity-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1881544",
           "author": "Beth Mole",
@@ -15418,6 +15573,16 @@
       "siteUrl": "https://www.theregister.com/",
       "articles": [
         {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/15/biden_900m_electric_vehicles/",
+          "author": null,
+          "description": "<h4>34 states and Puerto Rico sharing pot to fund chargers along interstate highways</h4> <p>Electric vehicle charging is about to get easier in 34 US states and Puerto Rico, as government officials have approved plans to start spending infrastructure bill money on building support for EVs.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/15/biden_900m_electric_vehicles/",
+          "publishedOn": "2022-09-15T17:45:13.000Z",
+          "wordCount": 1596,
+          "title": "Biden administration to dole out $900m for electric vehicle infrastructure",
+          "imageUrl": "https://regmedia.co.uk/2020/04/06/electric_car_charging.jpg"
+        },
+        {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/15/cgiar_linux_foundation/",
           "author": null,
           "description": "<h4>'Sharing of agricultural data can help develop solutions to some of the food system's most pressing challenges'</h4> <p>Food security group CGIAR is working with the Linux Foundation to standardize data sharing about agricultural fields on a global scale.…</p>",
@@ -17606,16 +17771,6 @@
           "wordCount": 1480,
           "title": "VMware’s Amazonian incarnation drops requirement to run on dedicated hosts",
           "imageUrl": "https://regmedia.co.uk/2020/11/24/shutterstock_vmware.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/02/lenovo_wearable_display/",
-          "author": null,
-          "description": "<h4>Not worthy of the name 'smart glasses' and not sold outside China until 2023</h4> <p>Lenovo has launched a face-mounted wearable monitor.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/02/lenovo_wearable_display/",
-          "publishedOn": "2022-09-02T05:30:14.000Z",
-          "wordCount": 1076,
-          "title": "Lenovo launches face-mounted monitor",
-          "imageUrl": "https://regmedia.co.uk/2022/09/02/supplied_lenovo_t1_wearable_display_lifestyle.jpg"
         }
       ]
     }
