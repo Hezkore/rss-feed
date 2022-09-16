@@ -3536,16 +3536,6 @@
           "wordCount": 4682,
           "title": "Microsoft says Call of Duty will be on PlayStation for \"at least several more years\" beyond existing deal",
           "imageUrl": "https://assets.reedpopcdn.com/call-of-duty-vanguard_kiHKiN8.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/call-of-duty-vanguard_kiHKiN8.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/splitgate-is-ending-feature-development-so-dev-can-focus-on-new-game-in-same-universe",
-          "author": "Matt Wales",
-          "description": "Developer 1047 Games has announced it will be \"ending feature development\" on its acclaimed free-to-play sci-fi shooter Splitgate in order to shift its focus to creating a new game in the same universe.\r\n\n\r\nSplitgate - which has been described as \"Halo meets Portal\" in some quarters - made quite the splash last year. Despite having been around on PC since May 2019, an open crossplay beta for Xbox, PlayStation, and PC proved so popular that 1047 Games elected to delay the game's multi-platform early access launch in order to better accommodate its unexpected surge in popularity.\r\n\n\r\n1047 Games has continued to build on that success in the months since, most recently launching Splitgate's beta season two in July. However, the developer has now said it will be \"ending feature development\" on the game as a result of what it seemingly considers to be insurmountable legacy issues.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/splitgate-is-ending-feature-development-so-dev-can-focus-on-new-game-in-same-universe",
-          "publishedOn": "2022-09-02T18:23:51.000Z",
-          "wordCount": 4854,
-          "title": "Splitgate \"ending feature development\" so dev can focus on new game in same universe",
-          "imageUrl": "https://assets.reedpopcdn.com/splitgate-screen.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/splitgate-screen.jpg"
         }
       ]
     },
@@ -4993,16 +4983,6 @@
           "wordCount": 5321,
           "title": "\"Telltale will remember that\": Why New Tales from the Borderlands dropped the infamous conversation prompt",
           "imageUrl": "https://asset.vg247.com/New-tales-from-the-borderlands-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/New-tales-from-the-borderlands-header.jpg"
-        },
-        {
-          "id": "https://www.vg247.com/what-are-you-playing-this-weekend-21",
-          "author": "Stephany Nunneley",
-          "description": "It's a three-day weekend in the US, which means those of you in the region will hopefully be enjoying the time off.\nThe Labor Day weekend is usually like any other long weekend in the US. Full of barbeques, relaxing, having a few drinks, and enjoying what's left of the summer. As you see, this is the last summer holiday weekend for us, and it also signals the end of the swimming season at public pools. This is fine for some of us who have a phobia of community swimming pools (pools are NOT a unrinal people!)\nFor the rest of the folks not in the US, it's probably just an ordinary weekend, but time off nonetheless, so why not enjoy it by playing some games? That's what the folks at VG247 plan to do.\n Read more",
-          "link": "https://www.vg247.com/what-are-you-playing-this-weekend-21",
-          "publishedOn": "2022-09-02T18:52:20.000Z",
-          "wordCount": 5466,
-          "title": "What are you playing this weekend?",
-          "imageUrl": "https://asset.vg247.com/fenyx.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/fenyx.jpg"
         }
       ]
     },
@@ -5011,6 +4991,16 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Oktoberfest-Sale-2022",
+          "author": null,
+          "description": "A decade ago there used to be an annual Phoronix pilgrimage (and closest thing in many years to taking a vacation/holiday/day-off for me) to Oktoberfest and a meet-up of Phoronix readers. While Oktoberfest is kicking off this weekend in Munich after a two year hiatus due to the pandemic, unfortunately, there is no Phoronix event. But will be in spirit and making use of the occasion by running the annual \"Oktoberfest sale\" if wishing to show your support for all the Linux hardware reviews, benchmarking, and open-source news carried out each and every day. Additionally, Stripe is now accepted for Phoronix Premium subscriptions as an alternative to PayPal. Phoronix Premium corporate subscriptions are also now being offered...",
+          "link": "https://www.phoronix.com/news/Oktoberfest-Sale-2022",
+          "publishedOn": "2022-09-16T07:00:00.000Z",
+          "wordCount": 1871,
+          "title": "Phoronix Oktoberfest Special Begins, Premium Now Accept Stripe & Corporate Subscriptions Available",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/FUTEX2-NUMA-Still-Coming-2022",
           "author": null,
@@ -6149,26 +6139,6 @@
           "publishedOn": "2022-09-03T09:05:23.000Z",
           "wordCount": 1264,
           "title": "PipeWire 0.3.57 Adds AAC Decoder, Opus For Bluetooth",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/sdl12-compat-1.254",
-          "author": null,
-          "description": "The sdl12-compat is a SDL 1.2 compatibility layer implementation atop SDL 2.0. This sdl12-compat project allows for old, out-of-date games and other applications relying on the old SDL 1.2 interface to in turn run via the modern SDL2 library for better compatibility with input devices, Wayland support (assuming no direct X11 hard dependencies), support for PipeWire audio, improved input controls, and various other enhancements only found in SDL 2.0 and not the unmaintained SDL 1.2...",
-          "link": "https://www.phoronix.com/news/sdl12-compat-1.254",
-          "publishedOn": "2022-09-02T19:29:04.000Z",
-          "wordCount": 1383,
-          "title": "sdl12-compat 1.2.54 Pre-Release Gets More Games Running On This SDL2 Compatibility Layer",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Intel-Linux-Vulkan-Mesh-Shader",
-          "author": null,
-          "description": "Intel's open-source \"ANV\" Vulkan driver for Linux systems has added support for the newly-ratified Vulkan mesh shader extension...",
-          "link": "https://www.phoronix.com/news/Intel-Linux-Vulkan-Mesh-Shader",
-          "publishedOn": "2022-09-02T18:24:17.000Z",
-          "wordCount": 1417,
-          "title": "Intel's Open-Source Driver Lands Vulkan Mesh Shader Support",
           "imageUrl": null
         }
       ]
@@ -12395,16 +12365,6 @@
           "wordCount": 1754,
           "title": "After careful consideration, NASA ready to launch SLS rocket as is",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/Artemis-I-Aug-19-2022-8968-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1878094",
-          "author": "Ashley Belanger",
-          "description": "Researchers analyzed real recommendations to hundreds of YouTube users.",
-          "link": "https://arstechnica.com/?p=1878094",
-          "publishedOn": "2022-09-02T19:20:59.000Z",
-          "wordCount": 1878,
-          "title": "YouTube algorithm pushed election fraud claims to Trump supporters, report says",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1242131062-760x380.jpg"
         }
       ]
     },
@@ -12413,6 +12373,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291477",
+          "author": null,
+          "description": "Vågar man hoppas på att spelet faktiskt visas upp snart?",
+          "link": "https://www.fz.se/artikel/291477-star-wars-eclipse-blir-klassiskt-quantic-dream-men-som-action-aventyr",
+          "publishedOn": "2022-09-16T06:57:00.000Z",
+          "wordCount": 1935,
+          "title": "Star Wars Eclipse blir klassiskt Quantic Dream, men som action-äventyr",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291477"
+        },
         {
           "id": "https://www.fz.se/artikel/291476",
           "author": null,
@@ -13942,16 +13912,6 @@
           "wordCount": 1784,
           "title": "Naughty Dog hedrar en bortgången kollega i The Last of Us Part 1",
           "imageUrl": "https://www.fz.se/artikel/og-image/291332"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291331",
-          "author": null,
-          "description": "8 november är det skarpt läge.",
-          "link": "https://www.fz.se/artikel/291331-tveksam-nyfiken-sega-ger-oss-en-genomgang-av-sonic-frontiers-i-videoform",
-          "publishedOn": "2022-09-02T18:30:00.000Z",
-          "wordCount": 1906,
-          "title": "Tveksam? Nyfiken? Sega ger oss en genomgång av Sonic Frontiers i videoform",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291331"
         }
       ]
     },
@@ -13960,6 +13920,16 @@
       "feedUrl": "https://www.sweclockers.com/feeds/nyheter",
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
+        {
+          "id": "https://www.sweclockers.com/artikel/34932",
+          "author": null,
+          "description": "Asrock breddar Phantom Gaming-sortimentet med en ny skärm som försetts med Wifi-antenn för att hålla uppkopplingen stabil, även om datorn stuvats undan.",
+          "link": "https://www.sweclockers.com/artikel/34932-asrock-presenterar-skarm-med-inbyggd-wifi-antenn",
+          "publishedOn": "2022-09-16T07:08:42.000Z",
+          "wordCount": 1713,
+          "title": "Asrock presenterar skärm med inbyggd Wifi-antenn",
+          "imageUrl": "https://www.sweclockers.com/artikel/34932/og-image"
+        },
         {
           "id": "https://www.sweclockers.com/artikel/34933",
           "author": null,
@@ -14887,6 +14857,36 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/16/on_call/",
+          "author": null,
+          "description": "<h4>In the 1970s, everything was carpeted. Even, rather problematically, the storage array's air filter</h4> <p><strong>On Call</strong>  Welcome once more to the Friday frolic that is On Call, <i>The Register</i>'s forum for your tales of heroic rescues achieved against the odds.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/16/on_call/",
+          "publishedOn": "2022-09-16T07:25:05.000Z",
+          "wordCount": 1285,
+          "title": "Keeping printers quiet broke disk drives, thanks to very fuzzy logic",
+          "imageUrl": "https://regmedia.co.uk/2022/09/16/shutterstock_red_carpet.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/16/cfius_executive_order/",
+          "author": null,
+          "description": "<h4>Not aimed specifically at China … just nations that behave a lot like China</h4> <p>President Biden has issued an executive order that prohibits certain entities from investing in US organizations if it will give the investor access to certain information technologies and/or US data.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/16/cfius_executive_order/",
+          "publishedOn": "2022-09-16T06:58:05.000Z",
+          "wordCount": 1399,
+          "title": "US bans some foreign investments in chips, AI, quantum computing",
+          "imageUrl": "https://regmedia.co.uk/2022/09/16/shutterstock_mangifying_glass_us_dollar.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/16/uk_meteor_spacex/",
+          "author": null,
+          "description": "<h4>Expert tells <i>El Reg</i>: 'It was unusual, a geometrical curiosity'</h4> <p><strong>Video</strong>  The fireball spotted charging through the night-time skies of Scotland and Northern Ireland this week, initially thought to have been some fallen SpaceX hardware, was a meteor after all, according to the UK Meteor Network.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/16/uk_meteor_spacex/",
+          "publishedOn": "2022-09-16T06:23:15.000Z",
+          "wordCount": 1413,
+          "title": "Queen's shooting star was actually meteor, not SpaceX junk",
+          "imageUrl": "https://regmedia.co.uk/2019/09/05/meteor_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/16/record_european_ddos_attack_akamai/",
           "author": null,
@@ -17016,16 +17016,6 @@
           "wordCount": 1413,
           "title": "Convicted felon busted for 3D printing gun parts",
           "imageUrl": "https://regmedia.co.uk/2022/09/02/3d_printed_gun_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/02/meta_metaverse_qualcomm/",
-          "author": null,
-          "description": "<h4>More silicon sales for us says Qualcomm</h4> <p>Meta’s latest move in the effort to reinvent Second Life, or roll out the metaverse, involves building better VR chips and it's trusting Qualcomm with the job.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/02/meta_metaverse_qualcomm/",
-          "publishedOn": "2022-09-02T18:45:18.000Z",
-          "wordCount": 1393,
-          "title": "Meta hedges bets on metaverse silicon with Qualcomm VR deal",
-          "imageUrl": "https://regmedia.co.uk/2021/11/09/metaverse_shutterstock.jpg"
         }
       ]
     }
