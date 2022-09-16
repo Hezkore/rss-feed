@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-16T04:57:05.016Z</updated>
+    <updated>2022-09-16T06:12:01.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Eastern European org hit by second record-smashing DDoS attack]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/16/record_european_ddos_attack_akamai/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/16/record_european_ddos_attack_akamai/"/>
+        <updated>2022-09-16T06:04:05.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Cough, cough, U, cough, kraine</h4> <p>Akamai says it has absorbed the largest-ever publicly known distributed denial of service (DDoS) attack – an assault against an unfortunate Eastern European organization that went beyond 700 million packets per second.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Street Fighter 6: Twenty fist-pounding minutes of new hands-on PS5 gameplay]]></title>
+        <id>https://www.vg247.com/street-fighter-6-twenty-fist-pounding-minutes-of-new-hands-on-ps5-gameplay</id>
+        <link href="https://www.vg247.com/street-fighter-6-twenty-fist-pounding-minutes-of-new-hands-on-ps5-gameplay"/>
+        <updated>2022-09-16T05:50:50.000Z</updated>
+        <summary type="html"><![CDATA[Street Fighter 6 is looking polished as hell - let’s make that clear from the off. It represents a massive course-correction from the controversial mis-steps of SFV, but it hasn’t jettisoned everything from the previous game: everything salvageable has been iterated and improved upon, resulting in a blend of SF4, SF5, and a breadth of new ideas.
+Alex’s hands-on session with the Tokyo Game Show build focused on four newly revealed characters: the powerful but unwieldy Guile, for starters. Juri, whose SF6 incarnation is a refinement on her SF5 version but with some of her fan-favourite moveset brought in from SF4. Kimberly, an entirely new character for SF6 but with strong links to the wider Capcom lore.
+And, lastly, Ken Masters; resplendent here in his “she’s turned the weans against us” era garb. Despite the divorcee-chic, though, it’s still the same old Ken: if he was your main in 1991, he’ll feel like being right back home again. Assuming she didn’t get the house.
+ Read more]]></summary>
+        <author>
+            <name>Jim Trinca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU puts smart device manufacturers on the hook for cyber security]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/16/eu_cyber_resilience_act/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/16/eu_cyber_resilience_act/"/>
+        <updated>2022-09-16T05:33:56.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Requires five years of patching, 24 hour incident reporting, and proper security … for starters</h4> <p>The European Commission has revealed a Cyber Resilience Act that will require manufacturers of connected devices to secure them properly before shipping, disclose and fix flaws promptly, and guarantee fixes will flow for five years.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NUMA Interface For FUTEX2 Still Being Tackled For Linux]]></title>
+        <id>https://www.phoronix.com/news/FUTEX2-NUMA-Still-Coming-2022</id>
+        <link href="https://www.phoronix.com/news/FUTEX2-NUMA-Still-Coming-2022"/>
+        <updated>2022-09-16T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Merged last year for the Linux 5.16 cycle was FUTEX2's futex_waitv() system call for waiting on multiple futexes in order to better match the behavior of Microsoft Windows. This FUTEX2 initiative was driven as an effort to further enhance Linux gaming performance/efficiency particularly for Valve's Steam Play. Originally there were other goals with FUTEX2 and now we are seeing another one of those being worked on: NUMA awareness...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Uncharted: Legacy of Thieves släpps till PC den 19 oktober]]></title>
         <id>https://www.sweclockers.com/artikel/34933</id>
@@ -97,6 +140,16 @@ In the open beta, maps with water will showcase these enhancements, and you can 
         <summary type="html"><![CDATA[Despite roadblocks from the U.S., SMIC continues to develop thinner nodes.]]></summary>
         <author>
             <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comic for 2022.09.16 - Dead Body]]></title>
+        <id>https://explosm.net/comics/dead-body</id>
+        <link href="https://explosm.net/comics/dead-body"/>
+        <updated>2022-09-16T00:00:27.000Z</updated>
+        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
+        <author>
+            <name>Explosm.net</name>
         </author>
     </entry>
     <entry>
@@ -18993,95 +19046,6 @@ Splitgate - which has been described as "Halo meets Portal" in some quarters - m
 Read more]]></summary>
         <author>
             <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox Partners With IHOP for Gaming  Rewards and Xbox Menu Items]]></title>
-        <id>9j5KZwP3ac8yajoEHeGamV</id>
-        <link href="https://www.tomshardware.com/news/xbox-ihop-gaming-microsoft"/>
-        <updated>2022-09-02T18:00:49.000Z</updated>
-        <summary type="html"><![CDATA[The best gaming rewards are the 1-month Xbox Game Pass Ultimate trial, the Forza Horizon 5 Premium Add-Ons Bundle, and full game download codes for Grounded.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft extends Teams into VMware and Citrix VDI]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/02/microsoft_teams_vmware_vdi/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/02/microsoft_teams_vmware_vdi/"/>
-        <updated>2022-09-02T18:00:12.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Users will now be able to blur or replace their backgrounds during video meetings or calls</h4> <p>Microsoft is making it easier for Teams to work with virtual desktop infrastructure (VDI) in a bid to grow the number of monthly active users on the collaboration platform.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here come the bendable TVs and monitors that no one asked for]]></title>
-        <id>https://arstechnica.com/?p=1877958</id>
-        <link href="https://arstechnica.com/?p=1877958"/>
-        <updated>2022-09-02T17:58:49.000Z</updated>
-        <summary type="html"><![CDATA[Flat-to-curved screens have an identity crisis.]]></summary>
-        <author>
-            <name>Scharon Harding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://shencomix.tumblr.com/post/694305423211249664</id>
-        <link href="https://shencomix.tumblr.com/post/694305423211249664"/>
-        <updated>2022-09-02T17:54:09.000Z</updated>
-        <author>
-            <name>Shen Comix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPU Benchmarks and Hierarchy 2022: Graphics Cards Ranked]]></title>
-        <id>L8SfcAV5o28ayEFjzq6cfX</id>
-        <link href="https://www.tomshardware.com/reviews/gpu-hierarchy,4388.html"/>
-        <updated>2022-09-02T17:37:27.000Z</updated>
-        <summary type="html"><![CDATA[Our GPU benchmarks hierarchy ranks all the current and previous generation graphics cards based on real-world gaming tests. Find out how the latest GPUs stack up.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google launches third-party Play Store billing pilot—but only cuts fees by 4%]]></title>
-        <id>https://arstechnica.com/?p=1877966</id>
-        <link href="https://arstechnica.com/?p=1877966"/>
-        <updated>2022-09-02T17:26:16.000Z</updated>
-        <summary type="html"><![CDATA[It's not in the US, it's not for games, and devs will only save 4 percent.]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revealed: US telcos admit to storing, handing over location data]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/02/us_carriers_fcc_data_report/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/02/us_carriers_fcc_data_report/"/>
-        <updated>2022-09-02T17:15:06.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Letters to FCC prove what many believed, but don't address a bigger problem</h4> <p>US mobile carriers know a lot about where their customers are located, and according to letters sent to the Federal Communications Commission (FCC), they routinely store such data for years, willingly hand it over to law enforcement if served a proper subpoena, and say users can't opt out.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[T-Mobile dominates 2.5 GHz spectrum auction to fill in network gaps across US]]></title>
-        <id>https://arstechnica.com/?p=1877999</id>
-        <link href="https://arstechnica.com/?p=1877999"/>
-        <updated>2022-09-02T17:07:00.000Z</updated>
-        <summary type="html"><![CDATA[T-Mobile spends $304 million to win over 90% of available 2.5 GHz licenses.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stellaris: Toxoids Species Pack coming with a free update on September 20]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/stellaris-toxoids-species-pack-coming-with-a-free-update-on-september-20/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/stellaris-toxoids-species-pack-coming-with-a-free-update-on-september-20/"/>
-        <updated>2022-09-02T17:01:16.000Z</updated>
-        <summary type="html"><![CDATA[Paradox Interactive has announced some more goodies coming for Stellaris with the Toxoids Species Pack and a free update landing on September 20th.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
         </author>
     </entry>
 </feed>

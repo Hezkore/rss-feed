@@ -819,16 +819,6 @@
           "wordCount": 1028,
           "title": "This great bundle of Native Linux games will tease your brain",
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/806832838id21540gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/09/stellaris-toxoids-species-pack-coming-with-a-free-update-on-september-20/",
-          "author": "Liam Dawe",
-          "description": "Paradox Interactive has announced some more goodies coming for Stellaris with the Toxoids Species Pack and a free update landing on September 20th.",
-          "link": "https://www.gamingonlinux.com/2022/09/stellaris-toxoids-species-pack-coming-with-a-free-update-on-september-20/",
-          "publishedOn": "2022-09-02T17:01:16.000Z",
-          "wordCount": 1478,
-          "title": "Stellaris: Toxoids Species Pack coming with a free update on September 20",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1599074648id21538gol.jpg"
         }
       ]
     },
@@ -3565,6 +3555,16 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/street-fighter-6-twenty-fist-pounding-minutes-of-new-hands-on-ps5-gameplay",
+          "author": "Jim Trinca",
+          "description": "Street Fighter 6 is looking polished as hell - let’s make that clear from the off. It represents a massive course-correction from the controversial mis-steps of SFV, but it hasn’t jettisoned everything from the previous game: everything salvageable has been iterated and improved upon, resulting in a blend of SF4, SF5, and a breadth of new ideas.\nAlex’s hands-on session with the Tokyo Game Show build focused on four newly revealed characters: the powerful but unwieldy Guile, for starters. Juri, whose SF6 incarnation is a refinement on her SF5 version but with some of her fan-favourite moveset brought in from SF4. Kimberly, an entirely new character for SF6 but with strong links to the wider Capcom lore.\nAnd, lastly, Ken Masters; resplendent here in his “she’s turned the weans against us” era garb. Despite the divorcee-chic, though, it’s still the same old Ken: if he was your main in 1991, he’ll feel like being right back home again. Assuming she didn’t get the house.\n Read more",
+          "link": "https://www.vg247.com/street-fighter-6-twenty-fist-pounding-minutes-of-new-hands-on-ps5-gameplay",
+          "publishedOn": "2022-09-16T05:50:50.000Z",
+          "wordCount": 4633,
+          "title": "Street Fighter 6: Twenty fist-pounding minutes of new hands-on PS5 gameplay",
+          "imageUrl": "https://asset.vg247.com/sf6-video-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sf6-video-header.jpg"
+        },
+        {
           "id": "https://www.vg247.com/call-of-duty-modern-warfare-2-multiplayer-details",
           "author": "Stephany Nunneley",
           "description": "Activision and Infinity Ward showed off the multiplayer portion of Call of Duty: Modern Warfare 2 today ahead of the open beta, which kicks off tomorrow.\nOne multiplayer feature the developers showed off was swimming and Aquatic Combat. Instead of dying when hitting the water like in previous games,  action now occurs above, on, and in water. Various elements will be present such as currents and waves, and the water can be clean, murky, polluted, or have debris. \nIn the open beta, maps with water will showcase these enhancements, and you can use water as a stealth or escape mechanism. You can even change your stance or sprint and look down to plunge underwater. If you fire underwater using sidearms and certain equipment, your weapon’s projectile will be affected by the increased density, so you may need to change your aim. You will also need to pay special attention to Tactical items, and you may need to try all-new strategies when attacking boats, enemies below the water’s surface, or when you’re avoiding or deploying an explosive.\n Read more",
@@ -5011,6 +5011,16 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/FUTEX2-NUMA-Still-Coming-2022",
+          "author": null,
+          "description": "Merged last year for the Linux 5.16 cycle was FUTEX2's futex_waitv() system call for waiting on multiple futexes in order to better match the behavior of Microsoft Windows. This FUTEX2 initiative was driven as an effort to further enhance Linux gaming performance/efficiency particularly for Valve's Steam Play. Originally there were other goals with FUTEX2 and now we are seeing another one of those being worked on: NUMA awareness...",
+          "link": "https://www.phoronix.com/news/FUTEX2-NUMA-Still-Coming-2022",
+          "publishedOn": "2022-09-16T05:00:00.000Z",
+          "wordCount": 1376,
+          "title": "NUMA Interface For FUTEX2 Still Being Tackled For Linux",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/OpenCL-3.0.12-Released",
           "author": null,
@@ -10384,36 +10394,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/ojsvrqhnYFHNRDrfQLJTVD.jpg"
-        },
-        {
-          "id": "9j5KZwP3ac8yajoEHeGamV",
-          "author": null,
-          "description": "The best gaming rewards are the 1-month Xbox Game Pass Ultimate trial, the Forza Horizon 5 Premium Add-Ons Bundle, and full game download codes for Grounded.",
-          "link": "https://www.tomshardware.com/news/xbox-ihop-gaming-microsoft",
-          "publishedOn": "2022-09-02T18:00:49.000Z",
-          "wordCount": 18892,
-          "title": "Xbox Partners With IHOP for Gaming  Rewards and Xbox Menu Items",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/NKEcPqBgdWWm6ZyzHLvBJ3.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/NKEcPqBgdWWm6ZyzHLvBJ3.jpg"
-        },
-        {
-          "id": "L8SfcAV5o28ayEFjzq6cfX",
-          "author": null,
-          "description": "Our GPU benchmarks hierarchy ranks all the current and previous generation graphics cards based on real-world gaming tests. Find out how the latest GPUs stack up.",
-          "link": "https://www.tomshardware.com/reviews/gpu-hierarchy,4388.html",
-          "publishedOn": "2022-09-02T17:37:27.000Z",
-          "wordCount": 28623,
-          "title": "GPU Benchmarks and Hierarchy 2022: Graphics Cards Ranked",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/tFPr7eEvykcUxHKw9WfWkE.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/tFPr7eEvykcUxHKw9WfWkE.jpg"
         }
       ]
     },
@@ -12425,36 +12405,6 @@
           "wordCount": 1878,
           "title": "YouTube algorithm pushed election fraud claims to Trump supporters, report says",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1242131062-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1877958",
-          "author": "Scharon Harding",
-          "description": "Flat-to-curved screens have an identity crisis.",
-          "link": "https://arstechnica.com/?p=1877958",
-          "publishedOn": "2022-09-02T17:58:49.000Z",
-          "wordCount": 1773,
-          "title": "Here come the bendable TVs and monitors that no one asked for",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/LG-listing-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1877966",
-          "author": "Ron Amadeo",
-          "description": "It's not in the US, it's not for games, and devs will only save 4 percent.",
-          "link": "https://arstechnica.com/?p=1877966",
-          "publishedOn": "2022-09-02T17:26:16.000Z",
-          "wordCount": 1499,
-          "title": "Google launches third-party Play Store billing pilot—but only cuts fees by 4%",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/09/Google-Play-Store-logo-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1877999",
-          "author": "Jon Brodkin",
-          "description": "T-Mobile spends $304 million to win over 90% of available 2.5 GHz licenses.",
-          "link": "https://arstechnica.com/?p=1877999",
-          "publishedOn": "2022-09-02T17:07:00.000Z",
-          "wordCount": 1696,
-          "title": "T-Mobile dominates 2.5 GHz spectrum auction to fill in network gaps across US",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-network-map-760x380.jpg"
         }
       ]
     },
@@ -14691,6 +14641,16 @@
       "siteUrl": "https://explosm.net",
       "articles": [
         {
+          "id": "https://explosm.net/comics/dead-body",
+          "author": null,
+          "description": "New Cyanide and Happiness Comic",
+          "link": "https://explosm.net/comics/dead-body",
+          "publishedOn": "2022-09-16T00:00:27.000Z",
+          "wordCount": 639,
+          "title": "Comic for 2022.09.16 - Dead Body",
+          "imageUrl": null
+        },
+        {
           "id": "https://explosm.net/comics/santas-not-real",
           "author": null,
           "description": "New Cyanide and Happiness Comic",
@@ -14919,16 +14879,6 @@
           "wordCount": 717,
           "title": "Untitled",
           "imageUrl": "https://64.media.tumblr.com/fc5d4acda9cc87eaa6c6ac81c25a4924/48f57c29553f6c94-fe/s1280x1920/3fd547bb2c1aaac5b3a1117cec848dcd6a3ce6b2.png"
-        },
-        {
-          "id": "https://shencomix.tumblr.com/post/694305423211249664",
-          "author": null,
-          "description": "",
-          "link": "https://shencomix.tumblr.com/post/694305423211249664",
-          "publishedOn": "2022-09-02T17:54:09.000Z",
-          "wordCount": 717,
-          "title": "Untitled",
-          "imageUrl": "https://64.media.tumblr.com/9f190f3e3d4f662b0a3b1a12bc77bbc4/264bb058d70a5315-e9/s1280x1920/5fb5bd607e33459870279bd6ef0515e9f773d211.png"
         }
       ]
     },
@@ -14937,6 +14887,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/16/record_european_ddos_attack_akamai/",
+          "author": null,
+          "description": "<h4>Cough, cough, U, cough, kraine</h4> <p>Akamai says it has absorbed the largest-ever publicly known distributed denial of service (DDoS) attack – an assault against an unfortunate Eastern European organization that went beyond 700 million packets per second.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/16/record_european_ddos_attack_akamai/",
+          "publishedOn": "2022-09-16T06:04:05.000Z",
+          "wordCount": 1306,
+          "title": "Eastern European org hit by second record-smashing DDoS attack",
+          "imageUrl": "https://regmedia.co.uk/2022/04/27/shutterstock_ukrainetransport.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/16/eu_cyber_resilience_act/",
+          "author": null,
+          "description": "<h4>Requires five years of patching, 24 hour incident reporting, and proper security … for starters</h4> <p>The European Commission has revealed a Cyber Resilience Act that will require manufacturers of connected devices to secure them properly before shipping, disclose and fix flaws promptly, and guarantee fixes will flow for five years.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/16/eu_cyber_resilience_act/",
+          "publishedOn": "2022-09-16T05:33:56.000Z",
+          "wordCount": 1192,
+          "title": "EU puts smart device manufacturers on the hook for cyber security",
+          "imageUrl": "https://regmedia.co.uk/2021/05/07/shutterstock_eu_flag_data.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/16/china_working_to_destroy_us/",
           "author": null,
@@ -17056,26 +17026,6 @@
           "wordCount": 1393,
           "title": "Meta hedges bets on metaverse silicon with Qualcomm VR deal",
           "imageUrl": "https://regmedia.co.uk/2021/11/09/metaverse_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/02/microsoft_teams_vmware_vdi/",
-          "author": null,
-          "description": "<h4>Users will now be able to blur or replace their backgrounds during video meetings or calls</h4> <p>Microsoft is making it easier for Teams to work with virtual desktop infrastructure (VDI) in a bid to grow the number of monthly active users on the collaboration platform.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/02/microsoft_teams_vmware_vdi/",
-          "publishedOn": "2022-09-02T18:00:12.000Z",
-          "wordCount": 1492,
-          "title": "Microsoft extends Teams into VMware and Citrix VDI",
-          "imageUrl": "https://regmedia.co.uk/2021/01/27/shutterstock_ms_teams.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/02/us_carriers_fcc_data_report/",
-          "author": null,
-          "description": "<h4>Letters to FCC prove what many believed, but don't address a bigger problem</h4> <p>US mobile carriers know a lot about where their customers are located, and according to letters sent to the Federal Communications Commission (FCC), they routinely store such data for years, willingly hand it over to law enforcement if served a proper subpoena, and say users can't opt out.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/02/us_carriers_fcc_data_report/",
-          "publishedOn": "2022-09-02T17:15:06.000Z",
-          "wordCount": 2171,
-          "title": "Revealed: US telcos admit to storing, handing over location data",
-          "imageUrl": "https://regmedia.co.uk/2020/03/18/shutterstock_location_tracking.jpg"
         }
       ]
     }
