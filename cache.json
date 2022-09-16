@@ -878,6 +878,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/vince-zampella-says-battlefield-2042-strayed-too-far-from-what-battlefield-is",
+          "author": "Matt Wales",
+          "description": "Respawn Entertainment head and Battlefield franchise boss Vince Zampella has spoken about the reception - and failure - of the series' most recent entry, Battlefield 2042, suggesting it \"strayed too far from\" its roots.\r\n\n\r\nBattlefield 2042 was dogged by technical issues and controversial design decisions when it launched last year, quickly attracting overwhelmingly negative reviews from players on Steam.\r\n\n\r\nSince then, developer DICE has continued to tweak and expand on Battlefield 2042's wobbly base, but it's often felt like too little, too late - with publisher EA admitting the game's sales \"did not meet expectations\", saying, \"Some of the design choices we made...did not resonate with everyone in our community\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/vince-zampella-says-battlefield-2042-strayed-too-far-from-what-battlefield-is",
+          "publishedOn": "2022-09-16T21:19:39.000Z",
+          "wordCount": 4620,
+          "title": "Vince Zampella says Battlefield 2042 \"strayed too far from what Battlefield is\"",
+          "imageUrl": "https://assets.reedpopcdn.com/bf2042_ojtv1oJ.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/bf2042_ojtv1oJ.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/sony-says-original-psvr-games-wont-be-compatible-with-psvr2",
           "author": "Matt Wales",
           "description": "Sony has revealed its upcoming PSVR2 headset for PlayStation 5 won't be compatible with games for the original PSVR.\r\n\n\r\nThat's according to PlayStation's SVP of platform experience, Hideaki Nishino, speaking in the latest episode of the Official PlayStation Podcast (jump to the 29:10 mark). \"PSVR games are not compatible with PSVR2,\" he explained in answer to a question from the host, \"because PSVR2 is designed to deliver a truly next-generation VR experience\". \r\n\n\r\nElaborating further, Nishino claimed the new elements of the PVSR2 hardware - inside-out tracking and eye-tracking, 3D audio, a 4K HDR display, and its controller with adaptive triggers and haptic feedback - meant \"developing games for PSVR2 requires a whole different approach than the original PSVR.\"\r\n \nRead more",
@@ -6560,26 +6570,6 @@
           "wordCount": 1406,
           "title": "It's Past Time To Stop Using egrep & fgrep Commands, Per GNU grep 3.8",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/FWUPD-Descriptor-Sets-Matching",
-          "author": null,
-          "description": "Currently when it comes to shipping new/updated device support for firmware updating under Linux with FWUPD/LVFS, it requires making/adjusting a Fwupd plug-in for carrying out the actual firmware copying/updating of the device and then adding in the device VID/PID to a quirks table so Fwupd knows about what to match a given device to for the firmware plug-in to use. Even in new devices where no plug-in changes are required, new device entries are still needed in the quirks table and it makes it challenging when Linux distributions don't quickly move to new FWUPD releases. Moving forward a better solution is being explored...",
-          "link": "https://www.phoronix.com/news/FWUPD-Descriptor-Sets-Matching",
-          "publishedOn": "2022-09-03T09:51:02.000Z",
-          "wordCount": 1653,
-          "title": "FWUPD Explores Improvement For Easier & More Robust Firmware Updating On Linux",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/KDE-Plasma-5.26-Ahead-Of-Beta",
-          "author": null,
-          "description": "There is a lot of last minute feature work and improvements heading into Plasma 5.26 ahead of its upcoming beta and feature freeze...",
-          "link": "https://www.phoronix.com/news/KDE-Plasma-5.26-Ahead-Of-Beta",
-          "publishedOn": "2022-09-03T09:28:01.000Z",
-          "wordCount": 1363,
-          "title": "KDE Plasma 5.26 Sees More Features & Fixes Ahead Of Beta",
-          "imageUrl": null
         }
       ]
     },
@@ -6588,6 +6578,26 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/logitechs-g29-racing-wheel-and-pedals-is-down-to-230-at-amazon",
+          "author": "Will Judd",
+          "description": "Logitech's G29 racing wheel and pedals is down to $230 at Amazon, offering a great chance to pick up a highly-regarded budget wheel at a fair price. \nThe G29 set works with PC, PS4 and PS5, making it a good pickup for anyone with at least one of these systems that likes to play titles like Gran Turismo 7 or F1 22. There's also an Xbox Series, Xbox One and PC model, the G920, that's available at the same discounted price and of course will work well for games like Forza Horizon 5, F1 22 and the upcoming Forza Motorsport scheduled to arrive early next year.  \nRead more",
+          "link": "https://www.rockpapershotgun.com/logitechs-g29-racing-wheel-and-pedals-is-down-to-230-at-amazon",
+          "publishedOn": "2022-09-16T21:48:20.000Z",
+          "wordCount": 4890,
+          "title": "Logitech's G29 racing wheel and pedals is down to $230 at Amazon",
+          "imageUrl": "https://assets2.rockpapershotgun.com/61IYYoZ66VL._AC_SL1500_.webp/BROK/thumbnail/1600x900/format/jpg/quality/80/61IYYoZ66VL._AC_SL1500_.webp"
+        },
+        {
+          "id": "https://www.rockpapershotgun.com/get-32gb-of-fast-ddr5-5600-cl36-ram-for-150-in-the-us",
+          "author": "Will Judd",
+          "description": "Higher speed, lower latency DDR5 is becoming more affordable, and in the US we spotted a great deal on TeamGroup memory over at Amazon. There, you can find a 32GB kit of DDR5-5600 CL36 memory for $150, reduced from its normal price of $180. That's more expensive than 32GB of DDR4, but you're getting a substantial increase in bandwidth and reduction in latency compared to the DDR5-4800 CL40 JEDEC standard.\nRead more",
+          "link": "https://www.rockpapershotgun.com/get-32gb-of-fast-ddr5-5600-cl36-ram-for-150-in-the-us",
+          "publishedOn": "2022-09-16T21:35:38.000Z",
+          "wordCount": 4822,
+          "title": "Get 32GB of fast DDR5-5600 CL36 RAM for $150 in the US",
+          "imageUrl": "https://assets2.rockpapershotgun.com/ddr5-teamgroup.png/BROK/thumbnail/1600x900/format/jpg/quality/80/ddr5-teamgroup.png"
+        },
         {
           "id": "https://www.rockpapershotgun.com/nightdive-are-remastering-classic-fps-rise-of-the-triad",
           "author": "CJ Wheeler",
@@ -8067,26 +8077,6 @@
           "wordCount": 4634,
           "title": "RPS@PAX West 2022: Hands-on with Souls-like fairytale Lies of P",
           "imageUrl": "https://assets2.rockpapershotgun.com/lies-of-p-gameplay-trailer.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/lies-of-p-gameplay-trailer.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/the-93-lenovo-legion-booststation-gpu-enclosure-deal-is-back",
-          "author": "Will Judd",
-          "description": "A few weeks ago we posted about a stellar deal on Lenovo's BoostStation, an external GPU enclosure that lets you turn almost any Thunderbolt 3 laptop into a gaming powerhouse with the simple addition of a graphics card. Rather than the £200 or £300 prices we normally see attached to these enclosures, this one was available at just £93. Now that deal is back, once again via the Laptop Outlet store on Ebay. \nThis time though, you'll  need to use code FANCY15 to knock 15% off the price of the BoostStation, bringing it down to that alluring £93 price point once again. \nRead more",
-          "link": "https://www.rockpapershotgun.com/the-93-lenovo-legion-booststation-gpu-enclosure-deal-is-back",
-          "publishedOn": "2022-09-03T09:32:19.000Z",
-          "wordCount": 4741,
-          "title": "The £93 Lenovo Legion BoostStation GPU enclosure deal is back",
-          "imageUrl": "https://assets2.rockpapershotgun.com/booststation.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/booststation.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/store-all-the-things-with-an-8tb-seagate-ironwolf-hard-drive-for-150",
-          "author": "Will Judd",
-          "description": "Seagate's IronWolf and IronWolf Pro hard drives are amongst the best available, and now you can get an 8TB IronWolf model for £150 at Amazon, a historic low price. \nThis is a huge amount of storage, ideal for archiving games and storing media like music and video, and well worth considering especially if your boot SSD is getting full. By comparison, the cheapest 8TB SSD is £669, making this more than four times cheaper. \nRead more",
-          "link": "https://www.rockpapershotgun.com/store-all-the-things-with-an-8tb-seagate-ironwolf-hard-drive-for-150",
-          "publishedOn": "2022-09-03T09:24:02.000Z",
-          "wordCount": 4755,
-          "title": "Store all the things with an 8TB Seagate IronWolf hard drive for £150",
-          "imageUrl": "https://assets2.rockpapershotgun.com/ironwolf.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ironwolf.jpg"
         }
       ]
     },
@@ -14807,16 +14797,6 @@
           "wordCount": 2071,
           "title": "Greg Coomer på Valve säger att de har flertalet spel under utveckling",
           "imageUrl": "https://www.fz.se/artikel/og-image/291339"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291333",
-          "author": null,
-          "description": "Banan, Melon, Kiwi och Citron…*dunka, dunka*",
-          "link": "https://www.fz.se/artikel/291333-aurora-punks-slapper-musikvideo-i-pixeltema-tillsammans-med-hooja",
-          "publishedOn": "2022-09-03T09:32:06.000Z",
-          "wordCount": 2055,
-          "title": "Aurora Punks släpper musikvideo i pixeltema tillsammans med Hooja",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291333"
         }
       ]
     },
@@ -15832,6 +15812,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/16/seesaw_inappropriate_image/",
+          "author": null,
+          "description": "<h4>This is why we don't reuse passwords, kids</h4> <p>Parents and teachers received a link to an \"inappropriate image\" this week via Seesaw after miscreants hijacked accounts in a credential stuffing attack against the popular school messaging app.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/16/seesaw_inappropriate_image/",
+          "publishedOn": "2022-09-16T21:45:39.000Z",
+          "wordCount": 1526,
+          "title": "School chat app Seesaw abused to send 'inappropriate image' to parents, teachers",
+          "imageUrl": "https://regmedia.co.uk/2021/05/06/password.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/16/ftc_gig_work/",
           "author": null,
