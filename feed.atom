@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-16T02:44:50.093Z</updated>
+    <updated>2022-09-16T04:57:05.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Uncharted: Legacy of Thieves släpps till PC den 19 oktober]]></title>
+        <id>https://www.sweclockers.com/artikel/34933</id>
+        <link href="https://www.sweclockers.com/artikel/34933-uncharted-legacy-of-thieves-slapps-till-pc-den-19-oktober"/>
+        <updated>2022-09-16T04:46:49.000Z</updated>
+        <summary type="html"><![CDATA[Uncharted: Legacy of Thieves Collection släpptes till PS5 i januari och nu spikar Sony att PC-spelare får lägga vantarna på äventyrsspelet i oktober.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenCL 3.0.12 Published With Command Buffers Mutable Dispatch Extension]]></title>
+        <id>https://www.phoronix.com/news/OpenCL-3.0.12-Released</id>
+        <link href="https://www.phoronix.com/news/OpenCL-3.0.12-Released"/>
+        <updated>2022-09-16T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The Khronos Group has published OpenCL 3.0.12 as the newest version of this API for compute across heterogeneous platforms, but mostly known for GPU compute...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China can destroy US space assets, Space Force ops nominee warns]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/16/china_working_to_destroy_us/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/16/china_working_to_destroy_us/"/>
+        <updated>2022-09-16T03:59:13.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Wants swarms of small satellites that are harder to destroy – and outsourcing to improve cybersecurity</h4> <p>The Biden-nominated chief of space operations for the USA's Space Force (USSF) rates China his greatest challenge, as the Middle Kingdom has developed technologies to destroy space assets.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bekräftat: Uncharted 4-samlingen släpps till pc 19 oktober]]></title>
+        <id>https://www.fz.se/artikel/291476</id>
+        <link href="https://www.fz.se/artikel/291476-bekraftat-uncharted-4-samlingen-slapps-till-pc-19-oktober"/>
+        <updated>2022-09-16T03:43:55.000Z</updated>
+        <summary type="html"><![CDATA[Spana in den nya trailern.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warzone 2.0 släpps i november – här är nya kartan]]></title>
+        <id>https://www.fz.se/artikel/291475</id>
+        <link href="https://www.fz.se/artikel/291475-warzone-2-0-slapps-i-november-har-ar-nya-kartan"/>
+        <updated>2022-09-16T03:23:18.000Z</updated>
+        <summary type="html"><![CDATA[Al Mazrah är deras största battle royale-karta någonsin.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call of Duty: Modern Warfare 2 multiplayer revealed - here's the details]]></title>
+        <id>https://www.vg247.com/call-of-duty-modern-warfare-2-multiplayer-details</id>
+        <link href="https://www.vg247.com/call-of-duty-modern-warfare-2-multiplayer-details"/>
+        <updated>2022-09-16T03:18:22.000Z</updated>
+        <summary type="html"><![CDATA[Activision and Infinity Ward showed off the multiplayer portion of Call of Duty: Modern Warfare 2 today ahead of the open beta, which kicks off tomorrow.
+One multiplayer feature the developers showed off was swimming and Aquatic Combat. Instead of dying when hitting the water like in previous games,  action now occurs above, on, and in water. Various elements will be present such as currents and waves, and the water can be clean, murky, polluted, or have debris. 
+In the open beta, maps with water will showcase these enhancements, and you can use water as a stealth or escape mechanism. You can even change your stance or sprint and look down to plunge underwater. If you fire underwater using sidearms and certain equipment, your weapon’s projectile will be affected by the increased density, so you may need to change your aim. You will also need to pay special attention to Tactical items, and you may need to try all-new strategies when attacking boats, enemies below the water’s surface, or when you’re avoiding or deploying an explosive.
+ Read more]]></summary>
+        <author>
+            <name>Stephany Nunneley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uber reels from 'security incident’ in which cloud systems seemingly hijacked]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/16/uber_security_incident/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/16/uber_security_incident/"/>
+        <updated>2022-09-16T03:13:43.000Z</updated>
+        <summary type="html"><![CDATA[<h4>AWS and G Suite admin accounts likely popped, HackerOne bug bounty page hit, and more</h4> <p>Uber is tonight reeling from what looks like a substantial cybersecurity breach.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trojanized versions of PuTTY utility being used to spread backdoor]]></title>
         <id>https://arstechnica.com/?p=1882005</id>
@@ -19009,256 +19082,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Paradox Interactive has announced some more goodies coming for Stellaris with the Toxoids Species Pack and a free update landing on September 20th.]]></summary>
         <author>
             <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU regulators want 5 years of smartphone parts, much better batteries]]></title>
-        <id>https://arstechnica.com/?p=1877943</id>
-        <link href="https://arstechnica.com/?p=1877943"/>
-        <updated>2022-09-02T16:55:21.000Z</updated>
-        <summary type="html"><![CDATA[Requiring parts and manuals access part of broader environmental initiative.]]></summary>
-        <author>
-            <name>Kevin Purdy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's a little look at God of War Ragnarök's new combat additions]]></title>
-        <id>https://www.eurogamer.net/heres-a-little-look-at-god-of-war-ragnaroks-new-combat-additions</id>
-        <link href="https://www.eurogamer.net/heres-a-little-look-at-god-of-war-ragnaroks-new-combat-additions"/>
-        <updated>2022-09-02T16:31:36.000Z</updated>
-        <summary type="html"><![CDATA[If your thirst for God of War Ragnarök news remains unsated, you might be interested in a brief new look at the game's combat, which has been shared - bows a-twanging and axes a-bonking - in the run up to release on 9th November.
-
-
-The 100-second clip comes courtesy of GameInformer, and features a bit of ultraviolence against new bipedal lizard foes known as Grims.
-
-
-While a lot of it appears to be business as usual for God of War (Kratos still has his Leviathan Axe and Blades of Chaos, and Atreus retains his beloved bow and arrow), an accompanying write-up details some new combat additions, including Weapon Signature Moves.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frank Drake, astronomer famed for contributions to SETI, has died]]></title>
-        <id>https://arstechnica.com/?p=1877997</id>
-        <link href="https://arstechnica.com/?p=1877997"/>
-        <updated>2022-09-02T16:30:15.000Z</updated>
-        <summary type="html"><![CDATA[The equation named after him helps organize our thoughts on extraterrestrial life.]]></summary>
-        <author>
-            <name>John Timmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US semiconductor industry has a lot of ideas about where CHIPS Act money should go]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/02/nist_report_chips_act/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/02/nist_report_chips_act/"/>
-        <updated>2022-09-02T16:30:09.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Outsourced assembly and test a key missing part of supply chain, and foreign entities aren't beyond the pale</h4> <p>Stakeholders in the semiconductor industry have a clear-eyed view of the changes that should happen in order for the US to rebuild a leading position in chip manufacturing, and a wide-ranging approach addressing the entire supply chain is needed.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Splitgate development is over, as the devs move onto their next game]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/splitgate-development-is-over-as-the-devs-move-onto-their-next-game/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/splitgate-development-is-over-as-the-devs-move-onto-their-next-game/"/>
-        <updated>2022-09-02T16:27:31.000Z</updated>
-        <summary type="html"><![CDATA[Splitgate, the first-person shooter with portals, is no longer getting actively developed as the developer has seemingly given up with it to move onto a new game.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lenovo ThinkPad Z13 Review: Faux Leather Freshness]]></title>
-        <id>4ctdApFVP5HKb27NpRh3qg</id>
-        <link href="https://www.tomshardware.com/reviews/lenovo-thinkpad-z13-gen-1"/>
-        <updated>2022-09-02T16:18:54.000Z</updated>
-        <summary type="html"><![CDATA[The Lenovo ThinkPad Z13 has an attractive and fresh design, but its AMD components aren't always the fastest at office tasks.]]></summary>
-        <author>
-            <name>isaac.rouse@futurenet.com (Isaac Rouse)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valve bars Steam developer who posted anti-trans rant in patch notes]]></title>
-        <id>https://arstechnica.com/?p=1877975</id>
-        <link href="https://arstechnica.com/?p=1877975"/>
-        <updated>2022-09-02T16:17:09.000Z</updated>
-        <summary type="html"><![CDATA[Dev demeaned a trans streamer in a post joking about a "sex change" for the game.]]></summary>
-        <author>
-            <name>Kyle Orland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Men Of War 2's tactics are impressively complex, but still accessible to a war newbie]]></title>
-        <id>https://www.rockpapershotgun.com/men-of-war-2s-tactics-are-impressively-complex-but-still-accessible-to-a-war-newbie</id>
-        <link href="https://www.rockpapershotgun.com/men-of-war-2s-tactics-are-impressively-complex-but-still-accessible-to-a-war-newbie"/>
-        <updated>2022-09-02T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[At Gamescom I sat down with a lovely ice cold beer and two lovely lads who ran me through military real-time tactics sequel Men Of War II in a 45-minute hands-off presentation. As a total freshman to the series, I was a little intimidated by the prospect of sinking my feet into the trenches of a dense strategy bonanza, especially as things kicked off with a literal history lesson.
-But after watching and absorbing one of the game's early missions, I can genuinely say that I'd be confident enough to give it a go when it comes out. Even perhaps, confident enough to say that I'd genuinely enjoy it quite a bit as a total newbie.
-Read more]]></summary>
-        <author>
-            <name>Ed Thorn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fredagspanelen 265: Ryzen 7000 avtäckt och ännu fler böjbara OLED-skärmar]]></title>
-        <id>https://www.sweclockers.com/artikel/34856</id>
-        <link href="https://www.sweclockers.com/artikel/34856-fredagspanelen-265-ryzen-7000-avtackt-och-annu-fler-bojbara-oled-skarmar"/>
-        <updated>2022-09-02T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Noelia är tillbaka från semestern och kastas därför in i första bästa panel för att diskutera veckans händelser i hårdvaruvärlden.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Northern Journey's surreal world deserves to be experienced, not merely described]]></title>
-        <id>https://www.rockpapershotgun.com/northern-journeys-surreal-world-deserves-to-be-experienced-not-merely-described</id>
-        <link href="https://www.rockpapershotgun.com/northern-journeys-surreal-world-deserves-to-be-experienced-not-merely-described"/>
-        <updated>2022-09-02T15:49:07.000Z</updated>
-        <summary type="html"><![CDATA[Oh my goodness, what a creepy, funny, and odd game Northern Journey is. I almost don't want to say any more about it, not because it can be spoiled but because it seems appropriately respectful. Not in a reverent sense, you understand. It just feels like such a world should be preserved, even slightly feared, rather than trampled on by some idiot with a camera in her face.
-To call Northern Journey "retro" would completely misrepresent it. It's beautiful in an ugly, desolate way reminiscent of Kenshi or Morrowind. It's translucent in its exposition but not obtuse, hostile, or obnoxiously hard. It's a bit clunky, without that ever undermining the experience. It's vaguely amateurish, yet almost consciously so, like a painter who knows their talent and intent is enough to overcome any technical flaws. This is a bloody treat and I'm so glad I got to play it.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Sin Vega</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Internet pranksters send hundreds of cabs to Moscow street, cause gridlock]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/02/russia_taxi_jam_prank/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/02/russia_taxi_jam_prank/"/>
-        <updated>2022-09-02T15:45:09.000Z</updated>
-        <summary type="html"><![CDATA[<h4>'Improved algorithm' set to keep miscreants at bay, web-based taxi service promises</h4> <p>The taxi offshoot of troubled Russian tech giant Yandex has been hit by online pranksters, who yesterday ordered dozens of cabs to a single address in central Moscow, resulting in a major traffic jam.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Online intruders send hundreds of cabs to Moscow street, cause gridlock]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/02/online_intruders_cause_taxi_jam/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/02/online_intruders_cause_taxi_jam/"/>
-        <updated>2022-09-02T15:45:09.000Z</updated>
-        <summary type="html"><![CDATA[<h4>'Improved algorithm' set to keep miscreants at bay, web-based taxi service promises</h4> <p>The taxi offshoot of troubled Russian tech giant Yandex has been hit by online pranksters, who yesterday ordered dozens of cabs to a single address in central Moscow, resulting in a major traffic jam.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Real-time tactics sequel Men Of War 2 delayed due to the war in Ukraine]]></title>
-        <id>https://www.rockpapershotgun.com/real-time-tactics-sequel-men-of-war-2-delayed-due-to-the-war-in-ukraine</id>
-        <link href="https://www.rockpapershotgun.com/real-time-tactics-sequel-men-of-war-2-delayed-due-to-the-war-in-ukraine"/>
-        <updated>2022-09-02T15:39:28.000Z</updated>
-        <summary type="html"><![CDATA[Real-time tactics game Men Of War 2 has been pushed to 2023 to incorporate more features and content sparked by feedback from closed playtests. Developers Best Way and publishers Fulqrum say the impact of having to pause development because of the outbreak of war in Best Way’s home country of Ukraine has led them to take extra time on the game for these to be implemented. Watch the latest trailer below.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seasonic's PSUs with Next-Gen 12VHPWR Connector to Start at $230]]></title>
-        <id>VJZ4WrX7ry9UW8e7UJKb9Y</id>
-        <link href="https://www.tomshardware.com/news/seasonic-psus-with-12vhpwr-connector-to-start-at-230"/>
-        <updated>2022-09-02T15:33:33.000Z</updated>
-        <summary type="html"><![CDATA[Entry-level Seasonic's ATX 3.0 PSUs with 12VHPWR connector for next-generation graphics cards not going to be too expensive.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skandal!? Quidditch blir inte spelbart i Hogwarts Legacy]]></title>
-        <id>https://www.fz.se/artikel/291330</id>
-        <link href="https://www.fz.se/artikel/291330-skandal-quidditch-blir-inte-spelbart-i-hogwarts-legacy"/>
-        <updated>2022-09-02T15:31:00.000Z</updated>
-        <summary type="html"><![CDATA[God dag kvastskaft.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vampire Survivors lets you play as a question mark thanks to today's surprise patch]]></title>
-        <id>https://www.rockpapershotgun.com/vampire-survivors-lets-you-play-as-a-question-mark-thanks-to-todays-surprise-patch</id>
-        <link href="https://www.rockpapershotgun.com/vampire-survivors-lets-you-play-as-a-question-mark-thanks-to-todays-surprise-patch"/>
-        <updated>2022-09-02T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[So two weeks ago I let you know that Vampire Survivors wouldn’t be getting any more patches before it launched into its 1.0 version. The cheeky scamps at poncle have only gone and made me look like a right sausage today, surprise announcing another patch. This time, they’re adding in a new game mode, quick start, and a very odd new character.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crusader Kings 3's Friends and Foes pack adds over 100 events related to your characters’ relationships]]></title>
-        <id>https://www.vg247.com/crusader-kings-3s-friends-and-foes-event-pack</id>
-        <link href="https://www.vg247.com/crusader-kings-3s-friends-and-foes-event-pack"/>
-        <updated>2022-09-02T15:25:37.000Z</updated>
-        <summary type="html"><![CDATA[Crusader Kings 3 is getting a new event pack next week called Friends and Foes, and it will add all sorts of potential drama to your relationships.
-As if relationships in the game aren't full of enough drama as it stands now, things could become worse - or better. It depends on how things play out.
-In the pack, your relationships will matter more than ever as those closest to you come alive in "the most intimate detail." This is thanks to over 100 new experiences included in the new event pack.
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CD Projekt will discuss what's next for Cyberpunk 2077 on September 6 in a Night City Wire stream]]></title>
-        <id>https://www.vg247.com/cd-projekt-cyberpunk-2077-night-city-wire-september-6</id>
-        <link href="https://www.vg247.com/cd-projekt-cyberpunk-2077-night-city-wire-september-6"/>
-        <updated>2022-09-02T15:00:33.000Z</updated>
-        <summary type="html"><![CDATA[CD Projekt Red will talk about all things Cyberpunk next week on September 6, and specifically about what's next for Cyberpunk 2077.
-The studio will also discuss its anime series Cyberpunk: Edgerunners which is scheduled to debut on Netflix September 13.
-The show is a joint project between CD Projekt, Studio Trigger, and Netflix and is set in Cyberpunk 2077’s universe, but features a different story and takes place in a separate period.
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taiwan chip magnate pledges cash for defense against China: 'I'm telling everyone to oppose the CCP']]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/02/taiwan_chip_magnate_pledges_cash/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/02/taiwan_chip_magnate_pledges_cash/"/>
-        <updated>2022-09-02T15:00:08.000Z</updated>
-        <summary type="html"><![CDATA[<h4>UMC founder Robert Tsao wants to train more than 3m 'civilian warriors' and sharpshooters</h4> <p>A Taiwanese semiconductor magnate is to provide the money to prime several million "civilian warriors" and marksmen to help defend the island nation in the event of an invasion by China.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call Depth Tracking Mitigation Updated For Linux In Better Mitigating Retbleed]]></title>
-        <id>https://www.phoronix.com/news/Call-Depth-Tracking-Retbleed-v2</id>
-        <link href="https://www.phoronix.com/news/Call-Depth-Tracking-Retbleed-v2"/>
-        <updated>2022-09-02T15:00:02.000Z</updated>
-        <summary type="html"><![CDATA[Back in July Intel's Peter Zijlstra proposed "Call Depth Tracking" as a mitigation approach for handling Retbleed and avoiding the "performance horror show" of Indirect Branch Restricted Speculation (IBRS) usage. Out today is the newest version of the Call Depth Tracking code and the performance benchmark results are looking very promising for lessening the pain of the Retbleed CPU mitigation performance impact...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Det här spelar FZ i helgen - vad spelar du?]]></title>
-        <id>https://www.fz.se/artikel/291324</id>
-        <link href="https://www.fz.se/artikel/291324-det-har-spelar-fz-i-helgen-vad-spelar-du"/>
-        <updated>2022-09-02T15:00:00.000Z</updated>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[11 bit studios will no longer give keys to Steam curators]]></title>
-        <id>https://www.eurogamer.net/11-bit-studios-will-no-longer-give-keys-to-steam-curators</id>
-        <link href="https://www.eurogamer.net/11-bit-studios-will-no-longer-give-keys-to-steam-curators"/>
-        <updated>2022-09-02T14:46:08.000Z</updated>
-        <summary type="html"><![CDATA[11 bit studios has released a statement saying it will no longer issue Steam keys to curators.
-
-The developer, known for This War of Mine and Frostpunk, will follow this rule starting from today, following on from the recent awareness of key scammers posing as curators.
-
-In its statement, the studio said that the decision was made based on its own experiences and those of other  developers.
- Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
         </author>
     </entry>
 </feed>
