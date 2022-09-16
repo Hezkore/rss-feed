@@ -2,10 +2,104 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-16T08:31:08.151Z</updated>
+    <updated>2022-09-16T09:27:01.006Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Wandering Village early access review: a gorgeous city-builder with a loveable colossus]]></title>
+        <id>https://www.rockpapershotgun.com/the-wandering-village-early-access-review</id>
+        <link href="https://www.rockpapershotgun.com/the-wandering-village-early-access-review"/>
+        <updated>2022-09-16T09:21:17.000Z</updated>
+        <summary type="html"><![CDATA[I’ve always thought each of the sixteen colossi in Shadow Of The Colossus is kinda cute in their own special way. There’s just something about the animal-like antics of those immense, lumbering creatures that make them naturally adorable, even though they wouldn’t hesitate in breaking every single bone in my small, weak body.
+Zürich-based developers Stray Fawn Studio totally get what I’m on about, and have created their own lovable rocky giant in their city-building sim The Wandering Village. Their creature, Onbu, is a colossal six-legged beast, and the walking platform on which your village sits, a plateau of flat land mass on its back making for an excellent settlement ground. Onbu is best described as a gentle giant. They move slowly but carefully, love to munch on fields of wild mushrooms, nap in meadows of soft pink flowers, and tuck in their paws and tail when sleeping.
+Read more]]></summary>
+        <author>
+            <name>Rachel Watts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASUS & Canonical Partner On The IoT / Edge Computing Front]]></title>
+        <id>https://www.phoronix.com/news/ASUS-Canonical-IoT-Ubuntu</id>
+        <link href="https://www.phoronix.com/news/ASUS-Canonical-IoT-Ubuntu"/>
+        <updated>2022-09-16T09:17:15.000Z</updated>
+        <summary type="html"><![CDATA[Canonical announced this morning that they have partnered with ASUS IoT, the division of ASUS focused on providing "Internet of Things" hardware, to certify Ubuntu Linux for their devices...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What we've been playing]]></title>
+        <id>https://www.eurogamer.net/what-weve-been-playing-76</id>
+        <link href="https://www.eurogamer.net/what-weve-been-playing-76"/>
+        <updated>2022-09-16T09:11:37.000Z</updated>
+        <summary type="html"><![CDATA[Hello! Welcome back to our regular feature where we write a little bit about some of the games we've found ourselves playing over the last few days. This time: laundry, guild problems, and back to hell.
+If you fancy catching up on some of the older editions of What We've Been Playing, 
+here's our archive.
+Apparently, I'm drawn to doing mundane things. Perhaps I'm inherently boring. I just can't get enough of tidying up, though, or folding someone's clothes, or washing them. Or cleaning the toilet, and I never thought I'd write that. And I know that isn't really the point of Arcade Paradise - the point is growing an arcade out the back - but it's the mundane half of the game in the laundrette that really balances me, and the game, out. Beautiful monotony - something to gently latch a restless mind onto and occupy my hands with.
+ Read more]]></summary>
+        <author>
+            <name>Eurogamer staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Next gen"-uppgraderingen till Outer Wilds är släppt]]></title>
+        <id>https://www.fz.se/artikel/291479</id>
+        <link href="https://www.fz.se/artikel/291479-next-gen-uppgraderingen-till-outer-wilds-ar-slappt"/>
+        <updated>2022-09-16T09:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Gratis om man äger spelet till PS4 eller Xbox One.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qt 6.4 Release Candidate Arrives With Added Modules For 3D Physics, HTTP Server]]></title>
+        <id>https://www.phoronix.com/news/Qt-6.4-RC1-Released</id>
+        <link href="https://www.phoronix.com/news/Qt-6.4-RC1-Released"/>
+        <updated>2022-09-16T08:55:13.000Z</updated>
+        <summary type="html"><![CDATA[Qt 6.4 is continuing to run on-schedule and out today is the release candidate ahead of the stable release expected around the end of the month...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia bekräftar "Ada Lovelace" – antyder specifikationer]]></title>
+        <id>https://www.sweclockers.com/artikel/34931</id>
+        <link href="https://www.sweclockers.com/artikel/34931-nvidia-bekraftar-ada-lovelace-antyder-specifikationer"/>
+        <updated>2022-09-16T08:36:18.000Z</updated>
+        <summary type="html"><![CDATA[Nvidias kryptiska inlägg på Twitter fortsätter. En närmare titt visar på godsakerna som gömts, däribland specifikationer för det kommande flaggskeppet.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The next deep magic Linux program to change the world? Io_uring]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/16/column/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/16/column/"/>
+        <updated>2022-09-16T08:30:11.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Even Torvalds pronounces it 'fairly sane'</h4> <p><strong>Column</strong>  A few years ago developers knew eBPF as a handy way to build firewalls yet now it's used everywhere for everything. Get ready for io_uring to do the same.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Suikoden 1 and 2 remasters announced]]></title>
+        <id>https://www.eurogamer.net/suikoden-1-and-2-remasters-announced</id>
+        <link href="https://www.eurogamer.net/suikoden-1-and-2-remasters-announced"/>
+        <updated>2022-09-16T08:29:20.000Z</updated>
+        <summary type="html"><![CDATA[Konami has announced remasters of Suikoden 1 and 2.
+
+
+Suikoden 1 and 2 HD Remaster Gate Rune and Dunan Unification Wars launch together on PlayStation 4, Xbox One, PC via Steam and Nintendo Switch in 2023.
+
+
+This is the big Tokyo Game Show announcement Konami teased earlier this month. The trailer below shows off each game's remastered look:
+ 
+Read more]]></summary>
+        <author>
+            <name>Wesley Yin-Poole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sins of a Solar Empire 2 har utannonserats]]></title>
         <id>https://www.fz.se/artikel/291478</id>
@@ -19012,24 +19106,6 @@ But that’s not to say there’s anything wrong with the formula: in fact, quit
         <summary type="html"><![CDATA[The Raspberry Pi projects are plentiful as we roll into September—this list has 10 of the best ones we’ve had the honor of featuring over the past month.]]></summary>
         <author>
             <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft says Call of Duty will be on PlayStation for "at least several more years" beyond existing deal]]></title>
-        <id>https://www.eurogamer.net/microsoft-says-call-of-duty-will-be-on-playstation-for-at-least-several-more-years-beyond-existing-deal</id>
-        <link href="https://www.eurogamer.net/microsoft-says-call-of-duty-will-be-on-playstation-for-at-least-several-more-years-beyond-existing-deal"/>
-        <updated>2022-09-02T21:12:18.000Z</updated>
-        <summary type="html"><![CDATA[As governmental scrutiny of Microsoft's proposed $69bn USD acquisition of publisher Activision Blizzard grows - particularly in relation to its impact on PlayStation - Microsoft has revealed a commitment to keeping Call of Duty on PlayStation platforms for "at least several more years" beyond Sony's existing marketing deal.
-
-
-That's according to a statement given to The Verge in which Microsoft said the commitment was made by Xbox boss Phil Spencer to PlayStation head Jim Ryan earlier this year and formalised in a signed agreement.
-
-
-"In January," Spencer told The Verge in part of a statement shared by the publication, "we provided a signed agreement to Sony to guarantee Call of Duty on PlayStation, with feature and content parity, for at least several more years beyond the current Sony contract, an offer that goes well beyond typical gaming industry agreements".
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
         </author>
     </entry>
 </feed>
