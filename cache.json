@@ -869,26 +869,6 @@
           "wordCount": 1573,
           "title": "Various BioShock games get a 2K Launcher calling it a 'Quality of Life Update'",
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2079358169id21541gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/09/a-genre-is-born-horde-games/",
-          "author": "anewson",
-          "description": "Vampire Survivors-like? Top-down Action-roguelike? Reverse bullet hell? One-stick shooter? Let's take a look.",
-          "link": "https://www.gamingonlinux.com/2022/09/a-genre-is-born-horde-games/",
-          "publishedOn": "2022-09-03T09:18:43.000Z",
-          "wordCount": 1887,
-          "title": "A genre is born: Horde games",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/285731062id21539gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/09/this-great-bundle-of-native-linux-games-will-tease-your-brain/",
-          "author": "Liam Dawe",
-          "description": "Want some games that will test your brain and perhaps help you learn a little in the process? The Level Up and Learn: Programming Games bundle from Humble Bundle will do just that.",
-          "link": "https://www.gamingonlinux.com/2022/09/this-great-bundle-of-native-linux-games-will-tease-your-brain/",
-          "publishedOn": "2022-09-03T09:04:22.000Z",
-          "wordCount": 1028,
-          "title": "This great bundle of Native Linux games will tease your brain",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/806832838id21540gol.jpg"
         }
       ]
     },
@@ -3796,16 +3776,6 @@
           "wordCount": 5243,
           "title": "The simmering wickedness of Pentiment's dialogue is a delight",
           "imageUrl": "https://assets.reedpopcdn.com/pentiment-gamescom-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/pentiment-gamescom-header.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-unexpected-dignity-of-morgues",
-          "author": "Robert Purchese",
-          "description": "Content warning: this piece contains descriptions of the mortuary process.\nMorgues. All I have to do is write the word and it evokes a reaction. These places are steeped in our fundamental fears and preoccupations with death, and those fears and preoccupations are preyed upon by entertainment and amped up for horrors or police dramas. Chances are, you've never been in a morgue, but I bet you have an idea of what one looks like.\nI've been thinking about morgues this week because I've been in a couple and they made a strong impression on me. They're not real, they're in games, and the games are very much based around them.\n Read more",
-          "link": "https://www.eurogamer.net/the-unexpected-dignity-of-morgues",
-          "publishedOn": "2022-09-03T09:00:00.000Z",
-          "wordCount": 5020,
-          "title": "The unexpected dignity of morgues",
-          "imageUrl": "https://assets.reedpopcdn.com/20220812161835_1.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/20220812161835_1.jpg"
         }
       ]
     },
@@ -3814,6 +3784,16 @@
       "feedUrl": "https://www.vg247.com/feed",
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
+        {
+          "id": "https://www.vg247.com/nvidia-evga-divorce-gpu-40-series-geforce-cards-discontinued",
+          "author": "Alex Donaldson",
+          "description": "PC graphics card manufacturer EVGA has announced that it will terminate making all GPU hardware at the end of this current hardware generation, following a large-scale falling out with GPU tech titan Nvidia. \r\n\n\r\nIn a move that is likely to have significant repercussions across the PC gaming hardware industry, EVGA isn’t just dropping Nvidia - it also has no plans to move into creating GPUs with either AMD or Intel, Nvidia’s two key rivals. Instead, the company, which is well-known for making high-quality cards at reasonable prices, will quit the GPU business entirely.\r\n\n\r\nThe news was delivered today by a small number of hardware specialist media in various detailed reports, the best of which can be found over at the brilliant GamersNexus on YouTube (and embedded below). These outlets were directly briefed by EVGA, which confirmed that despite building prototype and test cards based on Nvidia’s upcoming 40-series GPUs, it wouldn’t be proceeding with those products - or any further Nvidia products.\r\n \nRead more",
+          "link": "https://www.vg247.com/nvidia-evga-divorce-gpu-40-series-geforce-cards-discontinued",
+          "publishedOn": "2022-09-16T20:49:37.000Z",
+          "wordCount": 5087,
+          "title": "EVGA falls out with Nvidia - and quits making Graphics Cards",
+          "imageUrl": "https://asset.vg247.com/evga_3090_card.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/evga_3090_card.jpg"
+        },
         {
           "id": "https://www.vg247.com/sable-coming-to-ps5-later-this-year",
           "author": "Stephany Nunneley",
@@ -5392,6 +5372,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/EVGA-Stops-Graphics-Cards",
+          "author": null,
+          "description": "Well known NVIDIA AIB partner EVGA made a rather surprising and unfortunate announcement this Friday afternoon,..",
+          "link": "https://www.phoronix.com/news/EVGA-Stops-Graphics-Cards",
+          "publishedOn": "2022-09-16T20:43:07.000Z",
+          "wordCount": 1374,
+          "title": "EVGA - Long-Time NVIDIA Partner - Ending Graphics Card Production",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Intel-Vulkan-60p-Draw-Boost",
           "author": null,
           "description": "You may recall a few days ago how Valve contractor Mike Blumenkrantz boosted the Radeon Vulkan \"RADV\" driver draw throughput by +55%. Well, he now had a go at optimizing the Intel open-source \"ANV\" Vulkan driver and has squeezed out a 60% improvement  to the draw throughput. Even more interesting is that it was just a few lines of code...",
@@ -6590,36 +6580,6 @@
           "wordCount": 1363,
           "title": "KDE Plasma 5.26 Sees More Features & Fixes Ahead Of Beta",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Ubuntu-Unity-22.10-Official",
-          "author": null,
-          "description": "While it's been years since Canonical dropped Unity as the official desktop environment of Ubuntu, some within the open-source community have still been maintaining it and running an unofficial Ubuntu Unity flavor of the distribution. Now with next month's Ubuntu 22.10 release, Ubuntu Unity will be an official flavor/spin...",
-          "link": "https://www.phoronix.com/news/Ubuntu-Unity-22.10-Official",
-          "publishedOn": "2022-09-03T09:14:01.000Z",
-          "wordCount": 1296,
-          "title": "Ubuntu Unity Becoming An Official Flavor With 22.10 Release",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Chrome-106-Beta-Released",
-          "author": null,
-          "description": "Following this week's release of Chrome 105, Google has promoted Chrome 106 to their beta channel...",
-          "link": "https://www.phoronix.com/news/Chrome-106-Beta-Released",
-          "publishedOn": "2022-09-03T09:09:06.000Z",
-          "wordCount": 1357,
-          "title": "Chrome 106 Beta Adds Pop-Up API, SerialPort BYOB Reader Support",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/PipeWire-0.3.57-Released",
-          "author": null,
-          "description": "PipeWire 0.3.57 was released on Friday as the newest update to this Linux audio/video streams management solution that aims to fill the functionality currently provided by the likes of JACK and PulseAudio...",
-          "link": "https://www.phoronix.com/news/PipeWire-0.3.57-Released",
-          "publishedOn": "2022-09-03T09:05:23.000Z",
-          "wordCount": 1264,
-          "title": "PipeWire 0.3.57 Adds AAC Decoder, Opus For Bluetooth",
-          "imageUrl": null
         }
       ]
     },
@@ -6628,6 +6588,16 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/nightdive-are-remastering-classic-fps-rise-of-the-triad",
+          "author": "CJ Wheeler",
+          "description": "Nineties Apogee shooter Rise Of The Triad is being given the remaster treatment by Nightdive Studios, revealed during today's Realms Deep event. You know, Nightdive, them what are remaking System Shock and who, erm, tried to remaster Blade Runner. It’s coming to Steam and GOG early in 2023. Reminisce fondly about the days of gliding on roller skates with your gun slap bang in the middle of your screen by watching the trailer below.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/nightdive-are-remastering-classic-fps-rise-of-the-triad",
+          "publishedOn": "2022-09-16T20:53:18.000Z",
+          "wordCount": 4991,
+          "title": "Nightdive are remastering classic FPS Rise Of The Triad",
+          "imageUrl": "https://assets2.rockpapershotgun.com/Godmode-vs-Cultists.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Godmode-vs-Cultists.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/oddball-derby-racer-trail-out-is-crash-happy-in-the-best-way",
           "author": "Sin Vega",
@@ -11422,6 +11392,26 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1882286",
+          "author": "Andrew Cunningham",
+          "description": "EVGA will continue selling current-gen GeForce cards until it runs out of stock.",
+          "link": "https://arstechnica.com/?p=1882286",
+          "publishedOn": "2022-09-16T20:24:40.000Z",
+          "wordCount": 1929,
+          "title": "GeForce GPUs are 80% of EVGA’s revenue—but it’s cutting ties with Nvidia anyway",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/evganividia-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1882269",
+          "author": "Benj Edwards",
+          "description": "Using software that creates art on demand, some artists attempt to cash in on AI-generated content.",
+          "link": "https://arstechnica.com/?p=1882269",
+          "publishedOn": "2022-09-16T20:16:42.000Z",
+          "wordCount": 1410,
+          "title": "Artists begin selling AI-generated artwork on stock photography websites",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/ai_art_on_shutterstock_hero-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1882262",
           "author": "Kevin Purdy",
           "description": "No details on why PSVR2 enhancements mean it can't run less-advanced games.",
@@ -14836,6 +14826,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34942",
+          "author": null,
+          "description": "Efter 22 års samarbete bryter partnertillverkaren helt med Nvidia och lägger ned grafikkortstillverkningen för gott.",
+          "link": "https://www.sweclockers.com/artikel/34942-evga-bryter-med-nvidia-slutar-tillverka-grafikkort",
+          "publishedOn": "2022-09-16T21:09:31.000Z",
+          "wordCount": 1761,
+          "title": "EVGA bryter med Nvidia – slutar tillverka grafikkort",
+          "imageUrl": "https://www.sweclockers.com/artikel/34942/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34935",
           "author": null,
           "description": "Noelia och Jonas diskuterar huruvida Zotacs kommande grafikkort ser ut som en båt, en tvättsvamp eller en fräsig foppatoffla i veckans panel.",
@@ -15534,16 +15534,6 @@
           "wordCount": 1650,
           "title": "DDR5 krymper prisskillnaden mot DDR4 fram till årsskiftet",
           "imageUrl": "https://www.sweclockers.com/artikel/34862/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34863",
-          "author": null,
-          "description": "Faktorer som prestanda och pris är ofta självklara när ny hårdvara ska införskaffas. Men hur viktigt är det för dig att hårdvaran är framtidssäker?",
-          "link": "https://www.sweclockers.com/artikel/34863-helgsnack-framtidssakrar-du-ditt-datorkop",
-          "publishedOn": "2022-09-03T08:49:22.000Z",
-          "wordCount": 1649,
-          "title": "Helgsnack: Framtidssäkrar du ditt datorköp?",
-          "imageUrl": "https://www.sweclockers.com/artikel/34863/og-image"
         }
       ]
     },
