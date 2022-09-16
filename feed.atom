@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-16T18:30:59.530Z</updated>
+    <updated>2022-09-16T19:21:46.878Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Heart now pledges 30-seat hybrid electric commercial flights by 2028]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/16/electric_commercial_plane_2028/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/16/electric_commercial_plane_2028/"/>
+        <updated>2022-09-16T19:18:56.000Z</updated>
+        <summary type="html"><![CDATA[<h4>We've heard something like this before ... Boss suggests earlier design wasn't that useful to industry</h4> <p>Heart Aerospace, which previously planned to have hundreds of 19-seat electric planes in the air by 2026, has ditched its previous design in favor of a 30-seat hybrid model with similar capabilities.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Street Fighter 6's full 18-strong launch day character roster revealed]]></title>
+        <id>https://www.eurogamer.net/street-fighter-6s-full-18-strong-launch-day-character-roster-revealed</id>
+        <link href="https://www.eurogamer.net/street-fighter-6s-full-18-strong-launch-day-character-roster-revealed"/>
+        <updated>2022-09-16T19:03:55.000Z</updated>
+        <summary type="html"><![CDATA[Following yesterday's Street Fighter 6 closed beta announcement, Capcom has now revealed the full 18-strong character roster coming to the fighting series' latest instalment on launch day.
+
+
+Previously, Capcom had confirmed 11 of the characters set to be playable in Street Fighter 6, offering a mix of familiar faces and brand-new additions. The iconic likes of Chun-Li, Ryu, Ken, Blanka, Dhalsim, E. Honda, and Guile were all confirmed to be in, alongside more recent additions Juri and Luke. And as for newcomers, "self-styled Chinatown peacekeeper" Jamie and "devoted student to Bushinryu" Kimberly were both confirmed to be along for the ride.
+
+
+As of today, though, that earlier 11-strong line-up has seen seven more additions, with Capcom having now announced Street Fighter 6's full launch day roster. Series stalwarts Zangief, Cammy, and Dee Jay are all present and correct, and the list of newcomers is complete with Manon, Marisa, Lily, and JP.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Few Lines Of Code Increases Intel's Vulkan Driver Draw Throughput By 60%+]]></title>
+        <id>https://www.phoronix.com/news/Intel-Vulkan-60p-Draw-Boost</id>
+        <link href="https://www.phoronix.com/news/Intel-Vulkan-60p-Draw-Boost"/>
+        <updated>2022-09-16T18:50:00.000Z</updated>
+        <summary type="html"><![CDATA[You may recall a few days ago how Valve contractor Mike Blumenkrantz boosted the Radeon Vulkan "RADV" driver draw throughput by +55%. Well, he now had a go at optimizing the Intel open-source "ANV" Vulkan driver and has squeezed out a 60% improvement  to the draw throughput. Even more interesting is that it was just a few lines of code...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Renewed Talk Of User-Space Consoles, Accelerators In The DRM Subsystem]]></title>
+        <id>https://www.phoronix.com/news/LPC-2022-Consoles-Accelerators</id>
+        <link href="https://www.phoronix.com/news/LPC-2022-Consoles-Accelerators"/>
+        <updated>2022-09-16T18:30:46.000Z</updated>
+        <summary type="html"><![CDATA[Direct Rendering Manager (DRM) subsystem maintainer has shared some notes following this week's Linux Plumbers Conference in Dublin. In particular, the matter of whether the growing number of accelerators / AI devices belong within the DRM subsystem or elsewhere and separately there is renewed talks of user-space consoles to potentially push Linux distributions towards moving away from the in-kernel VT...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hem till byn! 7 minuter från Resident Evil Villages Winter-expansion]]></title>
+        <id>https://www.fz.se/artikel/291489</id>
+        <link href="https://www.fz.se/artikel/291489-hem-till-byn-7-minuter-fran-resident-evil-villages-winter-expansion"/>
+        <updated>2022-09-16T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[En minishow, direkt från Tokyo Game Show.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lots of strange things about Saturn can be explained by a destroyed moon]]></title>
         <id>https://arstechnica.com/?p=1882237</id>
