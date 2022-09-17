@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-17T09:24:05.350Z</updated>
+    <updated>2022-09-17T10:26:13.363Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux's Display Brightness/Blaclight Interface Is Finally Being Overhauled]]></title>
+        <id>https://www.phoronix.com/news/2022-Linux-Backlight-Overhaul</id>
+        <link href="https://www.phoronix.com/news/2022-Linux-Backlight-Overhaul"/>
+        <updated>2022-09-17T10:21:50.000Z</updated>
+        <summary type="html"><![CDATA[Hans de Goede of Red Hat has been involved with many great Linux desktop/laptop hardware improvements over the years for work that would have otherwise likely gone unaddressed. One of the initiatives he has been focusing on recently that has long been a sore point for Linux laptops has been the user-space backlight/brightness interface. This week at Linux Plumbers Conference was a presentation on this effort that has long been ripe for improvement...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kate Beaton on creating the best graphic novel of 2022]]></title>
+        <id>https://arstechnica.com/?p=1882099</id>
+        <link href="https://arstechnica.com/?p=1882099"/>
+        <updated>2022-09-17T10:06:20.000Z</updated>
+        <summary type="html"><![CDATA[Ducks is a devastating memoir about life in the oil sands of northern Alberta.]]></summary>
+        <author>
+            <name>WIRED</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HarfBuzz 5.2 Released With Unicode 15 Support]]></title>
+        <id>https://www.phoronix.com/news/HarfBuzz-5.2-Released</id>
+        <link href="https://www.phoronix.com/news/HarfBuzz-5.2-Released"/>
+        <updated>2022-09-17T09:55:39.000Z</updated>
+        <summary type="html"><![CDATA[HarfBuzz is the text shaping library used by many open-source projects from UI toolkits to directly by desktops like GNOME and KDE and then over to other notable software like Java, Android, Firefox, Chrome, and many others. Out this weekend is HarfBuzz 5.2 and most notably adds support for Unicode 15...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Plasma 5.26 Beta Week Saw More Fixes To The Plasma Wayland Session]]></title>
+        <id>https://www.phoronix.com/news/Plasma-5.26-Beta-Week</id>
+        <link href="https://www.phoronix.com/news/Plasma-5.26-Beta-Week"/>
+        <updated>2022-09-17T09:39:45.000Z</updated>
+        <summary type="html"><![CDATA[While Plasma 5.26 beta released this week, KDE developers didn't kick back and relax but have pressed on with continuing to make improvements to this open-source desktop environment...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Humble has a whole lot of Total War Classics in this bundle]]></title>
         <id>https://www.gamingonlinux.com/2022/09/humble-has-a-whole-lot-of-total-war-classics-in-this-bundle/</id>

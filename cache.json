@@ -5322,6 +5322,36 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/2022-Linux-Backlight-Overhaul",
+          "author": null,
+          "description": "Hans de Goede of Red Hat has been involved with many great Linux desktop/laptop hardware improvements over the years for work that would have otherwise likely gone unaddressed. One of the initiatives he has been focusing on recently that has long been a sore point for Linux laptops has been the user-space backlight/brightness interface. This week at Linux Plumbers Conference was a presentation on this effort that has long been ripe for improvement...",
+          "link": "https://www.phoronix.com/news/2022-Linux-Backlight-Overhaul",
+          "publishedOn": "2022-09-17T10:21:50.000Z",
+          "wordCount": 1327,
+          "title": "Linux's Display Brightness/Blaclight Interface Is Finally Being Overhauled",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/HarfBuzz-5.2-Released",
+          "author": null,
+          "description": "HarfBuzz is the text shaping library used by many open-source projects from UI toolkits to directly by desktops like GNOME and KDE and then over to other notable software like Java, Android, Firefox, Chrome, and many others. Out this weekend is HarfBuzz 5.2 and most notably adds support for Unicode 15...",
+          "link": "https://www.phoronix.com/news/HarfBuzz-5.2-Released",
+          "publishedOn": "2022-09-17T09:55:39.000Z",
+          "wordCount": 1402,
+          "title": "HarfBuzz 5.2 Released With Unicode 15 Support",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Plasma-5.26-Beta-Week",
+          "author": null,
+          "description": "While Plasma 5.26 beta released this week, KDE developers didn't kick back and relax but have pressed on with continuing to make improvements to this open-source desktop environment...",
+          "link": "https://www.phoronix.com/news/Plasma-5.26-Beta-Week",
+          "publishedOn": "2022-09-17T09:39:45.000Z",
+          "wordCount": 1434,
+          "title": "KDE Plasma 5.26 Beta Week Saw More Fixes To The Plasma Wayland Session",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/EVGA-Stops-Graphics-Cards",
           "author": null,
           "description": "Well known NVIDIA AIB partner EVGA made a rather surprising and unfortunate announcement this Friday afternoon,..",
@@ -11256,6 +11286,16 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1882099",
+          "author": "WIRED",
+          "description": "Ducks is a devastating memoir about life in the oil sands of northern Alberta.",
+          "link": "https://arstechnica.com/?p=1882099",
+          "publishedOn": "2022-09-17T10:06:20.000Z",
+          "wordCount": 2506,
+          "title": "Kate Beaton on creating the best graphic novel of 2022",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/beaton-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1882409",
           "author": "Ashley Belanger",
