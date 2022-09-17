@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-17T21:21:41.504Z</updated>
+    <updated>2022-09-17T22:24:01.459Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Valve have much delayed Steam Deck docks on show at Tokyo Game Show]]></title>
+        <id>https://www.rockpapershotgun.com/valve-have-much-delayed-steam-deck-docks-on-show-at-tokyo-game-show</id>
+        <link href="https://www.rockpapershotgun.com/valve-have-much-delayed-steam-deck-docks-on-show-at-tokyo-game-show"/>
+        <updated>2022-09-17T21:48:06.000Z</updated>
+        <summary type="html"><![CDATA[How many Decks would a Steam Deck dock dock if a Steam Deck dock could dock Decks? One, obviously - that's how docks work. You can't buy one yet for Valve's PC gaming handheld, but they're on the way, and Valve have had them on display for the first time during this week's Tokyo Game Show.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Metal: Hellsinger will let you mod in your own music "soon"]]></title>
         <id>https://www.rockpapershotgun.com/metal-hellsinger-will-let-you-mod-in-your-own-music-soon</id>
@@ -17,6 +30,41 @@
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russ Allbery: Effective altruism and the control trap]]></title>
+        <id>https://www.eyrie.org/~eagle/journal/2022-09/001.html</id>
+        <link href="https://www.eyrie.org/~eagle/journal/2022-09/001.html"/>
+        <updated>2022-09-17T20:49:00.000Z</updated>
+        <summary type="html"><![CDATA[What We Owe to the
+Future, which has put effective altruism back in the news.  That plus the
+decision by GiveWell to
+remove GiveDirectly from their top charity list got me thinking about
+charity again.  I think effective altruism, by embracing long-termism, is
+falling into an ethical trap, and I'm going to start heavily discounting
+their recommendations for donations.
+
+
+Background
+Charity
+Navigator measure overhead and (arguable) waste, but they don't ask
+whether the on-the-ground work of the charity has a positive effect
+proportional to the resources it's expending.
+This is a good question to
+ask.
+
+
+
+GiveWell is a charity research
+organization that directs money for donors based on effective altruism
+principles.  It's one of the central organizations in effective altruism.
+
+
+
+GiveDirectly…]]></summary>
+        <author>
+            <name>Planet Debian</name>
         </author>
     </entry>
     <entry>
@@ -20430,39 +20478,6 @@ It had already been noted that the next three Call of Duty games would launch on
         <summary type="html"><![CDATA[The Pokémon Company is suing multiple Chinese mobile game operators over a game that allegedly looks a bit too much like Pokémon, Pocket Monster Reissue.
 As reported by South China Morning Post (thanks, GamesIndustry.biz), The Pokémon Company is taking legal action against six Chinese companies over copyright infringement and unfair competition behaviour, due to some striking similarities between Pokémon and Pocket Monster Reissue, also known as Koudaiyaoguai Fuke.
 Apparently the six companies in question have been running the game since 2015, based on a stock exchange filing from Jiangyin Zhongnan Heavy Industries Co, one of the defendants. In turn, The Pokémon Company has put in a request at the Shenzhen Intermediate People's Court looking to have an order placed against the six companies to prevent them from working on Pocket Monster Reissue.
- Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mesa RADV Driver Adds Radeon Raytracing Analyzer Support]]></title>
-        <id>https://www.phoronix.com/news/RADV-Radeon-Raytracing-RRA</id>
-        <link href="https://www.phoronix.com/news/RADV-Radeon-Raytracing-RRA"/>
-        <updated>2022-09-04T09:47:47.000Z</updated>
-        <summary type="html"><![CDATA[Mesa's Radeon Vulkan driver "RADV" has added support for compatibility with GPUOpen's Radeon Raytracing Analyzer...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDE's Kaidan Messaging App Adding Encrypted Audio/Video Calls]]></title>
-        <id>https://www.phoronix.com/news/Kaidan-Encrypt-Audio-Video-Call</id>
-        <link href="https://www.phoronix.com/news/Kaidan-Encrypt-Audio-Video-Call"/>
-        <updated>2022-09-04T09:38:03.000Z</updated>
-        <summary type="html"><![CDATA[KDE's Kaidan app has been in development for a number of years now as a Jabber/XMPP chat client built around Kirigami and Qt Quick. Kaidan has been under active development and formally became a KDE project in 2019. It's newest ambition is now working out encrypted audio and video calls...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Splitgate development coming to an end as devs move to an equally portal filled follow-up]]></title>
-        <id>https://www.vg247.com/splitgate-development-ends-new-game-from-1047-games</id>
-        <link href="https://www.vg247.com/splitgate-development-ends-new-game-from-1047-games"/>
-        <updated>2022-09-04T09:30:12.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this week, Splitgate developer 1047 Games announced that development on the game would cease as it shifts over to an Unreal Engine 5 follow-up title.
-The breakout hit that mixed Halo and Portal will no longer have any feature updates, but while this marks the end of one game, it also marks the start of another. In a statement provided on Twitter, 1047 Games explained its decision to stop development on Splitgate, while also reassuring fans that its next game will also be a shooter with portals.
-"After careful consideration and much deliberation the 1047 Games team has determined that in order to build the game fans deserve - and to build it in a way that isn't trying to retrofit and live operate an existing product - we are ending feature development of Splitgate," reads the announcement.
  Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
