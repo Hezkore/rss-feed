@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-17T05:39:56.055Z</updated>
+    <updated>2022-09-17T06:30:49.006Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Set Up a Raspberry Pi for the First Time]]></title>
+        <id>w9iJQzhs9u4aLfn8CktSnc</id>
+        <link href="https://www.tomshardware.com/how-to/set-up-raspberry-pi"/>
+        <updated>2022-09-17T06:12:13.000Z</updated>
+        <summary type="html"><![CDATA[Just got your first Raspberry Pi and are wondering how to get started? Here's what you need to do.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jonathan Dowland: Introducing Red Hat UBI9 OpenJDK runtime images]]></title>
+        <id>https://jmtd.net/log/ubi9-openjdk/</id>
+        <link href="https://jmtd.net/log/ubi9-openjdk/"/>
+        <updated>2022-09-17T06:11:51.000Z</updated>
+        <summary type="html"><![CDATA[A few weeks ago we shipped the first RHEL UBI9-based OpenJDK container images.
+Universal Base Image (UBI) is an initiative where you can obtain, share and
+build upon official Red Hat container images without needing a Red Hat
+subscription. They're exactly the same base images that Red Hat products are
+built upon, composed entirely of Open Source software. Your precise rights are
+covered in the
+EULA.
+Nowadays we offer two flavours of images, the original style (now termed
+builder images) and leaner runtime images, which have a subset of the JDK,
+and no build tools like Maven, etc.
+We provide JDK11 and JDK17 for UBI9:
+podman pull registry.access.redhat.com/ubi9/openjdk-11
+podman pull registry.access.redhat.com/ubi9/openjdk-17
+podman pull registry.access.redhat.com/ubi9/openjdk-11-runtime
+pod…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[America taps 150+ prosecutors to fight cryptocurrency crime]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/17/doj_cryptocurrency_crime/</id>
@@ -24,6 +58,16 @@
         <summary type="html"><![CDATA[Critics warn the law could lead to more hate speech and disinformation online.]]></summary>
         <author>
             <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comic for 2022.09.17 - Queen]]></title>
+        <id>https://explosm.net/comics/queen</id>
+        <link href="https://explosm.net/comics/queen"/>
+        <updated>2022-09-17T00:00:57.000Z</updated>
+        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
+        <author>
+            <name>Explosm.net</name>
         </author>
     </entry>
     <entry>
@@ -20052,16 +20096,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[By tweaking a few settings in Raspberry Pi imager, you can control your Pi over the network and will never need a screen.]]></summary>
         <author>
             <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All the best Labor Day tech deals we can find this weekend]]></title>
-        <id>https://arstechnica.com/?p=1878008</id>
-        <link href="https://arstechnica.com/?p=1878008"/>
-        <updated>2022-09-03T18:01:24.000Z</updated>
-        <summary type="html"><![CDATA[Dealmaster includes MacBook Pros, OLED TVs, AirPods Max, video games freebies, and more.]]></summary>
-        <author>
-            <name>Jeff Dunn</name>
         </author>
     </entry>
 </feed>

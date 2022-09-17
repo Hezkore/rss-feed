@@ -8016,6 +8016,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "w9iJQzhs9u4aLfn8CktSnc",
+          "author": null,
+          "description": "Just got your first Raspberry Pi and are wondering how to get started? Here's what you need to do.",
+          "link": "https://www.tomshardware.com/how-to/set-up-raspberry-pi",
+          "publishedOn": "2022-09-17T06:12:13.000Z",
+          "wordCount": 22990,
+          "title": "How to Set Up a Raspberry Pi for the First Time",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/hmY4mudbr2F46kwUMeb8d.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/hmY4mudbr2F46kwUMeb8d.jpg"
+        },
+        {
           "id": "ukYBXvHQyC4JDUwxFeDcob",
           "author": null,
           "description": "According to two reports on YouTube, EVGA will no longer make GPUs",
@@ -10888,6 +10903,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "https://jmtd.net/log/ubi9-openjdk/",
+          "author": null,
+          "description": "A few weeks ago we shipped the first RHEL UBI9-based OpenJDK container images.\nUniversal Base Image (UBI) is an initiative where you can obtain, share and\nbuild upon official Red Hat container images without needing a Red Hat\nsubscription. They're exactly the same base images that Red Hat products are\nbuilt upon, composed entirely of Open Source software. Your precise rights are\ncovered in the\nEULA.\nNowadays we offer two flavours of images, the original style (now termed\nbuilder images) and leaner runtime images, which have a subset of the JDK,\nand no build tools like Maven, etc.\nWe provide JDK11 and JDK17 for UBI9:\npodman pull registry.access.redhat.com/ubi9/openjdk-11\npodman pull registry.access.redhat.com/ubi9/openjdk-17\npodman pull registry.access.redhat.com/ubi9/openjdk-11-runtime\npod…",
+          "link": "https://jmtd.net/log/ubi9-openjdk/",
+          "publishedOn": "2022-09-17T06:11:51.000Z",
+          "wordCount": 389,
+          "title": "Jonathan Dowland: Introducing Red Hat UBI9 OpenJDK runtime images",
+          "imageUrl": null
+        },
+        {
           "id": "https://jmtd.net/log/3d_print_list/2/",
           "author": null,
           "description": "Back in November I wrote up a list of 25 things I would 3D print.\nLet's revisit the list and see how things have developed.\nStuff I won't print\n\nSome kind of 45° leaning prong to dry bottles and flasks on\nA tea tray and coasters\nSmall tins to keep loose-leaf tea in\nIt was pointed out to me that you can't safely print things to store food in\nwith most materials, as their porous/layered nature facilitates the growth of\nbacteria. So, I'll rule out those items.\nA vinyl record.\n\n\nThe size of the grooves in a vinyl record are smaller than conventional FDM\nprinters can achieve.\nThings I've printed\na replacement prop arm/foot for my computer keyboard\n\n\nSomeone has modelled the exact part I need, and it worked great:\nhttps://www.printables.com/model/59132-lenovo-keyboard-kt-1255\n\n\nreplacement toy b…",
@@ -13020,16 +13045,6 @@
           "wordCount": 2522,
           "title": "Years after shuttle, NASA rediscovers the perils of liquid hydrogen",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/Artemis-I-LA1-Aug-2022-3042-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1878008",
-          "author": "Jeff Dunn",
-          "description": "Dealmaster includes MacBook Pros, OLED TVs, AirPods Max, video games freebies, and more.",
-          "link": "https://arstechnica.com/?p=1878008",
-          "publishedOn": "2022-09-03T18:01:24.000Z",
-          "wordCount": 2483,
-          "title": "All the best Labor Day tech deals we can find this weekend",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/dealmaster090322-760x380.jpg"
         }
       ]
     },
@@ -15395,6 +15410,16 @@
       "feedUrl": "https://explosm.net/rss.xml",
       "siteUrl": "https://explosm.net",
       "articles": [
+        {
+          "id": "https://explosm.net/comics/queen",
+          "author": null,
+          "description": "New Cyanide and Happiness Comic",
+          "link": "https://explosm.net/comics/queen",
+          "publishedOn": "2022-09-17T00:00:57.000Z",
+          "wordCount": 638,
+          "title": "Comic for 2022.09.17 - Queen",
+          "imageUrl": null
+        },
         {
           "id": "https://explosm.net/comics/dead-body",
           "author": null,
