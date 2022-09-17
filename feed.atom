@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-17T07:23:24.560Z</updated>
+    <updated>2022-09-17T08:30:41.343Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What are we all playing this weekend?]]></title>
+        <id>https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-207</id>
+        <link href="https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-207"/>
+        <updated>2022-09-17T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here we are, the final weekend of summer! I feel I wasted this summer a bit and as much as I do like autumn, I really am not ready for the winter which will follow. Why do I always let my holiday days slide down and clump at the end of the year. Better make the most of comfortable swimming and cycling while I still can.
+We're away on Monday so we'll see you again on Tuesday. Until then, what are you playing this weekend? Here's what we're clicking on!
+Read more]]></summary>
+        <author>
+            <name>Alice O'Connor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Förbudet av Wolfenstein 3D lyfts i Tyskland efter 30 år]]></title>
+        <id>https://www.fz.se/artikel/291490</id>
+        <link href="https://www.fz.se/artikel/291490-forbudet-av-wolfenstein-3d-lyfts-i-tyskland-efter-30-ar"/>
+        <updated>2022-09-17T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Äntligen!! Vad är det man säger, bättre sent än aldrig?]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can reflections in eyeglasses actually leak info from Zoom calls? Here's a study into it]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/17/glasses_reflections_zoom/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/17/glasses_reflections_zoom/"/>
+        <updated>2022-09-17T07:32:11.000Z</updated>
+        <summary type="html"><![CDATA[<h4>About time someone shined some light onto this</h4> <p>Boffins at the University of Michigan in the US and Zhejiang University in China want to highlight how bespectacled video conferencing participants are inadvertently revealing sensitive on-screen information via reflections in their eyeglasses.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Set Up a Raspberry Pi for the First Time]]></title>
         <id>w9iJQzhs9u4aLfn8CktSnc</id>
@@ -20076,26 +20108,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA["Every time we saw a leak, it pretty quickly exceeded our flammability limits."]]></summary>
         <author>
             <name>Eric Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel's Xeon Emerald Rapids CPUs Could Wield Up To 64 Cores]]></title>
-        <id>MnkHezp47CSHf6YcVWJQBX</id>
-        <link href="https://www.tomshardware.com/news/intels-xeon-emerald-rapids-cpus-could-wield-up-to-64-cores"/>
-        <updated>2022-09-03T20:17:21.000Z</updated>
-        <summary type="html"><![CDATA[Hardware leaker shares the alleged specifications for Intel's Emerald Rapids Xeon processors.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up a Headless Raspberry Pi, Without Ever Attaching a Monitor]]></title>
-        <id>oMaEfff5m9Cmx5VGqe5orf</id>
-        <link href="https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html"/>
-        <updated>2022-09-03T19:26:46.000Z</updated>
-        <summary type="html"><![CDATA[By tweaking a few settings in Raspberry Pi imager, you can control your Pi over the network and will never need a screen.]]></summary>
-        <author>
-            <name>Tomshardware</name>
         </author>
     </entry>
 </feed>
