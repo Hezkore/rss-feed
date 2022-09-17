@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-16T23:26:24.367Z</updated>
+    <updated>2022-09-17T02:30:34.003Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[America taps 150+ prosecutors to fight cryptocurrency crime]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/17/doj_cryptocurrency_crime/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/17/doj_cryptocurrency_crime/"/>
+        <updated>2022-09-17T01:32:06.000Z</updated>
+        <summary type="html"><![CDATA[<h4>As President Biden rolls out a blueprint for future regulations</h4> <p>The US Department of Justice has tapped more than 150 federal prosecutors to form a team keenly focused on cracking down on cryptocurrency-related crimes, it announced on Friday.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Texas court upholds law banning tech companies from censoring viewpoints]]></title>
+        <id>https://arstechnica.com/?p=1882409</id>
+        <link href="https://arstechnica.com/?p=1882409"/>
+        <updated>2022-09-17T00:06:21.000Z</updated>
+        <summary type="html"><![CDATA[Critics warn the law could lead to more hate speech and disinformation online.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Appeals court already under fire for upholding Texas no-content-moderation law]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/16/texas_social_media_law_appeal/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/16/texas_social_media_law_appeal/"/>
+        <updated>2022-09-16T23:33:43.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Big Tech forbidden from taking down 'viewpoint-based' posts no matter how awful but lawful</h4> <p>The US Fifth Circuit Court of Appeals on Friday said social media platforms are obligated to carry lawful but awful speech, rejecting the entreaties of tech trade groups to block Texas's social media law.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Logitech's G29 racing wheel and pedals is down to $230 at Amazon]]></title>
         <id>https://www.rockpapershotgun.com/logitechs-g29-racing-wheel-and-pedals-is-down-to-230-at-amazon</id>
@@ -20135,104 +20165,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Geforce RTX 3060 får konkurrens av Intel Arc även på ray tracing-fronten, åtminstone baserat på de siffror som grafikkortsdebutanten nu presenterar.]]></summary>
         <author>
             <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supermassive's next game will be another horror "equivalent in size" to The Quarry]]></title>
-        <id>https://www.eurogamer.net/supermassives-next-game-will-be-another-horror-equivalent-in-size-to-the-quarry</id>
-        <link href="https://www.eurogamer.net/supermassives-next-game-will-be-another-horror-equivalent-in-size-to-the-quarry"/>
-        <updated>2022-09-03T13:05:23.000Z</updated>
-        <summary type="html"><![CDATA[The Quarry developer Supermassive has confirmed it's already commenced work on its next game and yes, it's going to be the "same sort of horror" as its predecessors.
-
-In an interview with our friends at VGC, studio director Will Byles said that while he wasn't sure "how far [the team] could stretch the teen horror thing out further", another horror is on the way in either 2025 or 2026, and it will be the equivalent size of The Quarry rather than follow the episodic format of its anthology series, Dark Pictures.
-
-“We’ve started working on [the next game],” studio director Will Byles told VGC. "I can’t really tell you very much at all about it, but we have started. Again, it’s the same sort of horror genre, we’re sticking to that. It’s equivalent in size to The Quarry… and that’s about as much as I can say without giving too much away.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepCool AK500 Review: Big Air, Incredible Value]]></title>
-        <id>wgKYKfsZpsE7xZyf275FBW</id>
-        <link href="https://www.tomshardware.com/reviews/deepcool-ak500-review"/>
-        <updated>2022-09-03T13:00:01.000Z</updated>
-        <summary type="html"><![CDATA[DeepCool delivers yet another impressive air cooler with its AK500. Our tests show it can handle thermal demands over 200W while remaining quiet.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joachim Breitner: More recursive definitions]]></title>
-        <id>http://www.joachim-breitner.de/blog/792-More_recursive_definitions</id>
-        <link href="http://www.joachim-breitner.de/blog/792-More_recursive_definitions"/>
-        <updated>2022-09-03T12:31:51.000Z</updated>
-        <summary type="html"><![CDATA[Haskell is a pure and lazy programming language, and the laziness allows us to write some algorithms very elegantly, by recursively referring to already calculated values. A typical example is the following definition of the Fibonacci numbers, as an infinite stream:
-fibs = 0 : 1 : zipWith (+) fibs (tail fibs)
-
-Elegant graph traversals
-A maybe more practical example is the following calculation of the transitive closure of a graph:
-
-import qualified Data.Set as S
-import qualified Data.Map as M
-
-type Graph = M.Map Int (S.Set Int)
-transitive1 :: Graph -> Graph
-transitive1 g = sets
-  where
-    sets :: M.Map Int (S.Set Int)
-    sets = M.mapWithKey (\v vs -> S.insert v (S.unions [ sets M.! v' | v' <- S.toList vs ])) g
-
-We represent graphs as maps from vertex to their successors vertex, and defin…]]></summary>
-        <author>
-            <name>mail@joachim-breitner.de (Joachim Breitner)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logitech G705 Review: Cute, clicky, contoured]]></title>
-        <id>YP536S2g25xogPWDvLD5VQ</id>
-        <link href="https://www.tomshardware.com/reviews/logitech-g705-review"/>
-        <updated>2022-09-03T12:00:37.000Z</updated>
-        <summary type="html"><![CDATA[The Logitech G705 is a small, contoured wireless gaming mouse that performs well but doesn’t stand out.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Liveblog: All the news from Apple’s “Far Out” event]]></title>
-        <id>https://arstechnica.com/?p=1877934</id>
-        <link href="https://arstechnica.com/?p=1877934"/>
-        <updated>2022-09-03T12:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Tune in at 1 pm EST on September 7, 2022, to see what's next from Apple.]]></summary>
-        <author>
-            <name>Samuel Axon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Create Web Apps with Python, HTML and Thonny]]></title>
-        <id>cg4qqzErp7US5ZZufrzyY9</id>
-        <link href="https://www.tomshardware.com/how-to/build-web-apps-with-python-html-thonny"/>
-        <updated>2022-09-03T12:00:12.000Z</updated>
-        <summary type="html"><![CDATA[Get the latest news, stocks, jokes using RSS feeds and just a little Python. We use the latest version of Thonny to write our own, custom web app.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Two Point Campus is two weeks old and already has a million players]]></title>
-        <id>https://www.eurogamer.net/two-point-campus-is-two-weeks-old-and-already-has-a-million-players</id>
-        <link href="https://www.eurogamer.net/two-point-campus-is-two-weeks-old-and-already-has-a-million-players"/>
-        <updated>2022-09-03T11:53:57.000Z</updated>
-        <summary type="html"><![CDATA[University sim Two Point Campus has clocked up one million players in just a fortnight. 
-
-Publisher Sega said its "bags of charm and tongue-in-cheek comedy" means the hit management sim has "surpassed the milestone even faster than its much-loved predecessor, Two Point Hospital".
-
-"Two Point Campus was such a thrill to create so we’re ecstatic to see so many people enjoying the game as much as they do!" said studio director, Mark Webley. "We had high hopes that we had created something that fans would love, but the response has exceeded all expectations! We’d like to send a massive thank you to all of the players out there who are showing support by building their wild and wonderful campuses – we can’t wait to see what more you’ll create."
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
         </author>
     </entry>
 </feed>
