@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-17T17:27:31.059Z</updated>
+    <updated>2022-09-17T18:30:15.655Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The weekend’s best deals: Disney+ for $2, Anker chargers, and more]]></title>
+        <id>https://arstechnica.com/?p=1882266</id>
+        <link href="https://arstechnica.com/?p=1882266"/>
+        <updated>2022-09-17T17:25:11.000Z</updated>
+        <summary type="html"><![CDATA[Dealmaster also has Xbox gift cards, MacBooks, SSDs, and gaming monitors.]]></summary>
+        <author>
+            <name>Jeff Dunn</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Outer Wilds now available on PS5 and Xbox Series X/S]]></title>
         <id>https://www.vg247.com/outer-wilds-now-available-on-ps5-and-xbox-series-xs</id>
@@ -20426,16 +20436,6 @@ The breakout hit that mixed Halo and Portal will no longer have any feature upda
         <summary type="html"><![CDATA[Windows Phone är officiellt död och begraven, men sett till mjuk- och hårdvara var det egentligen inga fel på Microsofts plattform. Söndagsvideon sammanfattar vad som gick snett.]]></summary>
         <author>
             <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Gaming Laptop Deals 2022]]></title>
-        <id>c6gE24pFiqgwWrjotLuua3</id>
-        <link href="https://www.tomshardware.com/news/best-gaming-laptop-deals"/>
-        <updated>2022-09-04T05:28:02.000Z</updated>
-        <summary type="html"><![CDATA[Here are the gaming laptop deals we've seen.]]></summary>
-        <author>
-            <name>Tomshardware</name>
         </author>
     </entry>
 </feed>
