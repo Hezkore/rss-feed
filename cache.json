@@ -8226,6 +8226,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "gR7Z5Ej7ec3iRqGfKgWYsb",
+          "author": null,
+          "description": "Intel's new Core i9-13900K emerges in a review from Asia. The chip reportedly offers excellent performance over the Core i9-12900K.",
+          "link": "https://www.tomshardware.com/news/core-i9-13900k-early-review-shows-big-gains-over-core-i9-12900k",
+          "publishedOn": "2022-09-18T18:35:30.000Z",
+          "wordCount": 21855,
+          "title": "Core i9-13900K Early Review Shows Big Gains Over Core i9-12900K",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/5SjqbSvRVPfcq4HNogiA8Q.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/5SjqbSvRVPfcq4HNogiA8Q.jpg"
+        },
+        {
           "id": "zcMBwFX6Hst8nsA6GDTGsS",
           "author": null,
           "description": "Gigabyte appears to have listed a GV-N307TGAMING OC ST-16GD on the EEC registry. This codename converts to an overclocked GeForce RTX 3070 Ti Gaming Stealth model with 16GB of VRAM.",
@@ -14882,16 +14897,6 @@
           "wordCount": 2090,
           "title": "Blizzard drar tillbaka Diablo Immortal-valuta som köpts från tredje part",
           "imageUrl": "https://www.fz.se/artikel/og-image/291347"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291346",
-          "author": null,
-          "description": "Och de fortsätter på skräcktemat.",
-          "link": "https://www.fz.se/artikel/291346-the-quarry-utvecklaren-supermassive-har-borjat-jobba-pa-nasta-spel",
-          "publishedOn": "2022-09-05T06:57:00.000Z",
-          "wordCount": 1934,
-          "title": "The Quarry-utvecklaren Supermassive har börjat jobba på nästa spel",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291346"
         }
       ]
     },
@@ -15579,16 +15584,6 @@
           "wordCount": 1733,
           "title": "Japansk minister inleder kamp mot disketter",
           "imageUrl": "https://www.sweclockers.com/artikel/34870/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34869",
-          "author": null,
-          "description": "I EU-kommissionens senaste förslag återfinns krav på tillverkare att erbjuda 15 olika reservdelar i upp till 5 år. Därtill ställs högre krav på batterier.",
-          "link": "https://www.sweclockers.com/artikel/34869-reservdelar-till-telefoner-kan-bli-eu-krav",
-          "publishedOn": "2022-09-05T07:15:09.000Z",
-          "wordCount": 1682,
-          "title": "Reservdelar till telefoner kan bli EU-krav",
-          "imageUrl": "https://www.sweclockers.com/artikel/34869/og-image"
         }
       ]
     },
@@ -18106,26 +18101,6 @@
           "wordCount": 1697,
           "title": "Microsoft: The deadline to get off Basic Auth is approaching",
           "imageUrl": "https://regmedia.co.uk/2017/05/12/shutterstock_181596782.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/05/windows_defender_chrome_false_positive/",
-          "author": null,
-          "description": "<h4>Windows Defender update fixed the mess after a weekend of false positive weirdness</h4> <p>Microsoft appears to have fixed a problem that saw its Defender antivirus program identify apps based on the Chromium browser engine and/or Electron JavaScript framework as malware, and suggest users remove them.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/05/windows_defender_chrome_false_positive/",
-          "publishedOn": "2022-09-05T06:57:12.000Z",
-          "wordCount": 1185,
-          "title": "Microsoft mistakenly rated Chromium, Electron, as malware",
-          "imageUrl": "https://regmedia.co.uk/2022/09/05/shutterstock_classic_windows_fail_button.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/05/who_me/",
-          "author": null,
-          "description": "<h4>‘I had a sharp new suit and a misplaced sense of confidence’ – and made a costly mistake</h4> <p>Before you shell out big bucks to engage the services of consultants, perhaps consider this week’s instalment of <a target=\"_blank\" href=\"https://www.theregister.com/Tag/Who,%20Me?/\">Who, Me?</a> and the adventures of a reader we’ll call “Norman” for the duration of this tale.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/05/who_me/",
-          "publishedOn": "2022-09-05T06:32:12.000Z",
-          "wordCount": 1467,
-          "title": "Salesperson's tech dream delivered by ill-equipped consultant who charged for the inevitable fix",
-          "imageUrl": "https://regmedia.co.uk/2015/07/23/suit_lifting_weight_photo_via_shutterstock.jpg"
         }
       ]
     }

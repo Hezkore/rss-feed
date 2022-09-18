@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-18T18:30:07.648Z</updated>
+    <updated>2022-09-18T19:19:40.695Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Core i9-13900K Early Review Shows Big Gains Over Core i9-12900K]]></title>
+        <id>gR7Z5Ej7ec3iRqGfKgWYsb</id>
+        <link href="https://www.tomshardware.com/news/core-i9-13900k-early-review-shows-big-gains-over-core-i9-12900k"/>
+        <updated>2022-09-18T18:35:30.000Z</updated>
+        <summary type="html"><![CDATA[Intel's new Core i9-13900K emerges in a review from Asia. The chip reportedly offers excellent performance over the Core i9-12900K.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intel Begins Working On Linux Support For Data Streaming Accelerator 2.0]]></title>
         <id>https://www.phoronix.com/news/Intel-DSA-2.0-Linux-Start</id>
@@ -20407,46 +20417,6 @@ Bloober’s CMO, Tomasz Galikowski, took part in an interview with IGN to clear 
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/05/microsoft_basic_auth_deadline/"/>
         <updated>2022-09-05T07:27:07.000Z</updated>
         <summary type="html"><![CDATA[<h4>Exchange Online face Halloween deadline</h4> <p>Don't say you weren't warned.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reservdelar till telefoner kan bli EU-krav]]></title>
-        <id>https://www.sweclockers.com/artikel/34869</id>
-        <link href="https://www.sweclockers.com/artikel/34869-reservdelar-till-telefoner-kan-bli-eu-krav"/>
-        <updated>2022-09-05T07:15:09.000Z</updated>
-        <summary type="html"><![CDATA[I EU-kommissionens senaste förslag återfinns krav på tillverkare att erbjuda 15 olika reservdelar i upp till 5 år. Därtill ställs högre krav på batterier.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft mistakenly rated Chromium, Electron, as malware]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/05/windows_defender_chrome_false_positive/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/05/windows_defender_chrome_false_positive/"/>
-        <updated>2022-09-05T06:57:12.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Windows Defender update fixed the mess after a weekend of false positive weirdness</h4> <p>Microsoft appears to have fixed a problem that saw its Defender antivirus program identify apps based on the Chromium browser engine and/or Electron JavaScript framework as malware, and suggest users remove them.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Quarry-utvecklaren Supermassive har börjat jobba på nästa spel]]></title>
-        <id>https://www.fz.se/artikel/291346</id>
-        <link href="https://www.fz.se/artikel/291346-the-quarry-utvecklaren-supermassive-har-borjat-jobba-pa-nasta-spel"/>
-        <updated>2022-09-05T06:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Och de fortsätter på skräcktemat.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Salesperson's tech dream delivered by ill-equipped consultant who charged for the inevitable fix]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/05/who_me/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/05/who_me/"/>
-        <updated>2022-09-05T06:32:12.000Z</updated>
-        <summary type="html"><![CDATA[<h4>‘I had a sharp new suit and a misplaced sense of confidence’ – and made a costly mistake</h4> <p>Before you shell out big bucks to engage the services of consultants, perhaps consider this week’s instalment of <a target="_blank" href="https://www.theregister.com/Tag/Who,%20Me?/">Who, Me?</a> and the adventures of a reader we’ll call “Norman” for the duration of this tale.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
         <author>
             <name>The Register</name>
         </author>
