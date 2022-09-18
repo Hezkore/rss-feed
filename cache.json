@@ -3796,16 +3796,6 @@
           "wordCount": 4513,
           "title": "Elden Ring manga turns the game into a farce",
           "imageUrl": "https://assets.reedpopcdn.com/elden-ring-manga-cover.png/BROK/thumbnail/1600x900/format/jpg/quality/80/elden-ring-manga-cover.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/jack-move-is-a-brisk-cyberpunk-jrpg-alike-thats-out-this-week",
-          "author": "Christian Donlan",
-          "description": "Jack Move. Jack Move. Here is a phrase that tickles somewhere, deep in the back of the brain, buried under boxes and old coats. Wasn't someone...down for a Jack Move? I want to say William Gibson. One of the early ones - or maybe one of the present-day ones?\r\n\n\r\nGoogling will have to wait, because here is Jack Move, with a demo out on Steam now and a release planned for the 8th of September. Turns out we're all down for a Jack Move.\r\n\n\r\nAnd I reckon I was right about Gibson, because Jack Move is a cyberpunk JRPG, albeit one with modern sensibilities, which means the pixel-art is smooth and Treasure-textured and the action is implausibly brisk. Straight up: this is a lovely thing. Lovely from the way that you PATCH items rather than use them, to the way that you have stats for Sass and Guts and Grok.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/jack-move-is-a-brisk-cyberpunk-jrpg-alike-thats-out-this-week",
-          "publishedOn": "2022-09-05T10:00:17.000Z",
-          "wordCount": 4891,
-          "title": "Jack Move is a brisk cyberpunk JRPG-alike that's out this week",
-          "imageUrl": "https://assets.reedpopcdn.com/JAck-Move_yi6oTaF.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/JAck-Move_yi6oTaF.jpg"
         }
       ]
     },
@@ -5443,26 +5433,6 @@
           "wordCount": 5110,
           "title": "World of Warcraft Classic is currently plagued... with massive queue times",
           "imageUrl": "https://asset.vg247.com/classic_wow_queues_header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/classic_wow_queues_header.jpg"
-        },
-        {
-          "id": "https://www.vg247.com/elden-ring-ancestor-spirit-hidden-mechanic-horrifying",
-          "author": "Sherif Saed",
-          "description": "Elden Ring is full of hidden areas, obscure bosses, and entire communities you may not get to see if you don't venture too far off the beaten path. One of the more unique are the Ancestral Followers, who can be found deep underground in the Siofra River Bank.\nThe Followers worship the Ancestor Spirits, and can be seen gathering around its remains performing their rites. By following a simple mini-game, you can travel to the realm of the Ancestor Spirit and take it on in a boss fight.\nAll that is well and good, but the fight itself plays quite differently from all the other fights in Elden Ring. Most players who fought the Ancestor Spirit bosses in the game felt that they got a slightly different experience from the rest.\n Read more",
-          "link": "https://www.vg247.com/elden-ring-ancestor-spirit-hidden-mechanic-horrifying",
-          "publishedOn": "2022-09-05T10:12:05.000Z",
-          "wordCount": 4768,
-          "title": "Elden Ring's Ancestor Spirit bosses are much more complex and horrifying than we realised",
-          "imageUrl": "https://asset.vg247.com/elden-ring-regal-ancestor-spirit.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/elden-ring-regal-ancestor-spirit.jpg"
-        },
-        {
-          "id": "https://www.vg247.com/silent-hill-2-remake-screenshots-reportedly-leaked",
-          "author": "Kelsey Raynor",
-          "description": "Over the weekend, VGC reporter Andrew Marmo took to Twitter to share some images that caused many a Silent Hill fan to be on the edge of their seat once again. The images are reportedly shots - albeit very poor-quality ones - of an upcoming Silent Hill 2 remake from Bloober Team.\nNow, we’re aware that Bloober Team are working with Konami given that the pair entered a partnership during summer last year. Just a month following that announcement, rumours began to emerge that Bloober Team was working on a new Silent Hill title.\nBloober’s CMO, Tomasz Galikowski, took part in an interview with IGN to clear the rumours up. Although, he ultimately left fans with more questions. The CMO told IGN that Bloober had applied for two projects with Konami, respectively codenamed Dum Spiro and Black.\n Read more",
-          "link": "https://www.vg247.com/silent-hill-2-remake-screenshots-reportedly-leaked",
-          "publishedOn": "2022-09-05T09:23:05.000Z",
-          "wordCount": 5092,
-          "title": "Silent Hill 2 Remake screenshots leak, reportedly from Bloober Team's internal pitch for the game",
-          "imageUrl": "https://asset.vg247.com/silent-hill-2_ad8Q8eD.png/BROK/thumbnail/1600x900/format/jpg/quality/80/silent-hill-2_ad8Q8eD.png"
         }
       ]
     },
@@ -5471,6 +5441,16 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.0-rc6-Released",
+          "author": null,
+          "description": "Linus Torvalds just released Linux 6.0-rc6 and it's artificially tiny due to many of the kernel developers being preoccupied for the week...",
+          "link": "https://www.phoronix.com/news/Linux-6.0-rc6-Released",
+          "publishedOn": "2022-09-18T21:26:57.000Z",
+          "wordCount": 1519,
+          "title": "Linux 6.0-rc6 Released After Kernel Developers Spent The Week In Dublin",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Intel-DSA-2.0-Linux-Start",
           "author": null,
@@ -6670,36 +6650,6 @@
           "wordCount": 1457,
           "title": "The Still Very Early State Of Vulkan For Blender - No Active Developers Working On It",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-x86-IBT-Default-Patch",
-          "author": null,
-          "description": "A new patch floated by a Google Chrome OS / Linux kernel engineer would enable support for the Intel-led Indirect Branch Tracking (IBT) by default as part of the standard kernel configuration for this security feature...",
-          "link": "https://www.phoronix.com/news/Linux-x86-IBT-Default-Patch",
-          "publishedOn": "2022-09-05T10:14:00.000Z",
-          "wordCount": 1284,
-          "title": "Linux May Flip On Indirect Branch Tracking By Default (IBT)",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/GNOME-Triple-Buffering-22.04-10",
-          "author": null,
-          "description": "Originally carried as a patch against Ubuntu 22.04 for its GNOME 42 desktop and continued to be maintained against GNOME 43 for the upcoming Ubuntu 22.10 is supporting dynamic triple buffering with the Mutter compositor. This has allowed Ubuntu's GNOME desktop environment to perform better for some systems albeit not upstream in GNOME...",
-          "link": "https://www.phoronix.com/news/GNOME-Triple-Buffering-22.04-10",
-          "publishedOn": "2022-09-05T10:05:14.000Z",
-          "wordCount": 1388,
-          "title": "Ubuntu Talks Up Its GNOME Dynamic Triple Buffering Support In 22.04/22.10",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/OpenMandriva-5.0-ROME-Silver",
-          "author": null,
-          "description": "Following the OpenMandriva Lx ROME Technical Preview release from earlier this summer, a \"silver candidate\" for OpenMandriva Lx 5.0 ROME is now available for testing...",
-          "link": "https://www.phoronix.com/news/OpenMandriva-5.0-ROME-Silver",
-          "publishedOn": "2022-09-05T09:41:23.000Z",
-          "wordCount": 1236,
-          "title": "OpenMandriva Lx 5.0 ROME \"Silver Candidate\" Released",
-          "imageUrl": null
         }
       ]
     },
@@ -6708,6 +6658,36 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/amds-fastest-gaming-processor-is-down-to-375",
+          "author": "Will Judd",
+          "description": "The 'world's fastest gaming CPU', according to AMD, is on sale in the US today. The Ryzen 7 5800X3D is down from $450 to $375 via Antonline's Ebay store, an awesome price for an extremely quick eight-core and 16-thread processor blessed with AMD's new stacked L3 cache design, which allows it to beat almost every current-gen CPU in gaming performance. \nRead more",
+          "link": "https://www.rockpapershotgun.com/amds-fastest-gaming-processor-is-down-to-375",
+          "publishedOn": "2022-09-18T22:09:55.000Z",
+          "wordCount": 4944,
+          "title": "AMD's fastest gaming processor is down to $375",
+          "imageUrl": "https://assets2.rockpapershotgun.com/ryzen-5800x3d-review.png/BROK/thumbnail/1600x900/format/jpg/quality/80/ryzen-5800x3d-review.png"
+        },
+        {
+          "id": "https://www.rockpapershotgun.com/with-the-rtx-4090-waiting-in-the-wings-this-rtx-3090-ti-is-down-to-999",
+          "author": "Will Judd",
+          "description": "The RTX 4090 is all but confirmed now, based on the sheer volume of leaks, rumours and speculation showing off the next-gen Nvidia GPU in a variety of guises but sharing the same specs. That's pushed the prices of current-gen GPUs way down, and that's especially true for high-end cards. Ergo, it's not a massive surprise to see the Nvidia RTX 3090 Ti, Team Green's flagship card, down to just $999 at Amazon after debuting at twice that figure. \nRead more",
+          "link": "https://www.rockpapershotgun.com/with-the-rtx-4090-waiting-in-the-wings-this-rtx-3090-ti-is-down-to-999",
+          "publishedOn": "2022-09-18T21:43:17.000Z",
+          "wordCount": 4936,
+          "title": "With the RTX 4090 waiting in the wings, this RTX 3090 Ti is down to $999",
+          "imageUrl": "https://assets2.rockpapershotgun.com/gigabyte-3090-ti.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/gigabyte-3090-ti.jpg"
+        },
+        {
+          "id": "https://www.rockpapershotgun.com/this-evga-1600w-platinum-psu-is-down-to-200-at-newegg",
+          "author": "Will Judd",
+          "description": "EVGA may be getting out of the graphics card business, but they're still one of the premiere brands for high-quality power supplies. One massive 1600W 80+ Platinum unit has been highly discounted over in the States, where the EVGA SuperNova 1600 P+ is down to $200 from its original price of $500. That's an awesome deal on a power supply ideally suited for high-end, multiple-GPU systems - and doesn't cost much more than a Platinum-rated 1000W PSU.  \nRead more",
+          "link": "https://www.rockpapershotgun.com/this-evga-1600w-platinum-psu-is-down-to-200-at-newegg",
+          "publishedOn": "2022-09-18T21:26:21.000Z",
+          "wordCount": 4871,
+          "title": "This EVGA 1600W Platinum PSU is down to $200 at Newegg",
+          "imageUrl": "https://assets2.rockpapershotgun.com/evga-1600-p-plus.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/evga-1600-p-plus.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/the-gta-6-leaks-benefit-precisely-no-one",
           "author": "Katharine Castle",
@@ -14882,16 +14862,6 @@
           "wordCount": 2032,
           "title": "Rockstar tackar de 5 101(!) som jobbat med GTA V och GTA Online",
           "imageUrl": "https://www.fz.se/artikel/og-image/291352"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291348",
-          "author": null,
-          "description": "O-dejliga danska dilemman.",
-          "link": "https://www.fz.se/artikel/291348-gerda-a-flame-in-winter",
-          "publishedOn": "2022-09-05T09:48:00.000Z",
-          "wordCount": 2551,
-          "title": "Gerda: A Flame in Winter",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291348"
         }
       ]
     },
@@ -15559,16 +15529,6 @@
           "wordCount": 4347,
           "title": "Testpilot: Komplett Khameleon 12i Slim",
           "imageUrl": "https://www.sweclockers.com/artikel/34839/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34871",
-          "author": null,
-          "description": "Inför höstens grafikkortlanseringar laddar Seasonic upp med den nya nätaggregatsserien Vertex, vilken har en 16-pins 12VHPWR-kontakt som kan leverera upp till 600 W.",
-          "link": "https://www.sweclockers.com/artikel/34871-seasonic-forbereder-nataggregat-med-atx-3-0-och-12vhpwr-kontakt",
-          "publishedOn": "2022-09-05T09:49:00.000Z",
-          "wordCount": 1668,
-          "title": "Seasonic förbereder nätaggregat med ATX 3.0 och 12VHPWR-kontakt",
-          "imageUrl": "https://www.sweclockers.com/artikel/34871/og-image"
         }
       ]
     },
@@ -15610,6 +15570,16 @@
       "feedUrl": "https://explosm.net/rss.xml",
       "siteUrl": "https://explosm.net",
       "articles": [
+        {
+          "id": "https://explosm.net/comics/human",
+          "author": null,
+          "description": "New Cyanide and Happiness Comic",
+          "link": "https://explosm.net/comics/human",
+          "publishedOn": "2022-09-18T16:10:41.000Z",
+          "wordCount": 638,
+          "title": "Comic for 2022.09.18 - Human",
+          "imageUrl": null
+        },
         {
           "id": "https://explosm.net/comics/queen",
           "author": null,
@@ -18046,16 +18016,6 @@
           "wordCount": 1465,
           "title": "Nadine Dorries promotes 'Brexit rewards' of proposed UK data protection law",
           "imageUrl": "https://regmedia.co.uk/2022/09/05/shutterstock_dorries.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/05/open_source_databases/",
-          "author": null,
-          "description": "<h4>We trawled through the licensing terms and spoke to the vendors so you don't have to</h4> <p><strong>Feature</strong>  For developers, there is no debate. The future of the database is open source. A glance at the 2022 Stack Overflow survey of around 70,000 code-wranglers shows nearly all pros use one of the two leading open source RDBMSes, PostgreSQL (46.5 percent) or MySQL (45.7 percent), although they use other systems as well.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/05/open_source_databases/",
-          "publishedOn": "2022-09-05T09:32:07.000Z",
-          "wordCount": 5309,
-          "title": "Open source databases: What are they and why do they matter?",
-          "imageUrl": "https://regmedia.co.uk/2020/04/24/shutterstock_generic_database.jpg"
         }
       ]
     }

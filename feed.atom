@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-18T21:21:32.472Z</updated>
+    <updated>2022-09-18T22:24:02.971Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AMD's fastest gaming processor is down to $375]]></title>
+        <id>https://www.rockpapershotgun.com/amds-fastest-gaming-processor-is-down-to-375</id>
+        <link href="https://www.rockpapershotgun.com/amds-fastest-gaming-processor-is-down-to-375"/>
+        <updated>2022-09-18T22:09:55.000Z</updated>
+        <summary type="html"><![CDATA[The 'world's fastest gaming CPU', according to AMD, is on sale in the US today. The Ryzen 7 5800X3D is down from $450 to $375 via Antonline's Ebay store, an awesome price for an extremely quick eight-core and 16-thread processor blessed with AMD's new stacked L3 cache design, which allows it to beat almost every current-gen CPU in gaming performance. 
+Read more]]></summary>
+        <author>
+            <name>Will Judd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[With the RTX 4090 waiting in the wings, this RTX 3090 Ti is down to $999]]></title>
+        <id>https://www.rockpapershotgun.com/with-the-rtx-4090-waiting-in-the-wings-this-rtx-3090-ti-is-down-to-999</id>
+        <link href="https://www.rockpapershotgun.com/with-the-rtx-4090-waiting-in-the-wings-this-rtx-3090-ti-is-down-to-999"/>
+        <updated>2022-09-18T21:43:17.000Z</updated>
+        <summary type="html"><![CDATA[The RTX 4090 is all but confirmed now, based on the sheer volume of leaks, rumours and speculation showing off the next-gen Nvidia GPU in a variety of guises but sharing the same specs. That's pushed the prices of current-gen GPUs way down, and that's especially true for high-end cards. Ergo, it's not a massive surprise to see the Nvidia RTX 3090 Ti, Team Green's flagship card, down to just $999 at Amazon after debuting at twice that figure. 
+Read more]]></summary>
+        <author>
+            <name>Will Judd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.0-rc6 Released After Kernel Developers Spent The Week In Dublin]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.0-rc6-Released</id>
+        <link href="https://www.phoronix.com/news/Linux-6.0-rc6-Released"/>
+        <updated>2022-09-18T21:26:57.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvalds just released Linux 6.0-rc6 and it's artificially tiny due to many of the kernel developers being preoccupied for the week...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This EVGA 1600W Platinum PSU is down to $200 at Newegg]]></title>
+        <id>https://www.rockpapershotgun.com/this-evga-1600w-platinum-psu-is-down-to-200-at-newegg</id>
+        <link href="https://www.rockpapershotgun.com/this-evga-1600w-platinum-psu-is-down-to-200-at-newegg"/>
+        <updated>2022-09-18T21:26:21.000Z</updated>
+        <summary type="html"><![CDATA[EVGA may be getting out of the graphics card business, but they're still one of the premiere brands for high-quality power supplies. One massive 1600W 80+ Platinum unit has been highly discounted over in the States, where the EVGA SuperNova 1600 P+ is down to $200 from its original price of $500. That's an awesome deal on a power supply ideally suited for high-end, multiple-GPU systems - and doesn't cost much more than a Platinum-rated 1000W PSU.  
+Read more]]></summary>
+        <author>
+            <name>Will Judd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[China's Domestic 7nm Gaming GPU Should Arrive in 2025]]></title>
         <id>n6tnZBEZSWvpab7BhkfEUZ</id>
@@ -114,6 +157,16 @@ As reported by PCGamesN, some pay-to-win accusations have been thrown at develop
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comic for 2022.09.18 - Human]]></title>
+        <id>https://explosm.net/comics/human</id>
+        <link href="https://explosm.net/comics/human"/>
+        <updated>2022-09-18T16:10:41.000Z</updated>
+        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
+        <author>
+            <name>Explosm.net</name>
         </author>
     </entry>
     <entry>
@@ -20265,110 +20318,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Apparently now a Quality of Life Update means adding a launcher to existing games and breaking them, if you're 2K that is. Here's how to skip the launcher on BioShock Remastered 1 & 2 and BioShock Infinite.]]></summary>
         <author>
             <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux May Flip On Indirect Branch Tracking By Default (IBT)]]></title>
-        <id>https://www.phoronix.com/news/Linux-x86-IBT-Default-Patch</id>
-        <link href="https://www.phoronix.com/news/Linux-x86-IBT-Default-Patch"/>
-        <updated>2022-09-05T10:14:00.000Z</updated>
-        <summary type="html"><![CDATA[A new patch floated by a Google Chrome OS / Linux kernel engineer would enable support for the Intel-led Indirect Branch Tracking (IBT) by default as part of the standard kernel configuration for this security feature...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elden Ring's Ancestor Spirit bosses are much more complex and horrifying than we realised]]></title>
-        <id>https://www.vg247.com/elden-ring-ancestor-spirit-hidden-mechanic-horrifying</id>
-        <link href="https://www.vg247.com/elden-ring-ancestor-spirit-hidden-mechanic-horrifying"/>
-        <updated>2022-09-05T10:12:05.000Z</updated>
-        <summary type="html"><![CDATA[Elden Ring is full of hidden areas, obscure bosses, and entire communities you may not get to see if you don't venture too far off the beaten path. One of the more unique are the Ancestral Followers, who can be found deep underground in the Siofra River Bank.
-The Followers worship the Ancestor Spirits, and can be seen gathering around its remains performing their rites. By following a simple mini-game, you can travel to the realm of the Ancestor Spirit and take it on in a boss fight.
-All that is well and good, but the fight itself plays quite differently from all the other fights in Elden Ring. Most players who fought the Ancestor Spirit bosses in the game felt that they got a slightly different experience from the rest.
- Read more]]></summary>
-        <author>
-            <name>Sherif Saed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu Talks Up Its GNOME Dynamic Triple Buffering Support In 22.04/22.10]]></title>
-        <id>https://www.phoronix.com/news/GNOME-Triple-Buffering-22.04-10</id>
-        <link href="https://www.phoronix.com/news/GNOME-Triple-Buffering-22.04-10"/>
-        <updated>2022-09-05T10:05:14.000Z</updated>
-        <summary type="html"><![CDATA[Originally carried as a patch against Ubuntu 22.04 for its GNOME 42 desktop and continued to be maintained against GNOME 43 for the upcoming Ubuntu 22.10 is supporting dynamic triple buffering with the Mutter compositor. This has allowed Ubuntu's GNOME desktop environment to perform better for some systems albeit not upstream in GNOME...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jack Move is a brisk cyberpunk JRPG-alike that's out this week]]></title>
-        <id>https://www.eurogamer.net/jack-move-is-a-brisk-cyberpunk-jrpg-alike-thats-out-this-week</id>
-        <link href="https://www.eurogamer.net/jack-move-is-a-brisk-cyberpunk-jrpg-alike-thats-out-this-week"/>
-        <updated>2022-09-05T10:00:17.000Z</updated>
-        <summary type="html"><![CDATA[Jack Move. Jack Move. Here is a phrase that tickles somewhere, deep in the back of the brain, buried under boxes and old coats. Wasn't someone...down for a Jack Move? I want to say William Gibson. One of the early ones - or maybe one of the present-day ones?
-
-
-Googling will have to wait, because here is Jack Move, with a demo out on Steam now and a release planned for the 8th of September. Turns out we're all down for a Jack Move.
-
-
-And I reckon I was right about Gibson, because Jack Move is a cyberpunk JRPG, albeit one with modern sensibilities, which means the pixel-art is smooth and Treasure-textured and the action is implausibly brisk. Straight up: this is a lovely thing. Lovely from the way that you PATCH items rather than use them, to the way that you have stats for Sass and Guts and Grok.
- 
-Read more]]></summary>
-        <author>
-            <name>Christian Donlan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seasonic förbereder nätaggregat med ATX 3.0 och 12VHPWR-kontakt]]></title>
-        <id>https://www.sweclockers.com/artikel/34871</id>
-        <link href="https://www.sweclockers.com/artikel/34871-seasonic-forbereder-nataggregat-med-atx-3-0-och-12vhpwr-kontakt"/>
-        <updated>2022-09-05T09:49:00.000Z</updated>
-        <summary type="html"><![CDATA[Inför höstens grafikkortlanseringar laddar Seasonic upp med den nya nätaggregatsserien Vertex, vilken har en 16-pins 12VHPWR-kontakt som kan leverera upp till 600 W.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gerda: A Flame in Winter]]></title>
-        <id>https://www.fz.se/artikel/291348</id>
-        <link href="https://www.fz.se/artikel/291348-gerda-a-flame-in-winter"/>
-        <updated>2022-09-05T09:48:00.000Z</updated>
-        <summary type="html"><![CDATA[O-dejliga danska dilemman.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenMandriva Lx 5.0 ROME "Silver Candidate" Released]]></title>
-        <id>https://www.phoronix.com/news/OpenMandriva-5.0-ROME-Silver</id>
-        <link href="https://www.phoronix.com/news/OpenMandriva-5.0-ROME-Silver"/>
-        <updated>2022-09-05T09:41:23.000Z</updated>
-        <summary type="html"><![CDATA[Following the OpenMandriva Lx ROME Technical Preview release from earlier this summer, a "silver candidate" for OpenMandriva Lx 5.0 ROME is now available for testing...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open source databases: What are they and why do they matter?]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/05/open_source_databases/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/05/open_source_databases/"/>
-        <updated>2022-09-05T09:32:07.000Z</updated>
-        <summary type="html"><![CDATA[<h4>We trawled through the licensing terms and spoke to the vendors so you don't have to</h4> <p><strong>Feature</strong>  For developers, there is no debate. The future of the database is open source. A glance at the 2022 Stack Overflow survey of around 70,000 code-wranglers shows nearly all pros use one of the two leading open source RDBMSes, PostgreSQL (46.5 percent) or MySQL (45.7 percent), although they use other systems as well.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silent Hill 2 Remake screenshots leak, reportedly from Bloober Team's internal pitch for the game]]></title>
-        <id>https://www.vg247.com/silent-hill-2-remake-screenshots-reportedly-leaked</id>
-        <link href="https://www.vg247.com/silent-hill-2-remake-screenshots-reportedly-leaked"/>
-        <updated>2022-09-05T09:23:05.000Z</updated>
-        <summary type="html"><![CDATA[Over the weekend, VGC reporter Andrew Marmo took to Twitter to share some images that caused many a Silent Hill fan to be on the edge of their seat once again. The images are reportedly shots - albeit very poor-quality ones - of an upcoming Silent Hill 2 remake from Bloober Team.
-Now, we’re aware that Bloober Team are working with Konami given that the pair entered a partnership during summer last year. Just a month following that announcement, rumours began to emerge that Bloober Team was working on a new Silent Hill title.
-Bloober’s CMO, Tomasz Galikowski, took part in an interview with IGN to clear the rumours up. Although, he ultimately left fans with more questions. The CMO told IGN that Bloober had applied for two projects with Konami, respectively codenamed Dum Spiro and Black.
- Read more]]></summary>
-        <author>
-            <name>Kelsey Raynor</name>
         </author>
     </entry>
 </feed>
