@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-18T12:45:08.030Z</updated>
+    <updated>2022-09-18T13:39:17.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MGLRU v15 Published For Last Minute Testing Of This Major Linux Improvement]]></title>
+        <id>https://www.phoronix.com/news/MGLRU-v15-Published</id>
+        <link href="https://www.phoronix.com/news/MGLRU-v15-Published"/>
+        <updated>2022-09-18T13:24:39.000Z</updated>
+        <summary type="html"><![CDATA[Google engineer Yu Zhao this morning published MGLRU v15, the latest revision to this patch series dealing with improving the Linux kernel's page reclamation code. Multi-Gen LRU "MGLRU" has proven to offer performance benefits and particularly improve the Linux experience when dealing with low-memory situations...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This new flatscreen to VR mod turns Neon White into the perfect 'just one more go' VR game]]></title>
+        <id>https://www.eurogamer.net/this-new-flatscreen-to-vr-mod-turns-neon-white-into-the-perfect-just-one-more-go-vr-game</id>
+        <link href="https://www.eurogamer.net/this-new-flatscreen-to-vr-mod-turns-neon-white-into-the-perfect-just-one-more-go-vr-game"/>
+        <updated>2022-09-18T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I've been playing VR for a very long time now so my legs are pretty sturdy, but when legendary flatscreen to VR modder Raicuparta approached me with a preview build of his Neon White VR mod, I must admit I was a little apprehensive.
+Surely a lightning-fast game like that would push me over the edge? I thought. But, oh my, how wrong I was. Not only was playing Neon White in VR a completely comfortable experience (for me - newcomers to VR beware!) but it also felt like the perfect 'just one more go' VR game.
+Playing Neon White in virtual reality was my first ever experience with the game, flat or not, and it honestly felt like a perfect fit for the medium. You can watch me demonstrate how this mod affects the gameplay of Neon White in this week's episode of VR Corner, which features me swearing my way through a good chunk of the levels from Mission 3. 
+ Read more]]></summary>
+        <author>
+            <name>Ian Higton</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An Elden Ring board game campaign is coming to Kickstarter "soon"]]></title>
         <id>https://www.eurogamer.net/an-elden-ring-board-game-campaign-is-coming-to-kickstarter-soon</id>
@@ -20243,28 +20266,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<h4>Escalation of targeted threats is an ‘emergency’ that required ‘dangerous’ decision ‘we are not comfortable with’, says CEO</h4> <p>Cloudflare has decided to stop providing its services to Kiwi Farms, just days after <a target="_blank" href="https://www.theregister.com/2022/08/31/cloudflare_kiwi_farm/">defending</a> the site’s eligibility for its services.…</p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WD Black SN850 (1TB) SSD Now $109, An All-Time Low]]></title>
-        <id>b7MFaHDxcmjdBGemJwQkRF</id>
-        <link href="https://www.tomshardware.com/news/wd-black-sn850-labor-day-sale"/>
-        <updated>2022-09-05T01:32:38.000Z</updated>
-        <summary type="html"><![CDATA[There's a great deal on the WD SN850 1TB NVMe SSD (with Heatsink) for just $109 at Amazon right now. This is one of the best Gen 4 SSDs on the market.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RPS@PAX West 2022: The cast of Team Fortress 2 reminisce about the FPS's lasting legacy]]></title>
-        <id>https://www.rockpapershotgun.com/rpspax-west-2022-team-fortress-2-interview</id>
-        <link href="https://www.rockpapershotgun.com/rpspax-west-2022-team-fortress-2-interview"/>
-        <updated>2022-09-05T01:14:18.000Z</updated>
-        <summary type="html"><![CDATA[In an interview opportunity that Liam and I are still reeling from, we had the chance to chat to the cast of Team Fortress 2 about their experiences lending their voices to one of the most iconic FPSs of all time.
-After watching yesterday's TF2 panel, we were incredibly excited to put our own questions to the TF2 squad. Ellen McLain (the TF2 announcer), Gary Schwartz (Heavy and Demoman), John Patrick Lowrie (Sniper) and Robin Atkin Downes (Medic) answered all our questions including how they each created the voices for the characters and if they would they return for a completely metaphorical release of Team Fortress 3 which - spoilers - was a resounding yes. Watch below for the entire interview.
-Read more]]></summary>
-        <author>
-            <name>Rachel Watts</name>
         </author>
     </entry>
 </feed>
