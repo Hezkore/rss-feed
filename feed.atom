@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-18T07:23:04.881Z</updated>
+    <updated>2022-09-18T08:29:16.922Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Söndagsmatiné: Sovjets datorhistoria]]></title>
+        <id>https://www.sweclockers.com/artikel/34940</id>
+        <link href="https://www.sweclockers.com/artikel/34940-sondagsmatine-sovjets-datorhistoria"/>
+        <updated>2022-09-18T07:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Sovjetunionen var duktiga på stål och raketer. Den här veckans söndagsmatiné djupdyker i hur det såg ut på datorfronten.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Många utvecklare jobbar på PSVR2-versioner av sina PSVR-spel]]></title>
         <id>https://www.fz.se/artikel/291493</id>
@@ -20101,26 +20111,6 @@ If you've not heard of Friends VS Friends, check out the game's trailer first (i
 Read more]]></summary>
         <author>
             <name>Rachel Watts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.0-rc4 Released With Various Driver Fixes]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.0-rc4-Released</id>
-        <link href="https://www.phoronix.com/news/Linux-6.0-rc4-Released"/>
-        <updated>2022-09-04T20:25:56.000Z</updated>
-        <summary type="html"><![CDATA[Linus Torvalds just released the fourth weekly release candidate of Linux 6.0 in time for some US Labor Day holiday weekend testing...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nyhetsquiz vecka 35 2022: AMD Ryzen 7000 och skärmar]]></title>
-        <id>https://www.sweclockers.com/artikel/34868</id>
-        <link href="https://www.sweclockers.com/artikel/34868-nyhetsquiz-vecka-35-2022-amd-ryzen-7000-och-skarmar"/>
-        <updated>2022-09-04T19:59:42.000Z</updated>
-        <summary type="html"><![CDATA[Böjbara skärmar och färska processorer är de största händelserna när startskottet för teknikhösten 2022 ljuder. Sätter du full pott?]]></summary>
-        <author>
-            <name>SweClockers</name>
         </author>
     </entry>
 </feed>
