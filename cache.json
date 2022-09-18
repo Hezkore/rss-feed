@@ -5472,6 +5472,26 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Intel-DSA-2.0-Linux-Start",
+          "author": null,
+          "description": "Back in 2019 is when Intel first detailed the Data Streaming Accelerator \"DSA\" and began working on the Linux enablement patches. The Intel DSA is designed to help accelerate streaming and transformation operations for storage, networking, and persistent memory. Finally the DSA is coming to market by way of being found within forthcoming Xeon Scalable \"Sapphire Rapids\" processors while the DSA 2.0 accelerator is already in the works for future processors...",
+          "link": "https://www.phoronix.com/news/Intel-DSA-2.0-Linux-Start",
+          "publishedOn": "2022-09-18T17:58:10.000Z",
+          "wordCount": 1537,
+          "title": "Intel Begins Working On Linux Support For Data Streaming Accelerator 2.0",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/DDNet-Vulkan-Renderer",
+          "author": null,
+          "description": "DDraceNetwork \"DDNet\" as an open-source cross-platform game building off the DDRace and Teeworlds games recently introduced a Vulkan renderer...",
+          "link": "https://www.phoronix.com/news/DDNet-Vulkan-Renderer",
+          "publishedOn": "2022-09-18T17:30:27.000Z",
+          "wordCount": 1298,
+          "title": "DDNet Cooperative Platformer Game Adds Vulkan Renderer",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-getrandom-vDSO-v2",
           "author": null,
           "description": "Over the summer Jason Donenfeld of WireGuard fame proposed adding getrandom() to the vDSO for better performance to enjoy by user-space developers. This past week he sent out the latest version of this proposed kernel patch where he's seeing around a ~15x speed-up with this change...",
@@ -14880,6 +14900,16 @@
       "feedUrl": "https://www.sweclockers.com/feeds/nyheter",
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
+        {
+          "id": "https://www.sweclockers.com/artikel/34943",
+          "author": null,
+          "description": "En fulladdat magasin av GTA VI-videoklipp peppras ut på Twitter. Bitar av det framtida och genreförändrande spelet finns därmed till allmän beskådan.",
+          "link": "https://www.sweclockers.com/artikel/34943-grand-theft-auto-vi-hittar-ut-pa-webben",
+          "publishedOn": "2022-09-18T17:32:29.000Z",
+          "wordCount": 1774,
+          "title": "Grand Theft Auto VI hittar ut på webben",
+          "imageUrl": "https://www.sweclockers.com/artikel/34943/og-image"
+        },
         {
           "id": "https://www.sweclockers.com/artikel/34940",
           "author": null,
