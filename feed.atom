@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-18T09:24:00.836Z</updated>
+    <updated>2022-09-18T10:26:30.834Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gran Turismo film bags Stranger Things' David Harbour and Lord of the Rings' Orlando Bloom]]></title>
+        <id>https://www.vg247.com/gran-turismo-movie-david-harbour-orlando-bloom</id>
+        <link href="https://www.vg247.com/gran-turismo-movie-david-harbour-orlando-bloom"/>
+        <updated>2022-09-18T10:15:47.000Z</updated>
+        <summary type="html"><![CDATA[Sony's Gran Turismo movie is ramping up, as it casts Lord of the Rings' Orlando Bloom and Stranger Things' David Harbour.
+
+
+Earlier this year Sony announced that it would be making a Gran Turismo movie, which is certainly a choice for a series that isn't exactly known for its narrative. Now, The Hollywood Reporter has reported that Stranger Things and Black Widow star David Harbour will be joining the film, though details of his role haven't been shared yet. And soon after, it was announced that Lord of the Rings and Pirates of the Caribbean star Orlando Bloom has also been cast in the film.
+
+
+District 9 and Chappie director Neill Blomkamp is set to direct the project, with a screenplay from Jason Hall (American Sniper). On the production side, PlayStation Productions Asad Qizilbash and Carter Swan will produce alongside Doug Belgrad, and Dana Brunetti. A Gran Turismo movie has actually been in development since 2013, but it's unclear if this is meant to be the same film, or another attempt at making one.
+ 
+Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The GTA 6 leaks benefit precisely no one]]></title>
+        <id>https://www.rockpapershotgun.com/the-gta-6-leaks-benefit-precisely-no-one</id>
+        <link href="https://www.rockpapershotgun.com/the-gta-6-leaks-benefit-precisely-no-one"/>
+        <updated>2022-09-18T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A huge number of videos purporting to show in-game development footage for GTA 6 have been plastered across various internet forums this morning, because apparently no one can wait until a video game is actually anywhere near finished before they feel compelled to spoil it for all and sundry. 
+The 80-some clips seemingly show everything from full, in-game scenarios to clearly unfinished bits of grey boxing, but you won't find a link to them here, because the truth is, they're simply not worth looking at. What possible benefit could they provide anyone right here, right now? The leaker gets their five minutes of fame and an influx of new followers, sure. But GTA 6 itself isn't going to look anything like what you see in those clips when it's actually finished, so someone please tell me, what is even the point? 
+Read more]]></summary>
+        <author>
+            <name>Katharine Castle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GStreamer Now Able To Ship Rust-Written Plugins]]></title>
+        <id>https://www.phoronix.com/news/GStreamer-Ship-Rust-Plugins</id>
+        <link href="https://www.phoronix.com/news/GStreamer-Ship-Rust-Plugins"/>
+        <updated>2022-09-18T09:50:49.000Z</updated>
+        <summary type="html"><![CDATA[Along with the Linux kernel preparing for its initial Rust integration, Rusticl landing in Mesa this week as the first major Rust usage within Mesa, and Cloudflare announcing an Nginx HTTP proxy replacement written in Rust, some additional Rust adoption news for the week is that the GStreamer project is now ready to ship Rust-written plug-ins as part of their official binary releases...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[90+ GTA 6 videos and screenshots have allegedly leaked online]]></title>
+        <id>https://www.eurogamer.net/90-gta-6-videos-and-screenshots-have-allegedly-leaked-online</id>
+        <link href="https://www.eurogamer.net/90-gta-6-videos-and-screenshots-have-allegedly-leaked-online"/>
+        <updated>2022-09-18T09:37:34.000Z</updated>
+        <summary type="html"><![CDATA[90+ screenshots and videos reportedly taken from GTA 6 have leaked online.
+
+Whilst there's no way of authenticating them, the initially hostile response on the GTA Forums eventually softened as posters began to believe that the leaked assets were genuine.
+
+Whilst, naturally, the unfinished game has missing assets and features, the videos give a rudimentary peek at the protagonists, the open world, and even the shooter's combat, totalling over seven minutes' worth of unsanctioned footage.
+ Read more]]></summary>
+        <author>
+            <name>Vikki Blake</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In praise of the video game demo]]></title>
         <id>https://www.eurogamer.net/in-praise-of-the-video-game-demo</id>
@@ -20131,19 +20186,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/artemis_quote.png" title="Another option: &quot;It is an honor to be the first human to set foot on the moon.&quot;" alt="Another option: &quot;It is an honor to be the first human to set foot on the moon.&quot;" />]]></summary>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RPS@PAX West 2022: We chat with Brainwash Gang about their chaotic deck-building FPS Friends Vs Friends]]></title>
-        <id>https://www.rockpapershotgun.com/rpspax-west-2022-friends-vs-friends-interview</id>
-        <link href="https://www.rockpapershotgun.com/rpspax-west-2022-friends-vs-friends-interview"/>
-        <updated>2022-09-04T21:38:32.000Z</updated>
-        <summary type="html"><![CDATA[It's the dawn of day three here at  PAX West, and what better way to wake us up than play the incredibly chaotic demo build of
- Friends VS Friends. We loved the trailer from Gamescom and Liam even chose it for his bestest pick in our Gamescom round-up video, so our expectations were high, and after playing a quick match at the Raw Fury booth, Brainwash Gang's blood-pumping deck-building FPS shot straight to the top of our favourite things we've seen here at PAX so far.
-If you've not heard of Friends VS Friends, check out the game's trailer first (its incredibly slick animation is super cool, highly reccomended for your peepers) then watch our interview with Brainwash Gang developer Edu Verz who talked all about the game's development. Watch it below:
-Read more]]></summary>
-        <author>
-            <name>Rachel Watts</name>
         </author>
     </entry>
 </feed>
