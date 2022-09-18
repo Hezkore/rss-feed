@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-18T13:39:17.448Z</updated>
+    <updated>2022-09-18T14:21:53.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Just how good are the new wave of AI image generation tools?]]></title>
+        <id>https://www.eurogamer.net/digitalfoundry-2022-just-how-good-are-the-new-wave-of-ai-image-generation-tools</id>
+        <link href="https://www.eurogamer.net/digitalfoundry-2022-just-how-good-are-the-new-wave-of-ai-image-generation-tools"/>
+        <updated>2022-09-18T13:57:00.000Z</updated>
+        <summary type="html"><![CDATA[AI-generated imagery is here. Type a simple description of what you want to see into a computer and beautiful illustrations, sketches, or photographs pop up a few seconds later. By harnessing the power of machine learning, high-end graphics hardware is now capable of creating impressive, professional-grade artwork with minimal human input. But how could this affect video games? Modern titles are extremely art-intensive, requiring countless pieces of texture and concept art. If developers could harness this tech, perhaps the speed and quality of asset generation could radically increase. 
+
+
+However, as with any groundbreaking technology, there's plenty of controversy too: what role does the artist play if machine learning can generate high quality imagery so quickly and so easily? And what of the data used to train these AIs - is there an argument that machine learning-generated images are created by effectively passing off the work of human artists? There are major ethical questions to grapple with once these technologies reach a certain degree of effectiveness - and based on the rapid pace of improvement I've seen, the questions may need to be addressed sooner rather than later.
+
+
+In the meantime, the focus of this piece is to see just how effective these technologies are right now. I tried three of the leading AI generators: DALL-E 2, Stable Diffusion, and Midjourney. You can see the results of these technologies in the embedded video below (and indeed in the collage at the top of this page) but to be clear, I generated all of them, either by using their web portals or else running them directly on local hardware. 
+ 
+Read more]]></summary>
+        <author>
+            <name>Oliver Mackenzie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux getrandom() vDSO Patch Updated For ~15x Speedup]]></title>
+        <id>https://www.phoronix.com/news/Linux-getrandom-vDSO-v2</id>
+        <link href="https://www.phoronix.com/news/Linux-getrandom-vDSO-v2"/>
+        <updated>2022-09-18T13:41:09.000Z</updated>
+        <summary type="html"><![CDATA[Over the summer Jason Donenfeld of WireGuard fame proposed adding getrandom() to the vDSO for better performance to enjoy by user-space developers. This past week he sent out the latest version of this proposed kernel patch where he's seeing around a ~15x speed-up with this change...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Ryzen 3 4100 and Ryzen 5 4500 Review: The Budget CPU Showdown]]></title>
+        <id>XHuynG8GcRimA4Jth2eVnF</id>
+        <link href="https://www.tomshardware.com/reviews/amd-ryzen-4-4500-ryzen-3-4100-cpu-review"/>
+        <updated>2022-09-18T13:38:45.000Z</updated>
+        <summary type="html"><![CDATA[On the cusp of Ryzen 7000, AMD's Zen 2-powered Rzyen 3 4100 and Ryzen 5 4500 in an attempt to tackle Intel's Alder Lake Core i3.]]></summary>
+        <author>
+            <name>palcorn@outlook.com (Paul Alcorn)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MGLRU v15 Published For Last Minute Testing Of This Major Linux Improvement]]></title>
         <id>https://www.phoronix.com/news/MGLRU-v15-Published</id>
