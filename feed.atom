@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-19T22:24:47.683Z</updated>
+    <updated>2022-09-19T23:30:30.851Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Uber explains how it was pwned this month, points finger at Lapsus$ gang]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/19/uber_admits_breach/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/19/uber_admits_breach/"/>
+        <updated>2022-09-19T22:54:54.000Z</updated>
+        <summary type="html"><![CDATA[<h4>From annoying MFA alerts to 'several internal systems' infiltrated</h4> <p>Uber, four days after suffering a substantial cybersecurity breach, has admitted its attacker accessed "several internal systems" including the corporation's G Suite account, and downloaded internal Slack messages and a tool used by its finance department to manage "some" invoices.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big gaming companies get DHS help to keep players from becoming terrorists]]></title>
+        <id>https://arstechnica.com/?p=1882731</id>
+        <link href="https://arstechnica.com/?p=1882731"/>
+        <updated>2022-09-19T22:08:02.000Z</updated>
+        <summary type="html"><![CDATA[Researchers target online gaming companies like Activision and Roblox.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intel CEO Says Arc Gaming GPUs Will Hit Retail, Somewhere]]></title>
         <id>hofSZipdpzmSTsi2S7o5DH</id>
@@ -19783,174 +19803,6 @@ As Digital Foundry's Alex Battaglia spotted, the game appears to be running on a
 Read more]]></summary>
         <author>
             <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SoftIron to start selling 'fully turnkey' cloud platform]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/06/softiron_unveils_ambitious_fully_turnkey/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/06/softiron_unveils_ambitious_fully_turnkey/"/>
-        <updated>2022-09-06T11:29:14.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Hypercloud will be facing some stiff competition in the hyperconverged infrastructure space, say analysts</h4> <p>Storage player SoftIron is extending its portfolio to the rest of the datacenter with the launch of a complete cloud infrastructure platform - a bold effort to take on better known brands in their own back yard.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tactical bullet hell RPG Grid Force out next week]]></title>
-        <id>https://www.eurogamer.net/tactical-bullet-hell-rpg-grid-force-out-next-week</id>
-        <link href="https://www.eurogamer.net/tactical-bullet-hell-rpg-grid-force-out-next-week"/>
-        <updated>2022-09-06T11:05:33.000Z</updated>
-        <summary type="html"><![CDATA[Tactical bullet hell RPG Grid Force - Mask of the Goddess is set for release on 15th September.
-
-
-The game comes from UK developer Dreamnauts Studio and features a diverse, all-female cast of characters.
-
-
-It will release first on Steam, followed by Xbox and Switch versions soon after.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scrapped Tomb Raider film storyboards show assault on Croft Manor]]></title>
-        <id>https://www.eurogamer.net/scrapped-tomb-raider-film-storyboards-show-assault-on-croft-manor</id>
-        <link href="https://www.eurogamer.net/scrapped-tomb-raider-film-storyboards-show-assault-on-croft-manor"/>
-        <updated>2022-09-06T11:04:08.000Z</updated>
-        <summary type="html"><![CDATA[Storyboards for Alicia Vikander's scrapped Tomb Raider sequel have shown up online. 
-
-
-These images show a planned storyline similar to one seen in Angelina Jolie's debut turn as Lara Croft, with Croft Manor being attacked by masked assailants.
-
-
-Shared by artist Jake Lunt Davies, the images show Lara's home on an atmospherically dark and stormy night. Meanwhile, in the grounds, several shady looking characters are depicted planning their infiltration of the manor. 
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modders turn Steam Deck into Wii U GamePad]]></title>
-        <id>https://www.eurogamer.net/modders-turn-steamdeck-into-wii-u-gamepad</id>
-        <link href="https://www.eurogamer.net/modders-turn-steamdeck-into-wii-u-gamepad"/>
-        <updated>2022-09-06T10:58:11.000Z</updated>
-        <summary type="html"><![CDATA[A group of Steam Deck fans have figured out how to support gyro controls in Wii U emulation, effectively turning Valve's portable PC into Nintendo's infamous Wii U GamePad.
-
-Steam Deck HQ is a fan-run site dedicated to helping others configure their decks and set up programs to get the most out of the portable PC.
-A newly-shared guide shows how to get the Steam Deck's gyro controls to work in Wii U emulation.
- Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tabletop battler Moonbreaker is holding multiple playtests this month]]></title>
-        <id>https://www.rockpapershotgun.com/tabletop-battler-moonbreaker-is-holding-multiple-playtests-this-month</id>
-        <link href="https://www.rockpapershotgun.com/tabletop-battler-moonbreaker-is-holding-multiple-playtests-this-month"/>
-        <updated>2022-09-06T10:52:34.000Z</updated>
-        <summary type="html"><![CDATA[Sci-fi tabletop sim Moonbreaker is getting two rounds of playtests on Steam in September ahead of its launch into early access, devs Unknown Worlds have revealed. These run on September 9th to 11th and again on September 16th to 18th, giving access to most of the game. You can take a look at Moonbreaker in action from its announcement at last month’s Gamescom below.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mario Kart Tour is Nintendo's second-highest grossing mobile game]]></title>
-        <id>https://www.eurogamer.net/mario-kart-tour-is-nintendos-second-highest-grossing-mobile-game</id>
-        <link href="https://www.eurogamer.net/mario-kart-tour-is-nintendos-second-highest-grossing-mobile-game"/>
-        <updated>2022-09-06T10:48:37.000Z</updated>
-        <summary type="html"><![CDATA[Mario Kart Tour has made Nintendo an estimated $293m globally to become the company's second highest grossing mobile game.
-
-
-That's according to data from reliable app store analytics company Sensor Tower, from across both the App Store and Google Play store.
-
-
-The estimates follow the recent news that Nintendo will remove gacha elements from Mario Kart Tour, which allow players to spend money on randomised rewards. This will be replaced by a rotating item shop.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Köp Randy Pitchfords skiti... skrikiga skjortor]]></title>
-        <id>https://www.fz.se/artikel/291362</id>
-        <link href="https://www.fz.se/artikel/291362-kop-randy-pitchfords-skiti-skrikiga-skjortor"/>
-        <updated>2022-09-06T10:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Gearbox-chefen auktionerar bort plagg, pengarna går till stipendium för utvecklare.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel 13th-Gen Raptor Lake Specs, Rumored Release Date, Benchmarks, and More]]></title>
-        <id>phD5H6ZPRfdX4oEQ6giK7N</id>
-        <link href="https://www.tomshardware.com/news/intel-13th-gen-raptor-lake-release-date-specifications-pricing-benchmarks-all-we-know-specs"/>
-        <updated>2022-09-06T10:46:40.000Z</updated>
-        <summary type="html"><![CDATA[Here's the Intel 13th-Gen Raptor Lake release date, benchmarks, specifications, pricing, and all we know about the new chip architecture.]]></summary>
-        <author>
-            <name>palcorn@outlook.com (Paul Alcorn)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kotaku writer Mike Fahey has passed away]]></title>
-        <id>https://www.eurogamer.net/kotaku-writer-mike-fahey-has-passed-away</id>
-        <link href="https://www.eurogamer.net/kotaku-writer-mike-fahey-has-passed-away"/>
-        <updated>2022-09-06T10:43:49.000Z</updated>
-        <summary type="html"><![CDATA[Mike Fahey's bio on Kotaku read, "Lover of video games, keyboards, toys, snacks and other unsavory things." All of this is true, as any of his legion of commited readers could tell you. But in one of the all time great Fahey pieces, he offered an even better description: "I am a 6'6" man with a vivid imagination and strange thought processes."
-
-
-This is the Fahey that his readers truly knew - a gentle, sweet-natured giant with a brilliant mind and an eye for the angle that nobody else had thought of - a willingness to monitor a situation and just see where it went.
-
-
-Fahey died last week at 49 after a long illness. He was a generous, ingenious, and kind writer whose posts always left you feeling happier - and more curious about things - than you had felt when you started reading them. He did indeed love snacks and toys and keyboards, of which he reviewed plenty. He loved video games, which he covered with perceptiveness, originality, and great care.
- 
-Read more]]></summary>
-        <author>
-            <name>Eurogamer staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deltarune's next chapter won't be out this year, says Toby Fox]]></title>
-        <id>https://www.eurogamer.net/deltarunes-next-chapter-wont-be-out-this-year-says-toby-fox</id>
-        <link href="https://www.eurogamer.net/deltarunes-next-chapter-wont-be-out-this-year-says-toby-fox"/>
-        <updated>2022-09-06T10:32:15.000Z</updated>
-        <summary type="html"><![CDATA[Toby Fox has confirmed that the next chapter of RPG Deltarune won't be out this year.
-
-
-The creator shared the news on his Twitter account, saying: "We won't be able to put out any new chapters of Deltarune this year."
-
-
-However, he does confirm that something is on the way to celebrate the anniversary of the second chapter and previous game Undertale next week.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLVM 15.0 Released With Security Features, Experimental DirectX Back-End, New AMD GPUs]]></title>
-        <id>https://www.phoronix.com/news/LLVM-15.0-Released</id>
-        <link href="https://www.phoronix.com/news/LLVM-15.0-Released"/>
-        <updated>2022-09-06T10:29:00.000Z</updated>
-        <summary type="html"><![CDATA[LLVM 15 is now ready to roll as a big half-year update to this open-source compiler stack. LLVM 15.0, Clang 15.0, and other sub-projects have a lot to show for their summer 2022 accomplishments...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[G7 countries beat UK in worldwide broadband speed test again]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/06/broadband_speed_global_rankings/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/06/broadband_speed_global_rankings/"/>
-        <updated>2022-09-06T10:28:13.000Z</updated>
-        <summary type="html"><![CDATA[<h4>All except Italy, that is</h4> <p>For the second year in a row, the UK is second worst in the G7 league of industrial nations for broadband speed, only faster than Italy, according to a report published today.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
