@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-19T09:28:21.760Z</updated>
+    <updated>2022-09-19T10:29:43.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Loongson Preparing Linux For LoongArch Laptops]]></title>
+        <id>https://www.phoronix.com/news/Loongson-LoongArch-Laptop-Prep</id>
+        <link href="https://www.phoronix.com/news/Loongson-LoongArch-Laptop-Prep"/>
+        <updated>2022-09-19T10:13:33.000Z</updated>
+        <summary type="html"><![CDATA[Chinese hardware vendor Loongson Technology continues working on the LoongArch code for the Linux kernel for their in-house CPU ISA derived from MIPS64. Now that the initial code has been mainlined since 5.19 and some of the necessary other critical bits of code are getting squared away, recently they have been working on other missing functionality for supporting their initial LoongArch-based Loongson 3A5000 series SoCs...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cisco SMB revolution: selling hardware with no subscription required]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/19/cisco_outright_sales_wifi_cbw150ax/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/19/cisco_outright_sales_wifi_cbw150ax/"/>
+        <updated>2022-09-19T10:01:09.000Z</updated>
+        <summary type="html"><![CDATA[<h4>In Cisco's world this makes a $125 Wi-Fi AP 'easier to buy' – maybe easier than its own Meraki kit?</h4> <p>Cisco has revealed new hardware it is willing to sell to small businesses outright – no subscription, but still with support and warranty! Such innovation!…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Budbee och Instabox går samman – bildar Instabee]]></title>
+        <id>https://www.sweclockers.com/artikel/34946</id>
+        <link href="https://www.sweclockers.com/artikel/34946-budbee-och-instabox-gar-samman-bildar-instabee"/>
+        <updated>2022-09-19T09:58:39.000Z</updated>
+        <summary type="html"><![CDATA[De två svenskgrundade paketleverantörerna tillika paketboxtjänsterna slår sina påsar ihop och bildar ett gemensamt bolag.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rust Porting Begins For Intel's "e1000" Linux Network Driver]]></title>
+        <id>https://www.phoronix.com/news/Intel-e1000-Rust-Driver-WIP</id>
+        <link href="https://www.phoronix.com/news/Intel-e1000-Rust-Driver-WIP"/>
+        <updated>2022-09-19T09:48:29.000Z</updated>
+        <summary type="html"><![CDATA[Adding to the growing examples and early drivers being worked on for the Linux kernel to showcase the possibilities of using the Rust programming language within the kernel, an early port of Intel's e1000 wired networking driver has started...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cyberpunk 2077:s spelarantal rusar på Steam]]></title>
+        <id>https://www.fz.se/artikel/291501</id>
+        <link href="https://www.fz.se/artikel/291501-cyberpunk-2077s-spelarantal-rusar-pa-steam"/>
+        <updated>2022-09-19T09:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Nyfunnen popularitet.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I skräckspelet Unholy utforskar man två parallella världar]]></title>
         <id>https://www.fz.se/artikel/291500</id>
