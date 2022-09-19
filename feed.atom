@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-19T16:37:34.841Z</updated>
+    <updated>2022-09-19T17:38:49.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AMD Boasts About RDNA 3 Efficiency as RTX 40-Series Looms]]></title>
+        <id>UxYyVVtcKF7kxBdvX2wQjS</id>
+        <link href="https://www.tomshardware.com/news/amd-talks-rdna-3-efficiency"/>
+        <updated>2022-09-19T17:24:28.000Z</updated>
+        <summary type="html"><![CDATA[AMD talks about RDNA 3 efficiency gains just ahead of Nvidia's expected RTX 40-series reveal. The upcoming clash between AMD RDNA 3 and Nvidia Ada Lovelace will determine the success of the very different bets these fierce rivals have taken.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Deck Q3 invites are all out early as Valve beats own production estimates (again)]]></title>
+        <id>https://www.gamingonlinux.com/2022/09/steam-deck-q3-invites-are-all-out-early-as-valve-beats-own-production-estimates-again/</id>
+        <link href="https://www.gamingonlinux.com/2022/09/steam-deck-q3-invites-are-all-out-early-as-valve-beats-own-production-estimates-again/"/>
+        <updated>2022-09-19T17:13:53.000Z</updated>
+        <summary type="html"><![CDATA[Again and again Valve has managed to speed up production of the Steam Deck, so much so that for reservations the Q3 era is over.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grand Theft Auto 6 maker confirms source code, vids stolen in cyber-heist]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/19/grand_theft_auto_6_hacked/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/19/grand_theft_auto_6_hacked/"/>
+        <updated>2022-09-19T17:12:15.000Z</updated>
+        <summary type="html"><![CDATA[<h4>So is that three or four stars?</h4> <p>Take-Two Interactive confirmed on Monday that its Rockstar Games subsidiary has been compromised and confidential data for Grand Theft Auto 6 has been stolen.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shadow of Rose-dlc:et blir sista Resident Evil som fokuserar på Winters-familjen]]></title>
+        <id>https://www.fz.se/artikel/291508</id>
+        <link href="https://www.fz.se/artikel/291508-shadow-of-rose-dlcet-blir-sista-resident-evil-som-fokuserar-pa-winters-familjen"/>
+        <updated>2022-09-19T16:57:00.000Z</updated>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Antoine Beaupré: Looking at Wayland terminal emulators]]></title>
+        <id>https://anarc.at/blog/2022-09-19-wayland-terminal-emulators/</id>
+        <link href="https://anarc.at/blog/2022-09-19-wayland-terminal-emulators/"/>
+        <updated>2022-09-19T16:41:03.000Z</updated>
+        <summary type="html"><![CDATA[Back in 2018, I made a two part series about terminal emulators
+that was actually pretty painful to write. So I'm not going to retry
+this here, not at all. Especially since I'm not submitting this to the
+excellent LWN editors so I can get away with not being very good
+at writing. Phew.
+Still, it seems my future self will thank me for collecting my
+thoughts on the terminal emulators I have found out about since I
+wrote that article. Back then, Wayland was not quite at the level
+where it is now, being the default in Fedora (2016), Debian (2019),
+RedHat (2019), and Ubuntu (2021). Also, a bunch of folks thought they
+would solve everything by using OpenGL for rendering. Let's see how
+things stack up.
+Recap
+In the previous article, I touched on those projects:
+ Terminal           
+ Changes since…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD Preps Fixes For Linux 6.1, Still Working On Gang Submit]]></title>
         <id>https://www.phoronix.com/news/AMDGPU-Linux-6.1-Mid-September</id>
