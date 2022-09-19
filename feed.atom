@@ -2,10 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-19T06:17:37.118Z</updated>
+    <updated>2022-09-19T07:43:39.810Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel pensionerar namnen Celeron och Pentium]]></title>
+        <id>https://www.sweclockers.com/artikel/34944</id>
+        <link href="https://www.sweclockers.com/artikel/34944-intel-pensionerar-namnen-celeron-och-pentium"/>
+        <updated>2022-09-19T07:13:53.000Z</updated>
+        <summary type="html"><![CDATA[I syfte att förenkla för konsumenter ska enklare processorer till bärbara datorer endast gå under namnet Intel Processor från och med år 2023.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matthew Garrett: Bring Your Own Disaster]]></title>
+        <id>https://mjg59.dreamwidth.org/61089.html</id>
+        <link href="https://mjg59.dreamwidth.org/61089.html"/>
+        <updated>2022-09-19T07:12:45.000Z</updated>
+        <summary type="html"><![CDATA[After my last post, someone suggested that having employers be able to restrict keys to machines they control is a bad thing. So here's why I think Bring Your Own Device (BYOD) scenarios are bad not only for employers, but also for users.
+There's obvious mutual appeal to having developers use their own hardware rather than rely on employer-provided hardware. The user gets to use hardware they're familiar with, and which matches their ergonomic desires. The employer gets to save on the money required to buy new hardware for the employee. From this perspective, there's a clear win-win outcome.
+But once you start thinking about security, it gets more complicated. If I, as an employer, want to ensure that any systems that can access my resources meet a certain security baseline (eg, I don't wa…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mer retro-fps: Ion Fury-uppföljaren Phantom Fury har utannonserats]]></title>
+        <id>https://www.fz.se/artikel/291498</id>
+        <link href="https://www.fz.se/artikel/291498-mer-retro-fps-ion-fury-uppfoljaren-phantom-fury-har-utannonserats"/>
+        <updated>2022-09-19T06:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Shelly "Bombshell" Harrison är tillbaka och ska på en blodig roadtrip.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Where in the world is Terraform Labs' alleged crypto-crasher Do Kwon?]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/19/do_kwon_korea_arrest_missing/</id>
@@ -19584,16 +19616,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[After a series of alpha and beta releases over the past several months, out this past week is the first release candidate of the upcoming PHP 8.2...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Löfte: nya Perfect Dark inte i fara]]></title>
-        <id>https://www.fz.se/artikel/291356</id>
-        <link href="https://www.fz.se/artikel/291356-lofte-nya-perfect-dark-inte-i-fara"/>
-        <updated>2022-09-05T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft kommer med lugnande besked.]]></summary>
-        <author>
-            <name>FZ.se</name>
         </author>
     </entry>
 </feed>
