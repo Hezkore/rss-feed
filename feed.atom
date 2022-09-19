@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-19T07:43:39.810Z</updated>
+    <updated>2022-09-19T08:35:06.445Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Bad UI killed the radio star]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/19/who_me/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/19/who_me/"/>
+        <updated>2022-09-19T08:02:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Rules, it turns out, are not meant to be broken. Especially by the person who wrote the rule about how to protect data</h4> <p><strong>Who, Me?</strong>  When designing a procedure for the operation of any system, the first and most important rule should always be: follow the rules. Unfortunately, this particular rule is often forgotten.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xbox planerar fortsatta uppköp för att förbli konkurrenskraftiga]]></title>
+        <id>https://www.fz.se/artikel/291499</id>
+        <link href="https://www.fz.se/artikel/291499-xbox-planerar-fortsatta-uppkop-for-att-forbli-konkurrenskraftiga"/>
+        <updated>2022-09-19T07:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Och pekar ut Sony som en betydligt större aktör i spelbranschen.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intel pensionerar namnen Celeron och Pentium]]></title>
         <id>https://www.sweclockers.com/artikel/34944</id>
@@ -19595,27 +19615,6 @@ Kinetic has released some smaller updates since then to keep players appropriate
 Read more]]></summary>
         <author>
             <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pick up a high-spec Samsung 980 Pro 2TB NVMe SSD with heatsink for £184]]></title>
-        <id>https://www.rockpapershotgun.com/pick-up-a-high-spec-samsung-980-pro-2tb-nvme-ssd-with-heatsink-for-184</id>
-        <link href="https://www.rockpapershotgun.com/pick-up-a-high-spec-samsung-980-pro-2tb-nvme-ssd-with-heatsink-for-184"/>
-        <updated>2022-09-05T20:25:49.000Z</updated>
-        <summary type="html"><![CDATA[The Samsung 980 Pro is one of the fastest NVMe SSDs on the market, making excellent use of the PCIe 4.0 spec, and today a 2TB model has been reduced to £184 on Amazon UK. The usual price for this model is £252, making this a sweet 27% reduction. 
-Read more]]></summary>
-        <author>
-            <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PHP 8.2 RC1 Released With Various Fixes & Improvements]]></title>
-        <id>https://www.phoronix.com/news/PHP-8.2-RC1-Released</id>
-        <link href="https://www.phoronix.com/news/PHP-8.2-RC1-Released"/>
-        <updated>2022-09-05T20:03:39.000Z</updated>
-        <summary type="html"><![CDATA[After a series of alpha and beta releases over the past several months, out this past week is the first release candidate of the upcoming PHP 8.2...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
 </feed>
