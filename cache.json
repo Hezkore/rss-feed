@@ -131,6 +131,26 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/09/steam-mobile-app-continues-adding-new-features-to-the-beta/",
+          "author": "Liam Dawe",
+          "description": "Valve are continuing to roll out big changes to the brand new Steam Mobile App, which is currently in Beta.",
+          "link": "https://www.gamingonlinux.com/2022/09/steam-mobile-app-continues-adding-new-features-to-the-beta/",
+          "publishedOn": "2022-09-19T12:41:18.000Z",
+          "wordCount": 1222,
+          "title": "Steam Mobile App continues adding new features to the Beta",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/tagline_gallery/Steam-Logo.jpg"
+        },
+        {
+          "id": "https://www.gamingonlinux.com/2022/09/the-wandering-village-is-a-clear-hit-with-over-50k-copies-sold/",
+          "author": "Liam Dawe",
+          "description": "The Wandering Village, the new city-builder from Stray Fawn Studio has clearly become something of a hit and for good reason.",
+          "link": "https://www.gamingonlinux.com/2022/09/the-wandering-village-is-a-clear-hit-with-over-50k-copies-sold/",
+          "publishedOn": "2022-09-19T12:21:46.000Z",
+          "wordCount": 1172,
+          "title": "The Wandering Village is a clear hit with over 50K copies sold",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/242632007id21618gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/09/ge-proton-installer-protonup-qt-adds-support-for-the-steam-snap/",
           "author": "Liam Dawe",
           "description": "ProtonUp-Qt continues being an incredibly helpful GUI for installing the likes of GE-Proton, Wine-GE, Luxtorpeda and more with a new version out now.",
@@ -3566,16 +3586,6 @@
           "wordCount": 4229,
           "title": "Off Topic: Il Buco is a transporting film about a really big hole",
           "imageUrl": "https://assets.reedpopcdn.com/Il-Buco1.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Il-Buco1.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/sea-of-thieves-celebrating-talk-like-a-pirate-day-with-xp-boosting-community-event",
-          "author": "Matt Wales",
-          "description": "Sea of Thieves is getting in the spirit of Talk Like a Pirate Day with a week of celebrations that'll include the swashbuckling multiplayer adventure's latest XP-boosting community event.\r\n\n\r\nThe general festivities begin on Thursday, 15th September (running until Tuesday, 20th September),  bringing a free Arrrgh! emote for anyone that logs in during the event, plus special Merchant Alliance fireworks, and discounts in the premium Pirate Emporium store. Additionally, players will be able to pick up a second free emote - Ranting Rogue - from the Pirate Emporium.\r\n\n\r\nThe main event, though, is Season Seven's Community Day, running for 24 hours from 10am UTC on Sunday, 17th September. A \"generous\" Renown XP boost will be applied to all in-game activities for the duration, helping players work through this season's progression track more easily, and it'll be accompanied by a set of additional player-driven boosts via Twitter.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sea-of-thieves-celebrating-talk-like-a-pirate-day-with-xp-boosting-community-event",
-          "publishedOn": "2022-09-05T23:31:27.000Z",
-          "wordCount": 4644,
-          "title": "Sea of Thieves celebrating Talk Like a Pirate Day with XP-boosting community event",
-          "imageUrl": "https://assets.reedpopcdn.com/sea-of-thieves-ancient-skeleton.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sea-of-thieves-ancient-skeleton.jpg"
         }
       ]
     },
@@ -5151,6 +5161,16 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.1-Final-i915-PR",
+          "author": null,
+          "description": "Along with the last drm-intel-gt-next pull for Linux 6.1, a final drm-intel-next pull request of new feature code was submitted to DRM-Next ahead of the upcoming Linux 6.1 merge window...",
+          "link": "https://www.phoronix.com/news/Linux-6.1-Final-i915-PR",
+          "publishedOn": "2022-09-19T11:51:59.000Z",
+          "wordCount": 1303,
+          "title": "More Meteor Lake Enablement Readied For Intel Graphics Driver With Linux 6.1",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/More-s2idle-Rembrandt-Linux",
           "author": null,
@@ -7825,6 +7845,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "ATixyCc3PSGMPRktF6avEj",
+          "author": null,
+          "description": "The PL240 Flux is a quiet cooler featuring ARGB lighting. It pairs well with Alder Lake CPUs, provided there are some power limits in place.",
+          "link": "https://www.tomshardware.com/reviews/cooler-master-pl240-flux",
+          "publishedOn": "2022-09-19T12:00:32.000Z",
+          "wordCount": 23464,
+          "title": "Cooler Master MasterLiquid PL240 Flux Review: A Quiet Contender",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/GbcBTNRexc5RkpgqWQ57nC.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/GbcBTNRexc5RkpgqWQ57nC.jpg"
+        },
         {
           "id": "n6tnZBEZSWvpab7BhkfEUZ",
           "author": null,
@@ -12709,6 +12744,26 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291503",
+          "author": null,
+          "description": "Och förhoppningsvis kommer releasedatumet också snart.",
+          "link": "https://www.fz.se/artikel/291503-ny-final-fantasy-xvi-trailer-om-en-manad-eller-sa",
+          "publishedOn": "2022-09-19T12:13:00.000Z",
+          "wordCount": 1720,
+          "title": "Ny Final Fantasy XVI-trailer om en månad eller så",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291503"
+        },
+        {
+          "id": "https://www.fz.se/artikel/291502",
+          "author": null,
+          "description": "Gör GTA 6 sällskap.",
+          "link": "https://www.fz.se/artikel/291502-stor-gameplay-lacka-aven-fran-diablo-4",
+          "publishedOn": "2022-09-19T11:24:04.000Z",
+          "wordCount": 1964,
+          "title": "Stor gameplay-läcka även från Diablo 4",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291502"
+        },
+        {
           "id": "https://www.fz.se/artikel/291501",
           "author": null,
           "description": "Nyfunnen popularitet.",
@@ -15124,16 +15179,6 @@
           "wordCount": 639,
           "title": "Comic for 2022.09.07 - Rough Start",
           "imageUrl": null
-        },
-        {
-          "id": "https://explosm.net/comics/about-to-nut",
-          "author": null,
-          "description": "New Cyanide and Happiness Comic",
-          "link": "https://explosm.net/comics/about-to-nut",
-          "publishedOn": "2022-09-06T00:46:51.000Z",
-          "wordCount": 640,
-          "title": "Comic for 2022.09.06 - About To Nut",
-          "imageUrl": null
         }
       ]
     },
@@ -15282,6 +15327,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/19/jupiter_70_years_closest_approach/",
+          "author": null,
+          "description": "<h4>Gas giant to come within just 365 million miles. Viewing conditions will be ideal even if you only have binoculars</h4> <p>Next Monday, September 26, Jupiter will be the closest to Earth it has been for in 70 years.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/19/jupiter_70_years_closest_approach/",
+          "publishedOn": "2022-09-19T11:58:05.000Z",
+          "wordCount": 1285,
+          "title": "By Jove! Jupiter to make closest approach to Earth in 70 years next Monday",
+          "imageUrl": "https://regmedia.co.uk/2018/03/08/jupiter.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/19/cisco_outright_sales_wifi_cbw150ax/",
           "author": null,
