@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-19T10:29:43.119Z</updated>
+    <updated>2022-09-19T11:21:33.457Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Take-Two scrambles to strike leaked GTA 6 videos and screenshots]]></title>
+        <id>https://www.vg247.com/gta-6-leak-take-two-strike-ransom</id>
+        <link href="https://www.vg247.com/gta-6-leak-take-two-strike-ransom"/>
+        <updated>2022-09-19T10:59:30.000Z</updated>
+        <summary type="html"><![CDATA[The weekend has brought Rockstar and its parent company, Take-Two, a lot of headaches. A massive amount of GTA 6 development videos and screenshots were published online by an anonymous leaker. GTA never suffered a leak at this scale, and the material understandably got published everywhere.
+The footage and screenshots showed various bits of gameplay, a Red Dead Redemption 2-like conversation system, some vehicle action, and a bit of the open world. More importantly, it featured the rumoured protagonist, and seemingly confirmed the Vice City setting, which has long been rumoured, and recently confirmed by a Bloomberg report.
+The leaks were posted by a user named teapotuberhacker on the GTA Forums. Since then, the thread was locked and the media removed, though it's available to read once again at the time of this writing.
+ Read more]]></summary>
+        <author>
+            <name>Sherif Saed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GE-Proton installer ProtonUp-Qt adds support for the Steam Snap]]></title>
+        <id>https://www.gamingonlinux.com/2022/09/ge-proton-installer-protonup-qt-adds-support-for-the-steam-snap/</id>
+        <link href="https://www.gamingonlinux.com/2022/09/ge-proton-installer-protonup-qt-adds-support-for-the-steam-snap/"/>
+        <updated>2022-09-19T10:47:45.000Z</updated>
+        <summary type="html"><![CDATA[ProtonUp-Qt continues being an incredibly helpful GUI for installing the likes of GE-Proton, Wine-GE, Luxtorpeda and more with a new version out now.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More AMD Ryzen Laptops See Suspend-To-Idle Fix]]></title>
+        <id>https://www.phoronix.com/news/More-s2idle-Rembrandt-Linux</id>
+        <link href="https://www.phoronix.com/news/More-s2idle-Rembrandt-Linux"/>
+        <updated>2022-09-19T10:38:23.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this month I wrote about AMD working on s2idle fixes for some AMD Ryzen 6000 series "Rembrandt" laptops. At the time it was just for select ASUS laptops known to have a bug in the firmware resulting in suspend-to-idle issues while now additional models not only from ASUS but also Lenovo have been uncovered...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plasma 5.26 Beta brings on the bigscreen experience]]></title>
+        <id>https://www.gamingonlinux.com/2022/09/plasma-526-beta-brings-on-the-bigscreen-experience/</id>
+        <link href="https://www.gamingonlinux.com/2022/09/plasma-526-beta-brings-on-the-bigscreen-experience/"/>
+        <updated>2022-09-19T10:35:03.000Z</updated>
+        <summary type="html"><![CDATA[Plasma 5.26 Beta is officially out now and it comes with plenty of massive improvements, especially when it comes to using it on the bigscreen.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Loongson Preparing Linux For LoongArch Laptops]]></title>
         <id>https://www.phoronix.com/news/Loongson-LoongArch-Laptop-Prep</id>
@@ -19636,16 +19679,6 @@ The main event, though, is Season Seven's Community Day, running for 24 hours fr
 Read more]]></summary>
         <author>
             <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mesa Preparing Software Fallback For S3TC Texture Compression]]></title>
-        <id>https://www.phoronix.com/news/Mesa-22-S3TC-Software-Fallback</id>
-        <link href="https://www.phoronix.com/news/Mesa-22-S3TC-Software-Fallback"/>
-        <updated>2022-09-05T23:16:26.000Z</updated>
-        <summary type="html"><![CDATA[Mesa recently landed BPTC software fallback handling that is a requirement for OpenGL 4.2 support but BPTC is not natively supported by all GPU hardware, particularly on the embedded side. That software emulation support for BPTC is similar to what already has existed within Mesa for the ASTC and ETC formats too. A merge request is pending that also adds S3TC software fallback handling, which helps out some of the smaller, embedded GPU drivers too for getting more games running that are dependent on S3 Texture Compression...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
 </feed>

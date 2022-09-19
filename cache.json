@@ -131,6 +131,26 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/09/ge-proton-installer-protonup-qt-adds-support-for-the-steam-snap/",
+          "author": "Liam Dawe",
+          "description": "ProtonUp-Qt continues being an incredibly helpful GUI for installing the likes of GE-Proton, Wine-GE, Luxtorpeda and more with a new version out now.",
+          "link": "https://www.gamingonlinux.com/2022/09/ge-proton-installer-protonup-qt-adds-support-for-the-steam-snap/",
+          "publishedOn": "2022-09-19T10:47:45.000Z",
+          "wordCount": 1060,
+          "title": "GE-Proton installer ProtonUp-Qt adds support for the Steam Snap",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/272490519id21617gol.jpg"
+        },
+        {
+          "id": "https://www.gamingonlinux.com/2022/09/plasma-526-beta-brings-on-the-bigscreen-experience/",
+          "author": "Liam Dawe",
+          "description": "Plasma 5.26 Beta is officially out now and it comes with plenty of massive improvements, especially when it comes to using it on the bigscreen.",
+          "link": "https://www.gamingonlinux.com/2022/09/plasma-526-beta-brings-on-the-bigscreen-experience/",
+          "publishedOn": "2022-09-19T10:35:03.000Z",
+          "wordCount": 1166,
+          "title": "Plasma 5.26 Beta brings on the bigscreen experience",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/128382078id21616gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/09/valve-had-the-official-steam-deck-docking-station-at-tgs-plus-other-tgs-bits/",
           "author": "Liam Dawe",
           "description": "While they haven't yet released the official Steam Deck Dock and they haven't really talked about it since the indefinite delay, it's clearly still a thing.",
@@ -3565,6 +3585,16 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/gta-6-leak-take-two-strike-ransom",
+          "author": "Sherif Saed",
+          "description": "The weekend has brought Rockstar and its parent company, Take-Two, a lot of headaches. A massive amount of GTA 6 development videos and screenshots were published online by an anonymous leaker. GTA never suffered a leak at this scale, and the material understandably got published everywhere.\nThe footage and screenshots showed various bits of gameplay, a Red Dead Redemption 2-like conversation system, some vehicle action, and a bit of the open world. More importantly, it featured the rumoured protagonist, and seemingly confirmed the Vice City setting, which has long been rumoured, and recently confirmed by a Bloomberg report.\nThe leaks were posted by a user named teapotuberhacker on the GTA Forums. Since then, the thread was locked and the media removed, though it's available to read once again at the time of this writing.\n Read more",
+          "link": "https://www.vg247.com/gta-6-leak-take-two-strike-ransom",
+          "publishedOn": "2022-09-19T10:59:30.000Z",
+          "wordCount": 4743,
+          "title": "Take-Two scrambles to strike leaked GTA 6 videos and screenshots",
+          "imageUrl": "https://asset.vg247.com/GTA-6-rockstar-t2-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/GTA-6-rockstar-t2-header.jpg"
+        },
+        {
           "id": "https://www.vg247.com/respawn-is-changing-those-supposed-pay-to-win-apex-legends-skins",
           "author": "Oisin Kuhnke",
           "description": "A recent batch of Apex Legends weapon skins have been causing some controversy as a number of players believe that the aim down sights (ADS) are better than on other skins.\r\n\n\r\nAs reported by PCGamesN, some pay-to-win accusations have been thrown at developer Respawn due to the introduction of weapon skins like the Heat Sink skin. According to some players, the Heat Sink skin has a vastly superior ADS compared to other guns' skins. However, Respawn has since addressed the criticism, providing an update on said skin and more.\r\n\n\r\n\"Competitive integrity is and will always be a core pillar for Apex Legends,\" wrote Respawn in a blog post. \"As part of that, our default iron sights are designed to push players to loot for better optics. We also believe that skins shouldn't be a factor in the sights functionality as well. During Season 4, we released the Heat Sink reactive skin for the VK-47 Flatline rifle and we heard feedback from some players that the Aim Down Sights (ADS) felt superior to any other skin available. \r\n \nRead more",
@@ -5122,6 +5152,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/More-s2idle-Rembrandt-Linux",
+          "author": null,
+          "description": "Earlier this month I wrote about AMD working on s2idle fixes for some AMD Ryzen 6000 series \"Rembrandt\" laptops. At the time it was just for select ASUS laptops known to have a bug in the firmware resulting in suspend-to-idle issues while now additional models not only from ASUS but also Lenovo have been uncovered...",
+          "link": "https://www.phoronix.com/news/More-s2idle-Rembrandt-Linux",
+          "publishedOn": "2022-09-19T10:38:23.000Z",
+          "wordCount": 1469,
+          "title": "More AMD Ryzen Laptops See Suspend-To-Idle Fix",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Loongson-LoongArch-Laptop-Prep",
           "author": null,
           "description": "Chinese hardware vendor Loongson Technology continues working on the LoongArch code for the Linux kernel for their in-house CPU ISA derived from MIPS64. Now that the initial code has been mainlined since 5.19 and some of the necessary other critical bits of code are getting squared away, recently they have been working on other missing functionality for supporting their initial LoongArch-based Loongson 3A5000 series SoCs...",
@@ -6309,16 +6349,6 @@
           "publishedOn": "2022-09-06T09:29:49.000Z",
           "wordCount": 1259,
           "title": "OpenWrt 22.03 Released With Updated Firewall, Support For 180+ New Devices",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Mesa-22-S3TC-Software-Fallback",
-          "author": null,
-          "description": "Mesa recently landed BPTC software fallback handling that is a requirement for OpenGL 4.2 support but BPTC is not natively supported by all GPU hardware, particularly on the embedded side. That software emulation support for BPTC is similar to what already has existed within Mesa for the ASTC and ETC formats too. A merge request is pending that also adds S3TC software fallback handling, which helps out some of the smaller, embedded GPU drivers too for getting more games running that are dependent on S3 Texture Compression...",
-          "link": "https://www.phoronix.com/news/Mesa-22-S3TC-Software-Fallback",
-          "publishedOn": "2022-09-05T23:16:26.000Z",
-          "wordCount": 1403,
-          "title": "Mesa Preparing Software Fallback For S3TC Texture Compression",
           "imageUrl": null
         }
       ]
