@@ -3636,16 +3636,6 @@
           "wordCount": 6054,
           "title": "The Sims 4 - a game of cycles that could do with starting anew",
           "imageUrl": "https://assets.reedpopcdn.com/the-sims-4-header-state-of-the-game.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/the-sims-4-header-state-of-the-game.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/off-topic-il-buco-is-a-transporting-film-about-a-really-big-hole",
-          "author": "Christian Donlan",
-          "description": "Last week I watched Il Buco, or The Hole, the latest film from the Italian director Michelangelo Frammartino. It's mesmerising. With very little in the way of dialogue, Frammartino tells the story of a 1960s spelunking expedition that explored one of the deepest cave systems in the world.\r\n\n\r\nAt first glance Il Buco seems filled with slightly trite opposites. The expedition comes from the urban north of Italy to the bucolic south, and one scene shows a cluster of kids gathered around a TV set that's broadcasting a news piece about the tallest building in the country, which is being constructed while the spelunkers are heading off in the opposite direction.\r\n\n\r\nBut all of this is a distraction, I think. Or rather, it felt like Frammartino was throwing things in to the movie to allow you to ruminate and begin the process of looking for meanings. The bulk of the film is concerned with a more engaging case of opposites: an elderly shepherd spending his last days with his flock, while that hole slowly reveals its depths.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/off-topic-il-buco-is-a-transporting-film-about-a-really-big-hole",
-          "publishedOn": "2022-09-06T08:24:23.000Z",
-          "wordCount": 4229,
-          "title": "Off Topic: Il Buco is a transporting film about a really big hole",
-          "imageUrl": "https://assets.reedpopcdn.com/Il-Buco1.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Il-Buco1.jpg"
         }
       ]
     },
@@ -5271,6 +5261,16 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/RadeonSI-VCN-LTR-Encode",
+          "author": null,
+          "description": "Merged today for Mesa 22.3 is support with the RadeonSI Gallium3D driver's Video Core Next (VCN) code to support video encoding with LTR mode...",
+          "link": "https://www.phoronix.com/news/RadeonSI-VCN-LTR-Encode",
+          "publishedOn": "2022-09-19T19:55:48.000Z",
+          "wordCount": 1611,
+          "title": "Amazon Engineer Adds LTR Encode Support To Open-Source AMD Radeon Linux Driver",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/AMDGPU-Linux-6.1-Mid-September",
           "author": null,
@@ -11197,6 +11197,16 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1882677",
+          "author": "Beth Mole",
+          "description": "Biden's \"over\" comment highlights our complicated, precarious pandemic status.",
+          "link": "https://arstechnica.com/?p=1882677",
+          "publishedOn": "2022-09-19T19:15:09.000Z",
+          "wordCount": 1807,
+          "title": "Biden calls pandemic “over” despite pathetic booster rates and new variants",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1243237881-760x380.jpeg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1882617",
           "author": "Jon Brodkin",
           "description": "Group claims to \"give a voice\" to small firms while fighting bills opposed by Apple.",
@@ -14692,16 +14702,6 @@
           "wordCount": 1875,
           "title": "Fler uppgifter om The Division Heartland läcker",
           "imageUrl": "https://www.fz.se/artikel/og-image/291361"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291360",
-          "author": null,
-          "description": "Men inte gratis, till skillnad från det färdiga spelet.",
-          "link": "https://www.fz.se/artikel/291360-i-dag-slapps-disney-dreamlight-valley-i-early-access",
-          "publishedOn": "2022-09-06T07:59:00.000Z",
-          "wordCount": 1942,
-          "title": "I dag släpps Disney Dreamlight Valley i early access",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291360"
         }
       ]
     },
@@ -15687,6 +15687,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/19/lockergoga_ransomware_decryptor/",
+          "author": null,
+          "description": "<h4>Software nasty used to cause hundreds of millions of dollars in damages, cops say</h4> <p>If you've been hit by the LockerGoga ransomware, an international law enforcement effort has publicly released a tool to fix the problem.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/19/lockergoga_ransomware_decryptor/",
+          "publishedOn": "2022-09-19T20:07:43.000Z",
+          "wordCount": 1260,
+          "title": "Been hit by LockerGoga ransomware? A free fix is now out",
+          "imageUrl": "https://regmedia.co.uk/2019/09/18/shutterstock_open_door_unlocked.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/19/iphone_14s_ifixit/",
           "author": null,
