@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-19T08:35:06.445Z</updated>
+    <updated>2022-09-19T09:28:21.760Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I skräckspelet Unholy utforskar man två parallella världar]]></title>
+        <id>https://www.fz.se/artikel/291500</id>
+        <link href="https://www.fz.se/artikel/291500-i-skrackspelet-unholy-utforskar-man-tva-parallella-varldar"/>
+        <updated>2022-09-19T09:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Sök efter ditt barn i en ohelig, präststyrd värld och en östeuropeisk stad.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valve had the official Steam Deck Docking Station at TGS, plus other TGS bits]]></title>
+        <id>https://www.gamingonlinux.com/2022/09/valve-had-the-official-steam-deck-docking-station-at-tgs-plus-other-tgs-bits/</id>
+        <link href="https://www.gamingonlinux.com/2022/09/valve-had-the-official-steam-deck-docking-station-at-tgs-plus-other-tgs-bits/"/>
+        <updated>2022-09-19T08:40:27.000Z</updated>
+        <summary type="html"><![CDATA[While they haven't yet released the official Steam Deck Dock and they haven't really talked about it since the indefinite delay, it's clearly still a thing.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bad UI killed the radio star]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/19/who_me/</id>
@@ -19576,45 +19596,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Mesa recently landed BPTC software fallback handling that is a requirement for OpenGL 4.2 support but BPTC is not natively supported by all GPU hardware, particularly on the embedded side. That software emulation support for BPTC is similar to what already has existed within Mesa for the ASTC and ETC formats too. A merge request is pending that also adds S3TC software fallback handling, which helps out some of the smaller, embedded GPU drivers too for getting more games running that are dependent on S3 Texture Compression...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel: Arc A770 GPUs Will Launch “Very Soon”]]></title>
-        <id>bxjmoqMhuTVSskubvHtWJE</id>
-        <link href="https://www.tomshardware.com/news/intel-arc-a770-to-launch-very-soon"/>
-        <updated>2022-09-05T20:59:39.000Z</updated>
-        <summary type="html"><![CDATA[Intel details features and capabilities of Arc A770 8GB and 16GB boards, Arc 750 cards.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Want a fancy box with 15 programmable buttons? Elgato's Stream Deck MK.2 is 30% off]]></title>
-        <id>https://www.rockpapershotgun.com/want-a-fancy-box-with-15-programmable-buttons-elgatos-stream-deck-mk2-is-30-off</id>
-        <link href="https://www.rockpapershotgun.com/want-a-fancy-box-with-15-programmable-buttons-elgatos-stream-deck-mk2-is-30-off"/>
-        <updated>2022-09-05T20:51:39.000Z</updated>
-        <summary type="html"><![CDATA[The Elgato Stream Deck MK.2 is a kind of funny thing, a little plastic box with 15 plastic buttons. Each button has a tiny screen behind it, and when pressed can do any number of things - launching a program, changing to a new scene in a stream, adjusting your media volume, muting a microphone or sending out an alert. It's ideal for automation, giving you an easy way to trigger scripts or shortcuts that speed up the dreary parts of your job or your favourite game, and of course for game streamers it's invaluable. The MK.2 model normally costs £139, but today at Currys you can pick one up for £97 using the code GAMING30. 
-Read more]]></summary>
-        <author>
-            <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phasmophobia getting custom difficulty this month, updated roadmap released]]></title>
-        <id>https://www.eurogamer.net/phasmophobias-custom-difficulty-update-arrives-this-month-new-roadmap-released</id>
-        <link href="https://www.eurogamer.net/phasmophobias-custom-difficulty-update-arrives-this-month-new-roadmap-released"/>
-        <updated>2022-09-05T20:41:12.000Z</updated>
-        <summary type="html"><![CDATA[Kinetic Games has released an updated development roadmap for its deliciously spooky ghost hunting sim Phasmophobia, with the game's custom difficulty feature now set to release this month with plenty more on the way.
-
-
-As Kinetic explains in a new Steam post, the team has now revised its early access roadmap for 2022 and beyond to "more accurately represents what we achieved this year, and what we plan to do moving forwards" following a longer-than-expected development period for Phasmophobia's VR rework, which eventually arrived in April.
-
-
-Kinetic has released some smaller updates since then to keep players appropriately terrified but it's all go in September with the advent of Phasmophobia's Custom Difficulty update, which the developers says is "a big one".
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
         </author>
     </entry>
 </feed>
