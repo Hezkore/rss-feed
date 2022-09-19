@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-19T20:28:10.374Z</updated>
+    <updated>2022-09-19T21:24:04.308Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel CEO Says Arc Gaming GPUs Will Hit Retail, Somewhere]]></title>
+        <id>hofSZipdpzmSTsi2S7o5DH</id>
+        <link href="https://www.tomshardware.com/news/intel-ceo-confirms-arc-a770-coming-to-retail-somewhere"/>
+        <updated>2022-09-19T20:50:24.000Z</updated>
+        <summary type="html"><![CDATA[Intel CEO Pat Gelsinger has confirmed in a tweet that Arc A770 will be coming to retail soon. Will it come to retail outside of China, though? That's the real question.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVGA's Manufacturing, Consumer Policies Minimized GPU Profits, Report]]></title>
+        <id>CRvxNeWLL3RfbxK98C5qwP</id>
+        <link href="https://www.tomshardware.com/news/igors-lab-evga-decision-leaving-gpus-is-its-fault"/>
+        <updated>2022-09-19T20:10:11.000Z</updated>
+        <summary type="html"><![CDATA[According to Igor's Lab, EVGA's decision to leave the GPU market might have been related to issues developing in-house, as a secondary problem.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Been hit by LockerGoga ransomware? A free fix is now out]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/19/lockergoga_ransomware_decryptor/</id>
@@ -24,6 +44,46 @@
         <summary type="html"><![CDATA[Merged today for Mesa 22.3 is support with the RadeonSI Gallium3D driver's Video Core Next (VCN) code to support video encoding with LTR mode...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple plans a fix for “grinding,” “vibrating” iPhone 14 Pro Max cameras next week]]></title>
+        <id>https://arstechnica.com/?p=1882678</id>
+        <link href="https://arstechnica.com/?p=1882678"/>
+        <updated>2022-09-19T19:53:21.000Z</updated>
+        <summary type="html"><![CDATA[Bug is most likely an issue with the optical image stabilization system.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After strong interest, VW plans to build 130,000 ID Buzzes a year]]></title>
+        <id>https://arstechnica.com/?p=1882707</id>
+        <link href="https://arstechnica.com/?p=1882707"/>
+        <updated>2022-09-19T19:48:28.000Z</updated>
+        <summary type="html"><![CDATA[Production of the EV for European customers has already begun in Hannover.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 14 teardown: One key change makes it much easier to repair]]></title>
+        <id>https://arstechnica.com/?p=1882610</id>
+        <link href="https://arstechnica.com/?p=1882610"/>
+        <updated>2022-09-19T19:39:58.000Z</updated>
+        <summary type="html"><![CDATA[iFixit calls it the biggest redesign since the iPhone X—but only on the inside.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI software helps bust image fraud in academic papers]]></title>
+        <id>https://arstechnica.com/?p=1882596</id>
+        <link href="https://arstechnica.com/?p=1882596"/>
+        <updated>2022-09-19T19:32:47.000Z</updated>
+        <summary type="html"><![CDATA[Proofig and ImageTwin software help detect fudged "Western blot" image data in academic papers.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
         </author>
     </entry>
     <entry>
@@ -20060,74 +20120,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<h4>Smartphone software set to link more services to patients despite privacy fears</h4> <p>NHS Digital has awarded IBM a £52.4 million ($60.2 million) contract for supporting and developing the NHS App, which the UK government plans to make the standard way for health services to communicate with patients.…</p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prodeus cancels the Native Linux version, focusing on Proton compatibility]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/prodeus-cancels-the-native-linux-version-focusing-on-proton-compatibility/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/prodeus-cancels-the-native-linux-version-focusing-on-proton-compatibility/"/>
-        <updated>2022-09-06T09:22:01.000Z</updated>
-        <summary type="html"><![CDATA[Prodeus, the crowdfunded first-person shooter that blends together new and old design styles, will no longer be doing a Native Linux version and instead will ensure it works nicely with Proton.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fler uppgifter om The Division Heartland läcker]]></title>
-        <id>https://www.fz.se/artikel/291361</id>
-        <link href="https://www.fz.se/artikel/291361-fler-uppgifter-om-the-division-heartland-lacker"/>
-        <updated>2022-09-06T09:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Ubisoft råkade lägga upp spelets butikssida.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Sims 4 - a game of cycles that could do with starting anew]]></title>
-        <id>https://www.eurogamer.net/the-sims-4-a-game-of-cycles-that-could-do-with-starting-anew</id>
-        <link href="https://www.eurogamer.net/the-sims-4-a-game-of-cycles-that-could-do-with-starting-anew"/>
-        <updated>2022-09-06T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The Sims has been around for 22 years now, with even the fourth, and most recent, numbered entry being a venerable eight years old. My first time playing the original was a communal experience in the sixth form common room, crowded around a friend's laptop. We created a replica of said common room, populated it with facsimiles of friends and mostly left them to their own devices. One of them forgot where the toilet was and peed himself, then cried about it.
-
-
-The Sims 2? Not sure if I even played it. I was 21 when it was released in 2004 and, like much of my life back then, the memories are a bit fuzzy.
-Number three meanwhile was inspirational. Not so much the game itself, although many would say it's the high point of the series, but the writing about it. Robin Burkinshaw's "Alice and Kev", a blog chronicling the adventures of a homeless Sim and his daughter, really struck a chord and inspired me to try my hand at something similar. (It was rubbish.)
- 
-Read more]]></summary>
-        <author>
-            <name>Caelyn Ellis</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RPS@PAX West 2022: Our top highlights from the showfloor]]></title>
-        <id>https://www.rockpapershotgun.com/rpspax-west-2022-our-top-highlights-from-the-showfloor</id>
-        <link href="https://www.rockpapershotgun.com/rpspax-west-2022-our-top-highlights-from-the-showfloor"/>
-        <updated>2022-09-06T08:40:18.000Z</updated>
-        <summary type="html"><![CDATA[As PC setups are carefully packed away and booths are dismantled, the curtain closes on another PAX West and it's time to say goodbye to Seattle (for now anyway). After four packed days of demos, panels, interviews, and lots of fruit smoothies, Liam and I are completely PAXed out, but we're not done quite yet.
-Below you'll find something a little different from our usual daily round-ups. For our last day at PAX, we've done a super, uber, mega round-up on the entire event. We list off our favourite panel moments, the best game demos we played, and our general opinion on how the overall convention went. Click play below to see one of our last videos from the event:
-Read more]]></summary>
-        <author>
-            <name>Rachel Watts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newport Wafer Fab sale to Chinese company held up again by UK.gov's probe]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/06/uk_government_demand_more_time/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/06/uk_government_demand_more_time/"/>
-        <updated>2022-09-06T08:30:08.000Z</updated>
-        <summary type="html"><![CDATA[<h4>To sell or not to sell... that is the national security assessment, decision delayed once more</h4> <p>The UK government has asked for more time to make its final decision on whether to retroactively approve or block the sale of Newport Wafer Fab (NWF) company to Chinese owners.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel: "Användare utan Resizable BAR bör hålla sig till andra grafikkort"]]></title>
-        <id>https://www.sweclockers.com/artikel/34872</id>
-        <link href="https://www.sweclockers.com/artikel/34872-intel-anvandare-utan-resizable-bar-bor-halla-sig-till-andra-grafikkort"/>
-        <updated>2022-09-06T08:28:32.000Z</updated>
-        <summary type="html"><![CDATA[I en djupdykning med Digital Foundry medger Intel att Kina-lanseringen inte gjorde succé och råder användare med äldre system att söka sig till konkurrenterna.]]></summary>
-        <author>
-            <name>SweClockers</name>
         </author>
     </entry>
 </feed>
