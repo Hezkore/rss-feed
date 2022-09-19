@@ -2,10 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-19T12:54:15.988Z</updated>
+    <updated>2022-09-19T13:56:21.762Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel's Linux Vulkan Driver readying up a 60%+ speed boost "in draw throughput"]]></title>
+        <id>https://www.gamingonlinux.com/2022/09/intel-linux-vulkan-driver-readying-up-a-60p-speed-boost/</id>
+        <link href="https://www.gamingonlinux.com/2022/09/intel-linux-vulkan-driver-readying-up-a-60p-speed-boost/"/>
+        <updated>2022-09-19T13:52:30.000Z</updated>
+        <summary type="html"><![CDATA[In another nice win for open source graphics, the Vulkan Driver for Intel on Linux is looking set to get a nice speed boost.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diablo 4 joins the leak train with over 50 minutes of footage appearing online]]></title>
+        <id>https://www.vg247.com/diablo-4-gameplay-leak</id>
+        <link href="https://www.vg247.com/diablo-4-gameplay-leak"/>
+        <updated>2022-09-19T13:51:17.000Z</updated>
+        <summary type="html"><![CDATA[After the weekend's big Grand Theft Auto leak, it now turns out that there's been an also pretty big Diablo 4 leak, as test footage has cropped up online. 
+
+
+As shared by Reddit user iV1rus0 on the GamingLeaksAndRumours subreddit, about 53 minutes of the upcoming sequel is available to watch as a pair of videos, one that's around five minutes in length, the other around 38 minutes. While the GTA 6 footage was the result of a hack, this Diablo footage appears to be from a Discord stream, as the app's notification sounds can be heard in the background.
+
+
+You can even hear the people streaming the game, though their voices have been distorted, likely as to protect their identity. Though all of the footage has been watermarked, so who knows how effective that will be.
+ 
+Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Working To Make Linux Safer For Cars, Robots & Other Safety Critical Environments]]></title>
+        <id>https://www.phoronix.com/news/NVIDIA-ASI-2022-Linux-Dev</id>
+        <link href="https://www.phoronix.com/news/NVIDIA-ASI-2022-Linux-Dev"/>
+        <updated>2022-09-19T13:40:56.000Z</updated>
+        <summary type="html"><![CDATA[NVIDIA is working on their own address space isolation (ASI) implementation for the Linux kernel that they hope will make the kernel safer for use within automobiles, robotics, and other areas where NVIDIA Tegra embedded hardware has a growing Linux-powered presence...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rockstar confirms the GTA 6 leaks doing the rounds are the result of a hack]]></title>
+        <id>https://www.vg247.com/gta-6-leak-rockstar-server-breach-confirmed</id>
+        <link href="https://www.vg247.com/gta-6-leak-rockstar-server-breach-confirmed"/>
+        <updated>2022-09-19T13:38:02.000Z</updated>
+        <summary type="html"><![CDATA[Rockstar has issued a statement earlier on the ongoing saga of the GTA 6 leaks, which resulted in heaps of videos and screenshots from the unannounced game appear online over the weekend.
+While the developer, and its parent company Take-Two, moved quickly to take down as many of them on social media and video platforms as possible, the damage had already been done. Given the nature of the leaks themselves (clearly originating from development builds), it was assumed that the developer's network had been hacked.
+This was, in fact, an accurate guess. In a statement posted to Twitter, the studio acknowledged the leak, confirming that it was the result of an unauthorised network breach.
+ Read more]]></summary>
+        <author>
+            <name>Sherif Saed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPT-3 'prompt injection' attack causes bad bot manners]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/19/in_brief_security/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/19/in_brief_security/"/>
+        <updated>2022-09-19T13:37:53.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Also, EA goes kernel-deep to stop cheaters, PuTTY gets hijacked by North Korea, and more.</h4> <p><strong>In Brief</strong>  OpenAI's popular natural language model GPT-3 has a problem: It can be tricked into behaving badly by doing little more than telling it to ignore its previous orders.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elden Ring blir brädspel]]></title>
+        <id>https://www.fz.se/artikel/291504</id>
+        <link href="https://www.fz.se/artikel/291504-elden-ring-blir-bradspel"/>
+        <updated>2022-09-19T13:12:00.000Z</updated>
+        <summary type="html"><![CDATA[Av folk som tidigare gjort brädspel av Dark Souls och Horizon.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Becomes First Major Corporate Backer To Krita Open-Source Digital Painting Program]]></title>
+        <id>https://www.phoronix.com/news/Intel-Corporate-Backer-Krita</id>
+        <link href="https://www.phoronix.com/news/Intel-Corporate-Backer-Krita"/>
+        <updated>2022-09-19T13:02:17.000Z</updated>
+        <summary type="html"><![CDATA[Intel has become the first corporate "gold" patron to the Krita Foundation for their development fund to advance this open-source digital painting program...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Steam Mobile App continues adding new features to the Beta]]></title>
         <id>https://www.gamingonlinux.com/2022/09/steam-mobile-app-continues-adding-new-features-to-the-beta/</id>
@@ -19709,16 +19790,6 @@ Read more]]></summary>
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/06/microsoft_stops_accepting_checks/"/>
         <updated>2022-09-06T02:59:11.000Z</updated>
         <summary type="html"><![CDATA[<h4>Maybe it’s putting the savings into discounts for Windows Server and M365 it's told the channel to go forth and sell?</h4> <p>Microsoft has told its north American partners they can’t pay it with checks starting from December 1st.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indian tech minister picks a fight with Wikipedia over cricketer's dropped catch]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/06/india_vs_wikipedia/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/06/india_vs_wikipedia/"/>
-        <updated>2022-09-06T00:58:06.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Also separatism, nationalism, and whether Big Tech does enough to police user-generated content</h4> <p>India’s IT minister has picked a fight with Wikipedia after alleging that Pakistani entities edited a page describing a member of the men’s national cricket team in ways that suggest the player has separatist affiliations.…</p>]]></summary>
         <author>
             <name>The Register</name>
         </author>
