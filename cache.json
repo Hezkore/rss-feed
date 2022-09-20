@@ -12,6 +12,16 @@
       "siteUrl": "https://itsfoss.com",
       "articles": [
         {
+          "id": "https://itsfoss.com/?p=102073",
+          "author": "Ankush Das",
+          "description": "A GUI program to help you manage chroot(s) with ease. Take a look at Atoms here and get started with it.",
+          "link": "https://itsfoss.com/atoms-chroot-tool/",
+          "publishedOn": "2022-09-20T04:11:57.000Z",
+          "wordCount": 7152,
+          "title": "Atoms is a GUI Tool to Let You Manage Linux Chroot Environments Easily",
+          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/09/atoms-manage-chroots-containers.png"
+        },
+        {
           "id": "https://itsfoss.com/?p=101985",
           "author": "Abhishek Prakash",
           "description": "A quick tip to show you how to know if you are using Wayland or X display server on your Linux system.",
@@ -102,16 +112,6 @@
             "type": "video/webm"
           },
           "imageUrl": "https://9to5linux.com/wp-content/uploads/2022/09/gsm2.webp"
-        },
-        {
-          "id": "https://9to5linux.com/?p=13938",
-          "author": "Marius Nestor",
-          "description": "KDE Plasma 5.25.5 desktop environment is now available as the last update in the series with various bug fixes and improvements. All users are urged to update as soon as possible!\nThe post KDE Plasma 5.25.5 Is Out as the Last Update in the Series, Improves Multi-Monitor Support appeared first on 9to5Linux - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.",
-          "link": "https://9to5linux.com/kde-plasma-5-25-5-is-out-as-the-last-update-in-the-series-improves-multi-monitor-support",
-          "publishedOn": "2022-09-06T15:14:42.000Z",
-          "wordCount": null,
-          "title": "KDE Plasma 5.25.5 Is Out as the Last Update in the Series, Improves Multi-Monitor Support",
-          "imageUrl": null
         }
       ]
     },
@@ -819,16 +819,6 @@
           "wordCount": 1139,
           "title": "Survival game Vintage Story adds 200+ new blocks, lightning, water physics update",
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1388603632id21553gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/09/the-wandering-village-launches-with-linux-support-on-september-14th/",
-          "author": "Liam Dawe",
-          "description": "Ready for a different kind of city builder? The Wandering Village is coming into Early Access on September 14th.",
-          "link": "https://www.gamingonlinux.com/2022/09/the-wandering-village-launches-with-linux-support-on-september-14th/",
-          "publishedOn": "2022-09-06T15:39:15.000Z",
-          "wordCount": 1161,
-          "title": "The Wandering Village launches with Linux support on September 14th",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1982642870id21552gol.jpg"
         }
       ]
     },
@@ -3416,36 +3406,6 @@
           "wordCount": 4706,
           "title": "Assassin's Creed games set in Japan and 16th century Europe reportedly being revealed this weekend",
           "imageUrl": "https://assets.reedpopcdn.com/assassins-creed-mirage_43Kt7NZ.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/assassins-creed-mirage_43Kt7NZ.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/take-a-look-at-god-of-war-ragnaroks-dwarven-realm-of-svartalfheim-in-new-video",
-          "author": "Matt Wales",
-          "description": "With God of War Ragnarök inching ever closer to its 9th November release on PlayStation, the pre-launch pre-amble keeps on coming, this time with a closer look at the dwarven realm of Svartalfheim in a new video.\r\n\n\r\nSvartalfheim is, of course, one of the Nine Realms at the heart of God of War's current Norse-themed saga, and one of three - alongside Vanaheim and Asgard - that were unreachable in the first game. Players will finally be able to complete the set in Ragnarök, though, as well as getting a chance to return to previously visited realms to explore new locations.\r\n\n\r\nSvartalfheim, like other realms, can be accessed via the gateway located at the centre of the Lake of Nine (frozen over in Ragnarök thanks to the onset of Fimbulwinter) and - as detailed in a new GameInformer video - will present players with plenty of dwarven ingenuity to explore, including mine pits, artificial water channels, and sprawling cities.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/take-a-look-at-god-of-war-ragnaroks-dwarven-realm-of-svartalfheim-in-new-video",
-          "publishedOn": "2022-09-06T16:39:40.000Z",
-          "wordCount": 4622,
-          "title": "Here's a look at God of War Ragnarök's dwarven realm of Svartalfheim",
-          "imageUrl": "https://assets.reedpopcdn.com/god-of-war-ragnarok-svartalfheim-screen-grab.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/god-of-war-ragnarok-svartalfheim-screen-grab.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/tencent-increases-stakes-in-ubisoft-with-300m-investment-in-guillemot-bros",
-          "author": "Ed Nightingale",
-          "description": "Tencent is heavily investing in Ubisoft with a €300m investment in Guillemot Bros, the company run by Ubisoft's co-founders.\r\n\n\r\nTencent now has a 49.9 percent stake in Guillemot Bros., which has the largest stake in Ubisoft.\r\n\n\r\nIn turn, Tencent will bring some of Ubisoft's biggest franchises to mobile.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/tencent-increases-stakes-in-ubisoft-with-300m-investment-in-guillemot-bros",
-          "publishedOn": "2022-09-06T16:17:14.000Z",
-          "wordCount": 4554,
-          "title": "Tencent increases stakes in Ubisoft with €300m investment in Guillemot Bros",
-          "imageUrl": "https://assets.reedpopcdn.com/ubisoft-logo_9vscSD7.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ubisoft-logo_9vscSD7.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/keanu-reeves-will-return-in-cyberpunk-2077s-phantom-liberty-expansion",
-          "author": "Ed Nightingale",
-          "description": "Keanu Reeves is set to reprise the role of Johnny Silverhand in the forthcoming Cyberpunk 2077 expansion Phantom Liberty.\r\n\n\r\nIt will be released in 2023 across Xbox Series X/S, PlayStation 5 and PC.\r\n\n\r\nThough details are light, it will focus on a specific district of Night City and continue V's story with a new cast and plot. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/keanu-reeves-will-return-in-cyberpunk-2077s-phantom-liberty-expansion",
-          "publishedOn": "2022-09-06T15:40:55.000Z",
-          "wordCount": 4736,
-          "title": "Keanu Reeves will return in Cyberpunk 2077's Phantom Liberty Expansion",
-          "imageUrl": "https://assets.reedpopcdn.com/Cyberpunk-2077-%E2%80%94-Night-City-Wire_-Edgerunners-Special-22-18-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Cyberpunk-2077-%E2%80%94-Night-City-Wire_-Edgerunners-Special-22-18-screenshot.png"
         }
       ]
     },
@@ -4973,56 +4933,6 @@
           "wordCount": 4635,
           "title": "Ubisoft will announce multiple Assassin's Creed titles during Ubisoft Forward - report",
           "imageUrl": "https://asset.vg247.com/assassins-creed-mirage.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/assassins-creed-mirage.jpg"
-        },
-        {
-          "id": "https://www.vg247.com/the-elder-scrolls-6-should-look-to-the-past",
-          "author": "Fran Ruiz",
-          "description": "As we keep waiting for The Elder Scrolls 6 and – way before that – Starfield, us veteran Elder Scrolls fans keep wondering about where Bethesda might take the long-awaited sixth mainline entry of their big fantasy series. \nOf course, we are almost sure at this point about where it’s literally going: either High Rock or Hammerfell, maybe even both. But what about everything else? More importantly, what about the unavoidable rework of its moment-to-moment gameplay and RPG systems? And beyond those elements, how big can it reasonably be?\nAs I discussed in my previous The Elder Scrolls 6 speculation piece, most folks are looking at Skyrim and The Elder Scrolls Online to fantasize about the next game. And that’s not a mistake, especially if we consider the ridiculous amount of Skyrim re-releases we’ve had in little more than a decade; that game is hugely important for Bethesda Game Studios. Even though Oblivion made the franchise mainstream thanks to its key role as one of Xbox 360’s early must-plays, Skyrim’s shadow is nearly impossible to escape and has shaped the entire open-world genre, RPG or not.\n Read more",
-          "link": "https://www.vg247.com/the-elder-scrolls-6-should-look-to-the-past",
-          "publishedOn": "2022-09-06T15:58:22.000Z",
-          "wordCount": 5514,
-          "title": "Why The Elder Scrolls 6 should look to the past to create a better future for the series",
-          "imageUrl": "https://asset.vg247.com/Elder-Scrolls-6-header-history.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Elder-Scrolls-6-header-history.jpg"
-        },
-        {
-          "id": "https://www.vg247.com/cyberpunk-2077-phantom-liberty-2023-release-edgerunners-update",
-          "author": "Stephany Nunneley",
-          "description": "CD Projekt RED has released a teaser trailer for the first expansion to Cyberpunk 2077.\nTitled Phantom Liberty, it's described as a spy-thriller expansion that will be set in an all-new district of Night City.\nNot much is shown in the teaser trailer, but the country looks like it's in trouble. As far as the storyline is concerned, well, the teaser doesn't give us much in the way of that either.\n Read more",
-          "link": "https://www.vg247.com/cyberpunk-2077-phantom-liberty-2023-release-edgerunners-update",
-          "publishedOn": "2022-09-06T15:56:55.000Z",
-          "wordCount": 4605,
-          "title": "Cyberpunk 2077's first major expansion set for 2023 release, Edgerunners-based update coming today",
-          "imageUrl": "https://asset.vg247.com/cyberpunk-2077-phantom-liberty-dlc-02.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/cyberpunk-2077-phantom-liberty-dlc-02.jpg"
-        },
-        {
-          "id": "https://www.vg247.com/nintendo-is-removing-loot-boxes-from-mario-kart-tour-which-has-made-the-company-close-to-300-million",
-          "author": "Stephany Nunneley",
-          "description": "Mario Kart Tour is a rather popular mobile game for Nintendo, so much so that it has generated around $293 million for the company.\nThis is according to Sensor Tower (thanks GI.biz), which reports the figure was generated within three years of launch.\nIt is a rather popular game, and during its first week of availability, Mario Kart Tour topped 20 million downloads across Android and iOS worldwide.\n Read more",
-          "link": "https://www.vg247.com/nintendo-is-removing-loot-boxes-from-mario-kart-tour-which-has-made-the-company-close-to-300-million",
-          "publishedOn": "2022-09-06T15:28:42.000Z",
-          "wordCount": 4518,
-          "title": "Nintendo is removing loot boxes from Mario Kart Tour which has made the company close to $300 million",
-          "imageUrl": "https://asset.vg247.com/mario-kart-tour.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/mario-kart-tour.jpg"
-        },
-        {
-          "id": "https://www.vg247.com/rocksmith-plus-life-changing",
-          "author": "Dom Peppiatt",
-          "description": "Have you ever sat and listened to the bass riff in MGMT’s Electric Feel? I don’t think I ever realised, really, how integral to the song that little refrain is; the entire track is based around it! Ignore those hateful lyrics (hey, they’re a joke band, it’s fine), drink in those festival vibes, and let that bass sink into you… you feel it? Electric Feel is all about bass, I think. Why have I never learned to play that riff before? Well, I guess I’d never had someone show me how. \r\n\nNot until I was browsing the catalogues available at launch on Rocksmith+ and saw it there, nestled amongst things like Snarky Puppy’s excellent jam-rock meanderer, ‘Shofukan’, and The Eurhythmics’ seminal ‘Sweet Dreams (Are Made of This)’. I was alive in the 00s, I’ve definitely been in some shit Midlands club singing along to Electric Feel – why not plug in my bass, and give it a go.\nTurns out, that riff is one of the most fun-to-play things I’ve committed to since picking up my bass guitar at the start of the year. I’ve only been playing the bass for nine months now, and whilst there are some transferable skills from my 17 years of guitar playing, there’s also a lot of new stuff to digest. Rocksmith+ not only gives me a fun new song to play – all mapped out, delicious, and easy-to-read with a genuinely intuitive UI – but it also identifies areas I might be struggling with and ushes me towards improving.\n Read more",
-          "link": "https://www.vg247.com/rocksmith-plus-life-changing",
-          "publishedOn": "2022-09-06T15:02:07.000Z",
-          "wordCount": 5492,
-          "title": "Rocksmith+ is so much more than a sequel – it’s a life-changing educational tool",
-          "imageUrl": "https://asset.vg247.com/Rocksmith-plus-vg247.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Rocksmith-plus-vg247.jpg"
-        },
-        {
-          "id": "https://www.vg247.com/ive-got-to-admit-this-rick-and-morty-ad-for-god-of-war-ragnarok-is-pretty-funny",
-          "author": "Connor Makar",
-          "description": "There’s a new ad for God of War Ragnarok, featuring both Rick and Morty in a crossover I can safely say I wasn’t ready to see today. The game, launching on both PlayStation 4 and PlayStation 5 on November 9 takes place in a mystical norse world filled with gods and monsters, one which the duo visited briefly all for the sake of a shiny new axe and a few gags.\nThe ad itself does, admittedly, have a few jokes that made me giggle. Rick drunkenly summarising the base plot of many AAA narrative action adventures like God of War as journeys to make choices and face the consequences, as well as opening a massive golden chest to find the leviathan axe and “other unannounced upgrades” was just meta enough to get me on board.\nThis isn’t the first crossover ad Rick and Morty have been a part of. Back in 2020, American fast food restaurant Wendy’s partnered with Rick and Morty to promote some of their breakfast menu, with humanoid breakfast baconator, honey chicken biscuits and an frosty-ccino rushing down and attacking the pair with pipes and bats. Fun stuff.\n Read more",
-          "link": "https://www.vg247.com/ive-got-to-admit-this-rick-and-morty-ad-for-god-of-war-ragnarok-is-pretty-funny",
-          "publishedOn": "2022-09-06T14:44:29.000Z",
-          "wordCount": 4760,
-          "title": "I've got to admit, this Rick and Morty ad for God of War Ragnarok is pretty funny",
-          "imageUrl": "https://asset.vg247.com/god_of_war_rick_and_morty.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/god_of_war_rick_and_morty.jpg"
         }
       ]
     },
@@ -6219,16 +6129,6 @@
           "publishedOn": "2022-09-06T19:04:37.000Z",
           "wordCount": 1485,
           "title": "Fedora 39 Looks To Use DNF5 By Default For Better Performance & Improved User Experience",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/review/amd-3950x-retbleed",
-          "author": null,
-          "description": "Following the July disclosure of the Retbleed CPU security vulnerability affecting older processors and an AMD change made in August, here is a fresh look at the performance impact of the Retbleed mitigations on Linux, including if opting for the IBPB-based Retbleed mitigation, and the accumulated CPU security mitigation impact for Zen 2 with the flagship Ryzen 9 3950X processor.",
-          "link": "https://www.phoronix.com/review/amd-3950x-retbleed",
-          "publishedOn": "2022-09-06T15:00:00.000Z",
-          "wordCount": 1492,
-          "title": "Following Retbleed, The Combined CPU Security Mitigation Impact For AMD Zen 2 / Ryzen 9 3950X",
           "imageUrl": null
         }
       ]
@@ -7607,36 +7507,6 @@
           "wordCount": 4822,
           "title": "Gundam Evolution, a free-to-play mech shooter, will launch this month",
           "imageUrl": "https://assets2.rockpapershotgun.com/gundam-evolution.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/gundam-evolution.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/keanu-is-back-for-next-years-cyberpunk-2077-expansion-phantom-liberty",
-          "author": "Alice Bell",
-          "description": "In a new Night City Wire tonight, CD Project Red played the strongest card they have in their Cyberpunk 2077 deck, that being Keanu \"Nicest Guy In Hollywood\" Reeves. America's bad-ass actor dad played semi-imaginary rock anarchist (I know I'm being reductive, don't leave comments) Johnny Silverhand in the main game, and he popped up to confirm he's back for 2023's expansion - which we now know is officially called Phantom Liberty.\nThere's also the Edgerunner update dropping today, a tie-in for the Netflix anime Edgrunners (more info on that was also revealed tonight), and free-to-play mini game featuring Roach the horse, because we all like Roach the horse.\nRead more",
-          "link": "https://www.rockpapershotgun.com/keanu-is-back-for-next-years-cyberpunk-2077-expansion-phantom-liberty",
-          "publishedOn": "2022-09-06T16:11:52.000Z",
-          "wordCount": 5078,
-          "title": "Keanu is back for next year's Cyberpunk 2077 expansion Phantom Liberty",
-          "imageUrl": "https://assets2.rockpapershotgun.com/cyberpunk-phantom-liberty-reveal.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/cyberpunk-phantom-liberty-reveal.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/cd-projekt-say-netflixs-cyberpunk-edgerunners-is-100-canon-reveal-cameos-from-cyberpunk-2077-cast",
-          "author": "CJ Wheeler",
-          "description": "CD Projekt broadcast a Night City Wire stream today to give the lowdown on anime series Edgerunners and details of a tie-in update for Cyberpunk 2077. Edgerunners debuts on Netflix on September 13th, and producer Bartosz Sztybor explained a bit more about what to expect from the series. You can watch Edgerunners’ NSFW trailer below.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/cd-projekt-say-netflixs-cyberpunk-edgerunners-is-100-canon-reveal-cameos-from-cyberpunk-2077-cast",
-          "publishedOn": "2022-09-06T15:55:59.000Z",
-          "wordCount": 5042,
-          "title": "CD Projekt say Netflix's Cyberpunk: Edgerunners is \"100% canon\", reveal cameos from Cyberpunk 2077 cast",
-          "imageUrl": "https://assets2.rockpapershotgun.com/Cyberpunk-Edgerunners-main.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Cyberpunk-Edgerunners-main.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/indie-citybuilder-the-wandering-village-finally-brings-its-giant-turtle-to-town-next-week",
-          "author": "CJ Wheeler",
-          "description": "We PC gaming folk have built cities in different time periods and weather conditions, on a vast array of worlds and even in VR. I don’t think I’ve ever built one on the back of a giant animal after the apocalypse, though. Indie sci-fi citybuilder The Wandering Village will let me do that when it enters early access on Steam on September 14th. See the great lumbering beast for yourself by watching the trailer below.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/indie-citybuilder-the-wandering-village-finally-brings-its-giant-turtle-to-town-next-week",
-          "publishedOn": "2022-09-06T14:43:42.000Z",
-          "wordCount": 5011,
-          "title": "Indie citybuilder The Wandering Village finally brings its giant turtle to town next week",
-          "imageUrl": "https://assets2.rockpapershotgun.com/The-Wandering-Village-release-date.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/The-Wandering-Village-release-date.jpg"
         }
       ]
     },
@@ -10269,81 +10139,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/yKFPFk6xt9y8YVfJT3cAxY.jpg"
-        },
-        {
-          "id": "gyMggNHKaLWbRT2vkmWW2R",
-          "author": null,
-          "description": "A new board from Aaeon, the GENE-ADP6, offers Alder Lake processors and the chance to drive four screens from a tiny form factor.",
-          "link": "https://www.tomshardware.com/news/aaeon-announces-alder-lake-sbc",
-          "publishedOn": "2022-09-06T16:32:16.000Z",
-          "wordCount": 18834,
-          "title": "New Aaeon SBC Puts Alder Lake on a Tiny Board",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/QrZFVonx5JKZCFZ3oaADL7.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/QrZFVonx5JKZCFZ3oaADL7.jpg"
-        },
-        {
-          "id": "ggrFLvKRvYci87A5xrQAVF",
-          "author": null,
-          "description": "Besides the color, Cooler Master's CryoFuze Violet thermal paste delivers 12.6 W/mK and is stable at a very wide range of temperatures. It's claimed to have a balanced viscosity for easy application and removal.",
-          "link": "https://www.tomshardware.com/news/cooler-master-cryofuze-violet-thermal-paste",
-          "publishedOn": "2022-09-06T16:24:48.000Z",
-          "wordCount": 17953,
-          "title": "Cooler Master Intros CryoFuze Violet  Thermal Paste",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/EH4ABEJXKN5BYkVANLRsCW.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/EH4ABEJXKN5BYkVANLRsCW.jpg"
-        },
-        {
-          "id": "tp42iKuZTnzrgoTpxpzcdT",
-          "author": "francisco.pires@outlook.com (Francisco Pires)",
-          "description": "Here's an explanation of why we need quantum computing and all the details of how it works.",
-          "link": "https://www.tomshardware.com/features/what-is-quantum-computing",
-          "publishedOn": "2022-09-06T15:52:44.000Z",
-          "wordCount": 19248,
-          "title": "What is Quantum Computing?",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/iWjCt8g7ndNtZ2cWPevjSh.jpeg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/iWjCt8g7ndNtZ2cWPevjSh.jpeg"
-        },
-        {
-          "id": "mhixtqdxTKUjdGN6McVyoi",
-          "author": null,
-          "description": "A new VRM cooling solution has been created that will work in almost every computer case featuring a rear chassis fan, and it's actually quite useful.",
-          "link": "https://www.tomshardware.com/news/new-motherboard-vrm-cooling-solution-is-actually-useful",
-          "publishedOn": "2022-09-06T15:48:33.000Z",
-          "wordCount": 17920,
-          "title": "Funky VRM Fan Setup Is Actually Super Useful",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/SSz7gxp3bACvBsE7cF76K4.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/SSz7gxp3bACvBsE7cF76K4.jpg"
-        },
-        {
-          "id": "p3cWiDEbTS8CJDtCDcgmjf",
-          "author": null,
-          "description": "Our GPU prices index tracks graphics cards sales and prices on eBay. Prices have continued to fall over the past month, and the next-gen GPUs are on the horizon.",
-          "link": "https://www.tomshardware.com/news/gpu-pricing-index",
-          "publishedOn": "2022-09-06T14:34:59.000Z",
-          "wordCount": 19278,
-          "title": "GPU Prices 2022: Prepping for Next-Gen",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/QgTU5qti2Jc9hrpvnBRyBb.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/QgTU5qti2Jc9hrpvnBRyBb.jpg"
         }
       ]
     },
@@ -10352,6 +10147,16 @@
       "feedUrl": "https://planet.debian.org/rss20.xml",
       "siteUrl": "https://planet.debian.org/",
       "articles": [
+        {
+          "id": "https://mjg59.dreamwidth.org/61232.html",
+          "author": null,
+          "description": "Being able to SSH into remote machines and do work there is great. Using hardware security tokens for 2FA is also great. But trying to use them both at the same time doesn't work super well, because if you hit a WebAuthn request on the remote machine it doesn't matter how much you mash your token - it's not going to work.\nBut could it?\nThe SSH agent protocol abstracts key management out of SSH itself and into a separate process. When you run \"ssh-add .ssh/id_rsa\", that key is being loaded into the SSH agent. When SSH wants to use that key to authenticate to a remote system, it asks the SSH agent to perform the cryptographic signatures on its behalf. SSH also supports forwarding the SSH agent protocol over SSH itself, so if you SSH into a remote system then remote clients can also access yo…",
+          "link": "https://mjg59.dreamwidth.org/61232.html",
+          "publishedOn": "2022-09-20T02:17:22.000Z",
+          "wordCount": null,
+          "title": "Matthew Garrett: Handling WebAuthn over remote SSH connections",
+          "imageUrl": null
+        },
         {
           "id": "https://anarc.at/blog/2022-09-19-wayland-terminal-emulators/",
           "author": null,
@@ -10670,26 +10475,6 @@
           "publishedOn": "2022-09-06T20:15:24.000Z",
           "wordCount": 370,
           "title": "Louis-Philippe Véronneau: Montreal's Debian & Stuff - August 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "http://flossexperiences.wordpress.com/?p=7408",
-          "author": null,
-          "description": "History\nBefore I start, the game I was talking about is called Cell To Singularity. Now I haven’t gone much in the game as I have shared but think that the Singularity it refers to is the Technological Singularity that people think will happen. Whether that will happen or not is open to debate to one and all. This is going to be a bit long one. \nConfession Time :- When I was sharing in the blog post, I had no clue that we actually had sessions on it in this year’s Debconf. I just saw the schedule yesterday and then came to know. Then I saw Guido’s two talks, one at Debconf as well as one as Froscon. In fact, saw the Froscon talk first, and then the one at Debconf. Both the talks are nearly the same except for a thing here or a thing there.   \nNow because I was not there so my understanding…",
-          "link": "https://flossexperiences.wordpress.com/2022/09/06/debian-on-phone/",
-          "publishedOn": "2022-09-06T16:41:11.000Z",
-          "wordCount": 5549,
-          "title": "Shirish Agarwal: Debian on Phone",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
-        },
-        {
-          "id": "https://jmtd.net/log/borg_woes/",
-          "author": null,
-          "description": "I've been using Borg backup for a couple of years and it has\nseemingly worked very well for me. One difference I really appreciate from my\nprevious arrangement (rdiff-backup) is the freedom to move large\nfiles or file hierarchies around (including between different filesystems)\nwithout provoking large backup incrementals.\nAbout a week ago I had my first real problem with Borg: backups started to\nfail with the following complaints:\nCreating archive at \"/backup/borg::{hostname}-home-jon-{now:%Y-%m-%dT%H:%M:%S.%f}\"\nsegment 61916 not found, but listed in compaction data\n[ further, similar lines ]\nLocal Exception\nTraceback (most recent call last):\n  File \"/usr/lib/python3/dist-packages/borg/archiver.py\", line 4690, in main\n    exit_code = archiver.run(args)\n  File \"/usr/lib/python3/dist-package…",
-          "link": "https://jmtd.net/log/borg_woes/",
-          "publishedOn": "2022-09-06T15:29:53.000Z",
-          "wordCount": 438,
-          "title": "Jonathan Dowland: Borg corrupted hints file",
           "imageUrl": null
         }
       ]
@@ -12575,66 +12360,6 @@
           "wordCount": 1909,
           "title": "Archaeologists unearth remains of 17th century female “vampire” in Poland",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/vampTOP-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1878367",
-          "author": "Kevin Purdy",
-          "description": "Gallium nitride allows for more ports, smaller size than Apple's charger.",
-          "link": "https://arstechnica.com/?p=1878367",
-          "publishedOn": "2022-09-06T16:11:19.000Z",
-          "wordCount": 1384,
-          "title": "Hyper’s 140 W charger is a smaller brick for the biggest MacBooks",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/hyper-HJG140US-type-a-three-devices-connected-on-desk-v01-r01-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1877022",
-          "author": "Benj Edwards",
-          "description": "AI image synthesis goes open source, with big implications.",
-          "link": "https://arstechnica.com/?p=1877022",
-          "publishedOn": "2022-09-06T15:45:06.000Z",
-          "wordCount": 1772,
-          "title": "With Stable Diffusion, you may never believe what you see online again",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/stable_diffusion_hero_8-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1878393",
-          "author": "Eric Berger",
-          "description": "This stellar nursery is located in the Large Magellanic Cloud.",
-          "link": "https://arstechnica.com/?p=1878393",
-          "publishedOn": "2022-09-06T15:29:00.000Z",
-          "wordCount": 1368,
-          "title": "Astounding new Webb image reveals tens of thousands of young stars",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/stsci-01ga76rm0c11w977jrhgj5j26x-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1878390",
-          "author": "WIRED",
-          "description": "New anthology of British series actually manages to collect the work that makes it great.",
-          "link": "https://arstechnica.com/?p=1878390",
-          "publishedOn": "2022-09-06T15:01:13.000Z",
-          "wordCount": 1803,
-          "title": "Best of 2000 AD proves why the comics are classic",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/comics-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1878377",
-          "author": "Kyle Orland",
-          "description": "Valve hardware provides a simple, authentic emulated experience.",
-          "link": "https://arstechnica.com/?p=1878377",
-          "publishedOn": "2022-09-06T14:59:16.000Z",
-          "wordCount": 1468,
-          "title": "Steam Deck offers elegant dual-screen emulation for 3DS, Wii U",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/steamdeckwiiu-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1878376",
-          "author": "Financial Times",
-          "description": "Facebook is reviewing the decision.",
-          "link": "https://arstechnica.com/?p=1878376",
-          "publishedOn": "2022-09-06T14:35:38.000Z",
-          "wordCount": 1524,
-          "title": "Ireland fines Instagram 405M euro for failing to protect children’s data",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2017/09/GettyImages-540896680-760x380.jpg"
         }
       ]
     },
@@ -12643,6 +12368,26 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291512",
+          "author": null,
+          "description": "Och tidigt nästa år är det dags för öppen beta.",
+          "link": "https://www.fz.se/artikel/291512-diablo-iv-far-snart-en-end-game-beta",
+          "publishedOn": "2022-09-20T03:13:25.000Z",
+          "wordCount": 1913,
+          "title": "Diablo IV får snart en \"end game-beta\"",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291512"
+        },
+        {
+          "id": "https://www.fz.se/artikel/291511",
+          "author": null,
+          "description": "Och det finns en pc-demo att testa.",
+          "link": "https://www.fz.se/artikel/291511-vralmysiga-lego-bricktales-far-slappdatum-i-oktober",
+          "publishedOn": "2022-09-20T02:46:15.000Z",
+          "wordCount": 1765,
+          "title": "Vrålmysiga Lego Bricktales får släppdatum i oktober",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291511"
+        },
         {
           "id": "https://www.fz.se/artikel/291509",
           "author": null,
@@ -14222,16 +13967,6 @@
           "wordCount": 1857,
           "title": "Mario + Rabbids och (mycket) Assassin's Creed i lördagens Ubisoft Forward",
           "imageUrl": "https://www.fz.se/artikel/og-image/291367"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291369",
-          "author": null,
-          "description": "Release 2023, med en comebackande Keanu Reeves.",
-          "link": "https://www.fz.se/artikel/291369-forsta-teasern-fran-cyberpunk-2077-expansionen-phantom-liberty",
-          "publishedOn": "2022-09-06T15:31:11.000Z",
-          "wordCount": 2037,
-          "title": "Första teasern från Cyberpunk 2077-expansionen Phantom Liberty",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291369"
         }
       ]
     },
@@ -15187,6 +14922,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/libre_office_macos_fees/",
+          "author": null,
+          "description": "<h4>Only in the Mac App Store, as part of FOSS-for-biz strategy Foundation admits may not quickly deliver results</h4> <p>The Document Foundation, the organization that tends the open source productivity suite LibreOffice, has decided to start charging for one version of the software.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/libre_office_macos_fees/",
+          "publishedOn": "2022-09-20T04:30:11.000Z",
+          "wordCount": 1457,
+          "title": "Document Foundation starts charging €8.99 for 'free' LibreOffice",
+          "imageUrl": "https://regmedia.co.uk/2022/09/20/shutterstock_editorial_only_libreoffice.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/google_dialogflow_outage/",
+          "author": null,
+          "description": "<h4>Replace unreliable people with tireless cloudy software, they said …</h4> <p>Your correspondent once met the manager of a contact center dedicated to processing parking and speeding fines. This chap's \"customers\" were understandably nearly always unhappy, and the folks who answered the phones therefore copped more than their fair share of surliness and abuse.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/google_dialogflow_outage/",
+          "publishedOn": "2022-09-20T03:15:08.000Z",
+          "wordCount": 1270,
+          "title": "Google's AI call center agents all take the morning off",
+          "imageUrl": "https://regmedia.co.uk/2022/09/20/shutterstock_robot_call_centre.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/nasa_sls_test/",
           "author": null,
@@ -17296,36 +17051,6 @@
           "wordCount": 1353,
           "title": "Meta found guilty of flouting Washington political ad laws – again",
           "imageUrl": "https://regmedia.co.uk/2021/03/23/facebook.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/06/worok_espionage_asia/",
-          "author": null,
-          "description": "<h4>Worok uses mix of publicly available tools, custom malware to steal info, gang active since 2020</h4> <p>A cyberespionage group has targeted government agencies and big-name corporations throughout Asia since at least 2020, using the notorious ProxyShell vulnerabilities in Microsoft Exchange to gain initial access.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/06/worok_espionage_asia/",
-          "publishedOn": "2022-09-06T16:15:14.000Z",
-          "wordCount": 1579,
-          "title": "Newly discovered cyberspy crew targets Asian governments and corporations",
-          "imageUrl": "https://regmedia.co.uk/2015/01/09/shutterstock_password_sniffer3.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/06/instagram_ireland_privacy_fine_children/",
-          "author": null,
-          "description": "<h4>Meta set to the appeal the data protection authority's near $400m penalty</h4> <p>Ireland's data protection authority has fined Instagram almost $400 million for mishandling children's data.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/06/instagram_ireland_privacy_fine_children/",
-          "publishedOn": "2022-09-06T15:30:12.000Z",
-          "wordCount": 1229,
-          "title": "Instagram fined in Ireland for violating children's privacy",
-          "imageUrl": "https://regmedia.co.uk/2020/11/20/instagram.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/06/apple_app_transparency_ad_revenues/",
-          "author": null,
-          "description": "<h4>By striking down Google and Facebook, the iMaker's transformation is complete</h4> <p>Although Apple's sales pitch for the idea was protecting users' privacy, it appears the company's App Tracking Transparency (ATT) initiative has been kind to its wallet as well, pushing it to the top of the mobile app advertising market in the past year.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/06/apple_app_transparency_ad_revenues/",
-          "publishedOn": "2022-09-06T14:49:20.000Z",
-          "wordCount": 1335,
-          "title": "Apple app transparency changes bring in the ad bucks... for Apple",
-          "imageUrl": "https://regmedia.co.uk/2022/01/28/apple_shutterstock.jpg"
         }
       ]
     }

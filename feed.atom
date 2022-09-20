@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-20T02:33:50.467Z</updated>
+    <updated>2022-09-20T04:51:48.556Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Document Foundation starts charging €8.99 for 'free' LibreOffice]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/20/libre_office_macos_fees/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/20/libre_office_macos_fees/"/>
+        <updated>2022-09-20T04:30:11.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Only in the Mac App Store, as part of FOSS-for-biz strategy Foundation admits may not quickly deliver results</h4> <p>The Document Foundation, the organization that tends the open source productivity suite LibreOffice, has decided to start charging for one version of the software.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atoms is a GUI Tool to Let You Manage Linux Chroot Environments Easily]]></title>
+        <id>https://itsfoss.com/?p=102073</id>
+        <link href="https://itsfoss.com/atoms-chroot-tool/"/>
+        <updated>2022-09-20T04:11:57.000Z</updated>
+        <summary type="html"><![CDATA[A GUI program to help you manage chroot(s) with ease. Take a look at Atoms here and get started with it.]]></summary>
+        <author>
+            <name>Ankush Das</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google's AI call center agents all take the morning off]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/20/google_dialogflow_outage/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/20/google_dialogflow_outage/"/>
+        <updated>2022-09-20T03:15:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Replace unreliable people with tireless cloudy software, they said …</h4> <p>Your correspondent once met the manager of a contact center dedicated to processing parking and speeding fines. This chap's "customers" were understandably nearly always unhappy, and the folks who answered the phones therefore copped more than their fair share of surliness and abuse.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Diablo IV får snart en "end game-beta"]]></title>
+        <id>https://www.fz.se/artikel/291512</id>
+        <link href="https://www.fz.se/artikel/291512-diablo-iv-far-snart-en-end-game-beta"/>
+        <updated>2022-09-20T03:13:25.000Z</updated>
+        <summary type="html"><![CDATA[Och tidigt nästa år är det dags för öppen beta.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vrålmysiga Lego Bricktales får släppdatum i oktober]]></title>
+        <id>https://www.fz.se/artikel/291511</id>
+        <link href="https://www.fz.se/artikel/291511-vralmysiga-lego-bricktales-far-slappdatum-i-oktober"/>
+        <updated>2022-09-20T02:46:15.000Z</updated>
+        <summary type="html"><![CDATA[Och det finns en pc-demo att testa.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matthew Garrett: Handling WebAuthn over remote SSH connections]]></title>
+        <id>https://mjg59.dreamwidth.org/61232.html</id>
+        <link href="https://mjg59.dreamwidth.org/61232.html"/>
+        <updated>2022-09-20T02:17:22.000Z</updated>
+        <summary type="html"><![CDATA[Being able to SSH into remote machines and do work there is great. Using hardware security tokens for 2FA is also great. But trying to use them both at the same time doesn't work super well, because if you hit a WebAuthn request on the remote machine it doesn't matter how much you mash your token - it's not going to work.
+But could it?
+The SSH agent protocol abstracts key management out of SSH itself and into a separate process. When you run "ssh-add .ssh/id_rsa", that key is being loaded into the SSH agent. When SSH wants to use that key to authenticate to a remote system, it asks the SSH agent to perform the cryptographic signatures on its behalf. SSH also supports forwarding the SSH agent protocol over SSH itself, so if you SSH into a remote system then remote clients can also access yo…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NASA to live-stream SLS rocket fuel leak repair test]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/20/nasa_sls_test/</id>
@@ -19081,382 +19143,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Female skeleton was buried with sickle placed across her neck and a padlock on big toe.]]></summary>
         <author>
             <name>Jennifer Ouellette</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shirish Agarwal: Debian on Phone]]></title>
-        <id>http://flossexperiences.wordpress.com/?p=7408</id>
-        <link href="https://flossexperiences.wordpress.com/2022/09/06/debian-on-phone/"/>
-        <updated>2022-09-06T16:41:11.000Z</updated>
-        <summary type="html"><![CDATA[History
-Before I start, the game I was talking about is called Cell To Singularity. Now I haven’t gone much in the game as I have shared but think that the Singularity it refers to is the Technological Singularity that people think will happen. Whether that will happen or not is open to debate to one and all. This is going to be a bit long one. 
-Confession Time :- When I was sharing in the blog post, I had no clue that we actually had sessions on it in this year’s Debconf. I just saw the schedule yesterday and then came to know. Then I saw Guido’s two talks, one at Debconf as well as one as Froscon. In fact, saw the Froscon talk first, and then the one at Debconf. Both the talks are nearly the same except for a thing here or a thing there.   
-Now because I was not there so my understanding…]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's a look at God of War Ragnarök's dwarven realm of Svartalfheim]]></title>
-        <id>https://www.eurogamer.net/take-a-look-at-god-of-war-ragnaroks-dwarven-realm-of-svartalfheim-in-new-video</id>
-        <link href="https://www.eurogamer.net/take-a-look-at-god-of-war-ragnaroks-dwarven-realm-of-svartalfheim-in-new-video"/>
-        <updated>2022-09-06T16:39:40.000Z</updated>
-        <summary type="html"><![CDATA[With God of War Ragnarök inching ever closer to its 9th November release on PlayStation, the pre-launch pre-amble keeps on coming, this time with a closer look at the dwarven realm of Svartalfheim in a new video.
-
-
-Svartalfheim is, of course, one of the Nine Realms at the heart of God of War's current Norse-themed saga, and one of three - alongside Vanaheim and Asgard - that were unreachable in the first game. Players will finally be able to complete the set in Ragnarök, though, as well as getting a chance to return to previously visited realms to explore new locations.
-
-
-Svartalfheim, like other realms, can be accessed via the gateway located at the centre of the Lake of Nine (frozen over in Ragnarök thanks to the onset of Fimbulwinter) and - as detailed in a new GameInformer video - will present players with plenty of dwarven ingenuity to explore, including mine pits, artificial water channels, and sprawling cities.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Aaeon SBC Puts Alder Lake on a Tiny Board]]></title>
-        <id>gyMggNHKaLWbRT2vkmWW2R</id>
-        <link href="https://www.tomshardware.com/news/aaeon-announces-alder-lake-sbc"/>
-        <updated>2022-09-06T16:32:16.000Z</updated>
-        <summary type="html"><![CDATA[A new board from Aaeon, the GENE-ADP6, offers Alder Lake processors and the chance to drive four screens from a tiny form factor.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cooler Master Intros CryoFuze Violet  Thermal Paste]]></title>
-        <id>ggrFLvKRvYci87A5xrQAVF</id>
-        <link href="https://www.tomshardware.com/news/cooler-master-cryofuze-violet-thermal-paste"/>
-        <updated>2022-09-06T16:24:48.000Z</updated>
-        <summary type="html"><![CDATA[Besides the color, Cooler Master's CryoFuze Violet thermal paste delivers 12.6 W/mK and is stable at a very wide range of temperatures. It's claimed to have a balanced viscosity for easy application and removal.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tencent increases stakes in Ubisoft with €300m investment in Guillemot Bros]]></title>
-        <id>https://www.eurogamer.net/tencent-increases-stakes-in-ubisoft-with-300m-investment-in-guillemot-bros</id>
-        <link href="https://www.eurogamer.net/tencent-increases-stakes-in-ubisoft-with-300m-investment-in-guillemot-bros"/>
-        <updated>2022-09-06T16:17:14.000Z</updated>
-        <summary type="html"><![CDATA[Tencent is heavily investing in Ubisoft with a €300m investment in Guillemot Bros, the company run by Ubisoft's co-founders.
-
-
-Tencent now has a 49.9 percent stake in Guillemot Bros., which has the largest stake in Ubisoft.
-
-
-In turn, Tencent will bring some of Ubisoft's biggest franchises to mobile.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newly discovered cyberspy crew targets Asian governments and corporations]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/06/worok_espionage_asia/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/06/worok_espionage_asia/"/>
-        <updated>2022-09-06T16:15:14.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Worok uses mix of publicly available tools, custom malware to steal info, gang active since 2020</h4> <p>A cyberespionage group has targeted government agencies and big-name corporations throughout Asia since at least 2020, using the notorious ProxyShell vulnerabilities in Microsoft Exchange to gain initial access.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keanu is back for next year's Cyberpunk 2077 expansion Phantom Liberty]]></title>
-        <id>https://www.rockpapershotgun.com/keanu-is-back-for-next-years-cyberpunk-2077-expansion-phantom-liberty</id>
-        <link href="https://www.rockpapershotgun.com/keanu-is-back-for-next-years-cyberpunk-2077-expansion-phantom-liberty"/>
-        <updated>2022-09-06T16:11:52.000Z</updated>
-        <summary type="html"><![CDATA[In a new Night City Wire tonight, CD Project Red played the strongest card they have in their Cyberpunk 2077 deck, that being Keanu "Nicest Guy In Hollywood" Reeves. America's bad-ass actor dad played semi-imaginary rock anarchist (I know I'm being reductive, don't leave comments) Johnny Silverhand in the main game, and he popped up to confirm he's back for 2023's expansion - which we now know is officially called Phantom Liberty.
-There's also the Edgerunner update dropping today, a tie-in for the Netflix anime Edgrunners (more info on that was also revealed tonight), and free-to-play mini game featuring Roach the horse, because we all like Roach the horse.
-Read more]]></summary>
-        <author>
-            <name>Alice Bell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyper’s 140 W charger is a smaller brick for the biggest MacBooks]]></title>
-        <id>https://arstechnica.com/?p=1878367</id>
-        <link href="https://arstechnica.com/?p=1878367"/>
-        <updated>2022-09-06T16:11:19.000Z</updated>
-        <summary type="html"><![CDATA[Gallium nitride allows for more ports, smaller size than Apple's charger.]]></summary>
-        <author>
-            <name>Kevin Purdy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why The Elder Scrolls 6 should look to the past to create a better future for the series]]></title>
-        <id>https://www.vg247.com/the-elder-scrolls-6-should-look-to-the-past</id>
-        <link href="https://www.vg247.com/the-elder-scrolls-6-should-look-to-the-past"/>
-        <updated>2022-09-06T15:58:22.000Z</updated>
-        <summary type="html"><![CDATA[As we keep waiting for The Elder Scrolls 6 and – way before that – Starfield, us veteran Elder Scrolls fans keep wondering about where Bethesda might take the long-awaited sixth mainline entry of their big fantasy series. 
-Of course, we are almost sure at this point about where it’s literally going: either High Rock or Hammerfell, maybe even both. But what about everything else? More importantly, what about the unavoidable rework of its moment-to-moment gameplay and RPG systems? And beyond those elements, how big can it reasonably be?
-As I discussed in my previous The Elder Scrolls 6 speculation piece, most folks are looking at Skyrim and The Elder Scrolls Online to fantasize about the next game. And that’s not a mistake, especially if we consider the ridiculous amount of Skyrim re-releases we’ve had in little more than a decade; that game is hugely important for Bethesda Game Studios. Even though Oblivion made the franchise mainstream thanks to its key role as one of Xbox 360’s early must-plays, Skyrim’s shadow is nearly impossible to escape and has shaped the entire open-world genre, RPG or not.
- Read more]]></summary>
-        <author>
-            <name>Fran Ruiz</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberpunk 2077's first major expansion set for 2023 release, Edgerunners-based update coming today]]></title>
-        <id>https://www.vg247.com/cyberpunk-2077-phantom-liberty-2023-release-edgerunners-update</id>
-        <link href="https://www.vg247.com/cyberpunk-2077-phantom-liberty-2023-release-edgerunners-update"/>
-        <updated>2022-09-06T15:56:55.000Z</updated>
-        <summary type="html"><![CDATA[CD Projekt RED has released a teaser trailer for the first expansion to Cyberpunk 2077.
-Titled Phantom Liberty, it's described as a spy-thriller expansion that will be set in an all-new district of Night City.
-Not much is shown in the teaser trailer, but the country looks like it's in trouble. As far as the storyline is concerned, well, the teaser doesn't give us much in the way of that either.
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CD Projekt say Netflix's Cyberpunk: Edgerunners is "100% canon", reveal cameos from Cyberpunk 2077 cast]]></title>
-        <id>https://www.rockpapershotgun.com/cd-projekt-say-netflixs-cyberpunk-edgerunners-is-100-canon-reveal-cameos-from-cyberpunk-2077-cast</id>
-        <link href="https://www.rockpapershotgun.com/cd-projekt-say-netflixs-cyberpunk-edgerunners-is-100-canon-reveal-cameos-from-cyberpunk-2077-cast"/>
-        <updated>2022-09-06T15:55:59.000Z</updated>
-        <summary type="html"><![CDATA[CD Projekt broadcast a Night City Wire stream today to give the lowdown on anime series Edgerunners and details of a tie-in update for Cyberpunk 2077. Edgerunners debuts on Netflix on September 13th, and producer Bartosz Sztybor explained a bit more about what to expect from the series. You can watch Edgerunners’ NSFW trailer below.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What is Quantum Computing?]]></title>
-        <id>tp42iKuZTnzrgoTpxpzcdT</id>
-        <link href="https://www.tomshardware.com/features/what-is-quantum-computing"/>
-        <updated>2022-09-06T15:52:44.000Z</updated>
-        <summary type="html"><![CDATA[Here's an explanation of why we need quantum computing and all the details of how it works.]]></summary>
-        <author>
-            <name>francisco.pires@outlook.com (Francisco Pires)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Funky VRM Fan Setup Is Actually Super Useful]]></title>
-        <id>mhixtqdxTKUjdGN6McVyoi</id>
-        <link href="https://www.tomshardware.com/news/new-motherboard-vrm-cooling-solution-is-actually-useful"/>
-        <updated>2022-09-06T15:48:33.000Z</updated>
-        <summary type="html"><![CDATA[A new VRM cooling solution has been created that will work in almost every computer case featuring a rear chassis fan, and it's actually quite useful.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[With Stable Diffusion, you may never believe what you see online again]]></title>
-        <id>https://arstechnica.com/?p=1877022</id>
-        <link href="https://arstechnica.com/?p=1877022"/>
-        <updated>2022-09-06T15:45:06.000Z</updated>
-        <summary type="html"><![CDATA[AI image synthesis goes open source, with big implications.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keanu Reeves will return in Cyberpunk 2077's Phantom Liberty Expansion]]></title>
-        <id>https://www.eurogamer.net/keanu-reeves-will-return-in-cyberpunk-2077s-phantom-liberty-expansion</id>
-        <link href="https://www.eurogamer.net/keanu-reeves-will-return-in-cyberpunk-2077s-phantom-liberty-expansion"/>
-        <updated>2022-09-06T15:40:55.000Z</updated>
-        <summary type="html"><![CDATA[Keanu Reeves is set to reprise the role of Johnny Silverhand in the forthcoming Cyberpunk 2077 expansion Phantom Liberty.
-
-
-It will be released in 2023 across Xbox Series X/S, PlayStation 5 and PC.
-
-
-Though details are light, it will focus on a specific district of Night City and continue V's story with a new cast and plot. 
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Wandering Village launches with Linux support on September 14th]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/the-wandering-village-launches-with-linux-support-on-september-14th/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/the-wandering-village-launches-with-linux-support-on-september-14th/"/>
-        <updated>2022-09-06T15:39:15.000Z</updated>
-        <summary type="html"><![CDATA[Ready for a different kind of city builder? The Wandering Village is coming into Early Access on September 14th.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Första teasern från Cyberpunk 2077-expansionen Phantom Liberty]]></title>
-        <id>https://www.fz.se/artikel/291369</id>
-        <link href="https://www.fz.se/artikel/291369-forsta-teasern-fran-cyberpunk-2077-expansionen-phantom-liberty"/>
-        <updated>2022-09-06T15:31:11.000Z</updated>
-        <summary type="html"><![CDATA[Release 2023, med en comebackande Keanu Reeves.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instagram fined in Ireland for violating children's privacy]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/06/instagram_ireland_privacy_fine_children/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/06/instagram_ireland_privacy_fine_children/"/>
-        <updated>2022-09-06T15:30:12.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Meta set to the appeal the data protection authority's near $400m penalty</h4> <p>Ireland's data protection authority has fined Instagram almost $400 million for mishandling children's data.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jonathan Dowland: Borg corrupted hints file]]></title>
-        <id>https://jmtd.net/log/borg_woes/</id>
-        <link href="https://jmtd.net/log/borg_woes/"/>
-        <updated>2022-09-06T15:29:53.000Z</updated>
-        <summary type="html"><![CDATA[I've been using Borg backup for a couple of years and it has
-seemingly worked very well for me. One difference I really appreciate from my
-previous arrangement (rdiff-backup) is the freedom to move large
-files or file hierarchies around (including between different filesystems)
-without provoking large backup incrementals.
-About a week ago I had my first real problem with Borg: backups started to
-fail with the following complaints:
-Creating archive at "/backup/borg::{hostname}-home-jon-{now:%Y-%m-%dT%H:%M:%S.%f}"
-segment 61916 not found, but listed in compaction data
-[ further, similar lines ]
-Local Exception
-Traceback (most recent call last):
-  File "/usr/lib/python3/dist-packages/borg/archiver.py", line 4690, in main
-    exit_code = archiver.run(args)
-  File "/usr/lib/python3/dist-package…]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astounding new Webb image reveals tens of thousands of young stars]]></title>
-        <id>https://arstechnica.com/?p=1878393</id>
-        <link href="https://arstechnica.com/?p=1878393"/>
-        <updated>2022-09-06T15:29:00.000Z</updated>
-        <summary type="html"><![CDATA[This stellar nursery is located in the Large Magellanic Cloud.]]></summary>
-        <author>
-            <name>Eric Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo is removing loot boxes from Mario Kart Tour which has made the company close to $300 million]]></title>
-        <id>https://www.vg247.com/nintendo-is-removing-loot-boxes-from-mario-kart-tour-which-has-made-the-company-close-to-300-million</id>
-        <link href="https://www.vg247.com/nintendo-is-removing-loot-boxes-from-mario-kart-tour-which-has-made-the-company-close-to-300-million"/>
-        <updated>2022-09-06T15:28:42.000Z</updated>
-        <summary type="html"><![CDATA[Mario Kart Tour is a rather popular mobile game for Nintendo, so much so that it has generated around $293 million for the company.
-This is according to Sensor Tower (thanks GI.biz), which reports the figure was generated within three years of launch.
-It is a rather popular game, and during its first week of availability, Mario Kart Tour topped 20 million downloads across Android and iOS worldwide.
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDE Plasma 5.25.5 Is Out as the Last Update in the Series, Improves Multi-Monitor Support]]></title>
-        <id>https://9to5linux.com/?p=13938</id>
-        <link href="https://9to5linux.com/kde-plasma-5-25-5-is-out-as-the-last-update-in-the-series-improves-multi-monitor-support"/>
-        <updated>2022-09-06T15:14:42.000Z</updated>
-        <summary type="html"><![CDATA[KDE Plasma 5.25.5 desktop environment is now available as the last update in the series with various bug fixes and improvements. All users are urged to update as soon as possible!
-The post KDE Plasma 5.25.5 Is Out as the Last Update in the Series, Improves Multi-Monitor Support appeared first on 9to5Linux - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.]]></summary>
-        <author>
-            <name>Marius Nestor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rocksmith+ is so much more than a sequel – it’s a life-changing educational tool]]></title>
-        <id>https://www.vg247.com/rocksmith-plus-life-changing</id>
-        <link href="https://www.vg247.com/rocksmith-plus-life-changing"/>
-        <updated>2022-09-06T15:02:07.000Z</updated>
-        <summary type="html"><![CDATA[Have you ever sat and listened to the bass riff in MGMT’s Electric Feel? I don’t think I ever realised, really, how integral to the song that little refrain is; the entire track is based around it! Ignore those hateful lyrics (hey, they’re a joke band, it’s fine), drink in those festival vibes, and let that bass sink into you… you feel it? Electric Feel is all about bass, I think. Why have I never learned to play that riff before? Well, I guess I’d never had someone show me how. 
-
-Not until I was browsing the catalogues available at launch on Rocksmith+ and saw it there, nestled amongst things like Snarky Puppy’s excellent jam-rock meanderer, ‘Shofukan’, and The Eurhythmics’ seminal ‘Sweet Dreams (Are Made of This)’. I was alive in the 00s, I’ve definitely been in some shit Midlands club singing along to Electric Feel – why not plug in my bass, and give it a go.
-Turns out, that riff is one of the most fun-to-play things I’ve committed to since picking up my bass guitar at the start of the year. I’ve only been playing the bass for nine months now, and whilst there are some transferable skills from my 17 years of guitar playing, there’s also a lot of new stuff to digest. Rocksmith+ not only gives me a fun new song to play – all mapped out, delicious, and easy-to-read with a genuinely intuitive UI – but it also identifies areas I might be struggling with and ushes me towards improving.
- Read more]]></summary>
-        <author>
-            <name>Dom Peppiatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best of 2000 AD proves why the comics are classic]]></title>
-        <id>https://arstechnica.com/?p=1878390</id>
-        <link href="https://arstechnica.com/?p=1878390"/>
-        <updated>2022-09-06T15:01:13.000Z</updated>
-        <summary type="html"><![CDATA[New anthology of British series actually manages to collect the work that makes it great.]]></summary>
-        <author>
-            <name>WIRED</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Following Retbleed, The Combined CPU Security Mitigation Impact For AMD Zen 2 / Ryzen 9 3950X]]></title>
-        <id>https://www.phoronix.com/review/amd-3950x-retbleed</id>
-        <link href="https://www.phoronix.com/review/amd-3950x-retbleed"/>
-        <updated>2022-09-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Following the July disclosure of the Retbleed CPU security vulnerability affecting older processors and an AMD change made in August, here is a fresh look at the performance impact of the Retbleed mitigations on Linux, including if opting for the IBPB-based Retbleed mitigation, and the accumulated CPU security mitigation impact for Zen 2 with the flagship Ryzen 9 3950X processor.]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Deck offers elegant dual-screen emulation for 3DS, Wii U]]></title>
-        <id>https://arstechnica.com/?p=1878377</id>
-        <link href="https://arstechnica.com/?p=1878377"/>
-        <updated>2022-09-06T14:59:16.000Z</updated>
-        <summary type="html"><![CDATA[Valve hardware provides a simple, authentic emulated experience.]]></summary>
-        <author>
-            <name>Kyle Orland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple app transparency changes bring in the ad bucks... for Apple]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/06/apple_app_transparency_ad_revenues/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/06/apple_app_transparency_ad_revenues/"/>
-        <updated>2022-09-06T14:49:20.000Z</updated>
-        <summary type="html"><![CDATA[<h4>By striking down Google and Facebook, the iMaker's transformation is complete</h4> <p>Although Apple's sales pitch for the idea was protecting users' privacy, it appears the company's App Tracking Transparency (ATT) initiative has been kind to its wallet as well, pushing it to the top of the mobile app advertising market in the past year.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I've got to admit, this Rick and Morty ad for God of War Ragnarok is pretty funny]]></title>
-        <id>https://www.vg247.com/ive-got-to-admit-this-rick-and-morty-ad-for-god-of-war-ragnarok-is-pretty-funny</id>
-        <link href="https://www.vg247.com/ive-got-to-admit-this-rick-and-morty-ad-for-god-of-war-ragnarok-is-pretty-funny"/>
-        <updated>2022-09-06T14:44:29.000Z</updated>
-        <summary type="html"><![CDATA[There’s a new ad for God of War Ragnarok, featuring both Rick and Morty in a crossover I can safely say I wasn’t ready to see today. The game, launching on both PlayStation 4 and PlayStation 5 on November 9 takes place in a mystical norse world filled with gods and monsters, one which the duo visited briefly all for the sake of a shiny new axe and a few gags.
-The ad itself does, admittedly, have a few jokes that made me giggle. Rick drunkenly summarising the base plot of many AAA narrative action adventures like God of War as journeys to make choices and face the consequences, as well as opening a massive golden chest to find the leviathan axe and “other unannounced upgrades” was just meta enough to get me on board.
-This isn’t the first crossover ad Rick and Morty have been a part of. Back in 2020, American fast food restaurant Wendy’s partnered with Rick and Morty to promote some of their breakfast menu, with humanoid breakfast baconator, honey chicken biscuits and an frosty-ccino rushing down and attacking the pair with pipes and bats. Fun stuff.
- Read more]]></summary>
-        <author>
-            <name>Connor Makar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indie citybuilder The Wandering Village finally brings its giant turtle to town next week]]></title>
-        <id>https://www.rockpapershotgun.com/indie-citybuilder-the-wandering-village-finally-brings-its-giant-turtle-to-town-next-week</id>
-        <link href="https://www.rockpapershotgun.com/indie-citybuilder-the-wandering-village-finally-brings-its-giant-turtle-to-town-next-week"/>
-        <updated>2022-09-06T14:43:42.000Z</updated>
-        <summary type="html"><![CDATA[We PC gaming folk have built cities in different time periods and weather conditions, on a vast array of worlds and even in VR. I don’t think I’ve ever built one on the back of a giant animal after the apocalypse, though. Indie sci-fi citybuilder The Wandering Village will let me do that when it enters early access on Steam on September 14th. See the great lumbering beast for yourself by watching the trailer below.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ireland fines Instagram 405M euro for failing to protect children’s data]]></title>
-        <id>https://arstechnica.com/?p=1878376</id>
-        <link href="https://arstechnica.com/?p=1878376"/>
-        <updated>2022-09-06T14:35:38.000Z</updated>
-        <summary type="html"><![CDATA[Facebook is reviewing the decision.]]></summary>
-        <author>
-            <name>Financial Times</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPU Prices 2022: Prepping for Next-Gen]]></title>
-        <id>p3cWiDEbTS8CJDtCDcgmjf</id>
-        <link href="https://www.tomshardware.com/news/gpu-pricing-index"/>
-        <updated>2022-09-06T14:34:59.000Z</updated>
-        <summary type="html"><![CDATA[Our GPU prices index tracks graphics cards sales and prices on eBay. Prices have continued to fall over the past month, and the next-gen GPUs are on the horizon.]]></summary>
-        <author>
-            <name>Tomshardware</name>
         </author>
     </entry>
 </feed>
