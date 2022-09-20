@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-20T19:21:49.168Z</updated>
+    <updated>2022-09-20T20:27:20.075Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Satisfactory's update 6 revamps weapons, creature AI and exploration]]></title>
+        <id>https://www.rockpapershotgun.com/satisfactorys-update-6-revamps-weapons-creature-ai-and-exploration</id>
+        <link href="https://www.rockpapershotgun.com/satisfactorys-update-6-revamps-weapons-creature-ai-and-exploration"/>
+        <updated>2022-09-20T20:19:19.000Z</updated>
+        <summary type="html"><![CDATA[Satisfactory's update 6 is now available in the scifi craft 'em up's early access release. It makes several sweeping changes to the game, including revamping existing weapons, adding new locations to enhance exploration, and, uh, a boombox, so you can blast music while you build. There's a new update trailer below.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iRobot and Amazon agree to share data with FTC on $1.7B deal]]></title>
+        <id>https://arstechnica.com/?p=1882953</id>
+        <link href="https://arstechnica.com/?p=1882953"/>
+        <updated>2022-09-20T19:51:28.000Z</updated>
+        <summary type="html"><![CDATA[Both companies agreed to share data for FTC's investigation.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Warning: That new AMD Ryzen 7000 laptop may not be as fresh as you think]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/20/ryzen_amd_zen2/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/20/ryzen_amd_zen2/"/>
+        <updated>2022-09-20T19:45:45.000Z</updated>
+        <summary type="html"><![CDATA[<h4>The House of Zen is back to its tricks: Chips with three-year-old cores</h4> <p>AMD has apparently dug deep into its spare parts bin with today's launch of its 7020-series mobile processors, which it says will bring all-day battery life to more entry-level notebooks.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comcast promises huge boost to cable upload speeds by end of 2023]]></title>
+        <id>https://arstechnica.com/?p=1882919</id>
+        <link href="https://arstechnica.com/?p=1882919"/>
+        <updated>2022-09-20T19:20:42.000Z</updated>
+        <summary type="html"><![CDATA[Full Duplex DOCSIS expected in 2023 but won't be available to everyone at first.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta, Twitter, Apple, Google urged to up encryption game in post-Roe America]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/20/encryption_abortion_data/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/20/encryption_abortion_data/"/>
+        <updated>2022-09-20T19:19:24.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Tech giants 'throwing their users to the wolves'</h4> <p>Facebook, Twitter, Google, Apple, and others today faced renewed pressure to protect the privacy of messaging app users seeking healthcare treatment.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wasmtime 1.0 Released - Bytecode Alliance Declares It Production Ready]]></title>
         <id>https://www.phoronix.com/news/Wasmtime-1.0-Released</id>
@@ -19896,46 +19949,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[While Intel Arc Graphics is already running on the open-source Linux driver stack, Intel engineers continue improving upon and refining that DG2/Alchemist graphics card support. Overnight some fresh workarounds were merged into Mesa 22.3-devel as the latest Linux driver improvements for Intel's forthcoming discrete graphics cards...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberpunk 2077 får omfattande moddstöd]]></title>
-        <id>https://www.sweclockers.com/artikel/34880</id>
-        <link href="https://www.sweclockers.com/artikel/34880-cyberpunk-2077-far-omfattande-moddstod"/>
-        <updated>2022-09-07T08:01:24.000Z</updated>
-        <summary type="html"><![CDATA[En stor uppdatering bjuder på moddstöd via Redmod, synkroniserade framgångar mellan plattformar och nya uppdrag. Därtill ges ett smakprov på nästa expansion.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japan's NTT claims it's built 1.2Tbit/s optical comms that sip power]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/07/ntt_1_2_tbits_optical_comms/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/07/ntt_1_2_tbits_optical_comms/"/>
-        <updated>2022-09-07T07:59:14.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Cloud and 5G mean the world needs beefier backbones and NTT thinks this could build them</h4> <p>Japan's NTT Corporation claims it has developed technologies that allow data transmission at 1.2Tbit/s per wavelength in an optical system.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3 miljoner spelare har städat virtuellt i Powerwash Simulator]]></title>
-        <id>https://www.fz.se/artikel/291373</id>
-        <link href="https://www.fz.se/artikel/291373-3-miljoner-spelare-har-stadat-virtuellt-i-powerwash-simulator"/>
-        <updated>2022-09-07T07:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Roligare än att städa på riktigt?]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The answer to 3D printing equipment on Mars might lie in the Red Planet's dust]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/07/mars_dust_3d_printing/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/07/mars_dust_3d_printing/"/>
-        <updated>2022-09-07T07:37:10.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Talk about dirt cheap</h4> <p>Scientists claim they have fed a strong titanium alloy and a sprinkling of simulated Martian regolith into a 3D printer to study how future astronauts may one day be able to print tools and rocket parts in space.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
