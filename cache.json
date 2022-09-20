@@ -121,6 +121,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/09/kde-are-raising-funds-for-the-kdenlive-video-editor/",
+          "author": "Liam Dawe",
+          "description": "Kdenlive, a powerful free and open source video editor from the KDE team is now having a dedicated fundraising campaign to support the team working on it.",
+          "link": "https://www.gamingonlinux.com/2022/09/kde-are-raising-funds-for-the-kdenlive-video-editor/",
+          "publishedOn": "2022-09-20T13:08:00.000Z",
+          "wordCount": 1112,
+          "title": "KDE are raising funds for the Kdenlive video editor",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/678866743id21628gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/09/girl-genius-adventures-in-castle-heterodyne-has-a-new-trailer-up/",
           "author": "Liam Dawe",
           "description": "Girl Genius: Adventures In Castle Heterodyne, the upcoming action-adventure from Rain Games (Teslagrad / World to the West) now has a new trailer to finally show it off a bit more.",
@@ -827,6 +837,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/deathloop-grounded-valheim-lead-septembers-latest-xbox-game-pass-additions",
+          "author": "Tom Phillips",
+          "description": "Microsoft has dated September's second batch of Game Pass titles for Xbox and PC, including many which were confirmed last week during the Xbox Indie Showcase.\r\n\n\r\nOf course, this batch is undoubtedly headlined by the long-awaited arrival of Deathloop, the full version of Grounded, and indie hit Valheim on PC.\r\n\n\r\nParents and the young at heart may also be pleased to see new release Paw Patrol Grand Prix is also part of this latest update. The popular pups' take on Mario Kart joins Game Pass next week.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/deathloop-grounded-valheim-lead-septembers-latest-xbox-game-pass-additions",
+          "publishedOn": "2022-09-20T13:33:28.000Z",
+          "wordCount": 4797,
+          "title": "Deathloop, Grounded, Valheim lead September's latest Xbox Game Pass additions",
+          "imageUrl": "https://assets.reedpopcdn.com/TW_Coming-Soon_9.20.2022-31084e3c8dbb21bce347.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/TW_Coming-Soon_9.20.2022-31084e3c8dbb21bce347.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/the-opening-weekend-of-modern-warfare-2s-beta-has-been-divisive",
           "author": "Martin Robinson",
@@ -3485,6 +3505,16 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/modern-warfare-2-beta-community-reaction-same-old-complaints",
+          "author": "Sherif Saed",
+          "description": "If you tend to follow what we can charitably dub 'the Call of Duty discourse' every year, you've likely been exposed to what appear to be the same complaints, same arguments, and same suggestions made ad nauseam. This is obviously true for the yearly Call of Duty releases, but the new Modern Warfare series has been a particularly sore spot for the most devoted fans.\nThe Modern Warfare 2 beta just ended its first weekend – available on a single platform – but already, we're seeing a high level of engagement from players who jumped in since servers went live.\nWhat struck me as a little strange wasn't the volume of posts on Reddit, and social media, it was that the complaints being made about Modern Warfare 2 are the same exact ones we heard during the Modern Warfare 2019 beta and launch – often by the same people.\n Read more",
+          "link": "https://www.vg247.com/modern-warfare-2-beta-community-reaction-same-old-complaints",
+          "publishedOn": "2022-09-20T13:31:19.000Z",
+          "wordCount": 5373,
+          "title": "Modern Warfare 2 players are still complaining about things Infinity Ward clearly doesn't want to change",
+          "imageUrl": "https://asset.vg247.com/cod-ah-shit-here-we-go-again-1.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/cod-ah-shit-here-we-go-again-1.jpg"
+        },
+        {
           "id": "https://www.vg247.com/classic-wow-players-are-in-mining-hell",
           "author": "Connor Makar",
           "description": "World of Warcraft Classic players will do almost anything to head into the upcoming Wrath of the Lich King expansion launch with an advantage. If we’re being honest, building up to the release is the only thing to do right now. However, it can be a source of pain and frustration for some — be it through farming Alterac Valley or struggling to get past (the now far smaller) login queues.\nHowever, its professions that stand out as the foundation to the latest major pain point for forward-thinking players. Right now, in game, players are fighting tooth and nail over ore all around the world of Azeroth and Outland. Far from the battlegrounds and arenas are brawls over mining nodes.\n“Nodes aren’t plentiful in vanilla classic as they weren't on game release,” says Squee, a level 53 Priest levelling on the Thekal fresh server in the weeks leading up to Wrath of the Lich King. “There are only a few zones where you can get ore and level up, and at the moment, no matter which zone you go to, you’ll run into 3-4 other players running the same route”. They are one of many players currently farming mining in order to funnel resources towards jewelcrafting and / or engineering.\n Read more",
@@ -5022,6 +5052,26 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/AMD-RDNA-3-November",
+          "author": null,
+          "description": "AMD is expected to announce their Radeon RX 7000 \"RDNA 3\" graphics cards on 3 November...",
+          "link": "https://www.phoronix.com/news/AMD-RDNA-3-November",
+          "publishedOn": "2022-09-20T13:34:50.000Z",
+          "wordCount": 1378,
+          "title": "AMD RDNA 3 Being Announced On 3 November",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/OpenJDK-Java-19-Released",
+          "author": null,
+          "description": "Out today is OpenJDK Java 19 in its general availability form while adding a number of new features...",
+          "link": "https://www.phoronix.com/news/OpenJDK-Java-19-Released",
+          "publishedOn": "2022-09-20T13:00:54.000Z",
+          "wordCount": 1378,
+          "title": "OpenJDK Java 19 Released With RISC-V Linux Port, Foreign Function API",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/RADV-RT-Q2RTX-10-Percent",
           "author": null,
           "description": "Mesa's Radeon Vulkan \"RADV\" driver co-founder Bas Nieuwenhuizen has landed a set of micro-optimizations to the open-source driver for benefiting Vulkan ray-tracing performance...",
@@ -6248,6 +6298,16 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/steam-deck-shipments-get-further-ahead-of-schedule-valve-now-fulfilling-q4-orders",
+          "author": "James Archer",
+          "description": "For what is now the fifth time in a row, Valve have announced that waiting Steam Deck reservation holders will get their SteamOS handheld earlier than anticipated. That’s thanks to yet another uptick in production speed, according to a Steam Community post, so everyone whose delivery estimate was in Q3 2022 should now have received their confirmation email. Fulfilment of the final remaining Q4 batch is now fully underway, after a smaller handful of lucky Q4-ers were bumped forward into Q3. \nRead more",
+          "link": "https://www.rockpapershotgun.com/steam-deck-shipments-get-further-ahead-of-schedule-valve-now-fulfilling-q4-orders",
+          "publishedOn": "2022-09-20T13:45:46.000Z",
+          "wordCount": 4917,
+          "title": "Steam Deck shipments get further ahead of schedule, Valve now fulfilling Q4 orders",
+          "imageUrl": "https://assets2.rockpapershotgun.com/Control-on-Steam-Deck.JPG/BROK/thumbnail/1600x900/format/jpg/quality/80/Control-on-Steam-Deck.JPG"
+        },
         {
           "id": "https://www.rockpapershotgun.com/stellaris-free-35-fornax-update-adds-a-new-beginner-friendly-difficulty-setting-today",
           "author": "CJ Wheeler",
@@ -7595,6 +7655,51 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "QmxvnzGWYwCBgnji2vhdjh",
+          "author": null,
+          "description": "AMD says it will announce its RDNA 3 GPUs on November 3. This will be the AMD equivalent of what Nvidia announces today.",
+          "link": "https://www.tomshardware.com/news/amd-to-launch-rdna-3-on-november-3",
+          "publishedOn": "2022-09-20T13:29:56.000Z",
+          "wordCount": 21499,
+          "title": "AMD to Launch RDNA 3 on November 3",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/DDYjYQHAR2UCzWGvoVKCuN.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/DDYjYQHAR2UCzWGvoVKCuN.png"
+        },
+        {
+          "id": "qjqPNQvQvMWmarywv6Xwmn",
+          "author": null,
+          "description": "A new report indicates Intel's upcoming Alder Lake-N entry-level mobile processors will be the first to come with the new \"Intel Processor\" nomenclature, set to replace Pentium and Celeron.",
+          "link": "https://www.tomshardware.com/news/alder-lake-n-deletes-pentium-celeron-badging",
+          "publishedOn": "2022-09-20T13:28:02.000Z",
+          "wordCount": 21388,
+          "title": "New Alder Lake-N Chips Could Be First Without Pentium/Celeron Badging",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/imVKk2MJb3PfJ3L5sBVkrn.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/imVKk2MJb3PfJ3L5sBVkrn.jpg"
+        },
+        {
+          "id": "QtkSrbwd5ugZ875PdP7LeR",
+          "author": null,
+          "description": "AMD's 7020 Ryzen and Athlon PCs are aiming to lift up the low-to-mid-range PC market with RDNA 2 graphics and Zen 2.",
+          "link": "https://www.tomshardware.com/news/amd-ryzen-athlon-7020-apu-specs-mendocino",
+          "publishedOn": "2022-09-20T13:00:16.000Z",
+          "wordCount": 22996,
+          "title": "AMD Details 7020 Series Ryzen and Athlon ‘Mendocino’ Mobile APUs",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/MqbsfhJ2erAeLtgEdByjLP.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/MqbsfhJ2erAeLtgEdByjLP.jpg"
+        },
         {
           "id": "hofSZipdpzmSTsi2S7o5DH",
           "author": null,
@@ -10396,16 +10501,6 @@
           "wordCount": 862,
           "title": "Thorsten Alteholz: My Debian Activities in August 2022",
           "imageUrl": null
-        },
-        {
-          "id": "https://anarc.at/blog/2022-09-06-deleted-gitlab/",
-          "author": null,
-          "description": "I have just deleted two forks I had of the GitLab project in my\ngitlab.com account. I did this after receiving a warning that quotas\nwould now start to be enforced. It didn't say that I was going over\nquota, so I actually had to go look in the usage quotas page,\nwhich stated I was using 5.6GB of storage.\nI found that puzzling: maybe wallabako? I build images there in\nCI... Or the ISOs in stressant?\nNope. The biggest disk users were... my forks of gitlab-ce and\ngitlab-ee (now respectively called gitlab-foss and gitlab-ee,\nbut whatever). CE was taking up roughly 1GB and EE was taking up the\nrest.\nSo I deleted both repos, which means that the next time I want to\ncontribute a fix to their documentation — which is as far as I managed\nto contribute to GitLab — I will need to re-fork those humongous\nrepositories.\nMaybe I'm reading this wrong. Maybe there's a bug in the quotas\nsystem. Or, if I'm reading this right, GitLab is actually\ndouble-billing people: once for the source repository, and once for\nthe fork. Because surely repos are not duplicating all those blobs\non disk... right? RIGHT?\nEither case, that's rather a bad move on their part, I feel like. With\nGitHub charging 4$/user/month, it feels like GitLab is going to\nhave to trouble to compete by charging 20$/user/month as a\nchallenger...\nBut maybe it's just me: I'm not an economist, surely there's some\nbrilliant plan here I'm missing...\nIn the meantime, free-ish alternatives include Quay.io (currently\nfree for public repos) and sr.ht (2$/mth, but at least not\nopen-core, unfortunately no plan for a container registry). And\nof course, you can painfully self-host GitLab, sr.ht, gitea,\npagure, or whatever it is the current fancy gitweb.",
-          "link": "https://anarc.at/blog/2022-09-06-deleted-gitlab/",
-          "publishedOn": "2022-09-07T01:34:43.000Z",
-          "wordCount": 382,
-          "title": "Antoine Beaupré: Deleted GitLab forks from my account",
-          "imageUrl": null
         }
       ]
     },
@@ -10471,6 +10566,16 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1882419",
+          "author": "Andrew Cunningham",
+          "description": "It won't be an impressive performer, but it could still be a budget contender.",
+          "link": "https://arstechnica.com/?p=1882419",
+          "publishedOn": "2022-09-20T13:00:10.000Z",
+          "wordCount": 1641,
+          "title": "AMD’s first Ryzen 7000 mobile CPU is a mix of old and new for midrange laptops",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/AMD-mendocino-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1882731",
           "author": "Ashley Belanger",
@@ -14842,6 +14947,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/floppy_disk_business/",
+          "author": null,
+          "description": "<h4>Extinct media still in demand in some industries, and Floppydisk.com is happy to oblige</h4> <p>Floppy disks may have gone the way of the dodo and joined other extinct media such as punched cards and paper tape, but some people are apparently still using them, and one company even continues to sell them.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/floppy_disk_business/",
+          "publishedOn": "2022-09-20T13:30:13.000Z",
+          "wordCount": 1332,
+          "title": "'Last man standing in the floppy disk business' reckons his company has 4 years left",
+          "imageUrl": "https://regmedia.co.uk/2021/04/15/floppydisksshutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/microsoft_low_code_cards/",
           "author": null,
