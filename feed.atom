@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-20T07:32:03.433Z</updated>
+    <updated>2022-09-20T08:38:29.800Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux Foundation launches European division]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/20/linux_foundation_europe/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/20/linux_foundation_europe/"/>
+        <updated>2022-09-20T08:30:11.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Plans to drive more open source – and more transparency – into public sector</h4> <p><strong>Open Source Summit</strong>  The body behind the biggest open source project in the world has opened a European division.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rykte: Playstation 5 får variant med löstagbar skivläsare]]></title>
+        <id>https://www.fz.se/artikel/291514</id>
+        <link href="https://www.fz.se/artikel/291514-rykte-playstation-5-far-variant-med-lostagbar-skivlasare"/>
+        <updated>2022-09-20T07:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Som ska ersätta de existerande modellerna.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Internet Society recommends development of Solar-System-scale routing framework]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/20/ipnsig_solar_system_routing_framework/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/20/ipnsig_solar_system_routing_framework/"/>
+        <updated>2022-09-20T07:29:06.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Needs to be autonomous, interoperable, and capable of scaling to 100,000 nodes</h4> <p>The Internet Society’s Interplanetary Networking Special Interest Group (IPNSIG) has called for the development of “a common, interoperable, autonomous and scalable routing framework within the Solar System Internet.”…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xbox Series X kräver inte längre internet för Xbox One-spel på skiva]]></title>
         <id>https://www.fz.se/artikel/291513</id>
@@ -18848,134 +18878,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<h4>Online booking systems and other services knocked offline amid network intrusion</h4> <p>The IT systems of InterContinental Hotels Group, the massive hospitality organization that operates 17 hotel brands around the world, have been compromised, causing ongoing disruption to the corporation's online booking systems and other services.…</p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New 8K video footage showcases Titanic shipwreck in stunning detail]]></title>
-        <id>https://arstechnica.com/?p=1878462</id>
-        <link href="https://arstechnica.com/?p=1878462"/>
-        <updated>2022-09-06T20:22:37.000Z</updated>
-        <summary type="html"><![CDATA[OceanGate Expeditions shot the footage earlier this year with a manned submersible.]]></summary>
-        <author>
-            <name>Jennifer Ouellette</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SteelSeries Apex 9 TKL Review: Hot-Swappable Optical Switches]]></title>
-        <id>gHUNJCixkxowhLji8LnU59</id>
-        <link href="https://www.tomshardware.com/reviews/steelseries-apex-9-tkl"/>
-        <updated>2022-09-06T20:20:01.000Z</updated>
-        <summary type="html"><![CDATA[SteelSeries new Apex 9 TKL and Apex 9 Mini keyboards feature hot-swappable optical switches with adjustable 2-point actuation.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Louis-Philippe Véronneau: Montreal's Debian & Stuff - August 2022]]></title>
-        <id>tag:veronneau.org,2022-09-07:/montreals-debian-stuff-august-2022.html</id>
-        <link href="https://veronneau.org/montreals-debian-stuff-august-2022.html"/>
-        <updated>2022-09-06T20:15:24.000Z</updated>
-        <summary type="html"><![CDATA[Our local Debian user group gathered on Sunday August 28th1 at the very
-hackish Foulab for the August 2022 edition of our "Debian & Stuff"
-meetings.
-As always, the event was a success and we had lots of fun. Nine people showed
-up, including some new faces and people I hadn't seen in a while:
-On my side, although I was badly sleep-deprived 2, I still managed to be
-somewhat productive!
-One of the WiFi Access Points we use in our 4-apartment LAN had been
-boot-looping for a few weeks, after a failed sysupgrade to the latest version
-of OpenWRT. lavamind and I suspect the flash got corrupted in a way or another
-during the upgrade process...
-Lucky for us, this model has a serial port and runs U-Boot. After a
-bit of tinkering, some electrical tape and two different serial
-adapters3, we managed to identify the pin layout and got a shell on the
-machine. The device has a reset button, but since the kernel panic was
-happening too soon in the boot process, we weren't able to get into OpenWRT's
-failsafe mode this way.
-
-Once we had serial access, wiping the flash and re-installing OpenWRT fixed our
-problem. A quick ansible-playbook run later, the device was back to being
-usable and configured :)
-I was too tired to keep track of what others did, but I took some nice pictures
-of the pizza we got, and of this nice blow-up Tux wearing a Foulab t-shirt. Enjoy!
-
-
-As always, thanks to the Debian project for granting us a budget to rent the
-venue and to buy some food.
-Please excuse the late blog post, it's Harvest Season here and I've been
-  quite busy. ↩
-A bad case of wry neck kept me from sleeping properly for a while in
-  August. ↩
-As it turns out, serial connections work better when you use the
-  right pins for TX and RX! ↩]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubisoft will announce multiple Assassin's Creed titles during Ubisoft Forward - report]]></title>
-        <id>https://www.vg247.com/ubisoft-to-announce-multiple-assassins-creed-projects-report</id>
-        <link href="https://www.vg247.com/ubisoft-to-announce-multiple-assassins-creed-projects-report"/>
-        <updated>2022-09-06T20:12:41.000Z</updated>
-        <summary type="html"><![CDATA[Ubisoft will host its Ubisoft Forward showcase this weekend, and it seems the company plans to announce multiple Assassin's Creed projects.
-The company has already promised to discuss Assassin's Creed Mirage during the showcase, and it's possible it will touch upon Assassin's Creed Infinity as well. Ubisoft promised previously that additional information regarding "the future" of the Assassin's Creed franchise would be shared during Ubisoft Forward, and rumor has it the company will announce three more projects for the series.
-According to Tom Henderson, the Assassin's Creed games we will hear about have settings in Japan, 16th-century Europe during the witch hunts, and China.
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leaked “shopping list” reveals Russia’s most “desperately” needed war tech]]></title>
-        <id>https://arstechnica.com/?p=1878539</id>
-        <link href="https://arstechnica.com/?p=1878539"/>
-        <updated>2022-09-06T20:12:01.000Z</updated>
-        <summary type="html"><![CDATA[Ukraine says Russia's military arsenal has dwindled by nearly half.]]></summary>
-        <author>
-            <name>Ashley Belanger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gundam Evolution, a free-to-play mech shooter, will launch this month]]></title>
-        <id>https://www.rockpapershotgun.com/gundam-evolution-a-free-to-play-mech-shooter-will-launch-this-month</id>
-        <link href="https://www.rockpapershotgun.com/gundam-evolution-a-free-to-play-mech-shooter-will-launch-this-month"/>
-        <updated>2022-09-06T20:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Gundam Evolution is a free-to-play first-person shooter about piloting the famous anime mechs. A new video released today outlines both the game's release date - September 21st - as well as the post-release updates you can expect, including the season pass and the first batch of additional mechs.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No, Apple, you may not sell iPhones without chargers]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/06/brazil_bans_sale_of_iphones/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/06/brazil_bans_sale_of_iphones/"/>
-        <updated>2022-09-06T20:00:06.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Good for the environment? Bad for the customer, say Brazilian officials after fining iGiant, banning certain sales</h4> <p>Brazil's government is freezing certain iPhone sales in the country and fining Apple for removing chargers from its smartphones, something officials there have declared a practice harmful to consumers, despite being presented as an act of environmental heroism. …</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best 4K Gaming Monitors for PC 2022: 144Hz, Curved and More]]></title>
-        <id>TjFQQBJdBf6iU2jqpAoMB9</id>
-        <link href="https://www.tomshardware.com/reviews/best-4k-gaming-monitors-pc-144hz,6023.html"/>
-        <updated>2022-09-06T19:48:47.000Z</updated>
-        <summary type="html"><![CDATA[These are the best 4K gaming monitors available in 2022, including 144Hz, curved and HDR options.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FCC has obtained detailed broadband maps from ISPs for the first time ever]]></title>
-        <id>https://arstechnica.com/?p=1878520</id>
-        <link href="https://arstechnica.com/?p=1878520"/>
-        <updated>2022-09-06T19:39:03.000Z</updated>
-        <summary type="html"><![CDATA[FCC aims to release the most accurate US-wide broadband map to date in November.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
         </author>
     </entry>
 </feed>
