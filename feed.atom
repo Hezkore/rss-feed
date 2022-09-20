@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-20T18:31:47.890Z</updated>
+    <updated>2022-09-20T19:21:49.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wasmtime 1.0 Released - Bytecode Alliance Declares It Production Ready]]></title>
+        <id>https://www.phoronix.com/news/Wasmtime-1.0-Released</id>
+        <link href="https://www.phoronix.com/news/Wasmtime-1.0-Released"/>
+        <updated>2022-09-20T19:03:59.000Z</updated>
+        <summary type="html"><![CDATA[Way back in 2019 Intel, Mozilla, and Red Hat started the Bytecode Alliance as an initiative to promote running WebAssembly "everywhere" and expand the scope of WASM outside of the web browser. After being in development now for three years, Wasmtime 1.0 was released for this production-ready WebAssembly runtime...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel pushes out NUC mini PC with Arc graphics]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/20/intel_nuc_12_enthusiast/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/20/intel_nuc_12_enthusiast/"/>
+        <updated>2022-09-20T18:45:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>NUC NUC. Who's there? It's me again. You folks still want computers, right?</h4> <p>Intel has unveiled the latest addition to its NUC line-up, the NUC 12 Enthusiast, the first to include one of the company's Arc GPUs and targeting content creators and gamers.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It looks like Ted Lasso and AFC Richmond are coming to FIFA 23]]></title>
+        <id>https://www.eurogamer.net/it-looks-like-ted-lasso-and-afc-richmond-are-coming-to-fifa-23</id>
+        <link href="https://www.eurogamer.net/it-looks-like-ted-lasso-and-afc-richmond-are-coming-to-fifa-23"/>
+        <updated>2022-09-20T18:42:55.000Z</updated>
+        <summary type="html"><![CDATA[If FIFA 23's 700+ plus real-life football clubs somehow aren't enough to be getting on with, it looks like you'll soon be able to sling a decidedly more imaginary one onto the pile, with all signs pointing to an appearance from Ted Lasso's AFC Richmond in this year's game.
+
+
+Hints of an impending crossover with the award-winning Apple TV+ comedy series first emerged last week, when a listing for AFC Richmond - the fictional London team managed by Ted Lasso in the show - briefly appeared on EA's FIFA ratings database  before being removed.
+
+
+That might have been the end of it, but now the official Ted Lasso Twitter account has shared an image showing what appears to be Ted Lasso actor Jason Sudeikis, albeit from behind, ensconced in the FIFA team's facial capture rig - used to digitise the real-world likeness of players (and, for the first time this year, managers) for use in-game.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG releases a 17-inch laptop with an RTX 3050 Ti GPU, DDR5 RAM for $1,600]]></title>
+        <id>https://arstechnica.com/?p=1882846</id>
+        <link href="https://arstechnica.com/?p=1882846"/>
+        <updated>2022-09-20T18:39:27.000Z</updated>
+        <summary type="html"><![CDATA[Storage maxes out at 512GB, though.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CPUs and Memory Sales Drop Dramatically As PC Market Slows]]></title>
         <id>XDrjp78k6mBkB7oHZqBrSc</id>
@@ -19888,16 +19936,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<h4>Talk about dirt cheap</h4> <p>Scientists claim they have fed a strong titanium alloy and a sprinkling of simulated Martian regolith into a 3D printer to study how future astronauts may one day be able to print tools and rocket parts in space.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firewall Ultra har utannonserats till Playstation VR2]]></title>
-        <id>https://www.fz.se/artikel/291372</id>
-        <link href="https://www.fz.se/artikel/291372-firewall-ultra-har-utannonserats-till-playstation-vr2"/>
-        <updated>2022-09-07T06:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Uppföljaren till Firewall: Zero Hour.]]></summary>
-        <author>
-            <name>FZ.se</name>
         </author>
     </entry>
 </feed>
