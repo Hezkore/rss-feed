@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-20T06:09:36.957Z</updated>
+    <updated>2022-09-20T07:32:03.433Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Xbox Series X kräver inte längre internet för Xbox One-spel på skiva]]></title>
+        <id>https://www.fz.se/artikel/291513</id>
+        <link href="https://www.fz.se/artikel/291513-xbox-series-x-kraver-inte-langre-internet-for-xbox-one-spel-pa-skiva"/>
+        <updated>2022-09-20T06:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Kanske inte påverkar jättemånga i Sverige, men likväl välkommet.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snabbkoll: Vilket språk använder du i ditt operativsystem?]]></title>
+        <id>https://www.sweclockers.com/artikel/34951</id>
+        <link href="https://www.sweclockers.com/artikel/34951-snabbkoll-vilket-sprak-anvander-du-i-ditt-operativsystem"/>
+        <updated>2022-09-20T06:47:01.000Z</updated>
+        <summary type="html"><![CDATA[De flesta operativsystem har val om flera olika språk. Väljer du svenska till datorns operativsystem eller föredrar du något annat?]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creatives up in arms over claim that AI is killing human art]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/20/in_brief_ai/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/20/in_brief_ai/"/>
+        <updated>2022-09-20T06:40:12.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Plus: Cruise expanding self-driving robotaxi operations, and more</h4> <p><strong>In brief</strong>  Everyone agrees that text-to-image models are here to stay, though opinions are divided over AI-generated art.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simon Josefsson: Privilege separation of GSS-API credentials for Apache]]></title>
+        <id>https://blog.josefsson.org/?p=1482</id>
+        <link href="https://blog.josefsson.org/2022/09/20/privilege-separation-of-gss-api-credentials-for-apache/"/>
+        <updated>2022-09-20T06:40:05.000Z</updated>
+        <summary type="html"><![CDATA[To protect web resources with Kerberos you may use Apache HTTPD with mod_auth_gssapi — however, all web scripts (e.g., PHP) run under Apache will have access to the Kerberos long-term symmetric secret credential (keytab). If someone can get it, they can impersonate your server, which is bad.
+The gssproxy project makes it possible to introduce privilege separation to reduce the attack surface. There is a tutorial for RPM-based distributions (Fedora, RHEL, AlmaLinux, etc), but I wanted to get this to work on a DPKG-based distribution (Debian, Ubuntu, Trisquel, PureOS, etc) and found it worthwhile to document the process. I’m using Ubuntu 22.04 below, but have tested it on Debian 11 as well.  I have adopted the gssproxy package in Debian, and testing this setup is part of the scripted autopkg…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[China to launch space tourism by 2025, says industry veteran]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/20/china_to_shoot_tourists_into/</id>
@@ -18935,96 +18976,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[FCC aims to release the most accurate US-wide broadband map to date in November.]]></summary>
         <author>
             <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GeForce RTX 3080 Falls to $740 Amid Continued GPU Price Cuts]]></title>
-        <id>JnTGJpdnEcTrUAxRLndj27</id>
-        <link href="https://www.tomshardware.com/news/gpu-prices-september-2022"/>
-        <updated>2022-09-06T19:28:12.000Z</updated>
-        <summary type="html"><![CDATA[GPU prices at the start of September show a continued downward trend, particularly on the top models. Nvidia's RTX 3090 Ti has become almost affordable, and the RX 6900 XT now sits at just $700.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome patches high-severity 0-day, its 6th this year]]></title>
-        <id>https://arstechnica.com/?p=1878531</id>
-        <link href="https://arstechnica.com/?p=1878531"/>
-        <updated>2022-09-06T19:26:44.000Z</updated>
-        <summary type="html"><![CDATA[Security hole exists in a browser component known as Mojo.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Ultrabooks and Premium Laptops 2022]]></title>
-        <id>oDpKAasmQy4CFb4srujdf3</id>
-        <link href="https://www.tomshardware.com/best-picks/best-ultrabooks-premium-laptops"/>
-        <updated>2022-09-06T19:15:46.000Z</updated>
-        <summary type="html"><![CDATA[Our picks for the best ultrabooks (super thin and light notebooks), along with other premium laptops now.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US wants to give global chipmakers a 25% tax credit on new fabs]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/06/chips_commerce_funding_tax_credit/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/06/chips_commerce_funding_tax_credit/"/>
-        <updated>2022-09-06T19:15:13.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Plus $39 billion in subsidies for 'domestic' effort that will welcome foreign semiconductor players</h4> <p>Leading foundry operators stand to benefit from a 25 percent investment tax credit (ITC) on domestic fab projects, according to a document published by the US Department of Commerce this week.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia’s Geforce RTX 3090 Ti Is Down to Its Lowest Price: Real Deals]]></title>
-        <id>bwNQSuYTHMeRUJhUjctNXi</id>
-        <link href="https://www.tomshardware.com/news/nvidia-rtx-3090-ti-new-low-real-deals"/>
-        <updated>2022-09-06T19:11:25.000Z</updated>
-        <summary type="html"><![CDATA[It's large, expensive, and over the top! Nvidia's RTX 3090 Ti is on sale at Best Buy.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple to Buy 3D NAND Memory from Chinese YMTC]]></title>
-        <id>f2hDMH3KCRL8arj8SZKoTg</id>
-        <link href="https://www.tomshardware.com/news/apple-to-buy-3d-nand-memory-from-chinese-ymtc"/>
-        <updated>2022-09-06T19:08:36.000Z</updated>
-        <summary type="html"><![CDATA[YMTC becomes a 3D NAND flash memory supplier for Apple's products.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fedora 39 Looks To Use DNF5 By Default For Better Performance & Improved User Experience]]></title>
-        <id>https://www.phoronix.com/news/Fedora-39-DNF-Plan</id>
-        <link href="https://www.phoronix.com/news/Fedora-39-DNF-Plan"/>
-        <updated>2022-09-06T19:04:37.000Z</updated>
-        <summary type="html"><![CDATA[With Fedora 39 next spring it will likely replace DNF, libdnf, and dnf-automatic with the new DNF5 packaging tool and libdnf5 support library. DNF5 should improve the user experience and deliver better performance for dealing with software management on Fedora Linux...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberpunk 2077 gets a huge update, expansion teaser and fixes the Steam Deck preset]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/cyberpunk-2077-gets-a-huge-update-expansion-teaser-and-fixes-the-steam-deck-preset/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/cyberpunk-2077-gets-a-huge-update-expansion-teaser-and-fixes-the-steam-deck-preset/"/>
-        <updated>2022-09-06T18:49:21.000Z</updated>
-        <summary type="html"><![CDATA[The Edgerunners Update is out now for Cyberpunk 2077, along with the Cyberpunk 2077: Phantom Liberty expansion getting a reveal and a 2023 release date. Some fixes included for Steam Deck finally too.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[California passes bill requiring salary ranges on job listings]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/06/california_lawmakers_pass_bill_requiring/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/06/california_lawmakers_pass_bill_requiring/"/>
-        <updated>2022-09-06T18:30:08.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Legislation also aims to tackle wage gaps around gender, race, and ethnicity</h4> <p>California lawmakers passed a bill that aims to promote pay equity by requiring employers to post salary ranges with job listings in the state.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>

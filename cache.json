@@ -789,16 +789,6 @@
           "wordCount": 1079,
           "title": "A new Steam Deck Beta fixes various bugs causing crashes",
           "imageUrl": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_deck.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/09/cyberpunk-2077-gets-a-huge-update-expansion-teaser-and-fixes-the-steam-deck-preset/",
-          "author": "Liam Dawe",
-          "description": "The Edgerunners Update is out now for Cyberpunk 2077, along with the Cyberpunk 2077: Phantom Liberty expansion getting a reveal and a 2023 release date. Some fixes included for Steam Deck finally too.",
-          "link": "https://www.gamingonlinux.com/2022/09/cyberpunk-2077-gets-a-huge-update-expansion-teaser-and-fixes-the-steam-deck-preset/",
-          "publishedOn": "2022-09-06T18:49:21.000Z",
-          "wordCount": 1293,
-          "title": "Cyberpunk 2077 gets a huge update, expansion teaser and fixes the Steam Deck preset",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2076953755id21555gol.jpg"
         }
       ]
     },
@@ -6090,16 +6080,6 @@
           "wordCount": 1557,
           "title": "Intel Prepares Updated Linux Graphics Driver Handling For GPU Firmware",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Fedora-39-DNF-Plan",
-          "author": null,
-          "description": "With Fedora 39 next spring it will likely replace DNF, libdnf, and dnf-automatic with the new DNF5 packaging tool and libdnf5 support library. DNF5 should improve the user experience and deliver better performance for dealing with software management on Fedora Linux...",
-          "link": "https://www.phoronix.com/news/Fedora-39-DNF-Plan",
-          "publishedOn": "2022-09-06T19:04:37.000Z",
-          "wordCount": 1485,
-          "title": "Fedora 39 Looks To Use DNF5 By Default For Better Performance & Improved User Experience",
-          "imageUrl": null
         }
       ]
     },
@@ -10004,66 +9984,6 @@
             "length": "0"
           },
           "imageUrl": "https://cdn.mos.cms.futurecdn.net/mi7Rr33MQTVui2KDFav7mH.jpg"
-        },
-        {
-          "id": "JnTGJpdnEcTrUAxRLndj27",
-          "author": null,
-          "description": "GPU prices at the start of September show a continued downward trend, particularly on the top models. Nvidia's RTX 3090 Ti has become almost affordable, and the RX 6900 XT now sits at just $700.",
-          "link": "https://www.tomshardware.com/news/gpu-prices-september-2022",
-          "publishedOn": "2022-09-06T19:28:12.000Z",
-          "wordCount": 19158,
-          "title": "GeForce RTX 3080 Falls to $740 Amid Continued GPU Price Cuts",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/TnpXJ9WbRNAisqJL9swM9X.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/TnpXJ9WbRNAisqJL9swM9X.jpg"
-        },
-        {
-          "id": "oDpKAasmQy4CFb4srujdf3",
-          "author": null,
-          "description": "Our picks for the best ultrabooks (super thin and light notebooks), along with other premium laptops now.",
-          "link": "https://www.tomshardware.com/best-picks/best-ultrabooks-premium-laptops",
-          "publishedOn": "2022-09-06T19:15:46.000Z",
-          "wordCount": 23357,
-          "title": "Best Ultrabooks and Premium Laptops 2022",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/LekCjjpyVoWeFAJwZ79Tzc.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/LekCjjpyVoWeFAJwZ79Tzc.jpg"
-        },
-        {
-          "id": "bwNQSuYTHMeRUJhUjctNXi",
-          "author": null,
-          "description": "It's large, expensive, and over the top! Nvidia's RTX 3090 Ti is on sale at Best Buy.",
-          "link": "https://www.tomshardware.com/news/nvidia-rtx-3090-ti-new-low-real-deals",
-          "publishedOn": "2022-09-06T19:11:25.000Z",
-          "wordCount": 19966,
-          "title": "Nvidia’s Geforce RTX 3090 Ti Is Down to Its Lowest Price: Real Deals",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/Wq58GE8MTWLacDQyZGebuL.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/Wq58GE8MTWLacDQyZGebuL.jpg"
-        },
-        {
-          "id": "f2hDMH3KCRL8arj8SZKoTg",
-          "author": null,
-          "description": "YMTC becomes a 3D NAND flash memory supplier for Apple's products.",
-          "link": "https://www.tomshardware.com/news/apple-to-buy-3d-nand-memory-from-chinese-ymtc",
-          "publishedOn": "2022-09-06T19:08:36.000Z",
-          "wordCount": 17789,
-          "title": "Apple to Buy 3D NAND Memory from Chinese YMTC",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/6jm2vefnCVPjJ9dsjhCXUW.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/6jm2vefnCVPjJ9dsjhCXUW.jpg"
         }
       ]
     },
@@ -10072,6 +9992,16 @@
       "feedUrl": "https://planet.debian.org/rss20.xml",
       "siteUrl": "https://planet.debian.org/",
       "articles": [
+        {
+          "id": "https://blog.josefsson.org/?p=1482",
+          "author": null,
+          "description": "To protect web resources with Kerberos you may use Apache HTTPD with mod_auth_gssapi — however, all web scripts (e.g., PHP) run under Apache will have access to the Kerberos long-term symmetric secret credential (keytab). If someone can get it, they can impersonate your server, which is bad.\nThe gssproxy project makes it possible to introduce privilege separation to reduce the attack surface. There is a tutorial for RPM-based distributions (Fedora, RHEL, AlmaLinux, etc), but I wanted to get this to work on a DPKG-based distribution (Debian, Ubuntu, Trisquel, PureOS, etc) and found it worthwhile to document the process. I’m using Ubuntu 22.04 below, but have tested it on Debian 11 as well.  I have adopted the gssproxy package in Debian, and testing this setup is part of the scripted autopkg…",
+          "link": "https://blog.josefsson.org/2022/09/20/privilege-separation-of-gss-api-credentials-for-apache/",
+          "publishedOn": "2022-09-20T06:40:05.000Z",
+          "wordCount": 1864,
+          "title": "Simon Josefsson: Privilege separation of GSS-API credentials for Apache",
+          "imageUrl": null
+        },
         {
           "id": "https://mjg59.dreamwidth.org/61232.html",
           "author": null,
@@ -12245,16 +12175,6 @@
           "wordCount": 1684,
           "title": "FCC has obtained detailed broadband maps from ISPs for the first time ever",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-us-broadband-map-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1878531",
-          "author": "Dan Goodin",
-          "description": "Security hole exists in a browser component known as Mojo.",
-          "link": "https://arstechnica.com/?p=1878531",
-          "publishedOn": "2022-09-06T19:26:44.000Z",
-          "wordCount": 1328,
-          "title": "Chrome patches high-severity 0-day, its 6th this year",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/06/getty-chrome-logo-760x380.jpg"
         }
       ]
     },
@@ -12263,6 +12183,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291513",
+          "author": null,
+          "description": "Kanske inte påverkar jättemånga i Sverige, men likväl välkommet.",
+          "link": "https://www.fz.se/artikel/291513-xbox-series-x-kraver-inte-langre-internet-for-xbox-one-spel-pa-skiva",
+          "publishedOn": "2022-09-20T06:59:00.000Z",
+          "wordCount": 1742,
+          "title": "Xbox Series X kräver inte längre internet för Xbox One-spel på skiva",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291513"
+        },
         {
           "id": "https://www.fz.se/artikel/291512",
           "author": null,
@@ -13851,6 +13781,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34951",
+          "author": null,
+          "description": "De flesta operativsystem har val om flera olika språk. Väljer du svenska till datorns operativsystem eller föredrar du något annat?",
+          "link": "https://www.sweclockers.com/artikel/34951-snabbkoll-vilket-sprak-anvander-du-i-ditt-operativsystem",
+          "publishedOn": "2022-09-20T06:47:01.000Z",
+          "wordCount": 1602,
+          "title": "Snabbkoll: Vilket språk använder du i ditt operativsystem?",
+          "imageUrl": "https://www.sweclockers.com/artikel/34951/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34949",
           "author": null,
           "description": "På sin norska webbplats lägger Komplett upp information om Nvidias kommande arkitektur \"Ada Lovelace\" med tillhörande modellnamn.",
@@ -14807,6 +14747,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/in_brief_ai/",
+          "author": null,
+          "description": "<h4>Plus: Cruise expanding self-driving robotaxi operations, and more</h4> <p><strong>In brief</strong>  Everyone agrees that text-to-image models are here to stay, though opinions are divided over AI-generated art.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/in_brief_ai/",
+          "publishedOn": "2022-09-20T06:40:12.000Z",
+          "wordCount": 1530,
+          "title": "Creatives up in arms over claim that AI is killing human art",
+          "imageUrl": "https://regmedia.co.uk/2018/11/28/woman_painting.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/china_to_shoot_tourists_into/",
           "author": null,
@@ -16906,26 +16856,6 @@
           "wordCount": 1261,
           "title": "No, Apple, you may not sell iPhones without chargers",
           "imageUrl": "https://regmedia.co.uk/2020/11/06/shutterstock_brazilian_justice_system.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/06/chips_commerce_funding_tax_credit/",
-          "author": null,
-          "description": "<h4>Plus $39 billion in subsidies for 'domestic' effort that will welcome foreign semiconductor players</h4> <p>Leading foundry operators stand to benefit from a 25 percent investment tax credit (ITC) on domestic fab projects, according to a document published by the US Department of Commerce this week.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/06/chips_commerce_funding_tax_credit/",
-          "publishedOn": "2022-09-06T19:15:13.000Z",
-          "wordCount": 1850,
-          "title": "US wants to give global chipmakers a 25% tax credit on new fabs",
-          "imageUrl": "https://regmedia.co.uk/2021/02/12/chip.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/06/california_lawmakers_pass_bill_requiring/",
-          "author": null,
-          "description": "<h4>Legislation also aims to tackle wage gaps around gender, race, and ethnicity</h4> <p>California lawmakers passed a bill that aims to promote pay equity by requiring employers to post salary ranges with job listings in the state.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/06/california_lawmakers_pass_bill_requiring/",
-          "publishedOn": "2022-09-06T18:30:08.000Z",
-          "wordCount": 1276,
-          "title": "California passes bill requiring salary ranges on job listings",
-          "imageUrl": "https://regmedia.co.uk/2021/02/08/job.jpg"
         }
       ]
     }
