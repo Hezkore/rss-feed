@@ -3546,36 +3546,6 @@
           "wordCount": 4698,
           "title": "Humble Bundle's September Choice games have been announced",
           "imageUrl": "https://assets.reedpopcdn.com/crusader-kings-3s-the-royal-court-expansion-will-let-you-field-petitions-from-atop-your-throne-1621611044733.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/crusader-kings-3s-the-royal-court-expansion-will-let-you-field-petitions-from-atop-your-throne-1621611044733.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/corecell-hits-back-at-publisher-pqube-over-funding-dispute",
-          "author": "Ed Nightingale",
-          "description": "Corecell has hit back at publisher PQube, disputing its defence over withheld funds.\r\n\n\r\nLast week, PQube was under fire once again from a developer (Corecell) releasing a damning statement against the publisher. It followed earlier accusations from Coffee Talk developer Toge Productions that left the team \"feeling manipulated and exploited\".\r\n\r\n\r\n\n\r\nWith regards to its game AeternoBlade 2, Corecell claimed that PQube \"only paid a small part of the minimum guarantee of the signing milestone by the time we sent them the game and they never paid the remaining milestones\", among other issues over publishing control.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/corecell-hits-back-at-publisher-pqube-over-funding-dispute",
-          "publishedOn": "2022-09-07T11:10:15.000Z",
-          "wordCount": 4917,
-          "title": "Corecell hits back at publisher PQube over funding dispute",
-          "imageUrl": "https://assets.reedpopcdn.com/corecell-logo.png/BROK/thumbnail/1600x900/format/jpg/quality/80/corecell-logo.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/gloomwood-is-stealthy-victoriana-incarnate-and-its-already-super-good",
-          "author": "Christian Donlan",
-          "description": "Gloomwood came alive for me when I got outside. This is immersive-sim-ish territory, everything tilted towards horror and stealth. Navigating the lovingly rendered PS1 era visuals, which do help a great deal to make ordinary objects singular and creepy, I awake at the bottom of a pit with nothing but a mysterious ally, taunting me through a nearby grate before offering me a magic ring. The ring allows me to tell when I'm hidden in shadow, and once it's on my hand and the grate has been opened, I start to realise how useful it's going to be.\r\n\n\r\nMy ally is nowhere to be seen. Instead I'm in small squirrely rooms, keeping out of the path of patrolling guards, lurking in the dark, moving from one safe spot to the next. I need to get out, which might mean finding the objects needed to call a kind of grain elevator, and may mean busting my swordstick out of a nearby lockup. Gloomwood's linear but roomy: like I say, immersive-sim territory. I always know where I want to go, but my path there has a bit of leeway to it.\r\n\n\r\nCombat I quickly discover, even with the swordstick, is a bad idea. Take guards on and they'll slice your health away and slow you down. So much better to crouch, go slowly, considering the surfaces you're moving across, using the leaning buttons to check around blind corners, using patience, sweet patience, to learn the patrol routes and then go for the one-hit backstab.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/gloomwood-is-stealthy-victoriana-incarnate-and-its-already-super-good",
-          "publishedOn": "2022-09-07T11:00:00.000Z",
-          "wordCount": 4986,
-          "title": "Gloomwood is stealthy Victoriana incarnate - and it's already super good",
-          "imageUrl": "https://assets.reedpopcdn.com/gloomwood_A1q7hlW.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/gloomwood_A1q7hlW.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/heres-a-closer-look-at-multiversus-gremlin-fighter-gizmo",
-          "author": "Victoria Kennedy",
-          "description": "Following a small delay, Gremlin hero Gizmo will soon be making his debut in Warner Bros.' Smash-like brawler, MultiVersus.\r\n\n\r\nIn anticipation of his arrival, the team has shared more about Gizmo's moveset and confirmed that he will be a support character, much like the likes of Scooby-Doo's Velma.\r\n\n\r\nThe small card shared on the MultiVersus Twitter feed states that Gizmo will have a move called \"Gizmo-A-Go-Go\". This will see Gizmo attaching himself onto the back of his allies. He will also be able to \"sing and spawn musical note projectiles\" that will damage nearby enemies thanks to a move called Song of the Mogwai.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/heres-a-closer-look-at-multiversus-gremlin-fighter-gizmo",
-          "publishedOn": "2022-09-07T10:54:23.000Z",
-          "wordCount": 4594,
-          "title": "Here’s a closer look at MultiVersus’ Gremlin fighter Gizmo",
-          "imageUrl": "https://assets.reedpopcdn.com/gizmo.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/gizmo.jpg"
         }
       ]
     },
@@ -5181,6 +5151,26 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Mesa-22.2-Released",
+          "author": null,
+          "description": "The belated Mesa 22.2 was unexpectedly released today for providing the very latest open-source Linux graphics driver support not only for Intel and AMD Radeon graphics hardware but also the reverse-engineered Nouveau (NVIDIA) driver and the many smaller drivers like Etnaviv, Mali, Panfrost, the new PowerVR Vulkan driver, and the software drivers like LLVMpipe and Zink...",
+          "link": "https://www.phoronix.com/news/Mesa-22.2-Released",
+          "publishedOn": "2022-09-20T23:16:00.000Z",
+          "wordCount": 1961,
+          "title": "Mesa 22.2 Released With AMD RDNA3 Prep, Intel Arc Graphics, Many Vulkan Improvements",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/NVIDIA-515.76-Linux-Driver",
+          "author": null,
+          "description": "While not as exciting as this morning's GTC 2022 keynote and the introduction of the GeForce RTX 40 series, NVIDIA today released 515.76 as their latest production series Linux driver build...",
+          "link": "https://www.phoronix.com/news/NVIDIA-515.76-Linux-Driver",
+          "publishedOn": "2022-09-20T22:45:18.000Z",
+          "wordCount": 1463,
+          "title": "NVIDIA 515.76 Driver Released With Bug Fixes, Linux 6.0 Compatibility",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Wasmtime-1.0-Released",
           "author": null,
@@ -7846,6 +7836,36 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "rpk3q4YNBssQk7nrSYZSoJ",
+          "author": null,
+          "description": "Nvidia's Ada architecture and the presumed RTX 40-series graphics cards are slated to launch later this year. We've combed through all the rumors and leaks to put together our analysis of what we know and what we expect from Nvidia's next-generation GPUs.",
+          "link": "https://www.tomshardware.com/features/nvidia-ada-lovelace-and-geforce-rtx-40-series-everything-we-know",
+          "publishedOn": "2022-09-20T22:59:10.000Z",
+          "wordCount": 27446,
+          "title": "Nvidia Ada Lovelace and GeForce RTX 40-Series: Everything We Know",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/3H2j7h2NFtJcWYCwmTyMjh.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/3H2j7h2NFtJcWYCwmTyMjh.jpg"
+        },
+        {
+          "id": "TvbdCaSQZdUuqFP2rnBUrj",
+          "author": null,
+          "description": "After Nvidia's recent announcement of its GeForce RTX 40-series (Ada Lovelace) GPUs, AIB partners have wasted no time in announcing the custom models.",
+          "link": "https://www.tomshardware.com/news/geforce-rtx-4090-rtx-4080-gpu-roundup",
+          "publishedOn": "2022-09-20T22:21:44.000Z",
+          "wordCount": 25460,
+          "title": "GeForce RTX 4090, RTX 4080 GPU Roundup",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/8aJjeRQTg7WNbdB4tiEEtE.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/8aJjeRQTg7WNbdB4tiEEtE.jpg"
+        },
+        {
           "id": "QNfpqTmBeMvW4ARXBJpzzg",
           "author": null,
           "description": "Nvidia's next-generation flagship RTX 6000 48GB ProViz graphics card will arrive this December.",
@@ -10499,36 +10519,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/6QLZZzBLeyYAaV6jPgxMLK.jpeg"
-        },
-        {
-          "id": "c5wf4xCwPCXGwFq3Umhq7i",
-          "author": null,
-          "description": "Find the right case for your Raspberry Pi.",
-          "link": "https://www.tomshardware.com/best-picks/best-raspberry-pi-cases",
-          "publishedOn": "2022-09-07T10:41:13.000Z",
-          "wordCount": 25232,
-          "title": "The Best Raspberry Pi Cases 2022",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/q4kKkyLNtGd3Pk4LW77tB8.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/q4kKkyLNtGd3Pk4LW77tB8.jpg"
-        },
-        {
-          "id": "Z9kCMA4tVCmN3TLdRoNnBi",
-          "author": null,
-          "description": "You’ve got the Raspberry Pi Pico, but what accessories do you need to get the most from this board?",
-          "link": "https://www.tomshardware.com/best-picks/best-raspberry-pi-pico-accessories",
-          "publishedOn": "2022-09-07T10:30:14.000Z",
-          "wordCount": 20326,
-          "title": "Best Raspberry Pi Pico Accessories and Add-Ons 2022",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/cz8i6o8Y3y4vY8ygPevd3P.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/cz8i6o8Y3y4vY8ygPevd3P.jpg"
         }
       ]
     },
@@ -12780,16 +12770,6 @@
           "wordCount": 1778,
           "title": "Splatoon 3 review: Nintendo’s well of squid ink has run dry",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/splatoon3listing-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1878688",
-          "author": "Beth Mole",
-          "description": "Officials hope booster uptake will at least match seasonal flu shot coverage.",
-          "link": "https://arstechnica.com/?p=1878688",
-          "publishedOn": "2022-09-07T11:05:52.000Z",
-          "wordCount": 1846,
-          "title": "With BA.5 boosters, Biden officials herald the start of annual COVID shots",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1389964232-760x380.jpeg"
         }
       ]
     },
@@ -15104,16 +15084,6 @@
           "wordCount": 1634,
           "title": "NASA tar RISC-V till rymden",
           "imageUrl": "https://www.sweclockers.com/artikel/34882/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34883",
-          "author": null,
-          "description": "För drygt 1,5 år sedan var PC överlägsen vinnare med 75 procent av rösterna. Den här veckan blir repris för att se hur läget ser ut nu!",
-          "link": "https://www.sweclockers.com/artikel/34883-veckans-fraga-vilken-ar-din-primara-spelplattform",
-          "publishedOn": "2022-09-07T11:28:43.000Z",
-          "wordCount": 1734,
-          "title": "Veckans fråga: Vilken är din primära spelplattform?",
-          "imageUrl": "https://www.sweclockers.com/artikel/34883/og-image"
         }
       ]
     },
@@ -17621,16 +17591,6 @@
           "wordCount": 1303,
           "title": "Qualcomm targets mid-range and volume smartphones with fresh Snapdragon SoCs",
           "imageUrl": "https://regmedia.co.uk/2021/10/26/snapdragon_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/07/ovhcloud_ipv4/",
-          "author": null,
-          "description": "<h4>Anyone planning to migrate to IPv6 then? Bueller?</h4> <p>French cloud provider OVHcloud has opened up a Bring Your Own IP service, which it said allows customers to reuse existing public IPv4 blocks as failover addresses in the event of an outage.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/07/ovhcloud_ipv4/",
-          "publishedOn": "2022-09-07T10:31:11.000Z",
-          "wordCount": 1207,
-          "title": "OVHcloud opens up Bring Your Own IP service for IPv4 failover",
-          "imageUrl": "https://regmedia.co.uk/2016/06/16/ipv4_shutterstock.jpg"
         }
       ]
     }

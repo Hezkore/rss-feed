@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-20T22:30:11.623Z</updated>
+    <updated>2022-09-20T23:29:09.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mesa 22.2 Released With AMD RDNA3 Prep, Intel Arc Graphics, Many Vulkan Improvements]]></title>
+        <id>https://www.phoronix.com/news/Mesa-22.2-Released</id>
+        <link href="https://www.phoronix.com/news/Mesa-22.2-Released"/>
+        <updated>2022-09-20T23:16:00.000Z</updated>
+        <summary type="html"><![CDATA[The belated Mesa 22.2 was unexpectedly released today for providing the very latest open-source Linux graphics driver support not only for Intel and AMD Radeon graphics hardware but also the reverse-engineered Nouveau (NVIDIA) driver and the many smaller drivers like Etnaviv, Mali, Panfrost, the new PowerVR Vulkan driver, and the software drivers like LLVMpipe and Zink...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia Ada Lovelace and GeForce RTX 40-Series: Everything We Know]]></title>
+        <id>rpk3q4YNBssQk7nrSYZSoJ</id>
+        <link href="https://www.tomshardware.com/features/nvidia-ada-lovelace-and-geforce-rtx-40-series-everything-we-know"/>
+        <updated>2022-09-20T22:59:10.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia's Ada architecture and the presumed RTX 40-series graphics cards are slated to launch later this year. We've combed through all the rumors and leaks to put together our analysis of what we know and what we expect from Nvidia's next-generation GPUs.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA 515.76 Driver Released With Bug Fixes, Linux 6.0 Compatibility]]></title>
+        <id>https://www.phoronix.com/news/NVIDIA-515.76-Linux-Driver</id>
+        <link href="https://www.phoronix.com/news/NVIDIA-515.76-Linux-Driver"/>
+        <updated>2022-09-20T22:45:18.000Z</updated>
+        <summary type="html"><![CDATA[While not as exciting as this morning's GTC 2022 keynote and the introduction of the GeForce RTX 40 series, NVIDIA today released 515.76 as their latest production series Linux driver build...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GeForce RTX 4090, RTX 4080 GPU Roundup]]></title>
+        <id>TvbdCaSQZdUuqFP2rnBUrj</id>
+        <link href="https://www.tomshardware.com/news/geforce-rtx-4090-rtx-4080-gpu-roundup"/>
+        <updated>2022-09-20T22:21:44.000Z</updated>
+        <summary type="html"><![CDATA[After Nvidia's recent announcement of its GeForce RTX 40-series (Ada Lovelace) GPUs, AIB partners have wasted no time in announcing the custom models.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Morgan Stanley fined $35m after customers' personal info left on sold-off hard drives]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/20/mssb_sec_fine/</id>
@@ -19689,112 +19729,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[En chans att själv fixa saker du är missnöjd med.]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veckans fråga: Vilken är din primära spelplattform?]]></title>
-        <id>https://www.sweclockers.com/artikel/34883</id>
-        <link href="https://www.sweclockers.com/artikel/34883-veckans-fraga-vilken-ar-din-primara-spelplattform"/>
-        <updated>2022-09-07T11:28:43.000Z</updated>
-        <summary type="html"><![CDATA[För drygt 1,5 år sedan var PC överlägsen vinnare med 75 procent av rösterna. Den här veckan blir repris för att se hur läget ser ut nu!]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Corecell hits back at publisher PQube over funding dispute]]></title>
-        <id>https://www.eurogamer.net/corecell-hits-back-at-publisher-pqube-over-funding-dispute</id>
-        <link href="https://www.eurogamer.net/corecell-hits-back-at-publisher-pqube-over-funding-dispute"/>
-        <updated>2022-09-07T11:10:15.000Z</updated>
-        <summary type="html"><![CDATA[Corecell has hit back at publisher PQube, disputing its defence over withheld funds.
-
-
-Last week, PQube was under fire once again from a developer (Corecell) releasing a damning statement against the publisher. It followed earlier accusations from Coffee Talk developer Toge Productions that left the team "feeling manipulated and exploited".
-
-
-
-
-With regards to its game AeternoBlade 2, Corecell claimed that PQube "only paid a small part of the minimum guarantee of the signing milestone by the time we sent them the game and they never paid the remaining milestones", among other issues over publishing control.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[With BA.5 boosters, Biden officials herald the start of annual COVID shots]]></title>
-        <id>https://arstechnica.com/?p=1878688</id>
-        <link href="https://arstechnica.com/?p=1878688"/>
-        <updated>2022-09-07T11:05:52.000Z</updated>
-        <summary type="html"><![CDATA[Officials hope booster uptake will at least match seasonal flu shot coverage.]]></summary>
-        <author>
-            <name>Beth Mole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gloomwood is stealthy Victoriana incarnate - and it's already super good]]></title>
-        <id>https://www.eurogamer.net/gloomwood-is-stealthy-victoriana-incarnate-and-its-already-super-good</id>
-        <link href="https://www.eurogamer.net/gloomwood-is-stealthy-victoriana-incarnate-and-its-already-super-good"/>
-        <updated>2022-09-07T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Gloomwood came alive for me when I got outside. This is immersive-sim-ish territory, everything tilted towards horror and stealth. Navigating the lovingly rendered PS1 era visuals, which do help a great deal to make ordinary objects singular and creepy, I awake at the bottom of a pit with nothing but a mysterious ally, taunting me through a nearby grate before offering me a magic ring. The ring allows me to tell when I'm hidden in shadow, and once it's on my hand and the grate has been opened, I start to realise how useful it's going to be.
-
-
-My ally is nowhere to be seen. Instead I'm in small squirrely rooms, keeping out of the path of patrolling guards, lurking in the dark, moving from one safe spot to the next. I need to get out, which might mean finding the objects needed to call a kind of grain elevator, and may mean busting my swordstick out of a nearby lockup. Gloomwood's linear but roomy: like I say, immersive-sim territory. I always know where I want to go, but my path there has a bit of leeway to it.
-
-
-Combat I quickly discover, even with the swordstick, is a bad idea. Take guards on and they'll slice your health away and slow you down. So much better to crouch, go slowly, considering the surfaces you're moving across, using the leaning buttons to check around blind corners, using patience, sweet patience, to learn the patrol routes and then go for the one-hit backstab.
- 
-Read more]]></summary>
-        <author>
-            <name>Christian Donlan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here’s a closer look at MultiVersus’ Gremlin fighter Gizmo]]></title>
-        <id>https://www.eurogamer.net/heres-a-closer-look-at-multiversus-gremlin-fighter-gizmo</id>
-        <link href="https://www.eurogamer.net/heres-a-closer-look-at-multiversus-gremlin-fighter-gizmo"/>
-        <updated>2022-09-07T10:54:23.000Z</updated>
-        <summary type="html"><![CDATA[Following a small delay, Gremlin hero Gizmo will soon be making his debut in Warner Bros.' Smash-like brawler, MultiVersus.
-
-
-In anticipation of his arrival, the team has shared more about Gizmo's moveset and confirmed that he will be a support character, much like the likes of Scooby-Doo's Velma.
-
-
-The small card shared on the MultiVersus Twitter feed states that Gizmo will have a move called "Gizmo-A-Go-Go". This will see Gizmo attaching himself onto the back of his allies. He will also be able to "sing and spawn musical note projectiles" that will damage nearby enemies thanks to a move called Song of the Mogwai.
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Raspberry Pi Cases 2022]]></title>
-        <id>c5wf4xCwPCXGwFq3Umhq7i</id>
-        <link href="https://www.tomshardware.com/best-picks/best-raspberry-pi-cases"/>
-        <updated>2022-09-07T10:41:13.000Z</updated>
-        <summary type="html"><![CDATA[Find the right case for your Raspberry Pi.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OVHcloud opens up Bring Your Own IP service for IPv4 failover]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/07/ovhcloud_ipv4/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/07/ovhcloud_ipv4/"/>
-        <updated>2022-09-07T10:31:11.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Anyone planning to migrate to IPv6 then? Bueller?</h4> <p>French cloud provider OVHcloud has opened up a Bring Your Own IP service, which it said allows customers to reuse existing public IPv4 blocks as failover addresses in the event of an outage.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Raspberry Pi Pico Accessories and Add-Ons 2022]]></title>
-        <id>Z9kCMA4tVCmN3TLdRoNnBi</id>
-        <link href="https://www.tomshardware.com/best-picks/best-raspberry-pi-pico-accessories"/>
-        <updated>2022-09-07T10:30:14.000Z</updated>
-        <summary type="html"><![CDATA[You’ve got the Raspberry Pi Pico, but what accessories do you need to get the most from this board?]]></summary>
-        <author>
-            <name>Tomshardware</name>
         </author>
     </entry>
 </feed>
