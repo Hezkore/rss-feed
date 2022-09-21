@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-20T23:29:09.624Z</updated>
+    <updated>2022-09-21T02:44:56.109Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft debuts Windows 11 2022 Update – now with features added monthly]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/21/windows_11_2022_h2/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/21/windows_11_2022_h2/"/>
+        <updated>2022-09-21T01:45:09.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Oh. Joy.</h4> <p>Microsoft has released the Windows 11 2022 Update – and promised that it will both continue issuing annual big bang releases and start to add new features on a monthly cadence.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon's Roomba acquisition gets caught on FTC's rug]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/21/ftc_amazon_irobot_one_medial/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/21/ftc_amazon_irobot_one_medial/"/>
+        <updated>2022-09-21T00:59:04.000Z</updated>
+        <summary type="html"><![CDATA[<h4>The Wrath of Khan</h4> <p>America's Federal Trade Commission is investigating Amazon's proposed acquisition of iRobot, the Roomba robot vacuum cleaner maker, and has asked for more information about the deal from the technology pair.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oracle Cloud at one point would let you access any other customer's data]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/21/oracle_fixes_critical_cloud_vuln/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/21/oracle_fixes_critical_cloud_vuln/"/>
+        <updated>2022-09-21T00:14:14.000Z</updated>
+        <summary type="html"><![CDATA[<h4>chmod a+rw at hyperscale</h4> <p>A "critical" Oracle Cloud Infrastructure vulnerability could have been exploited by any customer to read and write data belonging to any other OCI customer without any permission checks, according to Wiz security researchers.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GeForce RTX 40-Series GPUs Are 22% More Expensive in Europe]]></title>
+        <id>svfHrVUSADxZrefnAErpYS</id>
+        <link href="https://www.tomshardware.com/news/geforce-rtx-40-series-gpus-are-22-more-expensive-in-europe"/>
+        <updated>2022-09-20T23:50:54.000Z</updated>
+        <summary type="html"><![CDATA[While Nvidia's new flagship graphics card costs less than GeForce RTX 3090 Ti at launch, other offerings get more expensive.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia unveils RTX 4090 – but it's the 4080 to watch out for]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/20/nvidia_rtx_40_series/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/20/nvidia_rtx_40_series/"/>
+        <updated>2022-09-20T23:40:24.000Z</updated>
+        <summary type="html"><![CDATA[<h4>And don't forget AMD's RDNA 3 GPUs are right around the corner</h4> <p>Nvidia CEO Jensen Huang unveiled his GPU giant's flagship RTX 40-series graphics cards at GTC today.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mesa 22.2 Released With AMD RDNA3 Prep, Intel Arc Graphics, Many Vulkan Improvements]]></title>
         <id>https://www.phoronix.com/news/Mesa-22.2-Released</id>
@@ -19267,468 +19317,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[AMD has updated its mobile CPU model numbers for 2023 ahead of a new range of CPUs, including Mendocino and Dragon Range.]]></summary>
         <author>
             <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Radeon RX 7000-Series and RDNA 3 GPUs: Everything We Know]]></title>
-        <id>LgNtv8DwATFiH2poUPPuFm</id>
-        <link href="https://www.tomshardware.com/features/amd-radeon-rx-7000-rdna-3-price-performance-benchmarks-release-date"/>
-        <updated>2022-09-07T14:43:12.000Z</updated>
-        <summary type="html"><![CDATA[AMD's upcoming RDNA 3 architecture and the Radeon RX 7000-series will ship before the end of the year. We look into the details and rumors of when to expect these GPUs.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pokemon Scarlet and Violet will feature an open-world storyline, new Pokemon, and a Let's Go mechanic]]></title>
-        <id>https://www.vg247.com/pokemon-scarlet-violet-open-world-storyline-new-pokemon</id>
-        <link href="https://www.vg247.com/pokemon-scarlet-violet-open-world-storyline-new-pokemon"/>
-        <updated>2022-09-07T14:40:41.000Z</updated>
-        <summary type="html"><![CDATA[Nintendo has provided more information on Pokemon Scarlet and Violet by detailing multiple story paths, new features, new characters, and more Pokemon from the Paldea region.
-In the games, you are enrolled in a school that hosts an independent study project called A Treasure Hunt. Three stories will be woven into your adventures while traversing the Paldea region.
-One is called Victory Road, and it finds you going to Gyms in different locations to achieve Champion Rank. The second is Path of Legends. Here, Upperclassmen Arven will join you in search of rare ingredients called Herba Mystica. The third story is called Starfall Street and finds you challenging Team Star, a "group of delinquents" causing trouble for the school.
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testpilot: AOC 24G2SPU – Full HD för massorna, igen]]></title>
-        <id>https://www.sweclockers.com/artikel/34766</id>
-        <link href="https://www.sweclockers.com/artikel/34766-testpilot-aoc-24g2spu-full-hd-for-massorna-igen"/>
-        <updated>2022-09-07T14:36:58.000Z</updated>
-        <summary type="html"><![CDATA[När AOC för tredje gången i ordning ger sig ut för att erbjuda en bildskärm för den prismedveten PC-spelaren är det mycket som är sig likt]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Efforts to ID Tulsa race massacre victims raise privacy issues]]></title>
-        <id>https://arstechnica.com/?p=1878779</id>
-        <link href="https://arstechnica.com/?p=1878779"/>
-        <updated>2022-09-07T14:35:27.000Z</updated>
-        <summary type="html"><![CDATA[Project uses genealogy website that can be accessed by law enforcement.]]></summary>
-        <author>
-            <name>WIRED</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Details New Model Numbering System For 2023 Mobile Processors]]></title>
-        <id>https://www.phoronix.com/news/AMD-New-Model-SKUs-2023</id>
-        <link href="https://www.phoronix.com/news/AMD-New-Model-SKUs-2023"/>
-        <updated>2022-09-07T14:30:14.000Z</updated>
-        <summary type="html"><![CDATA[Due to bringing a number of new SoC designs to market next year and trying to make their model numbers easier to decipher, AMD announced this morning a new naming system for Ryzen mobile processors...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I joined a Classic WoW zombie horde — killing low level players has never been so fun]]></title>
-        <id>https://www.vg247.com/i-joined-a-classic-wow-zombie-horde-killing-low-level-players-has-never-been-so-fun</id>
-        <link href="https://www.vg247.com/i-joined-a-classic-wow-zombie-horde-killing-low-level-players-has-never-been-so-fun"/>
-        <updated>2022-09-07T14:27:45.000Z</updated>
-        <summary type="html"><![CDATA[Zombies have started taking over and causing havoc across Classic WoW, thanks to the legendary plague event added to the game early this morning. Across World of Warcraft, suspicious boxes can be found in hubs such as Booty Bay, which allows players to self-infect and go off and be mischievous.
-To find out more about the Classic WoW zombie experience, I jumped in (before the massive queue times started) and met up with several players looking to make a mess in Classic WoW, through a truly limited, special event that may never return again.
-My gateway to a zombie adventure was Millehouse, a level 48 Rogue in my guild who was going to great lengths to make the lives of horde players significantly spookier. They told me via in-game whispers: “I got to the crossroads and infected like 30 people. I don’t kill them, I just infect them so it can spread.”
- Read more]]></summary>
-        <author>
-            <name>Connor Makar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pokémon Scarlet and Violet Switch OLED model announced]]></title>
-        <id>https://www.eurogamer.net/pokemon-scarlet-and-violet-switch-oled-model-announced</id>
-        <link href="https://www.eurogamer.net/pokemon-scarlet-and-violet-switch-oled-model-announced"/>
-        <updated>2022-09-07T14:26:41.000Z</updated>
-        <summary type="html"><![CDATA[Nintendo has announced a Nintendo Switch OLED model with new designs based on Pokémon Scarlet and Violet which will go on sale shortly before the game releases.
-
-The news arrived alongside the latest trailer for Scarlet and Violet, which dropped earlier today. 
-
-On Twitter, Nintendo posted a video of the model, complete with some shiny visual effects, to show off the Scarlet and Violet inspired designs.
- 
-Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are Hawaii’s beach showers in violation of the Clean Water Act?]]></title>
-        <id>https://arstechnica.com/?p=1878757</id>
-        <link href="https://arstechnica.com/?p=1878757"/>
-        <updated>2022-09-07T14:06:57.000Z</updated>
-        <summary type="html"><![CDATA[Showers likely a “point source” of sunscreen contamination and a threat to coral reefs.]]></summary>
-        <author>
-            <name>Undark Magazine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Splatoon 3 review: you’ll buy it for the multiplayer – but its single-player story mode is an absolute blast]]></title>
-        <id>https://www.vg247.com/splatoon-3-review</id>
-        <link href="https://www.vg247.com/splatoon-3-review"/>
-        <updated>2022-09-07T14:04:07.000Z</updated>
-        <summary type="html"><![CDATA[A couple of weeks ago, I described Splatoon 3 as a ‘difficult game to preview’, largely because of its iterative nature. It’s like reviewing a Call of Duty game, I suppose – bits and pieces change from one game to another, but the development machine for such an established franchise has gotten so sophisticated and so well-defined that any review inevitably isn’t going to be talking about big-ticket changes. It’s a little nip here, a little tuck there, and a modest extension to an under-developed feature. 
-
-To put it another way, jumping from Splatoon 2 to this latest sequel is more like renovating a beloved old house rather than outright moving. That leads to a natural early conclusion of this review, and it’s a time-honored cliche: if you liked old Splatoon, you’ll love this! It’s like that, but better! Well, duh. Obviously. 
-This also means that the sentiment expressed in the preview carries over here; it’s a difficult game to review. I could get into the minutiae of things like new weapons, new fashion looks, a barnstorming new mode in the form of the three-way turf war, or the improved Salmon Run mode, for instance. But then I’m waxing lyrical for thousands of words getting into tight specifics that, honestly, the hardcore probably already know, having voraciously consumed pre-release content, and the casual probably don’t particularly care to know. 
- 
-Read more]]></summary>
-        <author>
-            <name>Alex Donaldson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Raspberry Pi Accessories of 2022]]></title>
-        <id>tQ9WZjGhWb26FPqscA5tsh</id>
-        <link href="https://www.tomshardware.com/best-picks/best-raspberry-pi-accessories"/>
-        <updated>2022-09-07T14:04:00.000Z</updated>
-        <summary type="html"><![CDATA[From cases to keyboards, wires and cameras, these products will help you make the most of your Raspberry Pi.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phantom Liberty den "enda planerade expansionen" till Cyberpunk 2077]]></title>
-        <id>https://www.fz.se/artikel/291378</id>
-        <link href="https://www.fz.se/artikel/291378-phantom-liberty-den-enda-planerade-expansionen-till-cyberpunk-2077"/>
-        <updated>2022-09-07T14:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Första och sista?]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Splatoon 3 review: Nintendo’s well of squid ink has run dry]]></title>
-        <id>https://arstechnica.com/?p=1878698</id>
-        <link href="https://arstechnica.com/?p=1878698"/>
-        <updated>2022-09-07T14:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Nintendo's "coolest" series has run out of fresh ideas, both online and off.]]></summary>
-        <author>
-            <name>Sam Machkovech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mandiant links APT42 to Iranian 'terrorist org']]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/07/mandiant_apt42_irgc/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/07/mandiant_apt42_irgc/"/>
-        <updated>2022-09-07T14:00:08.000Z</updated>
-        <summary type="html"><![CDATA[<h4>'It's hard to imagine a more dangerous scenario,' Mandiant Intel VP told The Reg</h4> <p>Mandiant has named a new threat group, APT42, that it says functions as the cyberspy arm of Iran's Islamic Revolutionary Guard Corps (IRGC), which has plotted to murder US citizens including former National Security Advisor John Bolton.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Splatoon 3 review - a lot more of the brilliant same]]></title>
-        <id>https://www.eurogamer.net/splatoon-3-review-a-lot-more-of-the-brilliant-same</id>
-        <link href="https://www.eurogamer.net/splatoon-3-review-a-lot-more-of-the-brilliant-same"/>
-        <updated>2022-09-07T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[When it comes to Nintendo's most significant releases of the past 10 years, most would - quite rightly - point towards the towering achievement of The Legend of Zelda: The Breath of the Wild, though for me there's a game that came out a few years before that's every bit as important. The Wii U era was a commercial nadir for Nintendo, enlightened by the spark of something new; the lurid splash of colour that was Splatoon, a long-awaited all-new IP from the house that built Mario, and an impeccably enjoyable subversion of the modern-day shooter. For a company that can be too quick to fall back on the familiar, it offered the shock of the genuinely new. 
-What's more, Splatoon was a huge success and has since become nothing short of a phenomenon, with convenience stores in Tokyo stocked with o…]]></summary>
-        <author>
-            <name>Martin Robinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender 3.3 Released With Intel oneAPI Backend, Improved AMD HIP Support]]></title>
-        <id>https://www.phoronix.com/news/Blender-3.3-Released</id>
-        <link href="https://www.phoronix.com/news/Blender-3.3-Released"/>
-        <updated>2022-09-07T13:59:01.000Z</updated>
-        <summary type="html"><![CDATA[Blender 3.3 is out this morning as the newest version of this widely-used, open-source and cross-platform 3D modeling software...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Latest PlayStation 5 Revision Uses 10% Less Power Than Predecessors]]></title>
-        <id>EnYzbEfdwoNyqfQDCSqUwC</id>
-        <link href="https://www.tomshardware.com/news/latest-playstation-5-revision-uses-10-percent-less-power"/>
-        <updated>2022-09-07T13:57:17.000Z</updated>
-        <summary type="html"><![CDATA[The PS5 ‘1200’ model has a significantly smaller motherboard, and a more compact cooling system (with more copper). It also runs games while using 10% less power, a preliminary inspection has shown.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony's new PS5 model uses less power during games]]></title>
-        <id>https://www.eurogamer.net/sonys-new-ps5-model-uses-less-power-during-games</id>
-        <link href="https://www.eurogamer.net/sonys-new-ps5-model-uses-less-power-during-games"/>
-        <updated>2022-09-07T13:57:00.000Z</updated>
-        <summary type="html"><![CDATA[The insides of Sony's newest PS5 model have been redesigned to use less power.
-
-
-A new lighter model was spotted last month in Australia, though it was unclear what changes had been made.
-
-
-
-Now, YouTuber Austin Evans has ripped open the new model to discover plenty of changes (thanks The Verge).
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://shencomix.tumblr.com/post/694743061077639168</id>
-        <link href="https://shencomix.tumblr.com/post/694743061077639168"/>
-        <updated>2022-09-07T13:50:13.000Z</updated>
-        <author>
-            <name>Shen Comix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tencent are working in concert with Ubisoft’s founding family after €300m investment]]></title>
-        <id>https://www.rockpapershotgun.com/tencent-are-working-in-concert-with-ubisofts-founding-family-after-300m-investment</id>
-        <link href="https://www.rockpapershotgun.com/tencent-are-working-in-concert-with-ubisofts-founding-family-after-300m-investment"/>
-        <updated>2022-09-07T13:43:49.000Z</updated>
-        <summary type="html"><![CDATA[Chinese media giants Tencent have invested €300 million (£260 million) in the company operated by Ubisoft’s founding family, the Guillemots. The deal will see Tencent bring some of Ubisoft’s most well known game series to mobile, and to PC in China. Tencent’s investment in Guillemot Brothers Limited follows speculation last month that they were looking to take out a bigger stake in Ubisoft, even becoming the single largest shareholders.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Reveals Strategy for $50 Billion CHIPS Fund: Who Gets What?]]></title>
-        <id>RDFgzunCPLn2tMMdE6oSJN</id>
-        <link href="https://www.tomshardware.com/news/us-reveals-strategy-for-50-billion-usd-chips-fund"/>
-        <updated>2022-09-07T13:32:58.000Z</updated>
-        <summary type="html"><![CDATA[The $50 billion Chips Act budget will be shared between makers of logic and memory chips, developers of advanced technologies.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spout Off]]></title>
-        <id>https://tapas.io/episode/2635226</id>
-        <link href="https://tapas.io/episode/2635226"/>
-        <updated>2022-09-07T13:32:52.000Z</updated>
-        <author>
-            <name>J. L. Westover</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NZXT Signal 4K30 – streaming med trubbel]]></title>
-        <id>https://www.fz.se/artikel/290797</id>
-        <link href="https://www.fz.se/artikel/290797-nzxt-signal-4k30-streaming-med-trubbel"/>
-        <updated>2022-09-07T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[NZXT lanserar ett helt bedrövligt inspelningskort, som behöver tillbaka till ritbordet.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NZXT Signal 4K30 – perfekt om man avskyr ljud]]></title>
-        <id>https://www.fz.se/artikel/290797</id>
-        <link href="https://www.fz.se/artikel/290797-nzxt-signal-4k30-perfekt-om-man-avskyr-ljud"/>
-        <updated>2022-09-07T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[NZXT lanserar ett helt bedrövligt inspelningskort, som måste tillbaka till ritbordet.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Pokémon Scarlet and Violet trailer shows off more of its open world]]></title>
-        <id>https://www.eurogamer.net/new-pokemon-scarlet-and-violet-trailer-shows-off-more-of-its-open-world-1</id>
-        <link href="https://www.eurogamer.net/new-pokemon-scarlet-and-violet-trailer-shows-off-more-of-its-open-world-1"/>
-        <updated>2022-09-07T13:28:16.000Z</updated>
-        <summary type="html"><![CDATA[A new trailer for Pokémon Scarlet and Violet details more of what we can expect to find in its open world.
-
-
-That includes three new Pokémon introduced here: the crab-like Klawf, plus the fire warrior Armarouge (Scarlet), and its ghostly counterpart Ceruledge (Violet) - could these be Bisharp regional evolutions?
-
-
-Titled Seek Your Treasure, the trailer introduces the Treasure Hunt that forms a special independent study project depending on the version played. Check it out below.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best PC and Laptop Deals]]></title>
-        <id>MckYZQqDYNe5oYuCQLcNCf</id>
-        <link href="https://www.tomshardware.com/news/best-gaming-pc-deals"/>
-        <updated>2022-09-07T13:06:29.000Z</updated>
-        <summary type="html"><![CDATA[We've gathered the top pre-built desktop and laptop deals you can find.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taking CHIPS Act cash? You're banned from planting advanced fabs on Chinese soil]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/07/chips_act_ban_on_advanced_china_builds/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/07/chips_act_ban_on_advanced_china_builds/"/>
-        <updated>2022-09-07T13:00:14.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Rules apply for next decade, warns Commerce Department, which can claw back cash</h4> <p>US Commerce Secretary Gina Raimondo has warned that the US Commerce Department "has the ability to claw back money" if recipients of CHIPS Act semiconductor manufacturing grants "compromise national security" by developing leading-edge tech in China in the next decade.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taking CHIPS Act cash? You're banned from planting advanced fabs on Chinese soil]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/07/taking_chips_act_money_no/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/07/taking_chips_act_money_no/"/>
-        <updated>2022-09-07T13:00:14.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Rules apply for next decade, warns Commerce Department, which can claw back cash</h4> <p>US Commerce Secretary Gina Raimondo has warned that the US Commerce Department "has the ability to claw back money" if recipients of CHIPS Act semiconductor manufacturing grants "compromise national security" by developing leading-edge tech in China in the next decade.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steelrising review: this steampunk Soulslike take on the French Revolution doesn't execute on its cool premise]]></title>
-        <id>https://www.rockpapershotgun.com/steelrising-review</id>
-        <link href="https://www.rockpapershotgun.com/steelrising-review"/>
-        <updated>2022-09-07T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I'm an enormous fan of the premise of Steelrising (which is good, because enormous fans are also a weapon in it). In it, we're whisked to an alternative history where King Louis XVI stopped the French Revolution before it properly got going by, err, killing everyone with steampunk robots. You're Aegis, a feminine robot created to entertain and protect Queen Marie Antoinette. Marie, safe outside Paris but somewhat peeved at her husband's new penchant for extreme mass murder, sends you on a Soulslike mission to sort it all out.
-This takes some doing, but luckily Aegis is a very advanced robot, the bestest of all the robots. Slight but adaptive with it, and even having an advanced AI, Aegis can carve a swift path through the more than usually twisted metal in her way. It's a bit too easy, in fact.
-Read more]]></summary>
-        <author>
-            <name>Alice Bell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guardians of the Galaxy director once pitched a Hitman movie]]></title>
-        <id>https://www.eurogamer.net/guardians-of-the-galaxy-director-once-pitched-a-hitman-movie</id>
-        <link href="https://www.eurogamer.net/guardians-of-the-galaxy-director-once-pitched-a-hitman-movie"/>
-        <updated>2022-09-07T12:58:24.000Z</updated>
-        <summary type="html"><![CDATA[Guardians of the Galaxy director James Gunn has said he once pitched a Hitman movie, but it never saw the light of day.
-
-
-Sharing the news on Twitter, Gunn revealed he made the pitch for a film focused on IO Interactive's bald and ever adaptable assassin just "weeks" before he got the Guardians of the Galaxy gig.
-
-
-"The studio really wanted to hire me, but a producer on the project did not," he recalled.
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA tar RISC-V till rymden]]></title>
-        <id>https://www.sweclockers.com/artikel/34882</id>
-        <link href="https://www.sweclockers.com/artikel/34882-nasa-tar-risc-v-till-rymden"/>
-        <updated>2022-09-07T12:47:00.000Z</updated>
-        <summary type="html"><![CDATA[Processorvärldens motsvarighet till öppen källkod, RISC-V, fortsätter öka i popularitet och ska nu bli grunden till NASA:s nästa rymddatorer.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cybercriminals target games popular with kids to distribute malware]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/07/gaming_threats_kaspersky/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/07/gaming_threats_kaspersky/"/>
-        <updated>2022-09-07T12:34:49.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Kaspersky research finds Minecraft and Roblox have the most malicious files associated with them</h4> <p>With 3 billion players globally, the $200 billion gaming market is an increasingly ripe target for cybercriminals – with the perennially popular Minecraft one of the most targeted lures.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AeternoBlade 2 devs hit back at PQube over game's publishing rights]]></title>
-        <id>https://www.rockpapershotgun.com/aeternoblade-2-devs-hit-back-at-pqube-over-games-publishing-rights</id>
-        <link href="https://www.rockpapershotgun.com/aeternoblade-2-devs-hit-back-at-pqube-over-games-publishing-rights"/>
-        <updated>2022-09-07T12:20:07.000Z</updated>
-        <summary type="html"><![CDATA[Indie developers Corecell have responded to UK-based publisher PQube with another statement this time critiquing PQube’s contention that they tried to return the console rights to action puzzler AeternoBlade 2. Corecell came forward last week with the second accusation made by an indie team against PQube in less than a month, following A Space For The Unbound devs Mojiken Studio’s claims in late August. Both studios claim PQube withheld money from them.
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Raspberry Pi HATs 2022: Expansion Boards for Every Project]]></title>
-        <id>ChvogkfkFcw3jUJNtxfpY6</id>
-        <link href="https://www.tomshardware.com/best-picks/best-raspberry-pi-hats"/>
-        <updated>2022-09-07T12:04:28.000Z</updated>
-        <summary type="html"><![CDATA[The Raspberry Pi HATs (Hardware Attached on Top) bring tons of extra functionality to your Pi. The best HATs allow you to build a retro gaming machine, develop an A.I., power a robot or just learn about programming.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elegoo Mars 3 Pro Resin Printer Review: Elegoo’s Latest Small Volume Printer]]></title>
-        <id>sGxUqQq5mXvZ9iCR5dYDPc</id>
-        <link href="https://www.tomshardware.com/reviews/elegoo-mars-3-pro-resin-printer"/>
-        <updated>2022-09-07T12:00:06.000Z</updated>
-        <summary type="html"><![CDATA[A nice upgrade even over the Mars 3.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qualcomm targets mid-range and volume smartphones with fresh Snapdragon SoCs]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/07/latest_snapdragon_socs_target_midrange/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/07/latest_snapdragon_socs_target_midrange/"/>
-        <updated>2022-09-07T11:50:12.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Both platforms based on Kyro semi-custom Arm CPUs</h4> <p>Qualcomm has unveiled fresh smartphone platforms in its widely used Snapdragon mobile line that target the mid-range and mass-volume segments respectively.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steelrising]]></title>
-        <id>https://www.fz.se/artikel/291375</id>
-        <link href="https://www.fz.se/artikel/291375-steelrising"/>
-        <updated>2022-09-07T11:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Ett fascinerande soulslike mitt i franska revolutionen. Men det borde ha gjorts bättre.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phantom Liberty may be the only planned expansion for Cyberpunk 2077]]></title>
-        <id>https://www.eurogamer.net/phantom-liberty-may-be-the-only-planned-expansion-for-cyberpunk-2077</id>
-        <link href="https://www.eurogamer.net/phantom-liberty-may-be-the-only-planned-expansion-for-cyberpunk-2077"/>
-        <updated>2022-09-07T11:41:54.000Z</updated>
-        <summary type="html"><![CDATA[It looks like Phantom Liberty could be the only planned expansion for Cyberpunk 2077.
-
-
-Yesterday, CD Projekt Red confirmed the name of the forthcoming expansion due in 2023 and the return of Keanu Reeves as Johnny Silverhand during its Edgerunners livestream.
-
-
-
-However, a comment on a YouTube video teasing the expansion suggests it could be the only one.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Humble Bundle's September Choice games have been announced]]></title>
-        <id>https://www.eurogamer.net/humble-bundles-september-choice-games-have-been-announced</id>
-        <link href="https://www.eurogamer.net/humble-bundles-september-choice-games-have-been-announced"/>
-        <updated>2022-09-07T11:41:15.000Z</updated>
-        <summary type="html"><![CDATA[Humble Bundle has announced the games included in its September Choice. 
-
-Humble Choice is a subscription service which offers a monthly set of games to own forever, as well as access to the Humble Games Collection library and members-only discounts in the store.
-
-This month's Choice games are:
- 
-Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raspberry Pi OS Updated With Desktop Improvements, NetworkManager, Picamera2]]></title>
-        <id>https://www.phoronix.com/news/Raspberry-Pi-OS-Sep-2022</id>
-        <link href="https://www.phoronix.com/news/Raspberry-Pi-OS-Sep-2022"/>
-        <updated>2022-09-07T11:40:13.000Z</updated>
-        <summary type="html"><![CDATA[The Raspberry Pi Foundation has just announced a new release of their Debian-based Raspberry Pi OS (formerly known as Raspbian) as their reference Linux distribution for running on these low-cost Arm single-board computers...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bygg om Cyberpunk 2077 - modverktyget Redmod släppt]]></title>
-        <id>https://www.fz.se/artikel/291379</id>
-        <link href="https://www.fz.se/artikel/291379-bygg-om-cyberpunk-2077-modverktyget-redmod-slappt"/>
-        <updated>2022-09-07T11:33:28.000Z</updated>
-        <summary type="html"><![CDATA[En chans att själv fixa saker du är missnöjd med.]]></summary>
-        <author>
-            <name>FZ.se</name>
         </author>
     </entry>
 </feed>
