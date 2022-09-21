@@ -80,16 +80,6 @@
           "wordCount": 8094,
           "title": "10 Destructive Linux Commands You Should Never Run",
           "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/09/destructive-linux-commands.png"
-        },
-        {
-          "id": "https://itsfoss.com/?p=101630",
-          "author": "Anuj Sharma",
-          "description": "Kommiku is a feature-rich manga reader available exclusively for Linux. Try it out!",
-          "link": "https://itsfoss.com/komikku-manga-reader/",
-          "publishedOn": "2022-09-08T04:15:50.000Z",
-          "wordCount": 6956,
-          "title": "Komikku: A Free and Open-Source Manga Reader for Linux",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/09/komikku-manga-reader.jpg"
         }
       ]
     },
@@ -145,6 +135,16 @@
       "feedUrl": "http://www.gamingonlinux.com/news_rss.php",
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
+        {
+          "id": "https://www.gamingonlinux.com/2022/09/steam-beta-lets-you-create-a-collection-filtered-by-games-you-and-friends-own/",
+          "author": "Liam Dawe",
+          "description": "Here's a rather useful feature Valve just added to a recent release of the Steam Beta Client. You can now filter your Steam Library based on what you and your Steam Friends own.",
+          "link": "https://www.gamingonlinux.com/2022/09/steam-beta-lets-you-create-a-collection-filtered-by-games-you-and-friends-own/",
+          "publishedOn": "2022-09-21T15:52:51.000Z",
+          "wordCount": 1157,
+          "title": "Steam Beta lets you create a collection filtered by games you and friends own",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1678912417id21636gol.jpg"
+        },
         {
           "id": "https://www.gamingonlinux.com/2022/09/minigalaxy-a-simple-open-source-gog-client-for-linux-adds-lots-of-new-features/",
           "author": "Liam Dawe",
@@ -882,6 +882,56 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/logitech-g-cloud-is-as-close-to-an-xbox-handheld-as-well-probably-get",
+          "author": "Wesley Yin-Poole",
+          "description": "Microsoft has announced support for the Logitech G Cloud handheld console via Xbox Cloud Gaming.\r\n\n\r\nThe Logitech G Cloud, which launches in North America on 17th October priced $299.99, is an Android-based streaming-only handheld that comes with Xbox Cloud Gaming pre-installed.\r\n\n\r\nWith full Xbox Cloud Gaming support, it will play games in the Xbox Game Pass Ultimate subscription, including the likes of Grounded, Sea of Thieves, Halo Infinite and the recently-added Deathloop. You can play Fortnite for free, without a Game Pass subscription.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/logitech-g-cloud-is-as-close-to-an-xbox-handheld-as-well-probably-get",
+          "publishedOn": "2022-09-21T16:35:35.000Z",
+          "wordCount": 4657,
+          "title": "Logitech G Cloud is as close to an Xbox handheld as we'll probably get",
+          "imageUrl": "https://assets.reedpopcdn.com/Halo-White-ATF-03-2400px-by-1350px-e5479a57c5c33b4c3f75.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Halo-White-ATF-03-2400px-by-1350px-e5479a57c5c33b4c3f75.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/acclaimed-tropical-island-mystery-call-of-the-sea-is-getting-a-vr-adaptation",
+          "author": "Matt Wales",
+          "description": "Call of the Sea, developer Out of the Blue's glorious tropical island mystery adventure, is getting a VR adaptation for Meta Quest 2, with the project currently set to release next year.\r\n\n\r\nCall of the Sea - which initially launched for PC and consoles at the tail-end of 2020 - tells the story of Norah Everhart (voiced by Firewatch and The Walking Dead: Season One's Cissy Jones), as she investigates a beautiful South Pacific island, circa 1934, in search of her missing husband.\r\n\n\r\nWhat follows is a captivating, often ingenious blend of story, exploration, and puzzling that successfully hits some powerful emotional beats even as it tips gently into cosmic weirdness.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/acclaimed-tropical-island-mystery-call-of-the-sea-is-getting-a-vr-adaptation",
+          "publishedOn": "2022-09-21T16:13:26.000Z",
+          "wordCount": 4531,
+          "title": "Acclaimed tropical island mystery Call of the Sea is getting a VR adaptation",
+          "imageUrl": "https://assets.reedpopcdn.com/call-of-the-sea-art.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/call-of-the-sea-art.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/trombone-champ-is-the-magnum-opus-of-trombone-rhythm-games",
+          "author": "Liv Ngan",
+          "description": "Tooting up a storm on the internet is the recently released Trombone Champ.\r\n\nIt's a music rhythm game where you play a trombone. Sounds simple, right?\r\n\nYou'd be wrong. Even though there's some of the most famous classical pieces included, like Beethoven's Fifth Symphony and Dance of the Sugar Plum Fairy, and even the national anthem, no amount of music knowledge will save you here.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/trombone-champ-is-the-magnum-opus-of-trombone-rhythm-games",
+          "publishedOn": "2022-09-21T16:12:42.000Z",
+          "wordCount": 5057,
+          "title": "Trombone Champ is the magnum opus of trombone rhythm games",
+          "imageUrl": "https://assets.reedpopcdn.com/tchamp1920hero.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/tchamp1920hero.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/embracer-boss-hoped-for-a-better-reception-for-saints-row-following-games-buggy-release",
+          "author": "Victoria Kennedy",
+          "description": "Embracer co-founder Lars Wingefors has spoken to investors about the release of Saints Row, admitting he had hoped the game would have received a \"better reception\".\r\n\n\r\nWingefors, whose company owns Saints Row developer Volition, acknowledged that views on the series' reboot had been \"polarised\" following its bug-laced release - in Eurogamer's Saints Row review, Vikki Blake noted that its 'Unto the Breach' mission was unplayable for her.\r\n\n\r\n\"There are a lot of things that could be said and details around it. I'm happy to see a lot of gamers and fans happy. At the same time I'm a bit sad to see fans also not happy,\" Lars told investors (via Axios' Stephen Totilo). \r\n \nRead more",
+          "link": "https://www.eurogamer.net/embracer-boss-hoped-for-a-better-reception-for-saints-row-following-games-buggy-release",
+          "publishedOn": "2022-09-21T16:08:58.000Z",
+          "wordCount": 4735,
+          "title": "Embracer boss hoped for a \"better reception\" for Saints Row, following game's buggy release",
+          "imageUrl": "https://assets.reedpopcdn.com/saints-row.png/BROK/thumbnail/1600x900/format/jpg/quality/80/saints-row.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/afghanistan-is-latest-country-to-ban-pubg",
+          "author": "Tom Phillips",
+          "description": "Afghanistan has become the latest in a string of countries to ban PUBG, with the game now expected to be made unplayable in the country within the next 90 days. \r\n\n\r\nWriting on Twitter, the director of the ruling Taliban government's media and information centre stated that the game would be blocked, alongside social app TikTok, for its effects on young people (thanks, PCGamesN). \r\n\n\r\nIndia, Pakistan, China and Jordan have also previously banned PUBG, whose mobile version specifically became particularly popular in these countries.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/afghanistan-is-latest-country-to-ban-pubg",
+          "publishedOn": "2022-09-21T16:04:11.000Z",
+          "wordCount": 4466,
+          "title": "Afghanistan is latest country to ban PUBG",
+          "imageUrl": "https://assets.reedpopcdn.com/pubg-dev-confirms-arrest-of-15-cheat-hack-developers-as-its-own-anti-cheat-efforts-continue-1525126506683.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/pubg-dev-confirms-arrest-of-15-cheat-hack-developers-as-its-own-anti-cheat-efforts-continue-1525126506683.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/minecraft-collaborates-with-bbc-earth-on-frozen-planet-worlds",
           "author": "Ed Nightingale",
@@ -3680,6 +3730,36 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/ted-lasso-afc-richmond-fifa-23",
+          "author": "Stephany Nunneley",
+          "description": "Ted Lasso's soccer team AFC Richmond will be made available in FIFA 23.\nThe football club will be usable in Career Mode, Kickoff, Online Friendlies, and Online Seasons.\nYou will also be handed several AFC Richmond items including kits, Manager items, and other content as you unlock it across FIFA Ultimate Team and Pro Clubs where applicable.\n Read more",
+          "link": "https://www.vg247.com/ted-lasso-afc-richmond-fifa-23",
+          "publishedOn": "2022-09-21T16:10:47.000Z",
+          "wordCount": 4770,
+          "title": "Ted Lasso and AFC Richmond will be included in FIFA 23",
+          "imageUrl": "https://asset.vg247.com/fifa-23_ted_lasso.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/fifa-23_ted_lasso.jpg"
+        },
+        {
+          "id": "https://www.vg247.com/gta-6-leaks-forget-what-you-think-you-know-about-game-development",
+          "author": "Steve Burns",
+          "description": "Like many, my first thought upon seeing the GTA 6 leak was ‘fuck’. The second was a flashback to the protocols which had occurred when leaks or security breaches, no matter how minor, had happened when I was on the development side of the industry: usually, angry-faced men bursting into a room and demanding nobody touch anything. The third thought was what Rockstar, the king of image control and information flow, would do now. My mind ran to that sequence from The Bourne Identity, where an embattled CIA station chief demands the agency ‘get everybody up’. Everybody, in this instance, being a set of assassins, each with cool names and even colder intentions.   \r\n\r\n\nTo my knowledge, Matt Damon is not involved, and Rockstar’s brass has not dispatched Clive Owen to have a gun-point philosophical chat with the person responsible for this leak, much as it perhaps would like to. It has, however, teamed with the FBI, so maybe I wasn’t that far off. Either way, the response will be swift and all-encompassing, like what happened with the closest thing I can think of to this, the Half-Life 2 leak. (And we all know what happened there.)   \r\n\r\n\nThe reasons for such a response are obvious. There is a gigantic financial element in play here. There are security concerns regarding source code and other exposures which could well derail an entire project. And then there’s reputational damage, which has already occurred. Seconds after the leak, the internet was awash with people disappointed with how it looked. That it looked like shit. That if this was what it looks like, it would be a huge disappointment and, just quietly, what have the (lazy?) devs been up to all this time?  \r\n\r\n \nRead more",
+          "link": "https://www.vg247.com/gta-6-leaks-forget-what-you-think-you-know-about-game-development",
+          "publishedOn": "2022-09-21T15:56:20.000Z",
+          "wordCount": 5715,
+          "title": "GTA 6 leaks: Forget what you think you know about game development",
+          "imageUrl": "https://asset.vg247.com/GTA-6-leak-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/GTA-6-leak-header.jpg"
+        },
+        {
+          "id": "https://www.vg247.com/scorn-eight-minutes-of-gameplay",
+          "author": "Stephany Nunneley",
+          "description": "Eight minutes of new gameplay for the upcoming horror game Scorn has been released, providing you with a look at the first puzzle.\nIn this introductory sequence, you will become acquainted with the character you’ll guide through the bio-labyrinth.\nThe game features no assistance as you work your way into the depths of the game's world, equipping yourself with odd tools and solving a gruesome puzzle that \"only hints towards things to come.\"\n Read more",
+          "link": "https://www.vg247.com/scorn-eight-minutes-of-gameplay",
+          "publishedOn": "2022-09-21T15:37:27.000Z",
+          "wordCount": 4545,
+          "title": "Latest Scorn trailer shows eight minutes of grotesque atmosphere and puzzles",
+          "imageUrl": "https://asset.vg247.com/scorn-prologue-screens-(9).jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/scorn-prologue-screens-(9).jpg"
+        },
+        {
           "id": "https://www.vg247.com/2k-reset-passwords-help-desk-hacked",
           "author": "Stephany Nunneley",
           "description": "2K Games is warning customers to change their passwords after an \"unauthorized third party\" gained access to its customer support platform.\nAccording to 2K, customer information became available to the unauthorized individual(s) who proceeded to send out emails containing a malicious link.\nThe company warns customers should they receive an email from support not to click on any link directing them to reset their passwords.\n Read more",
@@ -5247,6 +5327,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/GNOME-43-Released",
+          "author": null,
+          "description": "GNOME 43 is out today as the newest version of this popular open-source desktop environment used by Fedora Workstation, Ubuntu, and many other Linux distributions...",
+          "link": "https://www.phoronix.com/news/GNOME-43-Released",
+          "publishedOn": "2022-09-21T15:30:00.000Z",
+          "wordCount": 1206,
+          "title": "GNOME 43 Released With More Apps Ported To GTK4, Wayland Enhancements",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Framework-Laptop-Chromebook",
           "author": null,
           "description": "The Framework Laptop has proven to be very popular with enthusiasts thanks to its focus on the ability for users to make repairs and upgrades to their laptop. Google has even taken notice and they in cooperation with Framework Computer Inc have launched a Chromebook Edition laptop...",
@@ -6503,6 +6593,46 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/whats-better-ding-or-the-howie-scream",
+          "author": "Alice O'Connor",
+          "description": "Last time, you decided that impossible geometry is better than games playing the music CD left in your drive. As someone definitely not attempting to rig the vote, I respect people on both sides yet am pleased by this outcome. This week, ah sure, why not have another crack at pitting two similar-ish things against each other. It feels against the spirit of the competition but I'm curious. Let's try two sounds. What's better: ding! or the Howie scream?\nRead more",
+          "link": "https://www.rockpapershotgun.com/whats-better-ding-or-the-howie-scream",
+          "publishedOn": "2022-09-21T16:06:45.000Z",
+          "wordCount": 5201,
+          "title": "What's better: ding! or the Howie scream?",
+          "imageUrl": "https://assets2.rockpapershotgun.com/world-of-warcraft-warlords-of-draenor-level-up.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/world-of-warcraft-warlords-of-draenor-level-up.jpg"
+        },
+        {
+          "id": "https://www.rockpapershotgun.com/tvs-favourite-football-manager-ted-lasso-is-coming-to-fifa-23",
+          "author": "CJ Wheeler",
+          "description": "Apple TV’s feelgood football manager Ted Lasso will make his digital debut in FIFA 23 when the game releases on September 30th, EA have revealed today. Lasso’s club AFC Richmond will be playable in multiple modes, including Career Mode. There’ll also be themed items in FIFA Ultimate Team and Pro Clubs. Stick on a fake moustache and your biggest grin to watch the trailer below.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/tvs-favourite-football-manager-ted-lasso-is-coming-to-fifa-23",
+          "publishedOn": "2022-09-21T16:00:29.000Z",
+          "wordCount": 5052,
+          "title": "TV’s favourite football manager Ted Lasso is coming to FIFA 23",
+          "imageUrl": "https://assets2.rockpapershotgun.com/FIFA-23-Ted-Lasso-main%5D.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/FIFA-23-Ted-Lasso-main%5D.jpg"
+        },
+        {
+          "id": "https://www.rockpapershotgun.com/beacon-pines-review",
+          "author": "Graham Smith",
+          "description": "I'm a sucker for invention when it comes to story in video games, and Beacon Pines drew me in with what looked like a choice-driven adventure. As you explore the down-on-its-luck farming town of the title, you discover 'charms'. Each charm is a word which can be deployed at set points to branch the story in new, severe ways. More importantly, you can flip back and forth between these pivotal moments at any time, allowing you to deploy new words in earlier chapters to see what happens.\r\n\nExcept, Beacon Pines is far less choice-driven than I expected. Instead, it's something far rarer and more ambitious in video games: it is a good story, well written, with strong characters you grow to care for.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/beacon-pines-review",
+          "publishedOn": "2022-09-21T16:00:00.000Z",
+          "wordCount": 5663,
+          "title": "Beacon Pines review: a cosy horror adventure game that succeeds on the strength of its characters",
+          "imageUrl": "https://assets2.rockpapershotgun.com/beacon-pines2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/beacon-pines2.jpg"
+        },
+        {
+          "id": "https://www.rockpapershotgun.com/spelunky-2s-latest-patch-adds-crossplay-online-multiplayer",
+          "author": "CJ Wheeler",
+          "description": "The 1.26 patch for Spelunky 2 has finally brought crossplay for all platforms to the randomised platforming sequel, along with online multiplayer for its Adventure and Arena modes. Creator Derek Yu said that more updates are planned for Spelunky 2, but the next step is to get feedback on multiplayer to improve the experience now its basic features are there. Don’t expect any more additions to single-player though, as the focus there is bug fixes.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/spelunky-2s-latest-patch-adds-crossplay-online-multiplayer",
+          "publishedOn": "2022-09-21T15:29:15.000Z",
+          "wordCount": 4958,
+          "title": "Spelunky 2's latest patch adds crossplay online multiplayer",
+          "imageUrl": "https://assets2.rockpapershotgun.com/spelunky-2_iisNC2Y.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/spelunky-2_iisNC2Y.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/rockstar-owner-take-twos-hacking-woes-continue-as-2k-confirm-attack-on-their-support-service",
           "author": "CJ Wheeler",
@@ -7890,6 +8020,51 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "A6bcHTkjcRVL49HK2TzBdU",
+          "author": null,
+          "description": "Vince \"Kingpin\" Lucido thanks industry and overclocking community, suggests he is open to new hardware partnerships.",
+          "link": "https://www.tomshardware.com/news/post-evga-kingpin-seems-open-to-new-hardware-partnerships",
+          "publishedOn": "2022-09-21T16:23:41.000Z",
+          "wordCount": 21499,
+          "title": "Post-EVGA, Kingpin Seems Open to New Hardware Partnerships",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/bFYPfuDmEdwtq2tGztdAi9.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/bFYPfuDmEdwtq2tGztdAi9.jpg"
+        },
+        {
+          "id": "riFCKiKghcTeJ2YLti2LbW",
+          "author": null,
+          "description": "A new gaming handheld is available for preorder, featuring some of the best mobile CPUs from AMD and Intel.",
+          "link": "https://www.tomshardware.com/news/gaming-handheld-ups-power-level",
+          "publishedOn": "2022-09-21T15:39:18.000Z",
+          "wordCount": 21476,
+          "title": "OneXPlayer Handheld Powered By High-End Intel or AMD Silicon",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/VZqFTTGg6UhXqByMgp3w7R.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/VZqFTTGg6UhXqByMgp3w7R.jpg"
+        },
+        {
+          "id": "5gRBW4DgUQy9xekEux992Y",
+          "author": null,
+          "description": "Bryan Catanzaro, Nvidia Vice President of Applied Deep Learning Research, details DLSS 3 compatibility with GeForce GPUs.",
+          "link": "https://www.tomshardware.com/news/nvidia-dlss-3-only-works-with-geforce-rtx-40-series-gpus-for-now",
+          "publishedOn": "2022-09-21T15:36:39.000Z",
+          "wordCount": 21536,
+          "title": "Nvidia DLSS 3 Only Works With GeForce RTX 40-Series GPUs — For Now",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/qkPVfAkWfi4PRBtwoKGiH5.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/qkPVfAkWfi4PRBtwoKGiH5.jpg"
+        },
         {
           "id": "ZC3ZCyCkqRMQ9GUoWtYeik",
           "author": null,
@@ -10712,6 +10887,46 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1883333",
+          "author": "Kyle Orland",
+          "description": "Unlicensed \"slots, roulette, or dice games\" will no longer be allowed on-stream.",
+          "link": "https://arstechnica.com/?p=1883333",
+          "publishedOn": "2022-09-21T15:57:55.000Z",
+          "wordCount": 1985,
+          "title": "As streamers threaten boycott, Twitch takes action on some gambling content",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/twitchroulette-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1882591",
+          "author": "Benj Edwards",
+          "description": "LAION scraped medical photos for AI research use. Who's responsible for taking them down?",
+          "link": "https://arstechnica.com/?p=1882591",
+          "publishedOn": "2022-09-21T15:43:09.000Z",
+          "wordCount": 2100,
+          "title": "Artist finds private medical record photos in popular AI training data set",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/medical_images_hero2-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1883228",
+          "author": "Andrew Cunningham",
+          "description": "Chromebook Edition hardware is mostly identical to the standard Framework Laptop.",
+          "link": "https://arstechnica.com/?p=1883228",
+          "publishedOn": "2022-09-21T15:00:18.000Z",
+          "wordCount": 1457,
+          "title": "Repairable, upgradeable Framework Laptop will also be available as a Chromebook",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/FW-chromebook-hero2-orange-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1883287",
+          "author": "WIRED",
+          "description": "Telegram users are increasingly bringing threats to targets’ doorsteps.",
+          "link": "https://arstechnica.com/?p=1883287",
+          "publishedOn": "2022-09-21T14:24:47.000Z",
+          "wordCount": 1638,
+          "title": "Telegram has a serious doxxing problem",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/telegram-megaphone-abstract-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1883221",
           "author": "Eric Berger",
           "description": "\"It has been three decades since we last saw these faint, dusty rings.\"",
@@ -12379,6 +12594,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291530",
+          "author": null,
+          "description": "Storsatsar med ratt och pedaler för entusiasterna - premiär i september.",
+          "link": "https://www.fz.se/artikel/291530-till-slut-logitech-slapper-direct-drive-ratt",
+          "publishedOn": "2022-09-21T16:01:00.000Z",
+          "wordCount": 2137,
+          "title": "Till slut - Logitech släpper direct drive-ratt!",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291530"
+        },
+        {
           "id": "https://www.fz.se/artikel/291533",
           "author": null,
           "description": "Start klockan 20.",
@@ -13996,6 +14221,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34962",
+          "author": null,
+          "description": "Logitech kastar sig in i molnspelssfären med Android-enheten G Cloud, som är byggd med molnspelande i fokus.",
+          "link": "https://www.sweclockers.com/artikel/34962-logitech-siktar-mot-molnen-med-handhallna-g-cloud",
+          "publishedOn": "2022-09-21T16:01:00.000Z",
+          "wordCount": 1954,
+          "title": "Logitech siktar mot molnen med handhållna G Cloud",
+          "imageUrl": "https://www.sweclockers.com/artikel/34962/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34954",
           "author": null,
           "description": "Med en begränsad tidsram för att leverera påkostade AI-fokuserade grafikkretsar till Kina snurrar Nvidia igång hjulen hos TSMC.",
@@ -14972,6 +15207,36 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/21/tesla_battery_megapack_fire/",
+          "author": null,
+          "description": "<h4>It's better to burn out than to fade away</h4> <p>A Tesla Megapack battery at a California substation caught fire early yesterday morning, prompting a shelter-in-place order and multiple road closures around the Moss Landing area of Monterey Bay. …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/21/tesla_battery_megapack_fire/",
+          "publishedOn": "2022-09-21T16:30:14.000Z",
+          "wordCount": 1250,
+          "title": "Tesla Megapack battery ignites at substation after less than 6 months",
+          "imageUrl": "https://regmedia.co.uk/2021/08/03/handout_tesla_battery_fire_australia.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/21/malwarebytes_blocks_google_domains/",
+          "author": null,
+          "description": "<h4>Sounds like fair comment</h4> <p>Google and its Youtube domains are being flagged as malicious by Malwarebytes as of Wednesday morning, blocking users from accessing a whole range of websites.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/21/malwarebytes_blocks_google_domains/",
+          "publishedOn": "2022-09-21T15:56:01.000Z",
+          "wordCount": 1165,
+          "title": "Malwarebytes blocks Google, YouTube as malware",
+          "imageUrl": "https://regmedia.co.uk/2022/09/21/blocked_sites_illustration_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/21/amazon_27gw_renewable_energy/",
+          "author": null,
+          "description": "<h4>But the question remains whether it is polluting more or less</h4> <p>Amazon says it is adding 2.7 gigawatts of clean energy capacity to its operations that are spread across 71 new renewable energy projects worldwide, as it works towards becoming a carbon neutral biz by 2040.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/21/amazon_27gw_renewable_energy/",
+          "publishedOn": "2022-09-21T15:45:09.000Z",
+          "wordCount": 1337,
+          "title": "Amazon adds 2.7 gigawatts of renewable energy to its operations",
+          "imageUrl": "https://regmedia.co.uk/2021/06/11/amazon.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/21/boeing_wants_driverless_flying_cabs/",
           "author": null,
