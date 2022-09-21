@@ -2,10 +2,137 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-21T08:35:45.693Z</updated>
+    <updated>2022-09-21T09:27:30.419Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GE-Proton 7-35 out now with more fixes for Linux / Steam Deck]]></title>
+        <id>https://www.gamingonlinux.com/2022/09/ge-proton-7-35-out-now-with-more-fixes-for-linux-steam-deck/</id>
+        <link href="https://www.gamingonlinux.com/2022/09/ge-proton-7-35-out-now-with-more-fixes-for-linux-steam-deck/"/>
+        <updated>2022-09-21T09:25:11.000Z</updated>
+        <summary type="html"><![CDATA[GE-Proton (GloriousEggroll), the community maintained version of the Windows compatibility layer version 7-35 is out now and here's what's new.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesa Radeon Driver "RADV" Ray-Tracing Performance Becoming Viable For Linux Gaming]]></title>
+        <id>https://www.phoronix.com/news/RADV-RT-Performance-Viable</id>
+        <link href="https://www.phoronix.com/news/RADV-RT-Performance-Viable"/>
+        <updated>2022-09-21T09:23:30.000Z</updated>
+        <summary type="html"><![CDATA[In addition to a ~10% performance boost seen yesterday for RADV ray-tracing performance with Quake II RTX, another merge request also made it to Mesa 22.3 for much more significantly bolstering the RADV ray-tracing performance. With all of the recent RADV ray-tracing work, we are finally reaching a point where it's becoming viable for Linux gamers on this open-source driver...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valve finally fixes up the Steam Deck on-screen keyboard some more]]></title>
+        <id>https://www.gamingonlinux.com/2022/09/valve-finally-fixes-up-the-steam-deck-on-screen-keyboard-some-more/</id>
+        <link href="https://www.gamingonlinux.com/2022/09/valve-finally-fixes-up-the-steam-deck-on-screen-keyboard-some-more/"/>
+        <updated>2022-09-21T09:14:46.000Z</updated>
+        <summary type="html"><![CDATA[There's a new Steam Deck Client Beta update available and with it comes some much needed improvements to the on-screen keyboard.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GCC Progressing On OpenMP 5.x, OpenACC 2.7+ GPU Offloading & More AMD Improvements]]></title>
+        <id>https://www.phoronix.com/news/GCC-13-More-GPU-Offload</id>
+        <link href="https://www.phoronix.com/news/GCC-13-More-GPU-Offload"/>
+        <updated>2022-09-21T09:07:25.000Z</updated>
+        <summary type="html"><![CDATA[This past weekend was the GNU Tools Cauldron where Siemens presented a status update on the work around GPU accelerator offloading for the GNU Compiler Collection (GCC) and the work being done around OpenMP and OpenACC support...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Isle of Arrows knows how to stop you getting comfortable in a tower defence game]]></title>
+        <id>https://www.eurogamer.net/isle-of-arrows-knows-how-to-stop-you-getting-comfortable-in-a-tower-defence-game</id>
+        <link href="https://www.eurogamer.net/isle-of-arrows-knows-how-to-stop-you-getting-comfortable-in-a-tower-defence-game"/>
+        <updated>2022-09-21T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How do you stop people getting comfortable in a tower defence game? I think you know what I mean: that point where you're deep into a game, your defences are well established, and anything that tries to get through this, your abattoir, is made mincemeat of. You, at that point, are effectively hands off, admiring what you've built, and all the game can do is bulk up the enemies and try to brute force its way through. But what if there was another way? 
+
+
+Isle of Arrows has an idea: a second base. Just as you're beginning to slouch and get comfortable, it introduces another base, and it's like starting all over again but at the same time as managing something else. Only now, you have one pool of resources to spread across both bases. Even more importantly: both bases share the same overall health pool. If enemies get through to your core in either one, you'll take damage, and as you only have about 10 hearts, and one life, this is important.
+
+
+In other words, the danger is doubled, and if you ignore one base for the other, and allow a bad situation to fester, you could quickly find yourself in a precarious situation indeed.
+ 
+Read more]]></summary>
+        <author>
+            <name>Robert Purchese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Crisis Core remaster now feels consistent with the Final Fantasy 7 Remake trilogy]]></title>
+        <id>https://www.eurogamer.net/the-crisis-core-remaster-now-feels-consistent-with-the-final-fantasy-7-remake-trilogy</id>
+        <link href="https://www.eurogamer.net/the-crisis-core-remaster-now-feels-consistent-with-the-final-fantasy-7-remake-trilogy"/>
+        <updated>2022-09-21T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Though I hate to admit it, as a Final Fantasy fan, I never managed to play Crisis Core on its original PSP release as I never owned that particular handheld. I suspect, though, that I'm not alone, which is why it's such a relief that Square Enix is now bringing the game to practically every current platform available.
+
+
+I recently went hands on with a demo of this lengthily-titled remaster - Crisis Core Final Fantasy 7 Reunion - and I'm excited to dive in properly on its release this December.
+
+
+
+Questions remain over the impact Crisis Core will have on the forthcoming second part (Rebirth) of the Final Fantasy 7 Remake trilogy, but what's immediately clear from its remaster is how it's now clearly positioned as a side story to Remake.
+ 
+Read more]]></summary>
+        <author>
+            <name>Ed Nightingale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Linux driver 515.76 is out, as is Mesa 22.2 for AMD / Intel]]></title>
+        <id>https://www.gamingonlinux.com/2022/09/nvidia-linux-driver-51576-is-out-as-is-mesa-222-for-amd-intel/</id>
+        <link href="https://www.gamingonlinux.com/2022/09/nvidia-linux-driver-51576-is-out-as-is-mesa-222-for-amd-intel/"/>
+        <updated>2022-09-21T08:59:15.000Z</updated>
+        <summary type="html"><![CDATA[Two new driver releases are now available for desktop Linux users with NVIDIA 515.76 and Mesa 22.2 for AMD / Intel.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Krafton släpper häftig koncepttrailer för ej utannonserat projekt]]></title>
+        <id>https://www.fz.se/artikel/291529</id>
+        <link href="https://www.fz.se/artikel/291529-krafton-slapper-haftig-koncepttrailer-for-ej-utannonserat-projekt"/>
+        <updated>2022-09-21T08:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Baserat på fantasyromanerna The Bird That Drinks Tears.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new Proton Experimental release hooks up NVAPI for lots of games on Linux]]></title>
+        <id>https://www.gamingonlinux.com/2022/09/a-new-proton-experimental-release-hooks-up-nvapi-for-lots-of-games-on-linux/</id>
+        <link href="https://www.gamingonlinux.com/2022/09/a-new-proton-experimental-release-hooks-up-nvapi-for-lots-of-games-on-linux/"/>
+        <updated>2022-09-21T08:52:12.000Z</updated>
+        <summary type="html"><![CDATA[Proton Experimental has a new release out from September 20th, that as usual fixes some bugs but also does a rather big change in enabling the NVIDIA NVAPI for a long list of games.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sound Open Firmware 2.3 Released With Support For AMD Rembrandt, Intel Raptor Lake]]></title>
+        <id>https://www.phoronix.com/news/Sound-Open-Firmware-2.3</id>
+        <link href="https://www.phoronix.com/news/Sound-Open-Firmware-2.3"/>
+        <updated>2022-09-21T08:49:22.000Z</updated>
+        <summary type="html"><![CDATA[Sound Open Firmware is what started as an open-source Intel effort to push towards more open sound/DSP firmware and has grown since that point into a Linux Foundation project also supported by other vendors like Mediatek, AMD, Realtek, and others. Sound Open Firmware 2.3 was released on Tuesday as the latest advancement for this open-source audio DSP firmware stack...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Hardware Ray-Tracing Hopes To Be Ready For Blender 3.5]]></title>
+        <id>https://www.phoronix.com/news/AMD-HIP-RT-Blender-3.5-Plans</id>
+        <link href="https://www.phoronix.com/news/AMD-HIP-RT-Blender-3.5-Plans"/>
+        <updated>2022-09-21T08:39:48.000Z</updated>
+        <summary type="html"><![CDATA[While Blender 3.2 introduced AMD HIP on Linux support for GPU acceleration and the recent Blender 3.3 extended the AMD GPU Cycles acceleration back to GFX9/Vega GPUs, for those wanting AMD ray-tracing support within Blender it's not expected to come until Blender 3.5...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BT CEO orders staff: Back to the office or risk 'disciplinary action']]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/21/bt_ceo_orders_staff_back/</id>
@@ -18579,44 +18706,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[The once dominant e-cig company faces yet more legal challenges and FDA scrutiny.]]></summary>
         <author>
             <name>Beth Mole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Today’s best deals: Google Pixel 6, MacBook Pros, Apple AirPods Max, and more]]></title>
-        <id>https://arstechnica.com/?p=1878697</id>
-        <link href="https://arstechnica.com/?p=1878697"/>
-        <updated>2022-09-07T21:22:08.000Z</updated>
-        <summary type="html"><![CDATA[Dealmaster includes MacBook Pros, Google Nest Hubs, Apple Watches, and more.]]></summary>
-        <author>
-            <name>Corey Gaskin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple debuts iPhone 14, Watch 8, other sparkly things]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/07/apple_iphone_watch_launch/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/07/apple_iphone_watch_launch/"/>
-        <updated>2022-09-07T21:07:15.000Z</updated>
-        <summary type="html"><![CDATA[<h4>With Crash Detection (no, not that kind) and satellite-powered SOS when cell service is absent</h4> <p>Apple on Wednesday enticed favored members of the media and its ever-enthusiastic employees from Cupertino to hear word of the company's iPhone 14, Apple Watch 8, and second generation AirPods Pro earbuds.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayStation boss calls Microsoft's post-acquisition Call of Duty offer "inadequate on many levels"]]></title>
-        <id>https://www.eurogamer.net/playstation-boss-calls-microsofts-post-acquisition-call-of-duty-offer-inadequate-on-many-levels</id>
-        <link href="https://www.eurogamer.net/playstation-boss-calls-microsofts-post-acquisition-call-of-duty-offer-inadequate-on-many-levels"/>
-        <updated>2022-09-07T20:37:57.000Z</updated>
-        <summary type="html"><![CDATA[PlayStation boss Jim Ryan has spoken out against Microsoft's offer to keep Call of Duty on PlayStation for "at least several more years" beyond Sony's existing agreement with publisher Activision Blizzard, calling the deal "inadequate on many levels" - despite Microsoft's insistence it went "well beyond typical gaming industry agreements".
-
-
-It's the latest shot fired in an increasingly public back and forth between the two companies as governmental scrutiny of Microsoft's proposed $69bn USD acquisition of Activision Blizzard grows, particularly in relation to its impact on other gaming platforms. The UK's Competition and Markets Authority, for instance, recently said the deal would give rise to the "realistic prospect of a substantial lessening of competition in gaming consoles, multi-game subscription services, and cloud gaming services."
-
-
-It's in this climate that Xbox boss Phil Spencer last week attempted to placate concerns it might be looking to make the hugely popular Call of Duty series - which the CMA called "important and capable of making a material difference to the success of rivals' gaming platforms" - an Xbox exclusive if the acquisition gained approval, insisting that it had "provided a signed agreement to Sony [in January] to guarantee Call of Duty on PlayStation, with feature and content parity, for at least several more years beyond the current Sony contract".
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
         </author>
     </entry>
 </feed>
