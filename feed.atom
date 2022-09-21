@@ -2,10 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-21T21:22:57.596Z</updated>
+    <updated>2022-09-21T22:27:19.005Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Flight Simulator gets long-awaited DLSS support for PC in today's Sim Update 10]]></title>
+        <id>https://www.eurogamer.net/flight-simulator-gets-long-awaited-dlss-support-for-pc-in-todays-sim-update-10</id>
+        <link href="https://www.eurogamer.net/flight-simulator-gets-long-awaited-dlss-support-for-pc-in-todays-sim-update-10"/>
+        <updated>2022-09-21T22:06:36.000Z</updated>
+        <summary type="html"><![CDATA[Developer Asobo has released its latest Sim Update for the majestic Microsoft Flight Simulator, this one bringing, among other things, long-awaited DLSS support for PC.
+
+
+Alongside DLSS anti-aliasing and upscaling, Asobo says Sim Update 10 should deliver "stability, performance, and memory usage" improvements for those using Flight Simulator's in-development Direct X12 support - although it notes the new memory allocator will only be activated once Nvidia's next GPU driver is released.
+
+
+Elsewhere in today's update, moving boats in the world now have a wake effect on PC, there's a new cloud layer system - said to provide "more vertical precision at low altitudes to better reflect the various cloud altitudes and thickness close to the ground" - plus a number of quality of life features for Flight Simulator's VFR map.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GeForce RTX 4090 GPUs Surface Overseas Above Nvidia MSRP]]></title>
+        <id>MeWwpLnDGzcFSXUDSnYakE</id>
+        <link href="https://www.tomshardware.com/news/geforce-rtx-4090-gpus-surface-overseas-above-nvidia-msrp"/>
+        <updated>2022-09-21T22:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia's GeForce RTX 4090 graphics cards appear at a Spanish retailer for over $2,000.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Picross S8 coming to Switch next week with four-player local multiplayer]]></title>
+        <id>https://www.eurogamer.net/picross-s8-coming-to-switch-next-week-with-four-player-local-multiplayer</id>
+        <link href="https://www.eurogamer.net/picross-s8-coming-to-switch-next-week-with-four-player-local-multiplayer"/>
+        <updated>2022-09-21T21:12:19.000Z</updated>
+        <summary type="html"><![CDATA[Developer Jupiter has unveiled an eighth mainline instalment for its mighty Picross puzzle series on Switch, its big new addition being multiplayer support for up to four player when it launches next week. Furthermore, multiplayer and touchscreen support are reportedly being added to all previous Switch instalments at the same time.
+
+
+Picross S8, as this newest entry is known, follows the same familiar formula as its predecessors - each stage requiring players to complete a picture on a grid by solving numerical clues indicating which squares must be filled in - but adds a bit of spice to proceedings by letting four players put their heads together to tackle each challenge.
+
+
+According to the official Picross website, it's local multiplayer only (the trailer suggests there's a score-based component despite everyone working co-operatively to complete the same puzzle), and each player will need their own controller to participate. 
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Corsair MP600 Pro XT PCIe 4.0 SSD Expands to 8TB Capacity]]></title>
         <id>kesjc3724TosdDYvpDArie</id>
@@ -19732,120 +19778,6 @@ This was my ninety-eighth month that I did some work for the Debian LTS initiati
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/08/ad_blockers_chrome_manifest_v3/"/>
         <updated>2022-09-08T10:28:07.000Z</updated>
         <summary type="html"><![CDATA[<h4>As deadline for mandatory code rewrite approaches, Manifest v3 still looks like a step backward</h4> <p><strong>Analysis</strong>  In January next year, Chrome browser extensions – such as ad blockers and other privacy tools – will stop working if they are reliant on an API called Manifest v2 (MV2).…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Ryzen 7 5800X3D - Windows 11 vs. Ubuntu 22.04 LTS Linux Benchmarks]]></title>
-        <id>https://www.phoronix.com/review/5800x3d-windows11-linux</id>
-        <link href="https://www.phoronix.com/review/5800x3d-windows11-linux"/>
-        <updated>2022-09-08T10:10:06.000Z</updated>
-        <summary type="html"><![CDATA[With the AMD Ryzen 7 5800X3D as the first consumer processor with AMD 3D V-Cache technology that launched earlier this year, the Linux performance has been fantastic for a variety of workloads especially in areas of technical computing and other non-gaming workloads -- similar to the great results we've enjoyed with AMD EPYC Milan-X processors too. One of the areas I hadn't had a chance to look at until recently was how the Windows 11 vs. Linux performance is looking for this Ryzen CPU with its 96MB L3 cache. Here are those quick benchmarks.]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paper Animal RPG takes inspiration from Paper Mario and Pokémon Mystery Dungeon]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/paper-animal-rpg-takes-inspiration-from-paper-mario-and-pokemon-mystery-dungeon/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/paper-animal-rpg-takes-inspiration-from-paper-mario-and-pokemon-mystery-dungeon/"/>
-        <updated>2022-09-08T10:06:55.000Z</updated>
-        <summary type="html"><![CDATA[Paper Animal RPG is a rather cute looking upcoming game. Currently in development from Cuddling Raccoons Studio it's a mixture of exploration, dungeon crawling, combat and a little relaxation by the campfire too.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best SSD and Hard Drive Deals 2022]]></title>
-        <id>H8j8FJesm47HqhyoP9jdR9</id>
-        <link href="https://www.tomshardware.com/features/best-deals-on-ssds"/>
-        <updated>2022-09-08T10:03:47.000Z</updated>
-        <summary type="html"><![CDATA[These are the best SSD and HDD deals — guaranteed to expand the storage on your PC without emptying your wallet.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beast Breaker devs are closing due to lack of funding, along with their historic workers union]]></title>
-        <id>https://www.rockpapershotgun.com/beast-breaker-devs-are-closing-due-to-lack-of-funding-along-with-their-historic-workers-union</id>
-        <link href="https://www.rockpapershotgun.com/beast-breaker-devs-are-closing-due-to-lack-of-funding-along-with-their-historic-workers-union"/>
-        <updated>2022-09-08T10:00:48.000Z</updated>
-        <summary type="html"><![CDATA[Vodeo Games, the first game development studio in North America to unionise, are shutting down. The team behind turn-based RPG Beast Breaker announced their closure on Twitter, after being unable to find financial backers for another project. Beast Breaker wasn’t a game I was familiar with but its little mouse protagonist looks charming, as you can see in the trailer below.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quiz – Vad kan du om Battlefield?]]></title>
-        <id>https://www.fz.se/artikel/291054</id>
-        <link href="https://www.fz.se/artikel/291054-quiz-vad-kan-du-om-battlefield"/>
-        <updated>2022-09-08T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[20 år har gått sedan Battlefield 1942. FZ firar med ett jubileumsquiz.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Playstation 5 med omdanat inre är energisnålare]]></title>
-        <id>https://www.sweclockers.com/artikel/34884</id>
-        <link href="https://www.sweclockers.com/artikel/34884-playstation-5-med-omdanat-inre-ar-energisnalare"/>
-        <updated>2022-09-08T09:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Den nya revisionen av Playstation 5 har ett mindre moderkort och förändrad kylning, något som ser ut att ge ett lägre effektuttag.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Distrobox 1.4 Released - Easier Container Upgrades, Local Podman Install For Steam Deck]]></title>
-        <id>https://www.phoronix.com/news/Distrobox-1.4-Released</id>
-        <link href="https://www.phoronix.com/news/Distrobox-1.4-Released"/>
-        <updated>2022-09-08T09:49:11.000Z</updated>
-        <summary type="html"><![CDATA[Distrobox is the open-source software that quickly and easily fires up Linux distributions in containers for helping to augment the package selection from your host distribution, easily experiment with different distributions, and other use-cases. Distrobox 1.4 is out this week with the latest enhancements for this project...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skyrim mod adds hidden keys to find for all those locked chests]]></title>
-        <id>https://www.rockpapershotgun.com/skyrim-mod-adds-hidden-keys-to-find-for-all-those-locked-chests</id>
-        <link href="https://www.rockpapershotgun.com/skyrim-mod-adds-hidden-keys-to-find-for-all-those-locked-chests"/>
-        <updated>2022-09-08T09:48:32.000Z</updated>
-        <summary type="html"><![CDATA[Every corner of Skyrim houses a locked chest, but where are all the keys? Only a handful actually have keys to open them. So do the chest's owners lockpick them every time they want an apple or knife? Are these chests merely decorative, their contents deemed inaccessible and long forgotten? A new mod for Skyrim Special Edition answers this playfully by adding a load of hidden keys to unlock these chests. Some of the keys look quite well hidden in this object hunt, so you'll need to poke around, rummage, and turn things over.
-Read more]]></summary>
-        <author>
-            <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vulkan 1.3.227 Adds Legacy Dithering Extension To Help OpenGL On Vulkan]]></title>
-        <id>https://www.phoronix.com/news/Vulkan-1.3.227-Released</id>
-        <link href="https://www.phoronix.com/news/Vulkan-1.3.227-Released"/>
-        <updated>2022-09-08T09:28:56.000Z</updated>
-        <summary type="html"><![CDATA[Last week saw the debut of Vulkan 1.3.226 with mesh shader support introduced as a new cross-vendor extension while out this morning is Vulkan 1.3.227 with a new extension for helping the layering of OpenGL atop Vulkan...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Storrea - 16 euro för Mafia-remaken, Xcom x2, Borderlands 3, Civ 6, Bioshock x3...]]></title>
-        <id>https://www.fz.se/artikel/291389</id>
-        <link href="https://www.fz.se/artikel/291389-storrea-16-euro-for-mafia-remaken-xcom-x2-borderlands-3-civ-6-bioshock-x3"/>
-        <updated>2022-09-08T09:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Humble Bundle kränger 2K-spel för en spottstyver.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Halfords slapped on wrist for breaching email marketing laws]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/08/halfords_ico_email_breach_pecr_fine/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/08/halfords_ico_email_breach_pecr_fine/"/>
-        <updated>2022-09-08T09:27:06.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Bike and car accessory slinger fined £30,000 for hitting send on more than 499k unsolicited emails</h4> <p>Bike and car accessory retailer Halfords has found itself in the wrong lane with Britain’s data watchdog for sending hundreds of thousands of unsolicited marketing emails to members of the public.…</p>]]></summary>
         <author>
             <name>The Register</name>
         </author>
