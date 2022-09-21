@@ -883,6 +883,26 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/dark-souls-3s-pc-servers-have-gone-offline-again",
+          "author": "Matt Wales",
+          "description": "A month after Dark Souls 3's Steam servers were finally bought online following more than seven months of downtime, they're offline again, with publisher Bandai Namco confirming it's currently \"investigating\" the issue.\r\n\n\r\nThe Dark Souls server woes began in January, when Bandai Namco was forced to disable servers for all Dark Souls games following reports of serious security concerns. Although the publisher described the situation as 'temporary' at the time, it took over seven months for a fix to be deployed, with Dark Souls 3's servers finally coming back online at the end of August.\r\n\n\r\nUnfortunately, the celebrations have been short-lived, and the game's PvP servers are once again unavailable, preventing players from accessing any of its online features.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/dark-souls-3s-pc-servers-have-gone-offline-again",
+          "publishedOn": "2022-09-21T18:32:00.000Z",
+          "wordCount": 4587,
+          "title": "Dark Souls 3's PC servers have gone offline again",
+          "imageUrl": "https://assets.reedpopcdn.com/dark-souls-3-now-runs-at-60fps-on-xbox-series-x-s-thanks-to-fps-boost-1625675086983.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/dark-souls-3-now-runs-at-60fps-on-xbox-series-x-s-thanks-to-fps-boost-1625675086983.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/voice-chat-noise-suppression-comes-to-xbox-one-and-pc-in-latest-xbox-update",
+          "author": "Matt Wales",
+          "description": "If you've long felt miffed by the Xbox Elite controller's lack of chameleon-like powers, you're (sort of) in luck; among other things, September's newly released Xbox update gives Elite owners the option to imbue its central button with the glowing LED colour of their dreams.\r\n\n\r\nCustomisation options for the Elite Wireless Controller Series 2's Xbox button can be found in the latest version of the Xbox Accessories app on console and PC while a controller is connected. Here, users can visit the Colour tab to tinker with the Xbox button's brightness, or use the menu sliders to pick one out of a possible 16 million hues.\r\n\n\r\nIn addition to button customisation, September's Xbox update brings a revamp to the 'My games and apps' Full library view on consoles, streamlining access to all games available to install and play. Furthermore, 'All games' now displays every title a user has access to, including those on Game Pass, EA Access, and those claimed via Games with Gold.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/voice-chat-noise-suppression-comes-to-xbox-one-and-pc-in-latest-xbox-update",
+          "publishedOn": "2022-09-21T17:43:19.000Z",
+          "wordCount": 4622,
+          "title": "Voice chat noise suppression comes to Xbox One and PC in latest Xbox update",
+          "imageUrl": "https://assets.reedpopcdn.com/Xbox-Wireless-Controller-Customize-Color.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Xbox-Wireless-Controller-Customize-Color.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/destiny-cheater-seller-countersues-bungie-claims-destiny-maker-hacked-it",
           "author": "Tom Phillips",
           "description": "A cheat seller being sued by Bungie has launched a remarkable countersuit which claims Bungie hacked it.\r\n\n\r\nThe claim follows months of legal back and forth between cheat seller AimJunkies and Destiny developer Bungie, which has seen the former accused of both trademark and copyright infringement. \r\n\n\r\nAimJunkies has previously attempted to shrug off these claims, but has now gone one further. As reported by Torrentfreak, the cheat seller has now launched a countersuit which alleges Bungie accessed its computers for anti-cheat purposes via \"clandestine surveillance\" - effectively, that Bungie hacked it.\r\n \nRead more",
@@ -5336,6 +5356,16 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Microsoft-WSL-systemd",
+          "author": null,
+          "description": "Microsoft and Canonical jointly announced today that systemd now works within Windows Subsystem for Linux (WSL2)...",
+          "link": "https://www.phoronix.com/news/Microsoft-WSL-systemd",
+          "publishedOn": "2022-09-21T17:43:46.000Z",
+          "wordCount": 1498,
+          "title": "Microsoft & Canonical Bring systemd To WSL",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/GNOME-43-Released",
           "author": null,
@@ -10519,21 +10549,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/6crC2XE5J6sgVFWpvDbssN.jpg"
-        },
-        {
-          "id": "8MDxhPCjyoRWuRpX2ffNyX",
-          "author": "palcorn@outlook.com (Paul Alcorn)",
-          "description": "Intel CEO Pat Gelsinger spoke at the Evercore ISI TMT conference, revealing that he expects the company to continue losing data center market share until 2024.",
-          "link": "https://www.tomshardware.com/news/intel-expects-continued-market-share-loss-throughout-2023-will-likely-exit-more-businesses",
-          "publishedOn": "2022-09-08T05:41:55.000Z",
-          "wordCount": 18137,
-          "title": "Intel Expects Continued Market Share Loss Throughout 2023, Will Likely Exit More Businesses",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/CvV8XAXPpR2GtSaMWy97qQ.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/CvV8XAXPpR2GtSaMWy97qQ.jpg"
         }
       ]
     },
@@ -10926,6 +10941,56 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1882974",
+          "author": "Samuel Axon",
+          "description": "These updates are iterative as ever, but the cameras and Dynamic Island shine.",
+          "link": "https://arstechnica.com/?p=1882974",
+          "publishedOn": "2022-09-21T17:35:30.000Z",
+          "wordCount": null,
+          "title": "iPhone 14 and 14 Pro review: A picture is worth a thousand dollars",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arstechnica.com/?p=1883071",
+          "author": "Jeff Dunn",
+          "description": "Dealmaster also has Anker charging gear, Google's Nest Hub, and portable SSDs.",
+          "link": "https://arstechnica.com/?p=1883071",
+          "publishedOn": "2022-09-21T16:57:50.000Z",
+          "wordCount": 2850,
+          "title": "Today’s best deals: Apple MacBook Air, Ring Fit Adventure, and more",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/dealmaster092122-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1883318",
+          "author": "Scharon Harding",
+          "description": "Up to 90 dB volume output, Razer claims.",
+          "link": "https://arstechnica.com/?p=1883318",
+          "publishedOn": "2022-09-21T16:45:40.000Z",
+          "wordCount": null,
+          "title": "Razer’s new soundbar works with USB-C and Bluetooth, costs $100",
+          "imageUrl": null
+        },
+        {
+          "id": "https://arstechnica.com/?p=1883361",
+          "author": "Jon Brodkin",
+          "description": "Proposed requirement would prevent or limit vehicle operation if driver is drunk.",
+          "link": "https://arstechnica.com/?p=1883361",
+          "publishedOn": "2022-09-21T16:34:48.000Z",
+          "wordCount": 1619,
+          "title": "NTSB wants alcohol detection systems installed in all new cars in US",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-drunk-driving-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1883310",
+          "author": "Ron Amadeo",
+          "description": "OnePlus wins the title of \"fastest Android updater,\" even with a heavy skin.",
+          "link": "https://arstechnica.com/?p=1883310",
+          "publishedOn": "2022-09-21T16:23:46.000Z",
+          "wordCount": null,
+          "title": "OnePlus takes just one month to update to Android 13",
+          "imageUrl": null
+        },
         {
           "id": "https://arstechnica.com/?p=1883333",
           "author": "Kyle Orland",
@@ -17476,16 +17541,6 @@
           "wordCount": 994,
           "title": "Analyst Forrester rates virtual machine infrastructure ‘stale or risky’",
           "imageUrl": "https://regmedia.co.uk/2021/04/22/update_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/08/asus_i7_sbc/",
-          "author": null,
-          "description": "<h4>Or if you're looking for something lower power, it can be had with a pentacore Celeron</h4> <p>If you’ve ever thought to yourself these single board computers (SBC) could use a few more cores, Asus’ Aaeon latest system might be right up your alley.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/08/asus_i7_sbc/",
-          "publishedOn": "2022-09-08T06:26:08.000Z",
-          "wordCount": 1230,
-          "title": "Asus packs 12-core Intel i7 into a Raspberry Pi-sized board",
-          "imageUrl": "https://regmedia.co.uk/2022/09/07/aaeon_gene_adp6.jpg"
         }
       ]
     }
