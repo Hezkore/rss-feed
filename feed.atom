@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-21T18:34:05.065Z</updated>
+    <updated>2022-09-21T19:23:13.486Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
@@ -22,6 +22,16 @@ Unfortunately, the celebrations have been short-lived, and the game's PvP server
 Read more]]></summary>
         <author>
             <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["En ny verklighet", trailer ringar in styrkorna med Playstation VR2]]></title>
+        <id>https://www.fz.se/artikel/291537</id>
+        <link href="https://www.fz.se/artikel/291537-en-ny-verklighet-trailer-ringar-in-styrkorna-med-playstation-vr2"/>
+        <updated>2022-09-21T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Ska ha 20 stora spel vid releasen.]]></summary>
+        <author>
+            <name>FZ.se</name>
         </author>
     </entry>
     <entry>
@@ -19846,26 +19856,6 @@ Read more]]></summary>
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/08/ai_protein_alphafold/"/>
         <updated>2022-09-08T07:25:12.000Z</updated>
         <summary type="html"><![CDATA[<h4>Protein predication it can do, the next steps not so much – not that it was trained for this</h4> <p><strong>Analysis</strong>  DeepMind's AlphaFold model has predicted nearly all known protein structures discovered yet, though its ability to help scientists discover new drugs remains unproven.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Läcka bekräftar Assassin's Creed Mirage till last-gen]]></title>
-        <id>https://www.fz.se/artikel/291386</id>
-        <link href="https://www.fz.se/artikel/291386-lacka-bekraftar-assassins-creed-mirage-till-last-gen"/>
-        <updated>2022-09-08T06:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Och annan info om spelet.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Analyst Forrester rates virtual machine infrastructure ‘stale or risky’]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/08/forrester_2023_it_planning/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/08/forrester_2023_it_planning/"/>
-        <updated>2022-09-08T06:58:06.000Z</updated>
-        <summary type="html"><![CDATA[<h4>So are ITSM tools that can’t spread, data tools, and private 5G. But outsourcing is cool again</h4> <p>Analyst firm Forrester Research has published its 2023 planning guide for Technology Architecture and Delivery and warned that IT departments will face increased spending scrutiny as economic conditions tighten.…</p>]]></summary>
         <author>
             <name>The Register</name>
         </author>
