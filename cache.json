@@ -136,6 +136,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/09/get-a-whole-lot-of-serious-sam-in-this-game-bundle/",
+          "author": "Liam Dawe",
+          "description": "Humble Bundle are making sure you can get serious this week with The Serious Sam Bundle containing plenty of action ready for you to dive in.",
+          "link": "https://www.gamingonlinux.com/2022/09/get-a-whole-lot-of-serious-sam-in-this-game-bundle/",
+          "publishedOn": "2022-09-22T09:21:53.000Z",
+          "wordCount": 1095,
+          "title": "Get a whole lot of Serious Sam in this game bundle",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/738112611id21637gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/09/steam-beta-lets-you-create-a-collection-filtered-by-games-you-and-friends-own/",
           "author": "Liam Dawe",
           "description": "Here's a rather useful feature Valve just added to a recent release of the Steam Beta Client. You can now filter your Steam Library based on what you and your Steam Friends own.",
@@ -812,6 +822,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/hyper-demon-review-a-playable-migraine-in-a-good-way",
+          "author": "Christian Donlan",
+          "description": "Isaac Newton was once moved to put a bodkin, or large, blunt sewing needle, behind his eye. Where exactly? (I feel you would want to be exact about this.) \"Betwixt my eye and bone as neare to [the] backside of my eye as I could.\" This is quite a thing to do to yourself, but Newton was fixated. \r\n\n\r\nNewton was fixated with phosphenes, the frantic scattering light displays that erupt when you press your palms to your eyes and bother the optic nerve. Light from darkness: you can see why such an imbalance would have made Newton a bit grumpy. But also the wonder of it: these scrolling, tunneling, chequerboard passageways that seem to open up between you and the world around you. Magic.\r\n\n\r\nWould Isaac Newton have liked Hyper Demon? I will leave this to others to judge. But Hyper Demon certainly loves phosphenes. This implausibly fast score-chasing micro-shooter coats its enemies in the shimmering, strobing pinks and dirty golds that phosphenes like to trade in. It wraps everything in a fish-eye lens, the queasiest of all lenses, just to give you that extra sense of being trapped deep within something, subdermal or far beneath the oceans. Horned skulls, praying hands, glittering diamonds that shatter on impact. Forget Newton, Hyper Demon makes me realise what a shame it is that Hieronymus Bosch never did a season for Juicy Couture.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/hyper-demon-review-a-playable-migraine-in-a-good-way",
+          "publishedOn": "2022-09-22T09:00:00.000Z",
+          "wordCount": 5311,
+          "title": "Hyper Demon review - a playable migraine, in a good way",
+          "imageUrl": "https://assets.reedpopcdn.com/Hyper-Demon.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Hyper-Demon.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/flight-simulator-gets-long-awaited-dlss-support-for-pc-in-todays-sim-update-10",
           "author": "Matt Wales",
@@ -3541,16 +3561,6 @@
           "wordCount": 4691,
           "title": "Announcing the Eurogamer video team's full live stage offering at EGX 2022",
           "imageUrl": "https://assets.reedpopcdn.com/b1_2nNkgE4.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/b1_2nNkgE4.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/amy-hennigs-new-marvel-game-rumoured-to-star-captain-america-and-black-panther-in-ww2",
-          "author": "Matt Wales",
-          "description": "Ahead of its official unveiling at tomorrow's Disney & Marvel Games Showcase, new rumours have emerged surrounding Skydance Media and Amy Hennig's upcoming Marvel title.\r\n\n\r\nAnnounced last October, few official details have so-far been shared on the project beyond the fact it'll be a \"narrative-driven, blockbuster action-adventure\" set in the Marvel universe.\r\n\n\r\nHowever, Marvel rumour collator MCU Status is now reporting that Hennig's game takes place during World War 2, and will see Captain America and Black Panther taking on the forces of Hydra. Eurogamer understands this to be correct.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/amy-hennigs-new-marvel-game-rumoured-to-star-captain-america-and-black-panther-in-ww2",
-          "publishedOn": "2022-09-08T21:15:28.000Z",
-          "wordCount": 4568,
-          "title": "Amy Hennig's new Marvel game rumoured to star Captain America and Black Panther in WW2",
-          "imageUrl": "https://assets.reedpopcdn.com/marvel-skydance-logo.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/marvel-skydance-logo.jpg"
         }
       ]
     },
@@ -5077,6 +5087,26 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Debian-12-Alpha-1-Installer",
+          "author": null,
+          "description": "The first alpha release of the Debian Installer to be used by Debian 12 \"Bookworm\" is now available for early testing...",
+          "link": "https://www.phoronix.com/news/Debian-12-Alpha-1-Installer",
+          "publishedOn": "2022-09-22T09:16:35.000Z",
+          "wordCount": 1242,
+          "title": "Debian 12 \"Bookworm\" Installer Alpha 1 Released",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Turnip-Does-Vulkan-1.3",
+          "author": null,
+          "description": "Turnip as the Mesa Vulkan driver for Qualcomm Adreno graphics is now able to support Vulkan 1.3...",
+          "link": "https://www.phoronix.com/news/Turnip-Does-Vulkan-1.3",
+          "publishedOn": "2022-09-22T09:02:29.000Z",
+          "wordCount": 1273,
+          "title": "Mesa's Turnip Now Advertises Vulkan 1.3 Support",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Mesa-22.3-RadeonSI-glthread-On",
           "author": null,
           "description": "Back in August I wrote about AMD developers looking at OpenGL threading by default for their RadeonSI Gallium3D driver. One month later that change has now landed for next quarter's Mesa 22.3 -- barring any issues coming up that would lead to it being reverted...",
@@ -6293,6 +6323,26 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/dark-souls-3s-servers-are-offline-again",
+          "author": "CJ Wheeler",
+          "description": "I hope Dark Souls 3 rested at a bonfire recently, because its servers are down once again. FromSoftware confirmed that PvP multiplayer for the Steam version of the game had gone offline in a tweet, and said they’d provide an update once details were available to share. When I published this post, no explanation was forthcoming about what the cause of the downtime might be.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/dark-souls-3s-servers-are-offline-again",
+          "publishedOn": "2022-09-22T09:18:31.000Z",
+          "wordCount": 4974,
+          "title": "Dark Souls 3’s servers are offline again",
+          "imageUrl": "https://assets2.rockpapershotgun.com/dark-souls-3-servers-down.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/dark-souls-3-servers-down.jpg"
+        },
+        {
+          "id": "https://www.rockpapershotgun.com/the-diofield-chronicle-review",
+          "author": "Katharine Castle",
+          "description": "Have you ever played a game and thought, \"Are we actually the bad guys here?\" Usually, the whole \"we're fighting on the wrong side of history\" line is a deliberate plot device in RPGs, offering moments of clarity to not only peel back the curtain and provide fresh impetus for the events yet to come, but also to cleverly reframe everything you've achieved so far. I don't say this to spoil the events of The DioField Chronicle, the new real-time strategy game from Lancarse and Square Enix, but it is a question I found myself asking a lot during its middle act - and it never quite delivers the punchline you're looking for. \nAround 8-10 hours into the game, there's an extended portion of the campaign that sees your band of Blue Fox mercenaries bringing an entire region of DioField Island to heel because they're, err, pro democracy. Of the cast's central quartet, only one stands up as a voice of reason when motions are made to quell these despicable riots, but he's repeatedly shot down every time he tries to offer an alternate view. Eventually, one character says to him, and I quote, \"Isca, what has got into you? You ought to know the danger posed by the ideology of democracy.\" It's an odd stance for someone clearly not a villain to take in 2022, although really, I should have probably seen it coming. Our mercs work for a duke after all, and most are aristocratic nobles who are handy with a sword. Oh no. I think this might actually be played: Tories - The Game. Yuck. \nRead more",
+          "link": "https://www.rockpapershotgun.com/the-diofield-chronicle-review",
+          "publishedOn": "2022-09-22T09:00:00.000Z",
+          "wordCount": 5929,
+          "title": "The DioField Chronicle review: deep real-time strategy that gets mired in its own plot",
+          "imageUrl": "https://assets2.rockpapershotgun.com/diofield-chronicle-fred.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diofield-chronicle-fred.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/whats-better-ding-or-the-howie-scream",
           "author": "Alice O'Connor",
@@ -7532,16 +7582,6 @@
           "wordCount": 4890,
           "title": "Battlefield's next campaign being developed by Halo co-creator's new studio",
           "imageUrl": "https://assets2.rockpapershotgun.com/battlefield-bad-company-2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/battlefield-bad-company-2.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/steam-has-launched-new-hub-pages-to-make-browsing-genres-and-tags-easier",
-          "author": "Graham Smith",
-          "description": "The Steam store has been updated to introduce revised hub pages for tags, genres, theme and category pages. The changes include clearer personal recommendations, easier access to subcategories, and further options for searching and filtering. The changes come after months of testing as one of Valve's Steam Labs experiments.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/steam-has-launched-new-hub-pages-to-make-browsing-genres-and-tags-easier",
-          "publishedOn": "2022-09-08T21:02:37.000Z",
-          "wordCount": 4752,
-          "title": "Steam has launched new hub pages to make browsing genres and tags easier",
-          "imageUrl": "https://assets2.rockpapershotgun.com/new-steam-hubs.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/new-steam-hubs.jpg"
         }
       ]
     },
@@ -9829,21 +9869,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/dJag4RBKrDxUgRXvMios88.jpg"
-        },
-        {
-          "id": "Ar7X8LeAba5xApGjh7QgzE",
-          "author": "palcorn@outlook.com (Paul Alcorn)",
-          "description": "You can get a surprisingly powerful processor for less than $60. We've tested several cheap CPUs to help you find the right one for your needs and budget.",
-          "link": "https://www.tomshardware.com/reviews/best-cheap-cpus,5668.html",
-          "publishedOn": "2022-09-08T20:54:06.000Z",
-          "wordCount": 20932,
-          "title": "Best Cheap CPUs of 2022, Tested and Ranked",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/8m2rPmCVPyqnZUanatbtHM.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/8m2rPmCVPyqnZUanatbtHM.jpg"
         }
       ]
     },
@@ -11945,16 +11970,6 @@
           "wordCount": 1764,
           "title": "From “stop the spread” to “you do you”: NY mask policy has experts facepalming",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/FcEGxLZXkAEdVAW-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1879847",
-          "author": "Jon Brodkin",
-          "description": "$100K reward for Michael Pratt, who was charged with sex trafficking in 2019.",
-          "link": "https://arstechnica.com/?p=1879847",
-          "publishedOn": "2022-09-08T21:11:21.000Z",
-          "wordCount": 1518,
-          "title": "GirlsDoPorn founder, on the run for 3 years, now on FBI’s Ten Most Wanted list",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/michael-pratt-most-wanted-760x380.jpg"
         }
       ]
     },
@@ -11963,6 +11978,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291542",
+          "author": null,
+          "description": "Och \"Wonderlands\" ser ut att kunna bli en egen serie.",
+          "link": "https://www.fz.se/artikel/291542-tiny-tinas-wonderlands-overtraffade-gearbox-forvantningar",
+          "publishedOn": "2022-09-22T09:00:00.000Z",
+          "wordCount": 1855,
+          "title": "Tiny Tina's Wonderlands överträffade Gearbox förväntningar",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291542"
+        },
         {
           "id": "https://www.fz.se/artikel/291541",
           "author": null,
@@ -14448,6 +14473,16 @@
       "siteUrl": "https://www.theregister.com/",
       "articles": [
         {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/22/bank_of_england_oracle/",
+          "author": null,
+          "description": "<h4>After venturing into HCM, UK's central bank embarks on finance and procurement journey with Big Red</h4> <p>The UK's central bank is on the hunt for a service partner as it plans to expand its finance, procurement, and recruitment applications into the Oracle Cloud.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/22/bank_of_england_oracle/",
+          "publishedOn": "2022-09-22T09:26:13.000Z",
+          "wordCount": 1179,
+          "title": "Bank of England seeks partner to support Oracle Cloud implementation",
+          "imageUrl": "https://regmedia.co.uk/2020/10/30/shutterstock_bank_of_england.jpg"
+        },
+        {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/22/schneider_electric_aveva/",
           "author": null,
           "description": "<h4>French industrial conglomerate pays $10.75b, but already owned lion's share of industrial software specialist</h4> <p><strong>Analysis</strong>  Yet another major UK technology business is to pass into foreign ownership with Schneider Electric's £9.48 billion (c $10.75 billion) deal to acquire all the outstanding shares in Aveva.…</p>",
@@ -16566,16 +16601,6 @@
           "wordCount": 1697,
           "title": "Mandiant ‘highly confident’ foreign cyberspies will target US midterm elections",
           "imageUrl": "https://regmedia.co.uk/2022/09/08/putin_i_voted_sticker_russian_election_interference_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/08/google_fuzz_rewards/",
-          "author": null,
-          "description": "<h4>We'll even get our checkbook out, web giant says</h4> <p>Google's open source security team says OSS-Fuzz, its community fuzzing service, has helped fix more than 8,000 security vulnerabilities and 26,000 other bugs in open source projects since its 2016 debut.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/08/google_fuzz_rewards/",
-          "publishedOn": "2022-09-08T21:00:59.000Z",
-          "wordCount": 1482,
-          "title": "Google urges open source community to fuzz test code",
-          "imageUrl": "https://regmedia.co.uk/2021/01/26/shutterstock_chaos.jpg"
         }
       ]
     }
