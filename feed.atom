@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-21T23:28:08.224Z</updated>
+    <updated>2022-09-22T02:31:52.398Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Alert: 15-year-old Python tarfile flaw lurks in 'over 350,000' code projects]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/22/python_vulnerability_tarfile/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/22/python_vulnerability_tarfile/"/>
+        <updated>2022-09-22T01:16:12.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Oh cool, a 5,500-day security hole</h4> <p>At least 350,000 open source projects are believed to be potentially vulnerable to exploitation via a Python module flaw that has remained unfixed for 15 years.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia Details GeForce RTX 4090 FE PCB: 23 Phases and Clean Power]]></title>
+        <id>9NRUvXhBGqAvE3GRHQJZrL</id>
+        <link href="https://www.tomshardware.com/news/nvidia-details-geforce-rtx-4090-fe-pcb-23-phases-and-clean-power"/>
+        <updated>2022-09-22T00:45:53.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia's GeForce RTX 4090 FE uses VRM with a PID controller feedback loop to eliminate current spikes and drops.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[San Francisco cops can use private cameras to live-monitor 'significant events']]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/21/san_francisco_private_cameras/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/21/san_francisco_private_cameras/"/>
+        <updated>2022-09-21T23:52:21.000Z</updated>
+        <summary type="html"><![CDATA[<h4>All eyes on you, and you, and you</h4> <p>San Francisco police are now set to use non-city-owned video cameras for real-time surveillance under a rule approved by the Board of Supervisors.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesa 22.3 RadeonSI Enables OpenGL Threading By Default To Enhance Performance]]></title>
+        <id>https://www.phoronix.com/news/Mesa-22.3-RadeonSI-glthread-On</id>
+        <link href="https://www.phoronix.com/news/Mesa-22.3-RadeonSI-glthread-On"/>
+        <updated>2022-09-21T23:44:01.000Z</updated>
+        <summary type="html"><![CDATA[Back in August I wrote about AMD developers looking at OpenGL threading by default for their RadeonSI Gallium3D driver. One month later that change has now landed for next quarter's Mesa 22.3 -- barring any issues coming up that would lead to it being reverted...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Andor first impressions: Star Wars inches toward the best of modern adult TV]]></title>
+        <id>https://arstechnica.com/?p=1883626</id>
+        <link href="https://arstechnica.com/?p=1883626"/>
+        <updated>2022-09-21T23:26:55.000Z</updated>
+        <summary type="html"><![CDATA[The darkest Star Wars series yet takes too long to establish positive momentum.]]></summary>
+        <author>
+            <name>Sam Machkovech</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta, Google learn the art of the quiet layoff]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/21/meta_google_layoffs/</id>
@@ -19358,301 +19408,6 @@ Speaking to TrueTrophies (via TrueAchievements), Andrew Shouldice praised Micros
 Read more]]></summary>
         <author>
             <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5 weird games out in September that I might not have time to review but really want to]]></title>
-        <id>https://www.rockpapershotgun.com/5-weird-games-out-in-september-that-i-might-not-have-time-to-review-but-really-want-to</id>
-        <link href="https://www.rockpapershotgun.com/5-weird-games-out-in-september-that-i-might-not-have-time-to-review-but-really-want-to"/>
-        <updated>2022-09-08T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[I saw a panel of thriller authors a couple of months back and one of them made reference to "the fat chapter", and the others all went "Ohhhh, yes, the fat chapter!". Thriller writers deal in short, snappy chapters, and the fat chapter is the one that ends up getting a load of events or exposition shoved into it, somewhere in the second half, because they wouldn't fit anywhere else. Every year in games there's a fat month, where loads of games come out and loads of them look really good and there is never enough time godammit.
-This year that month is September. There are so many games out this month that look so much my jam that I want to spread 'em on my morning toast, but September is also the month that a lot of RPS staff have holiday booked - including me, for two weeks, which means that if these games do get reviewed it probably won't be by me. But know that I have my beady little eyes on 'em.
-Read more]]></summary>
-        <author>
-            <name>Alice Bell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Gaming Microphones for 2022]]></title>
-        <id>hK5jTyt4kmaVx2rLTEfngP</id>
-        <link href="https://www.tomshardware.com/reviews/best-gaming-microphones,6247.html"/>
-        <updated>2022-09-08T14:25:24.000Z</updated>
-        <summary type="html"><![CDATA[Whether you're chatting with teammates or streaming on Twitch, these are the best gaming microphones to buy in 2022.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Football Manager 2023 scores a PC and Game Pass release date of November 8th]]></title>
-        <id>https://www.rockpapershotgun.com/football-manager-2023-scores-a-pc-and-game-pass-release-date-of-november-8th</id>
-        <link href="https://www.rockpapershotgun.com/football-manager-2023-scores-a-pc-and-game-pass-release-date-of-november-8th"/>
-        <updated>2022-09-08T14:18:09.000Z</updated>
-        <summary type="html"><![CDATA[Football Manager 2023 starts its career on November 8th, publishers Sega have announced today, and it’s also coming to Game Pass on launch day alongside its regular PC release. Put on your warmest big coat and take a glance at the stats-heavy trailer below.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia RTX 40 Series Debut Expected at Sept 20 GeForce Beyond Event]]></title>
-        <id>LRv8Vut9ocJmR97dSqnCJn</id>
-        <link href="https://www.tomshardware.com/news/nvidia-rtx-40-series-debut-expected-at-sept-20-geforce-beyond-event"/>
-        <updated>2022-09-08T14:13:41.000Z</updated>
-        <summary type="html"><![CDATA[Press invites arrived a few hours after a mysterious teaser emerged. The special event will begin at 8am PT on the day, and be followed by the Nvidia CEO’s keynote speech.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NTT Docomo claims first 5G network with both sub-6 GHz and mmWave]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/08/ntt_docomo_5g/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/08/ntt_docomo_5g/"/>
-        <updated>2022-09-08T14:06:12.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Handsets with Qualcomm's Snapdragon 8 Gen 1 platform should be able to take full advantage</h4> <p>Japanese telco NTT Docomo claims to have the world's first commercial 5G Standalone (SA) network that enables smartphones to simultaneously use both mid-band (sub-6 GHz) and mmWave frequencies, known as 5G NR Dual Connectivity.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CD Projekt bedyrar "fullt engagemang" i Cyberpunk-ip:t bortom expansionen]]></title>
-        <id>https://www.fz.se/artikel/291393</id>
-        <link href="https://www.fz.se/artikel/291393-cd-projekt-bedyrar-fullt-engagemang-i-cyberpunk-ipt-bortom-expansionen"/>
-        <updated>2022-09-08T14:01:34.000Z</updated>
-        <summary type="html"><![CDATA[Har beslutat att bara göra en expansion.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Temtem review: a Pokemon-like that listens to what fans want]]></title>
-        <id>https://www.rockpapershotgun.com/temtem-review</id>
-        <link href="https://www.rockpapershotgun.com/temtem-review"/>
-        <updated>2022-09-08T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Temtem’s inspiration has always been clear. We didn’t beat around the bush when it entered early access back in 2020 - Cian Maher called it the best Pokemon game in years - and I won’t beat around the bush now. It’s still the best Pokemon game in years. It borrows so much from Nintendo's behemoth, but it also takes some much-needed lessons that Game Freak fails to recognise, taking the formula to its highest evolution yet.
-Read more]]></summary>
-        <author>
-            <name>Hayden Hefford</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soul Hackers 2: Atlus' new Persona-lite has major tech problems]]></title>
-        <id>https://www.eurogamer.net/digitalfoundry-2022-soul-hackers-2-atlus-new-persona-lite-has-major-tech-problems</id>
-        <link href="https://www.eurogamer.net/digitalfoundry-2022-soul-hackers-2-atlus-new-persona-lite-has-major-tech-problems"/>
-        <updated>2022-09-08T13:57:00.000Z</updated>
-        <summary type="html"><![CDATA[What's the longest you've ever waited for a video game sequel? Devil Summoner: Soul Hackers was released all the way back in 1997 on the Sega Saturn, a first-person dungeon crawler JRPG made by developer Atlus. Four console generations later we finally have a sequel - Soul Hackers 2 - though it's really a standalone game with mostly thematic connections to the original. 25 years is a long time in computer graphics, and Soul Hackers 2 has a wide variety of tech it could potentially use - but early footage didn't exactly impress. There's little here to suggest that the current wave of consoles are being taxed by this Persona-lite release - and the knock-on effect of that seems to be that the last-gen machines get some shocking ports, especially the vanilla Xbox One. 
-
-
-Soul Hackers 2 borrows its gameplay elements from other recent Atlus titles, so at a basic level, it's a turn-based RPG oriented around exploiting weaknesses, which is an enjoyable enough system but nothing out-of-the ordinary for RPG veterans. There are some twists, like an overkill-style mechanic that rewards strategic play, and plenty of customization. But this isn't especially novel. Elsewhere, however, this game really shines. Soul Hackers 2 is a party-oriented title that weaves multiple characters through a winding, serialised story. Interpersonal conflicts and interactions take center stage here, and a social system gamifies out-of-combat interactions, giving simple conversations actual consequences. It's more like a TV show than a movie, with a 'villain of the week'-style narrative that features multiple short story arcs that build over time. 
-
-
-This formula is fairly novel by industry standards but if you've played other recent Atlus RPGs - particularly Persona 5 or Tokyo Mirage Sessions - you'll know what to expect. That fortunately extends to the rest of the package as well, with a keen sense of visual style. But you can't make a video game out of artistic flourishes alone - so how does the 3D rendering hold up?
- 
-Read more]]></summary>
-        <author>
-            <name>Oliver Mackenzie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD announces FidelityFX Super Resolution 2.1 upgrade]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/amd-announces-fidelityfx-super-resolution-21-upgrade/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/amd-announces-fidelityfx-super-resolution-21-upgrade/"/>
-        <updated>2022-09-08T13:53:50.000Z</updated>
-        <summary type="html"><![CDATA[AMD continue pushing ahead with improvements to their upscaling tech FidelityFX Super Resolution with version 2.1 already available now.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What do you get when you combine an iPad and an e-bike?]]></title>
-        <id>https://arstechnica.com/?p=1868078</id>
-        <link href="https://arstechnica.com/?p=1868078"/>
-        <updated>2022-09-08T13:45:31.000Z</updated>
-        <summary type="html"><![CDATA[The Urtopia Carbon is a decent bike that tries to do a lot with its software.]]></summary>
-        <author>
-            <name>John Timmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Proton Experimental fixes up Red Dead Redemption 2, gets more games working]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/proton-experimental-fixes-up-red-dead-redemption-2-gets-more-games-working/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/proton-experimental-fixes-up-red-dead-redemption-2-gets-more-games-working/"/>
-        <updated>2022-09-08T13:42:58.000Z</updated>
-        <summary type="html"><![CDATA[Recently Red Dead Redemption 2 had a big update which amongst other things, added in FidelityX Super Resolution (FSR) 2.0. Sadly, it broke it on Linux and Steam Deck but Valve already have a fix out but you need to pick it manually for now.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jeep will launch four all-electric SUVs in the US by 2025]]></title>
-        <id>https://arstechnica.com/?p=1879630</id>
-        <link href="https://arstechnica.com/?p=1879630"/>
-        <updated>2022-09-08T13:38:08.000Z</updated>
-        <summary type="html"><![CDATA[First up are the all-new Jeep Recon and the Jeep Wagoneer S.]]></summary>
-        <author>
-            <name>Eric Bangeman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Releases FidelityFX Super Resolution FSR 2.1]]></title>
-        <id>https://www.phoronix.com/news/AMD-FidelityFX-FSR-2.1</id>
-        <link href="https://www.phoronix.com/news/AMD-FidelityFX-FSR-2.1"/>
-        <updated>2022-09-08T13:37:33.000Z</updated>
-        <summary type="html"><![CDATA[AMD's GPUOpen group has released an updated version of FidelityFX Super Resolution 2. The new FSR 2.1 brings quality enhancements and a reduction in artifacts as the primary benefits over the original FSR2 that was unvelied earlier this year and open-sourced during the summer...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lira Wolfenstein: Enemy Territory som förr - officiella servrar är igång igen]]></title>
-        <id>https://www.fz.se/artikel/291392</id>
-        <link href="https://www.fz.se/artikel/291392-lira-wolfenstein-enemy-territory-som-forr-officiella-servrar-ar-igang-igen"/>
-        <updated>2022-09-08T13:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Vanilla-versionen.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Private equity suits at Thoma Bravo pull out of Darktrace acquisition]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/08/thoma_bravo_darktrace/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/08/thoma_bravo_darktrace/"/>
-        <updated>2022-09-08T13:00:14.000Z</updated>
-        <summary type="html"><![CDATA[<h4>'Enterprise immune system' sees share price slump</h4> <p>US private equity investor Thoma Bravo has pulled out of its planned takeover of Darktrace, causing shares in the UK cybersecurity company to plummet.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony reveals new grey camouflage PlayStation 5 collection]]></title>
-        <id>https://www.eurogamer.net/sony-reveals-new-grey-camouflage-playstation-5-collection</id>
-        <link href="https://www.eurogamer.net/sony-reveals-new-grey-camouflage-playstation-5-collection"/>
-        <updated>2022-09-08T12:59:29.000Z</updated>
-        <summary type="html"><![CDATA[A new collection of PlayStation 5 accessories will be hitting the market soon.
-
-
-These are all part of the grey camouflage collection, which Sony says will "bring a fresh unique aesthetic into play". The collection consists of the DualSense controller, the Pulse 3D wireless headset, and console covers for the PlayStation 5. 
-
-Here is a little preview for the collection for you to enjoy.
- Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Budget 4K Monitors 2022]]></title>
-        <id>y4oq6BQNp35aQq9C2uTqTK</id>
-        <link href="https://www.tomshardware.com/best-picks/best-budget-4k-monitor"/>
-        <updated>2022-09-08T12:58:20.000Z</updated>
-        <summary type="html"><![CDATA[We tested a room full of screens to find the best budget 4K monitors, including 32-inch, curved and gaming options.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Basmodell av Xbox Elite 2-kontrollen avtäckt - avskalad och 700 kr billigare]]></title>
-        <id>https://www.fz.se/artikel/291391</id>
-        <link href="https://www.fz.se/artikel/291391-basmodell-av-xbox-elite-2-kontrollen-avtackt-avskalad-och-700-kr-billigare"/>
-        <updated>2022-09-08T12:15:36.000Z</updated>
-        <summary type="html"><![CDATA[För dig som klarar dig utan extra spakar och väska.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberpunk 2077's Roach Race is out on mobile now]]></title>
-        <id>https://www.eurogamer.net/cyberpunk-2077s-roach-race-is-out-on-mobile-now</id>
-        <link href="https://www.eurogamer.net/cyberpunk-2077s-roach-race-is-out-on-mobile-now"/>
-        <updated>2022-09-08T12:12:21.000Z</updated>
-        <summary type="html"><![CDATA[Roach Race, the mobile port of Cyberpunk 2077's in-game arcade game, is out now on mobile for free.
-
-The game was announced during the Edgerunners Special livestream earlier this week, where details of the upcoming expansion Phantom Liberty were revealed.
-
-The livestream also included information on the Edgerunners update, which added the aforementioned arcade cabinet to the game.
- 
-Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft släpper billigare Elite-kontroll]]></title>
-        <id>https://www.sweclockers.com/artikel/34889</id>
-        <link href="https://www.sweclockers.com/artikel/34889-microsoft-slapper-billigare-elite-kontroll"/>
-        <updated>2022-09-08T12:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Microsofts Elite-kontroll erbjuds nu i mer avskalad variant där endast de väsentliga tillbehören skickas med.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Temtem devs address its premium battle pass controversy]]></title>
-        <id>https://www.rockpapershotgun.com/temtem-devs-address-its-premium-battle-pass-controversy</id>
-        <link href="https://www.rockpapershotgun.com/temtem-devs-address-its-premium-battle-pass-controversy"/>
-        <updated>2022-09-08T12:08:29.000Z</updated>
-        <summary type="html"><![CDATA[Monster-taming MMO Temtem just launched out of early access on PC earlier this week, but developers Crema have taken to Discord to defend the game’s paid battle pass. Some players have been getting themselves very worked up over the inclusion of a paid pass in a full-priced game. Yet there’s been a plan to include a battle pass in Temtem for years. Check out the game’s launch trailer below while you wrap your head around it all.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monoprice Joule Review: Cheap 3D Printer, No New Ideas]]></title>
-        <id>pD2htVNiphTi7NZ5HBm6bV</id>
-        <link href="https://www.tomshardware.com/reviews/monoprice-joule-review"/>
-        <updated>2022-09-08T12:00:50.000Z</updated>
-        <summary type="html"><![CDATA[The Monoprice Joule is an Ender style clone at a bargain price.]]></summary>
-        <author>
-            <name>stldenise@gmail.com (Denise Bertacchi)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lazarus Group unleashed a MagicRAT to spy on energy providers]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/08/lazarus_group_energy_firms_trade_secrets/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/08/lazarus_group_energy_firms_trade_secrets/"/>
-        <updated>2022-09-08T12:00:09.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Cisco finds custom malware in North Korea's latest cyberespionage effort</h4> <p>The North Korean state-sponsored crime ring Lazarus Group is behind a new cyberespionage campaign with the goal to steal data and trade secrets from energy providers across the US, Canada and Japan, according to Cisco Talos.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jack Move review: a bite-sized JRPG that blends Neuromancer with Final Fantasy VII]]></title>
-        <id>https://www.rockpapershotgun.com/jack-move-review</id>
-        <link href="https://www.rockpapershotgun.com/jack-move-review"/>
-        <updated>2022-09-08T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It cannot be a coincidence that 1997 is a pivotal year in the world of Jack Move. In the game, it's the year everything went dark in this turn-based Japanese-style RPG, with a solar storm biffing the world's electronics. It threw the world into chaos, giving rise to the megacorps that now control the dystopian cyberpunk society where our heroine Noa is trying to make a living. In the real world, of course, 1997 was the year Final Fantasy VII came out, the seminal JRPG that Jack Move owes a great deal to (right down to its menu plink plink sound). Developers So Romantic have said outright that it's been one of the main inspirations for Jack Move, and its shady corporate powers and grungy urban landscape certainly feel of a piece with ShinRa's grip on the city of Midgar. 
-But the bigwigs at MonoMind aren't out to poison the world and suck the life from it in Jack Move. Instead, they're more concerned with using their newfound technological powers to find eternal life – a classic 'upload your mind to the metaverse' kind of tale you'll probably recognise if you've read any of the cyberpunk 101 novels such as William Gibson's Neuromancer or Permutation City by Greg Egan. Jack Move's story doesn't tread any new ground in this respect, but Noa and her hacker pal Ryder are a fiery spirited pair that make this six-hour tale of espionage and rebellion against its cartoonish villain well worth dipping into. Yes, you read that correctly. A JRPG you can polish off in a single day of play. Bliss.
-Read more]]></summary>
-        <author>
-            <name>Katharine Castle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bring a little light this month with charming adventure game The Spirit And The Mouse]]></title>
-        <id>https://www.rockpapershotgun.com/bring-a-little-light-this-month-with-charming-adventure-game-the-spirit-and-the-mouse</id>
-        <link href="https://www.rockpapershotgun.com/bring-a-little-light-this-month-with-charming-adventure-game-the-spirit-and-the-mouse"/>
-        <updated>2022-09-08T11:58:28.000Z</updated>
-        <summary type="html"><![CDATA[Indie team Alblune, which consists of developers Lucie Lessuyer and Alexandre Stroukoff, have a release date for their cute new game The Spirit And The Mouse, a narrative-focussed adventure game with some platforming thrown in. In order to save the cosy town of Sainte-et-Claire, a charming mouse called Lila and a soft spirit called Lumion join forces to restore the town and its people. They'll be teaming up on Steam later this month on September 26th. Check out the trailer below.
-Read more]]></summary>
-        <author>
-            <name>Eden Assiene</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Division: Heartland details are out in the wild thanks to a now-deleted store page]]></title>
-        <id>https://www.vg247.com/the-division-heartland-details-are-out-in-the-wild-thanks-to-a-now-deleted-store-page</id>
-        <link href="https://www.vg247.com/the-division-heartland-details-are-out-in-the-wild-thanks-to-a-now-deleted-store-page"/>
-        <updated>2022-09-08T11:50:31.000Z</updated>
-        <summary type="html"><![CDATA[The next game in The Division series may have had its details released early, thanks to the Ubisoft store page for the game being set live prematurely. While the website has since been hastily taken down, a handful of eagle-eyed people on the internet managed to catch if before it vanished, and published the info online.
-One such person, Unknown1Z1 on Twitter, recorded the page in full prior to its removal. In it, we can see several features we can expect to come to the game, as well as a basic description of what it’ll actually be.
-The Division: Heartland will be a “free-to-play survival-action multiplayer shooter” according to the store listing. Set in middle America, the game will have a PvEvP mission type called Storm Operations, which has 45 players take part in a battle against “A group of dangerous rogue agents, an aggressive faction known as The Vultures, all while surviving a lethal virus”.
- Read more]]></summary>
-        <author>
-            <name>Connor Makar</name>
         </author>
     </entry>
 </feed>
