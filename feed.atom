@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-22T17:35:13.036Z</updated>
+    <updated>2022-09-22T18:31:27.784Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Equinix tests out fuel cells as alternative for datacenter power]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/22/equinix_fuel_cell_datacenter/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/22/equinix_fuel_cell_datacenter/"/>
+        <updated>2022-09-22T18:16:11.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Teams up with National University of Singapore on proof-of-concept designs</h4> <p>Equinix has teamed up with the National University of Singapore to investigate the potential of hydrogen as a green fuel source for datacenter infrastructure.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nära att Resident Evil Village fick ett Chris Redfield-dlc]]></title>
+        <id>https://www.fz.se/artikel/291549</id>
+        <link href="https://www.fz.se/artikel/291549-nara-att-resident-evil-village-fick-ett-chris-redfield-dlc"/>
+        <updated>2022-09-22T17:53:00.000Z</updated>
+        <summary type="html"><![CDATA[I stället blev det Rose Winters-dlc.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft CEO "very confident" Activision Blizzard acquisition will be approved]]></title>
+        <id>https://www.eurogamer.net/microsoft-ceo-very-confident-activision-blizzard-acquisition-will-be-approved</id>
+        <link href="https://www.eurogamer.net/microsoft-ceo-very-confident-activision-blizzard-acquisition-will-be-approved"/>
+        <updated>2022-09-22T17:47:53.000Z</updated>
+        <summary type="html"><![CDATA[As Microsoft starts to feel more heat from regulatory bodies over its $69bn acquisition of Activision Blizzard, CEO Satya Nadella has said he's "very confident” the deal will go through.
+
+
+Governmental scrutiny of Microsoft's acquisition has grown in recent weeks, with the UK's Competition and Markets Authority announcing it was moving to a more in-depth "phase 2" of its investigation, having determined the acquisition would give rise to the "realistic prospect of a substantial lessening of competition in gaming consoles, multi-game subscription services, and cloud gaming services."
+
+
+Sony, too, has grown increasingly vocal over the proposed deal, particularly as it pertains to potential console exclusivity around the likes of Call of Duty. Early this month, for instance, PlayStation head Jim Ryan called Microsoft's reassurances that the hugely popular shooter would remain on PS5 post-acquisition "inadequate".
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arctic MX-6 Thermal Grease to Replace Storied MX-5]]></title>
+        <id>BnQ3PDpYVufrZTnZ4H4PoU</id>
+        <link href="https://www.tomshardware.com/news/arctic-mx-6-thermal-grease-set-to-launch"/>
+        <updated>2022-09-22T17:42:53.000Z</updated>
+        <summary type="html"><![CDATA[Arctic to release next-generation ultimate performance thermal compound, the MX-6.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta told to pay $175m to walkie-talkie techies for infringing IP]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/22/meta_vs_voxer/</id>
@@ -14,6 +62,16 @@
         <summary type="html"><![CDATA[<h4>Facebook and Instagram Live use same programming described in Voxer patents, says jury</h4> <p>A Texas jury this week ordered Meta Platforms to pay more than $174 million for infringing patents held by walkie-talkie techies at Voxer, who sell an iPhone app that lets you instantly send messages across the internet as you are speaking.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is Moore’s law actually dead this time? Nvidia seems to think so]]></title>
+        <id>https://arstechnica.com/?p=1883729</id>
+        <link href="https://arstechnica.com/?p=1883729"/>
+        <updated>2022-09-22T17:08:51.000Z</updated>
+        <summary type="html"><![CDATA[Chips "going... down in price is a story of the past," CEO says.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
         </author>
     </entry>
     <entry>
@@ -34,6 +92,16 @@
         <summary type="html"><![CDATA[Spelande på språng kan vara svårt att få till. Därför tittar vi närmare på ett antal speltitlar att spela när du vill, var du vill.]]></summary>
         <author>
             <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI model from OpenAI automatically recognizes speech and translates it to English]]></title>
+        <id>https://arstechnica.com/?p=1883524</id>
+        <link href="https://arstechnica.com/?p=1883524"/>
+        <updated>2022-09-22T16:48:28.000Z</updated>
+        <summary type="html"><![CDATA["Whisper" open source model may become a building block in future speech-to-text apps.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
         </author>
     </entry>
     <entry>
@@ -19648,16 +19716,6 @@ pactl list sinks]]></summary>
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/09/idc_switch_router_trackers_q2/"/>
         <updated>2022-09-09T06:44:05.000Z</updated>
         <summary type="html"><![CDATA[<h4>Clouds are buying plenty, but there's lots of product left for the rest of us – outside Russia</h4> <p>Major networking vendors continue to report supply chain challenges, but the market for their switches and routers is growing at quite a clip according to analyst outfit IDC.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple co-founder Steve Jobs memorialized with online archive of emails, guff]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/09/apple_jobs_archived/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/09/apple_jobs_archived/"/>
-        <updated>2022-09-09T06:01:10.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Top tip: Skip the memos with cancer advice</h4> <p><strong>Comment</strong>  At CodeCon 2022 on Wednesday, Apple CEO Tim Cook, former Apple chief design officer Jony Ive, and billionaire business executive Laurene Powell Jobs launched the Steve Jobs Archive, an online repository to honor the legacy of Apple's co-founder and CEO for many years.…</p>]]></summary>
         <author>
             <name>The Register</name>
         </author>
