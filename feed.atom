@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-22T18:31:27.784Z</updated>
+    <updated>2022-09-22T19:22:06.190Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Japanese boffins build solar-powered, remote-controlled cyborg cockroach]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/22/japanese_solar_powered_cyborg_cockroach/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/22/japanese_solar_powered_cyborg_cockroach/"/>
+        <updated>2022-09-22T19:04:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Neat idea until you remember that roaches and sunlight, not a good mix</h4> <p>A research breakthrough in Japan could mean future search and rescue missions are conducted using cyborg cockroaches. What's more, an ultra-thin solar film is the real star of this show. …</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Omtyckta Call of the Sea till VR]]></title>
+        <id>https://www.fz.se/artikel/291550</id>
+        <link href="https://www.fz.se/artikel/291550-omtyckta-call-of-the-sea-till-vr"/>
+        <updated>2022-09-22T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Till havs! Och Meta Quest 2.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lawsuits say Meta evaded Apple privacy settings to spy on millions of users]]></title>
+        <id>https://arstechnica.com/?p=1883760</id>
+        <link href="https://arstechnica.com/?p=1883760"/>
+        <updated>2022-09-22T18:28:59.000Z</updated>
+        <summary type="html"><![CDATA[A former Google engineer reported the risk, but Meta found no privacy concern.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Equinix tests out fuel cells as alternative for datacenter power]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/22/equinix_fuel_cell_datacenter/</id>
@@ -14,6 +44,16 @@
         <summary type="html"><![CDATA[<h4>Teams up with National University of Singapore on proof-of-concept designs</h4> <p>Equinix has teamed up with the National University of Singapore to investigate the potential of hydrogen as a green fuel source for datacenter infrastructure.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Florida to Supreme Court: Let us regulate social networks as common carriers]]></title>
+        <id>https://arstechnica.com/?p=1883762</id>
+        <link href="https://arstechnica.com/?p=1883762"/>
+        <updated>2022-09-22T18:01:45.000Z</updated>
+        <summary type="html"><![CDATA[Florida law was blocked by lower courts that found it violates First Amendment.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
         </author>
     </entry>
     <entry>
@@ -19688,36 +19728,6 @@ pactl list sources
 pactl list sinks]]></summary>
         <author>
             <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slafsiga Evil West har fått en lång gameplay-trailer]]></title>
-        <id>https://www.fz.se/artikel/291399</id>
-        <link href="https://www.fz.se/artikel/291399-slafsiga-evil-west-har-fatt-en-lang-gameplay-trailer"/>
-        <updated>2022-09-09T06:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Mosa vampyrer i vilda västern.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comic for 2022.09.09 - Email]]></title>
-        <id>https://explosm.net/comics/email</id>
-        <link href="https://explosm.net/comics/email"/>
-        <updated>2022-09-09T06:50:44.000Z</updated>
-        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
-        <author>
-            <name>Explosm.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Switch and router sales surge, with 200/400 gigabit Ethernet kit growing fastest]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/09/idc_switch_router_trackers_q2/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/09/idc_switch_router_trackers_q2/"/>
-        <updated>2022-09-09T06:44:05.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Clouds are buying plenty, but there's lots of product left for the rest of us – outside Russia</h4> <p>Major networking vendors continue to report supply chain challenges, but the market for their switches and routers is growing at quite a clip according to analyst outfit IDC.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>

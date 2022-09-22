@@ -10767,6 +10767,26 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1883760",
+          "author": "Ashley Belanger",
+          "description": "A former Google engineer reported the risk, but Meta found no privacy concern.",
+          "link": "https://arstechnica.com/?p=1883760",
+          "publishedOn": "2022-09-22T18:28:59.000Z",
+          "wordCount": 1777,
+          "title": "Lawsuits say Meta evaded Apple privacy settings to spy on millions of users",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1368413581-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1883762",
+          "author": "Jon Brodkin",
+          "description": "Florida law was blocked by lower courts that found it violates First Amendment.",
+          "link": "https://arstechnica.com/?p=1883762",
+          "publishedOn": "2022-09-22T18:01:45.000Z",
+          "wordCount": 1593,
+          "title": "Florida to Supreme Court: Let us regulate social networks as common carriers",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-supreme-court-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1883729",
           "author": "Kyle Orland",
           "description": "Chips \"going... down in price is a story of the past,\" CEO says.",
@@ -12534,6 +12554,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291550",
+          "author": null,
+          "description": "Till havs! Och Meta Quest 2.",
+          "link": "https://www.fz.se/artikel/291550-omtyckta-call-of-the-sea-till-vr",
+          "publishedOn": "2022-09-22T18:30:00.000Z",
+          "wordCount": 1815,
+          "title": "Omtyckta Call of the Sea till VR",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291550"
+        },
+        {
           "id": "https://www.fz.se/artikel/291549",
           "author": null,
           "description": "I stället blev det Rose Winters-dlc.",
@@ -14152,16 +14182,6 @@
           "wordCount": 1876,
           "title": "Capcom berättar vad de ska visa upp under Tokyo Game Show",
           "imageUrl": "https://www.fz.se/artikel/og-image/291400"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291399",
-          "author": null,
-          "description": "Mosa vampyrer i vilda västern.",
-          "link": "https://www.fz.se/artikel/291399-slafsiga-evil-west-har-fatt-en-lang-gameplay-trailer",
-          "publishedOn": "2022-09-09T06:59:00.000Z",
-          "wordCount": 1867,
-          "title": "Slafsiga Evil West har fått en lång gameplay-trailer",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291399"
         }
       ]
     },
@@ -14989,16 +15009,6 @@
           "wordCount": 639,
           "title": "Comic for 2022.09.10 - Oldest Friend",
           "imageUrl": null
-        },
-        {
-          "id": "https://explosm.net/comics/email",
-          "author": null,
-          "description": "New Cyanide and Happiness Comic",
-          "link": "https://explosm.net/comics/email",
-          "publishedOn": "2022-09-09T06:50:44.000Z",
-          "wordCount": 638,
-          "title": "Comic for 2022.09.09 - Email",
-          "imageUrl": null
         }
       ]
     },
@@ -15137,6 +15147,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/22/japanese_solar_powered_cyborg_cockroach/",
+          "author": null,
+          "description": "<h4>Neat idea until you remember that roaches and sunlight, not a good mix</h4> <p>A research breakthrough in Japan could mean future search and rescue missions are conducted using cyborg cockroaches. What's more, an ultra-thin solar film is the real star of this show. …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/22/japanese_solar_powered_cyborg_cockroach/",
+          "publishedOn": "2022-09-22T19:04:10.000Z",
+          "wordCount": 1458,
+          "title": "Japanese boffins build solar-powered, remote-controlled cyborg cockroach",
+          "imageUrl": "https://regmedia.co.uk/2022/09/22/cyber-roach.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/22/equinix_fuel_cell_datacenter/",
           "author": null,
@@ -17286,16 +17306,6 @@
           "wordCount": 1197,
           "title": "Using the datacenter as a dining room destroyed the platters that matter",
           "imageUrl": "https://regmedia.co.uk/2019/08/09/mouse_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/09/idc_switch_router_trackers_q2/",
-          "author": null,
-          "description": "<h4>Clouds are buying plenty, but there's lots of product left for the rest of us – outside Russia</h4> <p>Major networking vendors continue to report supply chain challenges, but the market for their switches and routers is growing at quite a clip according to analyst outfit IDC.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/09/idc_switch_router_trackers_q2/",
-          "publishedOn": "2022-09-09T06:44:05.000Z",
-          "wordCount": 1264,
-          "title": "Switch and router sales surge, with 200/400 gigabit Ethernet kit growing fastest",
-          "imageUrl": "https://regmedia.co.uk/2022/04/12/shutterstock_network_switch.jpg"
         }
       ]
     }
