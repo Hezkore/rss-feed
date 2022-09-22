@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-22T20:28:04.486Z</updated>
+    <updated>2022-09-22T21:24:19.769Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mesa 22.3 Merges The Big Draw Throughput Improvement For Intel's Vulkan Driver]]></title>
+        <id>https://www.phoronix.com/news/Mesa-22.3-Lands-Intel-Draw-OH</id>
+        <link href="https://www.phoronix.com/news/Mesa-22.3-Lands-Intel-Draw-OH"/>
+        <updated>2022-09-22T21:00:11.000Z</updated>
+        <summary type="html"><![CDATA[From two weeks back you may recall the small patches that led to increasing Intel's Vulkan driver draw throughput by ~60%+. Well, as of yesterday the refined version of that work has landed within Mesa 22.3...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Check out this Android spyware, says Microsoft, the home of a gazillion Windows flaws]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/22/microsoft_android_spyware_endpoint/</id>
@@ -19592,126 +19602,6 @@ Elsewhere, I talk about A Plague Tale: Requiem, which I played a healthy chunk o
 Read more]]></summary>
         <author>
             <name>Robert Purchese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jonathan Dowland: memtest]]></title>
-        <id>https://jmtd.net/log/memtest/</id>
-        <link href="https://jmtd.net/log/memtest/"/>
-        <updated>2022-09-09T09:23:19.000Z</updated>
-        <summary type="html"><![CDATA[Since I'm writing about my NAS, a month ago I happened to
-notice an odd kernel message:
-Aug 8 04:04] list_del corruption. prev->next should be ffff90c96e9c2090,
-but was ffff90c94e9c2090
-
-A kernel dev friend said "I'm familiar with that code ... you should run memtest86".
-This seemed like advice it would be foolish to ignore!
-I installed the memtest86 package, which on Debian stable, is actually the
-formerly open-source "memtest86" software, last updated in 2014, rather than
-the currently open-source "memtest86+". However the package (incorrectly, I
-think) Recommends: memtest86+ so I ended up with both. The package scripts
-integrate with GRUB, so both were added as boot options.
-Neither however, would boot on my NAS, which is a UEFI system: after selection
-from the GRUB prompt, I just had a blank screen. I focussed for a short while
-on display issues: I wondered if trying to run a 4k monitor over HDMI was too
-much to expect from a memory tester OS, but my mainboard has a VGA out as well.
-It has some quirky behaviour for the VGA out: the firmware doesn't use it at
-all, so output only begins appearing after something boots (GRUB for example).
-I fiddled about with the HDMI output, VGA output, and trying different RGB
-cables, to no avail.
-The issue was (likely) nothing to do with the video out, but rather that the
-packaged versions of memtest/memtest86+ don't work properly on UEFI
-systems. What did work, was Passmark Software's non-FOSS
-memtest86. It drew on HDMI, albeit in a postage
-stamp sized window. After some time (much less than I expected, some kind of
-magic modern memory matrix stuff going on I think), I got a clean bill of
-health:
-
-
-
-
-
-
-It's quite possible the FOSS versions of memtest (pcmemtest is another)
-have better support for UEFI in more recent versions than I installed (I
-just went with what's in Debian stable), and if not, then this is a worthy
-feature to work on.]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What we've been playing]]></title>
-        <id>https://www.eurogamer.net/what-weve-been-playing-75</id>
-        <link href="https://www.eurogamer.net/what-weve-been-playing-75"/>
-        <updated>2022-09-09T09:13:09.000Z</updated>
-        <summary type="html"><![CDATA[Hello! Welcome back to our regular feature where we write a little bit about some of the games we've found ourselves playing over the last few days. This time: morgues, graphic novels, and a bit of editing.
-If you fancy catching up on some of the older editions of What We've Been Playing, 
-here's our archive.
-I had a proper creep-out playing The Mortuary Assistant the other day. All my hair stood on end and I was sweating and my heart was thudding. And it wasn't the middle of the night or anything - it was late afternoon and RuPaul's Drag Race Down Under was blaring in the background - but it didn't matter: I shuddered.
- Read more]]></summary>
-        <author>
-            <name>Eurogamer staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best CPU Deals: Save on AMD and Intel]]></title>
-        <id>vnsiEZTe49beWsoRouBYKH</id>
-        <link href="https://www.tomshardware.com/features/best-cpu-deals"/>
-        <updated>2022-09-09T09:08:48.000Z</updated>
-        <summary type="html"><![CDATA[We're rounding up the best deals on CPUs.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.1 To Drop Radeon DRM Driver's Legacy & Broken DP MST Code]]></title>
-        <id>https://www.phoronix.com/news/DRM-Misc-Next-6.1-Old-DP-MST</id>
-        <link href="https://www.phoronix.com/news/DRM-Misc-Next-6.1-Old-DP-MST"/>
-        <updated>2022-09-09T09:06:53.000Z</updated>
-        <summary type="html"><![CDATA[In addition to the drm-misc-next pull from earlier in the week, another set of Direct Rendering Manager updates for the core DRM code and smaller drivers has now been submitted for DRM-Next...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Missa inte Disney & Marvel Games Showcase som sänds i kväll]]></title>
-        <id>https://www.fz.se/artikel/291401</id>
-        <link href="https://www.fz.se/artikel/291401-missa-inte-disney-marvel-games-showcase-som-sands-i-kvall"/>
-        <updated>2022-09-09T09:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Det vankas Star Wars, superhjältar och annat.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The new Library Mode in Wine manager Bottles looks awesome]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/the-new-library-mode-in-wine-manager-bottles-looks-awesome/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/the-new-library-mode-in-wine-manager-bottles-looks-awesome/"/>
-        <updated>2022-09-09T08:53:12.000Z</updated>
-        <summary type="html"><![CDATA[Here's an update I missed recently somehow. Bottles, the application you can use for managing various Windows games and apps installed with Wine had a fresh update with a fancy new Library Mode.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Pixel 6 ser ut att börja säljas i Sverige]]></title>
-        <id>https://www.sweclockers.com/artikel/34897</id>
-        <link href="https://www.sweclockers.com/artikel/34897-google-pixel-6-ser-ut-att-borja-saljas-i-sverige"/>
-        <updated>2022-09-09T08:49:35.000Z</updated>
-        <summary type="html"><![CDATA[Google har i samband med sin 24-årsdag råkat avslöja att eftertraktade Pixel 6 återfinns bland födelsedagsfirandets kampanjerbjudanden.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crusader Kings III: Friends & Foes out with free update and Free Weekend]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/crusader-kings-iii-friends-a-foes-out-with-free-update-and-free-weekend/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/crusader-kings-iii-friends-a-foes-out-with-free-update-and-free-weekend/"/>
-        <updated>2022-09-09T08:44:38.000Z</updated>
-        <summary type="html"><![CDATA[Crusader Kings III has a big free update out now, plus the Crusader Kings III: Friends & Foes event pack is out now. You can also try the game free this weekend.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
         </author>
     </entry>
 </feed>
