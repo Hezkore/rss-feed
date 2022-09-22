@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-22T21:24:19.769Z</updated>
+    <updated>2022-09-22T22:27:13.910Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Federal agencies buying Americans' internet data challenged by US senators]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/22/federal_agencies_american_data/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/22/federal_agencies_american_data/"/>
+        <updated>2022-09-22T21:53:40.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Maybe we don't want to go with the netflow, man</h4> <p>US government agencies have been buying, to some degree, details of Americans' internet activities from data brokers – and US Senator Ron Wyden (D-OR) wants an explanation.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asus Readies Intel Z790 Motherboards with DDR4 Support]]></title>
+        <id>JgFyS2fu7yguv9Jej3V33F</id>
+        <link href="https://www.tomshardware.com/news/asus-readies-intel-z790-motherboards-with-ddr4-support"/>
+        <updated>2022-09-22T21:24:20.000Z</updated>
+        <summary type="html"><![CDATA[Intel's new top-of-the-range platform will be available with the DDR4 option.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mesa 22.3 Merges The Big Draw Throughput Improvement For Intel's Vulkan Driver]]></title>
         <id>https://www.phoronix.com/news/Mesa-22.3-Lands-Intel-Draw-OH</id>
@@ -14,6 +34,36 @@
         <summary type="html"><![CDATA[From two weeks back you may recall the small patches that led to increasing Intel's Vulkan driver draw throughput by ~60%+. Well, as of yesterday the refined version of that work has landed within Mesa 22.3...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackathon finds dozens of Ukrainian refugees trafficked online]]></title>
+        <id>https://arstechnica.com/?p=1883832</id>
+        <link href="https://arstechnica.com/?p=1883832"/>
+        <updated>2022-09-22T20:47:05.000Z</updated>
+        <summary type="html"><![CDATA[Europol also identified dozens of online users suspected of exploiting refugees.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hunga Tonga eruption put over 50B kilograms of water into the stratosphere]]></title>
+        <id>https://arstechnica.com/?p=1883835</id>
+        <link href="https://arstechnica.com/?p=1883835"/>
+        <updated>2022-09-22T20:37:34.000Z</updated>
+        <summary type="html"><![CDATA[New study shows eruption plume circled the globe multiple times in the stratosphere.]]></summary>
+        <author>
+            <name>John Timmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla issues recall for 1.1 million EVs due to power window problem]]></title>
+        <id>https://arstechnica.com/?p=1883836</id>
+        <link href="https://arstechnica.com/?p=1883836"/>
+        <updated>2022-09-22T20:24:06.000Z</updated>
+        <summary type="html"><![CDATA[A closing window could pinch someone thanks to problems with the reversal action.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
         </author>
     </entry>
     <entry>
@@ -19454,154 +19504,6 @@ Much like the expansion before it, this DLC will be available as a part of the S
         <summary type="html"><![CDATA[Last month I wrote about the work being done by Jason Ekstrand for switching RADV completely over to dynamic rendering. That work has now panned out and as of a few minutes ago the transition to "100%" dynamic rendering for RADV has landed in Mesa 22.3...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Prepares More RDNA3 Code, New GPU Reset Mode For RX 6000 Series With Linux 6.1]]></title>
-        <id>https://www.phoronix.com/news/AMDGPU-Linux-6.1-Mode2-RDNA2</id>
-        <link href="https://www.phoronix.com/news/AMDGPU-Linux-6.1-Mode2-RDNA2"/>
-        <updated>2022-09-09T10:24:22.000Z</updated>
-        <summary type="html"><![CDATA[AMD has submitted an initial big batch of AMDGPU kernel graphics driver changes to DRM-Next ahead of the Linux 6.1 merge window...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stalker 2 pre-orders being refunded due to release delay]]></title>
-        <id>https://www.eurogamer.net/stalker-2-pre-orders-being-refunded-due-to-release-delay</id>
-        <link href="https://www.eurogamer.net/stalker-2-pre-orders-being-refunded-due-to-release-delay"/>
-        <updated>2022-09-09T10:13:35.000Z</updated>
-        <summary type="html"><![CDATA[Those who pre-ordered Stalker 2 are seeing their purchases refunded.
-
-
-A report from XGP (via VGC), reveals that those who had pre-ordered the game have been receiving messages informing them that their orders have now been cancelled. 
-
-
-The message goes on to state this is due to the fact that Stalker 2's release date has been pushed back to an "unconfirmed date in the future". Meanwhile, the pre-order option on the Xbox store appears to have been disabled.
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Details from Amy Hennig’s Marvel game emerge ahead of today's Disney & Marvel Games Showcase]]></title>
-        <id>https://www.rockpapershotgun.com/details-from-amy-hennigs-marvel-game-emerge-ahead-of-todays-disney-marvel-games-showcase</id>
-        <link href="https://www.rockpapershotgun.com/details-from-amy-hennigs-marvel-game-emerge-ahead-of-todays-disney-marvel-games-showcase"/>
-        <updated>2022-09-09T10:06:40.000Z</updated>
-        <summary type="html"><![CDATA[Some details from Skydance New Media’s in-development Marvel game appear to have leaked, ahead of the game’s debut at Disney D23's games showcase later today. The game is alleged to star national superheroes Captain America and Wakanda’s Black Panther, and take place during World War 2. Skydance’s project is being headed up by former Uncharted director Amy Hennig, helmer of such unfortunately cancelled projects as Visceral's Star Wars action-adventure.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Stranger of Paradise expansion will feature Gilgamesh]]></title>
-        <id>https://www.eurogamer.net/new-stranger-of-paradise-expansion-will-feature-gilgamesh</id>
-        <link href="https://www.eurogamer.net/new-stranger-of-paradise-expansion-will-feature-gilgamesh"/>
-        <updated>2022-09-09T10:04:28.000Z</updated>
-        <summary type="html"><![CDATA[Square Enix has announced the next expansion mission for Stranger of Paradise Final Fantasy Origin, which will release on 26th October.
-
-
-Named Wanderer of the Rift, it will feature Gilgamesh - a recurring character in the series initially introduced as the antagonist of Final Fantasy 5.
-
-
-Footage of the expansion is included in the below reveal teaser trailer.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Software Freedom Conservancy Votes To Accept Sourceware.org]]></title>
-        <id>https://www.phoronix.com/news/SFC-Sourceware-Votes</id>
-        <link href="https://www.phoronix.com/news/SFC-Sourceware-Votes"/>
-        <updated>2022-09-09T10:02:51.000Z</updated>
-        <summary type="html"><![CDATA[For the past two decades Red Hat has been behind Sourceware.org for providing hosting for open-source projects like Cygwin, GNU GCC, GDB, Glibc, and many other projects. While Red Hat continues to sponsor the hosting and having their employees be involved with the Sourceware.org maintenance, etc, for ensuring a secured future they have been looking to hookup with the Software Freedom Conservancy (SFC). The SFC has now voted in favor of accepting this long-time open-source hosting service into their umbrella...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minecraft Legends]]></title>
-        <id>https://www.fz.se/artikel/291337</id>
-        <link href="https://www.fz.se/artikel/291337-minecraft-legends"/>
-        <updated>2022-09-09T09:56:00.000Z</updated>
-        <summary type="html"><![CDATA[När Minecraft anammar strategigenren görs det med egna spelregler.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are Tomb Raider and Deus Ex now out of the wilderness?]]></title>
-        <id>https://www.vg247.com/are-tomb-raider-and-deus-ex-now-out-of-the-wilderness</id>
-        <link href="https://www.vg247.com/are-tomb-raider-and-deus-ex-now-out-of-the-wilderness"/>
-        <updated>2022-09-09T09:55:02.000Z</updated>
-        <summary type="html"><![CDATA[Control of the Tomb Raider and Deus Ex IPs has now officially transferred to Eidos Montreal and Crystal Dynamics following their surprisingly cheap sale from Square Enix to Embracer Group. Alex and Jim wonder what this means for the future in the video below.
-We know that a new Tomb Raider game is in active development. It’s being developed in Unreal Engine 5, and is set to “unify the timelines” of the classic games and the reboot trilogy. Quite how that will pan out is anyone’s guess: three games in, the reboot trilogy is still at a stage where Lara hasn’t *quite* become the Tomb Raider yet. Not quite risen. Not quite unveiled, still in shadow. See what they did there?
-And so, though it introduced supernatural elements early on, the reboot has a lot of as-yet-unspun connective tissue to make up before any convincing bridge between Lara’s traumatic origins having to wade through the gritty realism of shooting Russian mercenaries and feeling quite bad about it, and her zenith (or nadir, depending on who you ask) as a wisecracking aristo thief who gleefully guns to death the last actual living T-Rex.
- Read more]]></summary>
-        <author>
-            <name>Jim Trinca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DuckDB, database wrangler used by Google, Facebook, and Airbnb, hits 0.5.0]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/09/duckdb_0_5_0/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/09/duckdb_0_5_0/"/>
-        <updated>2022-09-09T09:45:11.000Z</updated>
-        <summary type="html"><![CDATA[<h4>System look well suited to fill gaps in traditional OLAP market</h4> <p>DuckDB – the in-process analytical database management system used by Google, Facebook, and Airbnb – has released its 0.5.0 iteration.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RADV Ray-Tracing Now Works With AMD's Radeon GPU Profiler]]></title>
-        <id>https://www.phoronix.com/news/RADV-RT-AMD-RGP-Support</id>
-        <link href="https://www.phoronix.com/news/RADV-RT-AMD-RGP-Support"/>
-        <updated>2022-09-09T09:35:07.000Z</updated>
-        <summary type="html"><![CDATA[Thanks to Samuel Pitoiset of Valve's open-source Linux graphics driver team, the Mesa Radeon Vulkan driver "RADV" now works with the AMD/GPUOpen Radeon GPU Profiler...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eurogamer supporters get free early entry to this month's EGX]]></title>
-        <id>https://www.eurogamer.net/eurogamer-supporters-get-free-early-entry-to-this-months-egx</id>
-        <link href="https://www.eurogamer.net/eurogamer-supporters-get-free-early-entry-to-this-months-egx"/>
-        <updated>2022-09-09T09:33:18.000Z</updated>
-        <summary type="html"><![CDATA[EGX is just around the corner, and as a small bonus to all supporters of Eurogamer we're offering free upgrades to an early access ticket for the show. You can find a code to claim on your ReedPop ID page, and if you've already bought a ticket and want to take advantage of the free early access upgrade get in touch and we'll sort you with a refund for your original purchase. 
-
-
-There's some decent games to check out, though if I'm honest I'll mostly be hanging around the Street Fighter 6 booths - plus some fun live shows, with Bertie putting on a pub quiz on the Friday and Saturday evenings while Ian and Zoe have just put their schedule together. I'll even be there myself, so if you want to come and say hello I'm sure you'll find me at The Fox just over the road from the show itself on the Friday and Saturday.
-
-
-It'd be lovely to see a few of you to thank you in person for supporting us, as it means a lot to us! It's coming up to a year since we launched the supporter programme, which has seen the return of regular podcasts, the off-topic features and the weekly newsletter from myself. 
- 
-Read more]]></summary>
-        <author>
-            <name>Martin Robinson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Splatoon 3 wasn't quite an Essential but still splats]]></title>
-        <id>https://www.eurogamer.net/why-splatoon-3-wasnt-quite-an-essential-but-still-splats</id>
-        <link href="https://www.eurogamer.net/why-splatoon-3-wasnt-quite-an-essential-but-still-splats"/>
-        <updated>2022-09-09T09:28:39.000Z</updated>
-        <summary type="html"><![CDATA[Take a break with a quick recap of the things you missed on Eurogamer this week, plus a little more discussion of them. It's the Weekly podcast show.
-
-
-Joining me today are returning-from-holiday editor-in-chief Martin Robinson, who tells us all about Splatoon 3, which he just reviewed. Why didn't he give it an Essential like all the other Nintendo games he reviews, hmm? With the help of news reporter Victoria Kennedy, we put him on the spot.
-
-
-Elsewhere, I talk about A Plague Tale: Requiem, which I played a healthy chunk of this week and have reservations about, though I'm still looking forward to it coming out next month. And we think about going back to Cyberpunk 2077 for new story expansion Phantom Liberty, which, if The Witcher 3 expansion Blood and Wine is anything to go by, ought to be good.
- 
-Read more]]></summary>
-        <author>
-            <name>Robert Purchese</name>
         </author>
     </entry>
 </feed>
