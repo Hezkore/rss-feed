@@ -7542,26 +7542,6 @@
           "wordCount": 4752,
           "title": "Steam has launched new hub pages to make browsing genres and tags easier",
           "imageUrl": "https://assets2.rockpapershotgun.com/new-steam-hubs.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/new-steam-hubs.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/wolfenstein-enemy-territory-now-has-new-official-dedicated-servers",
-          "author": "Graham Smith",
-          "description": "I somehow missed that Wolfenstein: Enemy Territory came to Steam back in April, 19 years after it was first released. Now Bethesda have announced that they're launching new dedicated servers for the free World War 2 shooter, which will all run the six original maps with no mods.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/wolfenstein-enemy-territory-now-has-new-official-dedicated-servers",
-          "publishedOn": "2022-09-08T20:16:12.000Z",
-          "wordCount": 4767,
-          "title": "Wolfenstein: Enemy Territory now has new official dedicated servers",
-          "imageUrl": "https://assets2.rockpapershotgun.com/wolfenstein-enemy-territory.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/wolfenstein-enemy-territory.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/eidos-montreal-is-now-the-owner-of-deus-ex-and-thief-games-but-dont-get-too-excited",
-          "author": "Graham Smith",
-          "description": "Eidos Montreal, the studio behind recent Thief and Deus Ex games, say they are \"now the owner of the games [we] developed, like the Deus Ex and Thief games.\" Likewise, Crystal Dynamics say they have taken \"control\" of its Tomb Raider and Legacy Of Kain games from their previous owner, Square Enix.\r\n\nWhich sounds like a big deal, but really both studios are just reporting a change to their terms of service and privacy notices since they were bought by Embracer Group last month.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/eidos-montreal-is-now-the-owner-of-deus-ex-and-thief-games-but-dont-get-too-excited",
-          "publishedOn": "2022-09-08T19:53:42.000Z",
-          "wordCount": 4870,
-          "title": "Eidos Montreal is \"now the owner\" of Deus Ex and Thief games, but don't get too excited",
-          "imageUrl": "https://assets2.rockpapershotgun.com/deus-ex-mankind-divided.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/deus-ex-mankind-divided.jpg"
         }
       ]
     },
@@ -11984,6 +11964,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291541",
+          "author": null,
+          "description": "Kan du överleva de slaviska, hemsökta skogarna?",
+          "link": "https://www.fz.se/artikel/291541-det-morka-strategispelet-gord-visar-upp-massor-av-gameplay",
+          "publishedOn": "2022-09-22T07:58:00.000Z",
+          "wordCount": 1881,
+          "title": "Det mörka strategispelet Gord visar upp massor av gameplay",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291541"
+        },
+        {
           "id": "https://www.fz.se/artikel/291540",
           "author": null,
           "description": "Den tidigare läckan visade sig stämma.",
@@ -13531,6 +13521,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34960",
+          "author": null,
+          "description": "Visa din vedervärdiga eller välpolerade kabeldragning för chans att vinna Asus ROG:s trådlösa kringutrustning.",
+          "link": "https://www.sweclockers.com/artikel/34960-tavling-klipp-sladden-med-asus-och-vinn-pakostad-kringutrustning",
+          "publishedOn": "2022-09-22T08:09:08.000Z",
+          "wordCount": 2300,
+          "title": "Tävling: Klipp sladden med Asus och vinn påkostad kringutrustning",
+          "imageUrl": "https://www.sweclockers.com/artikel/34960/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34962",
           "author": null,
           "description": "Logitech kastar sig in i molnspelssfären med Android-enheten G Cloud, som är byggd med molnspelande i fokus.",
@@ -14447,6 +14447,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/22/schneider_electric_aveva/",
+          "author": null,
+          "description": "<h4>French industrial conglomerate pays $10.75b, but already owned lion's share of industrial software specialist</h4> <p><strong>Analysis</strong>  Yet another major UK technology business is to pass into foreign ownership with Schneider Electric's £9.48 billion (c $10.75 billion) deal to acquire all the outstanding shares in Aveva.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/22/schneider_electric_aveva/",
+          "publishedOn": "2022-09-22T08:30:14.000Z",
+          "wordCount": 1471,
+          "title": "Another UK tech company bought out: Schneider Electric grabs rest of Aveva",
+          "imageUrl": "https://regmedia.co.uk/2019/07/10/shutterstock_ics_example.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/22/jwst_neptune_images_faults/",
           "author": null,
@@ -16566,36 +16576,6 @@
           "wordCount": 1482,
           "title": "Google urges open source community to fuzz test code",
           "imageUrl": "https://regmedia.co.uk/2021/01/26/shutterstock_chaos.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/08/microsoft_sql_server_linux_rc/",
-          "author": null,
-          "description": "<h4>Redmond loves open source so much, it keeps most of its stuff closed</h4> <p>Just weeks after rolling out SQL Server 2022 Release Candidate 0 for Windows, Microsoft is following with a release candidate for Linux systems.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/08/microsoft_sql_server_linux_rc/",
-          "publishedOn": "2022-09-08T20:10:07.000Z",
-          "wordCount": 1480,
-          "title": "Microsoft offers SQL Server 2022 release candidate to Linux world",
-          "imageUrl": "https://regmedia.co.uk/2016/11/18/microsoft_linux.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/08/microsoft_sql_server_linux/",
-          "author": null,
-          "description": "<h4>Remond modernizes database management system for an open and cloudy world</h4> <p>Just weeks after rolling out SQL Server 2022 Release Candidate 0 for Windows, Microsoft is following with a release candidate for Linux systems.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/08/microsoft_sql_server_linux/",
-          "publishedOn": "2022-09-08T20:10:07.000Z",
-          "wordCount": 1470,
-          "title": "Microsoft unveils SQL Server release candidate for Linux",
-          "imageUrl": "https://regmedia.co.uk/2016/11/18/microsoft_linux.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/08/queen_elizabeth_dies/",
-          "author": null,
-          "description": "<h4>HME2 signs off</h4> <p><strong>Obit</strong>  Queen Elizabeth Alexandra Mary Windsor has died, ending the reign of Britain's longest-serving monarch. She was 96.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/08/queen_elizabeth_dies/",
-          "publishedOn": "2022-09-08T19:44:46.000Z",
-          "wordCount": 1524,
-          "title": "Rest in peace, Queen Elizabeth II – Britain's first high-tech monarch",
-          "imageUrl": "https://regmedia.co.uk/2022/09/08/queen_shutterstock.jpg"
         }
       ]
     }
