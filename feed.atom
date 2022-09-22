@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-22T09:28:48.713Z</updated>
+    <updated>2022-09-22T10:28:28.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jonathan Dowland: Nine Inch Nails, Cornwall, June]]></title>
+        <id>https://jmtd.net/log/nin_cornwall/</id>
+        <link href="https://jmtd.net/log/nin_cornwall/"/>
+        <updated>2022-09-22T10:09:30.000Z</updated>
+        <summary type="html"><![CDATA[In June I travelled to see Nine Inch Nails perform two nights at the Eden
+Project in Cornwall. It'd been eight
+years since I last saw them live and when they announced
+the Eden shows, I thought it might be the only chance I'd get to see them for a
+long time. I committed, and sods law, a week or so later they announced a
+handful of single-night UK club shows. On the other hand, on previous tours
+where they'd typically book two club nights in each city, I've attended one
+night and always felt I should have done both, so this time I was making that
+happen.
+Newquay
+
+
+approach by air
+
+
+Towan Beach (I think)
+For personal reasons it's been a difficult year so it was nice to treat
+myself to a mini holiday. I stayed in Newquay, a seaside town with many
+similarities to the North East coast, as well …]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Speeds Up Mesa VA-API Video Acceleration For FFmpeg]]></title>
+        <id>https://www.phoronix.com/news/Microsoft-Mesa-Faster-VA-API</id>
+        <link href="https://www.phoronix.com/news/Microsoft-Mesa-Faster-VA-API"/>
+        <updated>2022-09-22T10:00:46.000Z</updated>
+        <summary type="html"><![CDATA[A Microsoft engineer has landed an improvement to the Mesa Gallium3D Video Acceleration "VA" state tracker that can allow for faster video processing times and greater GPU utilization...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quiz – Vad kan du om spelvärldens Vilda västern?]]></title>
+        <id>https://www.fz.se/artikel/291068</id>
+        <link href="https://www.fz.se/artikel/291068-quiz-vad-kan-du-om-spelvarldens-vilda-vastern"/>
+        <updated>2022-09-22T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Evil West, Hard West 2, Weird West. Vilda västern fortsätter vara aktuell i spelvärlden.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Releases AOM-AV1 3.5 With More Speedups & Memory Optimizations]]></title>
+        <id>https://www.phoronix.com/news/AOM-AV1-3.5</id>
+        <link href="https://www.phoronix.com/news/AOM-AV1-3.5"/>
+        <updated>2022-09-22T09:33:44.000Z</updated>
+        <summary type="html"><![CDATA[Google engineers on Wednesday released AOM-AV1 3.5 as the newest version of their open-source AV1 video encoder. With AOM-AV1 3.5 comes yet more performance improvements as well as memory optimizations...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bank of England seeks partner to support Oracle Cloud implementation]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/22/bank_of_england_oracle/</id>
@@ -18734,91 +18792,6 @@ pactl list sinks]]></summary>
         <summary type="html"><![CDATA[<h4>Nothing like an authentication bypass for your private IPSec network</h4> <p>Cisco patched three security vulnerabilities in its products this week, and said it will leave unpatched a VPN-hijacking flaw that affects four small business routers.…</p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The knives are out again in first teaser for Glass Onion]]></title>
-        <id>https://arstechnica.com/?p=1879703</id>
-        <link href="https://arstechnica.com/?p=1879703"/>
-        <updated>2022-09-08T22:24:46.000Z</updated>
-        <summary type="html"><![CDATA["Lock the doors. Stay in your rooms. Everyone is in danger."]]></summary>
-        <author>
-            <name>Jennifer Ouellette</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mandiant ‘highly confident’ foreign cyberspies will target US midterm elections]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/08/mandiant_cyberspies_us_elections/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/08/mandiant_cyberspies_us_elections/"/>
-        <updated>2022-09-08T22:18:24.000Z</updated>
-        <summary type="html"><![CDATA[<h4>It is with a heavy heart that we must announce that the hackers are at it again</h4> <p>Mandiant is "highly confident" that foreign cyberspies will target US election infrastructure, organizations, and individuals in the run-up to the November midterm elections.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Reveals Specifications For Arc Alchemist Desktop GPUs]]></title>
-        <id>ASDWp2URJyDVQ2wwFrXkKV</id>
-        <link href="https://www.tomshardware.com/news/intel-reveals-specifications-for-arc-alchemist-desktop-gpus"/>
-        <updated>2022-09-08T22:17:02.000Z</updated>
-        <summary type="html"><![CDATA[Almost everything you wanted to know about Arc Alchemist desktop GPUs, except actual performance numbers, is here.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Details More Arc Graphics A-Series Hardware Specifications]]></title>
-        <id>https://www.phoronix.com/news/Intel-Arc-More-GPU-Specs</id>
-        <link href="https://www.phoronix.com/news/Intel-Arc-More-GPU-Specs"/>
-        <updated>2022-09-08T22:15:57.000Z</updated>
-        <summary type="html"><![CDATA[Intel has detailed more of the Arc Graphics A-Series hardware specifications for upcoming models, including the A700 series...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From “stop the spread” to “you do you”: NY mask policy has experts facepalming]]></title>
-        <id>https://arstechnica.com/?p=1879862</id>
-        <link href="https://arstechnica.com/?p=1879862"/>
-        <updated>2022-09-08T21:49:27.000Z</updated>
-        <summary type="html"><![CDATA[The messaging is seen as a "low point" in public health messaging.]]></summary>
-        <author>
-            <name>Beth Mole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some PCIe 5.0 SSDs Confined to 10 GBps; Others Hit 12.4 GBps]]></title>
-        <id>fNS2yuPuzuk8pSdKyJcRcK</id>
-        <link href="https://www.tomshardware.com/news/some-pcie-50-ssds-confined-to-10-gbps-others-hit-124-gbps"/>
-        <updated>2022-09-08T21:43:09.000Z</updated>
-        <summary type="html"><![CDATA[The lack of fast 3D NAND chips limits the performance of SSDs with a PCIe 5.0 x4 interface.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Arc Alchemist: Release Date, Specs, Everything We Know]]></title>
-        <id>nWr63xWHu6HV3WCRNkDmsk</id>
-        <link href="https://www.tomshardware.com/news/intel-arc-alchemist-release-date-specs-pricing-all-we-know"/>
-        <updated>2022-09-08T21:41:30.000Z</updated>
-        <summary type="html"><![CDATA[Intel's Arc Alchemist will be the company's first 'true' dedicated graphics card in over two decades, sporting a new architecture and vastly improved features and performance for Intel GPUs. Here's everything we know.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Battlefield's next campaign being developed by Halo co-creator's new studio]]></title>
-        <id>https://www.rockpapershotgun.com/battlefields-next-campaign-being-developed-by-halo-co-creators-new-studio</id>
-        <link href="https://www.rockpapershotgun.com/battlefields-next-campaign-being-developed-by-halo-co-creators-new-studio"/>
-        <updated>2022-09-08T21:36:47.000Z</updated>
-        <summary type="html"><![CDATA[In an announcement today, general manager of the Battlefield series Byron Beede announced that Ridgeline Games, the new EA studio led by Halo co-creator Marcus Lehto, is developing the next singleplayer campaign in the series.
-
-Beede also wrote that they are "all-in on Battlefield", with DICE continuing to work on Battlefield multiplayer and a third studio, Ripple Effect, "creating an entirely new Battlefield experience."
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
         </author>
     </entry>
 </feed>

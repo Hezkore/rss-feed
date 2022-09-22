@@ -5087,6 +5087,26 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Microsoft-Mesa-Faster-VA-API",
+          "author": null,
+          "description": "A Microsoft engineer has landed an improvement to the Mesa Gallium3D Video Acceleration \"VA\" state tracker that can allow for faster video processing times and greater GPU utilization...",
+          "link": "https://www.phoronix.com/news/Microsoft-Mesa-Faster-VA-API",
+          "publishedOn": "2022-09-22T10:00:46.000Z",
+          "wordCount": 1399,
+          "title": "Microsoft Speeds Up Mesa VA-API Video Acceleration For FFmpeg",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/AOM-AV1-3.5",
+          "author": null,
+          "description": "Google engineers on Wednesday released AOM-AV1 3.5 as the newest version of their open-source AV1 video encoder. With AOM-AV1 3.5 comes yet more performance improvements as well as memory optimizations...",
+          "link": "https://www.phoronix.com/news/AOM-AV1-3.5",
+          "publishedOn": "2022-09-22T09:33:44.000Z",
+          "wordCount": 1554,
+          "title": "Google Releases AOM-AV1 3.5 With More Speedups & Memory Optimizations",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Debian-12-Alpha-1-Installer",
           "author": null,
           "description": "The first alpha release of the Debian Installer to be used by Debian 12 \"Bookworm\" is now available for early testing...",
@@ -6304,16 +6324,6 @@
           "publishedOn": "2022-09-09T00:28:47.000Z",
           "wordCount": 1689,
           "title": "Intel Acquires The Team Behind ArrayFire GPU Acceleration / Parallel Computing Software",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Intel-Arc-More-GPU-Specs",
-          "author": null,
-          "description": "Intel has detailed more of the Arc Graphics A-Series hardware specifications for upcoming models, including the A700 series...",
-          "link": "https://www.phoronix.com/news/Intel-Arc-More-GPU-Specs",
-          "publishedOn": "2022-09-08T22:15:57.000Z",
-          "wordCount": 1338,
-          "title": "Intel Details More Arc Graphics A-Series Hardware Specifications",
           "imageUrl": null
         }
       ]
@@ -7572,16 +7582,6 @@
           "wordCount": 5107,
           "title": "Details from Amy Hennig’s Marvel game emerge ahead of today's Disney & Marvel Games Showcase",
           "imageUrl": "https://assets2.rockpapershotgun.com/marvels-midnight-suns-captain-america.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/marvels-midnight-suns-captain-america.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/battlefields-next-campaign-being-developed-by-halo-co-creators-new-studio",
-          "author": "Graham Smith",
-          "description": "In an announcement today, general manager of the Battlefield series Byron Beede announced that Ridgeline Games, the new EA studio led by Halo co-creator Marcus Lehto, is developing the next singleplayer campaign in the series.\r\n\nBeede also wrote that they are \"all-in on Battlefield\", with DICE continuing to work on Battlefield multiplayer and a third studio, Ripple Effect, \"creating an entirely new Battlefield experience.\"\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/battlefields-next-campaign-being-developed-by-halo-co-creators-new-studio",
-          "publishedOn": "2022-09-08T21:36:47.000Z",
-          "wordCount": 4890,
-          "title": "Battlefield's next campaign being developed by Halo co-creator's new studio",
-          "imageUrl": "https://assets2.rockpapershotgun.com/battlefield-bad-company-2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/battlefield-bad-company-2.jpg"
         }
       ]
     },
@@ -9824,51 +9824,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/GJnQxsii8vgdgDVZPGYHVD.jpg"
-        },
-        {
-          "id": "ASDWp2URJyDVQ2wwFrXkKV",
-          "author": null,
-          "description": "Almost everything you wanted to know about Arc Alchemist desktop GPUs, except actual performance numbers, is here.",
-          "link": "https://www.tomshardware.com/news/intel-reveals-specifications-for-arc-alchemist-desktop-gpus",
-          "publishedOn": "2022-09-08T22:17:02.000Z",
-          "wordCount": 18932,
-          "title": "Intel Reveals Specifications For Arc Alchemist Desktop GPUs",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/ZBfcfeSDmbKBxkrzadQgh6.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/ZBfcfeSDmbKBxkrzadQgh6.jpg"
-        },
-        {
-          "id": "fNS2yuPuzuk8pSdKyJcRcK",
-          "author": null,
-          "description": "The lack of fast 3D NAND chips limits the performance of SSDs with a PCIe 5.0 x4 interface.",
-          "link": "https://www.tomshardware.com/news/some-pcie-50-ssds-confined-to-10-gbps-others-hit-124-gbps",
-          "publishedOn": "2022-09-08T21:43:09.000Z",
-          "wordCount": 17959,
-          "title": "Some PCIe 5.0 SSDs Confined to 10 GBps; Others Hit 12.4 GBps",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/pAc7PWSax8ybNnb9AsAf6C.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/pAc7PWSax8ybNnb9AsAf6C.jpg"
-        },
-        {
-          "id": "nWr63xWHu6HV3WCRNkDmsk",
-          "author": null,
-          "description": "Intel's Arc Alchemist will be the company's first 'true' dedicated graphics card in over two decades, sporting a new architecture and vastly improved features and performance for Intel GPUs. Here's everything we know.",
-          "link": "https://www.tomshardware.com/news/intel-arc-alchemist-release-date-specs-pricing-all-we-know",
-          "publishedOn": "2022-09-08T21:41:30.000Z",
-          "wordCount": 26691,
-          "title": "Intel Arc Alchemist: Release Date, Specs, Everything We Know",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/dJag4RBKrDxUgRXvMios88.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/dJag4RBKrDxUgRXvMios88.jpg"
         }
       ]
     },
@@ -9877,6 +9832,16 @@
       "feedUrl": "https://planet.debian.org/rss20.xml",
       "siteUrl": "https://planet.debian.org/",
       "articles": [
+        {
+          "id": "https://jmtd.net/log/nin_cornwall/",
+          "author": null,
+          "description": "In June I travelled to see Nine Inch Nails perform two nights at the Eden\nProject in Cornwall. It'd been eight\nyears since I last saw them live and when they announced\nthe Eden shows, I thought it might be the only chance I'd get to see them for a\nlong time. I committed, and sods law, a week or so later they announced a\nhandful of single-night UK club shows. On the other hand, on previous tours\nwhere they'd typically book two club nights in each city, I've attended one\nnight and always felt I should have done both, so this time I was making that\nhappen.\nNewquay\n\n\napproach by air\n\n\nTowan Beach (I think)\nFor personal reasons it's been a difficult year so it was nice to treat\nmyself to a mini holiday. I stayed in Newquay, a seaside town with many\nsimilarities to the North East coast, as well …",
+          "link": "https://jmtd.net/log/nin_cornwall/",
+          "publishedOn": "2022-09-22T10:09:30.000Z",
+          "wordCount": 1260,
+          "title": "Jonathan Dowland: Nine Inch Nails, Cornwall, June",
+          "imageUrl": null
+        },
         {
           "id": "https://blog.josefsson.org/?p=1482",
           "author": null,
@@ -11950,26 +11915,6 @@
           "wordCount": 1647,
           "title": "Feds claw back $30 million of cryptocurrency stolen by North Korean hackers",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/cryptocurrency-heist-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1879703",
-          "author": "Jennifer Ouellette",
-          "description": "\"Lock the doors. Stay in your rooms. Everyone is in danger.\"",
-          "link": "https://arstechnica.com/?p=1879703",
-          "publishedOn": "2022-09-08T22:24:46.000Z",
-          "wordCount": 1634,
-          "title": "The knives are out again in first teaser for Glass Onion",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/knives1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1879862",
-          "author": "Beth Mole",
-          "description": "The messaging is seen as a \"low point\" in public health messaging.",
-          "link": "https://arstechnica.com/?p=1879862",
-          "publishedOn": "2022-09-08T21:49:27.000Z",
-          "wordCount": 1764,
-          "title": "From “stop the spread” to “you do you”: NY mask policy has experts facepalming",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/FcEGxLZXkAEdVAW-760x380.png"
         }
       ]
     },
@@ -11978,6 +11923,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291068",
+          "author": null,
+          "description": "Evil West, Hard West 2, Weird West. Vilda västern fortsätter vara aktuell i spelvärlden.",
+          "link": "https://www.fz.se/artikel/291068-quiz-vad-kan-du-om-spelvarldens-vilda-vastern",
+          "publishedOn": "2022-09-22T10:00:00.000Z",
+          "wordCount": 1749,
+          "title": "Quiz – Vad kan du om spelvärldens Vilda västern?",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291068"
+        },
         {
           "id": "https://www.fz.se/artikel/291542",
           "author": null,
@@ -16591,16 +16546,6 @@
           "wordCount": 1718,
           "title": "Dump these small-biz routers, says Cisco, because we won't patch their flawed VPN",
           "imageUrl": "https://regmedia.co.uk/2021/02/10/cisco_shutterstock_editorial_only.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/08/mandiant_cyberspies_us_elections/",
-          "author": null,
-          "description": "<h4>It is with a heavy heart that we must announce that the hackers are at it again</h4> <p>Mandiant is \"highly confident\" that foreign cyberspies will target US election infrastructure, organizations, and individuals in the run-up to the November midterm elections.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/08/mandiant_cyberspies_us_elections/",
-          "publishedOn": "2022-09-08T22:18:24.000Z",
-          "wordCount": 1697,
-          "title": "Mandiant ‘highly confident’ foreign cyberspies will target US midterm elections",
-          "imageUrl": "https://regmedia.co.uk/2022/09/08/putin_i_voted_sticker_russian_election_interference_shutterstock.jpg"
         }
       ]
     }
