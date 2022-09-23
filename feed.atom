@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-23T07:40:12.866Z</updated>
+    <updated>2022-09-23T08:32:57.704Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Splinter Cell-handlingen ska "uppdateras för en modern publik" i remastern]]></title>
+        <id>https://www.fz.se/artikel/291554</id>
+        <link href="https://www.fz.se/artikel/291554-splinter-cell-handlingen-ska-uppdateras-for-en-modern-publik-i-remastern"/>
+        <updated>2022-09-23T07:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Men originalhandlingen ska fortfarande utgöra grunden.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11-uppdatering ger stöd för flikar i Utforskaren]]></title>
         <id>https://www.sweclockers.com/artikel/34963</id>
@@ -144,6 +154,25 @@
         <summary type="html"><![CDATA[The modern-retro goodness of Shovel Knight returns with a refreshing take on roguelites.]]></summary>
         <author>
             <name>Sam Machkovech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reproducible Builds (diffoscope): diffoscope 222 released]]></title>
+        <id>https://diffoscope.org/news/diffoscope-222-released/</id>
+        <link href="https://diffoscope.org/news/diffoscope-222-released/"/>
+        <updated>2022-09-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The diffoscope maintainers are pleased to announce the release of diffoscope
+version 222. This version includes the following changes:
+
+[ Mattia Rizzolo ]
+* Use pep517 and pip to load the requirements. (Closes: #1020091)
+* Remove old Breaks/Replaces in debian/control that have been obsoleted since
+  bullseye
+
+
+You find out more by visiting the project homepage.]]></summary>
+        <author>
+            <name>Planet Debian</name>
         </author>
     </entry>
     <entry>
@@ -18652,105 +18681,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marvel's Midnight Suns gets December release on PC, Xbox Series X/S, and PS5]]></title>
-        <id>https://www.eurogamer.net/marvels-midnight-suns-gets-december-release-date-on-pc-xbox-series-xs-and-ps5</id>
-        <link href="https://www.eurogamer.net/marvels-midnight-suns-gets-december-release-date-on-pc-xbox-series-xs-and-ps5"/>
-        <updated>2022-09-09T20:28:16.000Z</updated>
-        <summary type="html"><![CDATA[Firaxis' Marvel-themed tactical RPG Midnight Suns will, following a number of earlier delays, finally launch for PC, Xbox Series X/S, and PS5 - but the previously announced Xbox One, PS4, and Switch versions are still missing in action.
-
-
-Announced last August, Marvel's Midnight Suns - which draws inspiration from the Midnight Sons comic book run of the mid-90s - is superhero strategy game that follows a roster of familiar faces on an adventure blending turn-based combat, card-battling, and Fire-Emblem-style relationship building.
-
-
-Midnight Suns was originally due to launch in March this year but was delayed last November in order to add "more story, cinematics and overall polish". Unfortunately, as its revised 7th October approached, publisher 2K and Firaxis made the decision to delay it once more to deliver the best possible experience for everyone."
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Linux malware combines unusual stealth with a full suite of capabilities]]></title>
-        <id>https://arstechnica.com/?p=1880148</id>
-        <link href="https://arstechnica.com/?p=1880148"/>
-        <updated>2022-09-09T20:22:31.000Z</updated>
-        <summary type="html"><![CDATA[With polymorphic encoding and a multistage infection chain, Shikitega is hard to detect.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Queen Elizabeth II led a low-tech life—but knighted plenty of sci-tech figures]]></title>
-        <id>https://arstechnica.com/?p=1879817</id>
-        <link href="https://arstechnica.com/?p=1879817"/>
-        <updated>2022-09-09T20:07:10.000Z</updated>
-        <summary type="html"><![CDATA[An Ars list of technologists and scientists honored by the late Queen Elizabeth II.]]></summary>
-        <author>
-            <name>Jennifer Ouellette</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Foxhole is adding player-built trains and factories as it hits 1.0 this month]]></title>
-        <id>https://www.rockpapershotgun.com/foxhole-is-adding-player-built-trains-and-factories-as-it-hits-10-this-month</id>
-        <link href="https://www.rockpapershotgun.com/foxhole-is-adding-player-built-trains-and-factories-as-it-hits-10-this-month"/>
-        <updated>2022-09-09T20:01:56.000Z</updated>
-        <summary type="html"><![CDATA[Foxhole hits 1.0 later this month after years in Steam Early Access, and the update will bring the most exciting possible addition to the massively multiplayer war game: trains. Also, player-built factories, and several other features which should make players focused on the logistics of warfare very happy. There's a new trailer below ahead of its release on September 28th.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia’s flagship AI chip reportedly 4.5x faster than the previous champ]]></title>
-        <id>https://arstechnica.com/?p=1880072</id>
-        <link href="https://arstechnica.com/?p=1880072"/>
-        <updated>2022-09-09T20:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Upcoming "Hopper" GPU broke records in its MLPerf debut, according to Nvidia.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Star Trek: Khan – Ceti Alpha V will be a prequel to The Wrath of Khan]]></title>
-        <id>https://arstechnica.com/?p=1880116</id>
-        <link href="https://arstechnica.com/?p=1880116"/>
-        <updated>2022-09-09T19:54:05.000Z</updated>
-        <summary type="html"><![CDATA[Beloved Wrath of Khan, Undiscovered Country director is at the helm.]]></summary>
-        <author>
-            <name>Samuel Axon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Little Nightmares 1 is making its way to iOS and Android this "winter"]]></title>
-        <id>https://www.eurogamer.net/little-nightmares-1-is-making-its-way-to-ios-and-android-this-winter</id>
-        <link href="https://www.eurogamer.net/little-nightmares-1-is-making-its-way-to-ios-and-android-this-winter"/>
-        <updated>2022-09-09T19:42:01.000Z</updated>
-        <summary type="html"><![CDATA[Little Nightmares - the original instalment in Tarsier Studio's gleefully sinister horror platform series - is getting a mobile release, and will launch for iOS and Android sometime this "winter".
-
-
-The original Little Nightmares debuted for PC and consoles back in 2017, telling the deliciously unsettling tale of yellow-raincoated moppet Six, as she attempted to escape The Maw - a strange underwater vessel inhabited by a multitude of bizarre residents.
-
-
-The adventure was warmly received on release, with Eurogamer contributor Edwin Evans-Thirlwell calling it a "masterpiece of meat and malice" in his Recommended review.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Check Your CPU Temperature]]></title>
-        <id>pfuqHH3HcFUGWfneFWiZVi</id>
-        <link href="https://www.tomshardware.com/how-to/how-to-check-cpu-temp-temperature"/>
-        <updated>2022-09-09T19:40:56.000Z</updated>
-        <summary type="html"><![CDATA[How can you check your CPU's temperature and what's a good or normal range? We break it down for you.]]></summary>
-        <author>
-            <name>palcorn@outlook.com (Paul Alcorn)</name>
         </author>
     </entry>
 </feed>
