@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-23T16:38:34.306Z</updated>
+    <updated>2022-09-23T17:36:24.936Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Significant customer data exposed in attack on Australian telco]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/23/cyberattack_optus/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/23/cyberattack_optus/"/>
+        <updated>2022-09-23T17:29:13.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Subscribers have questions – like 'When were you going to tell us?'</h4> <p>Australian telecommunications company Optus has fallen victim to a significant cyberattack and data breach.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GeForce RTX 4090 Leaves Plenty of Room for a Future RTX 4090 Ti Flagship]]></title>
+        <id>Jb3ZaAf4r9jU9FPsn65Q2G</id>
+        <link href="https://www.tomshardware.com/news/rtx-4090-leaves-room-for-rtx-4090-ti"/>
+        <updated>2022-09-23T17:21:29.000Z</updated>
+        <summary type="html"><![CDATA[The RTX 4090 doesn't come close to showing the full potential of Nvidia's AD102 GPU, and a fully enabled die with higher power limits could offer serious performance gains, hinting at a future RTX 4090 Ti.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stort WoW-fan har gjort nya Lich King Classic-trailern – det gjorde han rätt i]]></title>
+        <id>https://www.fz.se/artikel/291568</id>
+        <link href="https://www.fz.se/artikel/291568-stort-wow-fan-har-gjort-nya-lich-king-classic-trailern-det-gjorde-han-ratt-i"/>
+        <updated>2022-09-23T16:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Lysande, Hurricane!]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Gaming Monitors 2022: Budget, Curved, G-Sync and More]]></title>
+        <id>4wacScbP4DZMqZDmeZJUAZ</id>
+        <link href="https://www.tomshardware.com/reviews/best-gaming-monitors,4533.html"/>
+        <updated>2022-09-23T16:47:07.000Z</updated>
+        <summary type="html"><![CDATA[Here are the best gaming monitors for PC available in 2022, from budget displays to 144Hz, 4K and curved.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[So long slowdown: New hack runs SNES Star Fox at up to 60 fps]]></title>
+        <id>https://arstechnica.com/?p=1884060</id>
+        <link href="https://arstechnica.com/?p=1884060"/>
+        <updated>2022-09-23T16:37:23.000Z</updated>
+        <summary type="html"><![CDATA[20 fps original is smoothed out without ruining the original pacing.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Nvidia's RTX 4080, 4090 Cost so Damn Much]]></title>
+        <id>x32fSQVhjEGCMt8Nz7noC9</id>
+        <link href="https://www.tomshardware.com/news/why-nvidias-4080-4090-cost-so-damn-much"/>
+        <updated>2022-09-23T16:35:55.000Z</updated>
+        <summary type="html"><![CDATA[The Nvidia RTX 4090 costs a lot, but part of that has to do with the design decisions Nvidia made. Here's our analysis of the AD102 die shots Nvidia has posted, as well as AD103 and AD104 thoughts, along with a breakdown of why monolithic dies are hitting the end of the road.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UK teenager arrested in connection with GTA 6 leaks]]></title>
         <id>https://www.rockpapershotgun.com/uk-teenager-arrested-in-connection-with-gta-6-leaks</id>
@@ -63,6 +123,26 @@ The hacker responsible for the GTA 6 had earlier in the week publicised that the
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tiny Keyboard Transforms Smartwatch Into a Desktop PC]]></title>
+        <id>VLYfMeYHK26g9pCGhCiwuP</id>
+        <link href="https://www.tomshardware.com/news/lilygo-smartwatch-keyboard"/>
+        <updated>2022-09-23T15:55:07.000Z</updated>
+        <summary type="html"><![CDATA[Chinese manufacturer Lilygo is selling a kit to turn its own-brand smartwatch into a tiny desktop computer.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A history of ARM, part 1: Building the first chip]]></title>
+        <id>https://arstechnica.com/?p=1879525</id>
+        <link href="https://arstechnica.com/?p=1879525"/>
+        <updated>2022-09-23T15:47:46.000Z</updated>
+        <summary type="html"><![CDATA[In 1983, Acorn Computers needed a CPU. So 10 people built one.]]></summary>
+        <author>
+            <name>Jeremy Reimer</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Linux NTFS Driver Preparing "nocase" Case-Insensitive Mount Option]]></title>
         <id>https://www.phoronix.com/news/Linux-NTFS3-nocase</id>
         <link href="https://www.phoronix.com/news/Linux-NTFS3-nocase"/>
@@ -70,6 +150,16 @@ The hacker responsible for the GTA 6 had earlier in the week publicised that the
         <summary type="html"><![CDATA[The NTFS3 kernel driver providing read/write Microsoft NTFS file-system support on Linux, thanks to the code being open-sourced by Paragon Software, continues to see new improvements...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Gaming PCs of 2022]]></title>
+        <id>eD58hVp4ApHDi92thX7isZ</id>
+        <link href="https://www.tomshardware.com/best-picks/best-gaming-pcs"/>
+        <updated>2022-09-23T15:38:58.000Z</updated>
+        <summary type="html"><![CDATA[We test prebuilt gaming PCs with our typical gauntlet of real-world and synthetic benchmarks to measure overall system performance.]]></summary>
+        <author>
+            <name>Tomshardware</name>
         </author>
     </entry>
     <entry>
