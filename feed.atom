@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-23T18:34:31.514Z</updated>
+    <updated>2022-09-23T19:23:08.542Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel's Core i9-13900K Leads Single-Thread Performance Rankings]]></title>
+        <id>Ejgfgfw8DMLLeE9NL2zDug</id>
+        <link href="https://www.tomshardware.com/news/intel-core-i9-13900k-leads-single-thread-passmark-rankings"/>
+        <updated>2022-09-23T18:39:56.000Z</updated>
+        <summary type="html"><![CDATA[Raptor shows its teeth: Core i9-13900K tops PassMark's single-thread CPU performance rankings.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fitbit users will have to sign into Google from 2023]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/23/fitbit_accounts_to_be_replaced/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/23/fitbit_accounts_to_be_replaced/"/>
+        <updated>2022-09-23T18:36:09.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Even those with older devices will have to sign in if they want to activate new features</h4> <p>As part of its takeover of Fitbit, Google will begin requiring customers to use Google accounts to manage their fitness-tracking devices, reigniting privacy concerns over the acquisition in 2019.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fredagsrys! Groteska miljöer och gruvliga pussel i Scorn]]></title>
+        <id>https://www.fz.se/artikel/291569</id>
+        <link href="https://www.fz.se/artikel/291569-fredagsrys-groteska-miljoer-och-gruvliga-pussel-i-scorn"/>
+        <updated>2022-09-23T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Åtta minuter från prologen.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia Reveals Ada Lovelace GPU Secrets: Extreme Transistor Counts at High Clocks]]></title>
+        <id>w6ormcGFF8NpEipmTiEo5G</id>
+        <link href="https://www.tomshardware.com/news/nvidia-reveals-secrets-of-ada-lovelace-gpus"/>
+        <updated>2022-09-23T18:28:06.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia revealed the official transistor counts and die sizes of the new RTX 4090 and 4080 AD102, AD103, AD104 GPUs.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Windows 11 Users Complain of GeForce Issues After 22H2 Feature Update]]></title>
         <id>FuJvnxssWazwTSYAQExTQ6</id>
@@ -14,6 +54,26 @@
         <summary type="html"><![CDATA[Nvidia is investigating the complaints of users across its forums, on Reddit, and on the Tom’s Hardware forums too. There are workaround but we hope a patch or hotfix is delivered ASAP.]]></summary>
         <author>
             <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How 3 hours of inaction from Amazon cost cryptocurrency holders $235,000]]></title>
+        <id>https://arstechnica.com/?p=1884070</id>
+        <link href="https://arstechnica.com/?p=1884070"/>
+        <updated>2022-09-23T18:04:11.000Z</updated>
+        <summary type="html"><![CDATA[For 2nd time in 4 years, Amazon loses control of its IP space in BGP hijacking.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starlink is getting a lot slower as more people use it, speed tests show]]></title>
+        <id>https://arstechnica.com/?p=1884083</id>
+        <link href="https://arstechnica.com/?p=1884083"/>
+        <updated>2022-09-23T17:57:20.000Z</updated>
+        <summary type="html"><![CDATA[Starlink capacity limits hit users—SpaceX says more satellites will make it faster.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
         </author>
     </entry>
     <entry>
@@ -555,6 +615,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Guy Dupont has programmed a color picking LED board using a Raspberry Pi RP2040 and is selling prototype copies over at Etsy.]]></summary>
         <author>
             <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comic for 2022.09.23 - Gotta Go]]></title>
+        <id>https://explosm.net/comics/gotta-go</id>
+        <link href="https://explosm.net/comics/gotta-go"/>
+        <updated>2022-09-23T12:48:15.000Z</updated>
+        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
+        <author>
+            <name>Explosm.net</name>
         </author>
     </entry>
     <entry>
@@ -19429,26 +19499,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helgsnack: Din första telefon]]></title>
-        <id>https://www.sweclockers.com/artikel/34898</id>
-        <link href="https://www.sweclockers.com/artikel/34898-helgsnack-din-forsta-telefon"/>
-        <updated>2022-09-10T07:12:13.000Z</updated>
-        <summary type="html"><![CDATA[Apple visade upp Iphone 14 i veckan och det kommer möjligtvis bli mångas nya telefon. Men vilken var din första mobiltelefon?]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nytt Tron-spel utannonserat från skaparna av Thomas Was Alone]]></title>
-        <id>https://www.fz.se/artikel/291410</id>
-        <link href="https://www.fz.se/artikel/291410-nytt-tron-spel-utannonserat-fran-skaparna-av-thomas-was-alone"/>
-        <updated>2022-09-10T07:07:00.000Z</updated>
-        <summary type="html"><![CDATA[Vi ska dansa i neon.]]></summary>
-        <author>
-            <name>FZ.se</name>
         </author>
     </entry>
 </feed>
