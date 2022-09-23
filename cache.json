@@ -839,16 +839,6 @@
           "wordCount": 1219,
           "title": "Voxel Doom brings voxel goodness to the original DOOM",
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1594050731id21575gol.png"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/09/the-starlight-childrens-foundation-bundle-has-a-really-odd-selection/",
-          "author": "Liam Dawe",
-          "description": "Humble recently launched the Starlight Children's Foundation Bundle and it's a thoroughly odd selection but some of you might want to check it out.",
-          "link": "https://www.gamingonlinux.com/2022/09/the-starlight-childrens-foundation-bundle-has-a-really-odd-selection/",
-          "publishedOn": "2022-09-10T10:25:58.000Z",
-          "wordCount": 1144,
-          "title": "The Starlight Children's Foundation Bundle has a really odd selection",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/357995848id21576gol.jpg"
         }
       ]
     },
@@ -6500,36 +6490,6 @@
           "wordCount": 1798,
           "title": "Intel Posts Big Linux Patch Set For \"Classes of Tasks\" On Hybrid CPUs, Thread Director",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.1-Intel-GPU-FW-MTL-More",
-          "author": null,
-          "description": "Intel engineers have submitted another batch of \"i915\" kernel graphics driver changes intended for Linux 6.1 that include updated GuC firmware version handling, more DG2/Alchemist Arc Graphics work, and also more Meteor Lake \"MTL\" enablement for that successor to Raptor Lake...",
-          "link": "https://www.phoronix.com/news/Linux-6.1-Intel-GPU-FW-MTL-More",
-          "publishedOn": "2022-09-10T10:06:34.000Z",
-          "wordCount": 1453,
-          "title": "Intel Sends Updated GPU Firmware Handling, More Meteor Lake Graphics Code For Linux 6.1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Fedora-37-Beta-Next-Week",
-          "author": null,
-          "description": "Fedora Linux releases whether they be development/beta snapshots or the stable releases are known for slipping all too often. Fedora will often delay due to blocker bugs as they aim to deliver a bleeding-edge yet reliable Linux distribution and thus a week or two delay here and there isn't uncommon at all. While they have been delivering more timely releases than in the past with their notorious delays, for Fedora Linux 37 Beta they have delivered on the feat of an on-time release...",
-          "link": "https://www.phoronix.com/news/Fedora-37-Beta-Next-Week",
-          "publishedOn": "2022-09-10T09:51:59.000Z",
-          "wordCount": 1369,
-          "title": "Fedora Linux 37 Beta To Be Released On-Time Next Week",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/KDE-Plasma-5.26-More-Wayland",
-          "author": null,
-          "description": "KDE Plasma 5.26 is due for release on 11 October while the Plasma 5.26 beta is planned for next week. As such the developers involved have been quite busy with finishing touches ahead of the beta...",
-          "link": "https://www.phoronix.com/news/KDE-Plasma-5.26-More-Wayland",
-          "publishedOn": "2022-09-10T09:29:07.000Z",
-          "wordCount": 1468,
-          "title": "KDE Developers Prepare For Plasma 5.26, More Plasma Wayland Fixes Readied",
-          "imageUrl": null
         }
       ]
     },
@@ -10376,16 +10336,6 @@
           "wordCount": 108,
           "title": "Holger Levsen: 20220910-youngest-LUKS-user",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.netfort.gr.jp/~dancer/diary/daily/2022-Sep-10.html.en#2022-Sep-10-18:53:53",
-          "author": null,
-          "description": "Tried implementing FUSE cpiofs.\n\t  I thought it might be fun to implement a file system that can mount initrd file systems. I've implemented symlinks and regular files handling and then I realized that it is kind of annoying that I need to implement hard links.\n\t  cpiofs",
-          "link": "http://www.netfort.gr.jp/~dancer/diary/daily/2022-Sep-10.html.en#2022-Sep-10-18:53:53",
-          "publishedOn": "2022-09-10T09:53:53.000Z",
-          "wordCount": 90,
-          "title": "Junichi Uekawa: Tried implementing FUSE cpiofs.",
-          "imageUrl": null
         }
       ]
     },
@@ -10451,6 +10401,16 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1884140",
+          "author": "Eric Berger",
+          "description": "Space agency officials seem OK with leaving the rocket out in a tropical storm.",
+          "link": "https://arstechnica.com/?p=1884140",
+          "publishedOn": "2022-09-23T21:06:42.000Z",
+          "wordCount": 1930,
+          "title": "NASA seems to be in full “send it” mode for the Artemis I mission",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/Image-760x380.jpeg"
+        },
         {
           "id": "https://arstechnica.com/?p=1884201",
           "author": "Ashley Belanger",
@@ -14932,6 +14892,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/23/google_using_sifive_riscv_cores/",
+          "author": null,
+          "description": "<h4>Cor, that's a shot in the arm for this upstart CPU ISA</h4> <p>RISC-V chip biz SiFive says its processors are being used to manage AI workloads to some degree in Google datacenters.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/23/google_using_sifive_riscv_cores/",
+          "publishedOn": "2022-09-23T21:25:13.000Z",
+          "wordCount": 1701,
+          "title": "SiFive RISC-V cores picked for Google AI compute nodes",
+          "imageUrl": "https://regmedia.co.uk/2022/09/23/shutterstock_sifive.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/23/ceo_google_austerity/",
           "author": null,

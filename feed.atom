@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-23T21:23:34.053Z</updated>
+    <updated>2022-09-23T22:30:02.250Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SiFive RISC-V cores picked for Google AI compute nodes]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/23/google_using_sifive_riscv_cores/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/23/google_using_sifive_riscv_cores/"/>
+        <updated>2022-09-23T21:25:13.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Cor, that's a shot in the arm for this upstart CPU ISA</h4> <p>RISC-V chip biz SiFive says its processors are being used to manage AI workloads to some degree in Google datacenters.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wine 7.18 Released With Unicode 15.0 Support, 20 Bug Fixes]]></title>
         <id>https://www.phoronix.com/news/Wine-7.18-Released</id>
@@ -14,6 +24,16 @@
         <summary type="html"><![CDATA[Wine 7.18 has been popped this Friday afternoon as the newest bi-weekly development release for this open-source program to enjoy Windows games and applications on Linux, macOS, and other platforms...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA seems to be in full “send it” mode for the Artemis I mission]]></title>
+        <id>https://arstechnica.com/?p=1884140</id>
+        <link href="https://arstechnica.com/?p=1884140"/>
+        <updated>2022-09-23T21:06:42.000Z</updated>
+        <summary type="html"><![CDATA[Space agency officials seem OK with leaving the rocket out in a tropical storm.]]></summary>
+        <author>
+            <name>Eric Berger</name>
         </author>
     </entry>
     <entry>
@@ -19439,58 +19459,6 @@ So I'm in Berlin currently to attend the fourth Qubes OS Summit, also to discuss
 The Qubes OS Summit is also very cool, great people and exciting developments!]]></summary>
         <author>
             <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Starlight Children's Foundation Bundle has a really odd selection]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/the-starlight-childrens-foundation-bundle-has-a-really-odd-selection/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/the-starlight-childrens-foundation-bundle-has-a-really-odd-selection/"/>
-        <updated>2022-09-10T10:25:58.000Z</updated>
-        <summary type="html"><![CDATA[Humble recently launched the Starlight Children's Foundation Bundle and it's a thoroughly odd selection but some of you might want to check it out.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Sends Updated GPU Firmware Handling, More Meteor Lake Graphics Code For Linux 6.1]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.1-Intel-GPU-FW-MTL-More</id>
-        <link href="https://www.phoronix.com/news/Linux-6.1-Intel-GPU-FW-MTL-More"/>
-        <updated>2022-09-10T10:06:34.000Z</updated>
-        <summary type="html"><![CDATA[Intel engineers have submitted another batch of "i915" kernel graphics driver changes intended for Linux 6.1 that include updated GuC firmware version handling, more DG2/Alchemist Arc Graphics work, and also more Meteor Lake "MTL" enablement for that successor to Raptor Lake...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Junichi Uekawa: Tried implementing FUSE cpiofs.]]></title>
-        <id>http://www.netfort.gr.jp/~dancer/diary/daily/2022-Sep-10.html.en#2022-Sep-10-18:53:53</id>
-        <link href="http://www.netfort.gr.jp/~dancer/diary/daily/2022-Sep-10.html.en#2022-Sep-10-18:53:53"/>
-        <updated>2022-09-10T09:53:53.000Z</updated>
-        <summary type="html"><![CDATA[Tried implementing FUSE cpiofs.
-	  I thought it might be fun to implement a file system that can mount initrd file systems. I've implemented symlinks and regular files handling and then I realized that it is kind of annoying that I need to implement hard links.
-	  cpiofs]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fedora Linux 37 Beta To Be Released On-Time Next Week]]></title>
-        <id>https://www.phoronix.com/news/Fedora-37-Beta-Next-Week</id>
-        <link href="https://www.phoronix.com/news/Fedora-37-Beta-Next-Week"/>
-        <updated>2022-09-10T09:51:59.000Z</updated>
-        <summary type="html"><![CDATA[Fedora Linux releases whether they be development/beta snapshots or the stable releases are known for slipping all too often. Fedora will often delay due to blocker bugs as they aim to deliver a bleeding-edge yet reliable Linux distribution and thus a week or two delay here and there isn't uncommon at all. While they have been delivering more timely releases than in the past with their notorious delays, for Fedora Linux 37 Beta they have delivered on the feat of an on-time release...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDE Developers Prepare For Plasma 5.26, More Plasma Wayland Fixes Readied]]></title>
-        <id>https://www.phoronix.com/news/KDE-Plasma-5.26-More-Wayland</id>
-        <link href="https://www.phoronix.com/news/KDE-Plasma-5.26-More-Wayland"/>
-        <updated>2022-09-10T09:29:07.000Z</updated>
-        <summary type="html"><![CDATA[KDE Plasma 5.26 is due for release on 11 October while the Plasma 5.26 beta is planned for next week. As such the developers involved have been quite busy with finishing touches ahead of the beta...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
 </feed>
