@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-23T19:23:08.542Z</updated>
+    <updated>2022-09-23T20:27:51.617Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Canadian customers seeing a temporary delay for the Steam Deck]]></title>
+        <id>https://www.gamingonlinux.com/2022/09/canadian-customers-seeing-a-temporary-delay-for-the-steam-deck/</id>
+        <link href="https://www.gamingonlinux.com/2022/09/canadian-customers-seeing-a-temporary-delay-for-the-steam-deck/"/>
+        <updated>2022-09-23T20:07:55.000Z</updated>
+        <summary type="html"><![CDATA[While Valve has been able to repeatedly speed up production of the Steam Deck smashing expectations, they've hit a snag when it comes to Canada.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open up, it's the IRS. We're here about the crypto tax you dodged]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/23/irs_cryptocurrency_income_tax/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/23/irs_cryptocurrency_income_tax/"/>
+        <updated>2022-09-23T19:25:14.000Z</updated>
+        <summary type="html"><![CDATA[<h4>'At least ten' people didn't declare coin income. Wow, what a bust</h4> <p>The IRS has been granted a court order to collect records from a bank the agency said will help it identify US taxpayers who failed to report taxable income from crypto trades. …</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intel's Core i9-13900K Leads Single-Thread Performance Rankings]]></title>
         <id>Ejgfgfw8DMLLeE9NL2zDug</id>
@@ -19478,27 +19498,6 @@ Originally Darktide had what Andersson called "simple ADS," where holding aim wi
 Read more]]></summary>
         <author>
             <name>Chris Tapsell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pentiment]]></title>
-        <id>https://www.fz.se/artikel/291350</id>
-        <link href="https://www.fz.se/artikel/291350-pentiment"/>
-        <updated>2022-09-10T08:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Obsidians nya drivs inte av AAA-budget, utan i stället av passion.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are we all playing this weekend?]]></title>
-        <id>https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-206</id>
-        <link href="https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-206"/>
-        <updated>2022-09-10T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Summer is ebbing away, and I hate how it goes. I already miss long evenings, with sunset now before 8pm but sunrise still pointlessly at like 6:30? No thanks. I don't miss those 5am sunrises either. So we can surely all agree that the sensible course of action would be to lock sunrise to 7:30am and rotate the whole clock around that. Anyway! What are you playing this weekend? Here's what we're clicking on.
-Read more]]></summary>
-        <author>
-            <name>Alice O'Connor</name>
         </author>
     </entry>
 </feed>
