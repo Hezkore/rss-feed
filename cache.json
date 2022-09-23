@@ -5252,6 +5252,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/AMD-RDNA3-More-VGPRs",
+          "author": null,
+          "description": "A code commit that was merged to LLVM's AMDGPU shader compiler back-end on Friday afternoon confirms that GFX11/RDNA3 GPUs can have a lot more vector registers than prior GFX10 (RDNA / RDNA2) GPUs...",
+          "link": "https://www.phoronix.com/news/AMD-RDNA3-More-VGPRs",
+          "publishedOn": "2022-09-23T22:58:17.000Z",
+          "wordCount": 1272,
+          "title": "AMD RDNA3 GPUs Can Have A Lot More Vector Registers Than RDNA2",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Wine-7.18-Released",
           "author": null,
           "description": "Wine 7.18 has been popped this Friday afternoon as the newest bi-weekly development release for this open-source program to enjoy Windows games and applications on Linux, macOS, and other platforms...",
@@ -6479,16 +6489,6 @@
           "publishedOn": "2022-09-10T13:36:44.000Z",
           "wordCount": 1783,
           "title": "AMD Aims To Squeeze More EPYC Performance Out Of Linux With User-Space Hinting For Tasks",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Intel-Linux-Classes-Of-Tasks-TD",
-          "author": null,
-          "description": "Sent out as a \"request for comments\" on Friday night was a new patch series out of Intel introducing the notion of \"classes of tasks\" for the Linux kernel so that the scheduler can make better decisions on hybrid processors like with Intel's Alder Lake processors and upcoming Raptor Lake. This also provides a more complete implementation of Intel Thread Director for Linux and may also be used as the basis for instruction set differences between the performance and efficient cores...",
-          "link": "https://www.phoronix.com/news/Intel-Linux-Classes-Of-Tasks-TD",
-          "publishedOn": "2022-09-10T10:40:00.000Z",
-          "wordCount": 1798,
-          "title": "Intel Posts Big Linux Patch Set For \"Classes of Tasks\" On Hybrid CPUs, Thread Director",
           "imageUrl": null
         }
       ]
@@ -7775,6 +7775,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "bDDkpYUg8StRfM8GfzY7KL",
+          "author": null,
+          "description": "We look at graphics card price changes at retail and eBay over the past week, right after Ethereum's Merge and in the midst of the Nvidia RTX 40-series Ada Lovelace announcement.",
+          "link": "https://www.tomshardware.com/news/gpu-one-week-price-change-sept-23",
+          "publishedOn": "2022-09-23T23:06:15.000Z",
+          "wordCount": 22333,
+          "title": "GPU Prices Fall After Nvidia Announcement, Ethereum Merge",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/xHZLRVXmLG5m6RbMBaZKcK.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/xHZLRVXmLG5m6RbMBaZKcK.jpg"
+        },
         {
           "id": "Ejgfgfw8DMLLeE9NL2zDug",
           "author": null,
@@ -10024,21 +10039,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/LcAScX4dWEeN2AMJbzi2bQ.jpg"
-        },
-        {
-          "id": "W5CYHhYZC824ErLEwLAwGd",
-          "author": null,
-          "description": "Reuse your spare Raspberry Pi to add extra network access in your home, office, makerspace.",
-          "link": "https://www.tomshardware.com/how-to/raspberry-pi-access-point",
-          "publishedOn": "2022-09-10T11:05:15.000Z",
-          "wordCount": 18382,
-          "title": "How to Turn a Raspberry Pi Into a Wi-Fi Access Point",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/rWsFekkEyWAdpDPc3NRLY6.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/rWsFekkEyWAdpDPc3NRLY6.jpg"
         }
       ]
     },
@@ -10315,26 +10315,6 @@
           "publishedOn": "2022-09-10T13:25:29.000Z",
           "wordCount": 321,
           "title": "Jonathan Dowland: Prusa Mini",
-          "imageUrl": null
-        },
-        {
-          "id": "tag:blogger.com,1999:blog-8085113335874848981.post-3519443490915380574",
-          "author": "noreply@blogger.com (Andrew Cater)",
-          "description": "And I'm over here with the Debian images/media release team in Cambridge.\nFirst time together in Cambridge for a long time: several of the usual suspects - RattusRattus, Sledge, Isy and myself. Also in the room are Kartik and egw - I think this is their first time.\nChat is now physically in Sledge's sitting room as well as on IRC. The first couple of images are trickling in and tests are starting for Bullseye.\n\nThis is going to be a very long day - we've got full tests for Bullseye (Debian 11) and Buster (Debian 10) so double duty. This should be the last release for Buster since this has now passed to LTS.",
-          "link": "http://flosslinuxblog.blogspot.com/2022/09/202209101115-debian-release-day.html",
-          "publishedOn": "2022-09-10T11:21:02.000Z",
-          "wordCount": 1576,
-          "title": "Andrew Cater: 202209101115 Debian release day - Cambridge - Bullseye and Buster testing starting",
-          "imageUrl": null
-        },
-        {
-          "id": "http://layer-acht.org/thinking/blog/20220910-youngest-LUKS-user/",
-          "author": null,
-          "description": "youngest LUKS user I know...\nSo I'm in Berlin currently to attend the fourth Qubes OS Summit, also to discuss the future of the reproducible-builds.org mirror of snapshot.debian.org and in the evening I've met an old Debian friend who told a lovely story about his 5 year old daughter, who since recently is a Debian user using an old laptop with LUKS encryption, knowing her data will be lost when she forgets her passphrase... 😀\nThe Qubes OS Summit is also very cool, great people and exciting developments!",
-          "link": "http://layer-acht.org/thinking/blog/20220910-youngest-LUKS-user/",
-          "publishedOn": "2022-09-10T10:39:00.000Z",
-          "wordCount": 108,
-          "title": "Holger Levsen: 20220910-youngest-LUKS-user",
           "imageUrl": null
         }
       ]
@@ -12210,16 +12190,6 @@
           "wordCount": 1529,
           "title": "Google and Amazon want more defense contracts, despite worker protests",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/google-cloud-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1879881",
-          "author": "Sam Machkovech",
-          "description": "Without big companies like Microsoft, Sony, indies had more room to shine.",
-          "link": "https://arstechnica.com/?p=1879881",
-          "publishedOn": "2022-09-10T11:07:04.000Z",
-          "wordCount": 1834,
-          "title": "The rest of PAX West 2022’s standout indie games: Rhythm madness, bloody combat",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/pax-west-listing-760x380.png"
         }
       ]
     },
@@ -14893,6 +14863,16 @@
       "siteUrl": "https://www.theregister.com/",
       "articles": [
         {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/23/florida_supreme_court_moderation_law/",
+          "author": null,
+          "description": "<h4>Nothing screams Land of the Free like the government ordering you to host awful but lawful content</h4> <p>The State of Florida has asked the US Supreme Court to affirm that its social media law SB 7072, which bars online platforms from removing speech they don't want, meets constitutional free speech guarantees.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/23/florida_supreme_court_moderation_law/",
+          "publishedOn": "2022-09-23T22:33:48.000Z",
+          "wordCount": 1485,
+          "title": "Florida asks Supreme Court if it's OK to ban content moderation it doesn't like",
+          "imageUrl": "https://regmedia.co.uk/2021/01/11/speech.jpg"
+        },
+        {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/23/google_using_sifive_riscv_cores/",
           "author": null,
           "description": "<h4>Cor, that's a shot in the arm for this upstart CPU ISA</h4> <p>RISC-V chip biz SiFive says its processors are being used to manage AI workloads to some degree in Google datacenters.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
@@ -17121,16 +17101,6 @@
           "wordCount": 1322,
           "title": "Uncle Sam sanctions Iran's intel agency over Albanian cyberattack",
           "imageUrl": "https://regmedia.co.uk/2022/09/09/iran_flag_behind_fence_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/10/in_brief_security/",
-          "author": null,
-          "description": "<h4>Also, Authorities seize WT1SHOP selling 5.8m sets of PII, The North Face users face tough secuirty hike</h4> <p><strong>In brief</strong>  AT&amp;T cybersecurity researchers have discovered a sneaky piece of malware targeting Linux endpoints and IoT devices in the hopes of gaining persistent access and turning victims into crypto-mining drones.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/10/in_brief_security/",
-          "publishedOn": "2022-09-10T11:00:07.000Z",
-          "wordCount": 2292,
-          "title": "Shape-shifting cryptominer savaging Linux endpoints and IoT",
-          "imageUrl": "https://regmedia.co.uk/2016/08/18/transformer_photo_by_wasan_ritthawon_via_shutterstock.jpg"
         }
       ]
     }
