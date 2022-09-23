@@ -12,6 +12,16 @@
       "siteUrl": "https://itsfoss.com",
       "articles": [
         {
+          "id": "https://itsfoss.com/?p=102170",
+          "author": "Ankush Das",
+          "description": "Looking for Figma alternatives but want free and open-source solutions? We have some suggestions!",
+          "link": "https://itsfoss.com/figma-alternatives/",
+          "publishedOn": "2022-09-23T05:33:17.000Z",
+          "wordCount": 7284,
+          "title": "5 Free and Open-Source Figma Alternatives",
+          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/09/figma-alternatives.png"
+        },
+        {
           "id": "https://itsfoss.com/?p=102103",
           "author": "sreenath",
           "description": "The default Breeze theme is good but you can make your KDE Plasma desktop look different and better by changing the theme. Here are some of the best KDE themes.",
@@ -6325,16 +6335,6 @@
           "wordCount": 1389,
           "title": "Wine 7.17 Released As A Small Update For Running Windows Games/Apps On Linux",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/AMD-P-State-EPP-Linux",
-          "author": null,
-          "description": "Over the past year AMD engineers have been developing the AMD P-State CPU frequency scaling driver as an alternative to the long-used ACPI CPUFreq driver to provide better performance/power efficiency with Zen 2 and newer Ryzen/EPYC processors. Today they have now introduced AMD P-State EPP as they aim to deliver better performance-per-Watt...",
-          "link": "https://www.phoronix.com/news/AMD-P-State-EPP-Linux",
-          "publishedOn": "2022-09-09T17:42:54.000Z",
-          "wordCount": 1472,
-          "title": "AMD Posts \"P-State EPP\" Driver As New Attempt To Improve Performance-Per-Watt On Linux",
-          "imageUrl": null
         }
       ]
     },
@@ -9774,51 +9774,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/6cECHbmDviYx4YBhmSFnBH.jpg"
-        },
-        {
-          "id": "fU4c24MfZeBvbF7yQURGTA",
-          "author": "palcorn@outlook.com (Paul Alcorn)",
-          "description": "We've picked the best CPUs for work, sorted by price range and needs, based on our extensive testing.",
-          "link": "https://www.tomshardware.com/reviews/best-performance-cpus,5683.html",
-          "publishedOn": "2022-09-09T17:54:52.000Z",
-          "wordCount": 22048,
-          "title": "Best CPUs for Workstations 2022",
-          "enclosure": {
-            "url": "https://cdn.mos.cms.futurecdn.net/42oG7wzPEsNwJgM7mxz6XW.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "https://cdn.mos.cms.futurecdn.net/42oG7wzPEsNwJgM7mxz6XW.png"
-        },
-        {
-          "id": "nY9jHJLSkhriU8s3KunD3h",
-          "author": null,
-          "description": "We've tested webcams for remote work, streaming, and selfies. Here are the best webcams for every situation.",
-          "link": "https://www.tomshardware.com/best-picks/best-webcams",
-          "publishedOn": "2022-09-09T17:49:15.000Z",
-          "wordCount": 25749,
-          "title": "Best Webcams of 2022",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/omf8jfNwdhHKJHrGnR7ufP.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/omf8jfNwdhHKJHrGnR7ufP.jpg"
-        },
-        {
-          "id": "gdjkVvkXD3x2X4L2T7P6VS",
-          "author": null,
-          "description": "A pair of 48 core Sapphire Rapids server processors were tested in Geekbench 5, featuring scores on par with AMD's flagship 64-core EPYIC Milan CPUs",
-          "link": "https://www.tomshardware.com/news/48-core-sapphire-rapids-match-amds-best-zen-3",
-          "publishedOn": "2022-09-09T17:33:36.000Z",
-          "wordCount": 17973,
-          "title": "48-Core Sapphire Rapids Xeons Match AMD's Zen 3 Flagships in New Benchmarks",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/J7vB2BKXLZiyQTdH8syGrV.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/J7vB2BKXLZiyQTdH8syGrV.jpg"
         }
       ]
     },
@@ -11930,36 +11885,6 @@
           "wordCount": 1990,
           "title": "Ted Cruz blows up Congress’ plan to save journalism by making Big Tech pay up",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1242120809-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1880034",
-          "author": "Jon Brodkin",
-          "description": "Planned rule for low Earth satellites requires deorbit 5 years after end-of-life.",
-          "link": "https://arstechnica.com/?p=1880034",
-          "publishedOn": "2022-09-09T17:47:54.000Z",
-          "wordCount": 1937,
-          "title": "FCC to fight space debris by requiring satellite disposal in 5 years or less",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/08/SATCON1-satellites-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1879954",
-          "author": "Scharon Harding",
-          "description": "Extra programmability is a plus, but laptop-height mechanical switches aren't for everyone.",
-          "link": "https://arstechnica.com/?p=1879954",
-          "publishedOn": "2022-09-09T17:28:34.000Z",
-          "wordCount": 1659,
-          "title": "Corsair crams 4 extra keys into an extremely thin wireless mechanical keyboard",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/listing-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1880002",
-          "author": "Ashley Belanger",
-          "description": "Security experts: Uber exec \"did nothing wrong\" by disguising data breach.",
-          "link": "https://arstechnica.com/?p=1880002",
-          "publishedOn": "2022-09-09T17:21:40.000Z",
-          "wordCount": 1889,
-          "title": "Uber exec accused of disguising data-breach extortion as “bug bounty”",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1142304872-760x380.jpg"
         }
       ]
     },
@@ -13537,16 +13462,6 @@
           "wordCount": 1926,
           "title": "Call of Duty: Warzone Mobile officiellt tillkännagivet",
           "imageUrl": "https://www.fz.se/artikel/og-image/291409"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291408",
-          "author": null,
-          "description": "2023 ska fortfarande hålla, hävdar utvecklarna.",
-          "link": "https://www.fz.se/artikel/291408-forhandsbokningar-av-ukraina-utvecklade-stalker-2-betalas-tillbaka",
-          "publishedOn": "2022-09-09T17:05:00.000Z",
-          "wordCount": 1882,
-          "title": "Förhandsbokningar av Ukraina-utvecklade Stalker 2 betalas tillbaka",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291408"
         }
       ]
     },
@@ -16591,16 +16506,6 @@
           "wordCount": 1448,
           "title": "Windows 11 update blocking some users from logging in",
           "imageUrl": "https://regmedia.co.uk/2021/06/28/windows11_microsoft.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/09/meta_disbands_responsible_innovation_team/",
-          "author": null,
-          "description": "<h4>Still unclear: Were members just screaming into a void for the past few years?</h4> <p>Facebook parent Meta has disbanded its Responsible Innovation Team (RIT) that it claimed last year was a central part of efforts to \"proactively surface and address potential harms to society in all that we build.\" …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/09/meta_disbands_responsible_innovation_team/",
-          "publishedOn": "2022-09-09T17:28:09.000Z",
-          "wordCount": 1434,
-          "title": "Meta disbands Responsible Innovation team, spreads it out over Facebook and co",
-          "imageUrl": "https://regmedia.co.uk/2021/02/11/shutterstock_bad_facebook.jpg"
         }
       ]
     }

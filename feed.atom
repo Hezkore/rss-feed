@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-23T04:53:18.511Z</updated>
+    <updated>2022-09-23T06:04:51.671Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[5 Free and Open-Source Figma Alternatives]]></title>
+        <id>https://itsfoss.com/?p=102170</id>
+        <link href="https://itsfoss.com/figma-alternatives/"/>
+        <updated>2022-09-23T05:33:17.000Z</updated>
+        <summary type="html"><![CDATA[Looking for Figma alternatives but want free and open-source solutions? We have some suggestions!]]></summary>
+        <author>
+            <name>Ankush Das</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11 Gorgeous KDE Plasma Themes to Make Your Linux Desktop Even More Beautiful]]></title>
         <id>https://itsfoss.com/?p=102103</id>
@@ -18769,96 +18779,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Valve has opened Steam Deck repair centers, where you can mail in devices for repair, which will be free under warranty.]]></summary>
         <author>
             <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best CPUs for Workstations 2022]]></title>
-        <id>fU4c24MfZeBvbF7yQURGTA</id>
-        <link href="https://www.tomshardware.com/reviews/best-performance-cpus,5683.html"/>
-        <updated>2022-09-09T17:54:52.000Z</updated>
-        <summary type="html"><![CDATA[We've picked the best CPUs for work, sorted by price range and needs, based on our extensive testing.]]></summary>
-        <author>
-            <name>palcorn@outlook.com (Paul Alcorn)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Webcams of 2022]]></title>
-        <id>nY9jHJLSkhriU8s3KunD3h</id>
-        <link href="https://www.tomshardware.com/best-picks/best-webcams"/>
-        <updated>2022-09-09T17:49:15.000Z</updated>
-        <summary type="html"><![CDATA[We've tested webcams for remote work, streaming, and selfies. Here are the best webcams for every situation.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FCC to fight space debris by requiring satellite disposal in 5 years or less]]></title>
-        <id>https://arstechnica.com/?p=1880034</id>
-        <link href="https://arstechnica.com/?p=1880034"/>
-        <updated>2022-09-09T17:47:54.000Z</updated>
-        <summary type="html"><![CDATA[Planned rule for low Earth satellites requires deorbit 5 years after end-of-life.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Posts "P-State EPP" Driver As New Attempt To Improve Performance-Per-Watt On Linux]]></title>
-        <id>https://www.phoronix.com/news/AMD-P-State-EPP-Linux</id>
-        <link href="https://www.phoronix.com/news/AMD-P-State-EPP-Linux"/>
-        <updated>2022-09-09T17:42:54.000Z</updated>
-        <summary type="html"><![CDATA[Over the past year AMD engineers have been developing the AMD P-State CPU frequency scaling driver as an alternative to the long-used ACPI CPUFreq driver to provide better performance/power efficiency with Zen 2 and newer Ryzen/EPYC processors. Today they have now introduced AMD P-State EPP as they aim to deliver better performance-per-Watt...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[48-Core Sapphire Rapids Xeons Match AMD's Zen 3 Flagships in New Benchmarks]]></title>
-        <id>gdjkVvkXD3x2X4L2T7P6VS</id>
-        <link href="https://www.tomshardware.com/news/48-core-sapphire-rapids-match-amds-best-zen-3"/>
-        <updated>2022-09-09T17:33:36.000Z</updated>
-        <summary type="html"><![CDATA[A pair of 48 core Sapphire Rapids server processors were tested in Geekbench 5, featuring scores on par with AMD's flagship 64-core EPYIC Milan CPUs]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Corsair crams 4 extra keys into an extremely thin wireless mechanical keyboard]]></title>
-        <id>https://arstechnica.com/?p=1879954</id>
-        <link href="https://arstechnica.com/?p=1879954"/>
-        <updated>2022-09-09T17:28:34.000Z</updated>
-        <summary type="html"><![CDATA[Extra programmability is a plus, but laptop-height mechanical switches aren't for everyone.]]></summary>
-        <author>
-            <name>Scharon Harding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta disbands Responsible Innovation team, spreads it out over Facebook and co]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/09/meta_disbands_responsible_innovation_team/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/09/meta_disbands_responsible_innovation_team/"/>
-        <updated>2022-09-09T17:28:09.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Still unclear: Were members just screaming into a void for the past few years?</h4> <p>Facebook parent Meta has disbanded its Responsible Innovation Team (RIT) that it claimed last year was a central part of efforts to "proactively surface and address potential harms to society in all that we build." …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uber exec accused of disguising data-breach extortion as “bug bounty”]]></title>
-        <id>https://arstechnica.com/?p=1880002</id>
-        <link href="https://arstechnica.com/?p=1880002"/>
-        <updated>2022-09-09T17:21:40.000Z</updated>
-        <summary type="html"><![CDATA[Security experts: Uber exec "did nothing wrong" by disguising data breach.]]></summary>
-        <author>
-            <name>Ashley Belanger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Förhandsbokningar av Ukraina-utvecklade Stalker 2 betalas tillbaka]]></title>
-        <id>https://www.fz.se/artikel/291408</id>
-        <link href="https://www.fz.se/artikel/291408-forhandsbokningar-av-ukraina-utvecklade-stalker-2-betalas-tillbaka"/>
-        <updated>2022-09-09T17:05:00.000Z</updated>
-        <summary type="html"><![CDATA[2023 ska fortfarande hålla, hävdar utvecklarna.]]></summary>
-        <author>
-            <name>FZ.se</name>
         </author>
     </entry>
 </feed>
