@@ -863,6 +863,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/sucker-punch-unmasks-sly-cooper-merch-for-20th-anniversary",
+          "author": "Victoria Kennedy",
+          "description": "Sly Cooper developer Sucker Punch has lifted the lid on a new line of merchandise to celebrate the series' 20th anniversary.\r\n\n\r\nThis range consists of a Sly plushy (seen in the header image), a print of some anniversary artwork by the original Sly Cooper's art director Dev Madan and an anniversary T-shirt.\r\n\n\r\nThe artwork is certainly an impressive collection of nostalgia for Sly Cooper fans. Madan has rammed it full of references and Easter eggs from the last 20 years.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sucker-punch-unmasks-sly-cooper-merch-for-20th-anniversary",
+          "publishedOn": "2022-09-23T15:12:04.000Z",
+          "wordCount": 4730,
+          "title": "Sucker Punch unmasks Sly Cooper merch for 20th anniversary",
+          "imageUrl": "https://assets.reedpopcdn.com/sly-coop-merch.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sly-coop-merch.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/its-a-go-for-a-super-mario-bros-movie-reveal-this-october",
           "author": "Victoria Kennedy",
           "description": "For those of you eager to hear more about the upcoming Super Mario Bros. movie from Nintendo and Illumination, there is good news. \r\n\n\r\nNew York Comic-Con has announced a \"teaser trailer premiere\" will be revealed on 6th October at 4pm PT for those in attendance. This trailer will then likely be made available to the wider public in the following days.\r\n\n\r\nMeanwhile, Chris Pratt, or Mario, shared the news of this upcoming reveal by assuring us that we will all be blown away by the trailer, just as he was.\r\n \nRead more",
@@ -3729,6 +3739,16 @@
       "feedUrl": "https://www.vg247.com/feed",
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
+        {
+          "id": "https://www.vg247.com/classic-wow-players-beware-of-the-brewfest-scammers",
+          "author": "Connor Makar",
+          "description": "While everyone knows that Classic World of Warcraft is undergoing a heap of hype surrounding the Wrath of the Lich King expansion, for good reason too, there are plenty of reasons to get excited, Brewfest is a great opportunity for loot and laughs right now. It is, however, also an opportunity for cheeky people to try and scam some extra loot from under the noses of their fellow adventurer. Such are the joys of Classic WoW.\nBut first, what is Brewfest. For those not in the know, Brewfest is a one-per-year limited time event where players can buy some drinks, get smashes, and get some exclusive rewards. It’s unsubtly based on the German holiday Octoberfest, and features a variety of events and tasks for players to complete if they so wish.\nIt also has a special boss fight — Corren Direbrew — in the Blackrock Depths, which in turn can provide some truly illustrious loot. These could be powerful trinkets, special toys that allow quick transfer to the dungeon, and even two very rare mounts with roughly a 1% drop-rate from Corren. Since right now players are gearing up characters for the next expansion, an even greater number of players than usual are jumping in for a chance at some handy shinies in this already bustling activity.\n Read more",
+          "link": "https://www.vg247.com/classic-wow-players-beware-of-the-brewfest-scammers",
+          "publishedOn": "2022-09-23T14:42:50.000Z",
+          "wordCount": 5214,
+          "title": "Classic WoW players — beware of the Brewfest scammers!",
+          "imageUrl": "https://asset.vg247.com/wow_classic_brewfest.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/wow_classic_brewfest.jpg"
+        },
         {
           "id": "https://www.vg247.com/star-fox-adventures-20-years-retrospective",
           "author": "Alex Donaldson",
@@ -9888,6 +9908,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "https://blog.steve.fi/lisp_macros_are_magical.html",
+          "author": null,
+          "description": "In my previous post I introduced yet another Lisp interpreter.  When it was posted there was no support for macros.\nSince I've recently returned from a visit to the UK, and caught COVID-19 while I was there, I figured I'd see if my brain was fried by adding macro support.\nI know lisp macros are awesome, it's one of those things that everybody is told.  Repeatedly.    I've used macros in my emacs programming off and on for a good few years, but despite that I'd not really given them too much thought.\nIf you know anything about lisp you know that it's all about the lists, the parenthesis, and the macros.  Here's a simple macro I wrote:\n (define if2 (macro (pred one two)\n    `(if ~pred (begin ~one ~two))))\n\nThe standard lisp if function allows you to write:\n (if (= 1 a) (print \"a == 1\") (prin…",
+          "link": "https://blog.steve.fi/lisp_macros_are_magical.html",
+          "publishedOn": "2022-09-23T14:30:30.000Z",
+          "wordCount": 824,
+          "title": "Steve Kemp: Lisp macros are magical",
+          "imageUrl": null
+        },
+        {
           "id": "https://diffoscope.org/news/diffoscope-222-released/",
           "author": null,
           "description": "The diffoscope maintainers are pleased to announce the release of diffoscope\nversion 222. This version includes the following changes:\n\n[ Mattia Rizzolo ]\n* Use pep517 and pip to load the requirements. (Closes: #1020091)\n* Remove old Breaks/Replaces in debian/control that have been obsoleted since\n  bullseye\n\n\nYou find out more by visiting the project homepage.",
@@ -10241,6 +10271,26 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1884026",
+          "author": "Jonathan M. Gitlin",
+          "description": "16 trucks used biofuels to haul between the final three European races this year.",
+          "link": "https://arstechnica.com/?p=1884026",
+          "publishedOn": "2022-09-23T14:47:08.000Z",
+          "wordCount": 1634,
+          "title": "Mercedes’ F1 team cut its freight emissions by 89% with biofuel switch",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/M327731-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1883651",
+          "author": "K.E.D. Coan",
+          "description": "A new approach calculates the sustainability of multi-ingredient foods.",
+          "link": "https://arstechnica.com/?p=1883651",
+          "publishedOn": "2022-09-23T14:39:17.000Z",
+          "wordCount": 1814,
+          "title": "Many of the most nutritious foods are also the most sustainable",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1344862156-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1882587",
           "author": "Eric Berger",
@@ -11958,6 +12008,26 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291558",
+          "author": null,
+          "description": "Pirater, mumier och krymta familjer står på helgmenyn.",
+          "link": "https://www.fz.se/artikel/291558-det-har-spelar-fz-i-helgen-vad-spelar-du",
+          "publishedOn": "2022-09-23T15:00:00.000Z",
+          "wordCount": 2046,
+          "title": "Det här spelar FZ i helgen - vad spelar DU?",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291558"
+        },
+        {
+          "id": "https://www.fz.se/artikel/291566",
+          "author": null,
+          "description": "Satya Nadella sover gott om nätterna.",
+          "link": "https://www.fz.se/artikel/291566-microsofts-vd-valdigt-saker-pa-att-activision-affaren-blir-verklighet",
+          "publishedOn": "2022-09-23T14:36:00.000Z",
+          "wordCount": 2078,
+          "title": "Microsofts vd \"väldigt säker\" på att Activision-affären blir verklighet",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291566"
+        },
         {
           "id": "https://www.fz.se/artikel/291564",
           "author": null,
@@ -14602,6 +14672,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/23/whatsapp_and_instagram_now_restricted/",
+          "author": null,
+          "description": "<h4>Also: New Iranian and Chinese associated 'magnet of threats' member and details of Iran's hack on Albania</h4> <p>Iran is experiencing a near-total internet service disruption in the west and intermittent interruptions nationwide, with access to Instagram, Whatsapp and some mobile networks being blocked, says Netblocks.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/23/whatsapp_and_instagram_now_restricted/",
+          "publishedOn": "2022-09-23T15:24:13.000Z",
+          "wordCount": 1559,
+          "title": "Iran blocks Whatsapp, Instagram as citizens protest death of Mahsa Amini",
+          "imageUrl": "https://regmedia.co.uk/2020/12/08/iran.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/23/starlink_broadband_speeds_slow/",
+          "author": null,
+          "description": "<h4>But a median of 60Mbps is not to be sniffed at when you're out in the sticks</h4> <p>Elon Musk's Starlink satellite broadband service has seen a decline in download speeds around the world as more and more subscribers sign up, perhaps making the company a victim of its own success.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/23/starlink_broadband_speeds_slow/",
+          "publishedOn": "2022-09-23T14:34:09.000Z",
+          "wordCount": 1368,
+          "title": "Starlink broadband speeds slow as subscriber numbers grow",
+          "imageUrl": "https://regmedia.co.uk/2021/11/10/shutterstock_satellite_broadband.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/23/microsoft_highlights_productivity_paranoia/",
           "author": null,
