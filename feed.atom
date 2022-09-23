@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-23T20:27:51.617Z</updated>
+    <updated>2022-09-23T21:23:34.053Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Wine 7.18 Released With Unicode 15.0 Support, 20 Bug Fixes]]></title>
+        <id>https://www.phoronix.com/news/Wine-7.18-Released</id>
+        <link href="https://www.phoronix.com/news/Wine-7.18-Released"/>
+        <updated>2022-09-23T21:12:21.000Z</updated>
+        <summary type="html"><![CDATA[Wine 7.18 has been popped this Friday afternoon as the newest bi-weekly development release for this open-source program to enjoy Windows games and applications on Linux, macOS, and other platforms...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon hires unsafe trucking firms twice as often as peers, WSJ finds]]></title>
+        <id>https://arstechnica.com/?p=1884201</id>
+        <link href="https://arstechnica.com/?p=1884201"/>
+        <updated>2022-09-23T20:50:59.000Z</updated>
+        <summary type="html"><![CDATA[Since 2015, crashes involving Amazon vehicles have killed more than 75 people.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Billionaire CEO tells Googlers 'we shouldn’t always equate fun with money']]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/23/ceo_google_austerity/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/23/ceo_google_austerity/"/>
+        <updated>2022-09-23T20:28:14.000Z</updated>
+        <summary type="html"><![CDATA[<h4>A day in the G is like a day on the farm. Every meal a banquet. Every code checkout a parade. I love the G</h4> <p>Challenged by questions about Google's cost-cutting at an internal meeting, Alphabet billionaire CEO Sundar Pichai reportedly reassured employees about the internet giant's financial belt tightening by insisting that workplace fun doesn't have to be about money.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[39-year-old Radio Shack laptop gets new CPU, keeps original screen]]></title>
+        <id>https://arstechnica.com/?p=1884104</id>
+        <link href="https://arstechnica.com/?p=1884104"/>
+        <updated>2022-09-23T20:13:32.000Z</updated>
+        <summary type="html"><![CDATA[Hobbyist and IEEE editor Stephen Cass upgrades a broken laptop from 1983.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Canadian customers seeing a temporary delay for the Steam Deck]]></title>
         <id>https://www.gamingonlinux.com/2022/09/canadian-customers-seeing-a-temporary-delay-for-the-steam-deck/</id>
@@ -244,6 +284,29 @@ The hacker responsible for the GTA 6 had earlier in the week publicised that the
  Read more]]></summary>
         <author>
             <name>Connor Makar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gunnar Wolf: 6237415]]></title>
+        <id>https://gwolf.org/2022/09/6237415.html</id>
+        <link href="https://gwolf.org/2022/09/6237415.html"/>
+        <updated>2022-09-23T16:03:26.000Z</updated>
+        <summary type="html"><![CDATA[Years ago, it was customary that some of us stated publicly the way we
+think in time of Debian General Resolutions (GRs). And even if we
+didn’t, vote lists were open (except when voting for people,
+i.e. when electing a DPL), so if interested we could understand what
+our different peers thought.
+This is the first vote, though, where a Debian vote is protected under
+voting secrecy. I think
+it is sad we chose that path, as I liken a GR vote more with a voting
+process within a general assembly of a cooperative than with a
+countrywide voting one; I feel that understanding who is behind each
+posture helps us better understand the project as a whole.
+But anyway, I’m digressing… Even though I remained quiet during much
+of the discussion period (I was preparing and attending a conference),
+I am ver…]]></summary>
+        <author>
+            <name>Planet Debian</name>
         </author>
     </entry>
     <entry>
@@ -19428,76 +19491,6 @@ The Qubes OS Summit is also very cool, great people and exciting developments!]]
         <summary type="html"><![CDATA[KDE Plasma 5.26 is due for release on 11 October while the Plasma 5.26 beta is planned for next week. As such the developers involved have been quite busy with finishing touches ahead of the beta...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LLVM Begins Landing Support For Zstd Compressed ELF Debug Sections (ELFCOMPRESS_ZSTD)]]></title>
-        <id>https://www.phoronix.com/news/LLVM-Landing-Zstd-Debug-Section</id>
-        <link href="https://www.phoronix.com/news/LLVM-Landing-Zstd-Debug-Section"/>
-        <updated>2022-09-10T09:11:19.000Z</updated>
-        <summary type="html"><![CDATA[Following the news from this summer of Zstd compression being eyed for use within LLVM, the code has begun being merged to allow for Zstd-compressed ELF debug sections as an alternative to the long-used Zlib...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iphone i topp hos svenska användare]]></title>
-        <id>https://www.sweclockers.com/artikel/34890</id>
-        <link href="https://www.sweclockers.com/artikel/34890-iphone-i-topp-hos-svenska-anvandare"/>
-        <updated>2022-09-10T09:11:02.000Z</updated>
-        <summary type="html"><![CDATA[Enligt en ny kartläggning av Sifo använder majoriteten av svenskarna Apple-märkta telefoner och störst andel Iphone-användare finns i Stockholm.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joachim Breitner: rec-def: Behind the scenes]]></title>
-        <id>http://www.joachim-breitner.de/blog/793-rec-def__Behind_the_scenes</id>
-        <link href="http://www.joachim-breitner.de/blog/793-rec-def__Behind_the_scenes"/>
-        <updated>2022-09-10T09:08:24.000Z</updated>
-        <summary type="html"><![CDATA[A week ago I wrote about the rec-def Haskell library, which allows you to write more recursive definitions, such as in this small example:
-let s1 = rInsert 23 s2
-    s2 = rInsert 42 s1
-in getR s1
-This will not loop (as it would if you’d just used Data.Set), but rather correctly return the set S.fromList [23,42]. See the previous blog post for more examples and discussion of the user-facing side of this.
-For quick reference, these are the types of the functions involved here:
-rInsert :: a -> R (Set a) -> R (Set a)
-getR :: R (Set a) -> Set a
-
-The type of s1 and s2 above is not Set Int, but rather R (Set Int), and in this post I’ll explain how R works internally.
-Propagators, in general
-The conceptual model behind an recursive equation like above is
-There are a multiple cells that can hold va…]]></summary>
-        <author>
-            <name>mail@joachim-breitner.de (Joachim Breitner)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2000-talets renässanskvinna - Johan ställer frågor till Stefanie Joosten]]></title>
-        <id>https://www.fz.se/artikel/291380</id>
-        <link href="https://www.fz.se/artikel/291380-2000-talets-renassanskvinna-johan-staller-fragor-till-stefanie-joosten"/>
-        <updated>2022-09-10T09:02:04.000Z</updated>
-        <summary type="html"><![CDATA[Efter att ha spelat Quiet i Metal Gear Solid 5 bryter Stefanie Joosten tystnaden om sitt jobb inom spelindustrin. FZ får nöjet att gör den första svenska intervjun någonsin med Ms. Joosten.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warhammer 40,000: Darktide's gunplay is deliciously meaty]]></title>
-        <id>https://www.eurogamer.net/warhammer-40000-darktides-gunplay-is-deliciously-meaty</id>
-        <link href="https://www.eurogamer.net/warhammer-40000-darktides-gunplay-is-deliciously-meaty"/>
-        <updated>2022-09-10T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It feels real good to shoot stuff in Warhammer 40,000: Darktide. This might not sound like the biggest deal - it's always important for this type of horde-based, zombie-mowing game - but for Darktide good shooting is significant. Developer Fatshark, who previously made spiritual, franchise-adjacent predecessors Warhammer: Vermintide and Vermintide 2, hadn't used actual FPS mechanics before, with Vermintide almost entirely based on melee. And doing it right in Darktide, it turns out, has been a challenge.
-
-
-"It's been tricky," says Mats Andersson, lead combat designer at Fatshark, who was speaking to us at Gamescom. He explains it's something they had to build up to step-by-step, in part because of the game's hybrid approach that mixes both melee and first-person shooting. "We knew that we wanted to do a hybrid kind of thing," he said, "as we wanted to keep the melee part, because we wanted to extend it, rather than have a completely separate game mode with ranged combat."
-
-
-Originally Darktide had what Andersson called "simple ADS," where holding aim will simply bring a ranged weapon up to the middle of the screen to give you that "aim down sights" perspective, like it would in most FPS games. But Andersson described the result, "if you just have a static animation with some spread on it," as "less than stellar." The big push, therefore, has been to "up the quality of that, and doing some more finicky and sophisticated things with recoil and spread, the swaying animation blend sets, lining everything up so it's so controlled that the gun lines up and shoots where it needs to shoot."
- 
-Read more]]></summary>
-        <author>
-            <name>Chris Tapsell</name>
         </author>
     </entry>
 </feed>
