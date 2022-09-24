@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-24T22:24:25.667Z</updated>
+    <updated>2022-09-24T23:25:49.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Check Your CPU Temperature]]></title>
+        <id>pfuqHH3HcFUGWfneFWiZVi</id>
+        <link href="https://www.tomshardware.com/how-to/how-to-check-cpu-temp-temperature"/>
+        <updated>2022-09-24T22:53:02.000Z</updated>
+        <summary type="html"><![CDATA[How can you check your CPU's temperature and what's a good or normal range? We break it down for you.]]></summary>
+        <author>
+            <name>palcorn@outlook.com (Paul Alcorn)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PUBG devs are making a game based on Korean fantasy epic The Bird That Drinks Tears]]></title>
         <id>https://www.rockpapershotgun.com/pubg-devs-are-making-a-game-based-on-korean-fantasy-epic-the-bird-that-drinks-tears</id>
@@ -19023,62 +19033,6 @@ The free quest arc will "nicely tie up some of the storylines established throug
 Read more]]></summary>
         <author>
             <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MultiVersus' latest patch adds in Gizmo, and swaps out Velma's cop car for the Mystery Machine]]></title>
-        <id>https://www.vg247.com/multiversus-patch-adds-gizmo-removes-velma-cop-car</id>
-        <link href="https://www.vg247.com/multiversus-patch-adds-gizmo-removes-velma-cop-car"/>
-        <updated>2022-09-11T11:19:01.000Z</updated>
-        <summary type="html"><![CDATA[The latest patch for MultiVersus is here, bringing along a reworked hitbox and hurtbox, swapping out Velma calling a police car for the Mystery Machine, and adds in Gizmo.
-Multiverse patch 1.02 is here, and has some pretty big changes for the game, the biggest being the hitbox/ hurtbox overhaul. Before the update, character's hurtboxes were just a single, bean-like shape, more of a one-size-fits-all kind of situation. Now though, hurtboxes wrap around each character individually, which should make the action a bit tighter. 
-The latest update also brings in a brand-new character, Gizmo, the kind-hearted Mogwai from the best Christmas movie around, Gremlins. Gizmo is a support character that can help teammates absorb incoming damage. His classic pink car can be used as a projectile to shoot enemies from afar, and can use an umbrella to either float to safety or ram into his opponents. 
- Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Draft EU AI Act regulations could have a chilling effect on open-source software]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/11/in_brief_ai/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/11/in_brief_ai/"/>
-        <updated>2022-09-11T11:00:10.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Plus: New MLPerf inference results, and artists finds terrifying AI-generated face haunting images</h4> <p><strong>In-brief</strong>  New rules drafted by the European Union aimed at regulating AI could prevent developers from releasing open-source models, according to American think tank Brookings.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wifi 7 visar framfötterna i demonstration]]></title>
-        <id>https://www.sweclockers.com/artikel/34900</id>
-        <link href="https://www.sweclockers.com/artikel/34900-wifi-7-visar-framfotterna-i-demonstration"/>
-        <updated>2022-09-11T10:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Hisnande hastigheter står på menyn när Intel och Broadcom visar den kommande Wifi 7, med hastigheter som slår många trådbundna anslutningar.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overwatch 2's next hero leaks in an unfinished animated short]]></title>
-        <id>https://www.vg247.com/overwatch-2-hero-35-leak</id>
-        <link href="https://www.vg247.com/overwatch-2-hero-35-leak"/>
-        <updated>2022-09-11T10:39:18.000Z</updated>
-        <summary type="html"><![CDATA[What is presumably the next hero that was set to be announced for Overwatch 2 has been leaked via an unfinished animated short.
-Obviously, if you don't want to know anything about this unconfirmed hero before they're officially revealed, stop reading here, but if you're not fussed, be our guest!
-So far, Overwatch 2 has two new characters confirmed to be coming to the game, who was also accidentally revealed through a leak, and Junker Queen, who managed to avoid the leak treatment. Unfortunately for Kiriko, the name of the the newest spirit-fox-themed hero, her reveal comes through another leak, this time of an animated short, though it's not quite finished.
- Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple M1 Pro/Max/Ultra Device Trees Under Review For Linux]]></title>
-        <id>https://www.phoronix.com/news/Apple-M1-Pro-Max-Ultra-DT</id>
-        <link href="https://www.phoronix.com/news/Apple-M1-Pro-Max-Ultra-DT"/>
-        <updated>2022-09-11T10:26:52.000Z</updated>
-        <summary type="html"><![CDATA[The Device Tree (DT) files needed by the Linux kernel for Apple Macs powered by the M1 Pro, Max, and Ultra SoCs has been submitted on the kernel mailing list for review and working their way towards upstream...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
 </feed>
