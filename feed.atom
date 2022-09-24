@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-24T17:27:03.991Z</updated>
+    <updated>2022-09-24T18:31:43.970Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenJDK Java's Native Wayland Support Progressing]]></title>
+        <id>https://www.phoronix.com/news/Java-Native-Wayland-Progress</id>
+        <link href="https://www.phoronix.com/news/Java-Native-Wayland-Progress"/>
+        <updated>2022-09-24T18:21:17.000Z</updated>
+        <summary type="html"><![CDATA[OpenJDK/Java has been making progress on implementing native "pure" Wayland toolkit integration not dependent upon X.Org/X11 or XWayland for rendering of Java GUI applications...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS 16 review: Customization unlocked]]></title>
+        <id>https://arstechnica.com/?p=1884255</id>
+        <link href="https://arstechnica.com/?p=1884255"/>
+        <updated>2022-09-24T17:28:59.000Z</updated>
+        <summary type="html"><![CDATA[The lock screen gets a major overhaul.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best RAM for Gaming: DDR4, DDR5 Kits for 2022]]></title>
         <id>5XV3Do5jG5CB2guNopbqW3</id>
@@ -19077,26 +19097,6 @@ Release date: 2023
         <link href="https://www.fz.se/artikel/291412-se-den-cinematiska-trailern-for-assassins-creed-mirage"/>
         <updated>2022-09-11T07:00:00.000Z</updated>
         <summary type="html"><![CDATA[Välkommen till Bagdhad!]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Destructive Linux Commands You Should Never Run]]></title>
-        <id>https://itsfoss.com/?p=101619</id>
-        <link href="https://itsfoss.com/dangerous-linux-commands/"/>
-        <updated>2022-09-11T05:46:38.000Z</updated>
-        <summary type="html"><![CDATA[Here are some common dangerous Linux commands that trolls try to trick you into running and messing up your Linux system.]]></summary>
-        <author>
-            <name>Abhishek Prakash</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Framtida Assassin’s Creed-spel kommer utspela sig i Asien]]></title>
-        <id>https://www.fz.se/artikel/291413</id>
-        <link href="https://www.fz.se/artikel/291413-framtida-assassins-creed-spel-kommer-utspela-sig-i-asien"/>
-        <updated>2022-09-11T05:33:32.000Z</updated>
-        <summary type="html"><![CDATA[Lönnmördarna reser till Japan och Kina.]]></summary>
         <author>
             <name>FZ.se</name>
         </author>
