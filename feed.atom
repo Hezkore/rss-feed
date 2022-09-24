@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-24T09:25:59.746Z</updated>
+    <updated>2022-09-24T10:27:18.918Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Core 14000 "Meteor Lake" får dedikerad AI-hårdvara]]></title>
+        <id>https://www.sweclockers.com/artikel/34920</id>
+        <link href="https://www.sweclockers.com/artikel/34920-intel-core-14000-meteor-lake-far-dedikerad-ai-hardvara"/>
+        <updated>2022-09-24T10:11:19.000Z</updated>
+        <summary type="html"><![CDATA[Chiplet-upplägg står på menyn med Core 14000-serien, där en så kallad NPU-del ska avlasta processor och grafikdel på energieffektivt sätt.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMDGPU Gang Submit Sent In For Linux 6.1]]></title>
+        <id>https://www.phoronix.com/news/AMDGPU-Gang-Submit-6.1</id>
+        <link href="https://www.phoronix.com/news/AMDGPU-Gang-Submit-6.1"/>
+        <updated>2022-09-24T09:50:00.000Z</updated>
+        <summary type="html"><![CDATA[On Friday AMD submitted a feature pull request to DRM-Next of some last minute changes they would like to see as part of the upcoming Linux 6.1 kernel...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Lot Of Bug Fixing - Including For Wayland - Heading Into KDE Plasma 5.26]]></title>
+        <id>https://www.phoronix.com/news/Plasma-5.26-More-Bug-Fixes</id>
+        <link href="https://www.phoronix.com/news/Plasma-5.26-More-Bug-Fixes"/>
+        <updated>2022-09-24T09:39:20.000Z</updated>
+        <summary type="html"><![CDATA[Following last week's release of KDE Plasma 5.26 beta, KDE developers have turned their focus to bug-fixing ahead of next month's stable release...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top flight: what's the best video game jetpack?]]></title>
         <id>https://www.eurogamer.net/top-flight-whats-the-best-video-game-jetpack</id>
@@ -18899,76 +18929,6 @@ During the showcase, the Skull and Bones team also revealed a bit more about smu
         <summary type="html"><![CDATA[Sony have been regularly releasing games on PC for a while now, with an often quick turnaround between 'announcement' and 'it's out now'. The exception is the Uncharted: Legacy Of Thieves Collection, which was confirmed for PC back in September 2021 but which still hasn't arrived.
 
 It seems like that will change soon. A recent, hastily-removed update to the collection's Epic Games Store page declared that it would release on October 19th.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Andrew Cater: 202209102213 - Debian release day - Cambridge - post 3]]></title>
-        <id>tag:blogger.com,1999:blog-8085113335874848981.post-5046582737974836758</id>
-        <link href="http://flosslinuxblog.blogspot.com/2022/09/202209102213-debian-release-day.html"/>
-        <updated>2022-09-10T22:18:40.000Z</updated>
-        <summary type="html"><![CDATA[Working a bit more slowly - coming to the end of the process. I've been wrestling with a couple of annoying old laptops and creating mayhem. The others are almost through the process - it's been a very long day, almost 12 hours now.
-As ever, it's good to be with people who appreciate this work - I'm also being menaced by a dog that wants fuss all the time. It certainly makes a difference to have fast connectivity and even faster remarks backwards and forwards.]]></summary>
-        <author>
-            <name>noreply@blogger.com (Andrew Cater)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Division Heartland developer intro provides the first look at gameplay]]></title>
-        <id>https://www.vg247.com/the-division-heartland-developer-intro-gameplay-video</id>
-        <link href="https://www.vg247.com/the-division-heartland-developer-intro-gameplay-video"/>
-        <updated>2022-09-10T22:11:02.000Z</updated>
-        <summary type="html"><![CDATA[Today, during Ubisoft Forward, Ubisoft shared details for The Division Heartland alongside the first look at the game via a developer intro video.
-The survival-action multiplayer shooter is set in small-town America within the Division universe, and is slated for this year or 2023 on PC, consoles, and cloud.
-Ubisoft said it is gearing up for a closed alpha, but a date wasn't provided. You can sign up for future closed tests on the official website.
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Deck repair centers are open now]]></title>
-        <id>https://www.rockpapershotgun.com/steam-deck-repair-centers-are-open-now</id>
-        <link href="https://www.rockpapershotgun.com/steam-deck-repair-centers-are-open-now"/>
-        <updated>2022-09-10T22:03:24.000Z</updated>
-        <summary type="html"><![CDATA[Valve have opened repair centres for the Steam Deck. These are where you'll send your handheld PC if it develops a problem, either so Valve can fix it free-of-charge if it's still under warranty, or so they can diagnose the problem and quote you a repair price if it's not. "If your dog gnaws on your thumbstick and breaks it, this is not covered by warranty," say Valve.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mando and Grogu are a clan of two in The Mandalorian S3 teaser]]></title>
-        <id>https://arstechnica.com/?p=1880214</id>
-        <link href="https://arstechnica.com/?p=1880214"/>
-        <updated>2022-09-10T22:03:14.000Z</updated>
-        <summary type="html"><![CDATA[Plus final Andor trailer, Bad Batch S2 delay, and animated Tales of the Jedi trailer]]></summary>
-        <author>
-            <name>Jennifer Ouellette</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debian 11.5 Released With NVIDIA Driver Security Fixes, Linux Retbleed Mitigation, Other]]></title>
-        <id>https://www.phoronix.com/news/Debian-11.5-Released</id>
-        <link href="https://www.phoronix.com/news/Debian-11.5-Released"/>
-        <updated>2022-09-10T21:45:24.000Z</updated>
-        <summary type="html"><![CDATA[The Debian project today released Debian 11.5 and Debian 10.3 as the newest versions of their free GNU/Linux operating system...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Division: Heartland's first trailer gives little away about the free-to-player shooter]]></title>
-        <id>https://www.rockpapershotgun.com/the-division-heartlands-first-trailer-gives-little-away-about-the-free-to-player-shooter</id>
-        <link href="https://www.rockpapershotgun.com/the-division-heartlands-first-trailer-gives-little-away-about-the-free-to-player-shooter"/>
-        <updated>2022-09-10T21:28:18.000Z</updated>
-        <summary type="html"><![CDATA[Before announcing a bazillion Assassin's Creed games during tonight's Ubisoft Forward stream, the publisher did first show a handful of other games. Among them was a first look at The Division: Heartland, a free-to-play spin-off from the Clancyverse shooter, which was described as an "action survival shooter." You can watch it below.
 
  
 Read more]]></summary>
