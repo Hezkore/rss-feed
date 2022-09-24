@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-24T04:45:15.655Z</updated>
+    <updated>2022-09-24T05:48:22.975Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[17-åring misstänks ligga bakom GTA 6-läckan hos Rockstar]]></title>
+        <id>https://www.fz.se/artikel/291572</id>
+        <link href="https://www.fz.se/artikel/291572-17-aring-misstanks-ligga-bakom-gta-6-lackan-hos-rockstar"/>
+        <updated>2022-09-24T05:35:33.000Z</updated>
+        <summary type="html"><![CDATA[En 17-åring har arresterats av polisen i London.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mozilla drags Microsoft, Google, Apple for obliterating any form of browser choice]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/23/browsers_mozilla_microsoft_google/</id>
@@ -19139,16 +19149,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Voxel Doom is a mod for GZDoom which replaces 2D characters and props from Doom with fully 3D voxel-based models.]]></summary>
         <author>
             <name>anewson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel "Alder Lake"-arkitektur återanvänds i Core i5-13400]]></title>
-        <id>https://www.sweclockers.com/artikel/34901</id>
-        <link href="https://www.sweclockers.com/artikel/34901-intel-alder-lake-arkitektur-ateranvands-i-core-i5-13400"/>
-        <updated>2022-09-10T16:50:37.000Z</updated>
-        <summary type="html"><![CDATA[Uppgraderad cacheminnesmängd uteblir i låsta Core i5- och samtliga Core i3-processorer, som därmed hänger kvar med årsgammal processorarkitektur.]]></summary>
-        <author>
-            <name>SweClockers</name>
         </author>
     </entry>
 </feed>
