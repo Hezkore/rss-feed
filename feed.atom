@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-24T21:22:02.420Z</updated>
+    <updated>2022-09-24T22:24:25.667Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PUBG devs are making a game based on Korean fantasy epic The Bird That Drinks Tears]]></title>
+        <id>https://www.rockpapershotgun.com/pubg-devs-are-making-a-game-based-on-korean-fantasy-epic-the-bird-that-drinks-tears</id>
+        <link href="https://www.rockpapershotgun.com/pubg-devs-are-making-a-game-based-on-korean-fantasy-epic-the-bird-that-drinks-tears"/>
+        <updated>2022-09-24T21:46:20.000Z</updated>
+        <summary type="html"><![CDATA[Krafton, Korean publishers PlayerUnknown's Battlegrounds, have released a "visual concept trailer" for a new game based on Korean epic fantasy novels The Bird That Drinks Tears. They're still describing the game as "unannounced", but say that the trailer illustrates the "mystical tone" they're aiming for. 
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GOG's End Of Summer sale has discounts on some classic games]]></title>
         <id>https://www.rockpapershotgun.com/gogs-end-of-summer-sale-has-discounts-on-some-classic-games</id>
@@ -19064,59 +19077,6 @@ So far, Overwatch 2 has two new characters confirmed to be coming to the game, w
         <link href="https://www.phoronix.com/news/Apple-M1-Pro-Max-Ultra-DT"/>
         <updated>2022-09-11T10:26:52.000Z</updated>
         <summary type="html"><![CDATA[The Device Tree (DT) files needed by the Linux kernel for Apple Macs powered by the M1 Pro, Max, and Ultra SoCs has been submitted on the kernel mailing list for review and working their way towards upstream...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Sees A New Attempt At Threaded Console Printing]]></title>
-        <id>https://www.phoronix.com/news/New-Linux-printk-Threaded-Work</id>
-        <link href="https://www.phoronix.com/news/New-Linux-printk-Threaded-Work"/>
-        <updated>2022-09-11T10:13:04.000Z</updated>
-        <summary type="html"><![CDATA[As part of the multi-year effort to overhaul the Linux kernel's printk() code there has been much work in recent months around threaded console printing so each registered console would have a kernel thread and console printing would be decoupled from the printk() callers. That work was aimed for Linux 5.19 but then reverted due to troubles. There is now a new implementation in the works...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubisoft teasar om ett multiplayer-inriktat Assassin’s Creed]]></title>
-        <id>https://www.fz.se/artikel/291414</id>
-        <link href="https://www.fz.se/artikel/291414-ubisoft-teasar-om-ett-multiplayer-inriktat-assassins-creed"/>
-        <updated>2022-09-11T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[All knives out.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disney Dreamlight Valley shrinks you down for a Toy Story realm coming this autumn]]></title>
-        <id>https://www.vg247.com/disney-dreamlight-valley-toy-story-realm</id>
-        <link href="https://www.vg247.com/disney-dreamlight-valley-toy-story-realm"/>
-        <updated>2022-09-11T09:41:50.000Z</updated>
-        <summary type="html"><![CDATA[Disney Dreamlight Valley just launched, but the promise of new content is already on the horizon with the announcement of a Toy Story realm.
-It's D23 at the moment, the Disney event that announces a big range of upcoming films, TV shows, merch, and games owned by the media conglomerate. Considering Disney Dreamlight Valley literally only launched this week it's a bit of a surprise that new content has already been announced, but either way, there's a Toy Story realm coming to the game this autumn. 
-A trailer was released showing off the realm in action, which unsurprisingly is set in a kids room, though doesn't appear to be Andy's room specifically, with your player character shrunk down to get a toy's perspective. The trailer revealed a couple of new outfits that your character will be able to wear, one an obviously Woody-themed cowperson outfit, the other themed Buzz that sort of looks like something you'd wear in your downtime at Space Command.
- Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FLAC 1.4 Released With AArch64 Optimizations, Faster x86_64 FMA]]></title>
-        <id>https://www.phoronix.com/news/FLAC-1.4-Released</id>
-        <link href="https://www.phoronix.com/news/FLAC-1.4-Released"/>
-        <updated>2022-09-11T09:39:22.000Z</updated>
-        <summary type="html"><![CDATA[FLAC 1.4 was released on Friday as the "Free Lossless Audio Codec" that is known for its great, no-cost lossless compression for digital audio...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Talks Up Their oneVPL Acceleration Within FFmpeg]]></title>
-        <id>https://www.phoronix.com/news/Intel-oneVPL-FFmpeg-Accel</id>
-        <link href="https://www.phoronix.com/news/Intel-oneVPL-FFmpeg-Accel"/>
-        <updated>2022-09-11T09:30:15.000Z</updated>
-        <summary type="html"><![CDATA[Last month Intel began landing oneVPL support within FFmpeg as their video processing and acceleration library that is part of their oneAPI toolkit. The oneVPL Video Processing Library supports CPU-based execution as well as native Intel GPU acceleration for their latest Gen12/Xe hardware with a focus on Arc Graphics / DG2 hardware, targeting the Intel Media SDK for their older GPUs, and can be adapted for other possible back-ends...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
