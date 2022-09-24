@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-24T06:34:59.980Z</updated>
+    <updated>2022-09-24T07:24:39.543Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A match made in heaven: systemd comes to Windows Subsystem for Linux]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/24/systemd_windows_linux_microsoft/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/24/systemd_windows_linux_microsoft/"/>
+        <updated>2022-09-24T07:14:11.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Has someone been Poettering about?</h4> <p>Linux distros running on Windows in a WSL2 virtual machine now can use the systemd init system.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[17-åring misstänks ligga bakom GTA 6-läckan hos Rockstar]]></title>
         <id>https://www.fz.se/artikel/291572</id>
