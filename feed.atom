@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-23T23:28:26.956Z</updated>
+    <updated>2022-09-24T02:42:49.505Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mozilla drags Microsoft, Google, Apple for obliterating any form of browser choice]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/23/browsers_mozilla_microsoft_google/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/23/browsers_mozilla_microsoft_google/"/>
+        <updated>2022-09-23T23:33:34.000Z</updated>
+        <summary type="html"><![CDATA[<h4>If you've got no OS of your own, you've got little chance to compete, Firefox maker sighs</h4> <p>Firefox maker Mozilla is taking aim at Microsoft, Google, and Apple for using their operating systems to steer users to their browsers and stacking the deck against rivals who lack the same OS advantages. Like, for instance, Mozilla.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPU Prices Fall After Nvidia Announcement, Ethereum Merge]]></title>
         <id>bDDkpYUg8StRfM8GfzY7KL</id>
@@ -24,6 +34,16 @@
         <summary type="html"><![CDATA[A code commit that was merged to LLVM's AMDGPU shader compiler back-end on Friday afternoon confirms that GFX11/RDNA3 GPUs can have a lot more vector registers than prior GFX10 (RDNA / RDNA2) GPUs...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GeForce GPUs are slowing down after installing the Windows 11 2022 Update]]></title>
+        <id>https://arstechnica.com/?p=1884284</id>
+        <link href="https://arstechnica.com/?p=1884284"/>
+        <updated>2022-09-23T22:44:10.000Z</updated>
+        <summary type="html"><![CDATA[A new version of the GeForce Experience software will fix the issue.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
         </author>
     </entry>
     <entry>
@@ -19181,244 +19201,6 @@ Ubisoft has promised to announce updates on upcoming games like Mario + Rabbids 
 Valve says that should you "encounter an issue" with its new handheld system, you can send your Steam Deck for repair or replacement via one of its repair centres, where the team will "diagnose the device, repair if needed, then ship the fixed unit back to you".
 
 Whilst in-warranty repairs will be carried out free of charge, Valve does remind players that "if your dog gnaws on your thumbstick and breaks it, this is not covered by warranty", although repair centres will repair accidental damage "for a fee". Otherwise, Steam Deck owners are invited to "fix things yourself" with repair kits, replacement parts, and guides all available at iFixit.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The blazing-fast PCIe 4.0 Crucial P5 Plus SSD is down to £59 for a 500GB model]]></title>
-        <id>https://www.rockpapershotgun.com/the-blazing-fast-pcie-40-crucial-p5-plus-ssd-is-down-to-59-for-a-500gb-model</id>
-        <link href="https://www.rockpapershotgun.com/the-blazing-fast-pcie-40-crucial-p5-plus-ssd-is-down-to-59-for-a-500gb-model"/>
-        <updated>2022-09-10T14:38:50.000Z</updated>
-        <summary type="html"><![CDATA[The Crucial P5 Plus is one of the most affordable 'second-gen' PCIe 4.0 SSDs, offering sequential read speeds up to a storming 6600MB/s while costing less than alternatives like the Samsung 980 Pro and WD Black SN850. As you may have guessed from the title of this post, it's also on sale at Amazon for a very reasonable price: £59 gets you a 500GB model compared to a UK RRP of £101. 
-Read more]]></summary>
-        <author>
-            <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Four-player co-op Disney Illusion Island will be a Nintendo Switch exclusive]]></title>
-        <id>https://www.eurogamer.net/four-player-co-op-disney-illusion-island-will-be-an-nintendo-switch-exclusive</id>
-        <link href="https://www.eurogamer.net/four-player-co-op-disney-illusion-island-will-be-an-nintendo-switch-exclusive"/>
-        <updated>2022-09-10T14:23:32.000Z</updated>
-        <summary type="html"><![CDATA[Disney Illusion Island is an all new four-player co-operative Disney adventure coming to Nintendo Switch.
-
-The new 2D adventure has been built upon a cancelled 2016 project by Dlala Studios and will feature Mickey, Minnie, Donald Duck, and Goofy, inspired by the Mickey Mouse cartoon shorts. You can check it out in the trailer below:
-
-"Join Mickey & Friends on a quest to save a mysterious world from disaster!" teases the game's description on YouTube. "In this brand-new 1-4 player cooperative adventure platformer, you’ll navigate as Mickey, Minnie, Donald, and Goofy through a beautifully hand-crafted world as you run, swim, swing, and jump to recover three magical books to save the world."
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pick up an EVGA 360mm AiO for £82 after a 25% discount on Amazon]]></title>
-        <id>https://www.rockpapershotgun.com/pick-up-an-evga-360mm-aio-for-82-after-a-25-discount-on-amazon</id>
-        <link href="https://www.rockpapershotgun.com/pick-up-an-evga-360mm-aio-for-82-after-a-25-discount-on-amazon"/>
-        <updated>2022-09-10T14:20:17.000Z</updated>
-        <summary type="html"><![CDATA[360mm AiOs seem to be becoming more of a necessity these days, with ever-hotted high-end processors from the likes of AMD and particularly Intel. Thankfully, they're also becoming increasingly inexpensive, with this post in particular spotlighting a deal on the EVGA CLC 360. This cooler normally costs £109, but today you can pick it up for £82 after a 25% discount.
-Read more]]></summary>
-        <author>
-            <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FZ Play - Vi kör den hyllade pusselplattformaren Tinykin]]></title>
-        <id>https://www.fz.se/artikel/291403</id>
-        <link href="https://www.fz.se/artikel/291403-fz-play-vi-kor-den-hyllade-pusselplattformaren-tinykin"/>
-        <updated>2022-09-10T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Följ kvällens stream.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FZ Play - Vi brottsutreder som på 90-talet i Immortality]]></title>
-        <id>https://www.fz.se/artikel/291403</id>
-        <link href="https://www.fz.se/artikel/291403-fz-play-vi-brottsutreder-som-pa-90-talet-i-immortality"/>
-        <updated>2022-09-10T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Följ streamen av det hyllade FMV-spelet.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CPU Benchmarks and Hierarchy 2022: Processor Ranking Charts]]></title>
-        <id>V7teKs7ev9p3jsgMmVR9A</id>
-        <link href="https://www.tomshardware.com/reviews/cpu-hierarchy,4312.html"/>
-        <updated>2022-09-10T13:38:26.000Z</updated>
-        <summary type="html"><![CDATA[All of today's desktop CPU benchmarks compared, including Intel's 12th-Gen Core series and AMD's Ryzen Zen 3 and Threadripper.]]></summary>
-        <author>
-            <name>palcorn@outlook.com (Paul Alcorn)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Aims To Squeeze More EPYC Performance Out Of Linux With User-Space Hinting For Tasks]]></title>
-        <id>https://www.phoronix.com/news/AMD-User-Space-Hiting-Linux</id>
-        <link href="https://www.phoronix.com/news/AMD-User-Space-Hiting-Linux"/>
-        <updated>2022-09-10T13:36:44.000Z</updated>
-        <summary type="html"><![CDATA[AMD engineers are working to better optimize the Linux kernel's scheduler for split-LLC (last level cache) processor designs, namely to benefit their EPYC server processors...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disney Illusion Island is a lovely looking co-op platformer coming exclusively to Switch]]></title>
-        <id>https://www.vg247.com/disney-illusion-island-is-a-lovely-looking-co-op-platformer-coming-exclusively-to-switch</id>
-        <link href="https://www.vg247.com/disney-illusion-island-is-a-lovely-looking-co-op-platformer-coming-exclusively-to-switch"/>
-        <updated>2022-09-10T13:36:04.000Z</updated>
-        <summary type="html"><![CDATA[During the D23 Expo yesterday, Disney announced the upcoming platformer Disney Illusion Island, and it is a lovely-looking game that resembles a Mickey cartoon.
-Starring Mickey, Minnie, Goofy, and Donald Duck, the foursome have arrived on the islands of Monoth on a quest to recover three mystical books. Doing so will save the world from disaster.
-Developed by Disney and Dlala Studios, this 1-4 player cooperative adventure platformer allows you to choose your favorite character and unlock special abilities as you perform platforming feats, solve puzzles, and participate in boss battles.
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jonathan Dowland: Prusa Mini]]></title>
-        <id>https://jmtd.net/log/prusa_mini/</id>
-        <link href="https://jmtd.net/log/prusa_mini/"/>
-        <updated>2022-09-10T13:25:29.000Z</updated>
-        <summary type="html"><![CDATA[In June I caved and bought a Prusa
-Mini
-3D printer for home. I bought it just before an announced price hike. I went
-for a Prusa because of their reputation for "just working", and the Mini mostly
-as its the cheapest, although, the print area (7"³) is large enough for most of
-the things I am likely to print.
-
-
-
-
-
-
-To get started, at the same time I bought some Prusament recycled
-PLA to print
-with which, unfortunately, I've been a little disappointed with.
-I was attracted to the idea of buying a recycled material and Prusa make a lot
-about the quality of their filaments.
-The description was pretty clear that the colour would be somewhat random and
-vary throughout the spool, but I didn't mind that, and I planned to use it for
-mainly functional prints where the precise colour didn't matter. The colour
-examples from the product page were mostly off-white grey with some tint,
-typically green. There are not a lot of reviews of the recycled PLA that
-comment on the colour of their spools, but in a couple of youtube videos
-(1,
-2) the spools have looked a
-grey-ish silver, sometimes with a greenish tint, pretty similar to the product
-page.
-The colour I got is quite unlike those: it's a dull brown, with little flecks
-of glitter, presumably originally from recycling something like Galaxy
-Black.
-That's totally within "spec", of course, but it's a bit boring.
-
-
-Brown recycled Prusament PLA on the right
-In terms of quality, sadly I've ended up with had at least one tangle in the
-spool wind so far. There's at least two reviews on their own product page from
-people who have had similar difficulties.]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looks like Uncharted: Legacy of Thieves Collection is coming to Epic Games Store and Steam next month]]></title>
-        <id>https://www.eurogamer.net/looks-like-uncharted-legacy-of-thieves-collection-is-coming-to-epic-games-store-and-steam-next-month</id>
-        <link href="https://www.eurogamer.net/looks-like-uncharted-legacy-of-thieves-collection-is-coming-to-epic-games-store-and-steam-next-month"/>
-        <updated>2022-09-10T13:16:50.000Z</updated>
-        <summary type="html"><![CDATA[A now-deleted Epic Games Store graphic suggests Uncharted: Legacy of Thieves Collection is coming to PC next month.
-
-Though the store page was almost instantly pulled down and amended, it wasn't quick enough to fool the internet, which managed to catch a proposed release date of 19th October, 2022.
-
-Looks like there'll be a Fortnite-flavoured pre-order bonus, too; a "snazzy new Fortnite glider in the shape of Sully's seaplane".
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uncle Sam sanctions Iran's intel agency over Albanian cyberattack]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/10/us_sanctions_iran_mois/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/10/us_sanctions_iran_mois/"/>
-        <updated>2022-09-10T13:00:10.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Iranians won't be terrified, but US vendors need to check their customers</h4> <p>The US Treasury Department has issued sactions against Iran's intelligence agency in response to that country's cyberattack against Albania and other "cyber-enabled activities against the United States and its allies."…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are you playing this weekend?]]></title>
-        <id>https://www.vg247.com/what-are-you-playing-this-weekend-22</id>
-        <link href="https://www.vg247.com/what-are-you-playing-this-weekend-22"/>
-        <updated>2022-09-10T12:45:25.000Z</updated>
-        <summary type="html"><![CDATA[On Friday evening, when the day is done, it's time to reflect on your week and decide what to do with your next two days off.
-Whatever you decide to do, be sure to take some time and be like us by playing some games. Because, like, you know, we're cool and stuff.
-This weekend, we're going a little cyberpunk, getting scared by T-800s, and traveling to a galaxy far, far away. 
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Se teasern för Amy Hennigs kommande Marvel-spel]]></title>
-        <id>https://www.fz.se/artikel/291411</id>
-        <link href="https://www.fz.se/artikel/291411-se-teasern-for-amy-hennigs-kommande-marvel-spel"/>
-        <updated>2022-09-10T12:18:47.000Z</updated>
-        <summary type="html"><![CDATA[Ryktena vara sanna och vi fick en teaser på Amy Hennigs nya Marvel-projekt.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NBA 2K23 Arcade Edition is coming to Apple Arcade next month]]></title>
-        <id>https://www.eurogamer.net/nba-2k23-arcade-edition-is-coming-to-apple-arcade-next-month</id>
-        <link href="https://www.eurogamer.net/nba-2k23-arcade-edition-is-coming-to-apple-arcade-next-month"/>
-        <updated>2022-09-10T12:13:08.000Z</updated>
-        <summary type="html"><![CDATA[NBA 2K23 Arcade Edition is coming to Apple Arcade from 18th October, 2022.
-
-2K confirmed the news earlier this week, saying it will be an "authentic mobile experience for the NBA 2K basketball game" that includes the "all-new exclusive mode", The Greatest, which features 20 of the Greatest of All-Time NBA players from the current NBA season at launch, including cover athlete Devin Booker, and NBA legends like Michael Jordan, Kareem Abdul-Jabbar, and Shaquille O'Neal.
-
-"Players will also enjoy a more immersive and realistic NBA gameplay experience with commentary from NBA play-by-play announcers and colour analysts, such as Kevin Harlan, Brian Anderson, Greg Anthony, Grant Hill, and Doris Burke for the first time," the developer says.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asus TUF Gaming B660M-Plus WIFI D4 Review: TUF Competition]]></title>
-        <id>LTsyWEvzbAPi2mveuuqH4J</id>
-        <link href="https://www.tomshardware.com/reviews/asus-tuf-b660m-plus-wifi-d4-review"/>
-        <updated>2022-09-10T12:00:29.000Z</updated>
-        <summary type="html"><![CDATA[The Asus TUF Gaming B660M-Plus WIFI D4 is a well-appointed Micro ATX motherboard with lots of USB ports (including a rear 20 Gbps Type-C port). Along with its black and yellow aesthetic, you also get Wi-Fi 6 and plenty of storage options.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google and Amazon want more defense contracts, despite worker protests]]></title>
-        <id>https://arstechnica.com/?p=1879983</id>
-        <link href="https://arstechnica.com/?p=1879983"/>
-        <updated>2022-09-10T12:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Protesters oppose Israeli government contract they say could have military uses.]]></summary>
-        <author>
-            <name>WIRED</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rocket League Season 8 and its new "artisanal turf" Arena is now live]]></title>
-        <id>https://www.eurogamer.net/rocket-league-season-8-and-its-new-artisanal-turf-arena-is-now-live</id>
-        <link href="https://www.eurogamer.net/rocket-league-season-8-and-its-new-artisanal-turf-arena-is-now-live"/>
-        <updated>2022-09-10T11:36:35.000Z</updated>
-        <summary type="html"><![CDATA[Rocket League Season 8 is now live.
-
-With an all-new rocket pass – this one headlined by the Honda Civic Type R, the first "IRL car in Rocket Pass" – and the new grassy Sovereign Heights Arena, you'll be able to "take it outside" given its "blanketed in artisanal turf crafted by the neighborhood co-op". 
-
-"Inspired by the famously hot hatchback, this in-game Honda Civic Type R is the first-ever IRL car to come included in Rocket Pass Premium! The JDM masterpiece hits the streets with a beloved spec: Octane Hitbox," developer Psyonix explains.
  
 Read more]]></summary>
         <author>
