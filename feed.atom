@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-25T14:22:14.862Z</updated>
+    <updated>2022-09-25T15:25:57.170Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Modern Warfare 2 beta clocks up an impressive concurrent player count]]></title>
+        <id>https://www.eurogamer.net/modern-warfare-2-beta-clocks-up-an-impressive-concurrent-player-count</id>
+        <link href="https://www.eurogamer.net/modern-warfare-2-beta-clocks-up-an-impressive-concurrent-player-count"/>
+        <updated>2022-09-25T15:09:19.000Z</updated>
+        <summary type="html"><![CDATA[The Call of Duty Modern Warfare 2 beta has hit a new concurrent peak of nearly 170,000 players on PC, making it one of the most played games on Steam right now.
+
+According to SteamDB, the beta is currently sporting more concurrent players than Team Fortress 2, Destiny 2, GTA 5, and even Cyberpunk 2077, which has seen a boost in its own player numbers recently, too. 
+
+With an all-time concurrent peak of 168,330 players (at the time of writing, anyway; it's been increasing steadily all weekend), that means it's already beaten the concurrent records for games like Left 4 Dead 2, Halo: The Master Chief Collection, The Division, FIFA 22, and Borderlands 2.
+ 
+Read more]]></summary>
+        <author>
+            <name>Vikki Blake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CD Projekt Red firar 20-årsjubileum]]></title>
+        <id>https://www.fz.se/artikel/291576</id>
+        <link href="https://www.fz.se/artikel/291576-cd-projekt-red-firar-20-arsjubileum"/>
+        <updated>2022-09-25T15:00:00.000Z</updated>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gotham Knights cutscenes will play out differently depending on the character, has Nightwing rump fan service]]></title>
+        <id>https://www.vg247.com/gotham-knights-cutscenes-play-out-differently</id>
+        <link href="https://www.vg247.com/gotham-knights-cutscenes-play-out-differently"/>
+        <updated>2022-09-25T14:20:35.000Z</updated>
+        <summary type="html"><![CDATA[According to Gotham Knights' game director, you won't be able to experience all of the story in just one playthrough.
+
+
+Plenty of games require you to do multiple playthroughs to see all of the story, and it sounds like Gotham Knights is no different. In a recent interview with PLAY magazine (as shared by MP1st), the game's director Geoff Ellenor explained how it is that you'll be able to see different parts of the story.
+
+
+"You will not see all of it in a single playthrough," explained Ellenor, continuing to say "just because there’s so much content that is unique to the hero’s perception of what’s going on and what happened." Obviously Ellenor is referring to the fact that in Gotham Knights you can play as either Nightwing, Batgirl, Red Hood, or Robin, so it isn't too surprising to hear that each character will view things slightly differently.
+ 
+Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Btrfs Async Buffered Writes Slated For Linux 6.1 - 2x Throughput Improvement]]></title>
+        <id>https://www.phoronix.com/news/Btrfs-Async-Buffered-Writes-6.1</id>
+        <link href="https://www.phoronix.com/news/Btrfs-Async-Buffered-Writes-6.1"/>
+        <updated>2022-09-25T14:20:33.000Z</updated>
+        <summary type="html"><![CDATA[Queued up in the Btrfs for-next Git repository ahead of the Linux 6.1 merge window is support for async buffered writes that can offer a more than two times throughput improvement...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sucker Punch gets Sly Cooper some merch for his 20th birthday]]></title>
         <id>https://www.vg247.com/sucker-punch-gets-sly-cooper-some-merch-for-his-20th-birthday</id>
@@ -18909,16 +18962,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Pc-versionen, alltså.]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hybrid work not working? Try building an 'intraverse' to fix it, says Gartner]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/12/gartner_symposium_intraverse/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/12/gartner_symposium_intraverse/"/>
-        <updated>2022-09-12T02:58:15.000Z</updated>
-        <summary type="html"><![CDATA[<h4>It’s the mutant offspring of an intranet and a metaverse and even if it flops, you'll get some kudos</h4> <p>Hybrid work isn't working, according to analyst house Gartner, and one way to fix it is an "intraverse" – an interactive space that melds an intranet and a metaverse.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
