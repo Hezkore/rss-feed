@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-25T09:25:42.682Z</updated>
+    <updated>2022-09-25T10:27:33.280Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GNOME 43.1 To Support Wayland On The AMD-Xilinx Kria KR260]]></title>
+        <id>https://www.phoronix.com/news/GNOME-43.1-Xilinx-KR260</id>
+        <link href="https://www.phoronix.com/news/GNOME-43.1-Xilinx-KR260"/>
+        <updated>2022-09-25T09:55:05.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this year AMD-Xilinx announced a Linux-powered robotics starter kit making use of Xilinx's Kria KR26 SOM featuring a Zynq Ultrascale+ with four Cortex-A53 cores and Mali graphics. While robotics focused, there is a DisplayPort output and over the summer Canonical has been working to get this board playing nicely with a Wayland-powered GNOME desktop...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CPU Benchmarks and Hierarchy 2022: Processor Ranking Charts]]></title>
+        <id>V7teKs7ev9p3jsgMmVR9A</id>
+        <link href="https://www.tomshardware.com/reviews/cpu-hierarchy,4312.html"/>
+        <updated>2022-09-25T09:38:05.000Z</updated>
+        <summary type="html"><![CDATA[All of today's desktop CPU benchmarks compared, including Intel's 12th-Gen Core series and AMD's Ryzen Zen 3 and Threadripper.]]></summary>
+        <author>
+            <name>palcorn@outlook.com (Paul Alcorn)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Super Mario Bros. film gets its first trailer next month, and an April 2023 release date]]></title>
+        <id>https://www.vg247.com/mario-bros-film-first-trailer-release-date</id>
+        <link href="https://www.vg247.com/mario-bros-film-first-trailer-release-date"/>
+        <updated>2022-09-25T09:37:04.000Z</updated>
+        <summary type="html"><![CDATA[We're finally going to get our first taste of the Super Mario Bros. film next month, as a teaser trailer is planned to premiere at New York Comic Con.
+
+
+The official NYCC Twitter account announced earlier this week that the first teaser trailer for Nintendo and Illumination's Super Mario Bros. would be shown off at the convention, October 6, 4pm EST. It also finally confirmed a release date of April 7, 2023, as it had previously only been confirmed for a Spring release, after having been delayed from the holiday season this year.
+
+
+Paired with the announcement is a very simple poster showing the classic question mark block on a black background, providing an elegance that Mario is perhaps not deserving of. No other details were given about the teaser trailer, and the announcement certainly didn't mention if we're going to hear the voice of Mario himself, Chris Pratt. 
+ 
+Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generic EFI Compressed Boot Support Prepped Ahead Of Linux 6.1]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-Generic-EFI-Zboot</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-Generic-EFI-Zboot"/>
+        <updated>2022-09-25T09:32:38.000Z</updated>
+        <summary type="html"><![CDATA[Linux kernel developer Ard Biesheuvel has been working on a patch series implementing EFI generic compressed boot support that can be easily used by architectures like AArch64, LoongArch, and RISC-V...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia Issues Fix for Windows 11 22H2 Lag and Stuttering Bugs]]></title>
+        <id>vtxwXjWxVdn7esNLFd8q6X</id>
+        <link href="https://www.tomshardware.com/news/nvidia-issues-fix-for-windows-11-22h2-lag-and-stuttering-bugs"/>
+        <updated>2022-09-25T09:26:37.000Z</updated>
+        <summary type="html"><![CDATA[If the gaming issues annoy you right now, you can apply a GeForce Experience Beta update today. Otherwise, Nvidia promises a non-beta update with a new driver that will arrive during the coming week.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shirish Agarwal: Rama II, Arthur C. Clarke, Aliens]]></title>
         <id>http://flossexperiences.wordpress.com/?p=7536</id>
@@ -18705,16 +18763,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<h4>PLUS: APAC IT spend grows at over 5 percent; China's pop-up clampdown; Pakistan VPN exemptions; and more!</h4> <p><strong>Asia In Brief</strong>  India's software-related services industry won over $150 billion for the first time in 2021–2022, according to the nation's Reserve Bank (RBI).…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nyhetsquiz vecka 36 2022: Apple-nytt och grafikkortstissel]]></title>
-        <id>https://www.sweclockers.com/artikel/34905</id>
-        <link href="https://www.sweclockers.com/artikel/34905-nyhetsquiz-vecka-36-2022-apple-nytt-och-grafikkortstissel"/>
-        <updated>2022-09-11T21:33:17.000Z</updated>
-        <summary type="html"><![CDATA[September betyder i vanlig ordning att Apple öppnar portarna, samtidigt som fler av höstens teknikexplosioner skrider närmare.]]></summary>
-        <author>
-            <name>SweClockers</name>
         </author>
     </entry>
 </feed>

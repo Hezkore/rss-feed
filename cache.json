@@ -3575,6 +3575,16 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/mario-bros-film-first-trailer-release-date",
+          "author": "Oisin Kuhnke",
+          "description": "We're finally going to get our first taste of the Super Mario Bros. film next month, as a teaser trailer is planned to premiere at New York Comic Con.\r\n\n\r\nThe official NYCC Twitter account announced earlier this week that the first teaser trailer for Nintendo and Illumination's Super Mario Bros. would be shown off at the convention, October 6, 4pm EST. It also finally confirmed a release date of April 7, 2023, as it had previously only been confirmed for a Spring release, after having been delayed from the holiday season this year.\r\n\n\r\nPaired with the announcement is a very simple poster showing the classic question mark block on a black background, providing an elegance that Mario is perhaps not deserving of. No other details were given about the teaser trailer, and the announcement certainly didn't mention if we're going to hear the voice of Mario himself, Chris Pratt. \r\n \nRead more",
+          "link": "https://www.vg247.com/mario-bros-film-first-trailer-release-date",
+          "publishedOn": "2022-09-25T09:37:04.000Z",
+          "wordCount": 4721,
+          "title": "The Super Mario Bros. film gets its first trailer next month, and an April 2023 release date",
+          "imageUrl": "https://asset.vg247.com/mario-bros-movie.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/mario-bros-movie.jpg"
+        },
+        {
           "id": "https://www.vg247.com/a-17-year-old-has-been-arrested-on-suspicion-of-hacking-allegedly-behind-gta-6-leak",
           "author": "Connor Makar",
           "description": "A 17 year old was arrested in Oxfordshire yesterday, due to the suspicions of hacking. According to journalist Matthew Keys and sources who spoke to them, they were allegedly involved in the GTA 6 hack that resulted in a major information leak last weekend, and are also connected to a prior hack on Uber. This source also claims that the arrest was made by London City police in collaboration with the FBI.\nIn terms of information that has been confirmed, the London City Police has come forward and announced an arrest has been made in Oxfordshire as part of an ivnestigation by the NCA UK's National Cyber Crime Unit. Currently in police custody, there is currently no confirmation made by the police whether they were arrested for the GTA 6 hack, although according to journalist Matthew keys an additional statement by the London City Police will be released later today. A statement from the FBI may also be released soon.\nThe hacker responsible for the GTA 6 had earlier in the week publicised that they were looking to make a \"deal\" with Rockstar (thanks Gamebyte), but since then things have gone quiet. Rockstar Games did come out to confirm that the leaked assets were legitimate, leading to an influx of industry support and numerious other devs posting their own early game builds to show that the GTA 6 that the world could see thanks to the leaks wasn't likely to resemble the final product.\n Read more",
@@ -4891,6 +4901,26 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/GNOME-43.1-Xilinx-KR260",
+          "author": null,
+          "description": "Earlier this year AMD-Xilinx announced a Linux-powered robotics starter kit making use of Xilinx's Kria KR26 SOM featuring a Zynq Ultrascale+ with four Cortex-A53 cores and Mali graphics. While robotics focused, there is a DisplayPort output and over the summer Canonical has been working to get this board playing nicely with a Wayland-powered GNOME desktop...",
+          "link": "https://www.phoronix.com/news/GNOME-43.1-Xilinx-KR260",
+          "publishedOn": "2022-09-25T09:55:05.000Z",
+          "wordCount": 1326,
+          "title": "GNOME 43.1 To Support Wayland On The AMD-Xilinx Kria KR260",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.1-Generic-EFI-Zboot",
+          "author": null,
+          "description": "Linux kernel developer Ard Biesheuvel has been working on a patch series implementing EFI generic compressed boot support that can be easily used by architectures like AArch64, LoongArch, and RISC-V...",
+          "link": "https://www.phoronix.com/news/Linux-6.1-Generic-EFI-Zboot",
+          "publishedOn": "2022-09-25T09:32:38.000Z",
+          "wordCount": 1480,
+          "title": "Generic EFI Compressed Boot Support Prepped Ahead Of Linux 6.1",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Intel-Habana-Labs-Linux-6.1",
           "author": null,
@@ -7335,6 +7365,36 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "V7teKs7ev9p3jsgMmVR9A",
+          "author": "palcorn@outlook.com (Paul Alcorn)",
+          "description": "All of today's desktop CPU benchmarks compared, including Intel's 12th-Gen Core series and AMD's Ryzen Zen 3 and Threadripper.",
+          "link": "https://www.tomshardware.com/reviews/cpu-hierarchy,4312.html",
+          "publishedOn": "2022-09-25T09:38:05.000Z",
+          "wordCount": 29316,
+          "title": "CPU Benchmarks and Hierarchy 2022: Processor Ranking Charts",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/F8LbVqh2HanAaMDUKLVFZi.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/F8LbVqh2HanAaMDUKLVFZi.png"
+        },
+        {
+          "id": "vtxwXjWxVdn7esNLFd8q6X",
+          "author": null,
+          "description": "If the gaming issues annoy you right now, you can apply a GeForce Experience Beta update today. Otherwise, Nvidia promises a non-beta update with a new driver that will arrive during the coming week.",
+          "link": "https://www.tomshardware.com/news/nvidia-issues-fix-for-windows-11-22h2-lag-and-stuttering-bugs",
+          "publishedOn": "2022-09-25T09:26:37.000Z",
+          "wordCount": 21432,
+          "title": "Nvidia Issues Fix for Windows 11 22H2 Lag and Stuttering Bugs",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/TkjQ5wtkdWtETt9N9N9xdZ.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/TkjQ5wtkdWtETt9N9N9xdZ.jpg"
+        },
         {
           "id": "phD5H6ZPRfdX4oEQ6giK7N",
           "author": "palcorn@outlook.com (Paul Alcorn)",
@@ -14019,16 +14079,6 @@
           "wordCount": 1592,
           "title": "Nvidia utökar RTX 3000-serien",
           "imageUrl": "https://www.sweclockers.com/artikel/34907/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34905",
-          "author": null,
-          "description": "September betyder i vanlig ordning att Apple öppnar portarna, samtidigt som fler av höstens teknikexplosioner skrider närmare.",
-          "link": "https://www.sweclockers.com/artikel/34905-nyhetsquiz-vecka-36-2022-apple-nytt-och-grafikkortstissel",
-          "publishedOn": "2022-09-11T21:33:17.000Z",
-          "wordCount": 1427,
-          "title": "Nyhetsquiz vecka 36 2022: Apple-nytt och grafikkortstissel",
-          "imageUrl": "https://www.sweclockers.com/artikel/34905/og-image"
         }
       ]
     },
