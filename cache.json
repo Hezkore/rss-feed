@@ -828,6 +828,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/how-renting-story-of-thor-proved-harder-than-finishing-the-actual-game",
+          "author": "Jennifer Allen",
+          "description": "Renting games as a kid was frequently the only way I could play many new games. I was lucky that I'd typically receive a game for my birthday and for Christmas, but the rest of the year, games were expensive and out of reach through any other method than renting. It was the 1990s and the idea of cheap digital downloads to stave off the lack of games seemed unfathomable. \r\n\n\r\nThe advantage to renting games is I had the opportunity to experience many more games than I ever would have risked asking for as a gift. The disadvantage? The competition involved in acquiring the game I was after.\r\n\n\r\nThat was the case with not-quite-Zelda-clone-but-it-is-basically Story of Thor on the Mega Drive. In many ways, competing for a copy of Story of Thor, also known as Beyond Oasis, was harder than actually playing the game. My local Blockbuster (remember those? No? Oh) had two copies. It looked thrilling. It had one of those newer Mega Drive boxes that had a thick blue line down the side of it. On the one hand, that meant that the game would have superior graphics and other bits and pieces. On the other hand, that meant the Mega Drive was getting a bit long in the tooth and my days of owning the latest console were very numbered. To put it into context, in Europe, Story of Thor came out the same year as the PlayStation 1 launched. Change was coming. Fast.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/how-renting-story-of-thor-proved-harder-than-finishing-the-actual-game",
+          "publishedOn": "2022-09-25T09:00:00.000Z",
+          "wordCount": 5394,
+          "title": "How renting Story of Thor proved harder than finishing the actual game",
+          "imageUrl": "https://assets.reedpopcdn.com/Story-of-Thor-header-2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Story-of-Thor-header-2.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/cyberpunk-2077s-fascinating-afterlife",
           "author": "Martin Robinson",
           "description": "This article originally went out to Eurogamer supporters as part of the Eurogamer Essentials newsletter that goes to all members every Friday. If you'd like to find out how to become a Eurogamer supporter you can find out more here.\n\r\nIf' there's anything as fascinating is the incubation of a triple-A game - something exposed in spectacular fashion last weekend by the GTA 6 drama, with leaks that stripped away the gloss and exposed the wheels and cogs (as well as the ignorance of how exactly video games are made, something we could all do a better job of educating each other on) - it's the afterlife of a modern-day blockbuster. Even better when it's one as derided as Cyberpunk 2077 was at launch. \nWhy exactly CD Projekt's sci-fi spectacular was the subject of such ire when it launched at the tail-end of 2020 is a topic too multifaceted to properly unpick with the 600 or so words we have here; there was some righteous anger about the appalling working conditions Cyberpunk 2077 was made under at times, a hype cycle that even the most accomplished of games would buckle under, a more than messy launch as it awkwardly straddled two generations of hardware and, ultimately, a good old-fashioned pile-on that obscured all else. There’s rarely room for nuance in internet discourse, and the noise around Cyberpunk 2077’s launch is proof perfect of that.\n Read more",
@@ -6070,16 +6080,6 @@
           "wordCount": 1236,
           "title": "Linux Plumbers Conference 2022 Livestream",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.0-rc5-Released",
-          "author": null,
-          "description": "Linus Torvalds has just announced Linux 6.0-rc5 as the latest test release of Linux 6.0 that is working its way toward a stable release in early October...",
-          "link": "https://www.phoronix.com/news/Linux-6.0-rc5-Released",
-          "publishedOn": "2022-09-11T21:08:13.000Z",
-          "wordCount": 1440,
-          "title": "Linux 6.0-rc5 Released After A Calm Week Of Kernel Development",
-          "imageUrl": null
         }
       ]
     },
@@ -9623,6 +9623,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "http://flossexperiences.wordpress.com/?p=7536",
+          "author": null,
+          "description": "Rama II\nThis would be more of a short post about the current book I am reading. Now people who have seen Arrival would probably be more at home. People who have also seen Avatar would also be familiar to the theme or concept I am sharing about. Now before I go into detail, it seems that Arthur C. Clarke wanted to use a powerful god or mythological character for the name and that is somehow the RAMA series started.\nNow the first book in the series explores an extraterrestrial spaceship that earth people see/connect with. The spaceship is going somewhere and is doing an Earth flyby so humans don’t have much time to explore the spaceship and it is difficult to figure out how the spaceship worked. The spaceship is around 40 km. long. They don’t meet any living Ramans but mostly automated syste…",
+          "link": "https://flossexperiences.wordpress.com/2022/09/25/rama-ii-arthur-c-clarke-aliens/",
+          "publishedOn": "2022-09-25T09:07:45.000Z",
+          "wordCount": 5066,
+          "title": "Shirish Agarwal: Rama II, Arthur C. Clarke, Aliens",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "tag:dreamwidth.org,2009-05-21:377446:12581",
           "author": null,
           "description": "tl;dr: Please vote in favour of the Debian Social Contract change, by ranking all of its options above None of the Above. Rank the SC change options above corresponding options that do not change the Social Contract.\nVote to change the SC even if you think the change is not necessary for Debian to prominently/officially provide an installer with-nonfree-firmware.\nWhy vote for SC change even if I think it’s not needed?\nI’m addressing myself primarily to the reader who agrees with me that Debian ought to be officially providing with-firmware images. I think it is very likely that the winning option will be one of the ones which asks for an official and prominent with-firmware installer.\nHowever, many who oppose this change believe that it would be a breach of Debian’s Social Contract. This i…",
@@ -9840,16 +9850,6 @@
           "publishedOn": "2022-09-12T13:45:00.000Z",
           "wordCount": 737,
           "title": "Petter Reinholdtsen: Time to translate the Bullseye edition of the Debian Administrator's Handbook",
-          "imageUrl": null
-        },
-        {
-          "id": "http://dirk.eddelbuettel.com/blog/2022/09/11#rcpparmadillo_0.11.2.4.0",
-          "author": null,
-          "description": "Armadillo is a powerful and expressive C++ template library for linear algebra and scientific computing. It aims towards a good balance between speed and ease of use, has a syntax deliberately close to Matlab, and is useful for algorithm development directly in C++, or quick conversion of research code into production environments. RcppArmadillo integrates this library with the R environment and language–and is widely used by (currently) 1016 packages other packages on CRAN, downloaded 26.2 million times (per the partial logs from the cloud mirrors of CRAN), and the CSDA paper (preprint / vignette) by Conrad and myself has been cited 493 times according to Google Scholar.\nThis new release (made yesterday) brings three changes. First, it updates the release to the upstream 11.2.4 bugfix rel…",
-          "link": "http://dirk.eddelbuettel.com/blog/2022/09/11#rcpparmadillo_0.11.2.4.0",
-          "publishedOn": "2022-09-11T20:31:00.000Z",
-          "wordCount": 1040,
-          "title": "Dirk Eddelbuettel: RcppArmadillo 0.11.2.4.0 on CRAN: Bugfix and Deprecation",
           "imageUrl": null
         }
       ]
@@ -11734,6 +11734,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291574",
+          "author": null,
+          "description": "I spindlarnas nät! Mer Spider-Man till PC i höst.",
+          "link": "https://www.fz.se/artikel/291574-har-ar-teasern-for-pc-versionen-av-spider-man-miles-morales",
+          "publishedOn": "2022-09-25T08:42:10.000Z",
+          "wordCount": 1816,
+          "title": "Här är teasern för PC-versionen av Spider-Man: Miles Morales",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291574"
+        },
+        {
           "id": "https://www.fz.se/artikel/291573",
           "author": null,
           "description": "Boneworks uppföljare får releasedatum.",
@@ -13371,6 +13381,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34975",
+          "author": null,
+          "description": "I mjugg har Microsoft utrustat Windows med automatiseringsverktyget Power Automate, som i veckans matiné får uppmärksamheten som programmet förtjänar.",
+          "link": "https://www.sweclockers.com/artikel/34975-sondagsmatine-automatisera-windows",
+          "publishedOn": "2022-09-25T09:06:46.000Z",
+          "wordCount": 1505,
+          "title": "Söndagsmatiné: Automatisera Windows",
+          "imageUrl": "https://www.sweclockers.com/artikel/34975/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34920",
           "author": null,
           "description": "Chiplet-upplägg står på menyn med Core 14000-serien, där en så kallad NPU-del ska avlasta processor och grafikdel på energieffektivt sätt.",
@@ -14317,6 +14337,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/25/noberus_ransomware_symantec/",
+          "author": null,
+          "description": "<h4>'One of the most dangerous and active malware developers operating at the moment'</h4> <p>Crooks spreading the Noberus ransomware are adding weapons to their malware to steal data and credentials from compromised networks.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/25/noberus_ransomware_symantec/",
+          "publishedOn": "2022-09-25T08:50:14.000Z",
+          "wordCount": 1481,
+          "title": "Noberus ransomware gets info-stealing upgrades, targets Veeam backup software",
+          "imageUrl": "https://regmedia.co.uk/2016/08/12/ransomware.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/24/ethereum_gpu_pricing/",
           "author": null,
