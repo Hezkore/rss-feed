@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-25T12:45:56.100Z</updated>
+    <updated>2022-09-25T13:38:43.336Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sucker Punch gets Sly Cooper some merch for his 20th birthday]]></title>
+        <id>https://www.vg247.com/sucker-punch-gets-sly-cooper-some-merch-for-his-20th-birthday</id>
+        <link href="https://www.vg247.com/sucker-punch-gets-sly-cooper-some-merch-for-his-20th-birthday"/>
+        <updated>2022-09-25T13:28:36.000Z</updated>
+        <summary type="html"><![CDATA[It might not be a new game, but Sucker Punch has shown off some pretty nice looking merch for Sly Cooper's 20th anniversary.
+
+
+Sorry to say that the words 'Sly Cooper' and 'announcement' aren't being paired together to reveal a surprise new title, but with the game's 20th anniversary having taken place on September 23, Sucker Punch did have some merch to show off, including a print, a t-shirt, and a plush of everyone's favourite sneaky raccoon.
+
+
+The print is admittedly incredibly gorgeous, showing a cross section of a building with a tonne of wonderful details and references to the series. At the time of writing both  versions of the framed print are currently out of stock on the producer's website (Cook & Becker), as there were a limited number that were signed by artist Dev Madan, but it might be worth keeping an eye on anyway. But it is still available to pick up on the PlayStation Gear store.
+ 
+Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A secret The Callisto Protocol video hints that something is happening next week]]></title>
         <id>https://www.eurogamer.net/a-secret-the-callisto-protocol-video-hints-that-something-is-happening-next-week</id>
@@ -18899,16 +18917,6 @@ Read more]]></summary>
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/12/gartner_symposium_intraverse/"/>
         <updated>2022-09-12T02:58:15.000Z</updated>
         <summary type="html"><![CDATA[<h4>It’s the mutant offspring of an intranet and a metaverse and even if it flops, you'll get some kudos</h4> <p>Hybrid work isn't working, according to analyst house Gartner, and one way to fix it is an "intraverse" – an interactive space that melds an intranet and a metaverse.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Retbleed fix slugs Linux VM performance by up to 70 percent]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/12/retbleed_slugs_vm_performance_by/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/12/retbleed_slugs_vm_performance_by/"/>
-        <updated>2022-09-12T01:29:15.000Z</updated>
-        <summary type="html"><![CDATA[<h4>VMware ran tests on kernel 5.19 and saw some nasty numbers. Meanwhile progress on version 6.0 is steady</h4> <p>VMware engineers have tested the Linux kernel's fix for the <a target="_blank" href="https://www.theregister.com/2022/07/12/amd_intel_retbleed/">Retbleed</a> speculative execution bug, and report it can impact compute performance by a whopping 70 percent.…</p>]]></summary>
         <author>
             <name>The Register</name>
         </author>
