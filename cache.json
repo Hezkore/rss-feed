@@ -3606,16 +3606,6 @@
           "wordCount": 4409,
           "title": "Announcing the Pub Quiz, open to all showcomers",
           "imageUrl": "https://assets.reedpopcdn.com/egx_richtig.png/BROK/thumbnail/1600x900/format/jpg/quality/80/egx_richtig.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/splatoon-3-has-best-ever-switch-game-launch-in-japan",
-          "author": "Ed Nightingale",
-          "description": "Splatoon 3 has had a hugely successful launch in Japan, with the highest domestic sales for any Switch game in the first three days.\r\n\n\r\nSince launching on Friday, the game has sold 3.45m copies in Japan both physically and digitally.\r\n\n\r\nIt proves how popular the game is in Nintendo's home market and how important the Splatoon IP is, outselling even Animal Crossing: New Horizons which had the previous best launch in Japan.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/splatoon-3-has-best-ever-switch-game-launch-in-japan",
-          "publishedOn": "2022-09-12T09:53:54.000Z",
-          "wordCount": 4605,
-          "title": "Splatoon 3 has best ever Switch game launch in Japan",
-          "imageUrl": "https://assets.reedpopcdn.com/NSwitch_Splatoon3_04.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/NSwitch_Splatoon3_04.jpg"
         }
       ]
     },
@@ -5003,16 +4993,6 @@
           "wordCount": 5251,
           "title": "Square Enix says Forspoken dialogue memes have “no context” – but admits some are “really funny”",
           "imageUrl": "https://asset.vg247.com/Forspoken_header_memes.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Forspoken_header_memes.jpg"
-        },
-        {
-          "id": "https://www.vg247.com/gargoyles-is-being-remastered-27-years-after-launching-on-the-sega-genesis",
-          "author": "Kelsey Raynor",
-          "description": "Revealed at The Disney and Marvel Games Showcase, Gargoyles will be privy to a remaster way over 10 years since it first released on the SEGA Genesis.\nGargoyles, which was first released back in 1995, is a video game adaptation of the animated series of the same name. Both the series and the game didn’t reach the same popularity as other Disney classics at the time, like The Lion King and Aladdin, but it’s still a game that awakes a warm feeling of nostalgia for many.\nIt’s a classic platformer through and through, that honestly looks great as is still, so it’ll be interesting to see just what Empty Clip do with the remaster. As of right now, all we know is to expect updated visuals and controls.\n Read more",
-          "link": "https://www.vg247.com/gargoyles-is-being-remastered-27-years-after-launching-on-the-sega-genesis",
-          "publishedOn": "2022-09-12T09:35:37.000Z",
-          "wordCount": 4644,
-          "title": "Gargoyles is being remastered 27 years after launching on the SEGA Genesis",
-          "imageUrl": "https://asset.vg247.com/Gargoyles-1995.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Gargoyles-1995.jpg"
         }
       ]
     },
@@ -5021,6 +5001,16 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.0-rc7-Released",
+          "author": null,
+          "description": "Last week Linux 6.0-rc6 came in tiny due to many of the upstream kernel developers having been in Dublin for LPC 2022 and other events. Linus Torvalds had been fearing an uptick in activity this week as a result, but he's been pleasantly surprised that Linux 6.0-rc7 remains on the lighter side...",
+          "link": "https://www.phoronix.com/news/Linux-6.0-rc7-Released",
+          "publishedOn": "2022-09-25T21:23:01.000Z",
+          "wordCount": 1510,
+          "title": "Linux 6.0-rc7 Released - Linux 6.0 Will Hopefully Release Next Sunday",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Btrfs-Async-Buffered-Writes-6.1",
           "author": null,
@@ -6219,36 +6209,6 @@
           "publishedOn": "2022-09-12T10:25:26.000Z",
           "wordCount": 1287,
           "title": "Mesa 22.3 Lands New \"Rusticl\" OpenCL 3.0 Implementation",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Rust-UEFI-Firmware-Hope-Tier-2",
-          "author": null,
-          "description": "David Rheinsberg of Red Hat who is a contributor to systemd, BUS1, KMSCON, and other projects over the years is leading an effort seeking to get Rust's UEFI firmware targets promoted to a tier-2 class...",
-          "link": "https://www.phoronix.com/news/Rust-UEFI-Firmware-Hope-Tier-2",
-          "publishedOn": "2022-09-12T10:07:29.000Z",
-          "wordCount": 1349,
-          "title": "Rust UEFI Firmware Targets Look For A Promotion To Tier-2",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/High-Flow-Next-Linux-6.1",
-          "author": null,
-          "description": "Added to the mainline Linux kernel last year was a Aquacomputer HWMON driver for initially supporting the German company's water-cooling pump under Linux with access to the fan speed, power, voltage, current, and coolant temperature. Since then that open-source driver developed by the community has been extended to cover an Aquacomputer fan controller and different models. For the Linux 6.1 cycle coming up there are more additions to the Aquacomputer driver...",
-          "link": "https://www.phoronix.com/news/High-Flow-Next-Linux-6.1",
-          "publishedOn": "2022-09-12T09:53:04.000Z",
-          "wordCount": 1461,
-          "title": "Aquacomputer High Flow Next To Be Supported With Linux 6.1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/X-Plane-12-Beta",
-          "author": null,
-          "description": "Last week Laminar Research promoted X-Plane 12 to its early access public beta phase. This realistic flight simulator continues to natively support Linux -- and doing so well for many years -- and now with X-Plane 12, the Vulkan steps up past their long-used OpenGL renderer...",
-          "link": "https://www.phoronix.com/news/X-Plane-12-Beta",
-          "publishedOn": "2022-09-12T09:37:11.000Z",
-          "wordCount": 1401,
-          "title": "Vulkan-Using X-Plane 12 Flight Simulator Now Available In Beta Form",
           "imageUrl": null
         }
       ]
@@ -13582,16 +13542,6 @@
           "wordCount": 1742,
           "title": "Testa Ubisoft+ gratis i en månad - över 100 spel ingår",
           "imageUrl": "https://www.fz.se/artikel/og-image/291423"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291416",
-          "author": null,
-          "description": "Nintendos färgstarka snäll-shooter bör finnas i alla Switch-samlingar.",
-          "link": "https://www.fz.se/artikel/291416-splatoon-3",
-          "publishedOn": "2022-09-12T09:55:00.000Z",
-          "wordCount": 2405,
-          "title": "Splatoon 3",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291416"
         }
       ]
     },
@@ -14229,16 +14179,6 @@
           "wordCount": 1555,
           "title": "Visa ditt datorbygge i galleriet – endast två veckor kvar till Höstens datorbygge",
           "imageUrl": "https://www.sweclockers.com/artikel/34908/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34909",
-          "author": null,
-          "description": "Partnertillverkaren ser ut att storsatsa på Nvidias kommande grafikkort enligt ett produktregister hos EEC.",
-          "link": "https://www.sweclockers.com/artikel/34909-gigabyte-registrerar-elva-olika-modeller-av-geforce-rtx-4090",
-          "publishedOn": "2022-09-12T09:33:00.000Z",
-          "wordCount": 1523,
-          "title": "Gigabyte registrerar elva olika modeller av Geforce RTX 4090",
-          "imageUrl": "https://www.sweclockers.com/artikel/34909/og-image"
         }
       ]
     },
@@ -14408,16 +14348,6 @@
           "publishedOn": "2022-09-13T00:52:22.000Z",
           "wordCount": 639,
           "title": "Comic for 2022.09.13 - Hard R",
-          "imageUrl": null
-        },
-        {
-          "id": "https://explosm.net/comics/the-bible",
-          "author": null,
-          "description": "New Cyanide and Happiness Comic",
-          "link": "https://explosm.net/comics/the-bible",
-          "publishedOn": "2022-09-12T09:31:48.000Z",
-          "wordCount": 639,
-          "title": "Comic for 2022.09.12 - The Bible",
           "imageUrl": null
         }
       ]
@@ -16736,16 +16666,6 @@
           "wordCount": 1359,
           "title": "Atos investor says turnaround plan 'too ambitious and complicated'",
           "imageUrl": "https://regmedia.co.uk/2021/01/07/shutterstock_atos_logo.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/12/brain_chips_interview/",
-          "author": null,
-          "description": "<h4>It's not because our AI overlords aren't keen on the idea</h4> <p><strong>Interview</strong>  Every time a chipmaker or researcher announces an advancement in neuromorphics, it's inevitably the same story: a brain-like AI chip capable of stupendous performance-per-watt compared to traditional accelerators.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/12/brain_chips_interview/",
-          "publishedOn": "2022-09-12T10:23:08.000Z",
-          "wordCount": 1719,
-          "title": "Brain-inspired chips promise ultra-efficient AI, so why aren’t they everywhere?",
-          "imageUrl": "https://regmedia.co.uk/2022/03/10/brain_shutterstock.jpg"
         }
       ]
     }
