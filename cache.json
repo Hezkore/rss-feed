@@ -7556,6 +7556,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "ikxFJbvXTWosKiPid29W8H",
+          "author": null,
+          "description": "Evidence suggests that Intel is putting the gears into motion to facilitate the rollout of its long-awaited Arc A770 and A750 graphics cards for desktop PCs.",
+          "link": "https://www.tomshardware.com/news/intel-arc-a770-embargo-rumors-point-to-early-october-launch",
+          "publishedOn": "2022-09-25T18:02:10.000Z",
+          "wordCount": 21508,
+          "title": "Intel Arc A770 Embargo Rumors Point to Early October Launch",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/428W6dK5536MmdmWZi9cZQ.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/428W6dK5536MmdmWZi9cZQ.png"
+        },
+        {
           "id": "hUCPsBaCee6mzNeUVkhtZ9",
           "author": null,
           "description": "TSMC’s N6 silicon will be a significant contributor in allowing Sony to pare back the PS5 cooling system and reduce system weight for its 2022 refresh.",
@@ -13676,6 +13691,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34974",
+          "author": null,
+          "description": "PCI-SIG uppger att 12VHPWR-kontakten kan smälta efter ett fåtal användningar, något som hörsammas i Zotacs Geforce RTX 4090-specifikationer.",
+          "link": "https://www.sweclockers.com/artikel/34974-zotacs-12vhpwr-adapter-har-livslangd-om-30-anslutningar",
+          "publishedOn": "2022-09-25T18:04:44.000Z",
+          "wordCount": 1853,
+          "title": "Zotacs 12VHPWR-adapter har livslängd om 30 anslutningar",
+          "imageUrl": "https://www.sweclockers.com/artikel/34974/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34975",
           "author": null,
           "description": "I mjugg har Microsoft utrustat Windows med automatiseringsverktyget Power Automate, som i veckans matiné får uppmärksamheten som programmet förtjänar.",
@@ -16851,16 +16876,6 @@
           "wordCount": 1318,
           "title": "Chemical plant taken offline by the best one of all: C<sub>8</sub>H<sub>10</sub>N<sub>4</sub>O<sub>2</sub>",
           "imageUrl": "https://regmedia.co.uk/2016/05/26/coffee.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/12/china_discovers_new_mineral_on/",
-          "author": null,
-          "description": "<h4>Helium-3 also draws excitement as future fusion energy source</h4> <p>China announced last Friday it discovered a hitherto unknown mineral in samples returned from the Moon.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/12/china_discovers_new_mineral_on/",
-          "publishedOn": "2022-09-12T05:38:47.000Z",
-          "wordCount": 1298,
-          "title": "China discovers unknown mineral on the moon, names it Changesite-(Y)",
-          "imageUrl": "https://regmedia.co.uk/2020/11/18/moon.jpg"
         }
       ]
     }
