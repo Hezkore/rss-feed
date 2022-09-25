@@ -22,6 +22,70 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-09-26 datetime="2022-09-25T22:12:00.000Z">2022-09-26</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-09-26 datetime="2022-09-25T22:12:00.000Z"></time>
+          </button>
+        </h2>
+        <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Planet Debian</button>
+                  <a class="source-heading__link" href="https://planet.debian.org/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://blogops.mixinet.net/posts/k8s_static_content_server/"
+                        open
+                      >
+                        <summary class="article-expander__title">Sergio Talens-Oliag: Kubernetes Static Content Server</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://blogops.mixinet.net/posts/k8s_static_content_server/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>This post describes how I’ve put together a simple static content server for
+kubernetes clusters using a Pod with a persistent volume and multiple
+containers: an sftp server to manage contents, a web server to publish them
+with optional access control and another one to run scripts which need access
+to the volume filesystem.
+The sftp server runs using
+MySecureShell, the web
+server is nginx and the script runner uses the
+webhook tool to publish endpoints to call
+them (the calls will come from other Pods that run backend servers or are
+executed from Jobs or CronJobs).
+Note: 
+This service has been developed for Kyso and the
+version used in our current
+architecture
+includes an additional container to index documents for
+Elasticsearch, but as it is not
+relevant for the description of the servic…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;41
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+        </ul>
+      </section>
+      <section class="daily-content js-toggle-accordions-scope">
+        <h2 class="daily-heading">
+          <button
+            class="daily-heading-toggle"
+            data-action="toggle-accordions"
+            title="Click to toggle the day, Ctrl + click to toggle all."
+          >
             <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-09-25 datetime="2022-09-25T21:23:01.000Z">2022-09-25</time>
             <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-09-25 datetime="2022-09-25T21:23:01.000Z"></time>
           </button>
@@ -35242,26 +35306,6 @@ How to do that though? It is possible for the u…</span>
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;1866485"
-                        open
-                      >
-                        <summary class="article-expander__title">How an enormous project attempted to map the sky without computers</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1866485">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/08/GettyImages-90732326-760x380.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>The Carte du Ciel provided signposts for how future astronomical discoveries would be made.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -35658,25 +35702,6 @@ How to do that though? It is possible for the u…</span>
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.phoronix.com/news/Mesa-22.3-Rusticl-Merged"
-                        open
-                      >
-                        <summary class="article-expander__title">Mesa 22.3 Lands New &quot;Rusticl&quot; OpenCL 3.0 Implementation</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.phoronix.com/news/Mesa-22.3-Rusticl-Merged">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Karol Herbst of Red Hat has seen his new &quot;Rusticl&quot; implementation merged into mainline Mesa! Mesa 22.3 next quarter will introduce this new Rust-written OpenCL 3.0 implementation that will hopefully be more successful than the existing Gallium3D &quot;Clover&quot; OpenCL driver...</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -36005,46 +36030,6 @@ How to do that though? It is possible for the u…</span>
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.gamingonlinux.com/2022/09/defend-humanity-from-an-alien-organism-in-puzzle-game-xenospore/"
-                        open
-                      >
-                        <summary class="article-expander__title">Defend humanity from an alien organism in puzzle game Xenospore</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.gamingonlinux.com/2022/09/defend-humanity-from-an-alien-organism-in-puzzle-game-xenospore/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/68952391id21581gol.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>A mixture of strategy and puzzling elements together, Xenospore is a currently free game about defending humanity by prevent a strange alien organism from spreading too far.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.gamingonlinux.com/2022/09/the-minecraft-live-event-returns-october-15-with-a-fresh-mob-vote/"
-                        open
-                      >
-                        <summary class="article-expander__title">The Minecraft Live event returns October 15 with a fresh mob vote</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.gamingonlinux.com/2022/09/the-minecraft-live-event-returns-october-15-with-a-fresh-mob-vote/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/965871749id21580gol.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>If you still love Minecraft and want to find out all that&#x27;s coming, mark the calendars for October 15 as Minecraft Live is set to return.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -36212,26 +36197,6 @@ How to do that though? It is possible for the u…</span>
                               <img src="https://www.fz.se/artikel/og-image/291424" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>Testsugen? Anmäl intresse.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.fz.se/artikel/291423"
-                        open
-                      >
-                        <summary class="article-expander__title">Testa Ubisoft+ gratis i en månad - över 100 spel ingår</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.fz.se/artikel/291423-testa-ubisoft-gratis-i-en-manad-over-100-spel-ingar">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.fz.se/artikel/og-image/291423" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Däribland Assassin&#x27;s Creed: Valhalla och Far Cry 6.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;6
                                   min&hairsp;)</span>
                             </span>
@@ -36737,29 +36702,6 @@ Read more</span>
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/announcing-the-egx-pub-quiz-open-to-all-showcomers"
-                        open
-                      >
-                        <summary class="article-expander__title">Announcing the Pub Quiz, open to all showcomers</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/announcing-the-egx-pub-quiz-open-to-all-showcomers">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assets.reedpopcdn.com/egx_richtig.png/BROK/thumbnail/1600x900/format/jpg/quality/80/egx_richtig.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Are you coming to EGX London in a couple of weeks? If you are, what are you doing on the Friday and Saturday evenings? Nothing? Oh that&#x27;s wonderful because I&#x27;d like to invite you to a pub quiz!
-Well it&#x27;s not actually in a pub so I&#x27;m telling a bit of a fib - it&#x27;s at EGX in the ExCel Centre, on the live stage. All you have to do is turn up and you can use your mobile phone to join in. How fancy is that? No annoying sheets of paper to faff around with, no passing answers to the team next to you who will competitively mark you down. Just you and your friends having a nice sit down and a nice time.
-And guess who your quizmaster is going to be? Why, it&#x27;s me! Silly old me. 
- Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;15
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -36991,29 +36933,6 @@ Read more</span>
                               <span>Every weekend, indie devs show off current work on Twitter&#x27;s #screenshotsaturday tag. And every Monday, I bring you a selection of these snaps and clips. This weekend, my eye has been caught my beings growing strange and wonderful bodyparts for cool movement. Also, there&#x27;s a photo of a cat.
 Read more</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;16
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.rockpapershotgun.com/assassins-creed-mirages-18-rating-leads-to-online-speculation-that-itll-include-real-money-gambling"
-                        open
-                      >
-                        <summary class="article-expander__title">Assassin’s Creed: Mirage’s 18+ rating leads to online speculation that it’ll include real-money gambling</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.rockpapershotgun.com/assassins-creed-mirages-18-rating-leads-to-online-speculation-that-itll-include-real-money-gambling">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assets2.rockpapershotgun.com/Assassins-Creed-Mirage-40-Thieves.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Assassins-Creed-Mirage-40-Thieves.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Assassin’s Creed: Mirage&#x27;s age rating is leading to some speculation on forum ResetEra that it could feature gambling for real-world money, following the game&#x27;s reveal during the Ubisoft Forward event. An ESRB 18+ rating that lists &quot;real gambling&quot; appears to be in effect for the upcoming back-to-basics Assassin’s Creed set in 9th century Baghdad. If you missed the first look at Mirage over the weekend then you can watch the cinematic trailer below.
-
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;17
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -37370,8 +37289,8 @@ activities, please send Bitcoin donations to my address
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/hezweb/news/actions/runs/3123900164">
-        <time id="build-timestamp" datetime="2022-09-25T22:24:44.427Z">2022-09-25T22:24:44.427Z</time>
+      <a class="footer-link" href="https://github.com/hezweb/news/actions/runs/3124076972">
+        <time id="build-timestamp" datetime="2022-09-25T23:26:39.875Z">2022-09-25T23:26:39.875Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-25T22:24:44.522Z</updated>
+    <updated>2022-09-25T23:26:39.945Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sergio Talens-Oliag: Kubernetes Static Content Server]]></title>
+        <id>https://blogops.mixinet.net/posts/k8s_static_content_server/</id>
+        <link href="https://blogops.mixinet.net/posts/k8s_static_content_server/"/>
+        <updated>2022-09-25T22:12:00.000Z</updated>
+        <summary type="html"><![CDATA[This post describes how I’ve put together a simple static content server for
+kubernetes clusters using a Pod with a persistent volume and multiple
+containers: an sftp server to manage contents, a web server to publish them
+with optional access control and another one to run scripts which need access
+to the volume filesystem.
+The sftp server runs using
+MySecureShell, the web
+server is nginx and the script runner uses the
+webhook tool to publish endpoints to call
+them (the calls will come from other Pods that run backend servers or are
+executed from Jobs or CronJobs).
+Note: 
+This service has been developed for Kyso and the
+version used in our current
+architecture
+includes an additional container to index documents for
+Elasticsearch, but as it is not
+relevant for the description of the servic…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux 6.0-rc7 Released - Linux 6.0 Will Hopefully Release Next Sunday]]></title>
         <id>https://www.phoronix.com/news/Linux-6.0-rc7-Released</id>
@@ -18779,82 +18806,6 @@ The game was first revealed in November 2021 and marks Meguro's first official p
 Read more]]></summary>
         <author>
             <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Assassin’s Creed: Mirage’s 18+ rating leads to online speculation that it’ll include real-money gambling]]></title>
-        <id>https://www.rockpapershotgun.com/assassins-creed-mirages-18-rating-leads-to-online-speculation-that-itll-include-real-money-gambling</id>
-        <link href="https://www.rockpapershotgun.com/assassins-creed-mirages-18-rating-leads-to-online-speculation-that-itll-include-real-money-gambling"/>
-        <updated>2022-09-12T11:18:04.000Z</updated>
-        <summary type="html"><![CDATA[Assassin’s Creed: Mirage's age rating is leading to some speculation on forum ResetEra that it could feature gambling for real-world money, following the game's reveal during the Ubisoft Forward event. An ESRB 18+ rating that lists "real gambling" appears to be in effect for the upcoming back-to-basics Assassin’s Creed set in 9th century Baghdad. If you missed the first look at Mirage over the weekend then you can watch the cinematic trailer below.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Testa Ubisoft+ gratis i en månad - över 100 spel ingår]]></title>
-        <id>https://www.fz.se/artikel/291423</id>
-        <link href="https://www.fz.se/artikel/291423-testa-ubisoft-gratis-i-en-manad-over-100-spel-ingar"/>
-        <updated>2022-09-12T11:02:48.000Z</updated>
-        <summary type="html"><![CDATA[Däribland Assassin's Creed: Valhalla och Far Cry 6.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Defend humanity from an alien organism in puzzle game Xenospore]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/defend-humanity-from-an-alien-organism-in-puzzle-game-xenospore/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/defend-humanity-from-an-alien-organism-in-puzzle-game-xenospore/"/>
-        <updated>2022-09-12T11:00:59.000Z</updated>
-        <summary type="html"><![CDATA[A mixture of strategy and puzzling elements together, Xenospore is a currently free game about defending humanity by prevent a strange alien organism from spreading too far.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How an enormous project attempted to map the sky without computers]]></title>
-        <id>https://arstechnica.com/?p=1866485</id>
-        <link href="https://arstechnica.com/?p=1866485"/>
-        <updated>2022-09-12T11:00:50.000Z</updated>
-        <summary type="html"><![CDATA[The Carte du Ciel provided signposts for how future astronomical discoveries would be made.]]></summary>
-        <author>
-            <name>Ars Contributors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Announcing the Pub Quiz, open to all showcomers]]></title>
-        <id>https://www.eurogamer.net/announcing-the-egx-pub-quiz-open-to-all-showcomers</id>
-        <link href="https://www.eurogamer.net/announcing-the-egx-pub-quiz-open-to-all-showcomers"/>
-        <updated>2022-09-12T10:51:50.000Z</updated>
-        <summary type="html"><![CDATA[Are you coming to EGX London in a couple of weeks? If you are, what are you doing on the Friday and Saturday evenings? Nothing? Oh that's wonderful because I'd like to invite you to a pub quiz!
-Well it's not actually in a pub so I'm telling a bit of a fib - it's at EGX in the ExCel Centre, on the live stage. All you have to do is turn up and you can use your mobile phone to join in. How fancy is that? No annoying sheets of paper to faff around with, no passing answers to the team next to you who will competitively mark you down. Just you and your friends having a nice sit down and a nice time.
-And guess who your quizmaster is going to be? Why, it's me! Silly old me. 
- Read more]]></summary>
-        <author>
-            <name>Robert Purchese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Minecraft Live event returns October 15 with a fresh mob vote]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/the-minecraft-live-event-returns-october-15-with-a-fresh-mob-vote/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/the-minecraft-live-event-returns-october-15-with-a-fresh-mob-vote/"/>
-        <updated>2022-09-12T10:51:27.000Z</updated>
-        <summary type="html"><![CDATA[If you still love Minecraft and want to find out all that's coming, mark the calendars for October 15 as Minecraft Live is set to return.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mesa 22.3 Lands New "Rusticl" OpenCL 3.0 Implementation]]></title>
-        <id>https://www.phoronix.com/news/Mesa-22.3-Rusticl-Merged</id>
-        <link href="https://www.phoronix.com/news/Mesa-22.3-Rusticl-Merged"/>
-        <updated>2022-09-12T10:25:26.000Z</updated>
-        <summary type="html"><![CDATA[Karol Herbst of Red Hat has seen his new "Rusticl" implementation merged into mainline Mesa! Mesa 22.3 next quarter will introduce this new Rust-written OpenCL 3.0 implementation that will hopefully be more successful than the existing Gallium3D "Clover" OpenCL driver...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
 </feed>
