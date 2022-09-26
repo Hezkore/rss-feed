@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-26T08:34:59.923Z</updated>
+    <updated>2022-09-26T09:28:40.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A 20 Year Old Chipset Workaround Has Been Hurting Modern AMD Linux Systems]]></title>
+        <id>https://www.phoronix.com/news/Linux-AMD-Old-Chipset-WA</id>
+        <link href="https://www.phoronix.com/news/Linux-AMD-Old-Chipset-WA"/>
+        <updated>2022-09-26T09:26:37.000Z</updated>
+        <summary type="html"><![CDATA[AMD engineer K Prateek Nayak recently uncovered that a ~20 year old chipset workaround in the Linux kernel still being applied to modern AMD systems is responsible in some cases for hurting performance on modern Zen hardware. Fortunately, a fix is on the way for limiting that workaround to old systems and in turn helping with performance for modern systems...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Retroskjutaren Prodeus har nu släppts – men inte till Switch]]></title>
+        <id>https://www.fz.se/artikel/291581</id>
+        <link href="https://www.fz.se/artikel/291581-retroskjutaren-prodeus-har-nu-slappts-men-inte-till-switch"/>
+        <updated>2022-09-26T09:01:00.000Z</updated>
+        <summary type="html"><![CDATA[En försening i sista sekund för Nintendospelarna.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Potion Permit doesn't do anything in a hurry, but maybe that's the point]]></title>
+        <id>https://www.eurogamer.net/potion-permit-doesnt-do-anything-in-a-hurry-but-maybe-thats-the-point-1</id>
+        <link href="https://www.eurogamer.net/potion-permit-doesnt-do-anything-in-a-hurry-but-maybe-thats-the-point-1"/>
+        <updated>2022-09-26T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Potion Permit doesn't seem to do anything in a hurry, and that's because it's a game that expects you to be with it for a long time to come. It's a life simulation, really, dressed up as a potion making game. You're a chemist sent to a town to brew potions, but here's a house to decorate and machines to renovate, and here are townsfolk whose friendships you'll have to earn before they - and the services they offer - open up. Oh, and they have daily rhythms you'll have to adapt to and work around. Try and catch someone out of hours and they won't want to know: you'll have to wait until morning when they're officially on duty again. It all takes time.
+
+
+The game unfolds mechanically in a very similar way, introducing new ideas slowly. After a couple of hours' play, I've only seen a few of what I suspect will be many gameplay ideas overall, and most of them mini-games. But the core idea is resource-gathering and crafting. 
+
+
+When you're in the wilds, Potion Permit feels like an old-school action RPG, in that you hit enemies with a button-press and then roll around to dodge their attacks. You don't have to kill enemies - combat doesn't seem to be the point of the game - but you'll be attacked and enemies drop useful ingredients, so why not?
+ 
+Read more]]></summary>
+        <author>
+            <name>Robert Purchese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silent Hill: The Short Message has been rated in Korea]]></title>
+        <id>https://www.vg247.com/silent-hill-the-short-message-has-been-rated-in-korea</id>
+        <link href="https://www.vg247.com/silent-hill-the-short-message-has-been-rated-in-korea"/>
+        <updated>2022-09-26T08:59:59.000Z</updated>
+        <summary type="html"><![CDATA[First spotted by Gematsu, it appears that a Silent Hill title — Silent Hill: The Short Message — has been rated in Korea. This particular game has not yet been announced by Konami, nor are any platforms for the title specified.
+This rating has appeared rather unexpectedly, given that many of the most recent leaks were supposedly related to a remake of Silent Hill 2 or a playable teaser for some sort of mainline instalment. 
+The Game Rating and Administration Committee of Korea, where Gematsu found the information about the rating, has the publisher for Silent Hill: The Short Message listed as UNIANA. 
+ Read more]]></summary>
+        <author>
+            <name>Kelsey Raynor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free and open source RTS 0 A.D. Alpha 26 'Zhuangzi' is out now]]></title>
+        <id>https://www.gamingonlinux.com/2022/09/free-and-open-source-rts-0-ad-alpha-26-zhuangzi-is-out-now/</id>
+        <link href="https://www.gamingonlinux.com/2022/09/free-and-open-source-rts-0-ad-alpha-26-zhuangzi-is-out-now/"/>
+        <updated>2022-09-26T08:47:00.000Z</updated>
+        <summary type="html"><![CDATA[0 A.D., an in-development free and open source real-time strategy game has a big new release out with Alpha 26.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blizzard don't officially support Steam Deck / Linux but they still fix issues for it]]></title>
+        <id>https://www.gamingonlinux.com/2022/09/blizzard-may-not-support-steam-deck-linux-but-they-still-fix-issues-for-it/</id>
+        <link href="https://www.gamingonlinux.com/2022/09/blizzard-may-not-support-steam-deck-linux-but-they-still-fix-issues-for-it/"/>
+        <updated>2022-09-26T08:38:57.000Z</updated>
+        <summary type="html"><![CDATA[Recently, there were was an upgrade to the Battle.net client that caused it to break on Linux desktop / Steam Deck but it seems the issue is thankfully solved now.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rust is eating into our systems, and it's a good thing]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/26/rust_column/</id>
@@ -17865,46 +17936,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<h4>The code's on GitHub for admins to play with</h4> <p>Enterprises using Microsoft's service for enforcing business rules within their expansive Azure cloud environments now have a less complex option for implementing policies and ensuring compliance.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux's Modern NTFS Driver Preparing A "hidedotfiles" Option]]></title>
-        <id>https://www.phoronix.com/news/Linux-NTFS3-hidedotfiles</id>
-        <link href="https://www.phoronix.com/news/Linux-NTFS3-hidedotfiles"/>
-        <updated>2022-09-12T21:10:01.000Z</updated>
-        <summary type="html"><![CDATA[Since NTFS3 was mainlined last year in the Linux kernel as a modern NTFS read/write file-system driver developed by Paragon Software, it's mostly just been some fixes since then and other minor updates. A new NTFS3 patch series sent out today is at least preparing a new feature for this kernel driver...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta's next-gen Oculus headset kit left in a hotel room]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/12/meta_oculus_headset_hotel/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/12/meta_oculus_headset_hotel/"/>
-        <updated>2022-09-12T20:53:07.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Nothing to see here, unless it's Second Life Version 2 you're after</h4> <p><strong>Video</strong>  A video showcasing what appears to be Meta's upcoming VR headset has leaked online after the gizmo was apparently left in a hotel room.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple sends out iOS 15.7, macOS 12.6 with security updates as it releases iOS 16]]></title>
-        <id>https://arstechnica.com/?p=1880637</id>
-        <link href="https://arstechnica.com/?p=1880637"/>
-        <updated>2022-09-12T20:45:55.000Z</updated>
-        <summary type="html"><![CDATA[Apple's past and present OSes are all getting updates today.]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The 103 classic games that did, and didn’t, make the Atari 50 anniversary cut]]></title>
-        <id>https://arstechnica.com/?p=1880536</id>
-        <link href="https://arstechnica.com/?p=1880536"/>
-        <updated>2022-09-12T20:38:25.000Z</updated>
-        <summary type="html"><![CDATA[Retailer leak suggests games from arcade to Jaguar; surprises apparently still await.]]></summary>
-        <author>
-            <name>Sam Machkovech</name>
         </author>
     </entry>
 </feed>
