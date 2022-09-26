@@ -729,16 +729,6 @@
           "wordCount": 1164,
           "title": "Valve dev shows more Steam Deck prototypes",
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1147898832id21585gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/09/building-a-retro-linux-gaming-computer-part-18-run-away-and-join-the-circus/",
-          "author": "Hamish",
-          "description": "Although being sold for Windows, I found a listing for a physical copy of the free game Circus Linux! as published by Alten8. At first I figured it would just be another keep case in my collection with \"Linux\" on the cover, but with the source code included, I decided it would be trivial to also build the game for Linux.",
-          "link": "https://www.gamingonlinux.com/2022/09/building-a-retro-linux-gaming-computer-part-18-run-away-and-join-the-circus/",
-          "publishedOn": "2022-09-12T18:30:01.000Z",
-          "wordCount": 1837,
-          "title": "Building a Retro Linux Gaming Computer - Part 18: Run Away and Join the Circus",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1020879495id21225gol.jpg"
         }
       ]
     },
@@ -9209,21 +9199,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/T3eQaTCsmuwLRhUdz426qS.jpg"
-        },
-        {
-          "id": "m7D48wCZsA4LXeqXz7wxDY",
-          "author": null,
-          "description": "Robert Hallock, AMD's director of technical marketing, is departing the company.",
-          "link": "https://www.tomshardware.com/news/robert-hallock-amd-GPU-marketing-leaves",
-          "publishedOn": "2022-09-12T18:58:59.000Z",
-          "wordCount": 17807,
-          "title": "Robert Hallock to Leave AMD After 12 Years",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/jxEH8Y6vX7hSJWcEnyTzqS.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/jxEH8Y6vX7hSJWcEnyTzqS.png"
         }
       ]
     },
@@ -11215,16 +11190,6 @@
           "wordCount": 1688,
           "title": "The clock speed wars are back as Intel brags about hitting 6 GHz with 13th-gen CPUs",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/intel-core-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1880593",
-          "author": "Jonathan M. Gitlin",
-          "description": "Science needs sustainable, boring growth, but we just get flashy ill-formed initiatives.",
-          "link": "https://arstechnica.com/?p=1880593",
-          "publishedOn": "2022-09-12T18:45:03.000Z",
-          "wordCount": 1593,
-          "title": "Dear Mr. President: Seriously, please stop with these science “moonshots”",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/presidential-moonshots-760x380.jpg"
         }
       ]
     },
@@ -11233,6 +11198,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291579",
+          "author": null,
+          "description": "Utan endast som platshållare under utvecklingen.",
+          "link": "https://www.fz.se/artikel/291579-ninja-theory-forsakrar-att-de-inte-anvander-ai-istallet-for-rostskadespelare",
+          "publishedOn": "2022-09-26T06:59:00.000Z",
+          "wordCount": 2002,
+          "title": "Ninja Theory försäkrar att de inte använder AI istället för röstskådespelare",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291579"
+        },
         {
           "id": "https://www.fz.se/artikel/291578",
           "author": null,
@@ -12762,16 +12737,6 @@
           "wordCount": 1839,
           "title": "Spelare med negativt \"orb\"-saldo i Diablo Immortal kommer inte att stängas av",
           "imageUrl": "https://www.fz.se/artikel/og-image/291430"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291429",
-          "author": null,
-          "description": "Släpps i december (väl?).",
-          "link": "https://www.fz.se/artikel/291429-marvels-midnight-suns-ser-ut-att-slappas-i-ar-trots-allt",
-          "publishedOn": "2022-09-12T18:30:00.000Z",
-          "wordCount": 1765,
-          "title": "Marvel's Midnight Suns ser ut att släppas i år, trots allt",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291429"
         }
       ]
     },
@@ -12780,6 +12745,16 @@
       "feedUrl": "https://www.sweclockers.com/feeds/nyheter",
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
+        {
+          "id": "https://www.sweclockers.com/artikel/34973",
+          "author": null,
+          "description": "Den tredje revisionen av Sonys konsol visar sig inte bara ha nedbantat moderkort och kylarlösning. Även systemkretsen krymps till 6 nanometer.",
+          "link": "https://www.sweclockers.com/artikel/34973-playstation-5-far-uppdaterad-systemkrets",
+          "publishedOn": "2022-09-26T07:08:26.000Z",
+          "wordCount": 1753,
+          "title": "Playstation 5 får uppdaterad systemkrets",
+          "imageUrl": "https://www.sweclockers.com/artikel/34973/og-image"
+        },
         {
           "id": "https://www.sweclockers.com/artikel/34974",
           "author": null,
@@ -12869,6 +12844,16 @@
           "wordCount": 1618,
           "title": "Windows 11-uppdatering ger stöd för flikar i Utforskaren",
           "imageUrl": "https://www.sweclockers.com/artikel/34963/og-image"
+        },
+        {
+          "id": "https://www.sweclockers.com/artikel/34965",
+          "author": null,
+          "description": "Logitech första stora event erbjöd flera nyheter på tillbehörsfronten som är intressanta för streamers, simulatorentusiaster och mobila spelare.",
+          "link": "https://www.sweclockers.com/artikel/34965-ljud-ljus-och-simulering-i-fokus-pa-logi-play",
+          "publishedOn": "2022-09-22T17:00:21.000Z",
+          "wordCount": 2859,
+          "title": "Ljud, ljus och simulering i fokus på Logi Play",
+          "imageUrl": "https://www.sweclockers.com/artikel/34965/og-image"
         },
         {
           "id": "https://www.sweclockers.com/artikel/34965",
@@ -13697,6 +13682,36 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/26/who_me/",
+          "author": null,
+          "description": "<h4>Fake BSOD became tool of revenge when a staffer ignored the sensible rules of seniority</h4> <p><strong>Who, Me?</strong>  Welcome to the working week and therefore to a new instalment of “Who, Me?”, <i>The Register</i>'s confessional in which readers reveal and defend their darkest deeds.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/26/who_me/",
+          "publishedOn": "2022-09-26T07:32:14.000Z",
+          "wordCount": 1289,
+          "title": "PC component scavenging queue jumper pulled into line with a screensaver",
+          "imageUrl": "https://regmedia.co.uk/2021/02/02/shutterstock_bsod.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/26/in-brief-ai/",
+          "author": null,
+          "description": "<h4>Plus: ML career help, OpenAI releases free speech-recognition model, and more news</h4> <p><strong>In brief</strong>  AI probably won't replace software engineers, but will dramatically change the way they work in the future especially if they can instruct machines using natural language to generate code.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/26/in-brief-ai/",
+          "publishedOn": "2022-09-26T07:02:12.000Z",
+          "wordCount": 1960,
+          "title": "AI won't take coders' jobs. Humans still rule for now",
+          "imageUrl": "https://regmedia.co.uk/2021/04/26/shutterstock_code_signing.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/26/girls_who_code_books_barred/",
+          "author": null,
+          "description": "<h4>Culture wars may have come to gentle tales of tweens enjoying friends, fun, and programming</h4> <p>Books aimed at encouraging tween girls to code appear to have allegedly been removed from classrooms in Pennsylvania’s Central York School District.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/26/girls_who_code_books_barred/",
+          "publishedOn": "2022-09-26T06:33:10.000Z",
+          "wordCount": 1632,
+          "title": "<i>Girls Who Code</i> book series banned in some US classrooms",
+          "imageUrl": "https://regmedia.co.uk/2021/01/18/burningfoldershutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/26/darth_vader_voiced_by_ai/",
           "author": null,
@@ -15816,16 +15831,6 @@
           "wordCount": 1160,
           "title": "Meta's next-gen Oculus headset kit left in a hotel room",
           "imageUrl": "https://regmedia.co.uk/2022/09/12/meta.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/12/pytorch_meta_linux_foundation/",
-          "author": null,
-          "description": "<h4>Independent management aims to ensure openness and transparency</h4> <p>Meta is shifting the management of PyTorch, a deep learning framework developed by Meta subsidiary Facebook, to the newly formed PyTorch Foundation, which in turn will be under the oversight of The Linux Foundation.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/12/pytorch_meta_linux_foundation/",
-          "publishedOn": "2022-09-12T19:00:13.000Z",
-          "wordCount": 1200,
-          "title": "PyTorch gets lit under The Linux Foundation",
-          "imageUrl": "https://regmedia.co.uk/2020/04/09/shutterstock_smoke_torch.jpg"
         }
       ]
     }

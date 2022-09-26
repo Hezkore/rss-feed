@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-26T06:16:45.957Z</updated>
+    <updated>2022-09-26T07:39:28.024Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PC component scavenging queue jumper pulled into line with a screensaver]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/26/who_me/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/26/who_me/"/>
+        <updated>2022-09-26T07:32:14.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Fake BSOD became tool of revenge when a staffer ignored the sensible rules of seniority</h4> <p><strong>Who, Me?</strong>  Welcome to the working week and therefore to a new instalment of “Who, Me?”, <i>The Register</i>'s confessional in which readers reveal and defend their darkest deeds.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playstation 5 får uppdaterad systemkrets]]></title>
+        <id>https://www.sweclockers.com/artikel/34973</id>
+        <link href="https://www.sweclockers.com/artikel/34973-playstation-5-far-uppdaterad-systemkrets"/>
+        <updated>2022-09-26T07:08:26.000Z</updated>
+        <summary type="html"><![CDATA[Den tredje revisionen av Sonys konsol visar sig inte bara ha nedbantat moderkort och kylarlösning. Även systemkretsen krymps till 6 nanometer.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI won't take coders' jobs. Humans still rule for now]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/26/in-brief-ai/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/26/in-brief-ai/"/>
+        <updated>2022-09-26T07:02:12.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Plus: ML career help, OpenAI releases free speech-recognition model, and more news</h4> <p><strong>In brief</strong>  AI probably won't replace software engineers, but will dramatically change the way they work in the future especially if they can instruct machines using natural language to generate code.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ninja Theory försäkrar att de inte använder AI istället för röstskådespelare]]></title>
+        <id>https://www.fz.se/artikel/291579</id>
+        <link href="https://www.fz.se/artikel/291579-ninja-theory-forsakrar-att-de-inte-anvander-ai-istallet-for-rostskadespelare"/>
+        <updated>2022-09-26T06:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Utan endast som platshållare under utvecklingen.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<i>Girls Who Code</i> book series banned in some US classrooms]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/26/girls_who_code_books_barred/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/26/girls_who_code_books_barred/"/>
+        <updated>2022-09-26T06:33:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Culture wars may have come to gentle tales of tweens enjoying friends, fun, and programming</h4> <p>Books aimed at encouraging tween girls to code appear to have allegedly been removed from classrooms in Pennsylvania’s Central York School District.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Darth Vader voice actor James Earl Jones allows AI to take over the role]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/26/darth_vader_voiced_by_ai/</id>
@@ -2830,6 +2880,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Chips "going... down in price is a story of the past," CEO says.]]></summary>
         <author>
             <name>Kyle Orland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ljud, ljus och simulering i fokus på Logi Play]]></title>
+        <id>https://www.sweclockers.com/artikel/34965</id>
+        <link href="https://www.sweclockers.com/artikel/34965-ljud-ljus-och-simulering-i-fokus-pa-logi-play"/>
+        <updated>2022-09-22T17:00:21.000Z</updated>
+        <summary type="html"><![CDATA[Logitech första stora event erbjöd flera nyheter på tillbehörsfronten som är intressanta för streamers, simulatorentusiaster och mobila spelare.]]></summary>
+        <author>
+            <name>SweClockers</name>
         </author>
     </entry>
     <entry>
@@ -17797,56 +17857,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Raptor Lake boosts clocks, cache, and core counts on the same Intel 7 process.]]></summary>
         <author>
             <name>Andrew Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PyTorch gets lit under The Linux Foundation]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/12/pytorch_meta_linux_foundation/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/12/pytorch_meta_linux_foundation/"/>
-        <updated>2022-09-12T19:00:13.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Independent management aims to ensure openness and transparency</h4> <p>Meta is shifting the management of PyTorch, a deep learning framework developed by Meta subsidiary Facebook, to the newly formed PyTorch Foundation, which in turn will be under the oversight of The Linux Foundation.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robert Hallock to Leave AMD After 12 Years]]></title>
-        <id>m7D48wCZsA4LXeqXz7wxDY</id>
-        <link href="https://www.tomshardware.com/news/robert-hallock-amd-GPU-marketing-leaves"/>
-        <updated>2022-09-12T18:58:59.000Z</updated>
-        <summary type="html"><![CDATA[Robert Hallock, AMD's director of technical marketing, is departing the company.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dear Mr. President: Seriously, please stop with these science “moonshots”]]></title>
-        <id>https://arstechnica.com/?p=1880593</id>
-        <link href="https://arstechnica.com/?p=1880593"/>
-        <updated>2022-09-12T18:45:03.000Z</updated>
-        <summary type="html"><![CDATA[Science needs sustainable, boring growth, but we just get flashy ill-formed initiatives.]]></summary>
-        <author>
-            <name>Jonathan M. Gitlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Building a Retro Linux Gaming Computer - Part 18: Run Away and Join the Circus]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/building-a-retro-linux-gaming-computer-part-18-run-away-and-join-the-circus/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/building-a-retro-linux-gaming-computer-part-18-run-away-and-join-the-circus/"/>
-        <updated>2022-09-12T18:30:01.000Z</updated>
-        <summary type="html"><![CDATA[Although being sold for Windows, I found a listing for a physical copy of the free game Circus Linux! as published by Alten8. At first I figured it would just be another keep case in my collection with "Linux" on the cover, but with the source code included, I decided it would be trivial to also build the game for Linux.]]></summary>
-        <author>
-            <name>Hamish</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marvel's Midnight Suns ser ut att släppas i år, trots allt]]></title>
-        <id>https://www.fz.se/artikel/291429</id>
-        <link href="https://www.fz.se/artikel/291429-marvels-midnight-suns-ser-ut-att-slappas-i-ar-trots-allt"/>
-        <updated>2022-09-12T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Släpps i december (väl?).]]></summary>
-        <author>
-            <name>FZ.se</name>
         </author>
     </entry>
 </feed>
