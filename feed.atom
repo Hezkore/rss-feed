@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-26T02:41:38.762Z</updated>
+    <updated>2022-09-26T05:00:15.653Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rusticl Support For AMD RadeonSI Driver Being Worked On]]></title>
+        <id>https://www.phoronix.com/news/Rusticl-RadeonSI-WIP</id>
+        <link href="https://www.phoronix.com/news/Rusticl-RadeonSI-WIP"/>
+        <updated>2022-09-26T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Rusticl as the Rust-written OpenCL implementation for Mesa's Gallium3D as a newer and modern-focused CL alternative to the existing "Clover" code may soon see mainline support for working with the RadeonSI Gallium3D driver for supporting modern AMD graphics processors...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linus Torvalds predicts Linux Kernel 6.0 debut next week, dispels fear of delays]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/26/linux_6_rc7/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/26/linux_6_rc7/"/>
+        <updated>2022-09-26T03:45:14.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Hails unusually smooth development process despite travel complications</h4> <p>Linux kernel boss Linus Torvalds has offered the community an optimistic prediction that version 6.0 of the project will debut next week.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oxenfree 2 har försenats till 2023]]></title>
+        <id>https://www.fz.se/artikel/291578</id>
+        <link href="https://www.fz.se/artikel/291578-oxenfree-2-har-forsenats-till-2023"/>
+        <updated>2022-09-26T03:09:37.000Z</updated>
+        <summary type="html"><![CDATA[Det dröjer innan oxen släpps fri.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Säsong 3 av The Witcher kommer sommaren 2023]]></title>
+        <id>https://www.fz.se/artikel/291577</id>
+        <link href="https://www.fz.se/artikel/291577-sasong-3-av-the-witcher-kommer-sommaren-2023"/>
+        <updated>2022-09-26T02:55:12.000Z</updated>
+        <summary type="html"><![CDATA[Och prequel-serien Blood Origin har premiär nu i december.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[India seeks verified IDs to register email accounts]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/26/apac_tech_news_roundup/</id>
@@ -17895,382 +17935,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Valve seem to be continuing to give some love to their older titles, with Left 4 Dead 2 recently getting a nice bug-fix release.]]></summary>
         <author>
             <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mario + Rabbids Sparks of Hope demonstrerar bossfajt mot en Wiggler]]></title>
-        <id>https://www.fz.se/artikel/291428</id>
-        <link href="https://www.fz.se/artikel/291428-mario-rabbids-sparks-of-hope-demonstrerar-bossfajt-mot-en-wiggler"/>
-        <updated>2022-09-12T16:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Releasen är en dryg månad bort.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get your first look at the OnePlus 11 Pro and its round camera bump]]></title>
-        <id>https://arstechnica.com/?p=1880442</id>
-        <link href="https://arstechnica.com/?p=1880442"/>
-        <updated>2022-09-12T16:47:19.000Z</updated>
-        <summary type="html"><![CDATA[Plus: Wild rumors say the phone might launch before the end of the year.]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SAP to increase support fees in January to offset inflation costs]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/12/sap_support_fees_to_rise/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/12/sap_support_fees_to_rise/"/>
-        <updated>2022-09-12T16:45:13.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Maintenance and software installation prices heading north for range of agreements</h4> <p>SAP is upping the price of support fees for a raft of agreements to offset the rising cost of doing business, it confirmed to <em>The Register</em>.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prison Architect getting big free quality of life update on Xbox and PC today]]></title>
-        <id>https://www.eurogamer.net/prison-architect-getting-big-free-quality-of-life-update-on-xbox-and-pc-today</id>
-        <link href="https://www.eurogamer.net/prison-architect-getting-big-free-quality-of-life-update-on-xbox-and-pc-today"/>
-        <updated>2022-09-12T16:43:35.000Z</updated>
-        <summary type="html"><![CDATA[Paradox has revealed a big free quality of life update for prison management sim Prison Architect - aptly known as the Free for Life update - which launches today on Xbox and PC.
-
-
-Free for Life is, according to Paradox, focussed on implementing the Prison Architect community's most requested features so "players can spend more time managing their compound rather than navigating menus".
-
-
-To that end, it brings a range of enhancements, including an improved scheduler and prison log - the latter enabling players to more easily check inmates' activities, as well as "uncover misconducts ahead of time and keep track of who gets released, reformed, or reoffended".
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Micron Breaks Ground On $15 Billion Idaho Memory Chip Fab]]></title>
-        <id>XjJgvi4xhLsN95RBnsuKK7</id>
-        <link href="https://www.tomshardware.com/news/micron-idaho-memory-fab-ground-breaking"/>
-        <updated>2022-09-12T16:41:01.000Z</updated>
-        <summary type="html"><![CDATA[Micron plans to employ up to 2,000 workers at the site by the end of the decade.]]></summary>
-        <author>
-            <name>brandon.hill@futurenet.com (Brandon Hill)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flooded with AI-generated images, some art communities ban them completely]]></title>
-        <id>https://arstechnica.com/?p=1880346</id>
-        <link href="https://arstechnica.com/?p=1880346"/>
-        <updated>2022-09-12T16:36:10.000Z</updated>
-        <summary type="html"><![CDATA[Smaller art communities are banning image synthesis amid a wider art ethics debate.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubisoft moves forwards, bets big on Assassin's Creed]]></title>
-        <id>https://www.eurogamer.net/eurogamer-newscast-ubisoft-forward-assassins-creed-infinity-mirage-project-red-hexe</id>
-        <link href="https://www.eurogamer.net/eurogamer-newscast-ubisoft-forward-assassins-creed-infinity-mirage-project-red-hexe"/>
-        <updated>2022-09-12T16:35:30.000Z</updated>
-        <summary type="html"><![CDATA[Ubisoft has announced an array of new Assassin's Creed games, and Eurogamer has exclusive details on how Ubisoft's flagship franchise will be shaken up by the arrival of its ambitious new Infinity platform, which will redefine the scope and ongoing story of future releases.
-
-Outside of the Animus, this past weekend was also a major moment for Ubisoft itself, as it emerged from a period of relative silence following a bruising few years of scandal, takeover rumours, and further discontent surrounding its NFT plans. If you missed it, I spoke with Ubisoft boss Yves Guillmot about all of that.
-Ubisoft Forward seemed aptly named, with a look over the horizon to a brighter future for the company. But questions remain - as Tom Phillips, Ed Nightingale, Victoria Kennedy and Liv Ngan discuss.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forspoken looks like a faster, zippier FF15 in fiery new gameplay footage]]></title>
-        <id>https://www.rockpapershotgun.com/forspoken-looks-like-a-faster-zippier-ff15-in-fiery-new-gameplay-footage</id>
-        <link href="https://www.rockpapershotgun.com/forspoken-looks-like-a-faster-zippier-ff15-in-fiery-new-gameplay-footage"/>
-        <updated>2022-09-12T16:14:59.000Z</updated>
-        <summary type="html"><![CDATA[Fantasy action RPG Forspoken has been delayed more times than most games, although it’s finally pencilled in for a January release date. We’re still quite a way off from then, but Sony have released a smattering more gameplay footage today, detailing the moves you'll be pulling as heroine Frey "I'm seeing freaking dragons" Holland. Alas, said footage has been crushed down to only a handful of GIFs over on the PlayStation Blog, but our friends at Eurogamer have a bigger, chunkier hands on preview that tells us more about why it won't be mega cringe. Alas, we weren't privy to this Forspoken demo, so have a watch with us below.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security pros get ability to manually add incidents to Microsoft Sentinel]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/12/microsoft_sentinel_manual_siem_reports/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/12/microsoft_sentinel_manual_siem_reports/"/>
-        <updated>2022-09-12T16:01:10.000Z</updated>
-        <summary type="html"><![CDATA[<h4>*Tappity tappity* Yes the NSA's on the phone. Well maybe the automated log check didn't pick it up yet, Chad!</h4> <p>In an IT world that is increasingly automated, there are still occasions when manual operations are necessary. According to Microsoft, one of these times is when security events are reported to enterprise security operation centers (SOCs).…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[American Arcadia is a genre-flipping cinematic feast from the Call Of The Sea devs]]></title>
-        <id>https://www.rockpapershotgun.com/american-arcadia-is-a-genre-flipping-cinematic-feast-from-the-call-of-the-sea-devs</id>
-        <link href="https://www.rockpapershotgun.com/american-arcadia-is-a-genre-flipping-cinematic-feast-from-the-call-of-the-sea-devs"/>
-        <updated>2022-09-12T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I did a lot of talking at Gamescom, whether that be to developers or muttering to myself deliriously as I typed stuff up in the evening. Talking to devs especially is a wonderful thing, especially when you're playing their game and it resonates with you. But getting hands-on with an early portion of American Arcadia rendered me virtually silent, to the point where I had to apologise to the devs for being so quiet.
-And I wasn't being rude; far from it! I was just so engrossed in the game's mixture of side-scrolling platforming and first-person puzzling. Keep this under surveillance, because I think it's going to be a real hit when it lands.
-Read more]]></summary>
-        <author>
-            <name>Ed Thorn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubisoft promises Assassin's Creed Mirage won't have "real gambling" in the game]]></title>
-        <id>https://www.vg247.com/assassins-creed-mirage-no-gambling-ubisoft-confirms</id>
-        <link href="https://www.vg247.com/assassins-creed-mirage-no-gambling-ubisoft-confirms"/>
-        <updated>2022-09-12T15:59:38.000Z</updated>
-        <summary type="html"><![CDATA[Following the reveal of Assassin's Creed Mirage over the weekend, fans noticed that the game's rating suggests there will be real gambling, but Ubisoft has put out a statement assuring everyone it won't.
-
-
-At the time of writing, the official Xbox page for Assassin's Creed Mirage states that the game will be Adults Only 18+, and will include real gambling, which obviously raised some concerned eyebrows. In a statement to Eurogamer, Ubisoft has cleared the air on the situation, and promised there will be "no real gambling or lootboxes," present in the game. 
-
-
-"Following the announcement of Assassin's Creed Mirage during Ubisoft Forward, some store pages mistakenly displayed the game for preorders with an Adults Only ESRB rating," a Ubisoft spokesperson told Eurogamer. "While Assassin's Creed Mirage is still pending rating, Ubisoft wants to reassure players that no real gambling or lootboxes are present in the game."
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U.S. Lawmakers Concerned About Apple's Decision to Use YMTC's 3D NAND]]></title>
-        <id>VRDXpdcMBCEa2g9DTpGZHK</id>
-        <link href="https://www.tomshardware.com/news/us-lawmakers-concerned-with-apple-decision-to-use-ymtc-3d-nand"/>
-        <updated>2022-09-12T15:42:46.000Z</updated>
-        <summary type="html"><![CDATA[Apple confirms it's evaluating YMTC's 3D NAND memory for iPhones set to be sold to China.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix's The Witcher season three has wrapped filming]]></title>
-        <id>https://www.eurogamer.net/netflixs-the-witcher-season-three-has-wrapped-filming</id>
-        <link href="https://www.eurogamer.net/netflixs-the-witcher-season-three-has-wrapped-filming"/>
-        <updated>2022-09-12T15:41:40.000Z</updated>
-        <summary type="html"><![CDATA[The third season of Netflix's The Witcher show has now wrapped filming.
-
-
-Geralt himself, Henry Cavill, shared a special message with the cast and crew on the last day.
-
-
-"What a season this has been! I just wanted to thank you all for your determination and dedication through a tough shoot," he said.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[After Blue Origin’s rocket explodes, its spacecraft makes a dramatic escape]]></title>
-        <id>https://arstechnica.com/?p=1880383</id>
-        <link href="https://arstechnica.com/?p=1880383"/>
-        <updated>2022-09-12T15:39:52.000Z</updated>
-        <summary type="html"><![CDATA[There were no passengers on board this flight carrying scientific instruments.]]></summary>
-        <author>
-            <name>Eric Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Videotur av Xbox nya dashboard]]></title>
-        <id>https://www.fz.se/artikel/291427</id>
-        <link href="https://www.fz.se/artikel/291427-videotur-av-xbox-nya-dashboard"/>
-        <updated>2022-09-12T15:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Åtminstone en tidig version av det.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WW1 Verdun and Tannenberg devs have been bought by Focus Entertainment]]></title>
-        <id>https://www.rockpapershotgun.com/ww1-verdun-and-tannenberg-devs-have-been-bought-by-focus-entertainment</id>
-        <link href="https://www.rockpapershotgun.com/ww1-verdun-and-tannenberg-devs-have-been-bought-by-focus-entertainment"/>
-        <updated>2022-09-12T15:22:51.000Z</updated>
-        <summary type="html"><![CDATA[Focus Entertainment have paid an undisclosed amount to acquire historical shooter devs WW1 Game Series, known for Verdun, Tannenberg and the upcoming Isonzo, from M2H. Set on the Italian Front, Isonzo actually happens to be out tomorrow too. Have a peek at the game, replete with many moustaches, in the trailer below.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marvel World of Heroes is Niantic's next attempt at an AR hit]]></title>
-        <id>https://www.vg247.com/marvel-world-of-heroes-niantic-announcement</id>
-        <link href="https://www.vg247.com/marvel-world-of-heroes-niantic-announcement"/>
-        <updated>2022-09-12T15:19:47.000Z</updated>
-        <summary type="html"><![CDATA[Pokémon Go developer Niantic has announced its next game, Marvel World of Heroes, another mobile AR game planned to release in 2023.
-
-
-There were a number of announcements at D23 this past weekend, which included a tease for Niantic's next game, another AR game, this time bringing the Marvel Universe into the player's hands. "In Marvel World of Heroes, players can create their own unique Super Hero identity and origin story," reads the trailer's description. Players will need to patrol their neighbourhoods to foil crimes, complete Super Hero missions, and thwart interdimensional threats."
-
-
-The description also notes that as players level up, they can unlock equipment and abilities, and will be able to team up with heroes like Spider-Man, Wolverine, and Captain America, where they'll face off against various villains in order to save the multiverse.
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Software fees to make up 10% of John Deere's revenues by 2030]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/12/deere_software_revenues/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/12/deere_software_revenues/"/>
-        <updated>2022-09-12T15:17:06.000Z</updated>
-        <summary type="html"><![CDATA[<h4>1.5 million machines and half a billion acres of land connected to the John Deere Operations Center within a matter of years</h4> <p>US farm machinery giant John Deere has estimated software fees will make up 10 percent of the company's revenues by the end of the decade.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix partners with Ubisoft to bolster fledgling gaming division]]></title>
-        <id>https://arstechnica.com/?p=1880419</id>
-        <link href="https://arstechnica.com/?p=1880419"/>
-        <updated>2022-09-12T15:14:25.000Z</updated>
-        <summary type="html"><![CDATA[Streaming giant will launch three new mobile games next year based on Ubisoft hits.]]></summary>
-        <author>
-            <name>Financial Times</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gloomwood's grimy stealth playground deserves better than the agony of early access]]></title>
-        <id>https://www.rockpapershotgun.com/gloomwoods-grimy-stealth-playground-deserves-better-than-the-agony-of-early-access</id>
-        <link href="https://www.rockpapershotgun.com/gloomwoods-grimy-stealth-playground-deserves-better-than-the-agony-of-early-access"/>
-        <updated>2022-09-12T15:10:51.000Z</updated>
-        <summary type="html"><![CDATA[Gloomwood is, so far, a very good game, but it is also not much of a game - in the literal sense that it has launched into early access incomplete. There's currently just enough of it to play that it makes you feel both bereft and quite annoyed when it suddenly clangs its great iron doors shut in front of you. "Let me in!!" you scream, as you hammer on the silent portal. "I really like Thief! I get you! I want to throw more decapitated heads as lures!"
-If you are one of those people who bases their gaming personality on liking the original Thief series, Gloomwood will have been on your radar for a while. It's a grimy, steampunk-ish stealth immersive sim with a deliberate low-poly vibe, and it picks up the abandoned Thief football to absolutely run with it. But, though the current EA build is but short, it feels like Gloomwood is aiming to punt that ball into outer space. There's so much more room to be playful and experiment than I expected, and it's so much fun that if you'd never played a stealth sim in your life I'd recommend Gloomwood. Except I wouldn't, because it feels like I'd be doing you a disservice to recommend it now, when the fun will be so quickly snatched away.
-Read more]]></summary>
-        <author>
-            <name>Alice Bell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Curvy Nvidia RTX 4090 Purportedly Poses for Pics]]></title>
-        <id>hBP4sQ5t2tuuMeJtLGHAbi</id>
-        <link href="https://www.tomshardware.com/news/zotac-rtx-4090-amp-card-box-images"/>
-        <updated>2022-09-12T15:08:36.000Z</updated>
-        <summary type="html"><![CDATA[Alleged images of the Zotac RTX 4090 Amp Extreme Airo cards show a nicely crafted and very hefty looking product. Packaging reveals some of the model’s key features, but specifications are illegible.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubisoft clears up confusion over listing which claimed Assassin's Creed Mirage had "real gambling"]]></title>
-        <id>https://www.eurogamer.net/ubisoft-clears-up-confusion-over-listing-which-claimed-assassins-creed-mirage-had-real-gambling</id>
-        <link href="https://www.eurogamer.net/ubisoft-clears-up-confusion-over-listing-which-claimed-assassins-creed-mirage-had-real-gambling"/>
-        <updated>2022-09-12T15:04:56.000Z</updated>
-        <summary type="html"><![CDATA[Ubisoft has reassured fans concerned over listings for Assassin's Creed Mirage which stated it would include "Real Gambling", as part of "Adults Only" and "18+" ratings for the title. 
-
-
-At the time of writing, a US Xbox store listing still warns that Mirage contains "Intense Violence, Blood and Gore, Sexual Themes, Partial Nudity, Real Gambling", and lists it as having received the rare Adults Only 18+ label from the ESRB, the US' ratings board.
-
-
-A UK listing similarly mentions "Real Gambling", alongside "Extreme Violence", and lists it with a PEGI 18+ rating.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fall Guys season two goes out of this world on 15th September]]></title>
-        <id>https://www.eurogamer.net/fall-guys-season-two-goes-out-of-this-world-on-15th-september</id>
-        <link href="https://www.eurogamer.net/fall-guys-season-two-goes-out-of-this-world-on-15th-september"/>
-        <updated>2022-09-12T15:03:16.000Z</updated>
-        <summary type="html"><![CDATA[Fall Guys developer Mediatonic has revealed details and the launch date for its space-themed season two.
-
-Season one was called Free For All, and was (obviously) related to the free-to-play soft relaunch Fall Guys had back in June.
-
-Season two is titled Satellite Scramble, and is all about (you guessed it) space!
- 
-Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 22.10 Bringing Some Performance Uplift For Intel Xeon Scalable]]></title>
-        <id>https://www.phoronix.com/review/ubuntu2210-early-icelake</id>
-        <link href="https://www.phoronix.com/review/ubuntu2210-early-icelake"/>
-        <updated>2022-09-12T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Now that Ubuntu 22.10 is into its feature freeze and its Linux 5.19 based kernel landed as well as moving to the GCC 12.2 compiler, I've begun testing this forthcoming Ubuntu Linux (non-LTS) release on more systems. For the current-flagship Intel Xeon Platinum 8380 "Ice Lake" processors, Ubuntu 22.10 does deliver some performance advantages over the current Ubuntu 22.04.1 LTS release. However, Ubuntu 22.10 still trails in a distance behind Intel's own Clear Linux platform for the most aggressive out-of-the-box performance.]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warlander is third-person Chivalry with apocalyptic meteor showers]]></title>
-        <id>https://www.rockpapershotgun.com/warlander-is-third-person-chivalry-with-apocalyptic-meteor-showers</id>
-        <link href="https://www.rockpapershotgun.com/warlander-is-third-person-chivalry-with-apocalyptic-meteor-showers"/>
-        <updated>2022-09-12T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[It's a very odd feeling, building a catapult all on your lonesome while watching fiery death rain down on your enemy's castle in the valley below. I suspect it's probably a similar experience to watching the carnage of Chivalry II play out from the safety of a nearby bench. The newly announced Warlander from Nier Replicant devs Toylogic certainly has the medieval setting in common with Torn Banner Studio's first-person hack and slash, but this free-to-play multiplayer warfare game is an altogether different beast. You control your warriors in third-person, for starters, and its more cartoonish visuals allow for, well, daft cataclysmic events like a flaming meteor shower to hone in on a player's position without appearing completely over the top. As it prepares to enter its first open beta later today, September 12th, I went hands on with a brief demo build to see what it was all about. 
-Read more]]></summary>
-        <author>
-            <name>Katharine Castle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perfect Dark’s reboot needs to remember one key thing – it’s far more than a spy game]]></title>
-        <id>https://www.vg247.com/perfect-darks-reboot-spy-game</id>
-        <link href="https://www.vg247.com/perfect-darks-reboot-spy-game"/>
-        <updated>2022-09-12T14:59:55.000Z</updated>
-        <summary type="html"><![CDATA[Coming off the back of a Gamescom where Xbox mostly focused on well-known titles that’ll be out pretty soon, it looked like we’d be waiting quite a while for a further update on some of Xbox’s bigger and more mystery-shrouded upcoming games. Every now and then we get a little surprise, however – and such was the case with Perfect Dark, where Xbox’s Matt Booty briefly deigned to talk about the hotly-anticipated reboot during a PAX West panel.
-
-Booty, who is the head of the now-sprawling Xbox Game Studios portfolio of development houses and games, talked about how any reboot of the Perfect Dark franchise would have to be handled “very carefully”, noting that properties such as this “don’t always age well.” And, you know, Booty is right. But the next thing he said is curious – and for my money, it’s wrong. 
-
-“What I think is super cool about Perfect Dark, what’s super cool about Joanna Dark, is the super agent fantasy, the spy, the sort of Bourne Identity, James Bond kind of thing there,” Booty explained.
- 
-Read more]]></summary>
-        <author>
-            <name>Alex Donaldson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DF Direct Weekly: what should we expect from the new PS5 CFI-1200 revision?]]></title>
-        <id>https://www.eurogamer.net/digitalfoundry-2022-df-direct-weekly-on-the-new-ps5-and-halo-infinite-split-screen-co-op</id>
-        <link href="https://www.eurogamer.net/digitalfoundry-2022-df-direct-weekly-on-the-new-ps5-and-halo-infinite-split-screen-co-op"/>
-        <updated>2022-09-12T14:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Having skipped a week with our usual, scheduled DF Direct show in favour of The Last of Us and Intel Arc specials, we have plenty of news and discussion to catch up with, starting with the news that a brand new PlayStation 5 revision is en route to our shores now, having already made its debut in Australia. Tech journalist Austin Evans has already imported a unit, dismantled it and got to the bottom of what makes it different - and lighter - than the existing units.
-We're looking to go hands-on with the unit as soon as it arrives in the UK, but what Evans has discovered is intriguing - a completely redesigned, much smaller, mainboard along with another smaller revision of the heat sink along with other internal changes within the existing PlayStation 5 casing. Annoying from a future-proofing perspective is that the CMOS battery on the board now resides under the cooling assembly, so when this does inevitably run out of juice years down the road, replacing it will be a far from an easy job.
-From my perspective, it is the power consumption numbers that are most interesting. Evans talks about a reduced power draw compared to the prior units he's tested, but the nature of the observation is inconclusive in that his CFI-1100 power draw number was actually higher than his figure taken from the launch unit, while this one is correspondingly lower. Fundamentally, the silicon did not change between CFI-1000 and CFI-1100, so is this reduced power draw actually down to a chip revision? Or is it simply down to variances in the quality of the silicon - which can change on a per chip basis? Or maybe Sony has moved onto lower power memory modules? Regardless, a power consumption figure in or around 200W is still in the broad ballpark of the launch machine.
- Read more]]></summary>
-        <author>
-            <name>Richard Leadbetter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sunday Gold review: tactical point and click puzzling that fails to mesh]]></title>
-        <id>https://www.rockpapershotgun.com/sunday-gold-review</id>
-        <link href="https://www.rockpapershotgun.com/sunday-gold-review"/>
-        <updated>2022-09-12T14:51:01.000Z</updated>
-        <summary type="html"><![CDATA["Oh, come on!" is a phrase you hear a lot in Sunday Gold. It's often uttered by your knuckle-dusting healer Sally, and is invariably followed up by, "You havin' a laugh, mate?" and "Facking hell!" - partly because Sally is from Laaaandan and is thus obligated to speak lik' tha', innit (because how else would you know this is a game set in Laaaandan), but also because the thugs, security guards and cybernetic dogs she's often fighting in this seedy tale of corporate dystopia are some of the most frustrating enemies known to video games. The type who are seemingly resistant to every single weapon type in your arsenal, or who invariably have big, scripted healing sequences just when you're about to nail 'em. 
-It's a phrase I often found myself echoing while playing Sunday Gold for review, too, both during its tedious, war of attrition-style turn-based battles, and while trying to figure out some of its more obtuse puzzles. BKOM Studios have tried to fuse one too many things together in Sunday Gold, and the result is a messy, somewhat artificial blend of Deathloop's style, Invisible Inc's tension and a more action-led focus on the cerebral role-playing of Disco Elysium. There's still much to admire in its stylish visuals and atmospheric music, but I also haven't been this cross playing a video game since Felix The Reaper, and that's saying something. 
-Read more]]></summary>
-        <author>
-            <name>Katharine Castle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel's Raja Koduri Shrugs Off Rumors of Arc Demise]]></title>
-        <id>U3sfzAj2fJbqhwwyFT6L49</id>
-        <link href="https://www.tomshardware.com/news/intel-raja-shrugs-off-rumors-of-arc-demise"/>
-        <updated>2022-09-12T14:47:58.000Z</updated>
-        <summary type="html"><![CDATA[Raja Koduri shrugs his shoulders about claims that Intel is winding down development of its discrete Arc graphics cards this weekend. He admits difficulties with ‘first gen’ but remains puzzled by the rumors.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubisoft start adding indie games to their Ubisoft+ subscription service]]></title>
-        <id>https://www.rockpapershotgun.com/ubisoft-start-adding-indie-games-to-their-ubisoft-subscription-service</id>
-        <link href="https://www.rockpapershotgun.com/ubisoft-start-adding-indie-games-to-their-ubisoft-subscription-service"/>
-        <updated>2022-09-12T14:43:15.000Z</updated>
-        <summary type="html"><![CDATA[Ubisoft’s subscription service doesn’t have the user-base of something like Microsoft’s Game Pass. Now, it seems, the French publishers are hoping that plonking in some indie games among its multitudes of Assassin’s Creeds and Tom Clancy shooters will attract a more varied clientele. They’re also running a free trial period for Ubisoft+ until October 10th, including for lapsed subscribers, so that’s something.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
         </author>
     </entry>
 </feed>
