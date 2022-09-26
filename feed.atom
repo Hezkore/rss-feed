@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-26T22:27:08.693Z</updated>
+    <updated>2022-09-26T23:31:30.013Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LinkedIn study suggests it's not your best pals who will help get you that next job]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/26/linkedin_user_research_nyt/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/26/linkedin_user_research_nyt/"/>
+        <updated>2022-09-26T23:15:00.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Yeah, and about how it got that data on 20 million people for that research...</h4> <p>A study of 20 million LinkedIn users over five years has raised a few eyebrows as it involved quietly analyzing people's connection suggestions to see how that would reflect in their career paths.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.0 Merges The AMD Performance Fix For The Old "Dummy Wait" Workaround]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.0-AMD-Chipset-WA</id>
+        <link href="https://www.phoronix.com/news/Linux-6.0-AMD-Chipset-WA"/>
+        <updated>2022-09-26T22:48:14.000Z</updated>
+        <summary type="html"><![CDATA[This morning I called attention to some pending work around a 20 year old chipset workaround in the Linux kernel had been hurting modern AMD systems by erroneously still applying the change to modern hardware. Fortunately, that patch has now been picked up by Linus Torvalds in time for the Linux 6.0 kernel expected for its stable debut next weekend...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Experts debate the ethics of LinkedIn’s algorithm experiments on 20M users]]></title>
+        <id>https://arstechnica.com/?p=1884675</id>
+        <link href="https://arstechnica.com/?p=1884675"/>
+        <updated>2022-09-26T22:06:53.000Z</updated>
+        <summary type="html"><![CDATA[LinkedIn relied on its user agreement to gain consent to research millions of users.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20-year-old Linux workaround is still slowing down AMD systems]]></title>
         <id>https://arstechnica.com/?p=1884570</id>
@@ -18432,90 +18462,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Nvidia's H100 compared to Biren's BR104, Intel's Sapphire Rapids, Qualcomm's AI 100, and Sapeon's X220.]]></summary>
         <author>
             <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demand for software experts pushes tech salaries higher in UK]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/13/uk_research_demand_for_software_developers/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/13/uk_research_demand_for_software_developers/"/>
-        <updated>2022-09-13T11:04:18.000Z</updated>
-        <summary type="html"><![CDATA[<h4>One in six ditching job offer from employers low-balling on pay</h4> <p>Despite a flatlining UK economy, and recessionary clouds gathering, in the tech sector the competition for skilled staff remains intense, even as software job openings reportedly dip in the US.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Halo boss Bonnie Ross is leaving 343 Industries]]></title>
-        <id>https://www.rockpapershotgun.com/halo-boss-bonnie-ross-is-leaving-343-industries</id>
-        <link href="https://www.rockpapershotgun.com/halo-boss-bonnie-ross-is-leaving-343-industries"/>
-        <updated>2022-09-13T11:01:29.000Z</updated>
-        <summary type="html"><![CDATA[343 Industries founder and studio head Bonnie Ross has announced that she’s leaving the Halo: Infinite studio. Ross said her departure was due to a “family medical issue” in a statement shared on her Twitter account. She’d been at the company since it was established in 2007.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steelrising keeps the vital, generous spirit of the great Double-A games alive]]></title>
-        <id>https://www.eurogamer.net/steelrising-keeps-the-vital-generous-spirit-of-the-great-double-a-games-alive</id>
-        <link href="https://www.eurogamer.net/steelrising-keeps-the-vital-generous-spirit-of-the-great-double-a-games-alive"/>
-        <updated>2022-09-13T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Around these parts there is no higher praise than "double-A". It may sometimes be a reflection on the budget, but never on the skill and craft and imagination of the developers. A great double-A game is often a quirky affair built around immediate pleasures and often delivered with a twist. 
-
-
-One of the things I've only realised recently is how double-As like to find a groove to settle in en-masse. For a while this was "third-person shooter with a gimmick", so you got Fracture and its terrain deformation, or Red Faction with all those walls coming down. Then we had open-worlds, whether you were a Saint or in a UFO, and endless cover shooters, with stuff like - well, there were a lot of cover shooters indeed.
-
-
-I am pretty sure that in a previous era Steelrising would have been a cover shooter. That sounds mean and I absolutely don't intend it that way. What I mean is it's a Soulslike today in part at least because Soulslikes are the perfect contemporary style for double-A development. You get a framework that is recognisable and satisfying on which to build out your specific double-A charms. I hadn't noticed until I suddenly looked around how many double-As are opting for the souls approach.
- 
-Read more]]></summary>
-        <author>
-            <name>Christian Donlan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A fix for Splatoon 3 connection issues is on its way]]></title>
-        <id>https://www.eurogamer.net/a-fix-for-splatoon-3-connection-issues-is-on-its-way</id>
-        <link href="https://www.eurogamer.net/a-fix-for-splatoon-3-connection-issues-is-on-its-way"/>
-        <updated>2022-09-13T10:55:05.000Z</updated>
-        <summary type="html"><![CDATA[Nintendo is working on a patch to addresss Splatoon 3's connection issues.
-Splatoon 3 is being enjoyed worldwide, topping the UK boxed charts and smashing the record for the best Switch game launch in Japan.
-
-Unfortunately, some fans have been unable to join ink with the fun thanks to a number of connection issues.
- 
-Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Steam phishing scam is baiting players with tournament play]]></title>
-        <id>https://www.eurogamer.net/a-steam-phishing-scam-is-baiting-players-with-tournament-play</id>
-        <link href="https://www.eurogamer.net/a-steam-phishing-scam-is-baiting-players-with-tournament-play"/>
-        <updated>2022-09-13T10:35:13.000Z</updated>
-        <summary type="html"><![CDATA[Steam users beware: there's a new browser-in-the-browser phishing scam technique that's baiting players with the promise of tournament play.
-
-
-Group-IB has published a new report on the topic, illustrating how a new campaign is targeting professional gamers (spotted by PCGamer).
-
-
-The campaign imitates browser pages within Steam with fake direct messages inviting players to join tournaments. 
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VR-prototypen Meta Quest Pro läckt - glömdes på hotell]]></title>
-        <id>https://www.fz.se/artikel/291435</id>
-        <link href="https://www.fz.se/artikel/291435-vr-prototypen-meta-quest-pro-lackt-glomdes-pa-hotell"/>
-        <updated>2022-09-13T10:31:00.000Z</updated>
-        <summary type="html"><![CDATA[Avtäcks troligen officiellt i oktober.]]></summary>
-        <author>
-            <name>FZ.se</name>
         </author>
     </entry>
 </feed>
