@@ -2,10 +2,78 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-26T07:39:28.024Z</updated>
+    <updated>2022-09-26T08:34:59.923Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Rust is eating into our systems, and it's a good thing]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/26/rust_column/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/26/rust_column/"/>
+        <updated>2022-09-26T08:30:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Language wars, huh, what are they good for?</h4> <p><strong>Opinion</strong>  Rust is eating into our systems. The first Rusted drivers are being welded into Linux, while Microsoft's Azure CTO Mark Russinovich said C/C++ – until now, the systems languages of choice – should be dropped in favor of Rust henceforth. …</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ear Stick blir nästa ljudprodukt från Nothing]]></title>
+        <id>https://www.sweclockers.com/artikel/34976</id>
+        <link href="https://www.sweclockers.com/artikel/34976-ear-stick-blir-nasta-ljudprodukt-fran-nothing"/>
+        <updated>2022-09-26T08:29:58.000Z</updated>
+        <summary type="html"><![CDATA[Nytt fodral och hög ergonomi utlovas när Nothing ger oss en smygtitt på kommande hörlurspinnarna Ear Stick.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here's our first look at Netflix's Onimusha anime]]></title>
+        <id>https://www.eurogamer.net/heres-our-first-look-at-netflixs-onimusha-anime</id>
+        <link href="https://www.eurogamer.net/heres-our-first-look-at-netflixs-onimusha-anime"/>
+        <updated>2022-09-26T08:21:29.000Z</updated>
+        <summary type="html"><![CDATA[There's an Onimusha anime in the works for Netflix, Capcom has announced.
+
+
+This adaptation of Capcom's dormant samurai action series is produced by Sublimation Inc., the same company that handled the Dragon's Dogma series that was streamed on Netflix in 2020, and is directed by Takashi Miike (Audition, Ichi the Killer, 13 Assassins).
+
+
+Details are scarce, but Capcom said the anime has "3DCG" animated characters with hand-drawn backgrounds. Toshihiro Mifune plays protagonist Miyamoto Musashi.
+ 
+Read more]]></summary>
+        <author>
+            <name>Wesley Yin-Poole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wine 7.18 rolls out with Unicode 15 support]]></title>
+        <id>https://www.gamingonlinux.com/2022/09/wine-718-rolls-out-with-unicode-15-support/</id>
+        <link href="https://www.gamingonlinux.com/2022/09/wine-718-rolls-out-with-unicode-15-support/"/>
+        <updated>2022-09-26T08:21:26.000Z</updated>
+        <summary type="html"><![CDATA[Wine, the translation layer that allows you to run applications and games designed for Windows on Linux has a new development release up with Wine 7.18.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reminder: Update your PC info for the next round of statistics updates]]></title>
+        <id>https://www.gamingonlinux.com/2022/09/update-pc-info-202209/</id>
+        <link href="https://www.gamingonlinux.com/2022/09/update-pc-info-202209/"/>
+        <updated>2022-09-26T08:11:23.000Z</updated>
+        <summary type="html"><![CDATA[This is the public once a month reminder to make sure your PC information is correct on your user profiles. A fresh batch of statistics is generated on the 1st of each month. Also a good reminder of our stats system for people who don't know about it.]]></summary>
+        <author>
+            <name>gamingonlinux</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ytterligare en trailer för den animerade serien Sonic Prime]]></title>
+        <id>https://www.fz.se/artikel/291580</id>
+        <link href="https://www.fz.se/artikel/291580-ytterligare-en-trailer-for-den-animerade-serien-sonic-prime"/>
+        <updated>2022-09-26T07:57:00.000Z</updated>
+        <summary type="html"><![CDATA[24 fartfyllda avsnitt är på väg till Netflix.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PC component scavenging queue jumper pulled into line with a screensaver]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/26/who_me/</id>
@@ -17837,26 +17905,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Retailer leak suggests games from arcade to Jaguar; surprises apparently still await.]]></summary>
         <author>
             <name>Sam Machkovech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 22.10 Adds Debuginfod Integration]]></title>
-        <id>https://www.phoronix.com/news/Ubuntu-22.10-Debuginfod</id>
-        <link href="https://www.phoronix.com/news/Ubuntu-22.10-Debuginfod"/>
-        <updated>2022-09-12T20:34:18.000Z</updated>
-        <summary type="html"><![CDATA[One of many changes to find with next month's Ubuntu 22.10 release is Debuginfod integration...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The clock speed wars are back as Intel brags about hitting 6 GHz with 13th-gen CPUs]]></title>
-        <id>https://arstechnica.com/?p=1880588</id>
-        <link href="https://arstechnica.com/?p=1880588"/>
-        <updated>2022-09-12T20:01:12.000Z</updated>
-        <summary type="html"><![CDATA[Raptor Lake boosts clocks, cache, and core counts on the same Intel 7 process.]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
         </author>
     </entry>
 </feed>
