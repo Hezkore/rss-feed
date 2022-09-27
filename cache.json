@@ -80,16 +80,6 @@
           "wordCount": 8166,
           "title": "CrossOver Review: The ‘Premium Wine’ to Run Windows Software on Linux",
           "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/09/crossover-review.png"
-        },
-        {
-          "id": "http://itsfoss.com/?p=88095",
-          "author": "Abhishek Prakash",
-          "description": "Want to try the features of Fedora 37 like GNOME 43 right now? You can upgrade to Fedora 37 beta. Here's how.",
-          "link": "https://itsfoss.com/upgrade-to-fedora-beta/",
-          "publishedOn": "2022-09-14T06:46:00.000Z",
-          "wordCount": 7616,
-          "title": "How to Upgrade to Fedora 37 Beta Right Now",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/09/upgrade-fedora-beta.png"
         }
       ]
     },
@@ -130,6 +120,26 @@
       "feedUrl": "http://www.gamingonlinux.com/news_rss.php",
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
+        {
+          "id": "https://www.gamingonlinux.com/2022/09/intel-arc-a770-gpu-releases-october-12th/",
+          "author": "Liam Dawe",
+          "description": "Along with announcing their new Raptor Lake desktop CPUs, Intel has also finally announced the release date of their Arc A770 GPU for October 12th.",
+          "link": "https://www.gamingonlinux.com/2022/09/intel-arc-a770-gpu-releases-october-12th/",
+          "publishedOn": "2022-09-27T19:18:12.000Z",
+          "wordCount": 1160,
+          "title": "Intel Arc A770 GPU releases October 12th",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1978635296id21660gol.jpg"
+        },
+        {
+          "id": "https://www.gamingonlinux.com/2022/09/intel-reveals-13th-gen-raptor-lake-desktop-cpus/",
+          "author": "Liam Dawe",
+          "description": "Intel has today formally revealed their brand new line of desktop CPUs, just as AMD are launching Ryzen 7000 processors.",
+          "link": "https://www.gamingonlinux.com/2022/09/intel-reveals-13th-gen-raptor-lake-desktop-cpus/",
+          "publishedOn": "2022-09-27T18:53:43.000Z",
+          "wordCount": 1375,
+          "title": "Intel reveals 13th Gen 'Raptor Lake' desktop CPUs",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1626804388id21659gol.jpg"
+        },
         {
           "id": "https://www.gamingonlinux.com/2022/09/steam-deck-gets-a-small-bug-fix-client-beta-out-now/",
           "author": "Liam Dawe",
@@ -4691,6 +4701,26 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Intel-XeSS-Open-Source",
+          "author": null,
+          "description": "Yet more news from Intel's Innovation event taking place in San Jose is the initial SDK source code availability of the much anticipated Xe Super Sampling. XeSS is Intel's alternative to AMD FidelityFX Super Resolution and NVIDIA DLSS...",
+          "link": "https://www.phoronix.com/news/Intel-XeSS-Open-Source",
+          "publishedOn": "2022-09-27T19:00:00.000Z",
+          "wordCount": 1535,
+          "title": "Intel Publishes Xe Super Sampling \"XeSS\" 1.0 SDK",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Google-Chrome-106-Released",
+          "author": null,
+          "description": "Google this afternoon promoted Chrome 106 to their stable channel for Linux, ChromeOS, macOS, and Windows users of this web browser...",
+          "link": "https://www.phoronix.com/news/Google-Chrome-106-Released",
+          "publishedOn": "2022-09-27T18:36:46.000Z",
+          "wordCount": 1365,
+          "title": "Google Releases Chrome 106 With SerialPort BYOB, Security Fixes",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Intel-Arc-A770-October",
           "author": null,
@@ -9439,21 +9469,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/e8bqcT2ZAztStM9eB2FuVb.jpg"
-        },
-        {
-          "id": "NqVBBtGLpGqZ2umKDbwtGZ",
-          "author": null,
-          "description": "Logitech’s new 1080p Brio 500 webcam has a built-in privacy shutter, HDR, and makes you look great.",
-          "link": "https://www.tomshardware.com/reviews/logitech-brio-500",
-          "publishedOn": "2022-09-14T07:01:13.000Z",
-          "wordCount": 24235,
-          "title": "Logitech Brio 500 Review",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/Pg3pKBRgrcXQ88VZsoGFZR.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/Pg3pKBRgrcXQ88VZsoGFZR.jpg"
         }
       ]
     },
@@ -9756,6 +9771,46 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1884977",
+          "author": "Jon Brodkin",
+          "description": "Robotext plan approved after a year, but FCC still needs to adopt final rules.",
+          "link": "https://arstechnica.com/?p=1884977",
+          "publishedOn": "2022-09-27T18:21:21.000Z",
+          "wordCount": 1984,
+          "title": "FCC advances plan to require blocking of spam texts from bogus numbers",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-phone-scam-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1884850",
+          "author": "Andrew Cunningham",
+          "description": "You can spend as much on a board as some people do on their whole PC.",
+          "link": "https://arstechnica.com/?p=1884850",
+          "publishedOn": "2022-09-27T17:51:37.000Z",
+          "wordCount": 1845,
+          "title": "Early-adopter tax is in full force for the first batch of AM5 motherboards",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/msi-x670e-godlike-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1884913",
+          "author": "Sam Machkovech",
+          "description": "Expected performance somewhere near Nvidia's RTX 3060 Ti—at least, for DirectX 12.",
+          "link": "https://arstechnica.com/?p=1884913",
+          "publishedOn": "2022-09-27T17:40:29.000Z",
+          "wordCount": 1590,
+          "title": "Intel: “Moore’s law is not dead” as Arc A770 GPU is priced at $329",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/intel-arc-listing-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1884626",
+          "author": "Jennifer Ouellette",
+          "description": "\"You keep her alive, and you set everything right.\"",
+          "link": "https://arstechnica.com/?p=1884626",
+          "publishedOn": "2022-09-27T17:27:27.000Z",
+          "wordCount": 1800,
+          "title": "HBO Max drops first teaser for The Last of Us adaptation",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/lastofus1-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1884919",
           "author": "Kyle Orland",
@@ -13032,16 +13087,6 @@
           "wordCount": 2560,
           "title": "Se alla trailers från State of Play",
           "imageUrl": "https://www.fz.se/artikel/og-image/291451"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291447",
-          "author": null,
-          "description": "Jin och Kazuya tar en svängom.",
-          "link": "https://www.fz.se/artikel/291447-tekken-8-har-officiellt-utannonserats-se-forsta-trailern",
-          "publishedOn": "2022-09-14T06:57:00.000Z",
-          "wordCount": 1900,
-          "title": "Tekken 8 har officiellt utannonserats – se första trailern",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291447"
         }
       ]
     },
@@ -13911,6 +13956,16 @@
       "siteUrl": "https://shencomix.tumblr.com/",
       "articles": [
         {
+          "id": "https://shencomix.tumblr.com/post/696573619521945600",
+          "author": null,
+          "description": "",
+          "link": "https://shencomix.tumblr.com/post/696573619521945600",
+          "publishedOn": "2022-09-27T18:46:10.000Z",
+          "wordCount": 714,
+          "title": "Untitled",
+          "imageUrl": "https://64.media.tumblr.com/ebff144a5f26923a98141a1d9c4fd70f/2b8ebb890f0fae23-0a/s1280x1920/f4604c86003bad6614ed0e7a34ad7c6750976d5b.png"
+        },
+        {
           "id": "https://shencomix.tumblr.com/post/696482881291386880",
           "author": null,
           "description": "Here’s that LINK! Thx for reading!",
@@ -13987,6 +14042,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/sas_ml_analytics_azure/",
+          "author": null,
+          "description": "<h4>50-year-old software project provides a button the boss can click</h4> <p>Analytics stalwart SAS is making its cloud-based Viya platform available in the Microsoft Azure Marketplace in the hopes users will be tempted by a clickable, pay-as-you-go option for its ML, data management, and analytics tools.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/sas_ml_analytics_azure/",
+          "publishedOn": "2022-09-27T19:00:06.000Z",
+          "wordCount": 1407,
+          "title": "SAS puts ML and analytics suite on Azure Marketplace",
+          "imageUrl": "https://regmedia.co.uk/2016/07/29/shutterstock_cloud_procurement.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/samsung_breach_class_action/",
           "author": null,
@@ -16176,16 +16241,6 @@
           "wordCount": 1441,
           "title": "To preserve Earth's treasures, digital silence is golden",
           "imageUrl": "https://regmedia.co.uk/2022/09/14/shutterstock_pin_drop_tropical_island.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/14/red_hat_wfh_policy/",
-          "author": null,
-          "description": "<h4>It works for the FOSS community, but Red Hat's version adds an 'office vibe' and desk-free ‘neighborhoods’</h4> <p>IBM's FOSS unit, Red Hat, has revealed its staff don't need to come back to the office – ever. But if they do, they'll find collaborative \"neighborhoods\" await them.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/14/red_hat_wfh_policy/",
-          "publishedOn": "2022-09-14T07:04:56.000Z",
-          "wordCount": 1368,
-          "title": "Red Hat lets staff stay away from the office forever",
-          "imageUrl": "https://regmedia.co.uk/2015/11/04/redhat-azure.jpg"
         }
       ]
     }

@@ -2,10 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-27T18:37:14.732Z</updated>
+    <updated>2022-09-27T19:27:20.958Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Arc A770 GPU releases October 12th]]></title>
+        <id>https://www.gamingonlinux.com/2022/09/intel-arc-a770-gpu-releases-october-12th/</id>
+        <link href="https://www.gamingonlinux.com/2022/09/intel-arc-a770-gpu-releases-october-12th/"/>
+        <updated>2022-09-27T19:18:12.000Z</updated>
+        <summary type="html"><![CDATA[Along with announcing their new Raptor Lake desktop CPUs, Intel has also finally announced the release date of their Arc A770 GPU for October 12th.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SAS puts ML and analytics suite on Azure Marketplace]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/27/sas_ml_analytics_azure/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/27/sas_ml_analytics_azure/"/>
+        <updated>2022-09-27T19:00:06.000Z</updated>
+        <summary type="html"><![CDATA[<h4>50-year-old software project provides a button the boss can click</h4> <p>Analytics stalwart SAS is making its cloud-based Viya platform available in the Microsoft Azure Marketplace in the hopes users will be tempted by a clickable, pay-as-you-go option for its ML, data management, and analytics tools.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Publishes Xe Super Sampling "XeSS" 1.0 SDK]]></title>
+        <id>https://www.phoronix.com/news/Intel-XeSS-Open-Source</id>
+        <link href="https://www.phoronix.com/news/Intel-XeSS-Open-Source"/>
+        <updated>2022-09-27T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Yet more news from Intel's Innovation event taking place in San Jose is the initial SDK source code availability of the much anticipated Xe Super Sampling. XeSS is Intel's alternative to AMD FidelityFX Super Resolution and NVIDIA DLSS...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel reveals 13th Gen 'Raptor Lake' desktop CPUs]]></title>
+        <id>https://www.gamingonlinux.com/2022/09/intel-reveals-13th-gen-raptor-lake-desktop-cpus/</id>
+        <link href="https://www.gamingonlinux.com/2022/09/intel-reveals-13th-gen-raptor-lake-desktop-cpus/"/>
+        <updated>2022-09-27T18:53:43.000Z</updated>
+        <summary type="html"><![CDATA[Intel has today formally revealed their brand new line of desktop CPUs, just as AMD are launching Ryzen 7000 processors.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Untitled]]></title>
+        <id>https://shencomix.tumblr.com/post/696573619521945600</id>
+        <link href="https://shencomix.tumblr.com/post/696573619521945600"/>
+        <updated>2022-09-27T18:46:10.000Z</updated>
+        <author>
+            <name>Shen Comix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Releases Chrome 106 With SerialPort BYOB, Security Fixes]]></title>
+        <id>https://www.phoronix.com/news/Google-Chrome-106-Released</id>
+        <link href="https://www.phoronix.com/news/Google-Chrome-106-Released"/>
+        <updated>2022-09-27T18:36:46.000Z</updated>
+        <summary type="html"><![CDATA[Google this afternoon promoted Chrome 106 to their stable channel for Linux, ChromeOS, macOS, and Windows users of this web browser...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FCC advances plan to require blocking of spam texts from bogus numbers]]></title>
+        <id>https://arstechnica.com/?p=1884977</id>
+        <link href="https://arstechnica.com/?p=1884977"/>
+        <updated>2022-09-27T18:21:21.000Z</updated>
+        <summary type="html"><![CDATA[Robotext plan approved after a year, but FCC still needs to adopt final rules.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Samsung facing class action over customer data leaks]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/27/samsung_breach_class_action/</id>
@@ -24,6 +93,16 @@
         <summary type="html"><![CDATA[AMD has released its first Adrenalin GPU driver supporting the Ryzen 7000's new integrated graphics chips.]]></summary>
         <author>
             <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Early-adopter tax is in full force for the first batch of AM5 motherboards]]></title>
+        <id>https://arstechnica.com/?p=1884850</id>
+        <link href="https://arstechnica.com/?p=1884850"/>
+        <updated>2022-09-27T17:51:37.000Z</updated>
+        <summary type="html"><![CDATA[You can spend as much on a board as some people do on their whole PC.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
         </author>
     </entry>
     <entry>
@@ -76,6 +155,16 @@ started this …]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Intel: “Moore’s law is not dead” as Arc A770 GPU is priced at $329]]></title>
+        <id>https://arstechnica.com/?p=1884913</id>
+        <link href="https://arstechnica.com/?p=1884913"/>
+        <updated>2022-09-27T17:40:29.000Z</updated>
+        <summary type="html"><![CDATA[Expected performance somewhere near Nvidia's RTX 3060 Ti—at least, for DirectX 12.]]></summary>
+        <author>
+            <name>Sam Machkovech</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Steam Deck gets a small bug-fix Client Beta out now]]></title>
         <id>https://www.gamingonlinux.com/2022/09/steam-deck-gets-a-small-bug-fix-client-beta-out-now/</id>
         <link href="https://www.gamingonlinux.com/2022/09/steam-deck-gets-a-small-bug-fix-client-beta-out-now/"/>
@@ -103,6 +192,16 @@ started this …]]></summary>
         <summary type="html"><![CDATA[<h4>Amazon's already said no to country-by-country breakdown</h4> <p>Cisco has urged its shareholders to vote against a proposal asking for the company to publish a tax transparency report that breaks down where it pays its taxes on a country-by-country basis.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HBO Max drops first teaser for The Last of Us adaptation]]></title>
+        <id>https://arstechnica.com/?p=1884626</id>
+        <link href="https://arstechnica.com/?p=1884626"/>
+        <updated>2022-09-27T17:27:27.000Z</updated>
+        <summary type="html"><![CDATA["You keep her alive, and you set everything right."]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
         </author>
     </entry>
     <entry>
@@ -18190,46 +18289,6 @@ The whole setup hinges on having the Discord mobile app. First, you'll need to l
         <summary type="html"><![CDATA[<h4>There are beautiful, undisturbed places in the world. You do not have to catch 'em all</h4> <p>Social media has made it easy to create large communities and to communicate with them instantly. The downside is that when those communities cross over into the real world, crowds of people can cause real harm regardless of their intent.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Red Hat lets staff stay away from the office forever]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/14/red_hat_wfh_policy/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/14/red_hat_wfh_policy/"/>
-        <updated>2022-09-14T07:04:56.000Z</updated>
-        <summary type="html"><![CDATA[<h4>It works for the FOSS community, but Red Hat's version adds an 'office vibe' and desk-free ‘neighborhoods’</h4> <p>IBM's FOSS unit, Red Hat, has revealed its staff don't need to come back to the office – ever. But if they do, they'll find collaborative "neighborhoods" await them.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logitech Brio 500 Review]]></title>
-        <id>NqVBBtGLpGqZ2umKDbwtGZ</id>
-        <link href="https://www.tomshardware.com/reviews/logitech-brio-500"/>
-        <updated>2022-09-14T07:01:13.000Z</updated>
-        <summary type="html"><![CDATA[Logitech’s new 1080p Brio 500 webcam has a built-in privacy shutter, HDR, and makes you look great.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tekken 8 har officiellt utannonserats – se första trailern]]></title>
-        <id>https://www.fz.se/artikel/291447</id>
-        <link href="https://www.fz.se/artikel/291447-tekken-8-har-officiellt-utannonserats-se-forsta-trailern"/>
-        <updated>2022-09-14T06:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Jin och Kazuya tar en svängom.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Upgrade to Fedora 37 Beta Right Now]]></title>
-        <id>http://itsfoss.com/?p=88095</id>
-        <link href="https://itsfoss.com/upgrade-to-fedora-beta/"/>
-        <updated>2022-09-14T06:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Want to try the features of Fedora 37 like GNOME 43 right now? You can upgrade to Fedora 37 beta. Here's how.]]></summary>
-        <author>
-            <name>Abhishek Prakash</name>
         </author>
     </entry>
 </feed>
