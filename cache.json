@@ -131,6 +131,26 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/09/rust-for-steam-deck-linux-still-some-time-away/",
+          "author": "Liam Dawe",
+          "description": "For those of you wanting to play Rust again on Linux desktop or Steam Deck, it sounds like it's still some time away as Facepunch continues thinking on Easy Anti-Cheat support.",
+          "link": "https://www.gamingonlinux.com/2022/09/rust-for-steam-deck-linux-still-some-time-away/",
+          "publishedOn": "2022-09-27T11:41:32.000Z",
+          "wordCount": 1436,
+          "title": "Rust for Steam Deck / Linux still some time away",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1029339603id21653gol.jpg"
+        },
+        {
+          "id": "https://www.gamingonlinux.com/2022/09/dont-shit-on-my-a-roof-is-the-latest-2d-horde-shooter-out-now/",
+          "author": "Liam Dawe",
+          "description": "You know me by now, I'm going to play everything I can that in some way resembles Vampire Survivors and this new influx of horde games and Don't Shit On My #!$@& Roof is the latest.",
+          "link": "https://www.gamingonlinux.com/2022/09/dont-shit-on-my-a-roof-is-the-latest-2d-horde-shooter-out-now/",
+          "publishedOn": "2022-09-27T11:39:42.000Z",
+          "wordCount": 1167,
+          "title": "Don't Shit On My #!$@& Roof is the latest 2D horde shooter out now",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/489944872id21654gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/09/custom-boot-animations-for-the-steam-deck-are-pretty-sweet/",
           "author": "Liam Dawe",
           "description": "Did you know you can change the boot animation on the Steam Deck? Well you can and the community has naturally gone and done some pretty amazing things with it.",
@@ -727,6 +747,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/someone-has-managed-to-become-a-billionaire-in-gta-online",
+          "author": "Liv Ngan",
+          "description": "One GTA Online player has become a billionaire in-game, nine years after the game released.\r\n\nReddit user jamcar70 shared their impressive milestone on the game's subreddit, to a stunned response.\r\n\nThe feat took jamcar70 two years, 34 days and four hours of playtime to achieve, as shown on their screenshot to prove their in-game savings.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/someone-has-managed-to-become-a-billionaire-in-gta-online",
+          "publishedOn": "2022-09-27T12:27:00.000Z",
+          "wordCount": 4584,
+          "title": "Someone has managed to become a billionaire in GTA Online",
+          "imageUrl": "https://assets.reedpopcdn.com/gta-online-money.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/gta-online-money.jpeg"
+        },
         {
           "id": "https://www.eurogamer.net/darkest-dungeon-2-gets-major-update-to-metagame-and-progression",
           "author": "Tom Phillips",
@@ -4462,6 +4492,26 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/MGLRU-Reaches-mm-stable",
+          "author": null,
+          "description": "As further indication of MGLRU hopefully being mainlined for Linux 6.1 as planned, the Multi-Gen LRU patches have now been moved to Andrew Morton's mm-stable branch...",
+          "link": "https://www.phoronix.com/news/MGLRU-Reaches-mm-stable",
+          "publishedOn": "2022-09-27T11:50:35.000Z",
+          "wordCount": 1365,
+          "title": "MGLRU Patches Merged To \"mm-stable\" Ahead Of Linux 6.1 - New Benchmarks Look Good",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/RadeonSI-VCN-Async-Mesa-22.3",
+          "author": null,
+          "description": "Last week I wrote about how Microsoft landed a VA-API improvement in Mesa to support faster Video Acceleration API encoding with FFmpeg. That code was initially only wired up for the Microsoft D3D12 driver within Mesa for WSL use-cases, but now AMD has taken advantage of the new capability for RadeonSI Gallium3D usage with their Radeon GPUs...",
+          "link": "https://www.phoronix.com/news/RadeonSI-VCN-Async-Mesa-22.3",
+          "publishedOn": "2022-09-27T11:33:33.000Z",
+          "wordCount": 1285,
+          "title": "Thanks Microsoft: RadeonSI Enables Async VA-API For Faster Video Acceleration",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Mesa-22.3-Radeon-Lower-Overhead",
           "author": null,
           "description": "There have been some notable merges this week for Mesa 22.3, particularly as it concerns the open-source Radeon graphics driver code...",
@@ -5590,16 +5640,6 @@
           "wordCount": 1308,
           "title": "Linux 6.1 To Try Enabling HID++ For All Logitech Bluetooth Devices",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/MGLRU-LPC-2022",
-          "author": null,
-          "description": "Hopefully being mainlined next cycle with Linux 6.1 is the Multi-Gen LRU, or better known as MGLRU, as a superior alternative to the kernel's existing page reclamation code. Assuming it lands for Linux 6.1 as the last complete kernel cycle of 2022, this would make it one of the most exciting innovations to make it into the kernel this year...",
-          "link": "https://www.phoronix.com/news/MGLRU-LPC-2022",
-          "publishedOn": "2022-09-13T23:35:14.000Z",
-          "wordCount": 1615,
-          "title": "MGLRU Looks Like One Of The Best Linux Kernel Innovations Of The Year",
-          "imageUrl": null
         }
       ]
     },
@@ -5608,6 +5648,16 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/rick-lands-in-multiversus-today-while-a-new-update-doubles-levelling-time",
+          "author": "CJ Wheeler",
+          "description": "Everyone’s most tolerated science grandpa Rick Sanchez steps into MultiVersus today as the Warner Bros. licensed brawler’s latest fighter, arriving alongside the game’s 1.03 patch. There’s a few notable tweaks to MultiVersus in the patch, including a major change to XP between levels 3 and 15. You’ll need twice as much now. Developers Player First Games have tried to rein in infinite combos, too. You can get a look at Rick by watching the trailer below.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/rick-lands-in-multiversus-today-while-a-new-update-doubles-levelling-time",
+          "publishedOn": "2022-09-27T11:32:18.000Z",
+          "wordCount": 5074,
+          "title": "Rick lands in MultiVersus today, while a new update doubles levelling time",
+          "imageUrl": "https://assets2.rockpapershotgun.com/Rick-MultiVersus-stage_3J1tO4W.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Rick-MultiVersus-stage_3J1tO4W.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/serial-cleaners-review",
           "author": "Ed Thorn",
@@ -6707,16 +6757,6 @@
           "wordCount": 5063,
           "title": "Take a rogue-trip in S.T.A.L.K.E.R. meets Stranger Things survival game Pacific Drive",
           "imageUrl": "https://assets2.rockpapershotgun.com/Pacific-Drive-announcement.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Pacific-Drive-announcement.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/historical-yakuza-spin-off-like-a-dragon-ishin-is-being-remade-coming-to-pc-next-year",
-          "author": "Graham Smith",
-          "description": "Holy heck. During tonight's Sony State Of Play livestream, it was announced that Like A Dragon: Ishin! was heading to the west for the first time - and heading to PC at the same time. The Yakuza spin-off set in 1860s Japan was first released in 2014, and the remake is described as having been \"rebuilt from the ground up\". Watch the trailer below.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/historical-yakuza-spin-off-like-a-dragon-ishin-is-being-remade-coming-to-pc-next-year",
-          "publishedOn": "2022-09-13T23:31:07.000Z",
-          "wordCount": 4788,
-          "title": "Historical Yakuza spin-off Like A Dragon: Ishin! is being remade, coming to PC next year",
-          "imageUrl": "https://assets2.rockpapershotgun.com/like-a-dragon-ishin_KBropWF.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/like-a-dragon-ishin_KBropWF.jpg"
         }
       ]
     },
@@ -6725,6 +6765,36 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "cyKMSLAXTWwcLbWSpZYYWB",
+          "author": null,
+          "description": "Some expensive ultrabooks and gaming laptops come with just 8GB of RAM. That’s not enough memory for gaming or even light productivity.",
+          "link": "https://www.tomshardware.com/news/dont-buy-pc-with-8gb-of-ram",
+          "publishedOn": "2022-09-27T12:00:26.000Z",
+          "wordCount": 21977,
+          "title": "Don’t Buy a PC With 8GB of RAM (Unless You Plan to Upgrade It)",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/is6ou4TaSC4khfpFc3WTz.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/is6ou4TaSC4khfpFc3WTz.jpg"
+        },
+        {
+          "id": "piEm3uDsUVzGt4W8tmGMgM",
+          "author": null,
+          "description": "Maker and developer Thomas, also known as Thpoll, has made an RP2040-powered keyboard with OLEDs beneath the keycaps.",
+          "link": "https://www.tomshardware.com/news/raspberry-pi-pico-keyboard-with-oled-keycaps",
+          "publishedOn": "2022-09-27T11:15:11.000Z",
+          "wordCount": 22398,
+          "title": "Raspberry Pi Pico Keyboard has OLED Keycaps",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/ufia8tDZwcWdWs5fuGeh79.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/ufia8tDZwcWdWs5fuGeh79.jpg"
+        },
         {
           "id": "GxrSFt9S9jDT54mvSEopjD",
           "author": null,
@@ -8854,21 +8924,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/Pg3pKBRgrcXQ88VZsoGFZR.jpg"
-        },
-        {
-          "id": "ezrGsCzsJWaK7PJyQguQM9",
-          "author": null,
-          "description": "Companies from Japan, South Korea, and Taiwan have concerns over the Chip 4 alliance.",
-          "link": "https://www.tomshardware.com/news/us-proposed-chip-4-alliance-faces-opposition-from-partners",
-          "publishedOn": "2022-09-13T23:43:12.000Z",
-          "wordCount": 21703,
-          "title": "U.S.-Proposed Chip 4 Alliance Faces Opposition from Partners",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/nzCbjfNC5zwoShThjeSBxM.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/nzCbjfNC5zwoShThjeSBxM.png"
         }
       ]
     },
@@ -10750,16 +10805,6 @@
           "wordCount": 1809,
           "title": "Sampling BMW’s greatest hits shows what’s missing from its modern cars",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/ideal-bmw-ev-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1881102",
-          "author": "Dan Goodin",
-          "description": "Hack of FishPig distribution server used to install Rekoobe on customer systems.",
-          "link": "https://arstechnica.com/?p=1881102",
-          "publishedOn": "2022-09-13T23:34:47.000Z",
-          "wordCount": 1792,
-          "title": "Breach of software maker used to backdoor as many as 200,000 servers",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/07/data-breach-760x380.jpeg"
         }
       ]
     },
@@ -10768,6 +10813,36 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291598",
+          "author": null,
+          "description": "Är det värt att återvända till slagfältet?",
+          "link": "https://www.fz.se/artikel/291598-dagens-battlefield-2042-patch-har-en-omarbetad-karta-och-nytt-fordon",
+          "publishedOn": "2022-09-27T12:46:00.000Z",
+          "wordCount": 1846,
+          "title": "Dagens Battlefield 2042-patch har en omarbetad karta och nytt fordon",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291598"
+        },
+        {
+          "id": "https://www.fz.se/artikel/291597",
+          "author": null,
+          "description": "För att \"göra det till lite mer av en resa\".",
+          "link": "https://www.fz.se/artikel/291597-multiversus-karaktarer-tar-nu-dubbelt-sa-lang-tid-att-levla-upp",
+          "publishedOn": "2022-09-27T11:38:00.000Z",
+          "wordCount": 1809,
+          "title": "Multiversus-karaktärer tar nu dubbelt så lång tid att levla upp",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291597"
+        },
+        {
+          "id": "https://www.fz.se/artikel/291596",
+          "author": null,
+          "description": "En (väldigt) liten titt på produktionen av hans kommande spel.",
+          "link": "https://www.fz.se/artikel/291596-josef-fares-teaser-sitt-nya-spel-med-en-mocap-bild",
+          "publishedOn": "2022-09-27T10:06:00.000Z",
+          "wordCount": 1943,
+          "title": "Josef Fares teaser sitt nya spel med en mocap-bild",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291596"
+        },
         {
           "id": "https://www.fz.se/artikel/291596",
           "author": null,
@@ -12326,6 +12401,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34981",
+          "author": null,
+          "description": "I en rapport redovisar Mozilla svårigheter att konkurrera med webbläsare som får fördelar genom Microsofts, Apples och Googles operativsystem.",
+          "link": "https://www.sweclockers.com/artikel/34981-mozilla-teknikjattar-forsvarar-webblasarbyten",
+          "publishedOn": "2022-09-27T12:21:00.000Z",
+          "wordCount": 1992,
+          "title": "Mozilla: \"Teknikjättar försvårar webbläsarbyten\"",
+          "imageUrl": "https://www.sweclockers.com/artikel/34981/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34977",
           "author": null,
           "description": "Vad är nördigare än en jultröja? En alldeles egen fultröja! Rota fram din inre kläddesigner och ta fram en design värdig titeln SweClockers Fultröja™.",
@@ -13252,6 +13337,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/arm_hires_cfo_jason_child_ipo/",
+          "author": null,
+          "description": "<h4>Adds new heads to boardroom too but still not word on destination of flotation</h4> <p>Chip designer Arm has made a flurry of boardroom appointments ahead of its IPO later this year, including hiring a new Chief Financial Officer with experience taking companies public.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/arm_hires_cfo_jason_child_ipo/",
+          "publishedOn": "2022-09-27T12:30:09.000Z",
+          "wordCount": 1257,
+          "title": "Arm hires former Splunk CFO Jason Child ahead of IPO",
+          "imageUrl": "https://regmedia.co.uk/2021/02/12/chip.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/microsoft_windows11_security_hardware/",
+          "author": null,
+          "description": "<h4>But you'll need to buy lots of new hardware to get the benefit</h4> <p><strong>Analysis</strong>  As it rolled out the laundry list of new features in Windows 11, version 22H2 this week, Microsoft also unveiled the configuration baseline that systems will have to meet to take advantage of the latest security capabilities.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/microsoft_windows11_security_hardware/",
+          "publishedOn": "2022-09-27T11:32:07.000Z",
+          "wordCount": 1917,
+          "title": "Microsoft bets on hardware/software duo for Win11 security",
+          "imageUrl": "https://regmedia.co.uk/2021/03/13/security.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/grab_unconventional_data/",
           "author": null,
@@ -15381,16 +15486,6 @@
           "wordCount": 1336,
           "title": "Ransomware gang threatens 1m-plus medical record leak",
           "imageUrl": "https://regmedia.co.uk/2022/09/13/hospital_doctor_with_patient_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/14/twitter_mudge_senate/",
-          "author": null,
-          "description": "<h4>Mudge tells senators his former bosses are 'terrified' of the French, US regulators are toothless</h4> <p>Twitter's former head of security Peiter \"Mudge\" Zatko on Tuesday told the US Senate Judiciary Committee that the social media company's lax data handling and inability to present problems to its board of directors threaten the privacy, security, and democracy for Americans.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/14/twitter_mudge_senate/",
-          "publishedOn": "2022-09-14T00:11:57.000Z",
-          "wordCount": 2070,
-          "title": "Twitter whistleblower Zatko disses bird site as dysfunctional data dump",
-          "imageUrl": "https://regmedia.co.uk/2022/09/13/zatko.jpg"
         }
       ]
     }
