@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-27T19:27:20.958Z</updated>
+    <updated>2022-09-27T20:28:33.546Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Teardown shows Apple iPhone 14 Pro is not pro-repair]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/27/apple_iphone_14_pro_repairs/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/27/apple_iphone_14_pro_repairs/"/>
+        <updated>2022-09-27T20:26:05.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Who cares if they are authentic parts! Come to the iStore instead if you know what's good for you</h4> <p>Apple's iPhone 14 can be repaired more easily than its predecessors, but its Pro model retains the architectural inaccessibility of older iPhones and resists replacement parts, even authentic Cupertino kit.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overwatch 2's new player accounts will be limited to fight "disruptive behaviour"]]></title>
+        <id>https://www.rockpapershotgun.com/overwatch-2s-new-player-accounts-will-be-limited-to-fight-disruptive-behaviour</id>
+        <link href="https://www.rockpapershotgun.com/overwatch-2s-new-player-accounts-will-be-limited-to-fight-disruptive-behaviour"/>
+        <updated>2022-09-27T20:11:32.000Z</updated>
+        <summary type="html"><![CDATA[Overwatch 2 differs from its predecessor by being free-to-play, which means it will be more vulnerable to players who are up to no good. Blizzard today outlined how they intend to prevent "disruptive behaviour" from players, including the use of SMS verification and machine learning. More awkwardly, game modes will be locked for first-time players, and Overwatch 1's original heroes will only be unlocked "over the course of approximately 100 matches."
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta disrupted China-based propaganda machine before it reached many Americans]]></title>
+        <id>https://arstechnica.com/?p=1885001</id>
+        <link href="https://arstechnica.com/?p=1885001"/>
+        <updated>2022-09-27T19:48:13.000Z</updated>
+        <summary type="html"><![CDATA[Networks blocked had dozens of fake accounts from China, thousands from Russia.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inflation, recession, pah! IT budgets set to rise in 2023]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/27/it_budgets_2023_inflation_recession/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/27/it_budgets_2023_inflation_recession/"/>
+        <updated>2022-09-27T19:45:06.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Turns out all it took was a business-disrupting global pandemic</h4> <p>Despite recession fears, most companies are planning to increase IT budgets next year.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intel Arc A770 GPU releases October 12th]]></title>
         <id>https://www.gamingonlinux.com/2022/09/intel-arc-a770-gpu-releases-october-12th/</id>
@@ -14,6 +57,16 @@
         <summary type="html"><![CDATA[Along with announcing their new Raptor Lake desktop CPUs, Intel has also finally announced the release date of their Arc A770 GPU for October 12th.]]></summary>
         <author>
             <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple backtracks, will extend Stage Manager multitasking support to older iPads]]></title>
+        <id>https://arstechnica.com/?p=1885000</id>
+        <link href="https://arstechnica.com/?p=1885000"/>
+        <updated>2022-09-27T19:15:15.000Z</updated>
+        <summary type="html"><![CDATA[External display support remains exclusive to M1 iPads, coming "later this year."]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
         </author>
     </entry>
     <entry>
@@ -73,6 +126,16 @@
         <summary type="html"><![CDATA[Robotext plan approved after a year, but FCC still needs to adopt final rules.]]></summary>
         <author>
             <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung sued for gobbling up too much personal info that miscreants then stole]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/27/samsung_data_theft_lawsuit/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/27/samsung_data_theft_lawsuit/"/>
+        <updated>2022-09-27T18:15:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>If you're gonna force everyone to register an account, at least protect that data, lawsuit argues</h4> <p>A lawsuit has accused Samsung of failing to address a cyber-intrusion in early 2022, leading to the theft of US customers' personally identifiable information (PII) in a second attack months later in July.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
         </author>
     </entry>
     <entry>
@@ -1622,6 +1685,30 @@ Cobalt-B is a mechanical engineer on the Hykros weapon development team, and she
         <summary type="html"><![CDATA[LinkedIn relied on its user agreement to gain consent to research millions of users.]]></summary>
         <author>
             <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jelmer Vernooij: Northcape 4000]]></title>
+        <id>tag:www.jelmer.uk,2022-09-27:northcape4000.html</id>
+        <link href="https://www.jelmer.uk/northcape4000.html"/>
+        <updated>2022-09-26T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This summer, I signed up to participate in the Northcape 4000
+<https://www.northcape4000.com/>, an annual 4000km bike ride between Rovereto
+(in northern Italy) and the northernmost point of Europe, the North cape.
+The Northcape event has been held for several years, and while it always ends
+on the North Cape, the route there varies. Last years’ route went through the
+Baltics, but this years’ was perhaps as direct as possible - taking us through
+Italy, Austria, Switzerland, Germany, the Czech republic, Germany again, Sweden,
+Finland and finally Norway.
+The ride is unsupported, meaning you have to find your own food and
+accomodation and can only avail yourself of resupply and sleeping options on
+the route that are available to everybody else as well. The event is not meant
+to be a race (unlike the Transcontinental, which starts at the same day),
+so there is a minimum time to finish it in (10 days) and a maximum (21 days).
+Unfortunately, this meant skipping some other events I’d wanted attend
+(DebConf, MCH).]]></summary>
+        <author>
+            <name>Planet Debian</name>
         </author>
     </entry>
     <entry>
@@ -18247,46 +18334,6 @@ The whole setup hinges on having the Discord mobile app. First, you'll need to l
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/14/google_cat_eu_case/"/>
         <updated>2022-09-14T08:30:13.000Z</updated>
         <summary type="html"><![CDATA[<h4>Legal cases in Europe claim anticompetitive conduct, which Google denies</h4> <p>Google owner Alphabet could face claims of up to €25 billion ($25.4 billion) in a case alleging anticompetitive conduct in relation to ad tech in Europe.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Synduality är ett mech-TPS från Bandai Namco]]></title>
-        <id>https://www.fz.se/artikel/291448</id>
-        <link href="https://www.fz.se/artikel/291448-synduality-ar-ett-mech-tps-fran-bandai-namco"/>
-        <updated>2022-09-14T08:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Människa och AI samarbetar i en postapokalyptisk, förvriden värld.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EA presenterar eget antifusksystem på kernel-nivå]]></title>
-        <id>https://www.sweclockers.com/artikel/34922</id>
-        <link href="https://www.sweclockers.com/artikel/34922-ea-presenterar-eget-antifusksystem-pa-kernel-niva"/>
-        <updated>2022-09-14T07:52:22.000Z</updated>
-        <summary type="html"><![CDATA[För att motverka fuskare i onlinespel ansluter sig spelutgivaren till skaran med egenutvecklade antifusksystem till PC.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Se alla trailers från State of Play]]></title>
-        <id>https://www.fz.se/artikel/291451</id>
-        <link href="https://www.fz.se/artikel/291451-se-alla-trailers-fran-state-of-play"/>
-        <updated>2022-09-14T07:31:42.000Z</updated>
-        <summary type="html"><![CDATA[God of War, Rise of the Ronin med mera.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To preserve Earth's treasures, digital silence is golden]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/14/digital_silence_is_golden/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/14/digital_silence_is_golden/"/>
-        <updated>2022-09-14T07:30:07.000Z</updated>
-        <summary type="html"><![CDATA[<h4>There are beautiful, undisturbed places in the world. You do not have to catch 'em all</h4> <p>Social media has made it easy to create large communities and to communicate with them instantly. The downside is that when those communities cross over into the real world, crowds of people can cause real harm regardless of their intent.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
         <author>
             <name>The Register</name>
         </author>
