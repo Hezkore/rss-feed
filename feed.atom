@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-27T04:44:12.832Z</updated>
+    <updated>2022-09-27T06:04:59.872Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[European carriers again call for Big Tech to fund network builds]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/27/etno_digital_infrastructure_sustainability/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/27/etno_digital_infrastructure_sustainability/"/>
+        <updated>2022-09-27T05:30:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Argue tough economy means everyone needs to pay for the internet's growth – especially those who use it most</h4> <p>The European Telecommunications Network Operators' Association (ETNO) has again called for big technology companies – and especially video streamers – to pay for their share of internet infrastructure.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft China turns 30, gives nation the gift of jobs and export promotion]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/27/microsoft_china_30th_anniversary/</id>
@@ -3445,6 +3455,16 @@ Those who have been around for a while, and people who have tried to look up thi
         <updated>2022-09-23T12:09:36.000Z</updated>
         <author>
             <name>J. L. Westover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What is a Loop device in Linux?]]></title>
+        <id>https://itsfoss.com/?p=102177</id>
+        <link href="https://itsfoss.com/loop-device-linux/"/>
+        <updated>2022-09-23T11:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Seeing too many loop devices in Ubuntu? Learn what are these loop devices and why is it used on your Linux system.]]></summary>
+        <author>
+            <name>Sagar Sharma</name>
         </author>
     </entry>
     <entry>
@@ -17434,161 +17454,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Loon's laser communications and networking software get new life as Aalyria.]]></summary>
         <author>
             <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More Nintendo 64 games headed to Nintendo Switch Online + Expansion Pack]]></title>
-        <id>https://www.vg247.com/more-nintendo-64-games-headed-to-nintendo-switch-online-expansion-pack</id>
-        <link href="https://www.vg247.com/more-nintendo-64-games-headed-to-nintendo-switch-online-expansion-pack"/>
-        <updated>2022-09-13T18:02:48.000Z</updated>
-        <summary type="html"><![CDATA[During today's Direct, Nintendo announced a swath of Nintendo 64 games coming to Nintendo Switch Online + Expansion Pack.
-You already heard GoldenEye 007 is included in the batch, and while it's the biggie of the bunch, more games were announced.
-Nintendo plans to add  =Pilotwings 64, Mario Party, and Mario Party 2 this year.
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alberto García: Adding software to the Steam Deck with systemd-sysext]]></title>
-        <id>http://blogs.igalia.com/berto/?p=833</id>
-        <link href="https://blogs.igalia.com/berto/2022/09/13/adding-software-to-the-steam-deck-with-systemd-sysext/"/>
-        <updated>2022-09-13T18:00:38.000Z</updated>
-        <summary type="html"><![CDATA[Introduction: an immutable OS
-The Steam Deck runs SteamOS, a single-user operating system based on Arch Linux. Although derived from a standard, package-based distro, the OS in the Steam Deck is immutable and system updates replace the contents of the root filesystem atomically instead of using the package manager.
-An immutable OS makes the system more stable and its updates less error-prone, but users cannot install additional packages to add more software. This is not a problem for most users since they are only going to run Steam and its games (which are stored in the home partition). Nevertheless, the OS also has a desktop mode which provides a standard Linux desktop experience, and here it makes sense to be able to install more software.
-How to do that though? It is possible for the u…]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What If? 2 is here with even more serious answers to your weird questions]]></title>
-        <id>https://arstechnica.com/?p=1880389</id>
-        <link href="https://arstechnica.com/?p=1880389"/>
-        <updated>2022-09-13T17:45:02.000Z</updated>
-        <summary type="html"><![CDATA[Ars chats with xkcd creator Randall Munroe about his new book, What If? 2.]]></summary>
-        <author>
-            <name>Jennifer Ouellette</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[To defeat FTC lawsuit, Meta demands 100+ rivals share biggest trade secrets]]></title>
-        <id>https://arstechnica.com/?p=1880953</id>
-        <link href="https://arstechnica.com/?p=1880953"/>
-        <updated>2022-09-13T17:25:35.000Z</updated>
-        <summary type="html"><![CDATA[Snap claims Meta wants “to reconstruct virtually every decision Snap has made.”]]></summary>
-        <author>
-            <name>Ashley Belanger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Taiwan’s GlobalWafers races to break ground in Texas before tax breaks dissolve]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/13/taiwans_globalwafers_races_to_break/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/13/taiwans_globalwafers_races_to_break/"/>
-        <updated>2022-09-13T17:17:18.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Everythings bigger in Texas, including the tax breaks</h4> <p>Taiwanese chip biz GlobalWafers is rounding up a posse of press in time for the Thanksgiving groundbreaking ceremony at the site of its forthcoming $5 billion Texas wafer fab.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Äntligen!? Assassin's Creed Mirage lär vara 15-20 timmar stort]]></title>
-        <id>https://www.fz.se/artikel/291442</id>
-        <link href="https://www.fz.se/artikel/291442-antligen-assassins-creed-mirage-lar-vara-15-20-timmar-stort"/>
-        <updated>2022-09-13T17:17:00.000Z</updated>
-        <summary type="html"><![CDATA[Något annat än Valhalla.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3DS sleeper hit series, Final Fantasy Theatrhythm, finally comes to PS4 and Switch in 2023]]></title>
-        <id>https://www.vg247.com/final-fantasy-theatrhythm-final-bar-line-ps4-switch-2023</id>
-        <link href="https://www.vg247.com/final-fantasy-theatrhythm-final-bar-line-ps4-switch-2023"/>
-        <updated>2022-09-13T17:16:44.000Z</updated>
-        <summary type="html"><![CDATA[Back on the 3DS, there was a pair of rhythm games that got a wide launch called Theatrhythm Final Fantasy, and Theatrhythm Final Fantasy: Curtain Call. They launched in 2012 and 2014, respectively, and anyone you speak to that loves the series – and the 3DS as a platform - will have nothing but good things to say about both games.
-After that, an arcade game, Theatrhythm Final Fantasy: All-Star Carnival, was released in Japan (and this poor sap even made a point of hunting it down when they were out there for a holiday) but the series ground to a halt. From 2016 onwards, there was nothing. Until now.
-Fast forward some six years, and we get a brand new game in the series – and it's coming to Nintendo Switch and PS4. Titled Theatrhythm Final Bar Line, the game was announced during today's Nintendo Direct as a Switch title, but marketing materials that arrived after also confirmed that the game will arrive on PS4 (and PS5 via backwards compatibility).
- Read more]]></summary>
-        <author>
-            <name>Dom Peppiatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tiny robots made of “galinstan” can run faster than a (scaled down) cheetah]]></title>
-        <id>https://arstechnica.com/?p=1880545</id>
-        <link href="https://arstechnica.com/?p=1880545"/>
-        <updated>2022-09-13T17:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Most soft robots are slow, but these feel the need for speed.]]></summary>
-        <author>
-            <name>Ars Contributors</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raspberry Pi OS improves menus, networking, camera possibilities]]></title>
-        <id>https://arstechnica.com/?p=1880815</id>
-        <link href="https://arstechnica.com/?p=1880815"/>
-        <updated>2022-09-13T17:13:54.000Z</updated>
-        <summary type="html"><![CDATA[Setting up Wi-Fi, and using a camera for all kinds of projects, both get better.]]></summary>
-        <author>
-            <name>Kevin Purdy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo teases Mario Kart 8 Deluxe Booster Course Wave 3 by showing off two of its tracks]]></title>
-        <id>https://www.vg247.com/nintendo-teases-mario-kart-8-deluxe-booster-course-wave-3</id>
-        <link href="https://www.vg247.com/nintendo-teases-mario-kart-8-deluxe-booster-course-wave-3"/>
-        <updated>2022-09-13T17:08:21.000Z</updated>
-        <summary type="html"><![CDATA[Mario Kart 8 Deluxe Booster Course Pass Wave 3 was announced during today's Nintendo Direct.
-This wave of tracks will feature eight courses, including Merry Mountain from Mario Kart Tour and Peach Gardens from Mario Kart DS -  both of which previously leaked.
-Nintendo didn't reveal the other tracks included in the upcoming wave, but according to a prior leak, the additional courses could be Amsterdam Drift (Mario Kart Tour), Bangkok Rush (Mario Kart Tour), Berlin Byways (Mario Kart Tour), Boo Lake/Broken Pier (Game Boy Advance), London Loop (Mario Kart Tour), Los Angeles Laps (Mario Kart Tour), Maple Treeway (Wii), Rainbow Road (3DS), Rock Rock Mountain (3DS), Sunset Wilds (Game Boy Advance), Vancouver Velocity (Mario Kart Tour), and GameCube's Waluigi Stadium or Wario Colosseum.
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo announces a boatload of classic game ports, Japanese RPGs for Switch]]></title>
-        <id>https://arstechnica.com/?p=1880915</id>
-        <link href="https://arstechnica.com/?p=1880915"/>
-        <updated>2022-09-13T16:56:44.000Z</updated>
-        <summary type="html"><![CDATA[A new Fire Emblem and an anime-inspired rhythm boxing game feature.]]></summary>
-        <author>
-            <name>Kyle Orland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Backblaze Data Confirms SSDs Are More Reliable Than Hard Drives]]></title>
-        <id>6wJSnQzSrNKDdLPQaAaEdf</id>
-        <link href="https://www.tomshardware.com/news/backblaze-confirms-ssds-more-reliable-than-hdds"/>
-        <updated>2022-09-13T16:56:36.000Z</updated>
-        <summary type="html"><![CDATA[Backup company Backblaze has updated its SSD lifespan data for Q2 of 2022, with some really intriguing results. The new Q2 data confirms that SSD life expectancy is much greater than hard drives.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything in today's Nintendo Direct]]></title>
-        <id>https://www.eurogamer.net/everything-in-todays-nintendo-direct</id>
-        <link href="https://www.eurogamer.net/everything-in-todays-nintendo-direct"/>
-        <updated>2022-09-13T16:55:40.000Z</updated>
-        <summary type="html"><![CDATA[Today's Nintendo Direct did not disappoint, with a brand new look at The Legend of Zelda: Breath of the Wild's sequel, the newly-titled Tears of the Kingdom, plus surprise announcements for Pikmin 4, GoldenEye 007 and a new Fire Emblem game. 
-Nintendo finally confirmed Zelda: Tears of the Kingdom's name and a release date: 12th May 2023 - plus new details on what to expect from Link's next adventure, which will apparently take him "to the vast lands of Hyrule... up into the skies and [into] an expanded world that goes beyond that."
-Originally confirmed to Eurogamer by Shigeru Miyamoto in 2015, Nintendo finally gave us an official first teaser for Pikmin 4. I can't quite believe it's still in development, but it is, and it is coming to Nintendo Switch in 2023. 
- Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Artist uses AI to extract color palettes from text descriptions]]></title>
-        <id>https://arstechnica.com/?p=1880827</id>
-        <link href="https://arstechnica.com/?p=1880827"/>
-        <updated>2022-09-13T16:44:16.000Z</updated>
-        <summary type="html"><![CDATA[New technique uses an image synthesis model and some JavaScript to work its magic.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
         </author>
     </entry>
 </feed>
