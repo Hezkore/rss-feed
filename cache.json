@@ -7086,6 +7086,51 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "eBYiwqkGDHZYwLgyxRemuM",
+          "author": null,
+          "description": "AMD has released its first Adrenalin GPU driver supporting the Ryzen 7000's new integrated graphics chips.",
+          "link": "https://www.tomshardware.com/news/ryzen-7000-integrated-gpu-driver-update",
+          "publishedOn": "2022-09-27T18:11:45.000Z",
+          "wordCount": 22536,
+          "title": "First AMD Drivers for Ryzen 7000's Super Slow iGPU",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/WdTNo4zCq3vLB98rhG9zwf.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/WdTNo4zCq3vLB98rhG9zwf.jpg"
+        },
+        {
+          "id": "YFdJ66joMnEqGnqtmfi7CA",
+          "author": null,
+          "description": "TeamGroup's T-Force Delta RGB DDR5 memory boasts a 7200 MT/s data transfer rate, aimed at Intel's Raptor Lake processors.",
+          "link": "https://www.tomshardware.com/news/teamgroup-unveils-ddr5-7200-memory-modules",
+          "publishedOn": "2022-09-27T17:49:33.000Z",
+          "wordCount": 21504,
+          "title": "TeamGroup Unveils DDR5-7200 Memory Modules",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/JahsM4oQvcV3HLU9yYjPSb.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/JahsM4oQvcV3HLU9yYjPSb.png"
+        },
+        {
+          "id": "nWr63xWHu6HV3WCRNkDmsk",
+          "author": null,
+          "description": "Intel's Arc Alchemist will be the company's first 'true' dedicated graphics card in over two decades, sporting a new architecture and vastly improved features and performance for Intel GPUs. Here's everything we know.",
+          "link": "https://www.tomshardware.com/news/intel-arc-alchemist-release-date-specs-pricing-all-we-know",
+          "publishedOn": "2022-09-27T17:36:10.000Z",
+          "wordCount": 30337,
+          "title": "Intel Arc Alchemist: Release Date, Specs, Everything We Know",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/dJag4RBKrDxUgRXvMios88.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/dJag4RBKrDxUgRXvMios88.jpg"
+        },
+        {
           "id": "ovUhiEPNvSy2xRRWRKjBfn",
           "author": null,
           "description": "Intel is launching the Arc A770 GPU on October 12, starting at $329, to bring some more competition to the mid-level GPU market.",
@@ -9417,6 +9462,16 @@
       "feedUrl": "https://planet.debian.org/rss20.xml",
       "siteUrl": "https://planet.debian.org/",
       "articles": [
+        {
+          "id": "https://blog.einval.com/2022/09/27#firmware-vote",
+          "author": null,
+          "description": "Updates\nBack in April I wrote about\nissues\nwith how we handle firmware in Debian, and I also spoke about it at\nDebConf\nin July. Since then, we've started the General Resolution process -\nthis led to a lot of discussion on the\nthe debian-vote\nmailing list and we're now into the second week of\nthe voting\nphase.\nThe discussion has caught the interest of a few news sites along\nthe way:\nDebian to vote on\n  its firmware path in Linux Weekly News\n  \nDebian\n  Begins A General Resolution To Decide What To Do With Non-Free\n  Firmware in Phoronix\n  \nDebian set to start vote on including non-free packages in install media\n    in ITWire\n  \nWhy\n  Debian Might Include Non-Free Firmware in Future Releases in\n  MakeUseOf\n\nMy vote\nI've also had several people ask me how I'm voting myself, as I\nstarted this …",
+          "link": "https://blog.einval.com/2022/09/27#firmware-vote",
+          "publishedOn": "2022-09-27T17:46:00.000Z",
+          "wordCount": 651,
+          "title": "Steve McIntyre: Firmware again - updates, how I'm voting and why!",
+          "imageUrl": null
+        },
         {
           "id": "tag:bits.debian.org,2022-09-26:/2022/09/new-developers-2022-08.html",
           "author": null,
@@ -13933,6 +13988,16 @@
       "siteUrl": "https://www.theregister.com/",
       "articles": [
         {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/samsung_breach_class_action/",
+          "author": null,
+          "description": "<h4>Not only did the company fail to protect their data, the suit alleges, it also forced users to register</h4> <p>A class action lawsuit has accused Samsung of failing to address a data breach in early 2022, leading to the theft of US customers' personally identifiable information (PII) in a second attack earlier this month.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/samsung_breach_class_action/",
+          "publishedOn": "2022-09-27T18:15:08.000Z",
+          "wordCount": 1367,
+          "title": "Samsung facing class action over customer data leaks",
+          "imageUrl": "https://regmedia.co.uk/2017/02/27/samsung-safety.jpg"
+        },
+        {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/cisco_tax_transparency/",
           "author": null,
           "description": "<h4>Amazon's already said no to country-by-country breakdown</h4> <p>Cisco has urged its shareholders to vote against a proposal asking for the company to publish a tax transparency report that breaks down where it pays its taxes on a country-by-country basis.…</p>",
@@ -16121,16 +16186,6 @@
           "wordCount": 1368,
           "title": "Red Hat lets staff stay away from the office forever",
           "imageUrl": "https://regmedia.co.uk/2015/11/04/redhat-azure.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/14/rare_hexagonal_diamond_from_outer/",
-          "author": null,
-          "description": "<h4>'Lonsdaleite' is even harder than normal diamonds and its genesis shows how we might make more</h4> <p>A rare type of diamond that's even stronger than the usual form of the crystal was created when a large asteroid smashed into an ancient dwarf planet 4.5 billion years ago, researchers assert.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/14/rare_hexagonal_diamond_from_outer/",
-          "publishedOn": "2022-09-14T06:32:07.000Z",
-          "wordCount": 1306,
-          "title": "Rare hexagonal diamond formed by crash of dwarf planet and asteroid, scientists believe",
-          "imageUrl": "https://regmedia.co.uk/2022/09/14/shutterstock_planet_crash.jpg"
         }
       ]
     }

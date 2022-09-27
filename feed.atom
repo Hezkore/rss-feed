@@ -2,10 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-27T17:40:53.005Z</updated>
+    <updated>2022-09-27T18:37:14.732Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Samsung facing class action over customer data leaks]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/27/samsung_breach_class_action/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/27/samsung_breach_class_action/"/>
+        <updated>2022-09-27T18:15:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Not only did the company fail to protect their data, the suit alleges, it also forced users to register</h4> <p>A class action lawsuit has accused Samsung of failing to address a data breach in early 2022, leading to the theft of US customers' personally identifiable information (PII) in a second attack earlier this month.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First AMD Drivers for Ryzen 7000's Super Slow iGPU]]></title>
+        <id>eBYiwqkGDHZYwLgyxRemuM</id>
+        <link href="https://www.tomshardware.com/news/ryzen-7000-integrated-gpu-driver-update"/>
+        <updated>2022-09-27T18:11:45.000Z</updated>
+        <summary type="html"><![CDATA[AMD has released its first Adrenalin GPU driver supporting the Ryzen 7000's new integrated graphics chips.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TeamGroup Unveils DDR5-7200 Memory Modules]]></title>
+        <id>YFdJ66joMnEqGnqtmfi7CA</id>
+        <link href="https://www.tomshardware.com/news/teamgroup-unveils-ddr5-7200-memory-modules"/>
+        <updated>2022-09-27T17:49:33.000Z</updated>
+        <summary type="html"><![CDATA[TeamGroup's T-Force Delta RGB DDR5 memory boasts a 7200 MT/s data transfer rate, aimed at Intel's Raptor Lake processors.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steve McIntyre: Firmware again - updates, how I'm voting and why!]]></title>
+        <id>https://blog.einval.com/2022/09/27#firmware-vote</id>
+        <link href="https://blog.einval.com/2022/09/27#firmware-vote"/>
+        <updated>2022-09-27T17:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Updates
+Back in April I wrote about
+issues
+with how we handle firmware in Debian, and I also spoke about it at
+DebConf
+in July. Since then, we've started the General Resolution process -
+this led to a lot of discussion on the
+the debian-vote
+mailing list and we're now into the second week of
+the voting
+phase.
+The discussion has caught the interest of a few news sites along
+the way:
+Debian to vote on
+  its firmware path in Linux Weekly News
+  
+Debian
+  Begins A General Resolution To Decide What To Do With Non-Free
+  Firmware in Phoronix
+  
+Debian set to start vote on including non-free packages in install media
+    in ITWire
+  
+Why
+  Debian Might Include Non-Free Firmware in Future Releases in
+  MakeUseOf
+
+My vote
+I've also had several people ask me how I'm voting myself, as I
+started this …]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Steam Deck gets a small bug-fix Client Beta out now]]></title>
         <id>https://www.gamingonlinux.com/2022/09/steam-deck-gets-a-small-bug-fix-client-beta-out-now/</id>
@@ -14,6 +83,16 @@
         <summary type="html"><![CDATA[Valve has released another Client Beta for the Steam Deck which is now available for testing, mostly just fixing up issues.]]></summary>
         <author>
             <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Arc Alchemist: Release Date, Specs, Everything We Know]]></title>
+        <id>nWr63xWHu6HV3WCRNkDmsk</id>
+        <link href="https://www.tomshardware.com/news/intel-arc-alchemist-release-date-specs-pricing-all-we-know"/>
+        <updated>2022-09-27T17:36:10.000Z</updated>
+        <summary type="html"><![CDATA[Intel's Arc Alchemist will be the company's first 'true' dedicated graphics card in over two decades, sporting a new architecture and vastly improved features and performance for Intel GPUs. Here's everything we know.]]></summary>
+        <author>
+            <name>Tomshardware</name>
         </author>
     </entry>
     <entry>
@@ -18151,16 +18230,6 @@ The whole setup hinges on having the Discord mobile app. First, you'll need to l
         <summary type="html"><![CDATA[Want to try the features of Fedora 37 like GNOME 43 right now? You can upgrade to Fedora 37 beta. Here's how.]]></summary>
         <author>
             <name>Abhishek Prakash</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rare hexagonal diamond formed by crash of dwarf planet and asteroid, scientists believe]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/14/rare_hexagonal_diamond_from_outer/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/14/rare_hexagonal_diamond_from_outer/"/>
-        <updated>2022-09-14T06:32:07.000Z</updated>
-        <summary type="html"><![CDATA[<h4>'Lonsdaleite' is even harder than normal diamonds and its genesis shows how we might make more</h4> <p>A rare type of diamond that's even stronger than the usual form of the crystal was created when a large asteroid smashed into an ancient dwarf planet 4.5 billion years ago, researchers assert.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
