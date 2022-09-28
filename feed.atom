@@ -2,10 +2,59 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-27T23:32:12.690Z</updated>
+    <updated>2022-09-28T02:34:10.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel's Unannounced 34-Core Raptor Lake CPUs Displayed on Wafer]]></title>
+        <id>hJYwvo6yZRvtqqtt5bjHii</id>
+        <link href="https://www.tomshardware.com/news/intels-unannounced-34-core-raptor-lake-cpus-displayed-on-wafer"/>
+        <updated>2022-09-28T02:12:37.000Z</updated>
+        <summary type="html"><![CDATA[We spotted a wafer packed with dies for an unannounced 34-Core Raptor Lake CPU at the company's Innovation event.]]></summary>
+        <author>
+            <name>palcorn@outlook.com (Paul Alcorn)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD was right about chiplets, Intel's Gelsinger all but says]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/28/intel_chiplets_advanced_packaging/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/28/intel_chiplets_advanced_packaging/"/>
+        <updated>2022-09-28T01:09:19.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Even Gordon Moore saw it coming, admits CEO</h4> <p>While some have given up on Moore’s Law, Intel CEO Pat Gelsinger clearly hasn’t. “For decades now, I’ve been in the debate: is Moore’s Law dead? And the answer is no,” he said, during his keynote at the Intel Innovation event this week.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sophos fixes critical firewall hole exploited by miscreants]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/28/sophos_firewall_code_injection/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/28/sophos_firewall_code_injection/"/>
+        <updated>2022-09-28T00:35:37.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Code-injection bug in your network security... mmm, yum yum</h4> <p>A critical code-injection vulnerability in Sophos Firewall has been fixed — but not before miscreants found and exploited the bug.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[François Marier: Upgrading from chan_sip to res_pjsip in Asterisk 18]]></title>
+        <id>https://feeding.cloud.geek.nz/posts/upgrading-from-chan_sip-to-res_pjsip-asterisk-18/</id>
+        <link href="https://feeding.cloud.geek.nz/posts/upgrading-from-chan_sip-to-res_pjsip-asterisk-18/"/>
+        <updated>2022-09-27T23:30:00.000Z</updated>
+        <summary type="html"><![CDATA[After upgrading to Ubuntu Jammy and
+Asterisk 18.10, I saw the following messages in
+my logs:
+WARNING[360166]: loader.c:2487 in load_modules: Module 'chan_sip' has been loaded but was deprecated in Asterisk version 17 and will be removed in Asterisk version 21.
+WARNING[360174]: chan_sip.c:35468 in deprecation_notice: chan_sip has no official maintainer and is deprecated.  Migration to
+WARNING[360174]: chan_sip.c:35469 in deprecation_notice: chan_pjsip is recommended.  See guides at the Asterisk Wiki:
+WARNING[360174]: chan_sip.c:35470 in deprecation_notice: https://wiki.asterisk.org/wiki/display/AST/Migrating+from+chan_sip+to+res_pjsip
+WARNING[360174]: chan_sip.c:35471 in deprecation_notice: https://wiki.asterisk.org/wiki/display/AST/Configuring+res_pjsip
+
+and so I decided it was time to sto…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hurricane Ian blows NASA Artemis Moon launch into October or November]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/27/hurricane_ian_artemis_nasa/</id>
@@ -14,6 +63,16 @@
         <summary type="html"><![CDATA[<h4>Fun fact: The mission is named after the Latin word for 'delayed'</h4> <p>NASA's Moon-ward Space Launch System (SLS) rocket will not be blasting off from Earth until late October at the earliest, after the vehicle was rolled back to its hangar to shelter from an incoming hurricane.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Unusual Ebola strain kills 23 in Uganda; no vaccines, treatments available]]></title>
+        <id>https://arstechnica.com/?p=1885102</id>
+        <link href="https://arstechnica.com/?p=1885102"/>
+        <updated>2022-09-27T22:51:01.000Z</updated>
+        <summary type="html"><![CDATA[The Sudan species of Ebolavirus has a fatality rate between 41% and 100%.]]></summary>
+        <author>
+            <name>Beth Mole</name>
         </author>
     </entry>
     <entry>
@@ -17681,404 +17740,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[The Raptor Lake dies pictured are nearly 25% larger than the biggest Alder Lake dies. Both architectures are built on chips fabricated on the Intel 7 process.]]></summary>
         <author>
             <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA reshuffles dates for Artemis I launch attempt]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/14/nasa_artemis_new_launch_date/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/14/nasa_artemis_new_launch_date/"/>
-        <updated>2022-09-14T14:30:11.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Could it be third time lucky? The odds are not in space agency's favor</h4> <p>NASA has once again pushed back the launch of the Artemis I mission to send the SLS rocket and Orion capsule beyond the Moon.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marvell Unveils LiquidSecurity 2 HSM: Up to 1,000,000 AES Ops/s]]></title>
-        <id>iUwFmgrkRYAudSK5yvv9yE</id>
-        <link href="https://www.tomshardware.com/news/marvell-unveils-liquidsecurity-2-hsm-up-to-1000000-aes-opss"/>
-        <updated>2022-09-14T14:21:41.000Z</updated>
-        <summary type="html"><![CDATA[Marvell's new hardware security module can protect any server with (almost) unbreakable encryption.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Climate change prevention plans 'way off track', says UN]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/14/climate_change_prevention_plans_way/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/14/climate_change_prevention_plans_way/"/>
-        <updated>2022-09-14T14:15:31.000Z</updated>
-        <summary type="html"><![CDATA[<h4>To stay under threshold of 1.5°C of warming, the world needs to work seven times harder, says the UN's WMO</h4> <p>The world quickly undid emissions reductions that were an unintended perk of the COVID-19 pandemic, leading a multi-organizational UN group to issue a bleak warning: We need to be working seven times harder to meet climate change goals.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arduino's IDE Reaches 2.0 Milestone]]></title>
-        <id>ijdbdAhnWApCC8HqLZGd</id>
-        <link href="https://www.tomshardware.com/news/arduino-ide-2-released"/>
-        <updated>2022-09-14T14:08:33.000Z</updated>
-        <summary type="html"><![CDATA[Arduino has announced that its development environment has reached version 2.0.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bramble: The Mountain King]]></title>
-        <id>https://www.fz.se/artikel/291452</id>
-        <link href="https://www.fz.se/artikel/291452-bramble-the-mountain-king"/>
-        <updated>2022-09-14T14:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Det svenska sagospelet tolkar vår folktro med både ljus och mörker.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel's XeSS tested in depth vs DLSS - the Digital Foundry technology review]]></title>
-        <id>https://www.eurogamer.net/digitalfoundry-2022-intels-xess-tested-in-depth-vs-dlss-the-digital-foundry-technology-review</id>
-        <link href="https://www.eurogamer.net/digitalfoundry-2022-intels-xess-tested-in-depth-vs-dlss-the-digital-foundry-technology-review"/>
-        <updated>2022-09-14T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Intel's debut Arc graphics cards are arriving soon and ahead of the launch, Digital Foundry was granted exclusive access to XeSS - the firm's promising upscaling technology, based on machine learning. This test - and indeed our recent interview with Intel - came about in the wake of our AMD FSR 2.0 vs DLSS vs native rendering analysis, where we devised a gauntlet of image quality scenarios to really put these new technologies through their paces. We suggested to Intel that we'd love to put XeSS to the test in a similar way and the company answered the challenge, providing us with pre-release builds and a top-of-the-line Arc A770 GPU to test them on.
-
-
-XeSS is exciting stuff. It's what I consider to be a second generation upscaler. First-gen efforts, such as checkerboarding, DLSS 1.0 and …]]></summary>
-        <author>
-            <name>Alex Battaglia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's better: impossible geometry, or games playing the music CD left in your drive?]]></title>
-        <id>https://www.rockpapershotgun.com/whats-better-impossible-geometry-or-games-playing-the-music-cd-left-in-your-drive</id>
-        <link href="https://www.rockpapershotgun.com/whats-better-impossible-geometry-or-games-playing-the-music-cd-left-in-your-drive"/>
-        <updated>2022-09-14T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Last time, you decided that physics freakouts are better than beautiful food. As much as I admire delicious dishes, I am very glad that something that's wholly unintentional (and often unwanted by developers) is still in the running. Games are weird and daft magic tracks, and that's great. This week, you must choose between oddity and serendipity. What's better: impossible geometry, or games playing the music CD left in your drive?
-Read more]]></summary>
-        <author>
-            <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PS VR 2 impressions round-up: "It really is a huge step forward for PSVR"]]></title>
-        <id>https://www.vg247.com/ps-vr-2-impressions-round-up-it-really-is-a-huge-step-forward-for-psvr</id>
-        <link href="https://www.vg247.com/ps-vr-2-impressions-round-up-it-really-is-a-huge-step-forward-for-psvr"/>
-        <updated>2022-09-14T13:58:36.000Z</updated>
-        <summary type="html"><![CDATA[Early impressions for the PSVR 2 are out on the internet, thanks to Sony inviting a whole bunch of press and content creators to try out its next big step into the virtual reality battlefield. With goggles on and controllers in hand, several attendees travelled and wrote up their impressions, which we have decided to compile in one place here.
-As such, if you’re curious about whether or not the PSVR 2 is making enough progress beyond its previous iteration, you can find a collection of diverse impressions below. Of course, we’ve credited and linked back to each piece, and we highly recommend you jump over and read them all if you’d like to know more!
-First up, we have Ian Higton’s excellent write up of their impressions over at Eurogamer. In their extended impressions piece, they cover not only their thoughts on the hardware itself, but also VR titles like Horizon Call of the Mountain, Resident Evil Village, and the enhanced edition of Star Wars: Tales from the Galaxy’s Edge. They kick off their piece with: “Wow. Wow, wow, wow. That's the word that keeps springing to mind when I try to sum up my time with PlayStation VR 2. As a fervent fan of VR for many years now, it's safe to say that my first hands-on experience with Sony's upcoming headset wowed my VR-loving socks off.”
- Read more]]></summary>
-        <author>
-            <name>Connor Makar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alleged Legion GeForce RTX 4090 Pictured as More RTX 40-Series Specs Emerge]]></title>
-        <id>tRsCayRBDxPZVb8UXQbddE</id>
-        <link href="https://www.tomshardware.com/news/legion-geforce-rtx-4090-allegedly-pictured"/>
-        <updated>2022-09-14T13:52:40.000Z</updated>
-        <summary type="html"><![CDATA[Lenovo's Legion allegedly comes with a GeForce RTX 4090 with a massive triple-fan cooling system and no NVLink. Elsewhere, more RTX 40-series specifications have been "leaked."]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Assassin's Creed Mirage proves that less is more]]></title>
-        <id>https://www.vg247.com/assassins-creed-mirage-proves-that-less-is-more</id>
-        <link href="https://www.vg247.com/assassins-creed-mirage-proves-that-less-is-more"/>
-        <updated>2022-09-14T13:48:56.000Z</updated>
-        <summary type="html"><![CDATA[Assassin’s Creed Mirage is pitched as almost a quasi-remake of the first Assassin’s Creed game: it takes place in a similar region, and will modernise much of its gameplay mechanics.
-However, Mirage is a different beast, and by focusing on a single city and taking into account all the refinement and iteration that the series has enjoyed since 2007, it may end up playing more like a much younger and frankly criminally underappreciated entry in the series: 2014’s Unity, as I argue in the video above. 
-Mirage occurs a couple of decades earlier than the events of Valhalla, and a couple of centuries earlier than the first game, but will essentially bridge the gap between the ancient world trilogy of sprawling RPGs that we’ve been enjoying since Origins, and the action-adventure games of the series’ past: bringing the franchise full circle, and providing a neat stepping stone from the post-Roman world of Eivor, and the Levantine world of Altaïr. 
- Read more]]></summary>
-        <author>
-            <name>Jim Trinca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's a first look at Super Sonic in Sonic Frontiers]]></title>
-        <id>https://www.eurogamer.net/heres-a-first-look-at-super-sonic-in-sonic-frontiers</id>
-        <link href="https://www.eurogamer.net/heres-a-first-look-at-super-sonic-in-sonic-frontiers"/>
-        <updated>2022-09-14T13:47:12.000Z</updated>
-        <summary type="html"><![CDATA[A new trailer for Sonic Frontiers has been released at Tokyo Game Show, offering a first look at Super Sonic.
-
-
-"Harness the power of the emeralds," teases the trailer, before showing Sonic acquiring an emerald atop one of the colossal robots and turning into his glowing yellow super form.
-
-
-He then launches head first through the air into the boss, followed by the game's logo.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heroes of Might and Magic II & III open source game engines get new releases]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/heroes-of-might-and-magic-ii-a-iii-open-source-game-engines-get-new-releases/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/heroes-of-might-and-magic-ii-a-iii-open-source-game-engines-get-new-releases/"/>
-        <updated>2022-09-14T13:42:36.000Z</updated>
-        <summary type="html"><![CDATA[This is a bit of a double event. Not only has the Heroes of Might and Magic II game engine fheroes2 seen a new release, but a surprise update of VCMI for Heroes of Might and Magic III was also released.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skrällen! Judgment och Lost Judgment släpps på pc – idag!]]></title>
-        <id>https://www.fz.se/artikel/291456</id>
-        <link href="https://www.fz.se/artikel/291456-skrallen-judgment-och-lost-judgment-slapps-pa-pc-idag"/>
-        <updated>2022-09-14T13:39:46.000Z</updated>
-        <summary type="html"><![CDATA[En märklig konflikt påstås ha hindrat tidigare släpp.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's analyse that Legend of Zelda: Tears of the Kingdom trailer]]></title>
-        <id>https://www.eurogamer.net/lets-analyse-that-legend-of-zelda-tears-of-the-kingdom-trailer</id>
-        <link href="https://www.eurogamer.net/lets-analyse-that-legend-of-zelda-tears-of-the-kingdom-trailer"/>
-        <updated>2022-09-14T13:30:57.000Z</updated>
-        <summary type="html"><![CDATA[Yesterday, we were all treated to a new trailer announcing the name for Nintendo's upcoming Legend of Zelda sequel. 
-Along with finally getting its name revealed - Tears of the Kingdom - we also got some new footage. And where there is new footage, you can be sure that Eurogamer's Ed Nightingale and I will not be far behind with our theories about what it all means for the next instalment in the Zelda series.
-So, we have teamed up to bring you our thoughts on this new trailer below - and to discuss the little things you  may have missed on a first pass. Without further ado, let's get stuck in.
- Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[systemd's mkosi-initrd Talked Up As Better Alternative To Current Initrd Handling]]></title>
-        <id>https://www.phoronix.com/news/LPC-2022-systemd-mkosi-initrd</id>
-        <link href="https://www.phoronix.com/news/LPC-2022-systemd-mkosi-initrd"/>
-        <updated>2022-09-14T13:30:25.000Z</updated>
-        <summary type="html"><![CDATA[Red Hat engineer and systemd developer Zbigniew Jędrzejewski-Szmek presented on Monday at the Linux Plumbers Conference on a new design for inital RAM disks (initrd) making use of the new systemd mkosi-initrd project...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google fined $4b after Euro court snips 5% off earlier price]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/14/european_court_fines_google_android/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/14/european_court_fines_google_android/"/>
-        <updated>2022-09-14T13:30:10.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Search giant’s appeal lands flat as fine imposed for anticompetitive practice in Android search</h4> <p>The European General Court has imposed a €4.125 billion (about $4.13 billion) fine on Google, largely upholding an earlier ruling on the ad-tech giant's anticompetitive practices in mobile search.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Halo developer 343 reportedly loses engine lead]]></title>
-        <id>https://www.eurogamer.net/halo-developer-343-reportedly-loses-engine-lead</id>
-        <link href="https://www.eurogamer.net/halo-developer-343-reportedly-loses-engine-lead"/>
-        <updated>2022-09-14T13:27:56.000Z</updated>
-        <summary type="html"><![CDATA[343 Industries, the developer behind Xbox's blockbuster Halo series, has reportedly lost another high-profile figure.
-
-
-David Berger, who served as lead developer on Infinite's ambitious Slipspace Engine technology, will leave the studio - according to reports by Windows Central and Lords of Gaming.
-
-
-News of the departure comes just days after 343's boss Bonnie Ross announced her own exit from the company after 15 years, to attend to a family medical issue. 
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veckans fråga: Vad är viktigast i en stationär arbetsdator?]]></title>
-        <id>https://www.sweclockers.com/artikel/34899</id>
-        <link href="https://www.sweclockers.com/artikel/34899-veckans-fraga-vad-ar-viktigast-i-en-stationar-arbetsdator"/>
-        <updated>2022-09-14T13:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Prestanda i all ära, men det finns fler faktorer att ta hänsyn till när det är dags att införskaffa en workstation. Hur prioriterar du?]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Assurance Fraud]]></title>
-        <id>https://tapas.io/episode/2640963</id>
-        <link href="https://tapas.io/episode/2640963"/>
-        <updated>2022-09-14T13:03:51.000Z</updated>
-        <author>
-            <name>J. L. Westover</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oddjob: GoldenEye remaster’s Switch/Xbox dual-platform release is somehow the best of no worlds]]></title>
-        <id>https://www.vg247.com/goldeneye-remasters-switch-xbox-bad</id>
-        <link href="https://www.vg247.com/goldeneye-remasters-switch-xbox-bad"/>
-        <updated>2022-09-14T13:02:49.000Z</updated>
-        <summary type="html"><![CDATA[What a thrill it’s been to see GoldenEye 007 finally revealed to be making a return on Nintendo Switch and Xbox. Sure, it’s been rumored for a long time, but it was still one of the most electrifying announcements on a day that was, thanks to a Nintendo Direct and State of Play, pretty packed full of ‘em.
-
-It was also an announcement that then gave way to questions and even a twinge of disappointment, as an Xbox version was confirmed – but it just wasn’t what we all thought it would be.
-
-Let’s break it down. GoldenEye is coming to the ‘Nintendo Switch Online’ subscription service as one of many Nintendo 64 titles available on that service. It’s a standard NSO release, which means it’s playable so long as you have the right tier of NSO subscription, and is essentially an emulated N64 game rip, given tweaks and adjustments by Nintendo in order to make it run on Switch, and to handle extra features like online play.
- Read more]]></summary>
-        <author>
-            <name>Alex Donaldson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://shencomix.tumblr.com/post/695374196448083968</id>
-        <link href="https://shencomix.tumblr.com/post/695374196448083968"/>
-        <updated>2022-09-14T13:01:51.000Z</updated>
-        <author>
-            <name>Shen Comix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US, Mexico to align chip and lithium supply chains to amp EV production]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/14/us_mexico_chips_batteries/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/14/us_mexico_chips_batteries/"/>
-        <updated>2022-09-14T13:00:10.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Trump wanted a wall, Biden wants batteries</h4> <p>The US and Mexico are reportedly joining forces on supply chains for electric vehicle production in a mutual aid pact.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Systemkraven för CoD: Modern Warfare 2 är snälla]]></title>
-        <id>https://www.fz.se/artikel/291455</id>
-        <link href="https://www.fz.se/artikel/291455-systemkraven-for-cod-modern-warfare-2-ar-snalla"/>
-        <updated>2022-09-14T12:38:10.000Z</updated>
-        <summary type="html"><![CDATA[Betan går att spela på lastgammal hårdvara.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IBM to book $5.9b non-cash charge to transfer its pension liabilities]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/14/ibm_booking_59bn_noncash_charge/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/14/ibm_booking_59bn_noncash_charge/"/>
-        <updated>2022-09-14T12:30:12.000Z</updated>
-        <summary type="html"><![CDATA[<h4>100k staffers and their beneficiaries to be looked after by Prudential Insurance, Metropolitan Life Insurance</h4> <p>IBM will book a one-off non-cash pre-tax pension settlement charge of $5.9 billion in its calendar Q3 after handing pension duties to two life insurance businesses.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU-domstol fastställer Googles rekordbot på 4,1 miljarder euro]]></title>
-        <id>https://www.sweclockers.com/artikel/34925</id>
-        <link href="https://www.sweclockers.com/artikel/34925-eu-domstol-faststaller-googles-rekordbot-pa-41-miljarder-euro"/>
-        <updated>2022-09-14T12:16:26.000Z</updated>
-        <summary type="html"><![CDATA[EU-domstolen går i linje med EU-kommissionens beslut att Google ska böta över 4 miljarder euro för konkurrensbrott gällande Android.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU-domstol fastställer Googles rekordbot på 4,1 miljarder]]></title>
-        <id>https://www.sweclockers.com/artikel/34925</id>
-        <link href="https://www.sweclockers.com/artikel/34925-eu-domstol-faststaller-googles-rekordbot-pa-41-miljarder"/>
-        <updated>2022-09-14T12:16:26.000Z</updated>
-        <summary type="html"><![CDATA[EU-domstolen går i linje med EU-kommissionens beslut att Google ska böta över 4 miljarder euro för konkurrensbrott gällande Android.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kazuma Kiryu goes all John Wick in Yakuza sidestory Like A Dragon Gaiden]]></title>
-        <id>https://www.rockpapershotgun.com/kazuma-kiryu-goes-all-john-wick-in-yakuza-sidestory-like-a-dragon-gaiden</id>
-        <link href="https://www.rockpapershotgun.com/kazuma-kiryu-goes-all-john-wick-in-yakuza-sidestory-like-a-dragon-gaiden"/>
-        <updated>2022-09-14T12:15:09.000Z</updated>
-        <summary type="html"><![CDATA[Longtime Yakuza series protagonist Kazuma Kiryu is back in force, starring in two freshly announced games. I’ve already reported on Like A Dragon 8, which stars Kiryu and new series main character Ichiban Kasuga, but devs Ryu Go Gotoku Studio also revealed that another game is coming in 2023. It'll explain what happened to Kiryu in his temporary absence from the series and is called, and I’m not making this up, Like A Dragon Gaiden: The Man Who Erased His Name. To prove it to you, you can watch the trailer below. 
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Kernel Live Patching Working Fairly Well For Millions Of Meta Servers]]></title>
-        <id>https://www.phoronix.com/news/Meta-Linux-Kernel-Live-Patching</id>
-        <link href="https://www.phoronix.com/news/Meta-Linux-Kernel-Live-Patching"/>
-        <updated>2022-09-14T12:02:32.000Z</updated>
-        <summary type="html"><![CDATA[Meta/Facebook has turned to kernel live-patching (KLP) with Red Hat's Kpatch the the Linux kernel livepatch infrastructure to handle live updates to "several million servers". Meta engineers shared during this week's Linux Plumbers Conference around the successes they've had with it as well as troubles encountered along the way...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asus ZenScreen OLED MQ16AH Portable Monitor Review: Great Color, High Price]]></title>
-        <id>DQqkkzc69EpLuJDvn3HAXN</id>
-        <link href="https://www.tomshardware.com/reviews/asus-zenscreen-oled-mq16ah-portable-monitor-review-great-color-high-price"/>
-        <updated>2022-09-14T12:00:42.000Z</updated>
-        <summary type="html"><![CDATA[The ZenScreen OLED tops the charts in key performance categories.]]></summary>
-        <author>
-            <name>brandon.hill@futurenet.com (Brandon Hill)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayStation VR2 is about to breathe new life into virtual reality gaming]]></title>
-        <id>https://www.eurogamer.net/playstation-vr2-is-about-to-breathe-new-life-into-virtual-reality-gaming</id>
-        <link href="https://www.eurogamer.net/playstation-vr2-is-about-to-breathe-new-life-into-virtual-reality-gaming"/>
-        <updated>2022-09-14T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Wow. Wow, wow, wow. That's the word that keeps springing to mind when I try to sum up my time with PlayStation VR2. As a fervent fan of VR for many years now, it's safe to say that my first hands-on experience with Sony's upcoming headset wowed my VR-loving socks off. This sleek and stylish unit was all I could have wanted for an upgraded PSVR headset and much, much more.
-In terms of technological and visual quality, this feels like one of the more memorable generational console leaps. Experiencing the difference in visuals between the PSVR1 and the PSVR2 brought back memories of graduating to the sparkly, sharp, high-definition games of a PS3 after spending years playing games on the PS2 in standard definition.
-Even the visuals afforded by my beefy PC VR rig seemed to pale in comparison to some of the wonders I witnessed whilst inside the PSVR2 and you can watch me breathlessly gush over it in the video below. There's around 40 minutes of PSVR2 information and impressions in there, including detailed close-ups of the kit, descriptions on how to calibrate the headset for eye-tracking and room-scale VR and beautiful 4K footage of the four game demos I played; Horizon Call of the Mountain, Resident Evil Village, The Walking Dead: Saints & Sinners - Chapter 2: Retribution and Star Wars: Tales from the Galaxy's Edge - Enhanced Edition  
- Read more]]></summary>
-        <author>
-            <name>Ian Higton</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exclusive new Mask Of The Rose trailer keeps delicious friends weird and potential lovers weirder]]></title>
-        <id>https://www.rockpapershotgun.com/exclusive-new-mask-of-the-rose-gameplay-trailer</id>
-        <link href="https://www.rockpapershotgun.com/exclusive-new-mask-of-the-rose-gameplay-trailer"/>
-        <updated>2022-09-14T12:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The nice team of mostly humans and some large bats at Failbetter Games have given us an exclusive butcher's at a new gameplay trailer for their slightly murdery, alt-history goth London dating sim Mask Of The Rose. It shows off the weird, wonderful and complex ways you can look for love in all the wrong places in Fallen London. Although, as you can see in the trailer, you can also look for friendship, attraction, romance, or a combination of the latter two. Plus: mystery! Who isn't intrigued by a romance game where someone utters the immortal phrase, "There's been a murder"?
-Read more]]></summary>
-        <author>
-            <name>Alice Bell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roadwarden, one of the best modern text-adventures around is out now]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/roadwarden-one-of-the-best-modern-text-adventures-around-is-out-now/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/roadwarden-one-of-the-best-modern-text-adventures-around-is-out-now/"/>
-        <updated>2022-09-14T11:59:59.000Z</updated>
-        <summary type="html"><![CDATA[For anyone who considers themselves even a remote fan of text-adventures, you should definitely take a look at Roadwarden.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's why Like A Dragon: Ishin! is a big deal]]></title>
-        <id>https://www.eurogamer.net/heres-why-like-a-dragon-ishin-is-a-big-deal</id>
-        <link href="https://www.eurogamer.net/heres-why-like-a-dragon-ishin-is-a-big-deal"/>
-        <updated>2022-09-14T11:48:28.000Z</updated>
-        <summary type="html"><![CDATA[Yakuza fans have it pretty good right now. Like a Dragon 8 and a Kiryu spin-off just got announced, but most importantly of all, Ishin is getting not just a localisation, but a full remake and worldwide release.
-
-For non-Yakuza fans, it looks a bit confusing. Why are we so excited about an eight year old PS3/4 game being playable in English?
-
-To explain, we need to look back on the Yakuza series as a whole.
- 
-Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sampling BMW’s greatest hits shows what’s missing from its modern cars]]></title>
-        <id>https://arstechnica.com/?p=1880534</id>
-        <link href="https://arstechnica.com/?p=1880534"/>
-        <updated>2022-09-14T11:45:27.000Z</updated>
-        <summary type="html"><![CDATA[Driving M cars from 2001, 2013, and 2022 shows some lessons for the future.]]></summary>
-        <author>
-            <name>Jonathan M. Gitlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sega unveil new Yakuza game Like A Dragon 8]]></title>
-        <id>https://www.rockpapershotgun.com/sega-unveil-new-yakuza-game-like-a-dragon-8</id>
-        <link href="https://www.rockpapershotgun.com/sega-unveil-new-yakuza-game-like-a-dragon-8"/>
-        <updated>2022-09-14T11:44:36.000Z</updated>
-        <summary type="html"><![CDATA[Yakuza: Like A Dragon is back, but it’s dropping the Yakuza part. Oh, and Kazuma Kiryu returns too. Surprise! Like A Dragon 8 is Kiryu’s first time as a protagonist in the revamped series though, which is sticking firmly to the RPG genre for this instalment. It’s scheduled for release in 2024. Check out the teaser trailer and Kiryu’s new Bieber-esque hairstyle below.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
         </author>
     </entry>
 </feed>
