@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-28T20:28:35.610Z</updated>
+    <updated>2022-09-28T21:24:32.416Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Razer joins the “handheld streaming console” wars, which are now a thing somehow]]></title>
+        <id>https://arstechnica.com/?p=1885434</id>
+        <link href="https://arstechnica.com/?p=1885434"/>
+        <updated>2022-09-28T20:45:34.000Z</updated>
+        <summary type="html"><![CDATA[Android-based Razer Edge 5G is based on last year's Qualcomm reference design.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Elgato Wave:1 is a great-sounding, easy-going USB mic - and now it's £50]]></title>
+        <id>https://www.rockpapershotgun.com/the-elgato-wave1-is-a-great-sounding-easy-going-usb-mic-and-now-its-50</id>
+        <link href="https://www.rockpapershotgun.com/the-elgato-wave1-is-a-great-sounding-easy-going-usb-mic-and-now-its-50"/>
+        <updated>2022-09-28T20:44:00.000Z</updated>
+        <summary type="html"><![CDATA[The Elgato Wave:1 is an outstanding USB microphone, offering great sound quality, powerful software and plug-and-play simplicity. It normally costs around £90, its UK RRP, but today it's dropped to just £49.99 on Amazon, making it the perfect time to upgrade your vocals. 
+Read more]]></summary>
+        <author>
+            <name>Will Judd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Players new to Overwatch 2 will have to grind 100 matches to unlock original characters]]></title>
+        <id>https://www.vg247.com/new-overwatch-2-players-have-to-grind-100-matches-to-unlock-original-characters</id>
+        <link href="https://www.vg247.com/new-overwatch-2-players-have-to-grind-100-matches-to-unlock-original-characters"/>
+        <updated>2022-09-28T20:37:25.000Z</updated>
+        <summary type="html"><![CDATA[If you have never played Overwatch, and plan on jumping into Overwatch 2, you will have some work to do if you want to add heroes from the original game to your roster.
+In a blog post on the Overwatch website, Blizzard revealed new players will need to complete around 100 matches in order to unlock characters from the original game.
+According to Blizzard, it is part of what it's calling the First Time User Experience (FTUE), which is an introduction to Overwatch 2 specifically designed for brand-new players.
+ Read more]]></summary>
+        <author>
+            <name>Stephany Nunneley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Today’s best deals: Apple MacBook Air, Sony and LG 4K TVs, Nintendo Switch, and more]]></title>
+        <id>https://arstechnica.com/?p=1884969</id>
+        <link href="https://arstechnica.com/?p=1884969"/>
+        <updated>2022-09-28T20:35:38.000Z</updated>
+        <summary type="html"><![CDATA[Dealmaster also has PC components, charging gear, and gift card deals.]]></summary>
+        <author>
+            <name>Corey Gaskin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kingston's blazing-fast KC3000 1TB NVMe SSD is down to £94 at CCL]]></title>
+        <id>https://www.rockpapershotgun.com/kingstons-blazing-fast-kc3000-1tb-nvme-ssd-is-down-to-94-at-ccl</id>
+        <link href="https://www.rockpapershotgun.com/kingstons-blazing-fast-kc3000-1tb-nvme-ssd-is-down-to-94-at-ccl"/>
+        <updated>2022-09-28T20:32:15.000Z</updated>
+        <summary type="html"><![CDATA[Kingston are one of the few companies that make their own SSDs rather than rebadging someone else's, and their latest content-creation focused drive is the KC3000. This PCIe 4.0 SSD offers sequential reads up to 7000MB/s and sequential writes up to 6000MB/s, making it one of the very fastest drives available, and today it's also one of the cheapest. That's because CCL have discounted the drive to £94.27, some £75 below its UK RRP and a terrific deal for a drive with these high-end specs.
+Read more]]></summary>
+        <author>
+            <name>Will Judd</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The web's cruising at 13 million new and nefarious domain names a month]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/28/akamai_malicious_domains/</id>
@@ -18413,151 +18468,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Ever since OpenPrinting took over CUPS upstream from Apple, this widely-used, open-source print server has been back to having a vibrant future. CUPS development ceased at Apple and there wasn't much going on until last year when CUPS founder Michael Sweet and OpenPrinting provided new life to the project...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mesa gets a big CS:GO speedup, plus upcoming AMD RADV performance boost]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/mesa-gets-a-big-csgo-speedup-plus-upcoming-amd-radv-performance-boost/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/mesa-gets-a-big-csgo-speedup-plus-upcoming-amd-radv-performance-boost/"/>
-        <updated>2022-09-15T09:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Mesa, the open source driver set for Linux, has two rather interesting bits of work done recently that gamers might want to keep an eye on.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Broken Sword 2 gets a big upgrade along with Steam Deck support]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/broken-sword-2-gets-a-big-upgrade-along-with-steam-deck-support/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/broken-sword-2-gets-a-big-upgrade-along-with-steam-deck-support/"/>
-        <updated>2022-09-15T09:07:56.000Z</updated>
-        <summary type="html"><![CDATA[The absolute classic that is Broken Sword 2 from Revolution Software just got a big surprise update, which should make it work a lot better in modern systems and the Steam Deck too!]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geforce RTX 4000-serien uppges legat på lager i månader]]></title>
-        <id>https://www.sweclockers.com/artikel/34927</id>
-        <link href="https://www.sweclockers.com/artikel/34927-geforce-rtx-4000-serien-uppges-legat-pa-lager-i-manader"/>
-        <updated>2022-09-15T09:03:31.000Z</updated>
-        <summary type="html"><![CDATA[Enligt källor till Tweaktown har Nvidia lagt bland annat Geforce RTX 4090 och RTX 4080 på hög i lagerlokaler sedan flera månader tillbaka.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ravenbound är svenskutvecklad fantasy-action]]></title>
-        <id>https://www.fz.se/artikel/291464</id>
-        <link href="https://www.fz.se/artikel/291464-ravenbound-ar-svenskutvecklad-fantasy-action"/>
-        <updated>2022-09-15T09:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Från skaparna av Generation Zero och Second Extinction.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ravenbound är svenskutveklad fantasy-action]]></title>
-        <id>https://www.fz.se/artikel/291464</id>
-        <link href="https://www.fz.se/artikel/291464-ravenbound-ar-svenskutveklad-fantasy-action"/>
-        <updated>2022-09-15T09:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Från skaparna av Generation Zero och Second Extinction.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cooler Master’s HAF 700 Berserker Case Hands-On: Huge, With Lots of Cooling and Customization Options]]></title>
-        <id>7VXPyju4zpWjVv8bRmj7DM</id>
-        <link href="https://www.tomshardware.com/features/coolermaster-haf700-berserker"/>
-        <updated>2022-09-15T09:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Cooler Master’s HAF 700 Berserker is an extremely large, high-airflow case that supports a wide variety of internal customization.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hearthstone Access: the story of the modder opening up Blizzard's game for more players]]></title>
-        <id>https://www.eurogamer.net/hearthstone-access-the-story-of-the-modder-opening-up-blizzards-game-for-more-players</id>
-        <link href="https://www.eurogamer.net/hearthstone-access-the-story-of-the-modder-opening-up-blizzards-game-for-more-players"/>
-        <updated>2022-09-15T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Accessibility in video games has been a topic of growing popularity over the past few years. With both indie developers and mainstream companies bringing new standards of accessibility to the forefront of the gaming industry, there is steady change towards a more inclusive environment for all kinds of players. However, one group that has often been neglected is the blind and visually impaired gaming community. 
-
-
-Creating games that are accessible to blind players often requires developers to work their way from the ground up, as with The Last of Us Part 2, or build upon what they have already created, in the way that Sea of Thieves handled its accessibility options. 
-
-
-
-Sometimes, however, players take matters into their own hands. This is the story of Hearthstone Access, the community around it and how it was brought into existence by the work of just one individual, known only as GuideDev.
- 
-Read more]]></summary>
-        <author>
-            <name>Haroon Sultan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Working On Energy Aware Scheduling For x86 Hybrid CPUs]]></title>
-        <id>https://www.phoronix.com/news/Intel-x86-EAS-To-Come</id>
-        <link href="https://www.phoronix.com/news/Intel-x86-EAS-To-Come"/>
-        <updated>2022-09-15T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[For a number of years Arm CPUs on the mainline Linux kernel have supported Energy Aware Scheduling (EAS) as a means of providing the kernel's scheduler with the information to influence its scheduling decisions based on the estimated energy consumed by the CPU cores. EAS employs an energy model for helping to place tasks between the big.LITTLE cores for optimal energy efficiency and a minimal impact on throughput. Intel has been working to eventually support Energy Aware Scheduling on their x86 hybrid CPUs too...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox Tokyo Game Show 2022 - Where to watch the stream]]></title>
-        <id>https://www.vg247.com/xbox-tokyo-game-show-2022-where-to-watch-the-stream</id>
-        <link href="https://www.vg247.com/xbox-tokyo-game-show-2022-where-to-watch-the-stream"/>
-        <updated>2022-09-15T08:55:42.000Z</updated>
-        <summary type="html"><![CDATA[It's been a rather hectic week of streams and reveals, with the Nintendo Direct and Sony's State of Play being streamed on the same day. Now, it's time for the Tokyo Game Show with even more exciting announcements, and already, it looks like 2023 is shaping up to be a good year for games.
-As a part of the Tokyo Game Show, which runs from September 15 to September 19, Xbox will have its own livestream. There's already been a lot to hear from Microsoft this past year, having hosted its own rather lively Xbox and Bethesda Games Showcase in June this year. We got a long, hard look at Starfield and its thousands of planets, plus a further look at exciting titles like Redfall, Forza Motorsport, and Minecraft Legends.
-The show goes on, though, and we can anticipate even more news from Xbox today!
- Read more]]></summary>
-        <author>
-            <name>Kelsey Raynor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tinyBuild and Versus Evil team up for a games bundle]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/tinybuild-and-versus-evil-team-up-for-a-games-bundle/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/tinybuild-and-versus-evil-team-up-for-a-games-bundle/"/>
-        <updated>2022-09-15T08:54:43.000Z</updated>
-        <summary type="html"><![CDATA[tinyBuild and Versus Evil have teamed up for a bundle of games available via Humble Bundle so here's what to expect for the Linux desktop and Steam Deck compatibility.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cemu 2.0-2 Released For This Open-Source, Linux-Supported Wii U Emulator]]></title>
-        <id>https://www.phoronix.com/news/Cemu-2.0-2-Released</id>
-        <link href="https://www.phoronix.com/news/Cemu-2.0-2-Released"/>
-        <updated>2022-09-15T08:52:38.000Z</updated>
-        <summary type="html"><![CDATA[Released last month was Cemu 2.0 as open-source software and with Linux support for this Nintendo Wii U emulator that for years has been in development but up to that point closed-source and Windows-only. Cemu 2.0 continues advancing with another bug-fixing update out today...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern Warfare 2's revamped Gunsmith goes full Tarkov]]></title>
-        <id>https://www.vg247.com/call-of-duty-modern-warfare-2-gunsmith-weapon-platforms-tarkov</id>
-        <link href="https://www.vg247.com/call-of-duty-modern-warfare-2-gunsmith-weapon-platforms-tarkov"/>
-        <updated>2022-09-15T08:41:14.000Z</updated>
-        <summary type="html"><![CDATA[Ahead of today's Call of Duty: Next multiplayer showcase event, Modern Warfare 2 developer Infinity Ward finally unveiled one of the biggest new additions in the upcoming shooter: Gunsmith 2.0. The Gunsmith system, introduced in the 2019 Modern Warfare, was one of its defining features.
-It allowed players to unlock an unprecedented number of attachments and experiment with weapon modifications to a level only seen in milsim shooters. That system has been revamped for Modern Warfare 2, and the developer explained what its goals are in a new video.
-There are two key pillars to Gunsmith 2.0, which resemble the way Escape from Tarkov handles weapon creation. The first is Weapon Platforms, which encompass all the different possible variants (SMG, DMR, AR, etc.) that are born from a single platform.
- Read more]]></summary>
-        <author>
-            <name>Sherif Saed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NHS data platform procurement delayed for a second time]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/15/nhs_data_platform_procurement_delayed/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/15/nhs_data_platform_procurement_delayed/"/>
-        <updated>2022-09-15T08:30:14.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Questions remain over Palantir's influence after consultancy role for former NHS England director revealed</h4> <p>Competition for a "Federated Data Platform" (FDP) for the NHS in England has been delayed for a second time as details emerge of how Palantir – the US spy-tech biz hotly tipped to win the £360 million ($421 million) contract – has influenced the controversial procurement.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
