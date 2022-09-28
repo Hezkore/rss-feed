@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-28T08:35:46.679Z</updated>
+    <updated>2022-09-28T09:31:18.010Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fedora Linux Disabling Mesa's H.264 / H.265 / VC1 VA-API Support Over Legal Concerns]]></title>
+        <id>https://www.phoronix.com/news/Fedora-Disable-Bad-VA-API</id>
+        <link href="https://www.phoronix.com/news/Fedora-Disable-Bad-VA-API"/>
+        <updated>2022-09-28T09:10:37.000Z</updated>
+        <summary type="html"><![CDATA[For Fedora Linux users currently making use of Mesa's VA-API support with the open-source AMD graphics driver or similar and using it to speed-up H.264, H.265, or VC1 decoding, you may soon be out of luck and will have to fall-back to either using CPU-based decoding or be relying on an unofficial/third-party Mesa build...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Deck got another Beta update focused on Steam Input and FlickStick]]></title>
+        <id>https://www.gamingonlinux.com/2022/09/steam-deck-got-another-beta-update-focused-on-steam-input-and-flickstick/</id>
+        <link href="https://www.gamingonlinux.com/2022/09/steam-deck-got-another-beta-update-focused-on-steam-input-and-flickstick/"/>
+        <updated>2022-09-28T09:08:01.000Z</updated>
+        <summary type="html"><![CDATA[Seems Valve snuck out another Steam Deck Beta update while I was asleep, this time focused on improvements to Steam Input.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Excavation of Hob's Barrow review - an adventure game with depth]]></title>
+        <id>https://www.eurogamer.net/the-excavation-of-hobs-barrow-review-an-adventure-game-with-depth</id>
+        <link href="https://www.eurogamer.net/the-excavation-of-hobs-barrow-review-an-adventure-game-with-depth"/>
+        <updated>2022-09-28T09:04:47.000Z</updated>
+        <summary type="html"><![CDATA[SPOILER WARNING: I try not to reveal specifics of Hob's Barrow in this piece, but to get at what's special about this game, I've had to talk about certain elements of the design that you might not want to know going in.
+
+
+My favourite moment in The Excavation of Hob's Barrow came about three hours after I'd finished it. But we'll get to that in a bit.
+
+
+From the off, it's hard not to root for Thomasina Bateman. In an age of steam trains and parasols, she has come to a small village in the north of England to dig up an ancient burial site, regardless of all the obstacles the local patriarchy - and the soggy English weather - can place in her way. 
+ 
+Read more]]></summary>
+        <author>
+            <name>Christian Donlan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Finals visar imponerande förstörelse i första gameplay-trailern]]></title>
+        <id>https://www.fz.se/artikel/291608</id>
+        <link href="https://www.fz.se/artikel/291608-the-finals-visar-imponerande-forstorelse-i-forsta-gameplay-trailern"/>
+        <updated>2022-09-28T09:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Multiplayer-action från Dice-veteraner.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel oneDNN 2.7 Released With Sapphire Rapids & DG2 Optimizations, AMD GPU Bringup]]></title>
+        <id>https://www.phoronix.com/news/Intel-oneDNN-2.7-Released</id>
+        <link href="https://www.phoronix.com/news/Intel-oneDNN-2.7-Released"/>
+        <updated>2022-09-28T08:48:41.000Z</updated>
+        <summary type="html"><![CDATA[Aligned with Intel's Innovation event happening this week in San Jose, Intel on Tuesday released oneDNN 2.7 as the newest version of their deep neural network library. In addition to optimizing support for new Intel hardware, oneDNN 2.7 also has AMD GPU support...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Is it time to retire C and C++ for Rust in new programs?]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/28/is_it_time_to_retire_c/</id>
@@ -17333,61 +17391,6 @@ c…]]></summary>
         <summary type="html"><![CDATA[Baidu's ERNIE-ViLG text-to-image model prevents users from creating political images.]]></summary>
         <author>
             <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[White House to tech world: Promise you'll write secure code – or Feds won't use it]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/14/white_house_software_security_guidance/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/14/white_house_software_security_guidance/"/>
-        <updated>2022-09-14T21:24:42.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Developers, why not simply build flawless software, thus solving all our vulnerability worries</h4> <p>The White House has published software security rules for federal agencies as part of a larger push to shore up America's IT supply chains.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony's live-action Gran Turismo movie casts Stranger Things' David Harbour]]></title>
-        <id>https://www.eurogamer.net/sonys-live-action-gran-turismo-movie-casts-stranger-things-david-harbour</id>
-        <link href="https://www.eurogamer.net/sonys-live-action-gran-turismo-movie-casts-stranger-things-david-harbour"/>
-        <updated>2022-09-14T21:14:44.000Z</updated>
-        <summary type="html"><![CDATA[Sony's Gran Turismo movie continues to progress, with Stranger Things star David Harbour having now joined the cast.
-
-
-Sony's live-action Gran Turismo adaptation was announced earlier this year, and confirmation of an 11th August 2023 release date for the movie followed not long after. Harbour is the first member of the cast to be officially revealed (thanks The Hollywood Reporter) and he'll be working alongside District 9 and Elyisum director Neill Blomkamp, who's helming the project.
-
-
-Blomkamp will be directing from a script by Jason Hall (American Sniper) and Zach Baylin (King Richard), which dramatises an apparently true story of a teenage Gran Turismo player whose gaming skills put him on the path toward becoming a professional racecar driver.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[California says Amazon ruined online shopping, sues it for driving up prices]]></title>
-        <id>https://arstechnica.com/?p=1881446</id>
-        <link href="https://arstechnica.com/?p=1881446"/>
-        <updated>2022-09-14T21:07:03.000Z</updated>
-        <summary type="html"><![CDATA[Lawsuit mirrors DC's case dismissed in April. Now, DOJ backs DC's appeal.]]></summary>
-        <author>
-            <name>Ashley Belanger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's everything shown during tonight's ID@Xbox showcase]]></title>
-        <id>https://www.eurogamer.net/heres-everything-shown-during-tonights-idxbox-showcase</id>
-        <link href="https://www.eurogamer.net/heres-everything-shown-during-tonights-idxbox-showcase"/>
-        <updated>2022-09-14T20:38:20.000Z</updated>
-        <summary type="html"><![CDATA['Tis the week of showcases, it seems, and following Nintendo and Sony's efforts last night, Microsoft has taken its own turn today with another one of its predominantly indie-focused ID@Xbox digital showcase events. And if you missed its typically meandering reveals, you can check out everything that put in an appearance, considerably more succinctly, below.
-
-Eville
-
-
-Eville is a multiplayer social deduction game from developer VestGames that's coming to Xbox One, Xbox Series X/S, PC, and Game Pass on 11th October. It sees up to 13 players working together - or otherwise - in order to unmask Conspirators hiding in a village beset by murders. Those cast as Villagers must weed out the suspects by day, while those in the role of Conspirators can decide who should be bumped off next by night.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
         </author>
     </entry>
 </feed>

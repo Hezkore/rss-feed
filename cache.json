@@ -121,6 +121,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/09/steam-deck-got-another-beta-update-focused-on-steam-input-and-flickstick/",
+          "author": "Liam Dawe",
+          "description": "Seems Valve snuck out another Steam Deck Beta update while I was asleep, this time focused on improvements to Steam Input.",
+          "link": "https://www.gamingonlinux.com/2022/09/steam-deck-got-another-beta-update-focused-on-steam-input-and-flickstick/",
+          "publishedOn": "2022-09-28T09:08:01.000Z",
+          "wordCount": 1205,
+          "title": "Steam Deck got another Beta update focused on Steam Input and FlickStick",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_deck.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/09/intel-arc-a770-gpu-releases-october-12th/",
           "author": "Liam Dawe",
           "description": "Along with announcing their new Raptor Lake desktop CPUs, Intel has also finally announced the release date of their Arc A770 GPU for October 12th.",
@@ -747,6 +757,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/the-excavation-of-hobs-barrow-review-an-adventure-game-with-depth",
+          "author": "Christian Donlan",
+          "description": "SPOILER WARNING: I try not to reveal specifics of Hob's Barrow in this piece, but to get at what's special about this game, I've had to talk about certain elements of the design that you might not want to know going in.\n\n\r\nMy favourite moment in The Excavation of Hob's Barrow came about three hours after I'd finished it. But we'll get to that in a bit.\r\n\n\r\nFrom the off, it's hard not to root for Thomasina Bateman. In an age of steam trains and parasols, she has come to a small village in the north of England to dig up an ancient burial site, regardless of all the obstacles the local patriarchy - and the soggy English weather - can place in her way. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/the-excavation-of-hobs-barrow-review-an-adventure-game-with-depth",
+          "publishedOn": "2022-09-28T09:04:47.000Z",
+          "wordCount": 5546,
+          "title": "The Excavation of Hob's Barrow review - an adventure game with depth",
+          "imageUrl": "https://assets.reedpopcdn.com/Hob's-Barrow-3.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Hob's-Barrow-3.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/fifa-23-servers-down-as-players-flood-early-access-launch-ultimate-team-unplayable",
           "author": "Wesley Yin-Poole",
@@ -3126,26 +3146,6 @@
           "wordCount": 6447,
           "title": "Hearthstone Access: the story of the modder opening up Blizzard's game for more players",
           "imageUrl": "https://assets.reedpopcdn.com/6Mercs.png/BROK/thumbnail/1600x900/format/jpg/quality/80/6Mercs.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/sonys-live-action-gran-turismo-movie-casts-stranger-things-david-harbour",
-          "author": "Matt Wales",
-          "description": "Sony's Gran Turismo movie continues to progress, with Stranger Things star David Harbour having now joined the cast.\r\n\n\r\nSony's live-action Gran Turismo adaptation was announced earlier this year, and confirmation of an 11th August 2023 release date for the movie followed not long after. Harbour is the first member of the cast to be officially revealed (thanks The Hollywood Reporter) and he'll be working alongside District 9 and Elyisum director Neill Blomkamp, who's helming the project.\r\n\n\r\nBlomkamp will be directing from a script by Jason Hall (American Sniper) and Zach Baylin (King Richard), which dramatises an apparently true story of a teenage Gran Turismo player whose gaming skills put him on the path toward becoming a professional racecar driver.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sonys-live-action-gran-turismo-movie-casts-stranger-things-david-harbour",
-          "publishedOn": "2022-09-14T21:14:44.000Z",
-          "wordCount": 4478,
-          "title": "Sony's live-action Gran Turismo movie casts Stranger Things' David Harbour",
-          "imageUrl": "https://assets.reedpopcdn.com/gran-turismo-7-best-cars-starting-rally-fastest-car-9011-1646922090646.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/gran-turismo-7-best-cars-starting-rally-fastest-car-9011-1646922090646.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/heres-everything-shown-during-tonights-idxbox-showcase",
-          "author": "Matt Wales",
-          "description": "'Tis the week of showcases, it seems, and following Nintendo and Sony's efforts last night, Microsoft has taken its own turn today with another one of its predominantly indie-focused ID@Xbox digital showcase events. And if you missed its typically meandering reveals, you can check out everything that put in an appearance, considerably more succinctly, below.\r\n\nEville\n\n\r\nEville is a multiplayer social deduction game from developer VestGames that's coming to Xbox One, Xbox Series X/S, PC, and Game Pass on 11th October. It sees up to 13 players working together - or otherwise - in order to unmask Conspirators hiding in a village beset by murders. Those cast as Villagers must weed out the suspects by day, while those in the role of Conspirators can decide who should be bumped off next by night.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/heres-everything-shown-during-tonights-idxbox-showcase",
-          "publishedOn": "2022-09-14T20:38:20.000Z",
-          "wordCount": 5616,
-          "title": "Here's everything shown during tonight's ID@Xbox showcase",
-          "imageUrl": "https://assets.reedpopcdn.com/id-at-xbox-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/id-at-xbox-header.jpg"
         }
       ]
     },
@@ -4311,6 +4311,26 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Fedora-Disable-Bad-VA-API",
+          "author": null,
+          "description": "For Fedora Linux users currently making use of Mesa's VA-API support with the open-source AMD graphics driver or similar and using it to speed-up H.264, H.265, or VC1 decoding, you may soon be out of luck and will have to fall-back to either using CPU-based decoding or be relying on an unofficial/third-party Mesa build...",
+          "link": "https://www.phoronix.com/news/Fedora-Disable-Bad-VA-API",
+          "publishedOn": "2022-09-28T09:10:37.000Z",
+          "wordCount": 1423,
+          "title": "Fedora Linux Disabling Mesa's H.264 / H.265 / VC1 VA-API Support Over Legal Concerns",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-oneDNN-2.7-Released",
+          "author": null,
+          "description": "Aligned with Intel's Innovation event happening this week in San Jose, Intel on Tuesday released oneDNN 2.7 as the newest version of their deep neural network library. In addition to optimizing support for new Intel hardware, oneDNN 2.7 also has AMD GPU support...",
+          "link": "https://www.phoronix.com/news/Intel-oneDNN-2.7-Released",
+          "publishedOn": "2022-09-28T08:48:41.000Z",
+          "wordCount": 1381,
+          "title": "Intel oneDNN 2.7 Released With Sapphire Rapids & DG2 Optimizations, AMD GPU Bringup",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/NVIDIA-Vulkan-Video-Beta-Revise",
           "author": null,
@@ -10810,16 +10830,6 @@
           "wordCount": 1523,
           "title": "China’s most advanced AI image generator already blocks political content",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/chinese_image_syntesis-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1881446",
-          "author": "Ashley Belanger",
-          "description": "Lawsuit mirrors DC's case dismissed in April. Now, DOJ backs DC's appeal.",
-          "link": "https://arstechnica.com/?p=1881446",
-          "publishedOn": "2022-09-14T21:07:03.000Z",
-          "wordCount": 1839,
-          "title": "California says Amazon ruined online shopping, sues it for driving up prices",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1229799247-760x380.jpg"
         }
       ]
     },
@@ -10828,6 +10838,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291608",
+          "author": null,
+          "description": "Multiplayer-action från Dice-veteraner.",
+          "link": "https://www.fz.se/artikel/291608-the-finals-visar-imponerande-forstorelse-i-forsta-gameplay-trailern",
+          "publishedOn": "2022-09-28T09:02:00.000Z",
+          "wordCount": 1963,
+          "title": "The Finals visar imponerande förstörelse i första gameplay-trailern",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291608"
+        },
         {
           "id": "https://www.fz.se/artikel/291607",
           "author": null,
@@ -15441,16 +15461,6 @@
           "wordCount": 1366,
           "title": "Anti-Metaverse package 'explosion' at college VR lab probed by investigators",
           "imageUrl": "https://regmedia.co.uk/2022/06/23/shutterstock_goggles.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/14/white_house_software_security_guidance/",
-          "author": null,
-          "description": "<h4>Developers, why not simply build flawless software, thus solving all our vulnerability worries</h4> <p>The White House has published software security rules for federal agencies as part of a larger push to shore up America's IT supply chains.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/14/white_house_software_security_guidance/",
-          "publishedOn": "2022-09-14T21:24:42.000Z",
-          "wordCount": 1712,
-          "title": "White House to tech world: Promise you'll write secure code – or Feds won't use it",
-          "imageUrl": "https://regmedia.co.uk/2022/09/14/american_flag_lines_of_code_shutterstock.jpg"
         }
       ]
     }
