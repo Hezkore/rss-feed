@@ -798,6 +798,36 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/the-next-jackbox-party-pack-now-has-a-release-date",
+          "author": "Ed Nightingale",
+          "description": "The Jackbox Party Pack 9, the next in the series of party games, now has a release date: 20th October.\r\n\n\r\nIt's set for release on \"major digital platforms\" and includes new features, like being able to kick out players from the lobby and during games to ensure live games are kept safe.\r\n\n\r\nPlayers will also be able to join via QR codes that appear on screen in the lobby.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/the-next-jackbox-party-pack-now-has-a-release-date",
+          "publishedOn": "2022-09-28T11:46:35.000Z",
+          "wordCount": 4649,
+          "title": "The next Jackbox Party Pack now has a release date",
+          "imageUrl": "https://assets.reedpopcdn.com/The-Jackbox-Party-Pack-9-Official-Trailer-0-13-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/The-Jackbox-Party-Pack-9-Official-Trailer-0-13-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/advertising-standards-authority-acts-on-sexist-mobile-phone-ads",
+          "author": "Tom Phillips",
+          "description": "The UK's Advertising Standards Authority has found several mobile phone game adverts likely to cause \"serious or widespread offence\" due to harmful gender stereotypes. \r\n\n\r\nAn advert for one game, Refantasia: Charm and Conquer, is described as having featured an \"anime-style image of a young woman in a cage\" in shackles and with torn clothing, which was singled out for particular criticism. \r\n\n\r\nCaptions referenced \"my master\" and were accompanied by text which described the person as a \"little girl\". The ASA judged the character as being someone under 18 represented in a sexual manner.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/advertising-standards-authority-acts-on-sexist-mobile-phone-ads",
+          "publishedOn": "2022-09-28T11:44:19.000Z",
+          "wordCount": 4565,
+          "title": "Advertising Standards Authority acts on sexist mobile phone ads",
+          "imageUrl": "https://assets.reedpopcdn.com/Untitled-1-Recovered_eHelEBC.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Untitled-1-Recovered_eHelEBC.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/desta-the-memories-between-out-now-on-netflix-app",
+          "author": "Ed Nightingale",
+          "description": "Desta: The Memories Between, the new game from Monument Valley developer ustwo, is available now on the Netflix app.\r\n\n\r\nPC and console releases are expected in the near future, but for now it can be played on mobile for those with a Netflix subscription.\r\n\n\r\nThe game is \"a character-driven rogue-like exploring themes such as self-reflection, loss, regret, and identity\" and as a live service game is the studio's most ambitious yet. Check out the animated launch trailer below.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/desta-the-memories-between-out-now-on-netflix-app",
+          "publishedOn": "2022-09-28T11:20:37.000Z",
+          "wordCount": 4528,
+          "title": "Desta: The Memories Between out now on Netflix app",
+          "imageUrl": "https://assets.reedpopcdn.com/Desta_-The-Memories-Between---OUT-NOW-(Official-Launch-Trailer)-0-6-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Desta_-The-Memories-Between---OUT-NOW-(Official-Launch-Trailer)-0-6-screenshot.png"
+        },
+        {
           "id": "https://www.eurogamer.net/pubg-developer-krafton-working-on-new-korean-fantasy-project",
           "author": "Ed Nightingale",
           "description": "PUBG developer Krafton is working on a brand new game and has released a visual concept trailer.\r\n\n\r\nBased on the Korean fantasy novel The Bird That Drinks Tears by Yeongdo Lee, it's quite the change of pace from the shooter battle royale.\r\n\n\r\nThe trailer is called The Nhaga Eater, you can check it out below.\r\n \nRead more",
@@ -4452,6 +4482,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Rust-Apple-DRM-Starts-Weston",
+          "author": null,
+          "description": "Last week the Rust-written Apple Direct Rendering manager (DRM) Linux driver for supporting Apple M1/M2 graphics managed to rendered its first cube. Asahi Linux contributor Asahi Lina today is back at it and working on getting more of this experimental kernel driver working for the Linux desktop...",
+          "link": "https://www.phoronix.com/news/Rust-Apple-DRM-Starts-Weston",
+          "publishedOn": "2022-09-28T12:46:28.000Z",
+          "wordCount": 1512,
+          "title": "The Work-In-Progress Rust-Written Apple DRM Driver Manages To Start Wayland's Weston",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/review/ubuntu-2210-milanx",
           "author": null,
           "description": "Earlier this month I revisited the AMD Ryzen 7 5800X3D Linux performance for looking at the effectiveness of the AMD 3D V-Cache under Linux when now using the very latest Linux kernel along with other new/updated benchmarks of the past several months. While already being very impressed by the performance of AMD EPYC Milan-X since those 3D V-Cache server CPUs launched earlier this year, here is a fresh round of Linux benchmarks looking at the EPYC 7763 vs. 7773X performance when running on a development snapshot of Ubuntu 22.10 paired with the Linux 6.0 development kernel and other newer software packages for a very up-to-date look at the performance potential on the server side.",
@@ -5668,6 +5708,16 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/man-of-medan-gets-new-free-chapter-in-surprise-update-for-the-dark-pictures-anthology",
+          "author": "CJ Wheeler",
+          "description": "It’s usually nice to see older games get updates, particularly when we’re not expecting it. Think of it as a good jump scare. Supermassive Games have given their first two The Dark Pictures Anthology some extra care and attention today, dropping in new difficulty settings and accessibility options, tweaked UI, and even faster walking for characters. There’s also an extended chapter for Man Of Medan. I didn’t think update trailers were a thing but there’s one for this, which you can watch below.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/man-of-medan-gets-new-free-chapter-in-surprise-update-for-the-dark-pictures-anthology",
+          "publishedOn": "2022-09-28T11:53:41.000Z",
+          "wordCount": 5239,
+          "title": "Man Of Medan gets new free chapter in surprise update for The Dark Pictures Anthology",
+          "imageUrl": "https://assets2.rockpapershotgun.com/the-dark-pictures-anthology-curator.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/the-dark-pictures-anthology-curator.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/intel-announce-13th-gen-raptor-lake-cpus-confirm-arc-a770-limited-edition-gpu-release-date",
           "author": "James Archer",
@@ -9357,6 +9407,16 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1884615",
+          "author": "Benj Edwards",
+          "description": "In the world's first operating system interview, Linux tells all about Windows, Torvalds, and its favorite distro.",
+          "link": "https://arstechnica.com/?p=1884615",
+          "publishedOn": "2022-09-28T11:00:08.000Z",
+          "wordCount": 1805,
+          "title": "We interviewed Linux OS through an AI bot to discover its secrets",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/benj-tux-ai-txt-interview-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1884775",
           "author": "Scharon Harding",
           "description": "A nice gesture toward Mac users, but a full layout, switch options would be even better.",
@@ -10955,16 +11015,6 @@
           "wordCount": 1517,
           "title": "Easier than a plug: Wireless EV charging gets ready for prime time",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/WiTricity-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1881544",
-          "author": "Beth Mole",
-          "description": "Sans human data, mouse study offers first direct comparison of the two omicron boosters.",
-          "link": "https://arstechnica.com/?p=1881544",
-          "publishedOn": "2022-09-14T23:23:50.000Z",
-          "wordCount": 1864,
-          "title": "Moderna-backed mouse study offers first head-to-head BA.5, BA.1 booster data",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1422322378-760x380.jpeg"
         }
       ]
     },
@@ -10973,6 +11023,26 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291603",
+          "author": null,
+          "description": "Kablar kan vara ett gissel och det finns gott om alternativ för den som vill göra gaminghörnan trådlös. Hur ser det ut hemma hos dig?",
+          "link": "https://www.fz.se/artikel/291603-veckans-fraga-dags-att-klippa-sladdarna",
+          "publishedOn": "2022-09-28T12:30:00.000Z",
+          "wordCount": 1992,
+          "title": "Veckans fråga: Dags att klippa sladdarna?",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291603"
+        },
+        {
+          "id": "https://www.fz.se/artikel/291610",
+          "author": null,
+          "description": "Testa om actionrollspelet är värt dina pengar.",
+          "link": "https://www.fz.se/artikel/291610-weird-west-demo-slappt-ett-halvar-efter-premiaren",
+          "publishedOn": "2022-09-28T11:36:04.000Z",
+          "wordCount": 1759,
+          "title": "Weird West-demo släppt, ett halvår efter premiären",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291610"
+        },
         {
           "id": "https://www.fz.se/artikel/291609",
           "author": null,
@@ -12521,6 +12591,26 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34990",
+          "author": null,
+          "description": "AMD Ryzen 7000-serien är här och med den en ny plattform. Häng med när redaktionen tar en titt på ett urval av de nya moderkorten!",
+          "link": "https://www.sweclockers.com/artikel/34990-calle-och-andre-unboxar-x670e-moderkort",
+          "publishedOn": "2022-09-28T12:43:43.000Z",
+          "wordCount": 1468,
+          "title": "Calle och André unboxar X670E-moderkort",
+          "imageUrl": "https://www.sweclockers.com/artikel/34990/og-image"
+        },
+        {
+          "id": "https://www.sweclockers.com/artikel/34984",
+          "author": null,
+          "description": "Med den kommande Geforce RTX 4000-serien precis runt hörnet har några tjuvstartat försäljningen.",
+          "link": "https://www.sweclockers.com/artikel/34984-gigabyte-geforce-rtx-4090-redan-till-salu-i-hong-kong",
+          "publishedOn": "2022-09-28T11:19:24.000Z",
+          "wordCount": 1694,
+          "title": "Gigabyte Geforce RTX 4090 redan till salu i Hong Kong",
+          "imageUrl": "https://www.sweclockers.com/artikel/34984/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34988",
           "author": null,
           "description": "Samtidigt som Nvidias Geforce RTX 4090 letar sig ut ska Intel debutera toppkortet Arc A770. Där utlovas prisvärd prestanda till gamers med ansträngd plånbok.",
@@ -13181,6 +13271,16 @@
       "siteUrl": "https://explosm.net",
       "articles": [
         {
+          "id": "https://explosm.net/comics/position",
+          "author": null,
+          "description": "New Cyanide and Happiness Comic",
+          "link": "https://explosm.net/comics/position",
+          "publishedOn": "2022-09-28T05:35:07.000Z",
+          "wordCount": 638,
+          "title": "Comic for 2022.09.28 - Position",
+          "imageUrl": null
+        },
+        {
           "id": "https://explosm.net/comics/duck-duck",
           "author": null,
           "description": "New Cyanide and Happiness Comic",
@@ -13417,6 +13517,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/28/macpaw_ukraine_war/",
+          "author": null,
+          "description": "<h4>Set priorities, expect confusion, keep emergency instructions simple – that's just for starters</h4> <p>At the start of the year, when it looked likely that Russia would invade Ukraine, Kyiv-based MacPaw began making a plan for operating during wartime.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/28/macpaw_ukraine_war/",
+          "publishedOn": "2022-09-28T12:30:12.000Z",
+          "wordCount": 2176,
+          "title": "How one Ukrainian software maker planned for survival as invaders approached",
+          "imageUrl": "https://regmedia.co.uk/2022/09/28/shutterstock_ukraine_soldier.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/28/vk_removed_from_apple_app_store/",
+          "author": null,
+          "description": "<h4>Apps still available on Google Play, digital ministry says it's investigating</h4> <p>Russian social media provider VK Company Ltd has confirmed its apps were removed from Apple's App Store.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/28/vk_removed_from_apple_app_store/",
+          "publishedOn": "2022-09-28T11:34:05.000Z",
+          "wordCount": 1147,
+          "title": "Russia's Facebook-like VK removed from Apple App Store",
+          "imageUrl": "https://regmedia.co.uk/2018/05/30/apple_logo_russian_flag_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/28/uk_science_minitser_role_empty/",
           "author": null,
@@ -15616,16 +15736,6 @@
           "wordCount": 1417,
           "title": "WordPress-powered sites backdoored after FishPig suffers supply chain attack",
           "imageUrl": "https://regmedia.co.uk/2021/10/29/shutterstock_trojan_malware.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/15/amazon_california_competition/",
-          "author": null,
-          "description": "<h4>Super Cali goes ballistic, says it's all atrocious</h4> <p>California's Attorney General sued Amazon on Wednesday, claiming the internet titan illegally stifles competition by punishing vendors for selling their products at cheaper prices on other online stores.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/15/amazon_california_competition/",
-          "publishedOn": "2022-09-15T00:17:17.000Z",
-          "wordCount": 1251,
-          "title": "Amazon allegedly punishes sellers who dare offer lower prices on other marketplaces",
-          "imageUrl": "https://regmedia.co.uk/2021/05/25/amazon.jpg"
         }
       ]
     }
