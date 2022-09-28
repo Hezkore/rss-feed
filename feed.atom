@@ -2,10 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-28T19:25:23.636Z</updated>
+    <updated>2022-09-28T20:28:35.610Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The web's cruising at 13 million new and nefarious domain names a month]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/28/akamai_malicious_domains/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/28/akamai_malicious_domains/"/>
+        <updated>2022-09-28T20:20:09.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Or so Akamai is dying to tell us</h4> <p>Akamai reckons that, in the first half of 2022 alone, it flagged nearly 79 million newly observed domains (NODs) as malicious.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ian Jackson: Hippotat (IP over HTTP) - first advertised release]]></title>
+        <id>tag:dreamwidth.org,2009-05-21:377446:12934</id>
+        <link href="https://diziet.dreamwidth.org/12934.html"/>
+        <updated>2022-09-28T20:12:48.000Z</updated>
+        <summary type="html"><![CDATA[I have released version 1.0.0 of Hippotat, my IP-over-HTTP system. To quote the README:
+You’re in a cafe or a hotel, trying to use the provided wifi. But it’s not working. You discover that port 80 and port 443 are open, but the wifi forbids all other traffic.
+Never mind, start up your hippotat client. Now you have connectivity. Your VPN and SSH and so on run over Hippotat. The result is not very efficient, but it does work.
+Story
+In early 2017 I was in a mountaintop cafeteria, hoping to do some work on my laptop. (For Reasons I couldn’t go skiing that day.) I found that local wifi was badly broken: It had a severe port block. I had to use my port 443 SSH server to get anywhere. My usual arrangements punt everything over my VPN, which uses UDP of course, and I had to bodge several things. …]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare’s CAPTCHA replacement lacks crosswalks, checkboxes, Google]]></title>
+        <id>https://arstechnica.com/?p=1885349</id>
+        <link href="https://arstechnica.com/?p=1885349"/>
+        <updated>2022-09-28T20:00:18.000Z</updated>
+        <summary type="html"><![CDATA[Cloud giant says its verification tool doesn't challenge or profile users.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weird West makes the Bounty Hunter Journey free on Steam]]></title>
+        <id>https://www.vg247.com/weird-west-makes-the-bounty-hunter-journey-free-on-steam</id>
+        <link href="https://www.vg247.com/weird-west-makes-the-bounty-hunter-journey-free-on-steam"/>
+        <updated>2022-09-28T19:53:30.000Z</updated>
+        <summary type="html"><![CDATA[Developer Wolfeye is celebrating the six-month anniversary of Weird West by making the entirety of the Bounty Hunter Journey free to all Steam players.
+The Bounty Hunter Journey is the first of Weird West's five journeys, and you can download it off Steam.
+If you like what you play, the game is on sale this weekend for 50% off on Steam, Epic Games Store, and GoG. On Steam, save files made while playing the free Bounty Hunter Journey will also carry over to the full game once purchased.
+ Read more]]></summary>
+        <author>
+            <name>Stephany Nunneley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gigabyte Z790 QVL Reveals New DDR5-7400, DDR5-7200 RAM]]></title>
+        <id>wYnQK9bwTRMCvaHjZfr6Gj</id>
+        <link href="https://www.tomshardware.com/news/gigabyte-z790-qvl-reveals-new-ddr5-7400-ddr5-7200-ram"/>
+        <updated>2022-09-28T19:53:03.000Z</updated>
+        <summary type="html"><![CDATA[Gigabyte pre-announces DDR5-7000+ memory modules from Aorus, Adata, and Kingston.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F2FS Preparing Support For Atomic Replace]]></title>
+        <id>https://www.phoronix.com/news/F2FS-Atomic-Replace-Coming</id>
+        <link href="https://www.phoronix.com/news/F2FS-Atomic-Replace-Coming"/>
+        <updated>2022-09-28T19:42:30.000Z</updated>
+        <summary type="html"><![CDATA[A new feature being worked on for the Flash-Friendly File-System (F2FS) is the ability to atomically replace files...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD's Ryzen V3000 goes head to head with Intel's embedded chips on power, oomph]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/28/amd_ryzen_embedded_chips/</id>
@@ -17,6 +84,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[More EV charging stations coming nationwide, electrifying 75K miles of highways]]></title>
+        <id>https://arstechnica.com/?p=1885357</id>
+        <link href="https://arstechnica.com/?p=1885357"/>
+        <updated>2022-09-28T19:11:00.000Z</updated>
+        <summary type="html"><![CDATA[Access to 500,000 chargers could lay the groundwork to convert Americans to EVs.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ryzen AF 2.0 Spotted: Zen 3-Powered R5 3600 Shows on Romanian Store]]></title>
         <id>SMQc73DAez6F8ibEYGVhCi</id>
         <link href="https://www.tomshardware.com/news/zen-3-ryzen-5-3600-af-spotted"/>
@@ -24,6 +101,16 @@
         <summary type="html"><![CDATA[A new CPU has been spotted at a Romanian Retailer known as the Ryzen 5 3600AF. If this listing is real, it would suggest AMD is creating a successor to the Ryzen 5 1600 AF, featuring Zen 3 cores with the Ryzen 3000 series naming scheme.]]></summary>
         <author>
             <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon’s Astro robot still isn’t ready for prime time]]></title>
+        <id>https://arstechnica.com/?p=1885207</id>
+        <link href="https://arstechnica.com/?p=1885207"/>
+        <updated>2022-09-28T18:54:39.000Z</updated>
+        <summary type="html"><![CDATA[A year after its announcement, it's unclear when Astro will be ready.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
         </author>
     </entry>
     <entry>
@@ -18469,49 +18556,6 @@ There are two key pillars to Gunsmith 2.0, which resemble the way Escape from Ta
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/15/nhs_data_platform_procurement_delayed/"/>
         <updated>2022-09-15T08:30:14.000Z</updated>
         <summary type="html"><![CDATA[<h4>Questions remain over Palantir's influence after consultancy role for former NHS England director revealed</h4> <p>Competition for a "Federated Data Platform" (FDP) for the NHS in England has been delayed for a second time as details emerge of how Palantir – the US spy-tech biz hotly tipped to win the £360 million ($421 million) contract – has influenced the controversial procurement.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joachim Breitner: rec-def: Dominators case study]]></title>
-        <id>http://www.joachim-breitner.de/blog/795-rec-def__Dominators_case_study</id>
-        <link href="http://www.joachim-breitner.de/blog/795-rec-def__Dominators_case_study"/>
-        <updated>2022-09-15T08:27:19.000Z</updated>
-        <summary type="html"><![CDATA[More ICFP-inspired experiments using the rec-def library: In Norman Ramsey’s very nice talk about his Functional Pearl “Beyond Relooper: Recursive Translation of Unstructured Control Flow to Structured Control Flow”, he had the following slide showing the equation for the dominators of a node in a graph:
-He said “it’s ICFP and I wanted to say the dominance relation has a beautiful set of equations … you can read all these algorithms how to compute this, but the concept is simple”.
-This made me wonder: If the concept is simple and this formula is beautiful – shouldn’t this be sufficient for the Haskell programmer to obtain the dominator relation, without reading all those algorithms?
-Before we start, we have to clarify the formula a bit: If a node is an entry node (no predecessors) then the…]]></summary>
-        <author>
-            <name>mail@joachim-breitner.de (Joachim Breitner)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVGA SuperNOVA 1000 G7 Power Supply Review]]></title>
-        <id>t4vdHp5nqUusSDTkMvof5Y</id>
-        <link href="https://www.tomshardware.com/reviews/evga-supernova-1000-g7-power-supply-review"/>
-        <updated>2022-09-15T08:00:15.000Z</updated>
-        <summary type="html"><![CDATA[FSP is behind the manufacturing of the EVGA SuperNOVA 1000 G7, and the new platform looks great!]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EA har ett nytt anti-fusksystem på gång – på kernel-nivå]]></title>
-        <id>https://www.fz.se/artikel/291463</id>
-        <link href="https://www.fz.se/artikel/291463-ea-har-ett-nytt-anti-fusksystem-pa-gang-pa-kernel-niva"/>
-        <updated>2022-09-15T07:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Ska lanseras med FIFA 23 i höst.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boffins spot baby planet forming around young star – and that's rather cool]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/15/protoplanet_computer_simulations_dust/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/15/protoplanet_computer_simulations_dust/"/>
-        <updated>2022-09-15T07:27:07.000Z</updated>
-        <summary type="html"><![CDATA[<h4>In dust, we trust</h4> <p>Astronomers have found a baby planet hidden in clouds of gas and dust swirling within a young solar system, by studying the accumulation of material around Lagrange points.…</p>]]></summary>
         <author>
             <name>The Register</name>
         </author>

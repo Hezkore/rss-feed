@@ -3425,6 +3425,16 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/weird-west-makes-the-bounty-hunter-journey-free-on-steam",
+          "author": "Stephany Nunneley",
+          "description": "Developer Wolfeye is celebrating the six-month anniversary of Weird West by making the entirety of the Bounty Hunter Journey free to all Steam players.\nThe Bounty Hunter Journey is the first of Weird West's five journeys, and you can download it off Steam.\nIf you like what you play, the game is on sale this weekend for 50% off on Steam, Epic Games Store, and GoG. On Steam, save files made while playing the free Bounty Hunter Journey will also carry over to the full game once purchased.\n Read more",
+          "link": "https://www.vg247.com/weird-west-makes-the-bounty-hunter-journey-free-on-steam",
+          "publishedOn": "2022-09-28T19:53:30.000Z",
+          "wordCount": 4665,
+          "title": "Weird West makes the Bounty Hunter Journey free on Steam",
+          "imageUrl": "https://asset.vg247.com/weird_west_p6XZU72.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/weird_west_p6XZU72.jpg"
+        },
+        {
           "id": "https://www.vg247.com/pokemon-scarlet-and-violet-wiglett",
           "author": "Stephany Nunneley",
           "description": "The Pokemon Company today aired a special showcase for the Pokemon World Ecological Society during which time it exhibited clips and provided new details for Pokemon Scarlet and Violet.\nDuring the showcase, new interactions, as well as a new set of returning Pokemon, were shown, but the big news out of it was the reveal of a new Pokemon called Wiglett.\nAs reported by Serebii, the Pokemon looks similar to Diglett, but it is a different creature. According to the Ecological Society, while it may look like a Paldean form of Diglett, it’s not.\n Read more",
@@ -4701,6 +4711,16 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/F2FS-Atomic-Replace-Coming",
+          "author": null,
+          "description": "A new feature being worked on for the Flash-Friendly File-System (F2FS) is the ability to atomically replace files...",
+          "link": "https://www.phoronix.com/news/F2FS-Atomic-Replace-Coming",
+          "publishedOn": "2022-09-28T19:42:30.000Z",
+          "wordCount": 1340,
+          "title": "F2FS Preparing Support For Atomic Replace",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Intel-oneAPI-Innovation-2022",
           "author": null,
@@ -7216,6 +7236,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "wYnQK9bwTRMCvaHjZfr6Gj",
+          "author": null,
+          "description": "Gigabyte pre-announces DDR5-7000+ memory modules from Aorus, Adata, and Kingston.",
+          "link": "https://www.tomshardware.com/news/gigabyte-z790-qvl-reveals-new-ddr5-7400-ddr5-7200-ram",
+          "publishedOn": "2022-09-28T19:53:03.000Z",
+          "wordCount": 21539,
+          "title": "Gigabyte Z790 QVL Reveals New DDR5-7400, DDR5-7200 RAM",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/QhvubZMxnfQc5TWqtRK57c.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/QhvubZMxnfQc5TWqtRK57c.png"
+        },
+        {
           "id": "SMQc73DAez6F8ibEYGVhCi",
           "author": null,
           "description": "A new CPU has been spotted at a Romanian Retailer known as the Ryzen 5 3600AF. If this listing is real, it would suggest AMD is creating a successor to the Ryzen 5 1600 AF, featuring Zen 3 cores with the Ryzen 3000 series naming scheme.",
@@ -9509,21 +9544,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/u72FSyociGQopszCR2fcJS.jpg"
-        },
-        {
-          "id": "t4vdHp5nqUusSDTkMvof5Y",
-          "author": null,
-          "description": "FSP is behind the manufacturing of the EVGA SuperNOVA 1000 G7, and the new platform looks great!",
-          "link": "https://www.tomshardware.com/reviews/evga-supernova-1000-g7-power-supply-review",
-          "publishedOn": "2022-09-15T08:00:15.000Z",
-          "wordCount": 24341,
-          "title": "EVGA SuperNOVA 1000 G7 Power Supply Review",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/EfhqJ3VxcDeqUckNfZooUS.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/EfhqJ3VxcDeqUckNfZooUS.jpg"
         }
       ]
     },
@@ -9532,6 +9552,16 @@
       "feedUrl": "https://planet.debian.org/rss20.xml",
       "siteUrl": "https://planet.debian.org/",
       "articles": [
+        {
+          "id": "tag:dreamwidth.org,2009-05-21:377446:12934",
+          "author": null,
+          "description": "I have released version 1.0.0 of Hippotat, my IP-over-HTTP system. To quote the README:\nYou’re in a cafe or a hotel, trying to use the provided wifi. But it’s not working. You discover that port 80 and port 443 are open, but the wifi forbids all other traffic.\nNever mind, start up your hippotat client. Now you have connectivity. Your VPN and SSH and so on run over Hippotat. The result is not very efficient, but it does work.\nStory\nIn early 2017 I was in a mountaintop cafeteria, hoping to do some work on my laptop. (For Reasons I couldn’t go skiing that day.) I found that local wifi was badly broken: It had a severe port block. I had to use my port 443 SSH server to get anywhere. My usual arrangements punt everything over my VPN, which uses UDP of course, and I had to bodge several things. …",
+          "link": "https://diziet.dreamwidth.org/12934.html",
+          "publishedOn": "2022-09-28T20:12:48.000Z",
+          "wordCount": null,
+          "title": "Ian Jackson: Hippotat (IP over HTTP) - first advertised release",
+          "imageUrl": null
+        },
         {
           "id": "tag:blogger.com,1999:blog-3019054489127059271.post-1600067284645922332",
           "author": "noreply@blogger.com (Vincent Fourmond)",
@@ -9761,16 +9791,6 @@
           "wordCount": 418,
           "title": "Jonathan Dowland: things I'd like to 3D print, revisited",
           "imageUrl": null
-        },
-        {
-          "id": "http://www.joachim-breitner.de/blog/795-rec-def__Dominators_case_study",
-          "author": "mail@joachim-breitner.de (Joachim Breitner)",
-          "description": "More ICFP-inspired experiments using the rec-def library: In Norman Ramsey’s very nice talk about his Functional Pearl “Beyond Relooper: Recursive Translation of Unstructured Control Flow to Structured Control Flow”, he had the following slide showing the equation for the dominators of a node in a graph:\nHe said “it’s ICFP and I wanted to say the dominance relation has a beautiful set of equations … you can read all these algorithms how to compute this, but the concept is simple”.\nThis made me wonder: If the concept is simple and this formula is beautiful – shouldn’t this be sufficient for the Haskell programmer to obtain the dominator relation, without reading all those algorithms?\nBefore we start, we have to clarify the formula a bit: If a node is an entry node (no predecessors) then the…",
-          "link": "http://www.joachim-breitner.de/blog/795-rec-def__Dominators_case_study",
-          "publishedOn": "2022-09-15T08:27:19.000Z",
-          "wordCount": 805,
-          "title": "Joachim Breitner: rec-def: Dominators case study",
-          "imageUrl": null
         }
       ]
     },
@@ -9836,6 +9856,36 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1885349",
+          "author": "Kevin Purdy",
+          "description": "Cloud giant says its verification tool doesn't challenge or profile users.",
+          "link": "https://arstechnica.com/?p=1885349",
+          "publishedOn": "2022-09-28T20:00:18.000Z",
+          "wordCount": 1576,
+          "title": "Cloudflare’s CAPTCHA replacement lacks crosswalks, checkboxes, Google",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-156899969-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1885357",
+          "author": "Ashley Belanger",
+          "description": "Access to 500,000 chargers could lay the groundwork to convert Americans to EVs.",
+          "link": "https://arstechnica.com/?p=1885357",
+          "publishedOn": "2022-09-28T19:11:00.000Z",
+          "wordCount": 1898,
+          "title": "More EV charging stations coming nationwide, electrifying 75K miles of highways",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1243220502-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1885207",
+          "author": "Scharon Harding",
+          "description": "A year after its announcement, it's unclear when Astro will be ready.",
+          "link": "https://arstechnica.com/?p=1885207",
+          "publishedOn": "2022-09-28T18:54:39.000Z",
+          "wordCount": 1932,
+          "title": "Amazon’s Astro robot still isn’t ready for prime time",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/Amazon-Astro-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1885245",
           "author": "Sam Machkovech",
@@ -13162,16 +13212,6 @@
           "wordCount": 1899,
           "title": "Ravenbound är svenskutveklad fantasy-action",
           "imageUrl": "https://www.fz.se/artikel/og-image/291464"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291463",
-          "author": null,
-          "description": "Ska lanseras med FIFA 23 i höst.",
-          "link": "https://www.fz.se/artikel/291463-ea-har-ett-nytt-anti-fusksystem-pa-gang-pa-kernel-niva",
-          "publishedOn": "2022-09-15T07:59:00.000Z",
-          "wordCount": 1938,
-          "title": "EA har ett nytt anti-fusksystem på gång – på kernel-nivå",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291463"
         }
       ]
     },
@@ -14127,6 +14167,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/28/akamai_malicious_domains/",
+          "author": null,
+          "description": "<h4>Or so Akamai is dying to tell us</h4> <p>Akamai reckons that, in the first half of 2022 alone, it flagged nearly 79 million newly observed domains (NODs) as malicious.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/28/akamai_malicious_domains/",
+          "publishedOn": "2022-09-28T20:20:09.000Z",
+          "wordCount": 1473,
+          "title": "The web's cruising at 13 million new and nefarious domain names a month",
+          "imageUrl": "https://regmedia.co.uk/2022/09/28/domains_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/28/amd_ryzen_embedded_chips/",
           "author": null,
@@ -16396,16 +16446,6 @@
           "wordCount": 1698,
           "title": "NHS data platform procurement delayed for a second time",
           "imageUrl": "https://regmedia.co.uk/2016/09/26/nhs_hosptial_photo_by_marbury_via_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/15/protoplanet_computer_simulations_dust/",
-          "author": null,
-          "description": "<h4>In dust, we trust</h4> <p>Astronomers have found a baby planet hidden in clouds of gas and dust swirling within a young solar system, by studying the accumulation of material around Lagrange points.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/15/protoplanet_computer_simulations_dust/",
-          "publishedOn": "2022-09-15T07:27:07.000Z",
-          "wordCount": 1627,
-          "title": "Boffins spot baby planet forming around young star – and that's rather cool",
-          "imageUrl": "https://regmedia.co.uk/2022/09/14/protoplanet.jpg"
         }
       ]
     }
