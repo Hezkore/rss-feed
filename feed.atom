@@ -2,10 +2,74 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-28T17:42:33.716Z</updated>
+    <updated>2022-09-28T18:36:53.376Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[PlayStation Plus October: Hot Wheels Unleashed, Injustice 2, and Superhot]]></title>
+        <id>https://www.vg247.com/playstation-plus-games-october-2022</id>
+        <link href="https://www.vg247.com/playstation-plus-games-october-2022"/>
+        <updated>2022-09-28T17:59:34.000Z</updated>
+        <summary type="html"><![CDATA[Sony has announced the PlayStation Plus monthly games lineup for October, and the games are Hot Wheels Unleashed, Injustice 2, and Superhot.
+PlayStation Plus Essential, Extra, and Premium members can add these three titles to their game library from October 4 until October 31. Sony will announce the PlayStation Plus Extra and Premium Game Catalog lineup for October later this month.
+Coming to PS4 and PS5 is the arcade sim Hot Wheels Unleashed that finds you collecting, building, and racing vehicles. You can race side by side with friends in two-player split-screen, or go up against 12 opponents in online challenges.
+ Read more]]></summary>
+        <author>
+            <name>Stephany Nunneley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First look: Nvidia DLSS 3 - AI upscaling enters a new dimension]]></title>
+        <id>https://www.eurogamer.net/digitalfoundry-2022-first-look-nvidia-dlss-3-ai-upscaling-enters-a-new-dimension</id>
+        <link href="https://www.eurogamer.net/digitalfoundry-2022-first-look-nvidia-dlss-3-ai-upscaling-enters-a-new-dimension"/>
+        <updated>2022-09-28T17:47:33.000Z</updated>
+        <summary type="html"><![CDATA[Two key PC technologies started to emerge towards the end of 2018 - hardware-accelerated ray tracing and machine learning based super-sampling. Forming the basis of Nvidia's brand change from GTX to RTX, the technologies have continued to be refined across the years. With the arrival of the new RTX 4000 graphics line, we have a new innovation in performance-boosting technology. DLSS 3 adds AI frame generation to its existing DLSS 2-based spatial upscaling. We've been putting the technology through its paces for the last ten days and we're impressed by the results.
+Nvidia supplied us with a GeForce RTX 4090 ahead of time, along with incomplete preview builds of three DLSS 3-enabled titles: the path-traced Portal RTX, Marvel's Spider-Man and Cyberpunk 2077. The latter shouldn't be confused w…]]></summary>
+        <author>
+            <name>Richard Leadbetter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare's invisible CAPTCHA works by probing browsers with JavaScript]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/28/cloudflares_new_captcha_killer_enters/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/28/cloudflares_new_captcha_killer_enters/"/>
+        <updated>2022-09-28T17:42:03.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Beta-grade widget respects your privacy, we're promised</h4> <p>Cloudflare has begun a public beta test of a CAPTCHA alternative that runs quietly in the background to automatically determine if the webpage visitor is an actual human. Its goal is to allow netizens to avoid having to complete those tedious prove-you're-not-a-bot tests on websites.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DALL-E image generator is now open to everyone]]></title>
+        <id>https://arstechnica.com/?p=1885259</id>
+        <link href="https://arstechnica.com/?p=1885259"/>
+        <updated>2022-09-28T17:33:13.000Z</updated>
+        <summary type="html"><![CDATA[DALL-E launched frenzy of image synthesis development but was invitation-only until now.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Maps gets augmented reality search results]]></title>
+        <id>https://arstechnica.com/?p=1884560</id>
+        <link href="https://arstechnica.com/?p=1884560"/>
+        <updated>2022-09-28T17:31:42.000Z</updated>
+        <summary type="html"><![CDATA[Search for an ATM or restaurant and Maps can point the way via your camera feed.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Fiber touts 20Gbps download speed in test, promises eventual 100Gbps]]></title>
+        <id>https://arstechnica.com/?p=1885247</id>
+        <link href="https://arstechnica.com/?p=1885247"/>
+        <updated>2022-09-28T17:25:19.000Z</updated>
+        <summary type="html"><![CDATA[Google Fiber test delivered 20.2Gbps downloads to exec's home in Kansas City.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intel Displays Custom Arc A770 and Arc A750 Boards]]></title>
         <id>GiNsZMB3qoYZsvdnSGT56U</id>
@@ -27,6 +91,26 @@ The reason for the latest delay, according to Ubisoft, is the team needs extra t
  Read more]]></summary>
         <author>
             <name>Stephany Nunneley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon’s $340 Kindle Scribe is its first e-reader with handwriting and pen support]]></title>
+        <id>https://arstechnica.com/?p=1885221</id>
+        <link href="https://arstechnica.com/?p=1885221"/>
+        <updated>2022-09-28T17:14:23.000Z</updated>
+        <summary type="html"><![CDATA[It will also be Amazon's largest Kindle e-reader, with a 10.2-inch display.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ship that warned Titanic of icebergs has been found at bottom of Irish Sea]]></title>
+        <id>https://arstechnica.com/?p=1885190</id>
+        <link href="https://arstechnica.com/?p=1885190"/>
+        <updated>2022-09-28T17:13:51.000Z</updated>
+        <summary type="html"><![CDATA[The SS Mesaba was torpedoed by a German sub six years after Titanic's sinking.]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
         </author>
     </entry>
     <entry>
@@ -18407,16 +18491,6 @@ Before we start, we have to clarify the formula a bit: If a node is an entry nod
         <summary type="html"><![CDATA[Och folk är hyfsat nöjda.]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arrest warrant issued for Do Kwon – the man blamed for 'crypto winter']]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/15/terraform_ceo_do_kwon_warrant_sk/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/15/terraform_ceo_do_kwon_warrant_sk/"/>
-        <updated>2022-09-15T06:30:14.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Terraform Labs CEO was boss of the TerraUSD and Luna crypto crash. South Korea wants him in cuffs</h4> <p>South Korea has issued an arrest warrant for Do Kwon, the founder and CEO of troubled cryptocurrency company Terraform Labs, which is blamed for a massive crash in cryptocurrency values.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
