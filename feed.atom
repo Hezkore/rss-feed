@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-28T07:38:06.331Z</updated>
+    <updated>2022-09-28T08:35:46.679Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Is it time to retire C and C++ for Rust in new programs?]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/28/is_it_time_to_retire_c/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/28/is_it_time_to_retire_c/"/>
+        <updated>2022-09-28T08:30:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Mark Russinovich, Microsoft Azure CTO, thinks so</h4> <p><strong>Column</strong>  We all know that the Rust language has become much more popular. By Slashdata's count, Rust users have nearly tripled in the past 24 months.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Geforce RTX 4090 från partnertillverkare dyker upp hos Proshop]]></title>
+        <id>https://www.sweclockers.com/artikel/34985</id>
+        <link href="https://www.sweclockers.com/artikel/34985-geforce-rtx-4090-fran-partnertillverkare-dyker-upp-hos-proshop"/>
+        <updated>2022-09-28T08:14:29.000Z</updated>
+        <summary type="html"><![CDATA[Lanseringen av RTX 4090 är bara någon vecka bort och återförsäljaren Proshop har lagt upp värstingkort från partnertillverkare – inklusive priser.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nu går Metal: Hellsinger att modda med egen musik]]></title>
+        <id>https://www.fz.se/artikel/291607</id>
+        <link href="https://www.fz.se/artikel/291607-nu-gar-metal-hellsinger-att-modda-med-egen-musik"/>
+        <updated>2022-09-28T07:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Och så här ser det ut med jazz istället för metal.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Here's how crooks will use deepfakes to scam your biz]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/28/trend_deepfake_video/</id>
@@ -17358,39 +17388,6 @@ Eville is a multiplayer social deduction game from developer VestGames that's co
 Read more]]></summary>
         <author>
             <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia buys Arm ... Neoverse V2 CPU cores for Grace chip]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/14/nvidias_grace_arm_neoverse_v2/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/14/nvidias_grace_arm_neoverse_v2/"/>
-        <updated>2022-09-14T20:16:05.000Z</updated>
-        <summary type="html"><![CDATA[<h4>GPU giant still thinks Softbank-owned designs are worth the RISC</h4> <p>Arm says Nvidia’s Grace processor will be among the first chips to use its upcoming Neoverse V2 CPU cores.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Judgment and Lost Judgment are both now available for PC]]></title>
-        <id>https://www.vg247.com/judgment-lost-judgment-pc-steam-released</id>
-        <link href="https://www.vg247.com/judgment-lost-judgment-pc-steam-released"/>
-        <updated>2022-09-14T20:05:03.000Z</updated>
-        <summary type="html"><![CDATA[SEGA and Ryu Ga Gotoku Studio have released Judgment and its sequel Lost Judgment for PC on Steam.
-The original Judgment is an action-adventure detective game that takes place in a crime-ridden Tokyo. In it, you play as Takayuki Yagami, a disgraced defense attorney turned detective working his way through Kamurocho’s underground crime network to uncover the truth behind a string of grisly murders.
-With gameplay, there are two unique battle styles to take down adversaries, and you'll have fun with the Hollywood-worthy combat sequences and cinematic twists and turns.
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ford gives dealers 2 months to accept new rules or stop selling EVs]]></title>
-        <id>https://arstechnica.com/?p=1881373</id>
-        <link href="https://arstechnica.com/?p=1881373"/>
-        <updated>2022-09-14T19:38:02.000Z</updated>
-        <summary type="html"><![CDATA[From 2024, Ford EVs will only be sold at Model e-certified dealerships.]]></summary>
-        <author>
-            <name>Jonathan M. Gitlin</name>
         </author>
     </entry>
 </feed>
