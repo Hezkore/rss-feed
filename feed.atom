@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-28T23:30:13.581Z</updated>
+    <updated>2022-09-29T02:41:01.884Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenAI opens doors to DALL-E after the horse has bolted to Midjourney and others]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/29/openai_ai_imaging_open/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/29/openai_ai_imaging_open/"/>
+        <updated>2022-09-29T00:15:17.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Ironic that an ML lab with so many accelerators is such a slowpoke</h4> <p>OpenAI on Wednesday made DALL-E, its cloud service for generating images from text prompts, available to the public without any waitlist. But the crowd that had gathered outside its gate may have moved on.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ryzen Threadripper 7000 Storm Peak CPU Surfaces With 64 Zen 4 Cores]]></title>
+        <id>s6EAMA8QNF7JeLKiGUwqDX</id>
+        <link href="https://www.tomshardware.com/news/ryzen-threadripper-7000-storm-peak-cpu-surfaces-with-64-zen-4-cores"/>
+        <updated>2022-09-29T00:01:25.000Z</updated>
+        <summary type="html"><![CDATA[AMD's Zen 4-based Ryzen Threadripper 7000 (Storm Peak) CPU and Phoenix Point APUs emerge in the wild.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Never-before-seen malware has infected hundreds of Linux and Windows devices]]></title>
+        <id>https://arstechnica.com/?p=1885478</id>
+        <link href="https://arstechnica.com/?p=1885478"/>
+        <updated>2022-09-28T23:48:03.000Z</updated>
+        <summary type="html"><![CDATA[Small office routers? FreeBSD machines? Enterprise servers? Chaos infects them all.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft to kill off old access rules in Exchange Online]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/28/microsoft_exchange_online_cars/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/28/microsoft_exchange_online_cars/"/>
+        <updated>2022-09-28T23:34:30.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Awoooogah – this is your one-year warning to switch over, enterprises</h4> <p>Microsoft next month will start phasing out Client Access Rules (CARs) in Exchange Online – and will do away with this means for controlling access altogether within a year.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grand Canyon’s explosive gastroenteritis was a 3-month, multisource outbreak]]></title>
         <id>https://arstechnica.com/?p=1885472</id>
@@ -17691,515 +17731,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[A new Linux OS scheduler is being developed which can reduce lag and increase system performance for light and moderate workloads by keeping work located to as few cores as possible.]]></summary>
         <author>
             <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[343 backtracks on adding a premium currency to Halo MCC]]></title>
-        <id>https://www.eurogamer.net/343-backtracks-on-adding-a-premium-currency-to-halo-mcc</id>
-        <link href="https://www.eurogamer.net/343-backtracks-on-adding-a-premium-currency-to-halo-mcc"/>
-        <updated>2022-09-15T14:40:00.000Z</updated>
-        <summary type="html"><![CDATA[343 Industries has announced that it will not be adding purchasable Spartan Points into Halo: The Master Chief Collection. 
-
-Back in June, 343 discussed the idea of introducing Spartan Points, a premium currency to unlock items within the game.
-
-
-The idea was that given there are over 1000 customisation items in MCC which were added over the years, it could be overwhelming for new players or those who only hop into the game occasionally. 
- 
-Read more]]></summary>
-        <author>
-            <name>Ishraq Subhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Capcom announces Resident Evil 4 remake last-gen version for PS4, but not Xbox One]]></title>
-        <id>https://www.eurogamer.net/capcom-announces-resident-evil-4-remake-last-gen-version-for-ps4-but-not-xbox-one</id>
-        <link href="https://www.eurogamer.net/capcom-announces-resident-evil-4-remake-last-gen-version-for-ps4-but-not-xbox-one"/>
-        <updated>2022-09-15T14:36:34.000Z</updated>
-        <summary type="html"><![CDATA[Capcom has announced a last-gen PlayStation 4 version of its upcoming Resident Evil 4 remake - but will still skip the Xbox One. 
-
-
-The long-rumoured Resi 4 remake was finally unveiled back in June, and was initially announced for just PC, PlayStation 5 and Xbox Series X/S.
-
-
-Today, during a Tokyo Games Show livestream, Capcom said it had been working on securing a last-gen version of the game as well - and it had done so, but only for PS4.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDE Plasma 5.26 Beta Released With New "Plasma Bigscreen" Interface For TVs]]></title>
-        <id>https://www.phoronix.com/news/KDE-Plasma-5.26-Beta</id>
-        <link href="https://www.phoronix.com/news/KDE-Plasma-5.26-Beta"/>
-        <updated>2022-09-15T14:30:39.000Z</updated>
-        <summary type="html"><![CDATA[The KDE community has today released the beta of the upcoming Plasma 5.26 desktop...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Outlook sends users back to 1930 with (very) mini-Millennium-Bug glitch]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/15/microsoft_outlook_date_glitch/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/15/microsoft_outlook_date_glitch/"/>
-        <updated>2022-09-15T14:30:13.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Planes unlikely to fall out of sky after December 31, 2029, El Reg can confirm</h4> <p>Microsoft has released a (very) miniature rival to the Millennium Bug into the wild with a glitch in Outlook that takes the user instead back to the 20th century if they seek dates beyond December 31, 2029.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Planera mera! Howlongtobeat införs i Xbox-appen på pc]]></title>
-        <id>https://www.fz.se/artikel/291470</id>
-        <link href="https://www.fz.se/artikel/291470-planera-mera-howlongtobeat-infors-i-xbox-appen-pa-pc"/>
-        <updated>2022-09-15T14:27:30.000Z</updated>
-        <summary type="html"><![CDATA[Få koll på statistiken direkt i appen.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This 1000W 80+ Platinum power supply is ready for RTX 4090]]></title>
-        <id>https://www.rockpapershotgun.com/this-1000w-80-platinum-power-supply-is-ready-for-rtx-4090</id>
-        <link href="https://www.rockpapershotgun.com/this-1000w-80-platinum-power-supply-is-ready-for-rtx-4090"/>
-        <updated>2022-09-15T14:25:58.000Z</updated>
-        <summary type="html"><![CDATA[One of the best 1000W computer power supplies is going cheap(er) on Amazon today, as the EVGA SuperNova 1000 P6 has dropped from £200 to £150. That's an excellent price for a well-reviewed unit with 80+ Platinum efficiency and a fully modular design - not to mention a surprisingly compact ATX design that will work in a wide range of PC cases. 
-Read more]]></summary>
-        <author>
-            <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KDE Plasma 5.26 Desktop Environment Enters Public Beta Testing, Here’s What’s New]]></title>
-        <id>https://9to5linux.com/?p=14016</id>
-        <link href="https://9to5linux.com/kde-plasma-5-26-desktop-environment-enters-public-beta-testing-heres-whats-new"/>
-        <updated>2022-09-15T14:18:50.000Z</updated>
-        <summary type="html"><![CDATA[The KDE Plasma 5.26 desktop environment is now available for public beta testing ahead of its October 11th, 2022, final release. Here are the major new features and improvements!
-The post KDE Plasma 5.26 Desktop Environment Enters Public Beta Testing, Here’s What’s New appeared first on 9to5Linux - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.]]></summary>
-        <author>
-            <name>Marius Nestor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deathloop coming to Xbox Series X/S and Xbox Game Pass next week]]></title>
-        <id>https://www.vg247.com/deathloop-xbox-series-x-s-release-date</id>
-        <link href="https://www.vg247.com/deathloop-xbox-series-x-s-release-date"/>
-        <updated>2022-09-15T14:11:55.000Z</updated>
-        <summary type="html"><![CDATA[Now that the PlayStation 5 exclusivity period is up, Arkane Lyon’s Deathloop will finally arrive on Xbox Series X/S next week on September 20. It will be available the same day on Xbox Game Pass.
-The news shouldn’t come as a surprise considering a pre-order ad for the game recently popped up on Xbox consoles through the store page.
-The Xbox version comes with all updates released for the game since its release. The updates include photomode, additional accessibility options, cross-play matchmaking, and a multitude of quality-of-life fixes
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Discord update adds forum channels to community servers]]></title>
-        <id>https://www.eurogamer.net/discord-update-adds-forum-channels-to-community-servers</id>
-        <link href="https://www.eurogamer.net/discord-update-adds-forum-channels-to-community-servers"/>
-        <updated>2022-09-15T14:06:44.000Z</updated>
-        <summary type="html"><![CDATA[Forum channels have been added to Discord's community servers.
-
-
-This new feature will allow users to create "dedicated spaces for each new topic of discussion," Discord explains.
-
-
-"You'll be able to see everything people are chatting about before you jump in, allowing you to engage in an existing discussion - or start a new one - without worrying about breaking up or getting in the way of other ongoing conversations."
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deltarune isn’t coming out this year, but here’s some more Toby Fox bangers]]></title>
-        <id>https://www.rockpapershotgun.com/deltarune-isnt-coming-out-this-year-but-heres-some-more-toby-fox-bangers</id>
-        <link href="https://www.rockpapershotgun.com/deltarune-isnt-coming-out-this-year-but-heres-some-more-toby-fox-bangers"/>
-        <updated>2022-09-15T14:06:27.000Z</updated>
-        <summary type="html"><![CDATA[It’s been just about a year since Chapter 2 of Deltarune was released for free, but we won’t be seeing any more from the game this year. That’s the message from dev Toby Fox, who’s posted an update on how Deltarune’s coming along. Fox’s message to those eagerly awaiting more from the game was published to mark the seventh anniversary of his indie RPG smash Undertale. It shares some new screens, GIFs, a video and even some tunes.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plasma is an engineering sandbox with dizzying potential]]></title>
-        <id>https://www.eurogamer.net/plasma-is-an-engineering-sandbox-with-dizzying-potential</id>
-        <link href="https://www.eurogamer.net/plasma-is-an-engineering-sandbox-with-dizzying-potential"/>
-        <updated>2022-09-15T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I had an interview with the team behind Plasma. Sadly, I listened back to the transcript and it's fifteen minutes of me laughing with delight, while heavy aircraft are clearly going through maneuvers overhead. No matter. Plasma is dizzyingly complex, but very easy to explain. It's an engineering sandbox game. You make stuff in a 3D world using pre-made parts and simplified code, and then you can share it with other people.
-
-
-What kind of stuff? The team isn't sure - as in, they aren't sure where the boundaries are. People are going to make dioramas and games and working Babbage engines no doubt. Over the course of my interview I saw a working Pong machine, with a screen to play the game on and a decent run at the classic Pong cabinet. I saw a bunny robot with an emoji face and massive feet that kept falling over. I saw an articulated hand the size of a house that moved between waving and giving me a brisk thumbs-up. When doesn't that add something to your day? Oh yes, and a horrible robot spider that had basic player-seeking capabilities. 
-
-
-All of this in a 3D world with gentle hills, blue skies and green grass. But how does it work? To answer this I was shown a little remote control car that could be steered with a joypad. And then the developers made a second car, shaping basic blocks, putting on an engine and wheels and a device for programming steering, and then disappearing into a sort of drag-and-drop code space in which you can cobble together inputs and outputs, and tweak endlessly if that's your thing.
- 
-Read more]]></summary>
-        <author>
-            <name>Christian Donlan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Halo Infinite's cancelled split-screen campaign co-op tested - and it's excellent]]></title>
-        <id>https://www.eurogamer.net/halo-infinites-cancelled-split-screen-campaign-co-op-tested-and-its-excellent</id>
-        <link href="https://www.eurogamer.net/halo-infinites-cancelled-split-screen-campaign-co-op-tested-and-its-excellent"/>
-        <updated>2022-09-15T13:57:00.000Z</updated>
-        <summary type="html"><![CDATA[The news of the cancellation of Halo Infinite's campaign co-op split-screen option has been frustrating - not least because I was looking forward to playing it with my son, just as I have with all prior Halo titles supporting the feature. The fact that 343 Industries isn't supporting it is all the more confusing because right now at least, it's possible to glitch your way into split-screen campaign co-op for up to four players. It's true that the feature is not without its bugs, but in my experience, these are relatively minor and it's possible to play through the entire campaign in split-screen mode. Adding to the sense of disappointment is how close 343 has got to finalising this feature - and it plays brilliantly.
-
-
-To fully understand the story, we need to go back to 2017 when then-343 Industries head Bonnie Ross addressed the lack of split-screen campaign co-op in Halo 5, making this comment during the 2017 DICE summit: "When we didn't put split-screen in with Halo 5, I think it's incredibly painful for the community - and for us. It erodes trust with the community, as the community is part of our world building... I would say for any FPS going forward, we will always have split-screen."
-
-
-The situation changed a couple of weeks ago when 343's head of creative, Joseph Staten announced the cancellation of the feature, suggesting that - to put it bluntly - finite resources were better deployed elsewhere: "We had to make the difficult decision not to ship campaign split-screen co-op and take the resources we would use on that and go after this list and all these other things."
- 
-Read more]]></summary>
-        <author>
-            <name>John Linneman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jonathan Dowland: things I'd like to 3D print, revisited]]></title>
-        <id>https://jmtd.net/log/3d_print_list/2/</id>
-        <link href="https://jmtd.net/log/3d_print_list/2/"/>
-        <updated>2022-09-15T13:55:42.000Z</updated>
-        <summary type="html"><![CDATA[Back in November I wrote up a list of 25 things I would 3D print.
-Let's revisit the list and see how things have developed.
-Stuff I won't print
-
-Some kind of 45° leaning prong to dry bottles and flasks on
-A tea tray and coasters
-Small tins to keep loose-leaf tea in
-It was pointed out to me that you can't safely print things to store food in
-with most materials, as their porous/layered nature facilitates the growth of
-bacteria. So, I'll rule out those items.
-A vinyl record.
-
-
-The size of the grooves in a vinyl record are smaller than conventional FDM
-printers can achieve.
-Things I've printed
-a replacement prop arm/foot for my computer keyboard
-
-
-Someone has modelled the exact part I need, and it worked great:
-https://www.printables.com/model/59132-lenovo-keyboard-kt-1255
-
-
-replacement toy b…]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HowLongToBeat has been integrated into the Xbox app on PC]]></title>
-        <id>https://www.eurogamer.net/howlongtobeat-has-been-integrated-into-xbox-app-on-pc</id>
-        <link href="https://www.eurogamer.net/howlongtobeat-has-been-integrated-into-xbox-app-on-pc"/>
-        <updated>2022-09-15T13:49:39.000Z</updated>
-        <summary type="html"><![CDATA[A new update for the Xbox app on PC has added official integration of website HowLongToBeat.
-
-If you haven't used it before, HowLongToBeat is a community run website where people can log how long it took them to beat a certain game. The times are then averaged to provide a rough estimate of the game's expected length.
-
-It's by no means sound scientifically, but it's a nifty way of ballparking how much time you might need to finish a game's story before you commit to playing (or buying) it.
- 
-Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Former Cisco boss launches upstart to rattle old employer's cage]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/15/john_chambers_nile/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/15/john_chambers_nile/"/>
-        <updated>2022-09-15T13:45:13.000Z</updated>
-        <summary type="html"><![CDATA[<h4>John Chambers' Nile wants to remove humans from network management</h4> <p>Tech veteran John Chambers says he wants to take on Cisco, the business he built into a multibillion-dollar beast, by launching a startup that intends to remove humans from the network management equation.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deathloop kommer till Xbox Series och Game Pass nästa vecka]]></title>
-        <id>https://www.fz.se/artikel/291468</id>
-        <link href="https://www.fz.se/artikel/291468-deathloop-kommer-till-xbox-series-och-game-pass-nasta-vecka"/>
-        <updated>2022-09-15T13:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Ännu en chans att testa Arkanes senaste.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Engineers Held Several Interesting Talks At This Week's Linux Conferences]]></title>
-        <id>https://www.phoronix.com/news/AMD-Dublin-Linux-Talks-2022</id>
-        <link href="https://www.phoronix.com/news/AMD-Dublin-Linux-Talks-2022"/>
-        <updated>2022-09-15T13:35:21.000Z</updated>
-        <summary type="html"><![CDATA[While we are used to seeing Intel engineers dominating the speaker lists at various Linux events around the world, it's been a number of years since AMD engineers held multiple presentations like they did this week for the Linux Plumbers Conference and now the Open-Source Summit EU taking place in Dublin, Ireland...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Playstation VR 2 lovordas vid första titt]]></title>
-        <id>https://www.sweclockers.com/artikel/34928</id>
-        <link href="https://www.sweclockers.com/artikel/34928-playstation-vr-2-lovordas-vid-forsta-titt"/>
-        <updated>2022-09-15T13:25:11.000Z</updated>
-        <summary type="html"><![CDATA[Både Playstation VR 2 och Horizon: Call of the Mountain får positivt mottagande när en prototyp letar sig ut för testsessioner.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern Warfare 2's Gunsmith 2.0 is more customisable than ever before]]></title>
-        <id>https://www.eurogamer.net/modern-warfare-2s-gunsmith-20-is-more-customisable-than-ever-before</id>
-        <link href="https://www.eurogamer.net/modern-warfare-2s-gunsmith-20-is-more-customisable-than-ever-before"/>
-        <updated>2022-09-15T13:23:57.000Z</updated>
-        <summary type="html"><![CDATA[Infinity Ward has shared new details on Call of Duty: Modern Warfare 2's Gunsmith, dubbed "Gunsmith 2.0." 
-
-
-Gunsmith was first introduced in Call of Duty: Modern Warfare (2019) as a replacement of the attachment system used in preceding titles, and it's been used in every game since. 
-
-
-The system allows players to customise their weapons in greater detail, with multiple attachments, optics and of course, skins. 
- 
-Read more]]></summary>
-        <author>
-            <name>Ishraq Subhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung investing $5b in efforts to be carbon neutral by 2050]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/15/samsung_invests_in_carbon_neutral/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/15/samsung_invests_in_carbon_neutral/"/>
-        <updated>2022-09-15T13:14:30.000Z</updated>
-        <summary type="html"><![CDATA[<h4>That's quite the challenge to neutralize – making chips and electronics is hardly ecofriendly</h4> <p>Global chip and consumer electronics biz Samsung has a blueprint to become carbon neutral by 2050 that includes investing 7 trillion won ($5.01 billion) to support energy efficiency and sustainability.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sable coming to PlayStation 5, along with new content and features]]></title>
-        <id>https://www.eurogamer.net/sable-coming-to-playstation-5-along-with-new-content-and-features</id>
-        <link href="https://www.eurogamer.net/sable-coming-to-playstation-5-along-with-new-content-and-features"/>
-        <updated>2022-09-15T13:13:56.000Z</updated>
-        <summary type="html"><![CDATA[Coming-of-age title Sable is making its way to PlayStation 5 by the "end of this year", publisher Raw Fury has announced.
-
-
-On its release, players will receive new content including a fishing mini game and an angler mask. There will also be the chance to add various fish and insects to your Vivarium. 
-
-
-Meanwhile, developer Shedworks has said, thanks to the PS5's DualSense controller, riding over the game's sand dunes will be "as immersive as ever" with this release.
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://shencomix.tumblr.com/post/695465359028961280</id>
-        <link href="https://shencomix.tumblr.com/post/695465359028961280"/>
-        <updated>2022-09-15T13:10:50.000Z</updated>
-        <summary type="html"><![CDATA[a v2 (1?) of yesterday’s]]></summary>
-        <author>
-            <name>Shen Comix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[City Wars: Tokyo Reign review - my new favourite card battler]]></title>
-        <id>https://www.eurogamer.net/city-wars-tokyo-reign-review-my-new-favourite-card-battler</id>
-        <link href="https://www.eurogamer.net/city-wars-tokyo-reign-review-my-new-favourite-card-battler"/>
-        <updated>2022-09-15T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Last night I got through two whole districts with almost no health, and no prospects. An early boss had whittled me down to almost nothing, so I lurched into the eternal night thinking - four health? This won't last long. For comparison, I start with 300 health, and that's rarely enough. But something happened. The City surprised me. I had a sort of unlikely cyberpunk cup run. Two whole districts on four health. I'm still thinking about it.
-City Wars: Tokyo Reign is the kind of game that surprises me. It surprises me constantly, with great roguelite runs like last night's, in which I almost gave up but ended up travelling further than I could have imagined. It surprises me as I see a new wrinkle in its endless unspooling strategies, as I find a new synergy in its cards. It surprised me at the start by filling me with raw enthusiasm for a collectible card game that was also a roguelite - hardly a genre mash-up in short supply. It surprised me that I could take its initially daunting rules and make them my own. City Wars makes CCGs fresh again - it has for me, anyway. I really hope you'll play it too.
-So let's get the roguelite stuff out of the way. It's a cyberpunk city filled with alleyways and midnight horrors. You choose a class and then get a randomised loadout of cards from your growing collection, a gun that works as a stats modifier, and a charm that gives you a perk of some kind. 
- Read more]]></summary>
-        <author>
-            <name>Christian Donlan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indie horror Saturnalia whisks you to a haunted Sardinian town just in time for Halloween]]></title>
-        <id>https://www.rockpapershotgun.com/indie-horror-saturnalia-whisks-you-to-a-haunted-sardinian-town-just-in-time-for-halloween</id>
-        <link href="https://www.rockpapershotgun.com/indie-horror-saturnalia-whisks-you-to-a-haunted-sardinian-town-just-in-time-for-halloween"/>
-        <updated>2022-09-15T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Single-player horror adventure Saturnalia is inviting you to a very creepy Sardinian party just in time for Halloween, exclusive to the Epic Games Store on PC. It’s been created by Santa Ragione, the Italian development studio behind visual novel road trip Wheels Of Aurelia and endless runner Fotonica. Check out the trailer below and try to think what music video it reminds you of.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Foretales review: channelling Hand Of Fate's tabletop deckbuilding to great effect]]></title>
-        <id>https://www.rockpapershotgun.com/foretales-review</id>
-        <link href="https://www.rockpapershotgun.com/foretales-review"/>
-        <updated>2022-09-15T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hand Of Fate was such a singular thing. On the one hand, it was a tabletop deckbuilding game that saw you picking through roguelike-style dungeons by choosing different cards dealt out by its mysterious Dealer. On the other, it was also an action-packed hack and slasher, bringing its fantastical fight sections to life in fully 3D combat arenas - and there hasn't been anything quite like it since. Voice Of Cards certainly had a go, but its tedious battle system landed it straight on its own discard pile. Thankfully, we've now got the infinitely more engaging Foretales, a new narrative card game from French developers Alkemi, and it comes pretty damn close to capturing that Hand Of Fate goodness. 
-It doesn't ever venture into the realms of 3D admittedly, erring more toward the Inscryption school of tabletop combat encounters, but it does nail the delivery of telling an artful, swashbuckling adventure through cards and cards alone. And much like Hand Of Fate, this isn't a one and done affair, either, as there are multiple paths to take through this entertaining fantasy yarn, and several game-changing decisions you'll have to make as you try and avert a string of terrible visions threatening to destroy its anthropomorphic animal world. You won't succeed at preventing them all during a single playthrough, but its hard choices only make its overarching story that much more gripping. 
-Read more]]></summary>
-        <author>
-            <name>Katharine Castle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASRock Unveils 34-Inch Phantom Gaming Monitor with Built-In Wi-Fi Antenna]]></title>
-        <id>H9kGoAZgHQeAyFmeUp6RtD</id>
-        <link href="https://www.tomshardware.com/news/asrock-unveils-34-inch-phantom-gaming-monitor-with-built-in-wifi-antenna"/>
-        <updated>2022-09-15T12:53:02.000Z</updated>
-        <summary type="html"><![CDATA[ASRock enters monitors game with 27 and 34-inch FreeSync Premium LCDs.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En halv miljon Call of Duty-konton har stängts av]]></title>
-        <id>https://www.fz.se/artikel/291467</id>
-        <link href="https://www.fz.se/artikel/291467-en-halv-miljon-call-of-duty-konton-har-stangts-av"/>
-        <updated>2022-09-15T12:34:53.000Z</updated>
-        <summary type="html"><![CDATA[Det jobbas hårt med att minska hat och provokationer bland CoD-spelare.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cities: Skylines - Plazas & Promenades expansion is out now]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/cities-skylines-plazas-a-promenades-expansion-is-out-now/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/cities-skylines-plazas-a-promenades-expansion-is-out-now/"/>
-        <updated>2022-09-15T12:31:51.000Z</updated>
-        <summary type="html"><![CDATA[Making the best city-builder even better, the Cities: Skylines - Plazas & Promenades expansion is out now.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iran steps up its cybercrime game and Uncle Sam punches back]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/15/iran_cybercrime_indictments_sanctions/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/15/iran_cybercrime_indictments_sanctions/"/>
-        <updated>2022-09-15T12:30:14.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Criminal charges, more sanctions, and a $10m bounty, oh my</h4> <p>The US has issued indictments against three Iranians linked to the country's Islamic Revolutionary Guard Corps (IRGC) for their alleged roles in plotting ransomware attacks against American critical infrastructure, and also sanctioned multiple individuals and two entities.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Production on Season 2 of Paramount's Halo adaptation has begun]]></title>
-        <id>https://www.eurogamer.net/production-on-season-2-of-paramounts-halo-adaptation-has-begun</id>
-        <link href="https://www.eurogamer.net/production-on-season-2-of-paramounts-halo-adaptation-has-begun"/>
-        <updated>2022-09-15T12:21:18.000Z</updated>
-        <summary type="html"><![CDATA[Paramount has revealed that filming for the second season of its Halo adaptation has kicked off.
-
-
-"The Spartans have landed in Iceland," the company announced earlier. "Season 2 starts production now."
-
-
-Along with this news, a new shot was also shared, showing said Spartans in, well, Iceland. 
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We’re finally getting the Kirby co-op game for Switch that we deserve]]></title>
-        <id>https://www.vg247.com/were-finally-getting-the-kirby-co-op-game-for-switch-that-we-deserve</id>
-        <link href="https://www.vg247.com/were-finally-getting-the-kirby-co-op-game-for-switch-that-we-deserve"/>
-        <updated>2022-09-15T12:05:56.000Z</updated>
-        <summary type="html"><![CDATA[A short while ago, I played Kirby’s Dream Buffet. Following the announcement of the game, I was completely ecstatic. You’re telling me they’re putting my favourite pink puff ball into what, essentially, looks like a tasty version of Fall Guys? And it’s going to be co-op? And it’s on the Switch!?
-I was ready to make Kirby’s Dream Buffet one of my games of choice at gatherings, placing it on the same pedestal as Mario Kart 8 Deluxe. However, when I actually got my hands on the game, I was left disappointed.
-The co-op features that I anticipated were missing. Kirby’s Dream Land felt limited, only allowing for two-player local co-op. Online, I could play with three more friends, but they would then need to buy the game – as well as have their own Switch device to hand. I had my qualms with the game outside of this, which landed a 2/5 in my review, but it was the lack of four-player local co-op that, to me, made the entire premise of the game feel a little redundant.
- Read more]]></summary>
-        <author>
-            <name>Kelsey Raynor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[If you want to play Warzone Mobile as soon as possible, now’s your chance]]></title>
-        <id>https://www.vg247.com/call-of-duty-warzone-mobile-pre-registration</id>
-        <link href="https://www.vg247.com/call-of-duty-warzone-mobile-pre-registration"/>
-        <updated>2022-09-15T12:04:50.000Z</updated>
-        <summary type="html"><![CDATA[Just a few hours before the big Call of Duty: Next event, pre-registrations for Warzone Mobile have officially gone live in some parts of the world. As it stands, this is only limited to the Android version of the game.
-While those looking to play Warzone Mobile on iOS currently have no way to pre-register, it's likely that they will open up today during or following the show.
-Call of Duty: Warzone Mobile was only recently announced, but eager players saw that Android pre-registrations have opened on the Google Play Store. Clicking the button simply means you can pre-install it once it goes live, which is helpful in cases where the game is rolling out gradually.
- Read more]]></summary>
-        <author>
-            <name>Sherif Saed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flower developer's Sky: Children of the Light headed to PlayStation]]></title>
-        <id>https://www.eurogamer.net/flower-developers-acclaimed-sky-children-of-the-light-headed-to-playstation</id>
-        <link href="https://www.eurogamer.net/flower-developers-acclaimed-sky-children-of-the-light-headed-to-playstation"/>
-        <updated>2022-09-15T11:59:07.000Z</updated>
-        <summary type="html"><![CDATA[Sky: Children of the Light, the most recent game from Flower and Journey developer thatgamecompany, will arrive on PlayStation in December. 
-
-
-The social adventure game is already available on mobile and Nintendo Switch, where it has racked up a combined 160m downloads across the iPhone App Store, Google Play and Switch eShop.
-
-
-As with other platforms, this new PlayStation version will remain free-to-play and benefit from cross-platform play. 
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kojima teasar nästa spel med frågan: Who am I?]]></title>
-        <id>https://www.fz.se/artikel/291466</id>
-        <link href="https://www.fz.se/artikel/291466-kojima-teasar-nasta-spel-med-fragan-who-am-i"/>
-        <updated>2022-09-15T11:48:11.000Z</updated>
-        <summary type="html"><![CDATA[Vem vet? Inte du. Vem vet? Inte jag.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looks like Call of Duty: Modern Warfare 2 is getting a third-person mode]]></title>
-        <id>https://www.eurogamer.net/looks-like-call-of-duty-modern-warfare-2-is-getting-a-third-person-mode</id>
-        <link href="https://www.eurogamer.net/looks-like-call-of-duty-modern-warfare-2-is-getting-a-third-person-mode"/>
-        <updated>2022-09-15T11:44:08.000Z</updated>
-        <summary type="html"><![CDATA[As Call of Duty fans wait for Activision to reveal the future of the franchise later today, some players have already been diving into the settings of the recent Modern Warfare 2 beta to spot new details. 
-
-
-The beta, which is set to go live tomorrow evening, is available to preload now for those who have pre-ordered the game. 
-
-
-The most notable finding has been the option to adjust the "3rd Person Field of View," which implies that the game will feature a third-person game mode, as well as an FOV slider on console. 
- 
-Read more]]></summary>
-        <author>
-            <name>Ishraq Subhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Like a Dragon too violent and "underground" for Nintendo Switch, says producer]]></title>
-        <id>https://www.eurogamer.net/like-a-dragon-too-violent-and-underground-for-nintendo-switch-says-producer</id>
-        <link href="https://www.eurogamer.net/like-a-dragon-too-violent-and-underground-for-nintendo-switch-says-producer"/>
-        <updated>2022-09-15T11:35:33.000Z</updated>
-        <summary type="html"><![CDATA[Despite the flurry of Like a Dragon (or Yakuza) games that have been recently announced, none of them will be released on Switch.
-
-Indeed, a Switch port of anything Yakuza is unlikely to happen, according to Ryu Ga Gotoku Sydido head Masayoshi Yokoyama.
-
-Yokoyama made the statement in an interview with GameSpot yesterday and explained why the studio was reluctant to put Yakuza on Switch.
- 
-Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deathloop strikes again on Game Pass and the Microsoft Store next week]]></title>
-        <id>https://www.rockpapershotgun.com/deathloop-strikes-again-on-game-pass-and-the-microsoft-store-next-week</id>
-        <link href="https://www.rockpapershotgun.com/deathloop-strikes-again-on-game-pass-and-the-microsoft-store-next-week"/>
-        <updated>2022-09-15T11:31:44.000Z</updated>
-        <summary type="html"><![CDATA[Arkane’s time-rebooting shooter Deathloop is coming to Game Pass, Xbox Cloud Gaming and the Microsoft Store on September 20th. The addition to the Green Team’s subscription service was announced during this morning’s ID@Xbox livestream at Tokyo Game Show. All the game’s updates from the past year will be present, plus a new update called Goldenloop. That adds a new weapon, ability, enemy types and an extended ending. Oh, and there’s crossplay across all platforms and stores too. Watch the new trailer below.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
         </author>
     </entry>
 </feed>
