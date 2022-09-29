@@ -3256,16 +3256,6 @@
           "wordCount": 4596,
           "title": "There's a new Operation Wolf coming out on consoles and VR, 35 years after the original",
           "imageUrl": "https://assets.reedpopcdn.com/operation-wolf.jfif/BROK/thumbnail/1600x900/format/jpg/quality/80/operation-wolf.jfif"
-        },
-        {
-          "id": "https://www.eurogamer.net/what-weve-been-playing-76",
-          "author": "Eurogamer staff",
-          "description": "Hello! Welcome back to our regular feature where we write a little bit about some of the games we've found ourselves playing over the last few days. This time: laundry, guild problems, and back to hell.\nIf you fancy catching up on some of the older editions of What We've Been Playing, \r\nhere's our archive.\nApparently, I'm drawn to doing mundane things. Perhaps I'm inherently boring. I just can't get enough of tidying up, though, or folding someone's clothes, or washing them. Or cleaning the toilet, and I never thought I'd write that. And I know that isn't really the point of Arcade Paradise - the point is growing an arcade out the back - but it's the mundane half of the game in the laundrette that really balances me, and the game, out. Beautiful monotony - something to gently latch a restless mind onto and occupy my hands with.\n Read more",
-          "link": "https://www.eurogamer.net/what-weve-been-playing-76",
-          "publishedOn": "2022-09-16T09:11:37.000Z",
-          "wordCount": 5537,
-          "title": "What we've been playing",
-          "imageUrl": "https://assets.reedpopcdn.com/Arcade-Paradise-2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Arcade-Paradise-2.jpg"
         }
       ]
     },
@@ -4522,6 +4512,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Intel-Arc-A750-Details",
+          "author": null,
+          "description": "Earlier this week at the Intel Innovation event it was announced the Arc Graphics A770 would be launching 12 October and the base model costing $329 USD. Today the embargo lifts on more details around Intel's forthcoming higher-end Arc Graphics hardware...",
+          "link": "https://www.phoronix.com/news/Intel-Arc-A750-Details",
+          "publishedOn": "2022-09-29T21:00:01.000Z",
+          "wordCount": 1537,
+          "title": "Intel Outlines Arc A750 Graphics Card For $289, More Arc Graphics Details",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Google-Shutting-Down-Stadia",
           "author": null,
           "description": "Back in 2019 Google announced Stadia as their cloud gaming service using Linux, embracing Vulkan, and leveraging AMD graphics. While promising at first, it's been dwindling down and Google announced today they are in the process of shutting down this streaming service...",
@@ -5699,26 +5699,6 @@
           "publishedOn": "2022-09-16T09:37:59.000Z",
           "wordCount": 1376,
           "title": "Intel Sends More Meteor Lake Code, GSC For Xe HP SDV For Linux 6.1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/ASUS-Canonical-IoT-Ubuntu",
-          "author": null,
-          "description": "Canonical announced this morning that they have partnered with ASUS IoT, the division of ASUS focused on providing \"Internet of Things\" hardware, to certify Ubuntu Linux for their devices...",
-          "link": "https://www.phoronix.com/news/ASUS-Canonical-IoT-Ubuntu",
-          "publishedOn": "2022-09-16T09:17:15.000Z",
-          "wordCount": 1406,
-          "title": "ASUS & Canonical Partner On The IoT / Edge Computing Front",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Qt-6.4-RC1-Released",
-          "author": null,
-          "description": "Qt 6.4 is continuing to run on-schedule and out today is the release candidate ahead of the stable release expected around the end of the month...",
-          "link": "https://www.phoronix.com/news/Qt-6.4-RC1-Released",
-          "publishedOn": "2022-09-16T08:55:13.000Z",
-          "wordCount": 1390,
-          "title": "Qt 6.4 Release Candidate Arrives With Added Modules For 3D Physics, HTTP Server",
           "imageUrl": null
         }
       ]
@@ -6947,16 +6927,6 @@
           "wordCount": 5068,
           "title": "Street Fighter 6’s closed beta starts round one in October",
           "imageUrl": "https://assets2.rockpapershotgun.com/Street-Fighter-6-Blanka-art.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Street-Fighter-6-Blanka-art.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/the-wandering-village-early-access-review",
-          "author": "Rachel Watts",
-          "description": "I’ve always thought each of the sixteen colossi in Shadow Of The Colossus is kinda cute in their own special way. There’s just something about the animal-like antics of those immense, lumbering creatures that make them naturally adorable, even though they wouldn’t hesitate in breaking every single bone in my small, weak body.\nZürich-based developers Stray Fawn Studio totally get what I’m on about, and have created their own lovable rocky giant in their city-building sim The Wandering Village. Their creature, Onbu, is a colossal six-legged beast, and the walking platform on which your village sits, a plateau of flat land mass on its back making for an excellent settlement ground. Onbu is best described as a gentle giant. They move slowly but carefully, love to munch on fields of wild mushrooms, nap in meadows of soft pink flowers, and tuck in their paws and tail when sleeping.\nRead more",
-          "link": "https://www.rockpapershotgun.com/the-wandering-village-early-access-review",
-          "publishedOn": "2022-09-16T09:21:17.000Z",
-          "wordCount": 6350,
-          "title": "The Wandering Village early access review: a gorgeous city-builder with a loveable colossus",
-          "imageUrl": "https://assets2.rockpapershotgun.com/the_wandering_village_header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/the_wandering_village_header.jpg"
         }
       ]
     },
@@ -6965,6 +6935,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "9VnrwEULDUjuob4UcPJSCc",
+          "author": null,
+          "description": "Intel is bringing back competitive midrange GPU pricing with the Arc A750 starting at $289, A770 8GB from $329, and A770 16GB from $349, all slated to launch on October 12. Intel has provided comparative benchmarks showing how its upcoming GPUs stack up against the incumbent RTX 3060.",
+          "link": "https://www.tomshardware.com/news/intel-arc-a750-a770-full-pricing-revealed",
+          "publishedOn": "2022-09-29T21:05:32.000Z",
+          "wordCount": 23676,
+          "title": "Intel’s Arc A750, A770 Prices Revealed: Mid-Range is Back",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/9oAxAdzP6XDiHerD8cpr3b.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/9oAxAdzP6XDiHerD8cpr3b.jpg"
+        },
         {
           "id": "e6YcwXqbAY7PF9TybXVHpS",
           "author": null,
@@ -9601,6 +9586,36 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1885686",
+          "author": "Sam Machkovech",
+          "description": "A770 comes in two tiers; Intel preaches \"perf-per-dollar\" wins over Nvidia RTX 3060.",
+          "link": "https://arstechnica.com/?p=1885686",
+          "publishedOn": "2022-09-29T21:01:17.000Z",
+          "wordCount": 1533,
+          "title": "The rest of Intel Arc’s A700-series GPU prices: A750 lands Oct. 12 below $300",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/arc750-listing-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1885707",
+          "author": "Kyle Orland",
+          "description": "Modern game streaming + retro game emulation + Switch-like design = success?",
+          "link": "https://arstechnica.com/?p=1885707",
+          "publishedOn": "2022-09-29T20:40:30.000Z",
+          "wordCount": 1577,
+          "title": "Are Android-based game-streaming handhelds a fad, or are they the future?",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/24-1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1885625",
+          "author": "John Timmer",
+          "description": "The problem appears to be some data that's not being shared.",
+          "link": "https://arstechnica.com/?p=1885625",
+          "publishedOn": "2022-09-29T20:22:43.000Z",
+          "wordCount": 1360,
+          "title": "Room-temperature superconducting claim is retracted",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1301762762-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1885651",
           "author": "Jon Brodkin",
@@ -12917,16 +12932,6 @@
           "wordCount": 1780,
           "title": "Fragzone-Fredag om God of War: Ragnarök, uppföljaren till Breath of the Wild, vad ett spel får kosta, bäst på Gamescom, och mer!",
           "imageUrl": "https://www.fz.se/artikel/og-image/291480"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291479",
-          "author": null,
-          "description": "Gratis om man äger spelet till PS4 eller Xbox One.",
-          "link": "https://www.fz.se/artikel/291479-next-gen-uppgraderingen-till-outer-wilds-ar-slappt",
-          "publishedOn": "2022-09-16T09:02:00.000Z",
-          "wordCount": 1792,
-          "title": "\"Next gen\"-uppgraderingen till Outer Wilds är släppt",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291479"
         }
       ]
     },
@@ -13554,16 +13559,6 @@
           "wordCount": 2098,
           "title": "Tävling: Rendera SweClockers i framtiden och vinn proffsgrafik från PNY",
           "imageUrl": "https://www.sweclockers.com/artikel/34902/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34931",
-          "author": null,
-          "description": "Nvidias kryptiska inlägg på Twitter fortsätter. En närmare titt visar på godsakerna som gömts, däribland specifikationer för det kommande flaggskeppet.",
-          "link": "https://www.sweclockers.com/artikel/34931-nvidia-bekraftar-ada-lovelace-antyder-specifikationer",
-          "publishedOn": "2022-09-16T08:36:18.000Z",
-          "wordCount": 1720,
-          "title": "Nvidia bekräftar \"Ada Lovelace\" – antyder specifikationer",
-          "imageUrl": "https://www.sweclockers.com/artikel/34931/og-image"
         }
       ]
     },
@@ -16141,16 +16136,6 @@
           "wordCount": 1946,
           "title": "Former Reg vulture takes on Nominet – by running for board seat",
           "imageUrl": "https://regmedia.co.uk/2020/11/04/election.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/16/column/",
-          "author": null,
-          "description": "<h4>Even Torvalds pronounces it 'fairly sane'</h4> <p><strong>Column</strong>  A few years ago developers knew eBPF as a handy way to build firewalls yet now it's used everywhere for everything. Get ready for io_uring to do the same.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/16/column/",
-          "publishedOn": "2022-09-16T08:30:11.000Z",
-          "wordCount": 1376,
-          "title": "The next deep magic Linux program to change the world? Io_uring",
-          "imageUrl": "https://regmedia.co.uk/2018/11/05/shutterstock_risk_awareness.jpg"
         }
       ]
     }

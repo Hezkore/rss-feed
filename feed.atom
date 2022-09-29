@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-29T20:29:30.703Z</updated>
+    <updated>2022-09-29T21:25:21.727Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel’s Arc A750, A770 Prices Revealed: Mid-Range is Back]]></title>
+        <id>9VnrwEULDUjuob4UcPJSCc</id>
+        <link href="https://www.tomshardware.com/news/intel-arc-a750-a770-full-pricing-revealed"/>
+        <updated>2022-09-29T21:05:32.000Z</updated>
+        <summary type="html"><![CDATA[Intel is bringing back competitive midrange GPU pricing with the Arc A750 starting at $289, A770 8GB from $329, and A770 16GB from $349, all slated to launch on October 12. Intel has provided comparative benchmarks showing how its upcoming GPUs stack up against the incumbent RTX 3060.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The rest of Intel Arc’s A700-series GPU prices: A750 lands Oct. 12 below $300]]></title>
+        <id>https://arstechnica.com/?p=1885686</id>
+        <link href="https://arstechnica.com/?p=1885686"/>
+        <updated>2022-09-29T21:01:17.000Z</updated>
+        <summary type="html"><![CDATA[A770 comes in two tiers; Intel preaches "perf-per-dollar" wins over Nvidia RTX 3060.]]></summary>
+        <author>
+            <name>Sam Machkovech</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Outlines Arc A750 Graphics Card For $289, More Arc Graphics Details]]></title>
+        <id>https://www.phoronix.com/news/Intel-Arc-A750-Details</id>
+        <link href="https://www.phoronix.com/news/Intel-Arc-A750-Details"/>
+        <updated>2022-09-29T21:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this week at the Intel Innovation event it was announced the Arc Graphics A770 would be launching 12 October and the base model costing $329 USD. Today the embargo lifts on more details around Intel's forthcoming higher-end Arc Graphics hardware...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Are Android-based game-streaming handhelds a fad, or are they the future?]]></title>
+        <id>https://arstechnica.com/?p=1885707</id>
+        <link href="https://arstechnica.com/?p=1885707"/>
+        <updated>2022-09-29T20:40:30.000Z</updated>
+        <summary type="html"><![CDATA[Modern game streaming + retro game emulation + Switch-like design = success?]]></summary>
+        <author>
+            <name>Kyle Orland</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scientists, why not simply invent a working fusion plant using $50m from Uncle Sam]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/29/fusion_program_doe/</id>
@@ -14,6 +54,16 @@
         <summary type="html"><![CDATA[<h4>You even have until the end of the 2030s to get it done</h4> <p>The US Department of Energy has announced plans to award up to $50 million in funds to private businesses to develop a working fusion pilot plant (FPP) by the 2030s. …</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Room-temperature superconducting claim is retracted]]></title>
+        <id>https://arstechnica.com/?p=1885625</id>
+        <link href="https://arstechnica.com/?p=1885625"/>
+        <updated>2022-09-29T20:22:43.000Z</updated>
+        <summary type="html"><![CDATA[The problem appears to be some data that's not being shared.]]></summary>
+        <author>
+            <name>John Timmer</name>
         </author>
     </entry>
     <entry>
@@ -18056,82 +18106,6 @@ It’s up to you to get to the bottom of what Mr. Peterson is hiding in Hello Ne
         <summary type="html"><![CDATA[Fragzone-Fredag är tillbaka!]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Wandering Village early access review: a gorgeous city-builder with a loveable colossus]]></title>
-        <id>https://www.rockpapershotgun.com/the-wandering-village-early-access-review</id>
-        <link href="https://www.rockpapershotgun.com/the-wandering-village-early-access-review"/>
-        <updated>2022-09-16T09:21:17.000Z</updated>
-        <summary type="html"><![CDATA[I’ve always thought each of the sixteen colossi in Shadow Of The Colossus is kinda cute in their own special way. There’s just something about the animal-like antics of those immense, lumbering creatures that make them naturally adorable, even though they wouldn’t hesitate in breaking every single bone in my small, weak body.
-Zürich-based developers Stray Fawn Studio totally get what I’m on about, and have created their own lovable rocky giant in their city-building sim The Wandering Village. Their creature, Onbu, is a colossal six-legged beast, and the walking platform on which your village sits, a plateau of flat land mass on its back making for an excellent settlement ground. Onbu is best described as a gentle giant. They move slowly but carefully, love to munch on fields of wild mushrooms, nap in meadows of soft pink flowers, and tuck in their paws and tail when sleeping.
-Read more]]></summary>
-        <author>
-            <name>Rachel Watts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASUS & Canonical Partner On The IoT / Edge Computing Front]]></title>
-        <id>https://www.phoronix.com/news/ASUS-Canonical-IoT-Ubuntu</id>
-        <link href="https://www.phoronix.com/news/ASUS-Canonical-IoT-Ubuntu"/>
-        <updated>2022-09-16T09:17:15.000Z</updated>
-        <summary type="html"><![CDATA[Canonical announced this morning that they have partnered with ASUS IoT, the division of ASUS focused on providing "Internet of Things" hardware, to certify Ubuntu Linux for their devices...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What we've been playing]]></title>
-        <id>https://www.eurogamer.net/what-weve-been-playing-76</id>
-        <link href="https://www.eurogamer.net/what-weve-been-playing-76"/>
-        <updated>2022-09-16T09:11:37.000Z</updated>
-        <summary type="html"><![CDATA[Hello! Welcome back to our regular feature where we write a little bit about some of the games we've found ourselves playing over the last few days. This time: laundry, guild problems, and back to hell.
-If you fancy catching up on some of the older editions of What We've Been Playing, 
-here's our archive.
-Apparently, I'm drawn to doing mundane things. Perhaps I'm inherently boring. I just can't get enough of tidying up, though, or folding someone's clothes, or washing them. Or cleaning the toilet, and I never thought I'd write that. And I know that isn't really the point of Arcade Paradise - the point is growing an arcade out the back - but it's the mundane half of the game in the laundrette that really balances me, and the game, out. Beautiful monotony - something to gently latch a restless mind onto and occupy my hands with.
- Read more]]></summary>
-        <author>
-            <name>Eurogamer staff</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["Next gen"-uppgraderingen till Outer Wilds är släppt]]></title>
-        <id>https://www.fz.se/artikel/291479</id>
-        <link href="https://www.fz.se/artikel/291479-next-gen-uppgraderingen-till-outer-wilds-ar-slappt"/>
-        <updated>2022-09-16T09:02:00.000Z</updated>
-        <summary type="html"><![CDATA[Gratis om man äger spelet till PS4 eller Xbox One.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qt 6.4 Release Candidate Arrives With Added Modules For 3D Physics, HTTP Server]]></title>
-        <id>https://www.phoronix.com/news/Qt-6.4-RC1-Released</id>
-        <link href="https://www.phoronix.com/news/Qt-6.4-RC1-Released"/>
-        <updated>2022-09-16T08:55:13.000Z</updated>
-        <summary type="html"><![CDATA[Qt 6.4 is continuing to run on-schedule and out today is the release candidate ahead of the stable release expected around the end of the month...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia bekräftar "Ada Lovelace" – antyder specifikationer]]></title>
-        <id>https://www.sweclockers.com/artikel/34931</id>
-        <link href="https://www.sweclockers.com/artikel/34931-nvidia-bekraftar-ada-lovelace-antyder-specifikationer"/>
-        <updated>2022-09-16T08:36:18.000Z</updated>
-        <summary type="html"><![CDATA[Nvidias kryptiska inlägg på Twitter fortsätter. En närmare titt visar på godsakerna som gömts, däribland specifikationer för det kommande flaggskeppet.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The next deep magic Linux program to change the world? Io_uring]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/16/column/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/16/column/"/>
-        <updated>2022-09-16T08:30:11.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Even Torvalds pronounces it 'fairly sane'</h4> <p><strong>Column</strong>  A few years ago developers knew eBPF as a handy way to build firewalls yet now it's used everywhere for everything. Get ready for io_uring to do the same.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
