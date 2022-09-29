@@ -111,6 +111,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/09/google-gives-up-on-stadia-will-offer-refunds-on-games-and-hardware/",
+          "author": "Liam Dawe",
+          "description": "As expected for some time now, Google has decided to call it quits on their cloud gaming service Stadia.",
+          "link": "https://www.gamingonlinux.com/2022/09/google-gives-up-on-stadia-will-offer-refunds-on-games-and-hardware/",
+          "publishedOn": "2022-09-29T17:15:29.000Z",
+          "wordCount": 1462,
+          "title": "Google gives up on Stadia, will offer refunds on games and hardware",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/tagline_gallery/stadia.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/09/gog-celebrates-14-years-with-big-sale-game-giveaway-and-skyrim-release/",
           "author": "Liam Dawe",
           "description": "GOG are celebrating 14 years of existing with a big sale on lots of games, plus you can get a free copy of Master of Magic Classic.",
@@ -3265,6 +3275,26 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/octobers-free-prime-gaming-titles",
+          "author": "Stephany Nunneley",
+          "description": "Amazon has announced its free Prime Gaming titles for October, and there will be seven available to claim.\nDuring October, there will also be in-game items for titles such as League of Legends, Fall Guys, Roblox, and much more.\nThe larger names for October are Fallout 76, Total War: Warhammer 2, and Middle-earth: Shadow of War. But there are also some nice indie titles to grab as well.\n Read more",
+          "link": "https://www.vg247.com/octobers-free-prime-gaming-titles",
+          "publishedOn": "2022-09-29T17:32:40.000Z",
+          "wordCount": 4913,
+          "title": "October’s free Prime Gaming titles include Fallout 76, Total War: Warhammer 2, Shadow of War, more",
+          "imageUrl": "https://asset.vg247.com/prime-gaming-october-2022.jfif/BROK/thumbnail/1600x900/format/jpg/quality/80/prime-gaming-october-2022.jfif"
+        },
+        {
+          "id": "https://www.vg247.com/google-to-shut-down-its-stadia-streaming-service-in-january",
+          "author": "Stephany Nunneley",
+          "description": "The reason provided by the company was that while it built Stadia on a strong technology foundation, it didn't gain \"the traction with users\" as was expected; therefore, Google will begin winding down the streaming service.\nStadia players will be refunded all hardware purchases made through the Google Store. This includes the Stadia Controller, Stadia Founder’s Edition, Stadia Premiere Edition, or Play and Watch with Google TV Package.\nThe refund will also apply to all game and add-on content purchases made through the Stadia store.\n Read more",
+          "link": "https://www.vg247.com/google-to-shut-down-its-stadia-streaming-service-in-january",
+          "publishedOn": "2022-09-29T17:24:16.000Z",
+          "wordCount": 4483,
+          "title": "Google to shut down its Stadia streaming service in January",
+          "imageUrl": "https://asset.vg247.com/stadia_controller_light.png/BROK/thumbnail/1600x900/format/jpg/quality/80/stadia_controller_light.png"
+        },
+        {
           "id": "https://www.vg247.com/xbox-games-with-gold-for-october-are-windbound-and-bomber-crew-deluxe-edition",
           "author": "Stephany Nunneley",
           "description": "Microsoft has announced the games Xbox Gold and Game Pass Ultimate members will be handed in October.\nThis coming month's Xbox Games with Gold lineup is a bit sparce, due to the fact Xbox 360 games are no longer part of the program.\nOn Xbox One and Xbox Series X/S, Windbound and Bomber Crew Deluxe Edition will be made available.\n Read more",
@@ -5700,16 +5730,6 @@
           "wordCount": 1871,
           "title": "Phoronix Oktoberfest Special Begins, Premium Now Accept Stripe & Corporate Subscriptions Available",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/FUTEX2-NUMA-Still-Coming-2022",
-          "author": null,
-          "description": "Merged last year for the Linux 5.16 cycle was FUTEX2's futex_waitv() system call for waiting on multiple futexes in order to better match the behavior of Microsoft Windows. This FUTEX2 initiative was driven as an effort to further enhance Linux gaming performance/efficiency particularly for Valve's Steam Play. Originally there were other goals with FUTEX2 and now we are seeing another one of those being worked on: NUMA awareness...",
-          "link": "https://www.phoronix.com/news/FUTEX2-NUMA-Still-Coming-2022",
-          "publishedOn": "2022-09-16T05:00:00.000Z",
-          "wordCount": 1376,
-          "title": "NUMA Interface For FUTEX2 Still Being Tackled For Linux",
-          "imageUrl": null
         }
       ]
     },
@@ -6905,6 +6925,51 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "JHckpMGd97DkD7VMKv6BTL",
+          "author": null,
+          "description": "Google is shutting down its Stadia game streaming service, though it may be used in other projects.",
+          "link": "https://www.tomshardware.com/news/google-shutting-down-stadia-game-streaming-service",
+          "publishedOn": "2022-09-29T17:14:17.000Z",
+          "wordCount": 21603,
+          "title": "Google Shutting Down Stadia Game Streaming Service",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/aFfa5ZSEJporspQeDxi7qa.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/aFfa5ZSEJporspQeDxi7qa.jpg"
+        },
+        {
+          "id": "tpsQxrDJhyw8UirwFQxren",
+          "author": null,
+          "description": "Geniatech has revealed a SMARC-compatible board in a DIMM-like form factor.",
+          "link": "https://www.tomshardware.com/news/geniatech-smarc-board",
+          "publishedOn": "2022-09-29T16:46:28.000Z",
+          "wordCount": 22459,
+          "title": "New Geniatech Board Hits SMARC 2.1 Spec",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/kET2TAGMbpBLwUveNQFtmm.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/kET2TAGMbpBLwUveNQFtmm.jpg"
+        },
+        {
+          "id": "t7yhjfjCjeDC4GmgPMo2Nb",
+          "author": null,
+          "description": "A early review of DLSS 3 showed an impressive 5x performance improvement on the RTX 4090 in some situations, but sacrifices in image quality and input lag need to be made to get these ultra high frame rates.",
+          "link": "https://www.tomshardware.com/news/dlss-3-early-review-rtx-4090",
+          "publishedOn": "2022-09-29T16:23:57.000Z",
+          "wordCount": 22334,
+          "title": "Early Review Shows DLSS 3 Amplification Works Best With Lower Native Frame Rates",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/x4vtVb87hRVhbLf4c3zcuD.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/x4vtVb87hRVhbLf4c3zcuD.png"
+        },
         {
           "id": "na9zZaNXRgzsLQZeN6mDpZ",
           "author": null,
@@ -9437,6 +9502,26 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1885605",
+          "author": "Ron Amadeo",
+          "description": "The inevitable death of Google's game-streaming service happens early next year.",
+          "link": "https://arstechnica.com/?p=1885605",
+          "publishedOn": "2022-09-29T17:17:45.000Z",
+          "wordCount": 1510,
+          "title": "Google Stadia officially shuts down January 2023, will refund game purchases",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/rip-stadia-headstone-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1885576",
+          "author": "Kevin Purdy",
+          "description": "You can type out a single screen of text, with a controller. That's impressive.",
+          "link": "https://arstechnica.com/?p=1885576",
+          "publishedOn": "2022-09-29T17:13:22.000Z",
+          "wordCount": 1608,
+          "title": "NESOS gives 8-bit system a GUI desktop, 8 tiny files, and it’s amazing",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/Screen-Shot-2022-09-29-at-12.39.00-PM-760x380.png"
+        },
+        {
           "id": "https://arstechnica.com/?p=1885529",
           "author": "Benj Edwards",
           "description": "Using a text description or an existing image, Make-A-Video can render video on demand.",
@@ -11124,6 +11209,26 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291629",
+          "author": null,
+          "description": "14 oktober är nya datumet.",
+          "link": "https://www.fz.se/artikel/291629-hjalp-scorn-slapps-en-vecka-tidigare",
+          "publishedOn": "2022-09-29T17:22:00.000Z",
+          "wordCount": 1659,
+          "title": "Hjälp! Scorn släpps en vecka tidigare",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291629"
+        },
+        {
+          "id": "https://www.fz.se/artikel/291628",
+          "author": null,
+          "description": "Första säsongen ser ut att bli den sista.",
+          "link": "https://www.fz.se/artikel/291628-shenmue-animen-ser-ut-att-skrotas",
+          "publishedOn": "2022-09-29T16:41:00.000Z",
+          "wordCount": 1683,
+          "title": "Shenmue-animen ser ut att skrotas",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291628"
+        },
+        {
           "id": "https://www.fz.se/artikel/291626",
           "author": null,
           "description": "Det är väldigt många råttor.",
@@ -12691,6 +12796,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34998",
+          "author": null,
+          "description": "Efter många om och men har Google meddelat att speltjänsten Stadia når vägs ände. Den 18 januari 2023 går den i graven för gott.",
+          "link": "https://www.sweclockers.com/artikel/34998-google-fimpar-stadia-slacks-ned-i-januari",
+          "publishedOn": "2022-09-29T17:05:09.000Z",
+          "wordCount": 1769,
+          "title": "Google fimpar Stadia – släcks ned i januari",
+          "imageUrl": "https://www.sweclockers.com/artikel/34998/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34996",
           "author": null,
           "description": "Med Geforce RTX 4000-serien släpper Nvidia lös uppskalaren DLSS i ny version. Digital Foundry ger försmak i Marvels Spider-Man, Cyberpunk 2077 och Portal RTX.",
@@ -13319,16 +13434,6 @@
           "wordCount": 1713,
           "title": "Asrock presenterar skärm med inbyggd Wifi-antenn",
           "imageUrl": "https://www.sweclockers.com/artikel/34932/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34933",
-          "author": null,
-          "description": "Uncharted: Legacy of Thieves Collection släpptes till PS5 i januari och nu spikar Sony att PC-spelare får lägga vantarna på äventyrsspelet i oktober.",
-          "link": "https://www.sweclockers.com/artikel/34933-uncharted-legacy-of-thieves-slapps-till-pc-den-19-oktober",
-          "publishedOn": "2022-09-16T04:46:49.000Z",
-          "wordCount": 1643,
-          "title": "Uncharted: Legacy of Thieves släpps till PC den 19 oktober",
-          "imageUrl": "https://www.sweclockers.com/artikel/34933/og-image"
         }
       ]
     },
@@ -13617,6 +13722,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/29/wind_solar_power_record/",
+          "author": null,
+          "description": "<h4>Curb your enthusiasm – coal-fired power went up too</h4> <p>In a global first, wind and solar energy combined to generate more than 10 percent of the world's electricity in 2021 yet coal-fired power plant emissions jumped to new highs in the same period too.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/29/wind_solar_power_record/",
+          "publishedOn": "2022-09-29T17:30:12.000Z",
+          "wordCount": 1424,
+          "title": "Wind, solar fulfil 10% of global energy demand for first time",
+          "imageUrl": "https://regmedia.co.uk/2019/05/10/power_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/29/google_100gbps_fiber/",
           "author": null,
@@ -15886,16 +16001,6 @@
           "wordCount": 1306,
           "title": "Eastern European org hit by second record-smashing DDoS attack",
           "imageUrl": "https://regmedia.co.uk/2022/04/27/shutterstock_ukrainetransport.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/16/eu_cyber_resilience_act/",
-          "author": null,
-          "description": "<h4>Requires five years of patching, 24 hour incident reporting, and proper security … for starters</h4> <p>The European Commission has revealed a Cyber Resilience Act that will require manufacturers of connected devices to secure them properly before shipping, disclose and fix flaws promptly, and guarantee fixes will flow for five years.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/16/eu_cyber_resilience_act/",
-          "publishedOn": "2022-09-16T05:33:56.000Z",
-          "wordCount": 1192,
-          "title": "EU puts smart device manufacturers on the hook for cyber security",
-          "imageUrl": "https://regmedia.co.uk/2021/05/07/shutterstock_eu_flag_data.jpg"
         }
       ]
     }
