@@ -778,6 +778,26 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/dead-space-will-be-one-shot-from-beginning-to-end",
+          "author": "Ishraq Subhan",
+          "description": "EA Motive's Dead Space remake will \"one sequential shot\" from beginning to end, according to a new EA blogpost. \r\n\n\r\n\"From the moment you start the game to the moment you end the game, there are no camera cuts or load screens—unless you die,\" says senior producer Philippe Ducharme.\r\n\n\r\n\"The Ishimura is now fully interconnected, so you can walk from Point A to Point Z, visit the entire ship, and revisit locations you’ve already completed to pick up things you might have missed—that’s all new. It’s now a completely unbroken experience.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/dead-space-will-be-one-shot-from-beginning-to-end",
+          "publishedOn": "2022-09-29T11:45:07.000Z",
+          "wordCount": 4701,
+          "title": "Dead Space will be one shot from beginning to end",
+          "imageUrl": "https://assets.reedpopcdn.com/Dead-Space-Official-Teaser-Trailer-%E2%80%93-EA-Play-Live-2021-0-28-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Dead-Space-Official-Teaser-Trailer-%E2%80%93-EA-Play-Live-2021-0-28-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/hal-laboratory-shuts-down-kirby-fanmade-card-game",
+          "author": "Liv Ngan",
+          "description": "HAL Laboratory, the developer of the Kirby series, has shut down a fanmade card game featuring supporting character Chef Kawasaki.\r\n\nThe fangame was created and sold by a group called KWSK Karuta. Consider that strike one.\r\n\nThe fangame was called Chef Kawasaki's Micro Bikini Karuta. Consider that strike two.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/hal-laboratory-shuts-down-kirby-fanmade-card-game",
+          "publishedOn": "2022-09-29T11:23:33.000Z",
+          "wordCount": 4760,
+          "title": "HAL Laboratory shuts down Kirby fanmade card game",
+          "imageUrl": "https://assets.reedpopcdn.com/Kirby-Star-Allies-_-Chef-Kawasaki-Showcase-Trailer-0-30-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Kirby-Star-Allies-_-Chef-Kawasaki-Showcase-Trailer-0-30-screenshot.png"
+        },
+        {
           "id": "https://www.eurogamer.net/skyrim-anniversary-edition-now-available-on-switch",
           "author": "Ed Nightingale",
           "description": "Another year, another release of Skyrim.\r\n\n\r\nThe Skyrim Anniversary Edition was released on 11th November 2021 to mark the game's 10th anniversary, as well as a free next-gen update for PS5 and Xbox Series X/S.\r\n\n\r\nNow, almost a year later, that same Anniversary Edition is available on Nintendo Switch.\r\n \nRead more",
@@ -3125,6 +3145,16 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/modern-warfare-2-beta-feedback-footstep-audio-visbility-response",
+          "author": "Sherif Saed",
+          "description": "Modern Warfare 2 recently wrapped up what ended up being the biggest beta in Call of Duty history, so you can imagine that popularity also came with a lot of feedback from players. Though sentiments are generally positive, a few issues in particular have cropped up repeatedly.\nIn an effort to address these concerns, developer Infinity Ward highlighted some of the most common ones and discussed what it's going to be doing about them for launch.\nIn a blog post, the studio commented on certain issues, leaving others undiscussed. Sadly, even the ones that got mentioned by name didn't receive satisfying answers.\n Read more",
+          "link": "https://www.vg247.com/modern-warfare-2-beta-feedback-footstep-audio-visbility-response",
+          "publishedOn": "2022-09-29T11:25:15.000Z",
+          "wordCount": 5057,
+          "title": "Infinity Ward talks Modern Warfare 2 footstep audio, player visibility, disbanding lobbies and more",
+          "imageUrl": "https://asset.vg247.com/call-of-duty-odern-warfare-2-multiplayer-(24).jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/call-of-duty-odern-warfare-2-multiplayer-(24).jpg"
+        },
+        {
           "id": "https://www.vg247.com/i-didnt-need-another-reason-to-replay-skyrim-but-then-the-anniversary-edition-arrived-on-nintendo-switch",
           "author": "Kelsey Raynor",
           "description": "The Elder Scrolls V: Skyrim has technically been released yet again, with the Anniversary Edition being made available on the Nintendo Switch eShop, seemingly out of nowhere. \nI’ve played Skyrim an embarrassing amount of times. Despite how many peers and friends insist Morrowind and Oblivion are the better games, it’s Skyrim that continually has me crawling back. No matter how many game-breaking bugs I encounter, or how many times I simply forget to save at a pivotal moment and end up frustrated, I have a never-ending toxic relationship with Tamriel. I’m okay with this.\nMy last full play through of the title was on the Nintendo Switch (excluding the time I spent hours modding Skyrim in VR to realise that actually, I should probably play Blade & Sorcery instead). I didn’t expect much from Skyrim on the Switch, and honestly thought that I’d probably give up and play it on Xbox again. However, I was wrong. I played the game to completion, and only had to lose my progress twice when bugs occurred; this was a success, if you ask me.\n Read more",
@@ -4311,6 +4341,26 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Apple-DRM-GNOME-And-Apps",
+          "author": null,
+          "description": "It was just yesterday that reverse-engineering, open-source driver developer Asahi Lina got the display output working and running Wayland's Weston. After a long day hacking away on this first Rust-written Direct Rendering Manager (DRM) driver, the GNOME desktop is even running off this Apple M1 graphics driver as well as applications like Firefox complete with YouTube...",
+          "link": "https://www.phoronix.com/news/Apple-DRM-GNOME-And-Apps",
+          "publishedOn": "2022-09-29T12:50:13.000Z",
+          "wordCount": 1432,
+          "title": "Apple M1 Linux GPU DRM Driver Now Running GNOME, Various Apps",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Last-Call-2022-Autumn-Sale",
+          "author": null,
+          "description": "Just as a friendly reminder the Phoronix Premium sale is ending this weekend as our autumn \"Oktoberfest\" special for supporting the site and enjoying the site ad-free and multi-page articles on a single page, among other benefits...",
+          "link": "https://www.phoronix.com/news/Last-Call-2022-Autumn-Sale",
+          "publishedOn": "2022-09-29T12:36:02.000Z",
+          "wordCount": 1369,
+          "title": "It's The Last Call For The 2022 Phoronix Premium Oktoberfest/Autumn Special",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Qt-6.4-Released",
           "author": null,
@@ -6646,6 +6696,36 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "QYEbCnyt3cHjFpwuFcj9Gf",
+          "author": null,
+          "description": "The Kioxia XG8 is an OEM SSD that's plenty fast, even if more recent consumer drives beat it in many areas.",
+          "link": "https://www.tomshardware.com/reviews/kioxia-xg8-review",
+          "publishedOn": "2022-09-29T12:00:57.000Z",
+          "wordCount": 22914,
+          "title": "Kioxia XG8 SSD Review: A Satisfactory OEM SSD",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/Tqu3gBYhk8FbXKF53fHtNB.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/Tqu3gBYhk8FbXKF53fHtNB.jpg"
+        },
+        {
+          "id": "4Q4RYphfPaSeaZqTePTZpi",
+          "author": null,
+          "description": "In this guide, we’ll teach you how to arrange the case fans in your PC to unlock maximum performance.",
+          "link": "https://www.tomshardware.com/how-to/set-up-pc-case-fans-for-airflow-and-performance",
+          "publishedOn": "2022-09-29T12:00:48.000Z",
+          "wordCount": 23322,
+          "title": "How to Set Up PC Case Fans for Airflow and Performance",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/bvxg7X7bSaQFNwSfqxp8Xa.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/bvxg7X7bSaQFNwSfqxp8Xa.jpg"
+        },
+        {
           "id": "s6EAMA8QNF7JeLKiGUwqDX",
           "author": null,
           "description": "AMD's Zen 4-based Ryzen Threadripper 7000 (Storm Peak) CPU and Phoenix Point APUs emerge in the wild.",
@@ -8789,21 +8869,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/ULGzTbkmvQKGv9e6AxkhpP.jpg"
-        },
-        {
-          "id": "LQhszJq94o9G4NjHxsyWcY",
-          "author": null,
-          "description": "Despite roadblocks from the U.S., SMIC continues to develop thinner nodes.",
-          "link": "https://www.tomshardware.com/news/smic-mass-produces-14nm-nodes-advances-to-5nm-7nm",
-          "publishedOn": "2022-09-16T00:35:31.000Z",
-          "wordCount": 22014,
-          "title": "SMIC Mass Produces 14nm Nodes, Advances To 5nm, 7nm",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/5Mq4J9jfCyPqV9qsyhUWe8.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/5Mq4J9jfCyPqV9qsyhUWe8.jpg"
         }
       ]
     },
@@ -9098,16 +9163,6 @@
           "wordCount": 232,
           "title": "Everyday Carry",
           "imageUrl": "https://imgs.xkcd.com/comics/everyday_carry_2x.png"
-        },
-        {
-          "id": "https://xkcd.com/2673/",
-          "author": null,
-          "description": "<img src=\"https://imgs.xkcd.com/comics/cursed_mrna_cocktail.png\" title=\"Serve one each to guests whose last cursed cocktail was more than 2 months ago.\" alt=\"Serve one each to guests whose last cursed cocktail was more than 2 months ago.\" />",
-          "link": "https://xkcd.com/2673/",
-          "publishedOn": "2022-09-16T00:00:00.000Z",
-          "wordCount": 234,
-          "title": "Cursed mRNA Cocktail",
-          "imageUrl": "https://imgs.xkcd.com/comics/cursed_mrna_cocktail_2x.png"
         }
       ]
     },
@@ -9116,6 +9171,16 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1874389",
+          "author": "Ars Contributors",
+          "description": "Enthusiasts are intent on improving old games, whether Nintendo likes it or not.",
+          "link": "https://arstechnica.com/?p=1874389",
+          "publishedOn": "2022-09-29T11:00:35.000Z",
+          "wordCount": 1686,
+          "title": "How hobbyist hackers are preserving Pokémon’s past—and shaping its future",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/pokemon-game-boy-cart-hacks-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1885478",
           "author": "Dan Goodin",
@@ -10745,26 +10810,6 @@
           "wordCount": 1876,
           "title": "In a bid to expand its Moon business, Intuitive Machines will go public",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/52342438613_5ee4f33cf1_k-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1882005",
-          "author": "Dan Goodin",
-          "description": "Threat actor has connections to hackers backed by North Korean government.",
-          "link": "https://arstechnica.com/?p=1882005",
-          "publishedOn": "2022-09-16T00:37:16.000Z",
-          "wordCount": 1325,
-          "title": "Trojanized versions of PuTTY utility being used to spread backdoor",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/evil-packet-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1881746",
-          "author": "Jennifer Ouellette",
-          "description": "\"I say we sit here and wait for death.... some combination of sitting and death.\"",
-          "link": "https://arstechnica.com/?p=1881746",
-          "publishedOn": "2022-09-15T23:35:04.000Z",
-          "wordCount": 1878,
-          "title": "HBO drops official trailer for Avenue 5’s second and final season",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/avenueTOP-760x380.jpg"
         }
       ]
     },
@@ -10773,6 +10818,26 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291624",
+          "author": null,
+          "description": "Den nygamla skräckisen drivs av Frostbite-motorn.",
+          "link": "https://www.fz.se/artikel/291624-dead-space-remaken-gor-en-half-life-kan-spelas-i-ett-svep",
+          "publishedOn": "2022-09-29T12:21:00.000Z",
+          "wordCount": 2006,
+          "title": "Dead Space-remaken gör en Half-Life - kan spelas i ett svep",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291624"
+        },
+        {
+          "id": "https://www.fz.se/artikel/291623",
+          "author": null,
+          "description": "Plattformaren kommer till datorer nästa månad.",
+          "link": "https://www.fz.se/artikel/291623-sackboy-a-big-adventure-ar-nasta-playstation-spel-till-pc",
+          "publishedOn": "2022-09-29T11:19:09.000Z",
+          "wordCount": 1860,
+          "title": "Sackboy: A Big Adventure är nästa Playstation-spel till pc",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291623"
+        },
         {
           "id": "https://www.fz.se/artikel/291083",
           "author": null,
@@ -13079,16 +13144,6 @@
           "wordCount": 638,
           "title": "Comic for 2022.09.17 - Queen",
           "imageUrl": null
-        },
-        {
-          "id": "https://explosm.net/comics/dead-body",
-          "author": null,
-          "description": "New Cyanide and Happiness Comic",
-          "link": "https://explosm.net/comics/dead-body",
-          "publishedOn": "2022-09-16T00:00:27.000Z",
-          "wordCount": 639,
-          "title": "Comic for 2022.09.16 - Dead Body",
-          "imageUrl": null
         }
       ]
     },
@@ -13207,6 +13262,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/29/apple_age_discrimination/",
+          "author": null,
+          "description": "<h4>IP director claims he was skipped over for merit-based retention bonus because of the retention part</h4> <p>A 67-year-old director in Apple's Intellectual Property Enforcement unit is suing the company for age discrimination, alleging Apple unfairly took away a special bonus it uses to \"retain key employees\" in lead positions because of his age.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/29/apple_age_discrimination/",
+          "publishedOn": "2022-09-29T12:30:12.000Z",
+          "wordCount": 1624,
+          "title": "Apple exec sues over 'ageist' removal of $800k stock bonus",
+          "imageUrl": "https://regmedia.co.uk/2022/09/29/shutterstock_apple.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/29/aws_microsoft_google_european_cloud_spend/",
+          "author": null,
+          "description": "<h4>Democratizing IT? The next biggest 3 in region are also US headquartered giants</h4> <p>Six US titans are ruling the European cloud market, with AWS, Microsoft, and Google alone accounting for almost three-quarters of customers'spending in the region.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/29/aws_microsoft_google_european_cloud_spend/",
+          "publishedOn": "2022-09-29T11:41:23.000Z",
+          "wordCount": 1691,
+          "title": "AWS, Microsoft and Google own 72% of Euro customer cloud spending",
+          "imageUrl": "https://regmedia.co.uk/2020/11/30/shutterstock_broken_cloud_outage.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/29/arm_founder_uk_tech_sovereignty/",
           "author": null,
@@ -15436,16 +15511,6 @@
           "wordCount": 1554,
           "title": "Uber reels from 'security incident’ in which cloud systems seemingly hijacked",
           "imageUrl": "https://regmedia.co.uk/2017/04/25/shutterstock_uber.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/15/wyden_cbp_phone_database/",
-          "author": null,
-          "description": "<h4>Texts, contacts, call logs, photos, and more centrally stored for years without a warrant in sight</h4> <p>US Customs and Border Protection (CBP) \"routinely conducts warrantless searches of Americans' devices\" every year, in a number of cases downloading texts, photos, call logs, and more into a central database where it's stored for 15 years and searchable by some 2,700 federal employees.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/15/wyden_cbp_phone_database/",
-          "publishedOn": "2022-09-15T23:43:39.000Z",
-          "wordCount": 1792,
-          "title": "US border cops harvest info from citizens' phones, build massive database",
-          "imageUrl": "https://regmedia.co.uk/2022/09/15/shutterstock_spying_americans.jpg"
         }
       ]
     }
