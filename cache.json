@@ -121,6 +121,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/09/heres-the-top-10-most-played-games-on-steam-deck-for-september-2022/",
+          "author": "Liam Dawe",
+          "description": "As another month comes to a close, Valve has revealed what is currently popular on the Steam Deck based on the most hours played.",
+          "link": "https://www.gamingonlinux.com/2022/09/heres-the-top-10-most-played-games-on-steam-deck-for-september-2022/",
+          "publishedOn": "2022-09-30T19:14:17.000Z",
+          "wordCount": 1140,
+          "title": "Here's the Top 10 Most Played games on Steam Deck for September 2022",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/129101972id21681gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/09/the-heavy-machinery-update-for-survival-game-volcanoids-looks-awesome/",
           "author": "Liam Dawe",
           "description": "Oh wow, I really need to check out Volcanoids again. The survival game that has you build and upgrade a big moving drill now has a lot more in it with some other big machinery.",
@@ -9582,6 +9592,46 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1885831",
+          "author": "Scharon Harding",
+          "description": "USB-IF drops 12-year-old USB branding representing 5Gbps and faster speeds.",
+          "link": "https://arstechnica.com/?p=1885831",
+          "publishedOn": "2022-09-30T18:12:48.000Z",
+          "wordCount": 1883,
+          "title": "USB-IF says goodbye to confusing SuperSpeed USB branding",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-954976090-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1885952",
+          "author": "Ashley Belanger",
+          "description": "Meta called content \"safe\" that UK judge found \"impossible to watch.\"",
+          "link": "https://arstechnica.com/?p=1885952",
+          "publishedOn": "2022-09-30T18:04:58.000Z",
+          "wordCount": 1861,
+          "title": "Coroner lists Instagram algorithm as contributing cause of UK teen’s death [Updated]",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-537460890-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1885899",
+          "author": "Andrew Cunningham",
+          "description": "AMD previewed new OpenGL drivers for consumer Radeon GPUs earlier this year.",
+          "link": "https://arstechnica.com/?p=1885899",
+          "publishedOn": "2022-09-30T17:56:29.000Z",
+          "wordCount": 1653,
+          "title": "Rewritten OpenGL drivers make AMD’s GPUs “up to 72%” faster in some pro apps",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/795377-AMD-W6800-front-1920x600-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1885954",
+          "author": "Jon Brodkin",
+          "description": "Execs \"weaponized eBay security department\" over news reports the CEO disliked.",
+          "link": "https://arstechnica.com/?p=1885954",
+          "publishedOn": "2022-09-30T17:46:27.000Z",
+          "wordCount": 1763,
+          "title": "Ex-eBay security execs imprisoned for stalking journalists who cover eBay",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-james-baugh-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1885554",
           "author": "Ron Amadeo",
           "description": "If Google really wants more secure extensions, why not just police the store better?",
@@ -13782,6 +13832,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/30/in_japan_5g_networks_see/",
+          "author": null,
+          "description": "<h4>Graviton2 processors trials with infrastructure vendors and telco as work on standalone 5G continues</h4> <p>NTT Docomo and NEC have conducted tests that demonstrate Arm-based Graviton2 processors consume 72 percent less power compared to X86 chips while running NEC's 5G core software as part of the NTT Docomo 5G network.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/30/in_japan_5g_networks_see/",
+          "publishedOn": "2022-09-30T18:34:13.000Z",
+          "wordCount": 1393,
+          "title": "Japan 5G network tests Arm chips, claims power draw down by 72%",
+          "imageUrl": "https://regmedia.co.uk/2022/03/01/networks_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/30/delivery_drone_crashes_into_power/",
           "author": null,
