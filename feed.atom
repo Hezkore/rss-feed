@@ -2,10 +2,132 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-30T09:33:50.250Z</updated>
+    <updated>2022-09-30T10:30:32.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Arc A750 ansluter sig den 12 oktober – får prislapp på 289 USD]]></title>
+        <id>https://www.sweclockers.com/artikel/35000</id>
+        <link href="https://www.sweclockers.com/artikel/35000-arc-a750-ansluter-sig-den-12-oktober-far-prislapp-pa-289-usd"/>
+        <updated>2022-09-30T10:04:19.000Z</updated>
+        <summary type="html"><![CDATA[Intel delar med sig av både pris och lanseringsdatum för A750. Därtill delas prestandaresultat där grafikkortet ställs mot Geforce RTX 3060.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Session: Skate Sim review - a deeply rewarding simulator in need of a little flair]]></title>
+        <id>https://www.eurogamer.net/session-skate-sim-review-a-deeply-rewarding-simulator-in-need-of-a-little-flair</id>
+        <link href="https://www.eurogamer.net/session-skate-sim-review-a-deeply-rewarding-simulator-in-need-of-a-little-flair"/>
+        <updated>2022-09-30T10:03:47.000Z</updated>
+        <summary type="html"><![CDATA[Skateboarding is hard. Really damn hard. The journey to mastery is one counted in years - or even decades.
+
+
+Landing a kickflip while moving along? Sure, today there are wildly more complex tricks out there, but it's still a tremendous achievement. It takes hours of investment and a deep resilience to failure to get there. But the moment you pop the board high, flick it with a foot just enough to spin once beneath you, and successfully commit to the landing, the reward is immense. It's not an achievement recompensed in any kind of currency like score. Rather, to succeed is more than enough of a payoff.
+
+
+That is the mindset that has clearly founded the design of Session: Skate Sim. Certainly, it is not as hard as real skateboarding, but this is a game that is profoundly challenging, and one that makes you think like a skateboarder. The clue is in the name. Developer creā-ture Studios has strived to deliver a skateboarding simulator. In doing so, they've built something that does a remarkable job of capturing the essence of real skating; even if that approach sometimes comes at the expense of what makes for a consistently enjoyable video game. To deconstruct what that means, the conversation inevitably starts with an iconic series.
+ 
+Read more]]></summary>
+        <author>
+            <name>Will Freeman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zink Enables OpenGL Threading For "Huge Perf Gains"]]></title>
+        <id>https://www.phoronix.com/news/Zink-Enables-GLThread</id>
+        <link href="https://www.phoronix.com/news/Zink-Enables-GLThread"/>
+        <updated>2022-09-30T10:00:37.000Z</updated>
+        <summary type="html"><![CDATA[Recently the open-source AMD OpenGL driver "RadeonSI" enabled OpenGL threading by default for the "glthread" option that has long been opt-in on a per-game/app basis. Along with that has been a number of glthread-related improvements to this code that punts executing OpenGL calls to a separate CPU thread. The Zink OpenGL-on-Vulkan driver has now unconditionally enabled OpenGL threading too...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What we've been playing]]></title>
+        <id>https://www.eurogamer.net/what-weve-been-playing-78</id>
+        <link href="https://www.eurogamer.net/what-weve-been-playing-78"/>
+        <updated>2022-09-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello! Welcome back to our regular feature where we write a little bit about some of the games we've found ourselves playing over the last few days. This time: unhelpful foliage, musical scores, and Disney magic.
+If you fancy catching up on some of the older editions of What We've Been Playing, 
+here's our archive.
+I’m not sure I’ve ever seen a game as pretty as Horizon Forbidden West. The environments feel unreal in their beauty, while the details and textures on character models and clothing are incredible. All this stunning work does mean any imperfections are very distracting though - can someone please explain why Aloy’s hair is seemingly made of wool?
+ Read more]]></summary>
+        <author>
+            <name>Eurogamer staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Homicidal All-Stars asks: 'What if Running Man was a turn-based tactics game?']]></title>
+        <id>https://www.rockpapershotgun.com/homicidal-all-stars-asks-what-if-running-man-was-a-turn-based-tactics-game</id>
+        <link href="https://www.rockpapershotgun.com/homicidal-all-stars-asks-what-if-running-man-was-a-turn-based-tactics-game"/>
+        <updated>2022-09-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If you've ever wondered what the 1987 film Running Man might look like as a turn-based tactics game (see also last year's Netflix sensation Squid Game, if the Running Man reference doesn't quite do it for you), then Homicidal All-Stars probably comes pretty close. It's the debut game from Artificer, a new studio formed by a bunch of ex-CreativeForge devs who worked on the first Hard West and Phantom Doctrine, and it centres on a woman called Scarlett who finds herself competing in the deadly TV show that gives the game its name. Like Running Man, Squid Game and all those other 'deadly games' you know and love, Homicidal All-Stars is about folks who down on their luck fighting for their lives, where their only consolation prize in these dystopian bloodbaths is not getting pulped at the end of it. 
+For Scarlett, this means mowing down scumbags in classic turn-based fashion with a bunch of other friendly competitors she's teamed up with, but this is far from a straightforward XCOM-like. Between fights, you'll also be navigating its trap-filled arenas in third-person, dodging sniper turrets, disabling tripwires, and dashing over spiky/fiery/horrible pits to get to the end of each 'episode'. It's a refreshing mix based on an early preview build I've been playing recently, especially when its gameshow hook allows for its malicious host, Orion Ford, to start meddling with your success. "He’s the person behind the worst of the twists," creative director and Artificer CEO Kacper Szymczak tells me. "He’ll start filling the level with poisonous gas, he’ll turn off the lights, drop explosive barrels everywhere, to name just a few."
+Read more]]></summary>
+        <author>
+            <name>Katharine Castle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fragzone-fredag om nedläggningen av Stadia, Overwatch 2, Skull & Bones, Last of Us som tv-serie och mycket mer!]]></title>
+        <id>https://www.fz.se/artikel/291641</id>
+        <link href="https://www.fz.se/artikel/291641-fragzone-fredag-om-nedlaggningen-av-stadia-overwatch-2-skull-bones-last-of-us-som-tv-serie-och-mycket-mer"/>
+        <updated>2022-09-30T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[14:00 smäller det!]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another small Steam Deck Beta update gets some fixes]]></title>
+        <id>https://www.gamingonlinux.com/2022/09/another-small-steam-deck-beta-update-gets-some-fixes/</id>
+        <link href="https://www.gamingonlinux.com/2022/09/another-small-steam-deck-beta-update-gets-some-fixes/"/>
+        <updated>2022-09-30T09:58:16.000Z</updated>
+        <summary type="html"><![CDATA[Valve snuck out another Steam Deck Beta Client update, this time with just a few more quick fixes to it.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Adds AV1 Decode Support To Their Mesa D3D12 Driver]]></title>
+        <id>https://www.phoronix.com/news/Microsoft-AV1-D3D12-Decode</id>
+        <link href="https://www.phoronix.com/news/Microsoft-AV1-D3D12-Decode"/>
+        <updated>2022-09-30T09:45:02.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft engineers continue working on improving their Direct3D 12 driver within Mesa for benefiting Windows Subsystem for Linux (WSL2) usage and similar...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HDD Clicker gizmo makes flash sound like spinning rust]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/30/hdd_clicker/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/30/hdd_clicker/"/>
+        <updated>2022-09-30T09:35:06.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Made your old computer faster but too quiet? Here's a fun fix</h4> <p>The best way to make a sluggish old computer quicker is to replace spinning rust with some flash chippery. The snag is that loses part of the experience: the sound.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All the goss from EGX London]]></title>
+        <id>https://www.eurogamer.net/all-the-goss-from-egx-london</id>
+        <link href="https://www.eurogamer.net/all-the-goss-from-egx-london"/>
+        <updated>2022-09-30T09:33:17.000Z</updated>
+        <summary type="html"><![CDATA[Were you fortunate enough to make it down to EGX London this year? It was this past weekend, and, if you ask me, there was a nice vibe around the place. It was nice to be back playing games together relatively unimpeded by the pandemic, and the show is feeling much more like its old self again. But what caught our eye there?
+
+
+That's what I'm talking to my two Weekly guests Martin Robinson and Liv Ngan about today. What did Liv think of Wo Long, did Martin like Street Fighter 6, and why was everyone talking about new card game Wildfrost?
+
+
+Elsewhere in today's show, I catch us up on some of the reviews we've missed while we've been away - sorry for the gap in our programming, but I've had some time off - before getting onto what will probably be the hot topic of the week: the FIFA 23 review. It's the final FIFA-branded game, and there's a lot to both like, and loathe, about it.
+ 
+Read more]]></summary>
+        <author>
+            <name>Robert Purchese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ubuntu 22.10 Beta Released For Linux 5.19 + GNOME 43 Powered Linux Desktop]]></title>
         <id>https://www.phoronix.com/news/Ubuntu-22.10-Beta-Released</id>
@@ -24,6 +146,16 @@
         <summary type="html"><![CDATA[Uppföljaren till utmärkta Boneworks.]]></summary>
         <author>
             <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel, Microsoft & Arm Continue Advancing The Cloud-Hypervisor With v27 Released]]></title>
+        <id>https://www.phoronix.com/news/Cloud-Hypervisor-27</id>
+        <link href="https://www.phoronix.com/news/Cloud-Hypervisor-27"/>
+        <updated>2022-09-30T08:48:35.000Z</updated>
+        <summary type="html"><![CDATA[Cloud-Hypervisor as what started as an open-source project by Intel and now run under the Linux Foundation umbrella as a Rust-based, modern-focused hypervisor for cloud workloads keeps on advancing. In addition to Intel, Microsoft and Arm continue investing significant resources into Cloud-Hypervisor for this security-focused VMM for running Windows and Linux guests...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -16962,59 +17094,6 @@ pod…]]></summary>
         <summary type="html"><![CDATA[<h4>Big Tech forbidden from taking down 'viewpoint-based' posts no matter how awful but lawful</h4> <p>The US Fifth Circuit Court of Appeals on Friday said social media platforms are obligated to carry lawful but awful speech, rejecting the entreaties of tech trade groups to block Texas's social media law.…</p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logitech's G29 racing wheel and pedals is down to $230 at Amazon]]></title>
-        <id>https://www.rockpapershotgun.com/logitechs-g29-racing-wheel-and-pedals-is-down-to-230-at-amazon</id>
-        <link href="https://www.rockpapershotgun.com/logitechs-g29-racing-wheel-and-pedals-is-down-to-230-at-amazon"/>
-        <updated>2022-09-16T21:48:20.000Z</updated>
-        <summary type="html"><![CDATA[Logitech's G29 racing wheel and pedals is down to $230 at Amazon, offering a great chance to pick up a highly-regarded budget wheel at a fair price. 
-The G29 set works with PC, PS4 and PS5, making it a good pickup for anyone with at least one of these systems that likes to play titles like Gran Turismo 7 or F1 22. There's also an Xbox Series, Xbox One and PC model, the G920, that's available at the same discounted price and of course will work well for games like Forza Horizon 5, F1 22 and the upcoming Forza Motorsport scheduled to arrive early next year.  
-Read more]]></summary>
-        <author>
-            <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Being a victim of rape costs an average of $3,500 in medical bills, study finds]]></title>
-        <id>https://arstechnica.com/?p=1882387</id>
-        <link href="https://arstechnica.com/?p=1882387"/>
-        <updated>2022-09-16T21:47:30.000Z</updated>
-        <summary type="html"><![CDATA[The bills can discourage rape reporting and compound victims' trauma.]]></summary>
-        <author>
-            <name>Beth Mole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[School chat app Seesaw abused to send 'inappropriate image' to parents, teachers]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/16/seesaw_inappropriate_image/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/16/seesaw_inappropriate_image/"/>
-        <updated>2022-09-16T21:45:39.000Z</updated>
-        <summary type="html"><![CDATA[<h4>This is why we don't reuse passwords, kids</h4> <p>Parents and teachers received a link to an "inappropriate image" this week via Seesaw after miscreants hijacked accounts in a credential stuffing attack against the popular school messaging app.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get 32GB of fast DDR5-5600 CL36 RAM for $150 in the US]]></title>
-        <id>https://www.rockpapershotgun.com/get-32gb-of-fast-ddr5-5600-cl36-ram-for-150-in-the-us</id>
-        <link href="https://www.rockpapershotgun.com/get-32gb-of-fast-ddr5-5600-cl36-ram-for-150-in-the-us"/>
-        <updated>2022-09-16T21:35:38.000Z</updated>
-        <summary type="html"><![CDATA[Higher speed, lower latency DDR5 is becoming more affordable, and in the US we spotted a great deal on TeamGroup memory over at Amazon. There, you can find a 32GB kit of DDR5-5600 CL36 memory for $150, reduced from its normal price of $180. That's more expensive than 32GB of DDR4, but you're getting a substantial increase in bandwidth and reduction in latency compared to the DDR5-4800 CL40 JEDEC standard.
-Read more]]></summary>
-        <author>
-            <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russian official says civilian satellites may be “legitimate” military target]]></title>
-        <id>https://arstechnica.com/?p=1882347</id>
-        <link href="https://arstechnica.com/?p=1882347"/>
-        <updated>2022-09-16T21:35:12.000Z</updated>
-        <summary type="html"><![CDATA[Russia wasn't happy about Starlink providing broadband in Ukraine after invasion.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
         </author>
     </entry>
 </feed>

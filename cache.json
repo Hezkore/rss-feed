@@ -121,6 +121,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/09/another-small-steam-deck-beta-update-gets-some-fixes/",
+          "author": "Liam Dawe",
+          "description": "Valve snuck out another Steam Deck Beta Client update, this time with just a few more quick fixes to it.",
+          "link": "https://www.gamingonlinux.com/2022/09/another-small-steam-deck-beta-update-gets-some-fixes/",
+          "publishedOn": "2022-09-30T09:58:16.000Z",
+          "wordCount": 1087,
+          "title": "Another small Steam Deck Beta update gets some fixes",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_deck.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/09/google-gives-up-on-stadia-will-offer-refunds-on-games-and-hardware/",
           "author": "Liam Dawe",
           "description": "As expected for some time now, Google has decided to call it quits on their cloud gaming service Stadia.",
@@ -747,6 +757,36 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/session-skate-sim-review-a-deeply-rewarding-simulator-in-need-of-a-little-flair",
+          "author": "Will Freeman",
+          "description": "Skateboarding is hard. Really damn hard. The journey to mastery is one counted in years - or even decades.\r\n\n\r\nLanding a kickflip while moving along? Sure, today there are wildly more complex tricks out there, but it's still a tremendous achievement. It takes hours of investment and a deep resilience to failure to get there. But the moment you pop the board high, flick it with a foot just enough to spin once beneath you, and successfully commit to the landing, the reward is immense. It's not an achievement recompensed in any kind of currency like score. Rather, to succeed is more than enough of a payoff.\r\n\n\r\nThat is the mindset that has clearly founded the design of Session: Skate Sim. Certainly, it is not as hard as real skateboarding, but this is a game that is profoundly challenging, and one that makes you think like a skateboarder. The clue is in the name. Developer creā-ture Studios has strived to deliver a skateboarding simulator. In doing so, they've built something that does a remarkable job of capturing the essence of real skating; even if that approach sometimes comes at the expense of what makes for a consistently enjoyable video game. To deconstruct what that means, the conversation inevitably starts with an iconic series.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/session-skate-sim-review-a-deeply-rewarding-simulator-in-need-of-a-little-flair",
+          "publishedOn": "2022-09-30T10:03:47.000Z",
+          "wordCount": 5934,
+          "title": "Session: Skate Sim review - a deeply rewarding simulator in need of a little flair",
+          "imageUrl": "https://assets.reedpopcdn.com/s2_6roXGeu.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/s2_6roXGeu.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/what-weve-been-playing-78",
+          "author": "Eurogamer staff",
+          "description": "Hello! Welcome back to our regular feature where we write a little bit about some of the games we've found ourselves playing over the last few days. This time: unhelpful foliage, musical scores, and Disney magic.\nIf you fancy catching up on some of the older editions of What We've Been Playing, \r\nhere's our archive.\nI’m not sure I’ve ever seen a game as pretty as Horizon Forbidden West. The environments feel unreal in their beauty, while the details and textures on character models and clothing are incredible. All this stunning work does mean any imperfections are very distracting though - can someone please explain why Aloy’s hair is seemingly made of wool?\n Read more",
+          "link": "https://www.eurogamer.net/what-weve-been-playing-78",
+          "publishedOn": "2022-09-30T10:00:00.000Z",
+          "wordCount": 5661,
+          "title": "What we've been playing",
+          "imageUrl": "https://assets.reedpopcdn.com/Aloy-Forbidden-West-Horizon.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Aloy-Forbidden-West-Horizon.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/all-the-goss-from-egx-london",
+          "author": "Robert Purchese",
+          "description": "Were you fortunate enough to make it down to EGX London this year? It was this past weekend, and, if you ask me, there was a nice vibe around the place. It was nice to be back playing games together relatively unimpeded by the pandemic, and the show is feeling much more like its old self again. But what caught our eye there?\r\n\n\r\nThat's what I'm talking to my two Weekly guests Martin Robinson and Liv Ngan about today. What did Liv think of Wo Long, did Martin like Street Fighter 6, and why was everyone talking about new card game Wildfrost?\r\n\n\r\nElsewhere in today's show, I catch us up on some of the reviews we've missed while we've been away - sorry for the gap in our programming, but I've had some time off - before getting onto what will probably be the hot topic of the week: the FIFA 23 review. It's the final FIFA-branded game, and there's a lot to both like, and loathe, about it.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/all-the-goss-from-egx-london",
+          "publishedOn": "2022-09-30T09:33:17.000Z",
+          "wordCount": 4319,
+          "title": "All the goss from EGX London",
+          "imageUrl": "https://assets.reedpopcdn.com/EG21_Podcast_Cover_Weekly_1920x1080px_AW.png/BROK/thumbnail/1600x900/format/jpg/quality/80/EG21_Podcast_Cover_Weekly_1920x1080px_AW.png"
+        },
         {
           "id": "https://www.eurogamer.net/world-of-warcrafts-dragonflight-expansion-gets-november-release-date",
           "author": "Matt Wales",
@@ -4112,6 +4152,26 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Zink-Enables-GLThread",
+          "author": null,
+          "description": "Recently the open-source AMD OpenGL driver \"RadeonSI\" enabled OpenGL threading by default for the \"glthread\" option that has long been opt-in on a per-game/app basis. Along with that has been a number of glthread-related improvements to this code that punts executing OpenGL calls to a separate CPU thread. The Zink OpenGL-on-Vulkan driver has now unconditionally enabled OpenGL threading too...",
+          "link": "https://www.phoronix.com/news/Zink-Enables-GLThread",
+          "publishedOn": "2022-09-30T10:00:37.000Z",
+          "wordCount": 1269,
+          "title": "Zink Enables OpenGL Threading For \"Huge Perf Gains\"",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Microsoft-AV1-D3D12-Decode",
+          "author": null,
+          "description": "Microsoft engineers continue working on improving their Direct3D 12 driver within Mesa for benefiting Windows Subsystem for Linux (WSL2) usage and similar...",
+          "link": "https://www.phoronix.com/news/Microsoft-AV1-D3D12-Decode",
+          "publishedOn": "2022-09-30T09:45:02.000Z",
+          "wordCount": 1263,
+          "title": "Microsoft Adds AV1 Decode Support To Their Mesa D3D12 Driver",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Ubuntu-22.10-Beta-Released",
           "author": null,
           "description": "On Thursday night Canonical released the beta of next month's Ubuntu 22.10 \"Kinetic Kudu\" Linux distribution update...",
@@ -4119,6 +4179,16 @@
           "publishedOn": "2022-09-30T09:15:01.000Z",
           "wordCount": 1295,
           "title": "Ubuntu 22.10 Beta Released For Linux 5.19 + GNOME 43 Powered Linux Desktop",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Cloud-Hypervisor-27",
+          "author": null,
+          "description": "Cloud-Hypervisor as what started as an open-source project by Intel and now run under the Linux Foundation umbrella as a Rust-based, modern-focused hypervisor for cloud workloads keeps on advancing. In addition to Intel, Microsoft and Arm continue investing significant resources into Cloud-Hypervisor for this security-focused VMM for running Windows and Linux guests...",
+          "link": "https://www.phoronix.com/news/Cloud-Hypervisor-27",
+          "publishedOn": "2022-09-30T08:48:35.000Z",
+          "wordCount": 1246,
+          "title": "Intel, Microsoft & Arm Continue Advancing The Cloud-Hypervisor With v27 Released",
           "imageUrl": null
         },
         {
@@ -5259,6 +5329,16 @@
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
         {
+          "id": "https://www.rockpapershotgun.com/homicidal-all-stars-asks-what-if-running-man-was-a-turn-based-tactics-game",
+          "author": "Katharine Castle",
+          "description": "If you've ever wondered what the 1987 film Running Man might look like as a turn-based tactics game (see also last year's Netflix sensation Squid Game, if the Running Man reference doesn't quite do it for you), then Homicidal All-Stars probably comes pretty close. It's the debut game from Artificer, a new studio formed by a bunch of ex-CreativeForge devs who worked on the first Hard West and Phantom Doctrine, and it centres on a woman called Scarlett who finds herself competing in the deadly TV show that gives the game its name. Like Running Man, Squid Game and all those other 'deadly games' you know and love, Homicidal All-Stars is about folks who down on their luck fighting for their lives, where their only consolation prize in these dystopian bloodbaths is not getting pulped at the end of it. \nFor Scarlett, this means mowing down scumbags in classic turn-based fashion with a bunch of other friendly competitors she's teamed up with, but this is far from a straightforward XCOM-like. Between fights, you'll also be navigating its trap-filled arenas in third-person, dodging sniper turrets, disabling tripwires, and dashing over spiky/fiery/horrible pits to get to the end of each 'episode'. It's a refreshing mix based on an early preview build I've been playing recently, especially when its gameshow hook allows for its malicious host, Orion Ford, to start meddling with your success. \"He’s the person behind the worst of the twists,\" creative director and Artificer CEO Kacper Szymczak tells me. \"He’ll start filling the level with poisonous gas, he’ll turn off the lights, drop explosive barrels everywhere, to name just a few.\"\nRead more",
+          "link": "https://www.rockpapershotgun.com/homicidal-all-stars-asks-what-if-running-man-was-a-turn-based-tactics-game",
+          "publishedOn": "2022-09-30T10:00:00.000Z",
+          "wordCount": 6571,
+          "title": "Homicidal All-Stars asks: 'What if Running Man was a turn-based tactics game?'",
+          "imageUrl": "https://assets2.rockpapershotgun.com/Homicidal_All_Stars_Key_Art_1920x1080a.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Homicidal_All_Stars_Key_Art_1920x1080a.jpg"
+        },
+        {
           "id": "https://www.rockpapershotgun.com/foxholes-massively-multiplayer-war-has-now-left-early-access",
           "author": "Graham Smith",
           "description": "Massively multiplayer games rapidly calcified around a specific set of design ideas (eg. World Of Warcraft) and so many other attempts to jam a load of players onto a single server quickly disappeared (eg. most games by Improbable or Amazon). \r\n\nFoxhole is one of the few to do it successfully: a single, massive World War 2 battlefield in which players don't just fight at the frontlines, but form supply routes, build defenses, and otherwise take the reigns of the logistics of war. After five years in early access, Foxhole released version 1.0 today.\r\n\n \nRead more",
@@ -6347,26 +6427,6 @@
           "wordCount": 5115,
           "title": "What are we all playing this weekend?",
           "imageUrl": "https://assets2.rockpapershotgun.com/wpwpapwapwapawp.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/wpwpapwapwapawp.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/logitechs-g29-racing-wheel-and-pedals-is-down-to-230-at-amazon",
-          "author": "Will Judd",
-          "description": "Logitech's G29 racing wheel and pedals is down to $230 at Amazon, offering a great chance to pick up a highly-regarded budget wheel at a fair price. \nThe G29 set works with PC, PS4 and PS5, making it a good pickup for anyone with at least one of these systems that likes to play titles like Gran Turismo 7 or F1 22. There's also an Xbox Series, Xbox One and PC model, the G920, that's available at the same discounted price and of course will work well for games like Forza Horizon 5, F1 22 and the upcoming Forza Motorsport scheduled to arrive early next year.  \nRead more",
-          "link": "https://www.rockpapershotgun.com/logitechs-g29-racing-wheel-and-pedals-is-down-to-230-at-amazon",
-          "publishedOn": "2022-09-16T21:48:20.000Z",
-          "wordCount": 4890,
-          "title": "Logitech's G29 racing wheel and pedals is down to $230 at Amazon",
-          "imageUrl": "https://assets2.rockpapershotgun.com/61IYYoZ66VL._AC_SL1500_.webp/BROK/thumbnail/1600x900/format/jpg/quality/80/61IYYoZ66VL._AC_SL1500_.webp"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/get-32gb-of-fast-ddr5-5600-cl36-ram-for-150-in-the-us",
-          "author": "Will Judd",
-          "description": "Higher speed, lower latency DDR5 is becoming more affordable, and in the US we spotted a great deal on TeamGroup memory over at Amazon. There, you can find a 32GB kit of DDR5-5600 CL36 memory for $150, reduced from its normal price of $180. That's more expensive than 32GB of DDR4, but you're getting a substantial increase in bandwidth and reduction in latency compared to the DDR5-4800 CL40 JEDEC standard.\nRead more",
-          "link": "https://www.rockpapershotgun.com/get-32gb-of-fast-ddr5-5600-cl36-ram-for-150-in-the-us",
-          "publishedOn": "2022-09-16T21:35:38.000Z",
-          "wordCount": 4822,
-          "title": "Get 32GB of fast DDR5-5600 CL36 RAM for $150 in the US",
-          "imageUrl": "https://assets2.rockpapershotgun.com/ddr5-teamgroup.png/BROK/thumbnail/1600x900/format/jpg/quality/80/ddr5-teamgroup.png"
         }
       ]
     },
@@ -10530,26 +10590,6 @@
           "wordCount": 1444,
           "title": "Texas court upholds law banning tech companies from censoring viewpoints",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1357468679-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1882387",
-          "author": "Beth Mole",
-          "description": "The bills can discourage rape reporting and compound victims' trauma.",
-          "link": "https://arstechnica.com/?p=1882387",
-          "publishedOn": "2022-09-16T21:47:30.000Z",
-          "wordCount": 1552,
-          "title": "Being a victim of rape costs an average of $3,500 in medical bills, study finds",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1315395479-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1882347",
-          "author": "Jon Brodkin",
-          "description": "Russia wasn't happy about Starlink providing broadband in Ukraine after invasion.",
-          "link": "https://arstechnica.com/?p=1882347",
-          "publishedOn": "2022-09-16T21:35:12.000Z",
-          "wordCount": 1753,
-          "title": "Russian official says civilian satellites may be “legitimate” military target",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/02/starlink-60-satellites-760x380.jpg"
         }
       ]
     },
@@ -10558,6 +10598,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291641",
+          "author": null,
+          "description": "14:00 smäller det!",
+          "link": "https://www.fz.se/artikel/291641-fragzone-fredag-om-nedlaggningen-av-stadia-overwatch-2-skull-bones-last-of-us-som-tv-serie-och-mycket-mer",
+          "publishedOn": "2022-09-30T10:00:00.000Z",
+          "wordCount": 1718,
+          "title": "Fragzone-fredag om nedläggningen av Stadia, Overwatch 2, Skull & Bones, Last of Us som tv-serie och mycket mer!",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291641"
+        },
         {
           "id": "https://www.fz.se/artikel/291637",
           "author": null,
@@ -12086,6 +12136,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/35000",
+          "author": null,
+          "description": "Intel delar med sig av både pris och lanseringsdatum för A750. Därtill delas prestandaresultat där grafikkortet ställs mot Geforce RTX 3060.",
+          "link": "https://www.sweclockers.com/artikel/35000-arc-a750-ansluter-sig-den-12-oktober-far-prislapp-pa-289-usd",
+          "publishedOn": "2022-09-30T10:04:19.000Z",
+          "wordCount": 1951,
+          "title": "Arc A750 ansluter sig den 12 oktober – får prislapp på 289 USD",
+          "imageUrl": "https://www.sweclockers.com/artikel/35000/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34997",
           "author": null,
           "description": "Den välvda 34-tummaren byter G-sync mot Freesync och kliver ned i rekommenderat pris med motsvarande drygt 2 000 kronor.",
@@ -12942,6 +13002,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/30/hdd_clicker/",
+          "author": null,
+          "description": "<h4>Made your old computer faster but too quiet? Here's a fun fix</h4> <p>The best way to make a sluggish old computer quicker is to replace spinning rust with some flash chippery. The snag is that loses part of the experience: the sound.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/30/hdd_clicker/",
+          "publishedOn": "2022-09-30T09:35:06.000Z",
+          "wordCount": 1222,
+          "title": "HDD Clicker gizmo makes flash sound like spinning rust",
+          "imageUrl": "https://regmedia.co.uk/2016/08/24/pc_983465356.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/30/citrix_xen/",
           "author": null,
@@ -15201,16 +15271,6 @@
           "wordCount": 1604,
           "title": "Appeals court already under fire for upholding Texas no-content-moderation law",
           "imageUrl": "https://regmedia.co.uk/2022/09/16/shutterstock_big_tech.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/16/seesaw_inappropriate_image/",
-          "author": null,
-          "description": "<h4>This is why we don't reuse passwords, kids</h4> <p>Parents and teachers received a link to an \"inappropriate image\" this week via Seesaw after miscreants hijacked accounts in a credential stuffing attack against the popular school messaging app.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/16/seesaw_inappropriate_image/",
-          "publishedOn": "2022-09-16T21:45:39.000Z",
-          "wordCount": 1526,
-          "title": "School chat app Seesaw abused to send 'inappropriate image' to parents, teachers",
-          "imageUrl": "https://regmedia.co.uk/2021/05/06/password.jpg"
         }
       ]
     }
