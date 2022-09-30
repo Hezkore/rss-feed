@@ -9249,21 +9249,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/4UFb7QoYUQNBBoucdY6mmQ.jpg"
-        },
-        {
-          "id": "w9iJQzhs9u4aLfn8CktSnc",
-          "author": null,
-          "description": "Just got your first Raspberry Pi and are wondering how to get started? Here's what you need to do.",
-          "link": "https://www.tomshardware.com/how-to/set-up-raspberry-pi",
-          "publishedOn": "2022-09-17T06:12:13.000Z",
-          "wordCount": 22990,
-          "title": "How to Set Up a Raspberry Pi for the First Time",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/hmY4mudbr2F46kwUMeb8d.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/hmY4mudbr2F46kwUMeb8d.jpg"
         }
       ]
     },
@@ -9520,16 +9505,6 @@
           "publishedOn": "2022-09-17T07:56:38.000Z",
           "wordCount": 396,
           "title": "Jonathan Dowland: Prusa Mini",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jmtd.net/log/ubi9-openjdk/",
-          "author": null,
-          "description": "A few weeks ago we shipped the first RHEL UBI9-based OpenJDK container images.\nUniversal Base Image (UBI) is an initiative where you can obtain, share and\nbuild upon official Red Hat container images without needing a Red Hat\nsubscription. They're exactly the same base images that Red Hat products are\nbuilt upon, composed entirely of Open Source software. Your precise rights are\ncovered in the\nEULA.\nNowadays we offer two flavours of images, the original style (now termed\nbuilder images) and leaner runtime images, which have a subset of the JDK,\nand no build tools like Maven, etc.\nWe provide JDK11 and JDK17 for UBI9:\npodman pull registry.access.redhat.com/ubi9/openjdk-11\npodman pull registry.access.redhat.com/ubi9/openjdk-17\npodman pull registry.access.redhat.com/ubi9/openjdk-11-runtime\npod…",
-          "link": "https://jmtd.net/log/ubi9-openjdk/",
-          "publishedOn": "2022-09-17T06:11:51.000Z",
-          "wordCount": 389,
-          "title": "Jonathan Dowland: Introducing Red Hat UBI9 OpenJDK runtime images",
           "imageUrl": null
         }
       ]

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-30T17:39:49.711Z</updated>
+    <updated>2022-09-30T18:34:40.292Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
@@ -18065,40 +18065,6 @@ more positive Prusa news soon!]]></summary>
         <summary type="html"><![CDATA[<h4>About time someone shined some light onto this</h4> <p>Boffins at the University of Michigan in the US and Zhejiang University in China want to highlight how bespectacled video conferencing participants are inadvertently revealing sensitive on-screen information via reflections in their eyeglasses.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Set Up a Raspberry Pi for the First Time]]></title>
-        <id>w9iJQzhs9u4aLfn8CktSnc</id>
-        <link href="https://www.tomshardware.com/how-to/set-up-raspberry-pi"/>
-        <updated>2022-09-17T06:12:13.000Z</updated>
-        <summary type="html"><![CDATA[Just got your first Raspberry Pi and are wondering how to get started? Here's what you need to do.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jonathan Dowland: Introducing Red Hat UBI9 OpenJDK runtime images]]></title>
-        <id>https://jmtd.net/log/ubi9-openjdk/</id>
-        <link href="https://jmtd.net/log/ubi9-openjdk/"/>
-        <updated>2022-09-17T06:11:51.000Z</updated>
-        <summary type="html"><![CDATA[A few weeks ago we shipped the first RHEL UBI9-based OpenJDK container images.
-Universal Base Image (UBI) is an initiative where you can obtain, share and
-build upon official Red Hat container images without needing a Red Hat
-subscription. They're exactly the same base images that Red Hat products are
-built upon, composed entirely of Open Source software. Your precise rights are
-covered in the
-EULA.
-Nowadays we offer two flavours of images, the original style (now termed
-builder images) and leaner runtime images, which have a subset of the JDK,
-and no build tools like Maven, etc.
-We provide JDK11 and JDK17 for UBI9:
-podman pull registry.access.redhat.com/ubi9/openjdk-11
-podman pull registry.access.redhat.com/ubi9/openjdk-17
-podman pull registry.access.redhat.com/ubi9/openjdk-11-runtime
-pod…]]></summary>
-        <author>
-            <name>Planet Debian</name>
         </author>
     </entry>
 </feed>
