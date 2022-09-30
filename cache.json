@@ -779,16 +779,6 @@
           "wordCount": 1500,
           "title": "Valve had the official Steam Deck Docking Station at TGS, plus other TGS bits",
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/609213100id21615gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/09/humble-has-a-whole-lot-of-total-war-classics-in-this-bundle/",
-          "author": "Liam Dawe",
-          "description": "Need some more Total War in your gaming library? Humble has a reasonably good selection available in the Total War Classics Bundle.",
-          "link": "https://www.gamingonlinux.com/2022/09/humble-has-a-whole-lot-of-total-war-classics-in-this-bundle/",
-          "publishedOn": "2022-09-17T09:05:33.000Z",
-          "wordCount": 1114,
-          "title": "Humble has a whole lot of Total War Classics in this bundle",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1288111674id21614gol.jpg"
         }
       ]
     },
@@ -9607,6 +9597,26 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1885973",
+          "author": "Kevin Purdy",
+          "description": "One firmware push could let Stadia fans keep their favorite wireless controller.",
+          "link": "https://arstechnica.com/?p=1885973",
+          "publishedOn": "2022-09-30T20:22:11.000Z",
+          "wordCount": 1753,
+          "title": "Stadia controllers could become e-waste unless Google issues Bluetooth update",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/11/Stadia-9-of-9-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1886065",
+          "author": "Dan Goodin",
+          "description": "Microsoft said it's working on an accelerated schedule to roll out a patch.",
+          "link": "https://arstechnica.com/?p=1886065",
+          "publishedOn": "2022-09-30T20:01:42.000Z",
+          "wordCount": 1683,
+          "title": "High-severity Microsoft Exchange 0-day under attack threatens 220,000 servers",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/zeroday-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1885831",
           "author": "Scharon Harding",
           "description": "USB-IF drops 12-year-old USB branding representing 5Gbps and faster speeds.",
@@ -13837,6 +13847,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/30/iarpa_radiation_monitoring_research/",
+          "author": null,
+          "description": "<h4>IARPA unleashes TEI-REX to better track nuclear sources</h4> <p>The research arm of US intelligence has begun investigating methods for spotting low doses of ionizing radiation to better protect American service personnel and provide evidence of nuclear technology use.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/30/iarpa_radiation_monitoring_research/",
+          "publishedOn": "2022-09-30T20:52:36.000Z",
+          "wordCount": 1418,
+          "title": "Apropos of nothing, US intel wants to improve low-dose radiation detection",
+          "imageUrl": "https://regmedia.co.uk/2021/04/08/radiation_symbol_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/30/chinese_battery_vrfb_us_patents/",
           "author": null,

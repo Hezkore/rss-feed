@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-30T20:29:03.791Z</updated>
+    <updated>2022-09-30T21:24:36.548Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apropos of nothing, US intel wants to improve low-dose radiation detection]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/30/iarpa_radiation_monitoring_research/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/30/iarpa_radiation_monitoring_research/"/>
+        <updated>2022-09-30T20:52:36.000Z</updated>
+        <summary type="html"><![CDATA[<h4>IARPA unleashes TEI-REX to better track nuclear sources</h4> <p>The research arm of US intelligence has begun investigating methods for spotting low doses of ionizing radiation to better protect American service personnel and provide evidence of nuclear technology use.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stadia controllers could become e-waste unless Google issues Bluetooth update]]></title>
+        <id>https://arstechnica.com/?p=1885973</id>
+        <link href="https://arstechnica.com/?p=1885973"/>
+        <updated>2022-09-30T20:22:11.000Z</updated>
+        <summary type="html"><![CDATA[One firmware push could let Stadia fans keep their favorite wireless controller.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google Announces Lyra V2 Low Bit-Rate Voice Codec]]></title>
         <id>https://www.phoronix.com/news/Google-Lyra-V2</id>
@@ -14,6 +34,16 @@
         <summary type="html"><![CDATA[Last year Google announced the Lyra voice codec for low bit-rates that combined with the open AV1 codec could lead to voice chats on 56kbps connections. Lyra makes use of machine learning and other techniques for extremely low bit-rate speech compression that can function at 3kbps. Google last year open-sourced the Lyra code while today they announced the availability of Lyra V2...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High-severity Microsoft Exchange 0-day under attack threatens 220,000 servers]]></title>
+        <id>https://arstechnica.com/?p=1886065</id>
+        <link href="https://arstechnica.com/?p=1886065"/>
+        <updated>2022-09-30T20:01:42.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft said it's working on an accelerated schedule to roll out a patch.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
         </author>
     </entry>
     <entry>
@@ -18082,16 +18112,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[While Plasma 5.26 beta released this week, KDE developers didn't kick back and relax but have pressed on with continuing to make improvements to this open-source desktop environment...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Humble has a whole lot of Total War Classics in this bundle]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/humble-has-a-whole-lot-of-total-war-classics-in-this-bundle/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/humble-has-a-whole-lot-of-total-war-classics-in-this-bundle/"/>
-        <updated>2022-09-17T09:05:33.000Z</updated>
-        <summary type="html"><![CDATA[Need some more Total War in your gaming library? Humble has a reasonably good selection available in the Total War Classics Bundle.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
         </author>
     </entry>
 </feed>
