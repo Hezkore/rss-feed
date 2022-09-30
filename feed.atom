@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-30T16:41:20.608Z</updated>
+    <updated>2022-09-30T17:39:49.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pokemon Go's Evolving Stars event will see the debut of Cosmoem]]></title>
+        <id>https://www.vg247.com/pokemon-go-evolving-stars-event-cosmoem</id>
+        <link href="https://www.vg247.com/pokemon-go-evolving-stars-event-cosmoem"/>
+        <updated>2022-09-30T17:36:23.000Z</updated>
+        <summary type="html"><![CDATA[Pokemon Go players can soon participate in the Evolving Stars event which kicks off next week and runs October 5-11.
+The Season of Light already debuted the Pokemon Cosmog, and now its evolution Cosmoem, the Protostar Pokemon, is coming to the game.
+Along with the addition of the new Pokemon evolution, you can also look forward to Field Research focused on Evolution and four Collection Challenges that award Evolution items.
+ Read more]]></summary>
+        <author>
+            <name>Stephany Nunneley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delivery drone crashes into power lines, causes outage]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/30/delivery_drone_crashes_into_power/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/30/delivery_drone_crashes_into_power/"/>
+        <updated>2022-09-30T17:30:09.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Google-owned Wing said it was a 'precautionary controlled landing' – right into 11,000 volts</h4> <p>A delivery drone operated by Alphabet subsidiary Wing crashed into power lines in the Australian town of Browns Plains yesterday, knocking out power for more than 2,000 customers.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[With AMD Zen 4, It's Surprisingly Not Worthwhile Disabling CPU Security Mitigations]]></title>
+        <id>https://www.phoronix.com/news/AMD-Zen-4-Mitigations-Off</id>
+        <link href="https://www.phoronix.com/news/AMD-Zen-4-Mitigations-Off"/>
+        <updated>2022-09-30T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[While some Linux enthusiasts eagerly recommend users boot their systems with the "mitigations=off" kernel parameter for run-time disabling of various relevant CPU security mitigations for Spectre, Meltdown, L1TF, TAA, Retbleed, and friends, with the new AMD Ryzen 7000 "Zen 4" processors while still needing some software mitigations, it's surprisingly faster for the most part leaving the relevant mitigations enabled...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. Retailer Gives Free 32GB DDR5-5600 Kit with Ryzen 7000 CPU]]></title>
+        <id>R82Lg8KuPyZdsWQ532yH5W</id>
+        <link href="https://www.tomshardware.com/news/us-retailer-gives-free-32gb-ddr5-5600-kit-with-ryzen-7000-cpus"/>
+        <updated>2022-09-30T17:22:52.000Z</updated>
+        <summary type="html"><![CDATA[Micro Center gives away free 32GB DDR5-5600 memory kit with a purchase of a Ryzen 7 or Ryzen 9 7000-series.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome’s new ad-blocker-limiting extension platform will launch in 2023]]></title>
+        <id>https://arstechnica.com/?p=1885554</id>
+        <link href="https://arstechnica.com/?p=1885554"/>
+        <updated>2022-09-30T16:55:17.000Z</updated>
+        <summary type="html"><![CDATA[If Google really wants more secure extensions, why not just police the store better?]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Åh, Kanada! Ny World Update till Microsoft Flight Simulator]]></title>
+        <id>https://www.fz.se/artikel/291646</id>
+        <link href="https://www.fz.se/artikel/291646-ah-kanada-ny-world-update-till-microsoft-flight-simulator"/>
+        <updated>2022-09-30T16:50:00.000Z</updated>
+        <summary type="html"><![CDATA[Har släppts lös bland molnen.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deepfake Bruce Willis may be the next Hollywood star, and he’s OK with that]]></title>
+        <id>https://arstechnica.com/?p=1885857</id>
+        <link href="https://arstechnica.com/?p=1885857"/>
+        <updated>2022-09-30T16:35:13.000Z</updated>
+        <summary type="html"><![CDATA[Tech will allow Willis' doppelgänger to continue working despite language disorder diagnosis.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux 6.1 Change Aims To Auto-Detect Logitech HID++ High Resolution Scrolling Support]]></title>
         <id>https://www.phoronix.com/news/Linux-61-Logitech-Hi-Res-Scroll</id>
@@ -80,6 +153,16 @@ Could Stadia have been a success? What does this all mean for game preservation?
 Read more]]></summary>
         <author>
             <name>Tom Phillips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Savor the sinister delights of del Toro’s Cabinet of Curiosities trailer]]></title>
+        <id>https://arstechnica.com/?p=1885832</id>
+        <link href="https://arstechnica.com/?p=1885832"/>
+        <updated>2022-09-30T16:07:32.000Z</updated>
+        <summary type="html"><![CDATA["Picture your mind as a cabinet where you lock up your darkest thoughts..."]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
         </author>
     </entry>
     <entry>
@@ -163,6 +246,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The best Mac desktop clients for Gmail aficionados]]></title>
+        <id>https://arstechnica.com/?p=1878321</id>
+        <link href="https://arstechnica.com/?p=1878321"/>
+        <updated>2022-09-30T15:32:58.000Z</updated>
+        <summary type="html"><![CDATA[Gmail, the service? Not bad. Gmail, the website? Eh. Time for a real client.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bitcoin worse for the climate than beef, say economists]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/30/bitcoin_climate_impact/</id>
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/30/bitcoin_climate_impact/"/>
@@ -186,6 +279,16 @@ In order to create the game, they've had to learn Unreal Engine 5 with zero expe
 Read more]]></summary>
         <author>
             <name>Liv Ngan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mystery hackers are “hyperjacking” targets for insidious spying]]></title>
+        <id>https://arstechnica.com/?p=1885873</id>
+        <link href="https://arstechnica.com/?p=1885873"/>
+        <updated>2022-09-30T15:22:12.000Z</updated>
+        <summary type="html"><![CDATA[After decades of warnings, group figured out how to hijack virtualization software.]]></summary>
+        <author>
+            <name>WIRED</name>
         </author>
     </entry>
     <entry>
