@@ -3006,16 +3006,6 @@
           "wordCount": 4620,
           "title": "Vince Zampella says Battlefield 2042 \"strayed too far from what Battlefield is\"",
           "imageUrl": "https://assets.reedpopcdn.com/bf2042_ojtv1oJ.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/bf2042_ojtv1oJ.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/sony-says-original-psvr-games-wont-be-compatible-with-psvr2",
-          "author": "Matt Wales",
-          "description": "Sony has revealed its upcoming PSVR2 headset for PlayStation 5 won't be compatible with games for the original PSVR.\r\n\n\r\nThat's according to PlayStation's SVP of platform experience, Hideaki Nishino, speaking in the latest episode of the Official PlayStation Podcast (jump to the 29:10 mark). \"PSVR games are not compatible with PSVR2,\" he explained in answer to a question from the host, \"because PSVR2 is designed to deliver a truly next-generation VR experience\". \r\n\n\r\nElaborating further, Nishino claimed the new elements of the PVSR2 hardware - inside-out tracking and eye-tracking, 3D audio, a 4K HDR display, and its controller with adaptive triggers and haptic feedback - meant \"developing games for PSVR2 requires a whole different approach than the original PSVR.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sony-says-original-psvr-games-wont-be-compatible-with-psvr2",
-          "publishedOn": "2022-09-16T20:15:38.000Z",
-          "wordCount": 4396,
-          "title": "Sony says original PSVR games won't be compatible with PSVR2",
-          "imageUrl": "https://assets.reedpopcdn.com/PR_PSVR2_GREYSERIES_01_16X9.png/BROK/thumbnail/1600x900/format/jpg/quality/80/PR_PSVR2_GREYSERIES_01_16X9.png"
         }
       ]
     },
@@ -4141,6 +4131,16 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/AMDVLK-2022.Q3.5-Released",
+          "author": null,
+          "description": "Prior to ending out the third quarter, AMD's graphics driver team has released AMDVLK 2022.Q3.5 as their newest open-source Vulkan Linux driver update...",
+          "link": "https://www.phoronix.com/news/AMDVLK-2022.Q3.5-Released",
+          "publishedOn": "2022-09-30T08:28:25.000Z",
+          "wordCount": 1250,
+          "title": "AMDVLK 2022.Q3.5 Released With Several Improvements",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Intel-Arc-A750-Details",
           "author": null,
@@ -8609,21 +8609,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/hmY4mudbr2F46kwUMeb8d.jpg"
-        },
-        {
-          "id": "ukYBXvHQyC4JDUwxFeDcob",
-          "author": null,
-          "description": "According to two reports on YouTube, EVGA will no longer make GPUs",
-          "link": "https://www.tomshardware.com/news/evga-abandons-the-gpu-market-reportedly-citing-conflicts-with-nvidia",
-          "publishedOn": "2022-09-16T20:17:43.000Z",
-          "wordCount": 22165,
-          "title": "EVGA Abandons the GPU Market, Reportedly Citing Conflicts With Nvidia",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/2sezHAkN8ZWnLqK775Yhs7.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/2sezHAkN8ZWnLqK775Yhs7.jpg"
         }
       ]
     },
@@ -10605,36 +10590,6 @@
           "wordCount": 1907,
           "title": "Fire ant rafts form because of the Cheerios effect, study concludes",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/ant1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1882286",
-          "author": "Andrew Cunningham",
-          "description": "EVGA will continue selling current-gen GeForce cards until it runs out of stock.",
-          "link": "https://arstechnica.com/?p=1882286",
-          "publishedOn": "2022-09-16T20:24:40.000Z",
-          "wordCount": 1929,
-          "title": "GeForce GPUs are 80% of EVGA’s revenue—but it’s cutting ties with Nvidia anyway",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/evganividia-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1882269",
-          "author": "Benj Edwards",
-          "description": "Using software that creates art on demand, some artists attempt to cash in on AI-generated content.",
-          "link": "https://arstechnica.com/?p=1882269",
-          "publishedOn": "2022-09-16T20:16:42.000Z",
-          "wordCount": 1410,
-          "title": "Artists begin selling AI-generated artwork on stock photography websites",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/ai_art_on_shutterstock_hero-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1882262",
-          "author": "Kevin Purdy",
-          "description": "No details on why PSVR2 enhancements mean it can't run less-advanced games.",
-          "link": "https://arstechnica.com/?p=1882262",
-          "publishedOn": "2022-09-16T19:47:22.000Z",
-          "wordCount": 1498,
-          "title": "Sony: PSVR2 is “truly next-generation,” so it can’t play PSVR1 games",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2016/09/psvr-10-1-760x380.jpg"
         }
       ]
     },
@@ -10643,6 +10598,26 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291636",
+          "author": null,
+          "description": "Men får viss kritik för \"prioriterad support\" för toppdeltagare.",
+          "link": "https://www.fz.se/artikel/291636-sonys-lojalitetsprogram-playstation-stars-slapps-13-oktober",
+          "publishedOn": "2022-09-30T07:55:00.000Z",
+          "wordCount": 1811,
+          "title": "Sonys lojalitetsprogram Playstation Stars släpps 13 oktober",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291636"
+        },
+        {
+          "id": "https://www.fz.se/artikel/291635",
+          "author": null,
+          "description": "Lattja med tiden istället för portaler.",
+          "link": "https://www.fz.se/artikel/291635-portal-liknande-the-entropy-centre-far-slappdatum-och-demo",
+          "publishedOn": "2022-09-30T06:57:00.000Z",
+          "wordCount": 1774,
+          "title": "Portal-liknande The Entropy Centre får släppdatum och demo",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291635"
+        },
         {
           "id": "https://www.fz.se/artikel/291635",
           "author": null,
@@ -12141,6 +12116,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/34997",
+          "author": null,
+          "description": "Den välvda 34-tummaren byter G-sync mot Freesync och kliver ned i rekommenderat pris med motsvarande drygt 2 000 kronor.",
+          "link": "https://www.sweclockers.com/artikel/34997-alienwares-qd-oled-skarm-far-syskon-med-lagre-prislapp",
+          "publishedOn": "2022-09-30T08:19:54.000Z",
+          "wordCount": 1588,
+          "title": "Alienwares QD OLED-skärm får syskon med lägre prislapp",
+          "imageUrl": "https://www.sweclockers.com/artikel/34997/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/34998",
           "author": null,
           "description": "Efter många om och men har Google meddelat att speltjänsten Stadia når vägs ände. Den 18 januari 2023 går den i graven för gott.",
@@ -12728,6 +12713,16 @@
       "siteUrl": "https://loadingartist.com/",
       "articles": [
         {
+          "id": "https://loadingartist.com/comic/snail-mail/",
+          "author": "Gregor",
+          "description": "a comic about delivering the mail inch by inch, foot by foot",
+          "link": "https://loadingartist.com/comic/snail-mail/",
+          "publishedOn": "2022-09-30T07:19:18.000Z",
+          "wordCount": 162,
+          "title": "Snail Mail",
+          "imageUrl": "https://loadingartist.com/comic/snail-mail/thumb.png"
+        },
+        {
           "id": "https://loadingartist.com/comic/not-in-the-stars/",
           "author": "Gregor",
           "description": "a comic about a bad sign on a bad date",
@@ -12987,6 +12982,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/30/citrix_xen/",
+          "author": null,
+          "description": "<h4>How to win friends and admit how you lost them earlier?</h4> <p><strong>Open Source Summit</strong>  What's the difference between the Citrix Hypervisor and Xen? Well, one has quite a big crowd of upset current and former community members.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/30/citrix_xen/",
+          "publishedOn": "2022-09-30T08:30:11.000Z",
+          "wordCount": 1678,
+          "title": "How Citrix dropped the ball on Xen ... according to Citrix",
+          "imageUrl": "https://regmedia.co.uk/2021/04/13/shutterstock_facepalm_duo.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/30/mars_water_study/",
           "author": null,
@@ -15246,16 +15251,6 @@
           "wordCount": 1526,
           "title": "School chat app Seesaw abused to send 'inappropriate image' to parents, teachers",
           "imageUrl": "https://regmedia.co.uk/2021/05/06/password.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/16/ftc_gig_work/",
-          "author": null,
-          "description": "<h4>If only the US government had, like, a Dept of Labor or something</h4> <p>The US Federal Trade Commission on Thursday fired its first warning shot at companies that exploit gig workers.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/16/ftc_gig_work/",
-          "publishedOn": "2022-09-16T20:23:06.000Z",
-          "wordCount": 1602,
-          "title": "FTC steps forward, says it has the power to police gig work",
-          "imageUrl": "https://regmedia.co.uk/2022/09/16/gig_worker_shutterstock.jpg"
         }
       ]
     }

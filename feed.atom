@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-30T07:46:02.428Z</updated>
+    <updated>2022-09-30T08:40:09.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Citrix dropped the ball on Xen ... according to Citrix]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/30/citrix_xen/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/30/citrix_xen/"/>
+        <updated>2022-09-30T08:30:11.000Z</updated>
+        <summary type="html"><![CDATA[<h4>How to win friends and admit how you lost them earlier?</h4> <p><strong>Open Source Summit</strong>  What's the difference between the Citrix Hypervisor and Xen? Well, one has quite a big crowd of upset current and former community members.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMDVLK 2022.Q3.5 Released With Several Improvements]]></title>
+        <id>https://www.phoronix.com/news/AMDVLK-2022.Q3.5-Released</id>
+        <link href="https://www.phoronix.com/news/AMDVLK-2022.Q3.5-Released"/>
+        <updated>2022-09-30T08:28:25.000Z</updated>
+        <summary type="html"><![CDATA[Prior to ending out the third quarter, AMD's graphics driver team has released AMDVLK 2022.Q3.5 as their newest open-source Vulkan Linux driver update...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alienwares QD OLED-skärm får syskon med lägre prislapp]]></title>
+        <id>https://www.sweclockers.com/artikel/34997</id>
+        <link href="https://www.sweclockers.com/artikel/34997-alienwares-qd-oled-skarm-far-syskon-med-lagre-prislapp"/>
+        <updated>2022-09-30T08:19:54.000Z</updated>
+        <summary type="html"><![CDATA[Den välvda 34-tummaren byter G-sync mot Freesync och kliver ned i rekommenderat pris med motsvarande drygt 2 000 kronor.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sonys lojalitetsprogram Playstation Stars släpps 13 oktober]]></title>
+        <id>https://www.fz.se/artikel/291636</id>
+        <link href="https://www.fz.se/artikel/291636-sonys-lojalitetsprogram-playstation-stars-slapps-13-oktober"/>
+        <updated>2022-09-30T07:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Men får viss kritik för "prioriterad support" för toppdeltagare.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Astroboffins present fresh evidence of moving liquid water on Mars]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/30/mars_water_study/</id>
@@ -17,6 +57,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Snail Mail]]></title>
+        <id>https://loadingartist.com/comic/snail-mail/</id>
+        <link href="https://loadingartist.com/comic/snail-mail/"/>
+        <updated>2022-09-30T07:19:18.000Z</updated>
+        <summary type="html"><![CDATA[a comic about delivering the mail inch by inch, foot by foot]]></summary>
+        <author>
+            <name>Gregor</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fixing an upside-down USB plug: a case of supporting the insupportable]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/30/on_call/</id>
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/30/on_call/"/>
@@ -24,6 +74,16 @@
         <summary type="html"><![CDATA[<h4>Support chap braved fire and a mile-long run, only to find Windows 95 was the final hurdle</h4> <p>Welcome yet again to On-Call, <i>The Register</i>’s Friday festival of futility in which readers share their stories of being asked to fix foul-ups inflicted by fools.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Portal-liknande The Entropy Centre får släppdatum och demo]]></title>
+        <id>https://www.fz.se/artikel/291635</id>
+        <link href="https://www.fz.se/artikel/291635-portal-liknande-the-entropy-centre-far-slappdatum-och-demo"/>
+        <updated>2022-09-30T06:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Lattja med tiden istället för portaler.]]></summary>
+        <author>
+            <name>FZ.se</name>
         </author>
     </entry>
     <entry>
@@ -17014,74 +17074,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Well known NVIDIA AIB partner EVGA made a rather surprising and unfortunate announcement this Friday afternoon,..]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GeForce GPUs are 80% of EVGA’s revenue—but it’s cutting ties with Nvidia anyway]]></title>
-        <id>https://arstechnica.com/?p=1882286</id>
-        <link href="https://arstechnica.com/?p=1882286"/>
-        <updated>2022-09-16T20:24:40.000Z</updated>
-        <summary type="html"><![CDATA[EVGA will continue selling current-gen GeForce cards until it runs out of stock.]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FTC steps forward, says it has the power to police gig work]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/16/ftc_gig_work/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/16/ftc_gig_work/"/>
-        <updated>2022-09-16T20:23:06.000Z</updated>
-        <summary type="html"><![CDATA[<h4>If only the US government had, like, a Dept of Labor or something</h4> <p>The US Federal Trade Commission on Thursday fired its first warning shot at companies that exploit gig workers.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVGA Abandons the GPU Market, Reportedly Citing Conflicts With Nvidia]]></title>
-        <id>ukYBXvHQyC4JDUwxFeDcob</id>
-        <link href="https://www.tomshardware.com/news/evga-abandons-the-gpu-market-reportedly-citing-conflicts-with-nvidia"/>
-        <updated>2022-09-16T20:17:43.000Z</updated>
-        <summary type="html"><![CDATA[According to two reports on YouTube, EVGA will no longer make GPUs]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Artists begin selling AI-generated artwork on stock photography websites]]></title>
-        <id>https://arstechnica.com/?p=1882269</id>
-        <link href="https://arstechnica.com/?p=1882269"/>
-        <updated>2022-09-16T20:16:42.000Z</updated>
-        <summary type="html"><![CDATA[Using software that creates art on demand, some artists attempt to cash in on AI-generated content.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony says original PSVR games won't be compatible with PSVR2]]></title>
-        <id>https://www.eurogamer.net/sony-says-original-psvr-games-wont-be-compatible-with-psvr2</id>
-        <link href="https://www.eurogamer.net/sony-says-original-psvr-games-wont-be-compatible-with-psvr2"/>
-        <updated>2022-09-16T20:15:38.000Z</updated>
-        <summary type="html"><![CDATA[Sony has revealed its upcoming PSVR2 headset for PlayStation 5 won't be compatible with games for the original PSVR.
-
-
-That's according to PlayStation's SVP of platform experience, Hideaki Nishino, speaking in the latest episode of the Official PlayStation Podcast (jump to the 29:10 mark). "PSVR games are not compatible with PSVR2," he explained in answer to a question from the host, "because PSVR2 is designed to deliver a truly next-generation VR experience". 
-
-
-Elaborating further, Nishino claimed the new elements of the PVSR2 hardware - inside-out tracking and eye-tracking, 3D audio, a 4K HDR display, and its controller with adaptive triggers and haptic feedback - meant "developing games for PSVR2 requires a whole different approach than the original PSVR."
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony: PSVR2 is “truly next-generation,” so it can’t play PSVR1 games]]></title>
-        <id>https://arstechnica.com/?p=1882262</id>
-        <link href="https://arstechnica.com/?p=1882262"/>
-        <updated>2022-09-16T19:47:22.000Z</updated>
-        <summary type="html"><![CDATA[No details on why PSVR2 enhancements mean it can't run less-advanced games.]]></summary>
-        <author>
-            <name>Kevin Purdy</name>
         </author>
     </entry>
 </feed>
