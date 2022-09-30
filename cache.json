@@ -4462,6 +4462,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Google-Lyra-V2",
+          "author": null,
+          "description": "Last year Google announced the Lyra voice codec for low bit-rates that combined with the open AV1 codec could lead to voice chats on 56kbps connections. Lyra makes use of machine learning and other techniques for extremely low bit-rate speech compression that can function at 3kbps. Google last year open-sourced the Lyra code while today they announced the availability of Lyra V2...",
+          "link": "https://www.phoronix.com/news/Google-Lyra-V2",
+          "publishedOn": "2022-09-30T20:11:24.000Z",
+          "wordCount": 1399,
+          "title": "Google Announces Lyra V2 Low Bit-Rate Voice Codec",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/AMD-Zen-4-Mitigations-Off",
           "author": null,
           "description": "While some Linux enthusiasts eagerly recommend users boot their systems with the \"mitigations=off\" kernel parameter for run-time disabling of various relevant CPU security mitigations for Spectre, Meltdown, L1TF, TAA, Retbleed, and friends, with the new AMD Ryzen 7000 \"Zen 4\" processors while still needing some software mitigations, it's surprisingly faster for the most part leaving the relevant mitigations enabled...",
@@ -6887,16 +6897,6 @@
           "wordCount": 6163,
           "title": "Lady Dimitrescu's castle gets a jammy new makeover in Resident Evil Village's Shadows Of Rose DLC",
           "imageUrl": "https://assets2.rockpapershotgun.com/resident-evil-village-rose-dlc.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/resident-evil-village-rose-dlc.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-207",
-          "author": "Alice O'Connor",
-          "description": "Here we are, the final weekend of summer! I feel I wasted this summer a bit and as much as I do like autumn, I really am not ready for the winter which will follow. Why do I always let my holiday days slide down and clump at the end of the year. Better make the most of comfortable swimming and cycling while I still can.\nWe're away on Monday so we'll see you again on Tuesday. Until then, what are you playing this weekend? Here's what we're clicking on!\nRead more",
-          "link": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-207",
-          "publishedOn": "2022-09-17T08:00:00.000Z",
-          "wordCount": 5115,
-          "title": "What are we all playing this weekend?",
-          "imageUrl": "https://assets2.rockpapershotgun.com/wpwpapwapwapawp.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/wpwpapwapwapawp.jpg"
         }
       ]
     },
@@ -6905,6 +6905,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "zDi9iKGN7E2oKuBJeHQUiT",
+          "author": null,
+          "description": "Japanese government will help Micron to keep Hiroshima DRAM fab up to date.",
+          "link": "https://www.tomshardware.com/news/micron-to-get-320-million-from-japanese-govt",
+          "publishedOn": "2022-09-30T19:47:38.000Z",
+          "wordCount": 21686,
+          "title": "Micron Secures $320 Million in Japanese Subsidies, Might Bring EUV to Japan",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/ASvCa5F5sGr2mxLmNZp8Nd.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/ASvCa5F5sGr2mxLmNZp8Nd.jpg"
+        },
         {
           "id": "R82Lg8KuPyZdsWQ532yH5W",
           "author": null,
@@ -9268,6 +9283,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "https://jmtd.net/log/vim_plugins/vim-css-color/",
+          "author": null,
+          "description": "Last year I wrote about a subset of the vim plugins I was using,\nspecifically those created by master craftsman Tim\nPope. Off and on since then I've reviewed\nthe other plugins I use and tried a few others, so I thought I'd\nwrite about them.\n\n\nautomatic colour name colouring\nvim-css-color is a simple plugin that\nrecognised colour names specified in CSS-style: e.g. 'red', '#ff0000',\n'#rgb(255,0,0)' etc., and colours them accordingly. True to its name,\nonce installed it's active when editing CSS files, but it's also supported\n for many other file types, and extending it further is not hard.",
+          "link": "https://jmtd.net/log/vim_plugins/vim-css-color/",
+          "publishedOn": "2022-09-30T19:48:06.000Z",
+          "wordCount": 139,
+          "title": "Jonathan Dowland: vim-css-color",
+          "imageUrl": null
+        },
+        {
           "id": "https://diffoscope.org/news/diffoscope-223-released/",
           "author": null,
           "description": "The diffoscope maintainers are pleased to announce the release of diffoscope\nversion 223. This version includes the following changes:\n\n[ Chris Lamb ]\n* The cbfstools utility is now provided in Debian via the coreboot-utils\n  Debian package, so we can enable that functionality within Debian.\n  (Closes: #1020630)\n\n[ Mattia Rizzolo ]\n* Also include coreboot-utils in Build-Depends and Test-Depends so it is\n  available for the tests.\n\n[ Jelle van der Waa ]\n* Add support for file 5.43.\n\n\nYou find out more by visiting the project homepage.",
@@ -9505,16 +9530,6 @@
           "publishedOn": "2022-09-17T14:55:06.000Z",
           "wordCount": null,
           "title": "James Valleroy: How I avoid sysadmin work",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jmtd.net/log/prusa_mini/",
-          "author": null,
-          "description": "In June I caved and bought a Prusa\nMini\n3D printer for home. I bought it just before an announced price hike. I went\nfor a Prusa because of their reputation for \"just working\", and the Mini mostly\nas its the cheapest, although, the print area (7\"³) is large enough for most of\nthe things I am likely to print.\n\n\n\n\n\n\nTo get started, at the same time I bought some Prusament recycled\nPLA to print\nwith which, unfortunately, I've been a little disappointed with.\nI was attracted to the idea of buying a recycled material and Prusa make a lot\nabout the quality of their filaments.\nThe description was pretty clear that the colour would be somewhat random and\nvary throughout the spool, but I didn't mind that, and I planned to use it for\nmainly functional prints where the precise colour didn't matter. The colour\nexamples from the product page were mostly off-white grey with some tint,\ntypically green. There are not a lot of reviews of the recycled PLA that\ncomment on the colour of their spools, but in a couple of youtube videos\n(1,\n2) the spools have looked a\ngrey-ish silver, sometimes with a greenish tint, pretty similar to the product\npage.\nThe colour I got is quite unlike those: it's a dull brown, with little flecks\nof glitter, presumably originally from recycling something like Galaxy\nBlack.\nThat's totally within \"spec\", of course, but it's a bit boring.\n\n\nBrown recycled Prusament PLA on the right\nIn terms of quality, sadly I've ended up with had at least one tangle in the\nspool wind so far. There's at least two reviews on their own product page from\npeople who have had similar difficulties.\nEdit:\nI realised after I wrote this post that I hadn't actually\nwritten much about the printer. That's because I'm still in the early days of\nusing it. In short I'd say it's a very high quality machine, very pleasant to\nuse. Since I also went on a tangent about the recycled Prusament, the tone of\nthe whole post was more negative than I intended. Watch this space for some\nmore positive Prusa news soon!",
-          "link": "https://jmtd.net/log/prusa_mini/",
-          "publishedOn": "2022-09-17T07:56:38.000Z",
-          "wordCount": 396,
-          "title": "Jonathan Dowland: Prusa Mini",
           "imageUrl": null
         }
       ]
@@ -12927,16 +12942,6 @@
           "wordCount": 1828,
           "title": "PSVR-spelen kommer inte vara kompatibla med PSVR2",
           "imageUrl": "https://www.fz.se/artikel/og-image/291491"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291490",
-          "author": null,
-          "description": "Äntligen!! Vad är det man säger, bättre sent än aldrig?",
-          "link": "https://www.fz.se/artikel/291490-forbudet-av-wolfenstein-3d-lyfts-i-tyskland-efter-30-ar",
-          "publishedOn": "2022-09-17T08:00:00.000Z",
-          "wordCount": 1865,
-          "title": "Förbudet av Wolfenstein 3D lyfts i Tyskland efter 30 år",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291490"
         }
       ]
     },
@@ -13832,6 +13837,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/30/chinese_battery_vrfb_us_patents/",
+          "author": null,
+          "description": "<h4>World's largest VRFB was built with inadvertent help from the Department of Energy</h4> <p>The world's largest vanadium redox flow battery (VRFB) has been connected to the grid in Dalian, China, where it was built using technology patented in the United States.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/30/chinese_battery_vrfb_us_patents/",
+          "publishedOn": "2022-09-30T19:29:10.000Z",
+          "wordCount": 1442,
+          "title": "China spins up giant battery built with US-patented tech",
+          "imageUrl": "https://regmedia.co.uk/2022/09/30/dalian-vrfb.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/30/in_japan_5g_networks_see/",
           "author": null,
@@ -16161,16 +16176,6 @@
           "wordCount": 1779,
           "title": "Arm execs: We respect RISC-V but it's not a rival in the datacenter",
           "imageUrl": "https://regmedia.co.uk/2022/07/29/shutterstck_semi.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/17/glasses_reflections_zoom/",
-          "author": null,
-          "description": "<h4>About time someone shined some light onto this</h4> <p>Boffins at the University of Michigan in the US and Zhejiang University in China want to highlight how bespectacled video conferencing participants are inadvertently revealing sensitive on-screen information via reflections in their eyeglasses.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/17/glasses_reflections_zoom/",
-          "publishedOn": "2022-09-17T07:32:11.000Z",
-          "wordCount": 1549,
-          "title": "Can reflections in eyeglasses actually leak info from Zoom calls? Here's a study into it",
-          "imageUrl": "https://regmedia.co.uk/2020/03/19/shutterstock_data.jpg"
         }
       ]
     }

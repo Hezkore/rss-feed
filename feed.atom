@@ -2,10 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-30T19:25:42.858Z</updated>
+    <updated>2022-09-30T20:29:03.791Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Google Announces Lyra V2 Low Bit-Rate Voice Codec]]></title>
+        <id>https://www.phoronix.com/news/Google-Lyra-V2</id>
+        <link href="https://www.phoronix.com/news/Google-Lyra-V2"/>
+        <updated>2022-09-30T20:11:24.000Z</updated>
+        <summary type="html"><![CDATA[Last year Google announced the Lyra voice codec for low bit-rates that combined with the open AV1 codec could lead to voice chats on 56kbps connections. Lyra makes use of machine learning and other techniques for extremely low bit-rate speech compression that can function at 3kbps. Google last year open-sourced the Lyra code while today they announced the availability of Lyra V2...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jonathan Dowland: vim-css-color]]></title>
+        <id>https://jmtd.net/log/vim_plugins/vim-css-color/</id>
+        <link href="https://jmtd.net/log/vim_plugins/vim-css-color/"/>
+        <updated>2022-09-30T19:48:06.000Z</updated>
+        <summary type="html"><![CDATA[Last year I wrote about a subset of the vim plugins I was using,
+specifically those created by master craftsman Tim
+Pope. Off and on since then I've reviewed
+the other plugins I use and tried a few others, so I thought I'd
+write about them.
+
+
+automatic colour name colouring
+vim-css-color is a simple plugin that
+recognised colour names specified in CSS-style: e.g. 'red', '#ff0000',
+'#rgb(255,0,0)' etc., and colours them accordingly. True to its name,
+once installed it's active when editing CSS files, but it's also supported
+ for many other file types, and extending it further is not hard.]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Micron Secures $320 Million in Japanese Subsidies, Might Bring EUV to Japan]]></title>
+        <id>zDi9iKGN7E2oKuBJeHQUiT</id>
+        <link href="https://www.tomshardware.com/news/micron-to-get-320-million-from-japanese-govt"/>
+        <updated>2022-09-30T19:47:38.000Z</updated>
+        <summary type="html"><![CDATA[Japanese government will help Micron to keep Hiroshima DRAM fab up to date.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China spins up giant battery built with US-patented tech]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/30/chinese_battery_vrfb_us_patents/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/30/chinese_battery_vrfb_us_patents/"/>
+        <updated>2022-09-30T19:29:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>World's largest VRFB was built with inadvertent help from the Department of Energy</h4> <p>The world's largest vanadium redox flow battery (VRFB) has been connected to the grid in Dalian, China, where it was built using technology patented in the United States.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Here's the Top 10 Most Played games on Steam Deck for September 2022]]></title>
         <id>https://www.gamingonlinux.com/2022/09/heres-the-top-10-most-played-games-on-steam-deck-for-september-2022/</id>
@@ -18040,91 +18092,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Need some more Total War in your gaming library? Humble has a reasonably good selection available in the Total War Classics Bundle.]]></summary>
         <author>
             <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What are we all playing this weekend?]]></title>
-        <id>https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-207</id>
-        <link href="https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-207"/>
-        <updated>2022-09-17T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Here we are, the final weekend of summer! I feel I wasted this summer a bit and as much as I do like autumn, I really am not ready for the winter which will follow. Why do I always let my holiday days slide down and clump at the end of the year. Better make the most of comfortable swimming and cycling while I still can.
-We're away on Monday so we'll see you again on Tuesday. Until then, what are you playing this weekend? Here's what we're clicking on!
-Read more]]></summary>
-        <author>
-            <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Förbudet av Wolfenstein 3D lyfts i Tyskland efter 30 år]]></title>
-        <id>https://www.fz.se/artikel/291490</id>
-        <link href="https://www.fz.se/artikel/291490-forbudet-av-wolfenstein-3d-lyfts-i-tyskland-efter-30-ar"/>
-        <updated>2022-09-17T08:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Äntligen!! Vad är det man säger, bättre sent än aldrig?]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jonathan Dowland: Prusa Mini]]></title>
-        <id>https://jmtd.net/log/prusa_mini/</id>
-        <link href="https://jmtd.net/log/prusa_mini/"/>
-        <updated>2022-09-17T07:56:38.000Z</updated>
-        <summary type="html"><![CDATA[In June I caved and bought a Prusa
-Mini
-3D printer for home. I bought it just before an announced price hike. I went
-for a Prusa because of their reputation for "just working", and the Mini mostly
-as its the cheapest, although, the print area (7"³) is large enough for most of
-the things I am likely to print.
-
-
-
-
-
-
-To get started, at the same time I bought some Prusament recycled
-PLA to print
-with which, unfortunately, I've been a little disappointed with.
-I was attracted to the idea of buying a recycled material and Prusa make a lot
-about the quality of their filaments.
-The description was pretty clear that the colour would be somewhat random and
-vary throughout the spool, but I didn't mind that, and I planned to use it for
-mainly functional prints where the precise colour didn't matter. The colour
-examples from the product page were mostly off-white grey with some tint,
-typically green. There are not a lot of reviews of the recycled PLA that
-comment on the colour of their spools, but in a couple of youtube videos
-(1,
-2) the spools have looked a
-grey-ish silver, sometimes with a greenish tint, pretty similar to the product
-page.
-The colour I got is quite unlike those: it's a dull brown, with little flecks
-of glitter, presumably originally from recycling something like Galaxy
-Black.
-That's totally within "spec", of course, but it's a bit boring.
-
-
-Brown recycled Prusament PLA on the right
-In terms of quality, sadly I've ended up with had at least one tangle in the
-spool wind so far. There's at least two reviews on their own product page from
-people who have had similar difficulties.
-Edit:
-I realised after I wrote this post that I hadn't actually
-written much about the printer. That's because I'm still in the early days of
-using it. In short I'd say it's a very high quality machine, very pleasant to
-use. Since I also went on a tangent about the recycled Prusament, the tone of
-the whole post was more negative than I intended. Watch this space for some
-more positive Prusa news soon!]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can reflections in eyeglasses actually leak info from Zoom calls? Here's a study into it]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/17/glasses_reflections_zoom/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/17/glasses_reflections_zoom/"/>
-        <updated>2022-09-17T07:32:11.000Z</updated>
-        <summary type="html"><![CDATA[<h4>About time someone shined some light onto this</h4> <p>Boffins at the University of Michigan in the US and Zhejiang University in China want to highlight how bespectacled video conferencing participants are inadvertently revealing sensitive on-screen information via reflections in their eyeglasses.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
