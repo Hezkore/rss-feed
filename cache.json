@@ -5650,36 +5650,6 @@
           "wordCount": 1654,
           "title": "Call Depth Tracking For Less Costly Retbleed Mitigation Hopes To Land Soon",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/2022-Linux-Backlight-Overhaul",
-          "author": null,
-          "description": "Hans de Goede of Red Hat has been involved with many great Linux desktop/laptop hardware improvements over the years for work that would have otherwise likely gone unaddressed. One of the initiatives he has been focusing on recently that has long been a sore point for Linux laptops has been the user-space backlight/brightness interface. This week at Linux Plumbers Conference was a presentation on this effort that has long been ripe for improvement...",
-          "link": "https://www.phoronix.com/news/2022-Linux-Backlight-Overhaul",
-          "publishedOn": "2022-09-17T10:21:50.000Z",
-          "wordCount": 1327,
-          "title": "Linux's Display Brightness/Blaclight Interface Is Finally Being Overhauled",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/HarfBuzz-5.2-Released",
-          "author": null,
-          "description": "HarfBuzz is the text shaping library used by many open-source projects from UI toolkits to directly by desktops like GNOME and KDE and then over to other notable software like Java, Android, Firefox, Chrome, and many others. Out this weekend is HarfBuzz 5.2 and most notably adds support for Unicode 15...",
-          "link": "https://www.phoronix.com/news/HarfBuzz-5.2-Released",
-          "publishedOn": "2022-09-17T09:55:39.000Z",
-          "wordCount": 1402,
-          "title": "HarfBuzz 5.2 Released With Unicode 15 Support",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Plasma-5.26-Beta-Week",
-          "author": null,
-          "description": "While Plasma 5.26 beta released this week, KDE developers didn't kick back and relax but have pressed on with continuing to make improvements to this open-source desktop environment...",
-          "link": "https://www.phoronix.com/news/Plasma-5.26-Beta-Week",
-          "publishedOn": "2022-09-17T09:39:45.000Z",
-          "wordCount": 1434,
-          "title": "KDE Plasma 5.26 Beta Week Saw More Fixes To The Plasma Wayland Session",
-          "imageUrl": null
         }
       ]
     },
@@ -9597,6 +9567,16 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1886060",
+          "author": "Sam Machkovech",
+          "description": "\"Summoning Salt\" left with little understanding on where auto-moderation line is drawn.",
+          "link": "https://arstechnica.com/?p=1886060",
+          "publishedOn": "2022-09-30T21:08:42.000Z",
+          "wordCount": 1701,
+          "title": "YouTube age-restriction quagmire exposed by 78-minute Mega Man documentary",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/mega-man-2-death-sprite-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1885973",
           "author": "Kevin Purdy",
           "description": "One firmware push could let Stadia fans keep their favorite wireless controller.",
@@ -11345,16 +11325,6 @@
           "wordCount": 2044,
           "title": "Punishment, puppies, and science: Bringing dog training to heel",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/bull-terrier-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1882099",
-          "author": "WIRED",
-          "description": "Ducks is a devastating memoir about life in the oil sands of northern Alberta.",
-          "link": "https://arstechnica.com/?p=1882099",
-          "publishedOn": "2022-09-17T10:06:20.000Z",
-          "wordCount": 2506,
-          "title": "Kate Beaton on creating the best graphic novel of 2022",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/beaton-760x380.jpg"
         }
       ]
     },
@@ -13847,6 +13817,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/30/google_intel_vm_optimization/",
+          "author": null,
+          "description": "<h4>Unless your app really needs AVX 512, AMD and Ampere's cores may be a cheaper, better bet</h4> <p>Google Cloud really, really wants enterprises to keep using its Intel-powered virtual machines. This week it unveiled a “white-glove” service to convince customers the silicon is worth paying extra for.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/30/google_intel_vm_optimization/",
+          "publishedOn": "2022-09-30T21:46:15.000Z",
+          "wordCount": 1343,
+          "title": "Google Cloud is super keen to keep certain customers on pricey Intel VMs",
+          "imageUrl": "https://regmedia.co.uk/2019/07/02/google_nv.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/30/iarpa_radiation_monitoring_research/",
           "author": null,
