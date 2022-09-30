@@ -2,10 +2,176 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-09-30T15:30:16.679Z</updated>
+    <updated>2022-09-30T16:41:20.608Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.1 Change Aims To Auto-Detect Logitech HID++ High Resolution Scrolling Support]]></title>
+        <id>https://www.phoronix.com/news/Linux-61-Logitech-Hi-Res-Scroll</id>
+        <link href="https://www.phoronix.com/news/Linux-61-Logitech-Hi-Res-Scroll"/>
+        <updated>2022-09-30T16:30:15.000Z</updated>
+        <summary type="html"><![CDATA[Currently Linux's Logitech HID++ driver "hid-logitech-hidpp" relies on a static list of device quirks for indicating which Logitech mice support high resolution scrolling. With the upcoming Linux 6.1 kernel, the plan is to change that list of devices/quirks and to automatically determine if a device supports high resolution scrolling...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon lets you rent Ubuntu Pro. Yes, it's Linux on the virtual desktop]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/30/ubuntu_amazon_virtual_desktop/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/30/ubuntu_amazon_virtual_desktop/"/>
+        <updated>2022-09-30T16:30:05.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Insert your Year of Linux joke here, we dare you</h4> <p>Amazon WorkSpaces, the company's persistent desktop virtualization product, now <a href="https://aws.amazon.com/blogs/aws/amazon-workspaces-introduces-ubuntu-desktops/" rel="nofollow">offers</a> Ubuntu as an option.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASRock DDR5 Installation Stickers Blamed for Motherboard RMAs]]></title>
+        <id>mRNHe2U3yqQjsKmhN9ppBd</id>
+        <link href="https://www.tomshardware.com/news/asrock-ddr5-sticker-mayhem"/>
+        <updated>2022-09-30T16:17:27.000Z</updated>
+        <summary type="html"><![CDATA[Victims of ASRock's ultra sticky DDR5 memory installation stickers, are officially allowed to request a exchange if the peel is unsuccessful, and leaves adhesive on the DIMM modules.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Night Call devs are swapping taxis for tech-fuelled gas stations in their new narrative management game]]></title>
+        <id>https://www.rockpapershotgun.com/the-night-call-devs-are-swapping-taxis-for-tech-fuelled-gas-stations-in-their-new-narrative-management-game</id>
+        <link href="https://www.rockpapershotgun.com/the-night-call-devs-are-swapping-taxis-for-tech-fuelled-gas-stations-in-their-new-narrative-management-game"/>
+        <updated>2022-09-30T16:11:39.000Z</updated>
+        <summary type="html"><![CDATA[Petrol stations might not be the most natural setting for pondering life's biggest questions, but the ones in Flat Eye, the next game from the makers of detective taxi-me-do Night Call, aren't your ordinary rest stops. As well as a convenient place to relieve yourself and top up on snacks, these futuristic service stations also house cosmetic surgery bots, operation tables, teleportation booths and more - and they're all overseen by a powerful AI trying to find the best possible future for the human race. As the station's head clerk, you'll debate the ethics of eternal youth and end of life care, while also making sure your station has enough power, stocked shelves and a happy customer base. It's certainly an intriguing combo compared to other management games out there right now, so I sat down with director Laurent Victorino and writer Antony Jauneaud to find out more.
+Read more]]></summary>
+        <author>
+            <name>Katharine Castle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First OnLive, now Stadia: Cloud Gaming has been rejected by the market twice – it’s time to let it go]]></title>
+        <id>https://www.vg247.com/first-onlive-now-stadia-cloud-gaming-has-been-rejected-by-the-market-twice-its-time-to-let-it-go</id>
+        <link href="https://www.vg247.com/first-onlive-now-stadia-cloud-gaming-has-been-rejected-by-the-market-twice-its-time-to-let-it-go"/>
+        <updated>2022-09-30T16:11:30.000Z</updated>
+        <summary type="html"><![CDATA[It’s an odd full-circle moment for me that the least surprising bombshell news of all time – Stadia’s unceremonious cancellation – lands just a week out from EGX. The Eurogamer Expo (as it was still called back then) of 2011 was more or less the start of my career in games coverage, and it started when I managed to get an interview with OnLive’s Senior Vice President John Spinale, a smooth-talking American businessman of the kind I had up to that point only encountered via the medium of television. And always as a villain, even in shows produced by smooth-talking American businessmen.
+
+
+Spinale, though, was extremely nice. He could tell I’d never interviewed anyone before, and knew how to set people at ease. Within seconds, it felt like a normal chat with someone you met down the pub. The sheer gulf of wealth disparity between us didn’t seem to matter. John was excited to tell me about OnLive, this strange new concept that was going to disrupt the gaming business, and I was excited to hear about it.
+
+
+It was, and is, a brilliant concept, and the basic pitch for OnLive pretty much applies to the Stadia platform which died a decade later: imagine never having to buy new hardware. That was the first thing that appealed to me, a potless call centre worker at the time, who saw the looming new generation of consoles as less of an exciting new future and more of a £400 tax on joy.
+ 
+Read more]]></summary>
+        <author>
+            <name>Jim Trinca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Was Google Stadia always destined for failure?]]></title>
+        <id>https://www.eurogamer.net/eurogamer-newscast-google-stadia-destined-for-failure</id>
+        <link href="https://www.eurogamer.net/eurogamer-newscast-google-stadia-destined-for-failure"/>
+        <updated>2022-09-30T16:08:10.000Z</updated>
+        <summary type="html"><![CDATA[This week on the Eurogamer Newscast we're discussing the failure of Stadia, and why Google's cloud gaming gamble struggled from the start.
+
+
+The announcement of Stadia's demise came as a shock to some - including many developers with titles only weeks from launch - yet still feels like it was on the cards for some time. After a rocky launch and the closure of Google's internal game development studios, what future did Stadia have left? Eurogamer editor-in-chief Martin Robinson weighed in earlier today with his thoughts.
+
+Could Stadia have been a success? What does this all mean for game preservation? And if Google failed, with all of its billions, what future does cloud gaming have elsewhere? Tom Phillips, Ed Nightingale, and Liv Ngan share their thoughts.
+ 
+Read more]]></summary>
+        <author>
+            <name>Tom Phillips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultimate Audio Bang #25: was Modern Warfare 2's multiplayer beta any good?]]></title>
+        <id>https://www.rockpapershotgun.com/ultimate-audio-bang-podcast-was-modern-warfare-2-beta-any-good</id>
+        <link href="https://www.rockpapershotgun.com/ultimate-audio-bang-podcast-was-modern-warfare-2-beta-any-good"/>
+        <updated>2022-09-30T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the Ultimate Audio Bang, we dig deep into Call Of Duty: Modern Warfare 2's recent multiplayer beta weekends and discuss whether Warzone needs a total revamp, how Warzone impacts the multiplayer side of things, and whether Warzone's upcoming DMZ mode may be Call Of Duty's big gambit.
+Read more]]></summary>
+        <author>
+            <name>Ed Thorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fredagspanelen 269: Ryzande, sickan!]]></title>
+        <id>https://www.sweclockers.com/artikel/34999</id>
+        <link href="https://www.sweclockers.com/artikel/34999-fredagspanelen-269-ryzande-sickan"/>
+        <updated>2022-09-30T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Calle och André blickar tillbaka på veckan som gått och sammanfattar nyheterna. Snack om Ryzen-processorer, RTX 4090 och dumheter på kontoret utlovas.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubisoft reveal co-op shooter Project U exists, with playtests planned]]></title>
+        <id>https://www.rockpapershotgun.com/ubisoft-reveal-co-op-shooter-project-u-exists-with-playtests-planned</id>
+        <link href="https://www.rockpapershotgun.com/ubisoft-reveal-co-op-shooter-project-u-exists-with-playtests-planned"/>
+        <updated>2022-09-30T15:55:24.000Z</updated>
+        <summary type="html"><![CDATA[A mysterious new session-based co-operative shooter has been announced by Ubisoft, codenamed Project U. There aren’t many details to go on just yet, but the game is in the early stages of development and will hold closed playtests on PC in Western Europe. If you’re of an inquiring mind, and like hanging out with mates in shooter lobbies, then all you can do for the moment is register your interest.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>CJ Wheeler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acer’s First GPU is an Intel Arc A770 With Two Different Types of Fans]]></title>
+        <id>vYosHnaFGYenkhiuayNKke</id>
+        <link href="https://www.tomshardware.com/news/acer-intel-a770-gpu"/>
+        <updated>2022-09-30T15:53:01.000Z</updated>
+        <summary type="html"><![CDATA[Acer has unexpectedly entered the graphics card market, announcing a brand new GPU under its Predator gaming brand known as the BiFrost. Powered by an Intel A770 GPU.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[World of Warcraft: Dragonflight expansion goes live on November 28]]></title>
+        <id>https://www.vg247.com/world-of-warcraft-dragonflight-expansion-goes-live-on-november-28</id>
+        <link href="https://www.vg247.com/world-of-warcraft-dragonflight-expansion-goes-live-on-november-28"/>
+        <updated>2022-09-30T15:43:41.000Z</updated>
+        <summary type="html"><![CDATA[The ancestral home of dragonkind is calling you, World of Warcraft players, and soon you shall travel to the Dragon Isles to uncover its long-forgotten secrets.
+So, gather your friends and allies and make ready to heed the call of the dragons because the World of Warcraft: Dragonflight expansion goes live on November 28.
+The Dragonflight expansion takes you to the Dragon Isles, where you will explore four new zones themed around the dragon aspects: the Waking Shores, the Ohn’ahran Plains, the mountainous Azure Span, and the Thaldraszus. 
+ Read more]]></summary>
+        <author>
+            <name>Stephany Nunneley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google still hasn't told developers that Stadia is shutting down]]></title>
+        <id>https://www.rockpapershotgun.com/google-still-hasnt-told-developers-that-stadia-is-shutting-down</id>
+        <link href="https://www.rockpapershotgun.com/google-still-hasnt-told-developers-that-stadia-is-shutting-down"/>
+        <updated>2022-09-30T15:33:36.000Z</updated>
+        <summary type="html"><![CDATA[Developers working on games for Stadia have expressed surprise and frustration that Google still haven't made contact with them, almost 24 hours after the search giant announced they were shutting down their cloud gaming service yesterday afternoon. Many of the devs I spoke with have had no communication from Google at all since the announcement, with only one saying the company had been in touch. It's not just devs who have been left in the dark, though. Through a leaked internal email sent to Google’s Stadia team, even Google's own staff weren’t briefed until around the same time the public were made aware of the forthcoming shutdown.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>CJ Wheeler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phil Spencer och Xbox undersöker möjligheten att stänga av Quick Resume]]></title>
+        <id>https://www.fz.se/artikel/291645</id>
+        <link href="https://www.fz.se/artikel/291645-phil-spencer-och-xbox-undersoker-mojligheten-att-stanga-av-quick-resume"/>
+        <updated>2022-09-30T15:33:00.000Z</updated>
+        <summary type="html"><![CDATA[Det smidiga verktyget kan ställa till problem.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin worse for the climate than beef, say economists]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/30/bitcoin_climate_impact/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/30/bitcoin_climate_impact/"/>
+        <updated>2022-09-30T15:30:11.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Researchers mince 'digital gold' claims with study showing cryptocurrency's impact</h4> <p>Far from being the "digital gold" some claim, Bitcoin's relative climate change impact is greater than the beef industry, and over seven times more than actual gold mining.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Here's a fan trailer for a Super Mario "remake" with Chris Pratt]]></title>
         <id>https://www.eurogamer.net/heres-a-fan-trailer-for-a-super-mario-remake-with-chris-pratt</id>
@@ -108,6 +274,16 @@ The headset which Lynch detailed in his video "This is the Meta Quest 3" is a di
 Read more]]></summary>
         <author>
             <name>Liv Ngan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Arc A770 and A750 Limited Edition Unboxed]]></title>
+        <id>2mSxqeWDY58EbmA7JtNGm6</id>
+        <link href="https://www.tomshardware.com/news/intel-arc-a770-a750-unboxing"/>
+        <updated>2022-09-30T14:58:55.000Z</updated>
+        <summary type="html"><![CDATA[The Intel Arc A770 and A750 review kit has arrived, with the launch date set for October 12. Here's our unboxing of the cards, which actually have a pretty cool shipping box.]]></summary>
+        <author>
+            <name>Tomshardware</name>
         </author>
     </entry>
     <entry>
@@ -1066,6 +1242,42 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<h4>And no, the tiny fine print in search results doesn't cut it</h4> <p>Google is still effectively directing women seeking abortions to anti-abortion centers that masquerade as legit abortion clinics.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reproducible Builds (diffoscope): diffoscope 223 released]]></title>
+        <id>https://diffoscope.org/news/diffoscope-223-released/</id>
+        <link href="https://diffoscope.org/news/diffoscope-223-released/"/>
+        <updated>2022-09-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The diffoscope maintainers are pleased to announce the release of diffoscope
+version 223. This version includes the following changes:
+
+[ Chris Lamb ]
+* The cbfstools utility is now provided in Debian via the coreboot-utils
+  Debian package, so we can enable that functionality within Debian.
+  (Closes: #1020630)
+
+[ Mattia Rizzolo ]
+* Also include coreboot-utils in Build-Depends and Test-Depends so it is
+  available for the tests.
+
+[ Jelle van der Waa ]
+* Add support for file 5.43.
+
+
+You find out more by visiting the project homepage.]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quantified Self]]></title>
+        <id>https://xkcd.com/2679/</id>
+        <link href="https://xkcd.com/2679/"/>
+        <updated>2022-09-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/quantified_self.png" title="It's made me way more excited about ferris wheels, subways, car washes, waterslides, and store entrances that have double doors with a divider in the middle." alt="It's made me way more excited about ferris wheels, subways, car washes, waterslides, and store entrances that have double doors with a divider in the middle." />]]></summary>
+        <author>
+            <name>xkcd.com</name>
         </author>
     </entry>
     <entry>
