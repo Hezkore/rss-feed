@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-01T06:04:43.855Z</updated>
+    <updated>2022-10-01T07:30:54.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fifa 23 låter dig att stänga av kritik från kommentatorerna]]></title>
+        <id>https://www.fz.se/artikel/291647</id>
+        <link href="https://www.fz.se/artikel/291647-fifa-23-later-dig-att-stanga-av-kritik-fran-kommentatorerna"/>
+        <updated>2022-10-01T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Derek Rae och Stewart Robson får munkavel.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Better than Ubuntu? 11 Best Linux Distros for Ubuntu Lovers]]></title>
         <id>https://itsfoss.com/?p=102098</id>
@@ -33,6 +43,16 @@
         <updated>2022-10-01T02:37:19.000Z</updated>
         <author>
             <name>Shen Comix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comic for 2022.10.01 - Kisso]]></title>
+        <id>https://explosm.net/comics/kisso</id>
+        <link href="https://explosm.net/comics/kisso"/>
+        <updated>2022-10-01T00:00:37.000Z</updated>
+        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
+        <author>
+            <name>Explosm.net</name>
         </author>
     </entry>
     <entry>
@@ -17796,16 +17816,6 @@ Read more]]></summary>
 A few days ago somebody asked me and I think it is an often requested to perhaps all fiction readers as to why we like fiction? First of all, reading in itself is told as food for the soul. Because, whenever you write or read anything you don’t just read it, you also visualize it. And that visualization is and would be far greater than any attempt in cinema as there are no budget constraints and it takes no more than a minute to visualize a scenario if the writer is any good. You just close your eyes and in a moment you are transported to a different world. This is also what is known as ‘world building’. Something fantasy writers are especially gifted in. Also, with the whole parallel Universes being a reality, it is just so much fertile land for imagination that I just cannot beli…]]></summary>
         <author>
             <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Engineers Argue For Linux "ASI" To Better Deal With Speculative Execution Attacks]]></title>
-        <id>https://www.phoronix.com/news/Google-LPC-ASI-2022</id>
-        <link href="https://www.phoronix.com/news/Google-LPC-ASI-2022"/>
-        <updated>2022-09-17T18:30:45.000Z</updated>
-        <summary type="html"><![CDATA[Proposed a few years ago was Kernel Address Space Isolation (KASI / ASI) for limiting data leaks with the growing number of speculative execution attacks on CPUs. Several organizations have been involved with Address Space Isolation efforts for the Linux kernel including IBM, Oracle, and Google with various approaches. Google engineers earlier this year posted a newer iteration of ASI focused on KVM use for the cloud / VMs. ASI still hasn't made it to the mainline kernel but Google engineers this week at LPC argued that it should be be the path forward for mainline in better dealing with these CPU security vulnerabilities...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
 </feed>
