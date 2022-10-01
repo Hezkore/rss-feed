@@ -2,10 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-01T11:22:19.686Z</updated>
+    <updated>2022-10-01T12:49:54.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AMD Revises Work On GPU Workload Hinting For Linux]]></title>
+        <id>https://www.phoronix.com/news/AMDGPU-Workload-Hints-v2</id>
+        <link href="https://www.phoronix.com/news/AMDGPU-Workload-Hints-v2"/>
+        <updated>2022-10-01T12:39:00.000Z</updated>
+        <summary type="html"><![CDATA[AMD's Linux graphics driver engineers this week sent out their latest patch series working on workload hints that are used for dynamically tuning the power profile of AMD GPU SoCs based upon the specified workload indicator...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our ancestors ate a Paleo diet. It had carbs]]></title>
+        <id>https://arstechnica.com/?p=1885902</id>
+        <link href="https://arstechnica.com/?p=1885902"/>
+        <updated>2022-10-01T12:05:40.000Z</updated>
+        <summary type="html"><![CDATA[Modern hunter-gatherers offer insight into how our distant ancestors ate.]]></summary>
+        <author>
+            <name>Knowable Magazine</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NZXT Canvas 32Q Gaming Monitor Review: Style and Substance Meet Value]]></title>
+        <id>VstY4PqHcZQMxMS6Mgim8C</id>
+        <link href="https://www.tomshardware.com/reviews/nzxt-canvas-32q-review"/>
+        <updated>2022-10-01T12:00:25.000Z</updated>
+        <summary type="html"><![CDATA[NZXT expands its gaming product line with a 32-inch curved QHD/VA 165 Hz performance-oriented monitor. It wraps Adaptive-Sync, HDR and extended color into an attractive chassis for a reasonable price.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google har redan bommat igen Stadias online-affär]]></title>
+        <id>https://www.fz.se/artikel/291648</id>
+        <link href="https://www.fz.se/artikel/291648-google-har-redan-bommat-igen-stadias-online-affar"/>
+        <updated>2022-10-01T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Det är snabba ryck för google att städa ut efter Stadia.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open-Source Radeon Vulkan Driver Lands APU Fix For Red Dead Redemption 2]]></title>
+        <id>https://www.phoronix.com/news/RADV-RDR2-APU-Fix</id>
+        <link href="https://www.phoronix.com/news/RADV-RDR2-APU-Fix"/>
+        <updated>2022-10-01T11:20:21.000Z</updated>
+        <summary type="html"><![CDATA[For those with an AMD APU system like the Steam Deck and using the Mesa Radeon Vulkan driver "RADV" and wanting to enjoy the popular game Red Dead Redemption 2, an important fix has been merged for Mesa 22.3...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Helgsnack: Hur sker spelande i framtiden?]]></title>
+        <id>https://www.sweclockers.com/artikel/35003</id>
+        <link href="https://www.sweclockers.com/artikel/35003-helgsnack-hur-sker-spelande-i-framtiden"/>
+        <updated>2022-10-01T11:17:58.000Z</updated>
+        <summary type="html"><![CDATA[Med hårdvarupriser som letar sig uppåt och ett större utbud av strömmade speltjänster väcks funderingar kring hur spel ter sig i framtiden. Vad tror du?]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The era of fast, cheap genome sequencing is here]]></title>
+        <id>https://arstechnica.com/?p=1885880</id>
+        <link href="https://arstechnica.com/?p=1885880"/>
+        <updated>2022-10-01T11:17:17.000Z</updated>
+        <summary type="html"><![CDATA[Illumina just announced a machine that can crack genomes twice as fast.]]></summary>
+        <author>
+            <name>WIRED</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dorfromantik's on Switch and I love it more than ever]]></title>
         <id>https://www.eurogamer.net/dorfromantiks-on-switch-and-i-love-it-more-than-ever</id>
