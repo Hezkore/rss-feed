@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-01T09:28:27.215Z</updated>
+    <updated>2022-10-01T10:28:08.046Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gone in a day: Ethical hackers say it would take mere hours to empty your network]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/01/ethical_hackers_sans_survey/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/01/ethical_hackers_sans_survey/"/>
+        <updated>2022-10-01T09:57:05.000Z</updated>
+        <summary type="html"><![CDATA[<h4>300 red teamers walk into a bar…</h4> <p>Once they've broken into an IT environment, most intruders need less than five hours to collect and steal sensitive data, according to a SANS Institute survey of more than 300 ethical hackers. …</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blumenkrantz Flushes 17.1k Lines Of Old Mesa Code]]></title>
+        <id>https://www.phoronix.com/news/Blumenkrantz-Nukes-17.1k-Mesa</id>
+        <link href="https://www.phoronix.com/news/Blumenkrantz-Nukes-17.1k-Mesa"/>
+        <updated>2022-10-01T09:38:19.000Z</updated>
+        <summary type="html"><![CDATA[Well known Zink developer Mike Blumekrantz, working for Valve on improving Mesa's OpenGL-on-Vulkan driver, has kicked off October by removing a lot of old Mesa code...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Ryzen 7000 Series, Linux 6.0, MGLRU, Rust & IO_uring Made For An Exciting September]]></title>
+        <id>https://www.phoronix.com/news/September-2022-Highlights</id>
+        <link href="https://www.phoronix.com/news/September-2022-Highlights"/>
+        <updated>2022-10-01T09:29:38.000Z</updated>
+        <summary type="html"><![CDATA[It was a very exciting September with the launch of the AMD Ryzen 7000 series "Zen 4" processors, Intel revealing a lot more about Arc Graphics, Linux 6.0 getting buttoned up while feature work toward Linux 6.1 accelerated, ongoing exciting kernel work around MGLRU / IO_uring / RT / etc, and other software releases like GNOME 43 and LLVM 15 all made for an eventful month...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dome Keeper review - not quite digging it]]></title>
         <id>https://www.eurogamer.net/dome-keeper-review-not-quite-digging-it</id>
@@ -17753,19 +17783,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Vi kanske får PSVR2-versioner av PSVR-spelen ändå?]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valve have much delayed Steam Deck docks on show at Tokyo Game Show]]></title>
-        <id>https://www.rockpapershotgun.com/valve-have-much-delayed-steam-deck-docks-on-show-at-tokyo-game-show</id>
-        <link href="https://www.rockpapershotgun.com/valve-have-much-delayed-steam-deck-docks-on-show-at-tokyo-game-show"/>
-        <updated>2022-09-17T21:48:06.000Z</updated>
-        <summary type="html"><![CDATA[How many Decks would a Steam Deck dock dock if a Steam Deck dock could dock Decks? One, obviously - that's how docks work. You can't buy one yet for Valve's PC gaming handheld, but they're on the way, and Valve have had them on display for the first time during this week's Tokyo Game Show.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
         </author>
     </entry>
 </feed>

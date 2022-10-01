@@ -4332,6 +4332,26 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Blumenkrantz-Nukes-17.1k-Mesa",
+          "author": null,
+          "description": "Well known Zink developer Mike Blumekrantz, working for Valve on improving Mesa's OpenGL-on-Vulkan driver, has kicked off October by removing a lot of old Mesa code...",
+          "link": "https://www.phoronix.com/news/Blumenkrantz-Nukes-17.1k-Mesa",
+          "publishedOn": "2022-10-01T09:38:19.000Z",
+          "wordCount": 1477,
+          "title": "Blumenkrantz Flushes 17.1k Lines Of Old Mesa Code",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/September-2022-Highlights",
+          "author": null,
+          "description": "It was a very exciting September with the launch of the AMD Ryzen 7000 series \"Zen 4\" processors, Intel revealing a lot more about Arc Graphics, Linux 6.0 getting buttoned up while feature work toward Linux 6.1 accelerated, ongoing exciting kernel work around MGLRU / IO_uring / RT / etc, and other software releases like GNOME 43 and LLVM 15 all made for an eventful month...",
+          "link": "https://www.phoronix.com/news/September-2022-Highlights",
+          "publishedOn": "2022-10-01T09:29:38.000Z",
+          "wordCount": 3594,
+          "title": "AMD Ryzen 7000 Series, Linux 6.0, MGLRU, Rust & IO_uring Made For An Exciting September",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Google-Lyra-V2",
           "author": null,
           "description": "Last year Google announced the Lyra voice codec for low bit-rates that combined with the open AV1 codec could lead to voice chats on 56kbps connections. Lyra makes use of machine learning and other techniques for extremely low bit-rate speech compression that can function at 3kbps. Google last year open-sourced the Lyra code while today they announced the availability of Lyra V2...",
@@ -6667,16 +6687,6 @@
           "wordCount": 5409,
           "title": "The GTA 6 leaks benefit precisely no one",
           "imageUrl": "https://assets2.rockpapershotgun.com/gta-5-art.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/gta-5-art.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/valve-have-much-delayed-steam-deck-docks-on-show-at-tokyo-game-show",
-          "author": "Graham Smith",
-          "description": "How many Decks would a Steam Deck dock dock if a Steam Deck dock could dock Decks? One, obviously - that's how docks work. You can't buy one yet for Valve's PC gaming handheld, but they're on the way, and Valve have had them on display for the first time during this week's Tokyo Game Show.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/valve-have-much-delayed-steam-deck-docks-on-show-at-tokyo-game-show",
-          "publishedOn": "2022-09-17T21:48:06.000Z",
-          "wordCount": 4728,
-          "title": "Valve have much delayed Steam Deck docks on show at Tokyo Game Show",
-          "imageUrl": "https://assets2.rockpapershotgun.com/steam-deck-dock.png/BROK/thumbnail/1600x900/format/jpg/quality/80/steam-deck-dock.png"
         }
       ]
     },
@@ -13557,6 +13567,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/01/ethical_hackers_sans_survey/",
+          "author": null,
+          "description": "<h4>300 red teamers walk into a bar…</h4> <p>Once they've broken into an IT environment, most intruders need less than five hours to collect and steal sensitive data, according to a SANS Institute survey of more than 300 ethical hackers. …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/01/ethical_hackers_sans_survey/",
+          "publishedOn": "2022-10-01T09:57:05.000Z",
+          "wordCount": 1834,
+          "title": "Gone in a day: Ethical hackers say it would take mere hours to empty your network",
+          "imageUrl": "https://regmedia.co.uk/2022/09/28/masked_hacker_computer_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/01/prosthetic_teeth_hearing_aid/",
           "author": null,
