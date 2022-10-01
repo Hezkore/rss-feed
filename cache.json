@@ -4422,6 +4422,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/COSMIC-Desktop-Iced-Toolkit",
+          "author": null,
+          "description": "System76 has been developing their own COSMIC desktop as the next evolution for their Pop!_OS Linux distribution built atop an Ubuntu base. Interestingly with this big COSMIC desktop undertaking, which is being written in the Rust programming language, they have decided to shift away from using the GTK toolkit to instead make use of Iced-Rs as a Rust-native, multi-platform graphical toolkit...",
+          "link": "https://www.phoronix.com/news/COSMIC-Desktop-Iced-Toolkit",
+          "publishedOn": "2022-10-01T19:12:51.000Z",
+          "wordCount": 1509,
+          "title": "System76's Pop!_OS COSMIC Desktop To Make Use Of Iced Rust Toolkit Rather Than GTK",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Rust-For-Linux-6.1-Pull-Request",
           "author": null,
           "description": "It's happening, folks! Linus Torvalds already indicated recently he intends to pull the initial Rust programming language support into the Linux 6.1 kernel cycle and today that pull request was submitted to him. Linux 6.0 isn't out yet but should be on Sunday unless any last minute problems, which in turn will mark the start of the two week v6.1 merge window...",
@@ -12932,16 +12942,6 @@
           "wordCount": 2141,
           "title": "Enorm GTA 6-läcka – Filmer, bilder och källkod finns tillgängliga på nätet",
           "imageUrl": "https://www.fz.se/artikel/og-image/291494"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291493",
-          "author": null,
-          "description": "Vi kanske får PSVR2-versioner av PSVR-spelen ändå?",
-          "link": "https://www.fz.se/artikel/291493-manga-utvecklare-jobbar-pa-psvr2-versioner-av-sina-psvr-spel",
-          "publishedOn": "2022-09-18T07:00:00.000Z",
-          "wordCount": 1783,
-          "title": "Många utvecklare jobbar på PSVR2-versioner av sina PSVR-spel",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291493"
         }
       ]
     },

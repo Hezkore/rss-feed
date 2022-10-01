@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-01T18:31:38.918Z</updated>
+    <updated>2022-10-01T19:22:06.255Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[System76's Pop!_OS COSMIC Desktop To Make Use Of Iced Rust Toolkit Rather Than GTK]]></title>
+        <id>https://www.phoronix.com/news/COSMIC-Desktop-Iced-Toolkit</id>
+        <link href="https://www.phoronix.com/news/COSMIC-Desktop-Iced-Toolkit"/>
+        <updated>2022-10-01T19:12:51.000Z</updated>
+        <summary type="html"><![CDATA[System76 has been developing their own COSMIC desktop as the next evolution for their Pop!_OS Linux distribution built atop an Ubuntu base. Interestingly with this big COSMIC desktop undertaking, which is being written in the Rust programming language, they have decided to shift away from using the GTK toolkit to instead make use of Iced-Rs as a Rust-native, multi-platform graphical toolkit...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD B650 Motherboards Listed at U.S. Retailer Starting at $199]]></title>
         <id>MKsYpvXrz39HKzwH4eio4B</id>
@@ -18087,16 +18097,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Sovjetunionen var duktiga på stål och raketer. Den här veckans söndagsmatiné djupdyker i hur det såg ut på datorfronten.]]></summary>
         <author>
             <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Många utvecklare jobbar på PSVR2-versioner av sina PSVR-spel]]></title>
-        <id>https://www.fz.se/artikel/291493</id>
-        <link href="https://www.fz.se/artikel/291493-manga-utvecklare-jobbar-pa-psvr2-versioner-av-sina-psvr-spel"/>
-        <updated>2022-09-18T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Vi kanske får PSVR2-versioner av PSVR-spelen ändå?]]></summary>
-        <author>
-            <name>FZ.se</name>
         </author>
     </entry>
 </feed>
