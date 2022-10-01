@@ -2,10 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-01T12:49:54.160Z</updated>
+    <updated>2022-10-01T13:46:38.075Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How To Set Up an SSH Key For Secure Connections]]></title>
+        <id>A8dJMv7kosCjjWGDSWKq2k</id>
+        <link href="https://www.tomshardware.com/how-to/use-a-secure-key-for-ssh"/>
+        <updated>2022-10-01T13:21:21.000Z</updated>
+        <summary type="html"><![CDATA[SYNOPSIS
+Passwords are just one part of the security toolkit. SSH keys are a seamless and easy to setup tool to keep our connections secure.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Junichi Uekawa: I've sent a kernel patch.]]></title>
+        <id>http://www.netfort.gr.jp/~dancer/diary/daily/2022-Oct-1.html.en#2022-Oct-1-22:07:57</id>
+        <link href="http://www.netfort.gr.jp/~dancer/diary/daily/2022-Oct-1.html.en#2022-Oct-1-22:07:57"/>
+        <updated>2022-10-01T13:07:57.000Z</updated>
+        <summary type="html"><![CDATA[I've sent a kernel patch. It's been 4 years since my last upstream kernel patch it seems.
+	  Time flies.]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Password Managers 2022: Free and Paid]]></title>
+        <id>vvqe7WJGBqMKvQKPNHSESf</id>
+        <link href="https://www.tomshardware.com/best-picks/best-password-managers"/>
+        <updated>2022-10-01T12:58:57.000Z</updated>
+        <summary type="html"><![CDATA[No matter your budget, there’s a great service for you.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debian 12 Switches To PipeWire & WirePlumber By Default With The GNOME Desktop]]></title>
+        <id>https://www.phoronix.com/news/Debian-12-PipeWire</id>
+        <link href="https://www.phoronix.com/news/Debian-12-PipeWire"/>
+        <updated>2022-10-01T12:56:49.000Z</updated>
+        <summary type="html"><![CDATA[In addition to Ubuntu 22.10 switching to PipeWire as the default audio server replacement to PulseAudio, upstream Debian has done the same ahead of their Debian GNU/Linux 12 release next year...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD Revises Work On GPU Workload Hinting For Linux]]></title>
         <id>https://www.phoronix.com/news/AMDGPU-Workload-Hints-v2</id>

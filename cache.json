@@ -4342,6 +4342,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Debian-12-PipeWire",
+          "author": null,
+          "description": "In addition to Ubuntu 22.10 switching to PipeWire as the default audio server replacement to PulseAudio, upstream Debian has done the same ahead of their Debian GNU/Linux 12 release next year...",
+          "link": "https://www.phoronix.com/news/Debian-12-PipeWire",
+          "publishedOn": "2022-10-01T12:56:49.000Z",
+          "wordCount": 1331,
+          "title": "Debian 12 Switches To PipeWire & WirePlumber By Default With The GNOME Desktop",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/AMDGPU-Workload-Hints-v2",
           "author": null,
           "description": "AMD's Linux graphics driver engineers this week sent out their latest patch series working on workload hints that are used for dynamically tuning the power profile of AMD GPU SoCs based upon the specified workload indicator...",
@@ -6726,6 +6736,36 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "A8dJMv7kosCjjWGDSWKq2k",
+          "author": null,
+          "description": "SYNOPSIS\nPasswords are just one part of the security toolkit. SSH keys are a seamless and easy to setup tool to keep our connections secure.",
+          "link": "https://www.tomshardware.com/how-to/use-a-secure-key-for-ssh",
+          "publishedOn": "2022-10-01T13:21:21.000Z",
+          "wordCount": 23719,
+          "title": "How To Set Up an SSH Key For Secure Connections",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/hmxQgYZLtvPkiGkefoEfYn.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/hmxQgYZLtvPkiGkefoEfYn.jpg"
+        },
+        {
+          "id": "vvqe7WJGBqMKvQKPNHSESf",
+          "author": null,
+          "description": "No matter your budget, there’s a great service for you.",
+          "link": "https://www.tomshardware.com/best-picks/best-password-managers",
+          "publishedOn": "2022-10-01T12:58:57.000Z",
+          "wordCount": 23543,
+          "title": "Best Password Managers 2022: Free and Paid",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/WgV87CwoK5ptiEEHo986a9.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/WgV87CwoK5ptiEEHo986a9.jpg"
+        },
+        {
           "id": "VstY4PqHcZQMxMS6Mgim8C",
           "author": null,
           "description": "NZXT expands its gaming product line with a 32-inch curved QHD/VA 165 Hz performance-oriented monitor. It wraps Adaptive-Sync, HDR and extended color into an attractive chassis for a reasonable price.",
@@ -9057,6 +9097,16 @@
       "feedUrl": "https://planet.debian.org/rss20.xml",
       "siteUrl": "https://planet.debian.org/",
       "articles": [
+        {
+          "id": "http://www.netfort.gr.jp/~dancer/diary/daily/2022-Oct-1.html.en#2022-Oct-1-22:07:57",
+          "author": null,
+          "description": "I've sent a kernel patch. It's been 4 years since my last upstream kernel patch it seems.\n\t  Time flies.",
+          "link": "http://www.netfort.gr.jp/~dancer/diary/daily/2022-Oct-1.html.en#2022-Oct-1-22:07:57",
+          "publishedOn": "2022-10-01T13:07:57.000Z",
+          "wordCount": 63,
+          "title": "Junichi Uekawa: I've sent a kernel patch.",
+          "imageUrl": null
+        },
         {
           "id": "https://jmtd.net/log/vim_plugins/vim-css-color/",
           "author": null,
