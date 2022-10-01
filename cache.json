@@ -4412,6 +4412,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Rust-For-Linux-6.1-Pull-Request",
+          "author": null,
+          "description": "It's happening, folks! Linus Torvalds already indicated recently he intends to pull the initial Rust programming language support into the Linux 6.1 kernel cycle and today that pull request was submitted to him. Linux 6.0 isn't out yet but should be on Sunday unless any last minute problems, which in turn will mark the start of the two week v6.1 merge window...",
+          "link": "https://www.phoronix.com/news/Rust-For-Linux-6.1-Pull-Request",
+          "publishedOn": "2022-10-01T17:24:30.000Z",
+          "wordCount": 1496,
+          "title": "Rust Infrastructure Pull Request Submitted For Linux 6.1!",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Debian-12-PipeWire",
           "author": null,
           "description": "In addition to Ubuntu 22.10 switching to PipeWire as the default audio server replacement to PulseAudio, upstream Debian has done the same ahead of their Debian GNU/Linux 12 release next year...",
@@ -13822,6 +13832,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/01/ai_in_brief/",
+          "author": null,
+          "description": "<h4>Plus: Bruce Willis sells his image rights to AI biz creating deepfakes, and more</h4> <p><strong>In brief</strong>  AI progresses rapidly. Just months after the release of the most advanced text-to-image models, developers are showing off text-to-video systems. …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/01/ai_in_brief/",
+          "publishedOn": "2022-10-01T16:57:09.000Z",
+          "wordCount": 1659,
+          "title": "Text-to-image models are so last month, text-to-video is here",
+          "imageUrl": "https://regmedia.co.uk/2022/09/30/outdated_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/01/ethical_hackers_sans_survey/",
           "author": null,
