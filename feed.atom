@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-02T06:37:28.483Z</updated>
+    <updated>2022-10-02T07:27:20.236Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Beyond Good & Evil 2 är nu världens mest försenade spel]]></title>
+        <id>https://www.fz.se/artikel/291650</id>
+        <link href="https://www.fz.se/artikel/291650-beyond-good-evil-2-ar-nu-varldens-mest-forsenade-spel"/>
+        <updated>2022-10-02T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Beyond Good & Evil Forever.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Steam On Linux Usage Receded Slightly In September]]></title>
         <id>https://www.phoronix.com/news/Steam-Survey-September-2022</id>
@@ -17719,16 +17729,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China's Domestic 7nm Gaming GPU Should Arrive in 2025]]></title>
-        <id>n6tnZBEZSWvpab7BhkfEUZ</id>
-        <link href="https://www.tomshardware.com/news/chinas-domestic-7nm-gaming-gpu-should-arrive-in-2025"/>
-        <updated>2022-09-18T19:16:51.000Z</updated>
-        <summary type="html"><![CDATA[MetaX has a taped-out 7nm GPU which will be mass produced soon, and a data center AI GPU for introduction in 2024, but its ‘gaming’ GPU won’t be ready until 2025.]]></summary>
-        <author>
-            <name>Tomshardware</name>
         </author>
     </entry>
 </feed>
