@@ -2,10 +2,125 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-02T15:27:13.742Z</updated>
+    <updated>2022-10-02T16:35:41.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Resident Evil 6 isn't a bad game and, 10 years on, I’m grateful for it (even if I don’t like it)]]></title>
+        <id>https://www.vg247.com/resident-evil-6-isnt-a-bad-game-and-10-years-on-im-grateful-for-it-even-if-i-dont-like-it</id>
+        <link href="https://www.vg247.com/resident-evil-6-isnt-a-bad-game-and-10-years-on-im-grateful-for-it-even-if-i-dont-like-it"/>
+        <updated>2022-10-02T16:21:32.000Z</updated>
+        <summary type="html"><![CDATA[I used to tell people to never mention Resident Evil 5 or 6 in my presence. There wasn’t any real reason, other than the fact that I’d previously felt these games were one big letdown for the whole Resident Evil series. This sentiment is shared by many, but over time – and as of today, 10 years since it was first released – I’ve come to appreciate Resident Evil 6. Even if I can’t get into it.
+I was a child when I first picked up a copy of Resident Evil 6 from a market stall down an alley in Yorkshire. It definitely wasn’t legitimate, but a younger version of myself was fascinated by the cover art (little did I know what everyone else thought of it at the time) and all the Resident Evil gameplay I’d grown up watching, thanks to my parents. I was, by some margin, too young to play Resident Evil 6, but my dad let me get a copy anyway, and I instead was allowed to watch him play it. Seems like a win-win for him, if you ask me.
+Later down the line, I tried it for myself on Xbox One after having played Resident Evil 7 and more recently on Nintendo Switch – only to drop the game within the first couple of hours. I did this on more than one non-consecutive occasion, bouncing off the game within a few hours each time. The control scheme felt more awkward than ever before, and if I wanted to complete constant QTEs I’d rather play something from The Dark Pictures Anthology. For the most part, playing Resident Evil 6 felt like a chore.
+ Read more]]></summary>
+        <author>
+            <name>Kelsey Raynor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dirk Eddelbuettel: RcppArmadillo 0.11.4.0.1 on CRAN: Updates]]></title>
+        <id>http://dirk.eddelbuettel.com/blog/2022/10/02#rcpparmadillo_0.11.4.0.1</id>
+        <link href="http://dirk.eddelbuettel.com/blog/2022/10/02#rcpparmadillo_0.11.4.0.1"/>
+        <updated>2022-10-02T16:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Armadillo is a powerful and expressive C++ template library for linear algebra and scientific computing. It aims towards a good balance between speed and ease of use, has a syntax deliberately close to Matlab, and is useful for algorithm development directly in C++, or quick conversion of research code into production environments. RcppArmadillo integrates this library with the R environment and language–and is widely used by (currently) 1023 packages other packages on CRAN, downloaded 26.4 million times (per the partial logs from the cloud mirrors of CRAN), and the CSDA paper (preprint / vignette) by Conrad and myself has been cited 497 times according to Google Scholar.
+This release reflect as new upstream release 11.4.0 Conrad made recently. It turns out that it triggered warnings under g++-12 for about five packages in the fortify mode default for Debian builds. Conrad then kindly addressed this with a few fixes.
+The full set of changes (since the last CRAN release 0.11.2.4.0) follows.
+Changes in RcppArmadillo version 0.11.4.0.1 (2022-10-01
+Upgraded to Armadillo release 11.4.0 (Ship of Theseus)
+faster handling of compound expressions by sum()
+
+
+extended pow() with various forms of element-wise power operations
+
+
+added find_nan() to find indices of NaN elements
+
+
+Also applied fixes to avoid g++-12 warnings affecting just a handful of CRAN packages.
+
+
+
+Courtesy of my CRANberries, there is a diffstat report relative to previous release. More detailed information is on the RcppArmadillo page. Questions, comments etc should go to the rcpp-devel mailing list off the R-Forge page.
+If you like this or other open-source work I do, you can sponsor me at GitHub.
+Dirk Eddelbuettel originated on his Thinking inside the box blog. Please report excessive re-aggregation in third-party for-profit settings.]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Japan's GBoard Keyboard Doubles as a Bug Catcher Stick]]></title>
+        <id>WVVBfbSEXwWUKgJSq3riB9</id>
+        <link href="https://www.tomshardware.com/news/google-japans-gboard-keyboard-doubles-as-a-bug-catcher-stick"/>
+        <updated>2022-10-02T16:04:20.000Z</updated>
+        <summary type="html"><![CDATA[Google Japan introduces the GBoard stick version keyboard, which resembles a long ruler that users can make at home.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If No More Heroes 4 is to happen, there needs to be a "big fan outcry" says Suda51]]></title>
+        <id>https://www.vg247.com/no-more-heroes-4-fan-outcry</id>
+        <link href="https://www.vg247.com/no-more-heroes-4-fan-outcry"/>
+        <updated>2022-10-02T16:00:34.000Z</updated>
+        <summary type="html"><![CDATA[No More Heroes 4 could happen, though series creator Suda51 says that fans would have to be really loud about it to get one.
+
+
+While No More Heroes 3 was meant to be the last entry in the series, Suda51 hasn't necessarily ruled out another game somewhere down the road, though it sounds like it would be quite a long road if it ever did happen. The director recently spoke with GNN about the most recent game, asking if it's possible we'll see Travis Touchdown once more. 
+
+
+"Yes, that’s right, Heroes No More 3 is Travis’ last battle,” Suda said (translations via VGC). "Nobody could say what’s going to happen 10 years from now, and I can’t say either. If there’s a big fan outcry, Travis might be back. Just like Tom Cruise came back as Maverick."
+ 
+Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MSI antyder att AMD:s billigaste B650-moderkort blir avskalade]]></title>
+        <id>https://www.sweclockers.com/artikel/35009</id>
+        <link href="https://www.sweclockers.com/artikel/35009-msi-antyder-att-amds-billigaste-b650-moderkort-blir-avskalade"/>
+        <updated>2022-10-02T16:00:20.000Z</updated>
+        <summary type="html"><![CDATA[Ryzen 7000-moderkort av enklare typ är på ingång, men den som endast vill glänta på plånboken kan få nöja sig med funktionsfattiga moderkort.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New World players have clocked up 569m in-game hours over the last year]]></title>
+        <id>https://www.eurogamer.net/new-world-players-have-clocked-up-5691-million-in-game-hours-over-the-last-year</id>
+        <link href="https://www.eurogamer.net/new-world-players-have-clocked-up-5691-million-in-game-hours-over-the-last-year"/>
+        <updated>2022-10-02T15:54:36.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Games is celebrating one whole year of New World with a snazzy new infographic. 
+
+Showcasing "key highlights from the launch", the summation of facts and figures looks back and reflects upon "our brave New World".
+
+In the twelve months since the PC MMORPG launched, players have clocked up an astonishing 569.1 million collective hours played, and streamed 12.4 billion minutes on Twitch.
+ 
+Read more]]></summary>
+        <author>
+            <name>Vikki Blake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[They made Ed Sheeran an anime boy in this new Pokémon music video]]></title>
+        <id>https://www.vg247.com/ed-sheeran-pokemon-music-video</id>
+        <link href="https://www.vg247.com/ed-sheeran-pokemon-music-video"/>
+        <updated>2022-10-02T15:34:47.000Z</updated>
+        <summary type="html"><![CDATA[Ed Sheeran is back with another Pokémon collaboration, this time with a new song and a fun hybrid live-action animated music video.
+
+
+If I had a nickel for everytime Ed Sheeran has collaborated with Pokémon, I'd only have two nickels, but it's weird that it happened twice. Last time the ginger singer-songwriter appeared in the world of pocket monsters was in the mobile game Pokémon Go, where he held a special performance. This time it's for a new song called Celestial, which for the most part sounds like your average Ed Sheeran song.
+
+
+The music video itself doesn't have too much of a story, and mostly just shows Sheeran going round parts of Richmond Hill, apparently, interspersed with animated bits of your favourite gen one Pokémon causing chaos, like setting his house on fire, or a Snorlax causing a taxi to literally go flying off into the sky.
+ 
+Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Transformers join Magic: The Gathering]]></title>
         <id>https://www.eurogamer.net/transformers-join-magic-the-gathering</id>
@@ -17987,36 +18102,6 @@ But once you start thinking about security, it gets more complicated. If I, as a
         <summary type="html"><![CDATA[<h4>South Korean prosecutor believes he is on the run from charges laid over Luna stablecoin crash</h4> <p>Do Kwon, founder of troubled cryptocurrency company Terraform Labs and a wanted man in Korea, took to Twitter over the weekend to deny that he was "on the run" and claim he is fully cooperating with authorities probing the crypto collapses in which he had a hand.…</p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Philippines decides outsourcers need incentives to stick around, after all]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/19/philippines_outsourcer_incentives_retained/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/19/philippines_outsourcer_incentives_retained/"/>
-        <updated>2022-09-19T04:05:07.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Just three months ago senior bureaucrat said 'Tax perks are not that important to investors.' Contortions now in place to keep cash flowing</h4> <p>The Philippines last week decided to extend incentives offered to foreign outsourcers that offer working from home to local employees.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hollow Knight: Silksong har bekräftats till Playstation 4 och 5]]></title>
-        <id>https://www.fz.se/artikel/291497</id>
-        <link href="https://www.fz.se/artikel/291497-hollow-knight-silksong-har-bekraftats-till-playstation-4-och-5"/>
-        <updated>2022-09-19T03:54:03.000Z</updated>
-        <summary type="html"><![CDATA[Men inget släppdatum än.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vince Zampella: Battlefield 2042 "avvek för mycket från vad BF är"]]></title>
-        <id>https://www.fz.se/artikel/291496</id>
-        <link href="https://www.fz.se/artikel/291496-vince-zampella-battlefield-2042-avvek-for-mycket-fran-vad-bf-ar"/>
-        <updated>2022-09-19T03:29:39.000Z</updated>
-        <summary type="html"><![CDATA[Kanske bådar gott för framtiden?]]></summary>
-        <author>
-            <name>FZ.se</name>
         </author>
     </entry>
 </feed>
