@@ -4412,6 +4412,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-6.0-Released",
+          "author": null,
+          "description": "Linus Torvalds just promoted Linux 6.0 to stable on-schedule and thereby now ushering in the Linux 6.1 merge window to officially get underway tomorrow...",
+          "link": "https://www.phoronix.com/news/Linux-6.0-Released",
+          "publishedOn": "2022-10-02T21:30:52.000Z",
+          "wordCount": 1369,
+          "title": "Linux 6.0 Released With Many Intel & AMD Driver Additions, IO_uring Keeps Advancing",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-6.1-Features-Early-Look",
           "author": null,
           "description": "Linux 6.0 is bringing many great features but looking ahead for Linux 6.1 there are even more changes to get excited about for that kernel which will release as stable around the end of 2022...",
@@ -5639,26 +5649,6 @@
           "publishedOn": "2022-09-19T10:38:23.000Z",
           "wordCount": 1469,
           "title": "More AMD Ryzen Laptops See Suspend-To-Idle Fix",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Loongson-LoongArch-Laptop-Prep",
-          "author": null,
-          "description": "Chinese hardware vendor Loongson Technology continues working on the LoongArch code for the Linux kernel for their in-house CPU ISA derived from MIPS64. Now that the initial code has been mainlined since 5.19 and some of the necessary other critical bits of code are getting squared away, recently they have been working on other missing functionality for supporting their initial LoongArch-based Loongson 3A5000 series SoCs...",
-          "link": "https://www.phoronix.com/news/Loongson-LoongArch-Laptop-Prep",
-          "publishedOn": "2022-09-19T10:13:33.000Z",
-          "wordCount": 1329,
-          "title": "Loongson Preparing Linux For LoongArch Laptops",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Intel-e1000-Rust-Driver-WIP",
-          "author": null,
-          "description": "Adding to the growing examples and early drivers being worked on for the Linux kernel to showcase the possibilities of using the Rust programming language within the kernel, an early port of Intel's e1000 wired networking driver has started...",
-          "link": "https://www.phoronix.com/news/Intel-e1000-Rust-Driver-WIP",
-          "publishedOn": "2022-09-19T09:48:29.000Z",
-          "wordCount": 1438,
-          "title": "Rust Porting Begins For Intel's \"e1000\" Linux Network Driver",
           "imageUrl": null
         }
       ]
@@ -12847,16 +12837,6 @@
           "wordCount": 1964,
           "title": "Stor gameplay-läcka även från Diablo 4",
           "imageUrl": "https://www.fz.se/artikel/og-image/291502"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291501",
-          "author": null,
-          "description": "Nyfunnen popularitet.",
-          "link": "https://www.fz.se/artikel/291501-cyberpunk-2077s-spelarantal-rusar-pa-steam",
-          "publishedOn": "2022-09-19T09:48:00.000Z",
-          "wordCount": 1815,
-          "title": "Cyberpunk 2077:s spelarantal rusar på Steam",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291501"
         }
       ]
     },
@@ -13464,16 +13444,6 @@
           "wordCount": 1835,
           "title": "Intel Core i9-13900K letar sig ut i tidigt test",
           "imageUrl": "https://www.sweclockers.com/artikel/34947/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34946",
-          "author": null,
-          "description": "De två svenskgrundade paketleverantörerna tillika paketboxtjänsterna slår sina påsar ihop och bildar ett gemensamt bolag.",
-          "link": "https://www.sweclockers.com/artikel/34946-budbee-och-instabox-gar-samman-bildar-instabee",
-          "publishedOn": "2022-09-19T09:58:39.000Z",
-          "wordCount": 1620,
-          "title": "Budbee och Instabox går samman – bildar Instabee",
-          "imageUrl": "https://www.sweclockers.com/artikel/34946/og-image"
         }
       ]
     },
@@ -16171,16 +16141,6 @@
           "wordCount": 1285,
           "title": "By Jove! Jupiter to make closest approach to Earth in 70 years next Monday",
           "imageUrl": "https://regmedia.co.uk/2018/03/08/jupiter.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/19/cisco_outright_sales_wifi_cbw150ax/",
-          "author": null,
-          "description": "<h4>In Cisco's world this makes a $125 Wi-Fi AP 'easier to buy' – maybe easier than its own Meraki kit?</h4> <p>Cisco has revealed new hardware it is willing to sell to small businesses outright – no subscription, but still with support and warranty! Such innovation!…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/19/cisco_outright_sales_wifi_cbw150ax/",
-          "publishedOn": "2022-09-19T10:01:09.000Z",
-          "wordCount": 1249,
-          "title": "Cisco SMB revolution: selling hardware with no subscription required",
-          "imageUrl": "https://regmedia.co.uk/2022/09/19/shutterstock_editorial_only_cisco_switch.jpg"
         }
       ]
     }

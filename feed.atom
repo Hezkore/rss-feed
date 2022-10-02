@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-02T21:23:32.626Z</updated>
+    <updated>2022-10-02T22:26:00.669Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.0 Released With Many Intel & AMD Driver Additions, IO_uring Keeps Advancing]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.0-Released</id>
+        <link href="https://www.phoronix.com/news/Linux-6.0-Released"/>
+        <updated>2022-10-02T21:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvalds just promoted Linux 6.0 to stable on-schedule and thereby now ushering in the Linux 6.1 merge window to officially get underway tomorrow...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nyhetsquiz vecka 39 2022: Ryzen 7000, Intel Arc och Core 13000]]></title>
         <id>https://www.sweclockers.com/artikel/35010</id>
@@ -18018,56 +18028,6 @@ The leaks were posted by a user named teapotuberhacker on the GTA Forums. Since 
         <summary type="html"><![CDATA[Plasma 5.26 Beta is officially out now and it comes with plenty of massive improvements, especially when it comes to using it on the bigscreen.]]></summary>
         <author>
             <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loongson Preparing Linux For LoongArch Laptops]]></title>
-        <id>https://www.phoronix.com/news/Loongson-LoongArch-Laptop-Prep</id>
-        <link href="https://www.phoronix.com/news/Loongson-LoongArch-Laptop-Prep"/>
-        <updated>2022-09-19T10:13:33.000Z</updated>
-        <summary type="html"><![CDATA[Chinese hardware vendor Loongson Technology continues working on the LoongArch code for the Linux kernel for their in-house CPU ISA derived from MIPS64. Now that the initial code has been mainlined since 5.19 and some of the necessary other critical bits of code are getting squared away, recently they have been working on other missing functionality for supporting their initial LoongArch-based Loongson 3A5000 series SoCs...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cisco SMB revolution: selling hardware with no subscription required]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/19/cisco_outright_sales_wifi_cbw150ax/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/19/cisco_outright_sales_wifi_cbw150ax/"/>
-        <updated>2022-09-19T10:01:09.000Z</updated>
-        <summary type="html"><![CDATA[<h4>In Cisco's world this makes a $125 Wi-Fi AP 'easier to buy' – maybe easier than its own Meraki kit?</h4> <p>Cisco has revealed new hardware it is willing to sell to small businesses outright – no subscription, but still with support and warranty! Such innovation!…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Budbee och Instabox går samman – bildar Instabee]]></title>
-        <id>https://www.sweclockers.com/artikel/34946</id>
-        <link href="https://www.sweclockers.com/artikel/34946-budbee-och-instabox-gar-samman-bildar-instabee"/>
-        <updated>2022-09-19T09:58:39.000Z</updated>
-        <summary type="html"><![CDATA[De två svenskgrundade paketleverantörerna tillika paketboxtjänsterna slår sina påsar ihop och bildar ett gemensamt bolag.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust Porting Begins For Intel's "e1000" Linux Network Driver]]></title>
-        <id>https://www.phoronix.com/news/Intel-e1000-Rust-Driver-WIP</id>
-        <link href="https://www.phoronix.com/news/Intel-e1000-Rust-Driver-WIP"/>
-        <updated>2022-09-19T09:48:29.000Z</updated>
-        <summary type="html"><![CDATA[Adding to the growing examples and early drivers being worked on for the Linux kernel to showcase the possibilities of using the Rust programming language within the kernel, an early port of Intel's e1000 wired networking driver has started...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberpunk 2077:s spelarantal rusar på Steam]]></title>
-        <id>https://www.fz.se/artikel/291501</id>
-        <link href="https://www.fz.se/artikel/291501-cyberpunk-2077s-spelarantal-rusar-pa-steam"/>
-        <updated>2022-09-19T09:48:00.000Z</updated>
-        <summary type="html"><![CDATA[Nyfunnen popularitet.]]></summary>
-        <author>
-            <name>FZ.se</name>
         </author>
     </entry>
 </feed>
