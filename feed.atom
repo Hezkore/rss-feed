@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-02T22:26:00.669Z</updated>
+    <updated>2022-10-02T23:29:48.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux kernel 6.0 debuts, Linus Torvalds teases ‘core new things’ coming in version 6.1]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/02/linux_kernel_6_0_released/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/02/linux_kernel_6_0_released/"/>
+        <updated>2022-10-02T22:31:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Linux boss' launch message is more ‘6.0 is overrated’ than ‘The joy of 6.0’</h4> <p>Linus Torvalds has released a stable cut of version 6.0 of the Linux kernel.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux 6.0 Released With Many Intel & AMD Driver Additions, IO_uring Keeps Advancing]]></title>
         <id>https://www.phoronix.com/news/Linux-6.0-Released</id>
@@ -17975,59 +17985,6 @@ This was, in fact, an accurate guess. In a statement posted to Twitter, the stud
         <summary type="html"><![CDATA[Along with the last drm-intel-gt-next pull for Linux 6.1, a final drm-intel-next pull request of new feature code was submitted to DRM-Next ahead of the upcoming Linux 6.1 merge window...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stor gameplay-läcka även från Diablo 4]]></title>
-        <id>https://www.fz.se/artikel/291502</id>
-        <link href="https://www.fz.se/artikel/291502-stor-gameplay-lacka-aven-fran-diablo-4"/>
-        <updated>2022-09-19T11:24:04.000Z</updated>
-        <summary type="html"><![CDATA[Gör GTA 6 sällskap.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Take-Two scrambles to strike leaked GTA 6 videos and screenshots]]></title>
-        <id>https://www.vg247.com/gta-6-leak-take-two-strike-ransom</id>
-        <link href="https://www.vg247.com/gta-6-leak-take-two-strike-ransom"/>
-        <updated>2022-09-19T10:59:30.000Z</updated>
-        <summary type="html"><![CDATA[The weekend has brought Rockstar and its parent company, Take-Two, a lot of headaches. A massive amount of GTA 6 development videos and screenshots were published online by an anonymous leaker. GTA never suffered a leak at this scale, and the material understandably got published everywhere.
-The footage and screenshots showed various bits of gameplay, a Red Dead Redemption 2-like conversation system, some vehicle action, and a bit of the open world. More importantly, it featured the rumoured protagonist, and seemingly confirmed the Vice City setting, which has long been rumoured, and recently confirmed by a Bloomberg report.
-The leaks were posted by a user named teapotuberhacker on the GTA Forums. Since then, the thread was locked and the media removed, though it's available to read once again at the time of this writing.
- Read more]]></summary>
-        <author>
-            <name>Sherif Saed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GE-Proton installer ProtonUp-Qt adds support for the Steam Snap]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/ge-proton-installer-protonup-qt-adds-support-for-the-steam-snap/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/ge-proton-installer-protonup-qt-adds-support-for-the-steam-snap/"/>
-        <updated>2022-09-19T10:47:45.000Z</updated>
-        <summary type="html"><![CDATA[ProtonUp-Qt continues being an incredibly helpful GUI for installing the likes of GE-Proton, Wine-GE, Luxtorpeda and more with a new version out now.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More AMD Ryzen Laptops See Suspend-To-Idle Fix]]></title>
-        <id>https://www.phoronix.com/news/More-s2idle-Rembrandt-Linux</id>
-        <link href="https://www.phoronix.com/news/More-s2idle-Rembrandt-Linux"/>
-        <updated>2022-09-19T10:38:23.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this month I wrote about AMD working on s2idle fixes for some AMD Ryzen 6000 series "Rembrandt" laptops. At the time it was just for select ASUS laptops known to have a bug in the firmware resulting in suspend-to-idle issues while now additional models not only from ASUS but also Lenovo have been uncovered...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Plasma 5.26 Beta brings on the bigscreen experience]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/plasma-526-beta-brings-on-the-bigscreen-experience/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/plasma-526-beta-brings-on-the-bigscreen-experience/"/>
-        <updated>2022-09-19T10:35:03.000Z</updated>
-        <summary type="html"><![CDATA[Plasma 5.26 Beta is officially out now and it comes with plenty of massive improvements, especially when it comes to using it on the bigscreen.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
         </author>
     </entry>
 </feed>

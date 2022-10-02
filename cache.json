@@ -759,26 +759,6 @@
           "wordCount": 1172,
           "title": "The Wandering Village is a clear hit with over 50K copies sold",
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/242632007id21618gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/09/ge-proton-installer-protonup-qt-adds-support-for-the-steam-snap/",
-          "author": "Liam Dawe",
-          "description": "ProtonUp-Qt continues being an incredibly helpful GUI for installing the likes of GE-Proton, Wine-GE, Luxtorpeda and more with a new version out now.",
-          "link": "https://www.gamingonlinux.com/2022/09/ge-proton-installer-protonup-qt-adds-support-for-the-steam-snap/",
-          "publishedOn": "2022-09-19T10:47:45.000Z",
-          "wordCount": 1060,
-          "title": "GE-Proton installer ProtonUp-Qt adds support for the Steam Snap",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/272490519id21617gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/09/plasma-526-beta-brings-on-the-bigscreen-experience/",
-          "author": "Liam Dawe",
-          "description": "Plasma 5.26 Beta is officially out now and it comes with plenty of massive improvements, especially when it comes to using it on the bigscreen.",
-          "link": "https://www.gamingonlinux.com/2022/09/plasma-526-beta-brings-on-the-bigscreen-experience/",
-          "publishedOn": "2022-09-19T10:35:03.000Z",
-          "wordCount": 1166,
-          "title": "Plasma 5.26 Beta brings on the bigscreen experience",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/128382078id21616gol.jpg"
         }
       ]
     },
@@ -4393,16 +4373,6 @@
           "wordCount": 4738,
           "title": "Rockstar confirms the GTA 6 leaks doing the rounds are the result of a hack",
           "imageUrl": "https://asset.vg247.com/GTA-6-edgelord-(1).jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/GTA-6-edgelord-(1).jpg"
-        },
-        {
-          "id": "https://www.vg247.com/gta-6-leak-take-two-strike-ransom",
-          "author": "Sherif Saed",
-          "description": "The weekend has brought Rockstar and its parent company, Take-Two, a lot of headaches. A massive amount of GTA 6 development videos and screenshots were published online by an anonymous leaker. GTA never suffered a leak at this scale, and the material understandably got published everywhere.\nThe footage and screenshots showed various bits of gameplay, a Red Dead Redemption 2-like conversation system, some vehicle action, and a bit of the open world. More importantly, it featured the rumoured protagonist, and seemingly confirmed the Vice City setting, which has long been rumoured, and recently confirmed by a Bloomberg report.\nThe leaks were posted by a user named teapotuberhacker on the GTA Forums. Since then, the thread was locked and the media removed, though it's available to read once again at the time of this writing.\n Read more",
-          "link": "https://www.vg247.com/gta-6-leak-take-two-strike-ransom",
-          "publishedOn": "2022-09-19T10:59:30.000Z",
-          "wordCount": 4743,
-          "title": "Take-Two scrambles to strike leaked GTA 6 videos and screenshots",
-          "imageUrl": "https://asset.vg247.com/GTA-6-rockstar-t2-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/GTA-6-rockstar-t2-header.jpg"
         }
       ]
     },
@@ -5639,16 +5609,6 @@
           "publishedOn": "2022-09-19T11:51:59.000Z",
           "wordCount": 1303,
           "title": "More Meteor Lake Enablement Readied For Intel Graphics Driver With Linux 6.1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/More-s2idle-Rembrandt-Linux",
-          "author": null,
-          "description": "Earlier this month I wrote about AMD working on s2idle fixes for some AMD Ryzen 6000 series \"Rembrandt\" laptops. At the time it was just for select ASUS laptops known to have a bug in the firmware resulting in suspend-to-idle issues while now additional models not only from ASUS but also Lenovo have been uncovered...",
-          "link": "https://www.phoronix.com/news/More-s2idle-Rembrandt-Linux",
-          "publishedOn": "2022-09-19T10:38:23.000Z",
-          "wordCount": 1469,
-          "title": "More AMD Ryzen Laptops See Suspend-To-Idle Fix",
           "imageUrl": null
         }
       ]
@@ -12827,16 +12787,6 @@
           "wordCount": 1720,
           "title": "Ny Final Fantasy XVI-trailer om en månad eller så",
           "imageUrl": "https://www.fz.se/artikel/og-image/291503"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291502",
-          "author": null,
-          "description": "Gör GTA 6 sällskap.",
-          "link": "https://www.fz.se/artikel/291502-stor-gameplay-lacka-aven-fran-diablo-4",
-          "publishedOn": "2022-09-19T11:24:04.000Z",
-          "wordCount": 1964,
-          "title": "Stor gameplay-läcka även från Diablo 4",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291502"
         }
       ]
     },
@@ -13762,6 +13712,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/02/linux_kernel_6_0_released/",
+          "author": null,
+          "description": "<h4>Linux boss' launch message is more ‘6.0 is overrated’ than ‘The joy of 6.0’</h4> <p>Linus Torvalds has released a stable cut of version 6.0 of the Linux kernel.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/02/linux_kernel_6_0_released/",
+          "publishedOn": "2022-10-02T22:31:07.000Z",
+          "wordCount": 1289,
+          "title": "Linux kernel 6.0 debuts, Linus Torvalds teases ‘core new things’ coming in version 6.1",
+          "imageUrl": "https://regmedia.co.uk/2021/07/11/shutterstock_penguins_watch_pc.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/02/witchetty_windows_logo_spyware/",
           "author": null,
