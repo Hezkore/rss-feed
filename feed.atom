@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-02T20:28:08.575Z</updated>
+    <updated>2022-10-02T21:23:32.626Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
@@ -323,6 +323,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Along with the Rust infrastructure for Linux 6.1 pull request, another early pull submitted by kernel maintainer Kees Cook for Linux 6.1 is the introduction of a new Control Flow Integrity "CFI" implementation for the Linux kernel to replace the former, less-than-ideal code...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steganography alert: Backdoor spyware stashed in Microsoft logo]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/02/witchetty_windows_logo_spyware/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/02/witchetty_windows_logo_spyware/"/>
+        <updated>2022-10-02T12:56:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Now that's sticker shock</h4> <p>Internet snoops have been caught concealing spyware in an old Windows logo in an attack on governments in the Middle East.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
         </author>
     </entry>
     <entry>
@@ -18058,26 +18068,6 @@ The leaks were posted by a user named teapotuberhacker on the GTA Forums. Since 
         <summary type="html"><![CDATA[Nyfunnen popularitet.]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I skräckspelet Unholy utforskar man två parallella världar]]></title>
-        <id>https://www.fz.se/artikel/291500</id>
-        <link href="https://www.fz.se/artikel/291500-i-skrackspelet-unholy-utforskar-man-tva-parallella-varldar"/>
-        <updated>2022-09-19T09:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Sök efter ditt barn i en ohelig, präststyrd värld och en östeuropeisk stad.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valve had the official Steam Deck Docking Station at TGS, plus other TGS bits]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/valve-had-the-official-steam-deck-docking-station-at-tgs-plus-other-tgs-bits/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/valve-had-the-official-steam-deck-docking-station-at-tgs-plus-other-tgs-bits/"/>
-        <updated>2022-09-19T08:40:27.000Z</updated>
-        <summary type="html"><![CDATA[While they haven't yet released the official Steam Deck Dock and they haven't really talked about it since the indefinite delay, it's clearly still a thing.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
         </author>
     </entry>
 </feed>
