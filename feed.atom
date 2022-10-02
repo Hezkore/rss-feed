@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-02T19:22:13.019Z</updated>
+    <updated>2022-10-02T20:28:08.575Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nyhetsquiz vecka 39 2022: Ryzen 7000, Intel Arc och Core 13000]]></title>
+        <id>https://www.sweclockers.com/artikel/35010</id>
+        <link href="https://www.sweclockers.com/artikel/35010-nyhetsquiz-vecka-39-2022-ryzen-7000-intel-arc-och-core-13000"/>
+        <updated>2022-10-02T20:15:27.000Z</updated>
+        <summary type="html"><![CDATA[Processornytt från både Intel och AMD blandas med Googles senaste Stadia-besked och inslag om grafikkort. Minns du alla detaljer?]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux 6.1 Should Be Very Exciting With Rust, AMD PMF, MGLRU & Other Changes Expected]]></title>
         <id>https://www.phoronix.com/news/Linux-6.1-Features-Early-Look</id>
@@ -18068,26 +18078,6 @@ The leaks were posted by a user named teapotuberhacker on the GTA Forums. Since 
         <summary type="html"><![CDATA[While they haven't yet released the official Steam Deck Dock and they haven't really talked about it since the indefinite delay, it's clearly still a thing.]]></summary>
         <author>
             <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bad UI killed the radio star]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/19/who_me/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/19/who_me/"/>
-        <updated>2022-09-19T08:02:10.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Rules, it turns out, are not meant to be broken. Especially by the person who wrote the rule about how to protect data</h4> <p><strong>Who, Me?</strong>  When designing a procedure for the operation of any system, the first and most important rule should always be: follow the rules. Unfortunately, this particular rule is often forgotten.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox planerar fortsatta uppköp för att förbli konkurrenskraftiga]]></title>
-        <id>https://www.fz.se/artikel/291499</id>
-        <link href="https://www.fz.se/artikel/291499-xbox-planerar-fortsatta-uppkop-for-att-forbli-konkurrenskraftiga"/>
-        <updated>2022-09-19T07:53:00.000Z</updated>
-        <summary type="html"><![CDATA[Och pekar ut Sony som en betydligt större aktör i spelbranschen.]]></summary>
-        <author>
-            <name>FZ.se</name>
         </author>
     </entry>
 </feed>
