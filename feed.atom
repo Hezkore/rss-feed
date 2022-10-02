@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-02T08:32:11.425Z</updated>
+    <updated>2022-10-02T09:27:58.933Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[BlackCat malware lashes out at US defense IT contractor]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/02/in-brief-security/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/02/in-brief-security/"/>
+        <updated>2022-10-02T08:47:05.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Also, Amazon's Ring footage TV shows draws criticism, US v Societ spying docs found, and more</h4> <p><strong>In Brief</strong>  The BlackCat ransomware gang, also known as ALPHV, has allegedly broken into IT firm NJVC, a provider of services to civilian US government agencies and the Department of Defense.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beyond Good & Evil 2 är nu världens mest försenade spel]]></title>
         <id>https://www.fz.se/artikel/291650</id>
@@ -17705,27 +17715,6 @@ Read more]]></summary>
         <link href="https://www.rockpapershotgun.com/with-the-rtx-4090-waiting-in-the-wings-this-rtx-3090-ti-is-down-to-999"/>
         <updated>2022-09-18T21:43:17.000Z</updated>
         <summary type="html"><![CDATA[The RTX 4090 is all but confirmed now, based on the sheer volume of leaks, rumours and speculation showing off the next-gen Nvidia GPU in a variety of guises but sharing the same specs. That's pushed the prices of current-gen GPUs way down, and that's especially true for high-end cards. Ergo, it's not a massive surprise to see the Nvidia RTX 3090 Ti, Team Green's flagship card, down to just $999 at Amazon after debuting at twice that figure. 
-Read more]]></summary>
-        <author>
-            <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.0-rc6 Released After Kernel Developers Spent The Week In Dublin]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.0-rc6-Released</id>
-        <link href="https://www.phoronix.com/news/Linux-6.0-rc6-Released"/>
-        <updated>2022-09-18T21:26:57.000Z</updated>
-        <summary type="html"><![CDATA[Linus Torvalds just released Linux 6.0-rc6 and it's artificially tiny due to many of the kernel developers being preoccupied for the week...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This EVGA 1600W Platinum PSU is down to $200 at Newegg]]></title>
-        <id>https://www.rockpapershotgun.com/this-evga-1600w-platinum-psu-is-down-to-200-at-newegg</id>
-        <link href="https://www.rockpapershotgun.com/this-evga-1600w-platinum-psu-is-down-to-200-at-newegg"/>
-        <updated>2022-09-18T21:26:21.000Z</updated>
-        <summary type="html"><![CDATA[EVGA may be getting out of the graphics card business, but they're still one of the premiere brands for high-quality power supplies. One massive 1600W 80+ Platinum unit has been highly discounted over in the States, where the EVGA SuperNova 1600 P+ is down to $200 from its original price of $500. That's an awesome deal on a power supply ideally suited for high-end, multiple-GPU systems - and doesn't cost much more than a Platinum-rated 1000W PSU.  
 Read more]]></summary>
         <author>
             <name>Will Judd</name>
