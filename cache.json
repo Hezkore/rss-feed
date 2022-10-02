@@ -4322,6 +4322,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-6.1-Clang-KCFI-Submitted",
+          "author": null,
+          "description": "Along with the Rust infrastructure for Linux 6.1 pull request, another early pull submitted by kernel maintainer Kees Cook for Linux 6.1 is the introduction of a new Control Flow Integrity \"CFI\" implementation for the Linux kernel to replace the former, less-than-ideal code...",
+          "link": "https://www.phoronix.com/news/Linux-6.1-Clang-KCFI-Submitted",
+          "publishedOn": "2022-10-02T13:27:08.000Z",
+          "wordCount": 1375,
+          "title": "Improved Control Flow Integrity (KCFI) Implementation Submitted For Linux 6.1",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-6.0-New-Features",
           "author": null,
           "description": "Barring any last minute reservations today by Linus Torvalds, the Linux 6.0 stable kernel is expected to be christened before the day is through. Linux 6.0 comes with many notable hardware support additions and other improvements, here is a reminder of all what is great about this imminent kernel release...",
@@ -9266,16 +9276,6 @@
           "wordCount": null,
           "title": "Matthew Garrett: Bring Your Own Disaster",
           "imageUrl": null
-        },
-        {
-          "id": "http://noone.org/blog/English/Computer/Web/Browsers/wApua%200.06.4%20released.html",
-          "author": "abe+blog@deuxchevaux.org (Axel Beckert)",
-          "description": "I today released version 0.06.4\nof my WAP WML browser wApua and also uploaded that release to Debian Unstable.\n\n\n\n\nIt’s a bugfix release and the first upstream release since 2017.\n\n\nWAP WML pages with more recent DTD\nlocation URLs ending in .dtd instead of .xml\n(and some other small difference). No idea when these URLs changed,\nbut I assume they have been changed to look more like the URLs of\nother DTDs. The old URLs of the DTD still work, but more recent WAP\npages (yes, they do exist :-) seem to use the new DTD URLs, so there\nwas a need to recognise them instead of throwing an annoying warning.\n\n\nthe bug report!",
-          "link": "http://noone.org/blog/English/Computer/Web/Browsers/wApua%200.06.4%20released.html",
-          "publishedOn": "2022-09-19T00:55:52.000Z",
-          "wordCount": 1316,
-          "title": "Axel Beckert: wApua 0.06.4 released",
-          "imageUrl": null
         }
       ]
     },
@@ -12756,6 +12756,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/35008",
+          "author": null,
+          "description": "För 40 år sedan var många av utmaningarna med programmering och digitalt skapande väsensskilda dagens motsvarigheter, något \"The Coding Train\" påminner om.",
+          "link": "https://www.sweclockers.com/artikel/35008-sondagsmatine-att-programmera-pa-80-talet",
+          "publishedOn": "2022-10-02T13:31:07.000Z",
+          "wordCount": 1399,
+          "title": "Söndagsmatiné: Att programmera på 80-talet",
+          "imageUrl": "https://www.sweclockers.com/artikel/35008/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/35007",
           "author": null,
           "description": "När Intel äntrar grafikkortsmarknaden kan Acer bli partnertillverkare. På Twitter visas en variant med kylare som både är öppen och av [i]blower[/i]-typ.",
@@ -13662,6 +13672,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/02/witchetty_malware_windows_logo/",
+          "author": null,
+          "description": "<h4>Now that's sticker shock</h4> <p>Internet snoops has been caught concealing spyware in an old Windows logo in an attack on governments in the Middle East.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/02/witchetty_malware_windows_logo/",
+          "publishedOn": "2022-10-02T12:56:07.000Z",
+          "wordCount": 1583,
+          "title": "Stenography alert: Backdoor spyware stashed in Microsoft logo",
+          "imageUrl": "https://regmedia.co.uk/2020/11/30/shutterstock_ghost_windows.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/02/in-brief-security/",
           "author": null,
@@ -16061,16 +16081,6 @@
           "wordCount": 1256,
           "title": "Philippines decides outsourcers need incentives to stick around, after all",
           "imageUrl": "https://regmedia.co.uk/2022/09/19/shutterstock_bureaucratic_maze.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/19/indonesia_google_monopoly_investigation/",
-          "author": null,
-          "description": "<h4>PLUS: Qualys CEO says APAC has infosec advantages; Singapore's Sea ebbs in Americas; Toshiba's tepid takeover update; and more</h4> <p><strong>Asia In Brief</strong>  Indonesia's competition regulator, the Komisi Pengawas Persaingan Usaha (KPPU) has alleged that Google has violated local anti-monopoly laws by abusing its dominant position for the distribution of apps and its requirement that developers must use its payment systems.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/19/indonesia_google_monopoly_investigation/",
-          "publishedOn": "2022-09-19T00:58:10.000Z",
-          "wordCount": 2644,
-          "title": "Indonesia accuses Google of abusing monopoly",
-          "imageUrl": "https://regmedia.co.uk/2021/08/17/shutterstock_asia_as_circuit_board.jpg"
         }
       ]
     }

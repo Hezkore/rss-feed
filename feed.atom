@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-02T12:48:57.487Z</updated>
+    <updated>2022-10-02T13:42:32.996Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Söndagsmatiné: Att programmera på 80-talet]]></title>
+        <id>https://www.sweclockers.com/artikel/35008</id>
+        <link href="https://www.sweclockers.com/artikel/35008-sondagsmatine-att-programmera-pa-80-talet"/>
+        <updated>2022-10-02T13:31:07.000Z</updated>
+        <summary type="html"><![CDATA[För 40 år sedan var många av utmaningarna med programmering och digitalt skapande väsensskilda dagens motsvarigheter, något "The Coding Train" påminner om.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improved Control Flow Integrity (KCFI) Implementation Submitted For Linux 6.1]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-Clang-KCFI-Submitted</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-Clang-KCFI-Submitted"/>
+        <updated>2022-10-02T13:27:08.000Z</updated>
+        <summary type="html"><![CDATA[Along with the Rust infrastructure for Linux 6.1 pull request, another early pull submitted by kernel maintainer Kees Cook for Linux 6.1 is the introduction of a new Control Flow Integrity "CFI" implementation for the Linux kernel to replace the former, less-than-ideal code...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stenography alert: Backdoor spyware stashed in Microsoft logo]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/02/witchetty_malware_windows_logo/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/02/witchetty_malware_windows_logo/"/>
+        <updated>2022-10-02T12:56:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Now that's sticker shock</h4> <p>Internet snoops has been caught concealing spyware in an old Windows logo in an attack on governments in the Middle East.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10 years on, Resident Evil 6’s giraffe fellatio remains unparalleled]]></title>
         <id>https://www.vg247.com/10-years-on-resident-evil-6s-giraffe-fellatio-remains-unparalleled</id>
@@ -17841,44 +17871,6 @@ But once you start thinking about security, it gets more complicated. If I, as a
         <summary type="html"><![CDATA[Kanske bådar gott för framtiden?]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indonesia accuses Google of abusing monopoly]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/19/indonesia_google_monopoly_investigation/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/19/indonesia_google_monopoly_investigation/"/>
-        <updated>2022-09-19T00:58:10.000Z</updated>
-        <summary type="html"><![CDATA[<h4>PLUS: Qualys CEO says APAC has infosec advantages; Singapore's Sea ebbs in Americas; Toshiba's tepid takeover update; and more</h4> <p><strong>Asia In Brief</strong>  Indonesia's competition regulator, the Komisi Pengawas Persaingan Usaha (KPPU) has alleged that Google has violated local anti-monopoly laws by abusing its dominant position for the distribution of apps and its requirement that developers must use its payment systems.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Axel Beckert: wApua 0.06.4 released]]></title>
-        <id>http://noone.org/blog/English/Computer/Web/Browsers/wApua%200.06.4%20released.html</id>
-        <link href="http://noone.org/blog/English/Computer/Web/Browsers/wApua%200.06.4%20released.html"/>
-        <updated>2022-09-19T00:55:52.000Z</updated>
-        <summary type="html"><![CDATA[I today released version 0.06.4
-of my WAP WML browser wApua and also uploaded that release to Debian Unstable.
-
-
-
-
-It’s a bugfix release and the first upstream release since 2017.
-
-
-WAP WML pages with more recent DTD
-location URLs ending in .dtd instead of .xml
-(and some other small difference). No idea when these URLs changed,
-but I assume they have been changed to look more like the URLs of
-other DTDs. The old URLs of the DTD still work, but more recent WAP
-pages (yes, they do exist :-) seem to use the new DTD URLs, so there
-was a need to recognise them instead of throwing an annoying warning.
-
-
-the bug report!]]></summary>
-        <author>
-            <name>abe+blog@deuxchevaux.org (Axel Beckert)</name>
         </author>
     </entry>
 </feed>
