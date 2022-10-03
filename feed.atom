@@ -2,10 +2,84 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-03T02:09:17.873Z</updated>
+    <updated>2022-10-03T04:03:54.252Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Samsung’s Smart Monitor tries too hard to be clever]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/03/samsung_m8_smart_monitor_review/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/03/samsung_m8_smart_monitor_review/"/>
+        <updated>2022-10-03T04:01:06.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Barely adequate as a desktop alternative, but delightful as a dual purpose monitor</h4> <p><strong>Desktop Tourism</strong>  Samsung's vision for a smart monitor tantalizes: the company suggests you park your PC and instead use Bluetooth input devices to work with a monitor that bakes in a browser and Office 365. If you really need a PC, the device can remote into a PC or Mac.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ny trailer för WH40K: Darktide visar upp Zealot: Preacher-klassen]]></title>
+        <id>https://www.fz.se/artikel/291654</id>
+        <link href="https://www.fz.se/artikel/291654-ny-trailer-for-wh40k-darktide-visar-upp-zealot-preacher-klassen"/>
+        <updated>2022-10-03T03:49:40.000Z</updated>
+        <summary type="html"><![CDATA[En av de "arketyper" vi kommer kunna välja som.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russ Allbery: Review: Jingo]]></title>
+        <id>https://www.eyrie.org/~eagle/reviews/books/0-06-228020-1.html</id>
+        <link href="https://www.eyrie.org/~eagle/reviews/books/0-06-228020-1.html"/>
+        <updated>2022-10-03T03:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Review: Jingo, by Terry Pratchett
+
+    Series:
+    Discworld #21
+  
+Publisher:
+    Harper
+  
+Copyright:
+    1997
+  
+Printing:
+    May 2014
+  
+ISBN:
+    0-06-228020-1
+  
+Format:
+    Mass market
+  
+Pages:
+    455
+  
+
+
+    Not a muscle moved on Rust's face.  There was a clink as
+    Vimes's badge was set neatly on the table.
+
+
+
+    "I don't have to take this," Vimes said calmly.
+
+
+
+    "Oh, so you'd rather be a civilian, would you?"
+
+
+
+    "A watchman is a civilian, you inbred streak of pus!"
+
+The Last Continent in publication order, and by
+The Fifth Elephant thematically.
+
+
+Rating: 8 out of 10]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marco d'Itri: Debian bookworm on a Lenovo T14s Gen3 AMD]]></title>
         <id>tag:https:,2022:id_463</id>
@@ -16783,6 +16857,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Understanding the Fork Bomb :(){ :|:& };:  in Linux]]></title>
+        <id>https://itsfoss.com/?p=102066</id>
+        <link href="https://itsfoss.com/fork-bomb/"/>
+        <updated>2022-09-20T12:12:00.000Z</updated>
+        <summary type="html"><![CDATA[The :(){ :|:& };:  is a popular fork bomb for Linux systems. Learn how it works and what you can do to prevent such a malicious command.]]></summary>
+        <author>
+            <name>Sagar Sharma</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[FBI investigate hacker allegedly behind Rockstar GTA 6 leak]]></title>
         <id>https://www.eurogamer.net/fbi-investigating-hacker-who-claimed-to-have-breached-rockstar-and-uber</id>
         <link href="https://www.eurogamer.net/fbi-investigating-hacker-who-claimed-to-have-breached-rockstar-and-uber"/>
@@ -17617,218 +17701,6 @@ Chroming yourself, a sentence I never thought I'd write, will let you speed arou
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Return to Monkey Island is out now, Linux version due soon]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/return-to-monkey-island-is-out-now-linux-version-due-soon/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/return-to-monkey-island-is-out-now-linux-version-due-soon/"/>
-        <updated>2022-09-19T16:03:31.000Z</updated>
-        <summary type="html"><![CDATA[It's here at last. Terrible Toybox and Devolver Digital have today released Return to Monkey Island, and for fans of Native Linux ports one is on the way.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review: Return to Monkey Island is must-play point-and-click brilliance]]></title>
-        <id>https://arstechnica.com/?p=1882495</id>
-        <link href="https://arstechnica.com/?p=1882495"/>
-        <updated>2022-09-19T16:00:43.000Z</updated>
-        <summary type="html"><![CDATA[A spoiler-free reflection on an incredible return to Gilbert and Grossman's roots.]]></summary>
-        <author>
-            <name>Sam Machkovech</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Return to Monkey Island review - buried treasure]]></title>
-        <id>https://www.eurogamer.net/return-to-monkey-island-review-buried-treasure</id>
-        <link href="https://www.eurogamer.net/return-to-monkey-island-review-buried-treasure"/>
-        <updated>2022-09-19T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[My favourite Monkey Island story isn't about a puzzle or a character or a joke. It's not Stan and his hand-talking, or the severed head that can lead you through mazes. It's not actually a story from the game itself. It's to do with a friend of my wife's. This friend once admitted that, as a kid, whenever she had a story she wanted to tell her mum, her mum would always stop her at the start and say, with what I'm guessing was a heavy, deeply theatrical sigh, "Is this about Monkey Island?"
-
-
-I think about this a lot. A kid who was so in love with Monkey Island, who spoke about it with such granularity and such endless passion, that it made their mum grow wary of every fresh conversation. To this day whenever I'm particularly boring my wife will stop me and say, "Is this about Monkey Island?" Conversation ended. Conversation defeated.
-
-
-And of course the funny thing is, if there was ever a game worth talking about it's Monkey Island. Let me clarify: loads of games are worth talking about, but Monkey Island - the first one - is singular in how much it's worth telling people about. Things happened in that game that felt unprecedented back in the early 1990s. The scope of it, the richness of the Caribbean setting, the ease of the comedic tone. But also the set-pieces. The fact that the fourth wall was acknowledged and then shattered. As school kids playing this game in the evenings and weekends, game characters who were almost aware they were game characters - who were made to say things that they realised they hadn't chosen to say? Well, this felt almost illicit. Maths room, 9am on a Monday: You will not believe what happened in Monkey Island last night.
- 
-Read more]]></summary>
-        <author>
-            <name>Christian Donlan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Return To Monkey Island review: a perfect new entry into a beloved old series]]></title>
-        <id>https://www.rockpapershotgun.com/return-to-monkey-island-review</id>
-        <link href="https://www.rockpapershotgun.com/return-to-monkey-island-review"/>
-        <updated>2022-09-19T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[To plant my piratey flag up front, I am an extremely huge fan of the Monkey Island series, and am therefore almost exactly who Return To Monkey Island is aimed at. After several adventures with other devs, sometime-mighty pirate Guybrush Threepwood (a name that invites as many tedious jokes as Benedict Cumberbatch, which is a trap I won't be falling into) is back with his some of his original progenitors Ron Gilbert and Dave Grossman - Gilbert being the director for the first two Islands Monkey.
-I was expecting Return To Monkey Island to be a delightful croquembouche of point and click puzzles artfully piled up with puns and meta jokes, all slathered in the sticky, sugary caramel of nostalgia. And it is that. But I wasn't expecting it to contain a gentle rumination on getting old and figuring out what things are really worth caring about.
-Read more]]></summary>
-        <author>
-            <name>Alice Bell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DF Direct Weekly on PSVR2, State of Play and Nintendo Direct]]></title>
-        <id>https://www.eurogamer.net/digitalfoundry-2022-psvr2-state-of-play-nintendo-direct-ian-higton</id>
-        <link href="https://www.eurogamer.net/digitalfoundry-2022-psvr2-state-of-play-nintendo-direct-ian-higton"/>
-        <updated>2022-09-19T15:57:00.000Z</updated>
-        <summary type="html"><![CDATA[It's a shorter DF Direct blog this week - it's supposed to be a public holiday - but our weekly show goes live on YouTube as normal and it's a special one on two accounts. First of all, there's well over two hours of discussion to wade through, covering the latest Sony State of Play, last week's Nintendo Direct and the biggest news from the Tokyo Game Show. The second factor that makes this one rather special? That'll be a 40 minute (!) guest slot for none other than Eurogamer's Ian Higton!
-You may have watched and read Ian's excellent PlayStation VR 2 content last week - but we had questions about the new headset. Lots of them. As we didn't get to see the hardware in person, we pinned down Ian (not literally) and bombarded him with our queries. Rather obligingly, Ian was very forthcoming and his segment is the centrepiece of this week's show. Beyond that, it's about State of Play as we mull over the likes of God of War Ragnarok, Tekken 8 and Rise of the Ronin, while Alex has much to say about Capcom's ExoPrimal, which wasn't in the State of Play but ended up as a discussion point anyway.
-We also talk about the latest Nintendo Direct with titles including Octopath Traveller 2, Pikmin 4, Bayonetta 3, Radiant Silvergun and GoldenEye to look forward to, while there's also the matter of The Legend of Zelda: Tears of the Kingdom. Alex gets sweet, sweet revenge on his critics (on the matter of, um, volumetric clouds) and we ponder whether the game is still 'too big for Switch' 
- Read more]]></summary>
-        <author>
-            <name>Richard Leadbetter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FZ Play-extra - Return to Monkey Island!]]></title>
-        <id>https://www.fz.se/artikel/291510</id>
-        <link href="https://www.fz.se/artikel/291510-fz-play-extra-return-to-monkey-island"/>
-        <updated>2022-09-19T15:53:23.000Z</updated>
-        <summary type="html"><![CDATA[Wakkaah äventyrar i Ron Gilberts busfärska comeback!]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't want to get run over by a Ford car? There's a Bluetooth app for that]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/19/ford_tech_bluetooth/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/19/ford_tech_bluetooth/"/>
-        <updated>2022-09-19T15:49:59.000Z</updated>
-        <summary type="html"><![CDATA[<h4>That is, if the driver and/or car has very quick reflexes and a clear signal</h4> <p>Future Ford vehicles could be equipped with technology that lets drivers know if a pedestrian is dangerously close - even if they can't be seen.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Core i9-13900K letar sig ut i tidigt test]]></title>
-        <id>https://www.sweclockers.com/artikel/34947</id>
-        <link href="https://www.sweclockers.com/artikel/34947-intel-core-i9-13900k-letar-sig-ut-i-tidigt-test"/>
-        <updated>2022-09-19T15:41:29.000Z</updated>
-        <summary type="html"><![CDATA[Användare på sociala plattformen Bilibili har lagt vantarna på kommande Core i9-13900K, som får bekänna färg mot föregångaren Core i9-12900K.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox har inte gett upp hoppet om Final Fantasy XIV]]></title>
-        <id>https://www.fz.se/artikel/291507</id>
-        <link href="https://www.fz.se/artikel/291507-xbox-har-inte-gett-upp-hoppet-om-final-fantasy-xiv"/>
-        <updated>2022-09-19T15:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Phil Spencer fortsatt hoppfull.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dragon Ball: The Breakers gets an open beta this week, adds in best characters Farmer and Majin Buu]]></title>
-        <id>https://www.vg247.com/dragon-ball-the-breakers-open-beta</id>
-        <link href="https://www.vg247.com/dragon-ball-the-breakers-open-beta"/>
-        <updated>2022-09-19T15:20:56.000Z</updated>
-        <summary type="html"><![CDATA[Dragon Ball: The Breakers is getting an open beta this week, and those with green and pink thumbs will be happy to hear about the addition of Farmer and Majin Buu.
-
-
-While he's not the most memorable character in the world, Farmer did appear in a number of the various arcs in Dragon Ball Z, and now Bandai Namco has announced that you'll be able to play as him in the upcoming Dead by Daylight-like Dragon Ball: The Breakers. Most notably, he has a shotgun, but it probably isn't all that useful.
-
-
-Villains wise, considering he's on the boxart, we generally already knew that Majin Buu was going to be in the game, but the pink blob has been officially confirmed to be coming to the game, with all three of his forms to evolve through. Disgustingly, it looks like that if you do get swallowed up by the Super Buu you can run around his guts, and will possibly have a chance to escape. 
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A trip down memory lane: Andor “special look” reminds us how the story ends]]></title>
-        <id>https://arstechnica.com/?p=1882547</id>
-        <link href="https://arstechnica.com/?p=1882547"/>
-        <updated>2022-09-19T15:17:48.000Z</updated>
-        <summary type="html"><![CDATA[I spy with my little eye... a starfighter equipped with light sabers?]]></summary>
-        <author>
-            <name>Jennifer Ouellette</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rockstar confirms Grand Theft Auto VI leak came from “network intrusion”]]></title>
-        <id>https://arstechnica.com/?p=1882566</id>
-        <link href="https://arstechnica.com/?p=1882566"/>
-        <updated>2022-09-19T15:10:19.000Z</updated>
-        <summary type="html"><![CDATA[Roughly 50 minutes of video confirms Vice City setting, Latina protagonist.]]></summary>
-        <author>
-            <name>Kyle Orland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why is a small Swedish automaker a decade ahead of the rest of the industry?]]></title>
-        <id>https://arstechnica.com/?p=1882554</id>
-        <link href="https://arstechnica.com/?p=1882554"/>
-        <updated>2022-09-19T14:57:52.000Z</updated>
-        <summary type="html"><![CDATA["I didn't believe we could survive just doing what everyone else is doing."]]></summary>
-        <author>
-            <name>Jonathan M. Gitlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rockstar acknowledges gargantuan Grand Theft Auto 6 leak]]></title>
-        <id>https://www.eurogamer.net/rockstar-acknowledges-gargantuan-grand-theft-auto-6-leak</id>
-        <link href="https://www.eurogamer.net/rockstar-acknowledges-gargantuan-grand-theft-auto-6-leak"/>
-        <updated>2022-09-19T14:50:37.000Z</updated>
-        <summary type="html"><![CDATA[Rockstar has acknowledged the enormous Grand Theft Auto 6 leak of work-in-progress development materials that took place over the weekend.
-In a statement published this afternoon on Twitter, as the company returned to work, Rockstar admitted it had suffered a "network intrusion" - a hack - from which the early development footage of GTA 6 had been taken.
-Rockstar said it hoped the hack would have no impact on its live services - such as GTA Online - and insisted the leak would not impact the development of the game long-term. Still, Rockstar acknowleged it was "extremely disappointed" at what had happened.
- Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia Reportedly Asks TSMC to Rush Lucrative GPU Orders Before US-China Sanctions Bite]]></title>
-        <id>FUhzCJPLvZearCQyabkvpj</id>
-        <link href="https://www.tomshardware.com/news/nvidia-tsmc-rush-orders-before-china-sanctions"/>
-        <updated>2022-09-19T14:45:20.000Z</updated>
-        <summary type="html"><![CDATA[Nvidia will have to pay a premium to secure some 'super hot runs' but it will welcome the revenue from large Chinese orders for A100 and H100 GPUs.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resident Evil Village's Shadows of Rose DLC will be the last to focus on the Winters family]]></title>
-        <id>https://www.vg247.com/resident-evil-village-dlc-end-of-winters-story</id>
-        <link href="https://www.vg247.com/resident-evil-village-dlc-end-of-winters-story"/>
-        <updated>2022-09-19T14:37:25.000Z</updated>
-        <summary type="html"><![CDATA[Capcom has said that the upcoming Resident Evil Village DLC will be the last bit of story focused on the Winters family.
-
-
-Not sure if there's anyone that is particularly passionate about Ethan Winters and his family compared to other classic characters in the Resi series like cutie Leon, but for those out there that might want to know, the upcoming Shadows of Rose DLC will be the last to be all about the Winters family.
-
-
-In an interview with IGN Japan at Tokyo Game Show, director Kento Kinoshita said Capcom is "creating the Shadows of Rose story to conclude the Winters family saga." So essentially, expect some fresh faces in future entries, or at least to see older characters return as protagonists.
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberpunk 2077-regissör tackar spelarna för "en andra chans"]]></title>
-        <id>https://www.fz.se/artikel/291506</id>
-        <link href="https://www.fz.se/artikel/291506-cyberpunk-2077-regissor-tackar-spelarna-for-en-andra-chans"/>
-        <updated>2022-09-19T14:25:43.000Z</updated>
-        <summary type="html"><![CDATA[Paweł Sasko brister ut i (emoji)gråt.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rockstar bekräftar GTA 6-läckan - intrång låg bakom]]></title>
-        <id>https://www.fz.se/artikel/291505</id>
-        <link href="https://www.fz.se/artikel/291505-rockstar-bekraftar-gta-6-lackan-intrang-lag-bakom"/>
-        <updated>2022-09-19T14:13:10.000Z</updated>
-        <summary type="html"><![CDATA[Men arbetet fortsätter som planerat, lovar man.]]></summary>
-        <author>
-            <name>FZ.se</name>
         </author>
     </entry>
 </feed>
