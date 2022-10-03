@@ -131,6 +131,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/10/steam-next-fest-october-2022-edition-is-live-now/",
+          "author": "Liam Dawe",
+          "description": "Ready to try more game demos? Now is your chance once again as Steam Next Fest - October 2022 Edition is live.",
+          "link": "https://www.gamingonlinux.com/2022/10/steam-next-fest-october-2022-edition-is-live-now/",
+          "publishedOn": "2022-10-03T17:23:41.000Z",
+          "wordCount": 1210,
+          "title": "Steam Next Fest - October 2022 Edition is live now",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/974820731id21688gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/10/kde-steam-deck-akademy-2022/",
           "author": "Liam Dawe",
           "description": "Recently at the Akademy 2022 conference, KDE's David Edmundson gave a talk on the Steam Deck and the ongoing work in KDE to improve things.",
@@ -777,6 +787,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/bethesda-celebrating-fallouts-25th-anniversary-by-making-fallout-76-free-for-a-week",
+          "author": "Matt Wales",
+          "description": "This month marks 25 years since the release of Bethesda's much-loved post-apocalyptic RPG series Fallout, and the studio has now detailed its celebratory plans to mark the occassion, which includes making online spin-off Fallout 76 free to play for a week.\r\n\n\r\nFallout 76's Free Play week kicks off tomorrow, 4th October, giving players on all platforms the chance to explore post-nuclear Appalachia without making a purchase until 11th October. Prime Gaming subscribers, meanwhile, can get the PC version of Fallout 76 for nowt as part of their membership, starting today, 3rd October, until 1st November.\r\n\n\r\nEvidentally, the vast majority of Bethesda's Fallout celebrations will be focused on Fallout 76, with the studio also set to give Xbox Game Pass Ultimate subscribers a month of Fallout 1st - the paid membership service that includes access to the likes of private servers - via Xbox Game Pass Perks until 24th October.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/bethesda-celebrating-fallouts-25th-anniversary-by-making-fallout-76-free-for-a-week",
+          "publishedOn": "2022-10-03T17:03:04.000Z",
+          "wordCount": 4773,
+          "title": "Bethesda celebrating Fallout's 25th anniversary with a Fallout 76 Free Play week",
+          "imageUrl": "https://assets.reedpopcdn.com/fallout-art.png/BROK/thumbnail/1600x900/format/jpg/quality/80/fallout-art.png"
+        },
         {
           "id": "https://www.eurogamer.net/retro-studios-once-pitched-a-final-fantasy-tactics-like-zelda-game-to-nintendo",
           "author": "Victoria Kennedy",
@@ -4542,6 +4562,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-6.1-Memcpy-Dynamic-Warn",
+          "author": null,
+          "description": "A kernel hardening security improvement on the way for Linux 6.1 is the ability to provide warning of possible memcpy() based overflows. Right now this is only a warning but it's work towards being able to address \"trivially detectable\" buffer overflow conditions within the kernel and in the future may be able to block such overflows from happening...",
+          "link": "https://www.phoronix.com/news/Linux-6.1-Memcpy-Dynamic-Warn",
+          "publishedOn": "2022-10-03T17:30:00.000Z",
+          "wordCount": 1534,
+          "title": "Linux 6.1 Feature Would Have Caught All memcpy Based Buffer Overflows Of Recent Years",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/review/amd-rembrandt-pstate",
           "author": null,
           "description": "Before getting busy with the AMD Ryzen 7000 \"Zen 4\" desktop testing, I recently wrapped up some benchmarks looking at the ACPI CPUFreq vs. AMD P-State frequency scaling drivers and various governor options for the AMD Ryzen 6000 \"Rembrandt\" mobile SoCs. If you are curious about the impact of CPUFreq/P-State and the various governors for the latest AMD laptops running Linux, this round of testing is for you.",
@@ -5799,6 +5829,16 @@
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
         {
+          "id": "https://www.rockpapershotgun.com/13-great-steam-next-fest-demos-to-get-you-started-this-october",
+          "author": "Katharine Castle",
+          "description": "In case September didn't add enough new indie games to your burgeoning Steam wishlists, Valve are back today with another edition of their demo-packed Steam Next Fest, and we've been playing some of its many, many, many demos to help give you a few pointers on where to start. You can view the whole of October's Steam Next Fest right here if you'd rather just dive in headfirst, but below you'll find some hand-picked highlights we've been enjoying ahead of time - including a new Return Of The Obra Dinn-alike, a first-person skeleton shooter, an underwater citybuilders and a platformer where your gun is also an umbrella. \nRead more",
+          "link": "https://www.rockpapershotgun.com/13-great-steam-next-fest-demos-to-get-you-started-this-october",
+          "publishedOn": "2022-10-03T17:00:00.000Z",
+          "wordCount": 8905,
+          "title": "13 great Steam Next Fest demos to get you started this October",
+          "imageUrl": "https://assets2.rockpapershotgun.com/Steam-next-fest-october-2022english.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Steam-next-fest-october-2022english.jpg"
+        },
+        {
           "id": "https://www.rockpapershotgun.com/i-played-gloomwood-on-accidental-hard-mode-because-i-didnt-know-i-had-an-inventory",
           "author": "Alice Bell",
           "description": "A couple of weeks back you may remember that I played the early access build of Gloomwood, a very good Thief-like that currently snaps shut just as you reach the best bit. The Richard Gere holding a necklace of video games. One thing that I do not dwell on in my feature, though, is that I was hamstrung not just by the early access limitations of the game. For almost all of the first playthrough I did, I thought that you could neither heal nor store items in Gloomwood. I was like \"Wow, this is a really hardcore stealth sim.\"\nYou can, of course, do both of those things in Gloomwood. It's just, I am an idiot.\nRead more",
@@ -7045,6 +7085,51 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "g8Wyc7yvWJTVnLFt4RKcMF",
+          "author": null,
+          "description": "AMD's Ryzen 7 5700G is down to $232 at Amazon right now and even comes with a Wraith Stealth air cooler in the box. This APU also has built-in graphics, so it can be used without a GPU if the workload doesn't require one.",
+          "link": "https://www.tomshardware.com/news/amds-ryzen-7-5700g-down-to-dollar232-real-deals",
+          "publishedOn": "2022-10-03T17:14:09.000Z",
+          "wordCount": 23567,
+          "title": "AMD's Ryzen 7 5700G Down to $232: Real Deals",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/f6AjnYRupqUFuhr7brRhRc.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/f6AjnYRupqUFuhr7brRhRc.jpg"
+        },
+        {
+          "id": "XTGA4qcd9hBR6ZsE4nwGid",
+          "author": null,
+          "description": "Cooler Master has revealed the Synk X, a gaming chair that turns sound input into haptic feedback.",
+          "link": "https://www.tomshardware.com/news/cooler-master-synk-x",
+          "publishedOn": "2022-10-03T16:55:16.000Z",
+          "wordCount": 24523,
+          "title": "Cooler Master Synk X is a Gaming Chair With Corss-Platform Haptics",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/LzgHpjHs5n5XcfZd652jUb.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/LzgHpjHs5n5XcfZd652jUb.jpg"
+        },
+        {
+          "id": "oGP9nKE7bBcRw2H2pW4eSe",
+          "author": null,
+          "description": "Here are our favorite gaming laptops for every need, based on our testing and reviews.",
+          "link": "https://www.tomshardware.com/reviews/best-gaming-laptops,4828.html",
+          "publishedOn": "2022-10-03T16:44:03.000Z",
+          "wordCount": 26231,
+          "title": "Best Gaming Laptops of 2022",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/dkEx6momy9WazkfwuPRLJW.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/dkEx6momy9WazkfwuPRLJW.png"
+        },
         {
           "id": "9kUWJABcBdgDyFeHLe9Z3G",
           "author": null,
@@ -11564,6 +11649,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291666",
+          "author": null,
+          "description": "Sylens bryter tystnaden.",
+          "link": "https://www.fz.se/artikel/291666-expansion-horizon-forbidden-west-skadis-hintar-om-mer",
+          "publishedOn": "2022-10-03T16:58:00.000Z",
+          "wordCount": 1686,
+          "title": "Expansion...? Horizon Forbidden West-skådis hintar om mer",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291666"
+        },
+        {
           "id": "https://www.fz.se/artikel/291665",
           "author": null,
           "description": "Blir nästa Halo ett Unreal Engine 5-spel?",
@@ -14048,6 +14143,26 @@
       "siteUrl": "https://www.theregister.com/",
       "articles": [
         {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/cybersecurity_awareness_month/",
+          "author": null,
+          "description": "<h4>Technology is addressing many of the cyberthreats, but the human element will always be a factor</h4> <p>If you've ever found yourself in an interminable meeting listening to the CISO ramble on about the important role you play in protecting yourself and the company from cyberthreats, you could probably point an accusatory finger in large part at the National Cybersecurity Awareness Month (NCSAM) program.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/cybersecurity_awareness_month/",
+          "publishedOn": "2022-10-03T17:30:10.000Z",
+          "wordCount": 2208,
+          "title": "National Cybersecurity Awareness program 18 years on: Don't click that",
+          "imageUrl": "https://regmedia.co.uk/2017/01/27/skeptical-man.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/nsa_worker_fbi_espionage/",
+          "author": null,
+          "description": "<h4>Infosec systems designer alleged to have chatted with undercover agent</h4> <p>A 30-year-old former National Security Agency (NSA) employee arrested for allegedly trying to sell classified information was tied the crime by FBI investigators who claim they linked him to the printing of secret documents after communicating with someone offering them for sale online.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/nsa_worker_fbi_espionage/",
+          "publishedOn": "2022-10-03T17:00:07.000Z",
+          "wordCount": 1893,
+          "title": "FBI: We tracked who was printing secret documents to unmask ex-NSA suspect",
+          "imageUrl": "https://regmedia.co.uk/2022/08/15/shutterstock_print.jpg"
+        },
+        {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/debian_12/",
           "author": null,
           "description": "<h4>Vote result good news for new users, but might be bad for remixes</h4> <p>The next major release of Debian will ship installation images that are not 100 percent free open source software.…</p>",
@@ -16486,16 +16601,6 @@
           "wordCount": 1530,
           "title": "Creatives up in arms over claim that AI is killing human art",
           "imageUrl": "https://regmedia.co.uk/2018/11/28/woman_painting.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/china_to_shoot_tourists_into/",
-          "author": null,
-          "description": "<h4>Asserts Beijing can achieve parity with US capabilities within a decade, thanks to burgeoning private sector</h4> <p>China’s space tourism operators will lift off for first time in 2025 at between $280k-$400k per sub-orbital seat, according to the founder of Beijing-backed commercial launch service provider CAS Space, Yang Yiqiang.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/china_to_shoot_tourists_into/",
-          "publishedOn": "2022-09-20T05:31:15.000Z",
-          "wordCount": 1438,
-          "title": "China to launch space tourism by 2025, says industry veteran",
-          "imageUrl": "https://regmedia.co.uk/2021/05/19/astronaut.jpg"
         }
       ]
     }
