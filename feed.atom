@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-03T04:03:54.252Z</updated>
+    <updated>2022-10-03T05:46:53.493Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[CPU-X an Alternative to CPU-Z for Linux]]></title>
+        <id>https://itsfoss.com/?p=102336</id>
+        <link href="https://itsfoss.com/cpu-x-alternative-cpu-z-linux/"/>
+        <updated>2022-10-03T05:23:07.000Z</updated>
+        <summary type="html"><![CDATA[Popular Windows tool CPU-Z is not available for Linux. However, there is a similar tool called CPU-X. Check it out for getting CPU and other hardware info in Linux.]]></summary>
+        <author>
+            <name>Anuj Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flera tunga namn har "ofrivilligt" lämnat Disco Elysium-utvecklaren]]></title>
+        <id>https://www.fz.se/artikel/291655</id>
+        <link href="https://www.fz.se/artikel/291655-flera-tunga-namn-har-ofrivilligt-lamnat-disco-elysium-utvecklaren"/>
+        <updated>2022-10-03T04:46:26.000Z</updated>
+        <summary type="html"><![CDATA[Men en uppföljare är tydligen på väg.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Samsung’s Smart Monitor tries too hard to be clever]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/03/samsung_m8_smart_monitor_review/</id>
@@ -17579,128 +17599,6 @@ The SSH agent protocol abstracts key management out of SSH itself and into a sep
         <summary type="html"><![CDATA[Group claims to "give a voice" to small firms while fighting bills opposed by Apple.]]></summary>
         <author>
             <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Boasts About RDNA 3 Efficiency as RTX 40-Series Looms]]></title>
-        <id>UxYyVVtcKF7kxBdvX2wQjS</id>
-        <link href="https://www.tomshardware.com/news/amd-talks-rdna-3-efficiency"/>
-        <updated>2022-09-19T17:24:28.000Z</updated>
-        <summary type="html"><![CDATA[AMD talks about RDNA 3 efficiency gains just ahead of Nvidia's expected RTX 40-series reveal. The upcoming clash between AMD RDNA 3 and Nvidia Ada Lovelace will determine the success of the very different bets these fierce rivals have taken.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kiwi Farms has been breached; assume passwords and emails have been leaked]]></title>
-        <id>https://arstechnica.com/?p=1882607</id>
-        <link href="https://arstechnica.com/?p=1882607"/>
-        <updated>2022-09-19T17:18:22.000Z</updated>
-        <summary type="html"><![CDATA[Harassment site is down for now after hacker gains access to admin account.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Deck Q3 invites are all out early as Valve beats own production estimates (again)]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/steam-deck-q3-invites-are-all-out-early-as-valve-beats-own-production-estimates-again/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/steam-deck-q3-invites-are-all-out-early-as-valve-beats-own-production-estimates-again/"/>
-        <updated>2022-09-19T17:13:53.000Z</updated>
-        <summary type="html"><![CDATA[Again and again Valve has managed to speed up production of the Steam Deck, so much so that for reservations the Q3 era is over.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grand Theft Auto 6 maker confirms source code, vids stolen in cyber-heist]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/19/grand_theft_auto_6_hacked/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/19/grand_theft_auto_6_hacked/"/>
-        <updated>2022-09-19T17:12:15.000Z</updated>
-        <summary type="html"><![CDATA[<h4>So is that three or four stars?</h4> <p>Take-Two Interactive confirmed on Monday that its Rockstar Games subsidiary has been compromised and confidential data for Grand Theft Auto 6 has been stolen.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google’s Wi-Fi 6E router, the “Nest Wifi Pro,” gets briefly listed for $199]]></title>
-        <id>https://arstechnica.com/?p=1882595</id>
-        <link href="https://arstechnica.com/?p=1882595"/>
-        <updated>2022-09-19T17:01:54.000Z</updated>
-        <summary type="html"><![CDATA[It has Wi-Fi 6E, seemingly no Google Assistant, and Ethernet backhaul.]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shadow of Rose-dlc:et blir sista Resident Evil som fokuserar på Winters-familjen]]></title>
-        <id>https://www.fz.se/artikel/291508</id>
-        <link href="https://www.fz.se/artikel/291508-shadow-of-rose-dlcet-blir-sista-resident-evil-som-fokuserar-pa-winters-familjen"/>
-        <updated>2022-09-19T16:57:00.000Z</updated>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Antoine Beaupré: Looking at Wayland terminal emulators]]></title>
-        <id>https://anarc.at/blog/2022-09-19-wayland-terminal-emulators/</id>
-        <link href="https://anarc.at/blog/2022-09-19-wayland-terminal-emulators/"/>
-        <updated>2022-09-19T16:41:03.000Z</updated>
-        <summary type="html"><![CDATA[Back in 2018, I made a two part series about terminal emulators
-that was actually pretty painful to write. So I'm not going to retry
-this here, not at all. Especially since I'm not submitting this to the
-excellent LWN editors so I can get away with not being very good
-at writing. Phew.
-Still, it seems my future self will thank me for collecting my
-thoughts on the terminal emulators I have found out about since I
-wrote that article. Back then, Wayland was not quite at the level
-where it is now, being the default in Fedora (2016), Debian (2019),
-RedHat (2019), and Ubuntu (2021). Also, a bunch of folks thought they
-would solve everything by using OpenGL for rendering. Let's see how
-things stack up.
-Recap
-In the previous article, I touched on those projects:
- Terminal           
- Changes since…]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Preps Fixes For Linux 6.1, Still Working On Gang Submit]]></title>
-        <id>https://www.phoronix.com/news/AMDGPU-Linux-6.1-Mid-September</id>
-        <link href="https://www.phoronix.com/news/AMDGPU-Linux-6.1-Mid-September"/>
-        <updated>2022-09-19T16:30:49.000Z</updated>
-        <summary type="html"><![CDATA[In addition to Intel having closed out last week by submitting their last batch of feature updates to DRM-Next for kernel graphics driver changes slated for Linux 6.1, AMD engineers also did the same with their likely last major set of AMDGPU driver changes intended for this next kernel cycle...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Update Kills Undervolting and Overvolting on MSI Boards]]></title>
-        <id>Bn5js7WivE7JdzjFqwT4Xn</id>
-        <link href="https://www.tomshardware.com/news/windows-11-update-kills-overvolting-msi"/>
-        <updated>2022-09-19T16:12:42.000Z</updated>
-        <summary type="html"><![CDATA[A new Windows 11 update is reportedly blocking overclocking software support in the operating system on MSI motherboards supporting Intel CPUs. But the feature causing the problem is easy to disable.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fortnite's latest season embraces the chrome, adds in Brie Larson and Spider-Gwen]]></title>
-        <id>https://www.vg247.com/fortnite-chapter-4-season-3-chrome-brie-larson-spider-gwen</id>
-        <link href="https://www.vg247.com/fortnite-chapter-4-season-3-chrome-brie-larson-spider-gwen"/>
-        <updated>2022-09-19T16:05:17.000Z</updated>
-        <summary type="html"><![CDATA[Season 4 of Chapter 3 of Fortnite is here, titled Paradise, and along with it comes Brie Larson, Spider-Gwen, and a whole lot of chrome.
-
-
-In this latest season, a mysterious substance has appeared on the island, which is very chrome in look and presumably feel. Using a chrome splash has an interesting effect, where throwing it at a wall will let you literally just walk through it, which sounds like a fun way to mix things up.
-
-
-Chroming yourself, a sentence I never thought I'd write, will let you speed around as a blob while sprinting, and during the limited buff you'll be immune to fire damage. Being blobbed, as Epic Games puts it, will also make you immune to fall damage, and gives you a little air dash. Dashing into any building piece also chrome-ifys it, which as established, lets you phase through it.
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
         </author>
     </entry>
 </feed>
