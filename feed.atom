@@ -2,10 +2,115 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-03T09:33:54.590Z</updated>
+    <updated>2022-10-03T10:30:23.128Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[New Horizon Forbidden West content teased by actor Lance Reddick]]></title>
+        <id>https://www.eurogamer.net/new-horizon-forbidden-west-content-teased-by-actor-lance-reddick</id>
+        <link href="https://www.eurogamer.net/new-horizon-forbidden-west-content-teased-by-actor-lance-reddick"/>
+        <updated>2022-10-03T10:21:49.000Z</updated>
+        <summary type="html"><![CDATA[Lance Reddick, the man behind Horizon's Sylens, has teased upcoming content for Forbidden West.
+
+
+In a now-deleted tweet, the actor shared a short video of himself "hard at work" doing "face capture". 
+
+
+Reddick captioned this tweet: "... in a session for [Horizon Forbidden West]". 
+ 
+Read more]]></summary>
+        <author>
+            <name>Victoria Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayStation boss flew to Brussels to appeal Microsoft Call of Duty deal in person]]></title>
+        <id>https://www.eurogamer.net/playstation-boss-flew-to-brussels-to-appeal-microsoft-call-of-duty-deal-in-person</id>
+        <link href="https://www.eurogamer.net/playstation-boss-flew-to-brussels-to-appeal-microsoft-call-of-duty-deal-in-person"/>
+        <updated>2022-10-03T10:16:42.000Z</updated>
+        <summary type="html"><![CDATA[Boss of PlayStation Jim Ryan travelled to Brussels to meet EU regulators in person to discuss Microsoft's impending Activision Blizzard purchase.
+
+
+Ryan has been vocal in his criticism of the proposed $68bn deal, which would see Xbox own the Call of Duty publisher.
+
+Dealreporter (via VGC) reports that Ryan flew to Europe on 8th September to meet regulators and express his concerns face-to-face.
+ 
+Read more]]></summary>
+        <author>
+            <name>Tom Phillips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debian To Carry Patches For GNOME Dynamic Triple Buffering]]></title>
+        <id>https://www.phoronix.com/news/Debian-Dynamic-Triple-GNOME</id>
+        <link href="https://www.phoronix.com/news/Debian-Dynamic-Triple-GNOME"/>
+        <updated>2022-10-03T10:13:03.000Z</updated>
+        <summary type="html"><![CDATA[There's been a lot happening in Debian recently from improving their handling of non-free firmware to switching to PipeWire and WirePlumber with Debian 12. Another change on the way is picking up Ubuntu's work on dynamic triple buffering for the GNOME desktop...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Between ransomware and month-long engagements, IR teams need a hug — and a nap]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/03/ibm_incident_reponder_survey/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/03/ibm_incident_reponder_survey/"/>
+        <updated>2022-10-03T10:00:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Here's what 1,100 incident responders say about their jobs, just in time for NSCAM</h4> <p>Remember the good old days of cyber-incident response, when the job involved digital forensics and lots of stolen credit cards, as opposed to power-grid-breaking malware and multi-million-dollar ransom demands?…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.1 HWMON Nukes The Short-Lived ASUS Driver, Other Monitoring Improvements]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-HWMON</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-HWMON"/>
+        <updated>2022-10-03T09:58:43.000Z</updated>
+        <summary type="html"><![CDATA[Among the early pull requests sent in for the now-open Linux 6.1 merge window was the hardware monitoring "HWMON" subsystem updates...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fans jobbar på att släppa Duke Nukem Forever som det var 2001]]></title>
+        <id>https://www.fz.se/artikel/291660</id>
+        <link href="https://www.fz.se/artikel/291660-fans-jobbar-pa-att-slappa-duke-nukem-forever-som-det-var-2001"/>
+        <updated>2022-10-03T09:57:05.000Z</updated>
+        <summary type="html"><![CDATA[Bygger på demoversionen från E3 2001.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proton Experimental updates fix up Indiana Jones, Final Fantasy IV (3D Remake)]]></title>
+        <id>https://www.gamingonlinux.com/2022/10/proton-experimental-updates-fix-up-indiana-jones-final-fantasy-iv-3d-remake/</id>
+        <link href="https://www.gamingonlinux.com/2022/10/proton-experimental-updates-fix-up-indiana-jones-final-fantasy-iv-3d-remake/"/>
+        <updated>2022-10-03T09:46:33.000Z</updated>
+        <summary type="html"><![CDATA[Valve has recently put up a fresh update for Proton Experimental, bringing more game compatibility and some fixes.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.1 Adding Support To statx() For Reporting Direct I/O Alignment Details]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-statx-DIO-Alignment</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-statx-DIO-Alignment"/>
+        <updated>2022-10-03T09:42:58.000Z</updated>
+        <summary type="html"><![CDATA[Mainlined back in 2017 was the statx() call for reporting enhanced file information and stats like finally reporting a file's creation time, data version numbers, and other attributes. Statx has continued evolving since its introduction in Linux 4.11 and now for Linux 6.1 is being expected to support reporting direct I/O alignment information...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bank of England puts cloud analytics on todo list after seeing off market collapse]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/03/bank_of_england_dta_analytics/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/03/bank_of_england_dta_analytics/"/>
+        <updated>2022-10-03T09:30:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Data more essential than ever, says analytics chief as Liz Truss U-turns on tax, and world+dog remembers Bank's there to manage risk</h4> <p>The Bank of England had a busy end to September. On Wednesday last week, it said it would buy £65 billion (c $72 billion) of government bonds after the pound tumbled to historic lows and pensions funds went into meltdown, all seemingly the result of the government's mini-budget days earlier.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GNU Linux-libre 6.0 Released After More Blob Cleaning]]></title>
         <id>https://www.phoronix.com/news/GNU-Linux-Libre-6.0</id>
@@ -17567,16 +17672,6 @@ The SSH agent protocol abstracts key management out of SSH itself and into a sep
         <summary type="html"><![CDATA[<h4>From annoying MFA alerts to 'several internal systems' infiltrated</h4> <p>Uber, four days after suffering a substantial cybersecurity breach, has admitted its attacker accessed "several internal systems" including the corporation's G Suite account, and downloaded internal Slack messages and a tool used by its finance department to manage "some" invoices.…</p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Big gaming companies get DHS help to keep players from becoming terrorists]]></title>
-        <id>https://arstechnica.com/?p=1882731</id>
-        <link href="https://arstechnica.com/?p=1882731"/>
-        <updated>2022-09-19T22:08:02.000Z</updated>
-        <summary type="html"><![CDATA[Researchers target online gaming companies like Activision and Roblox.]]></summary>
-        <author>
-            <name>Ashley Belanger</name>
         </author>
     </entry>
 </feed>
