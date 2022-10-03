@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-03T17:45:26.331Z</updated>
+    <updated>2022-10-03T18:37:03.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[It's 2058. A quantum computer is just another decade away. Still, you curse Cloudflare]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/03/cloudflare_postquantum_cryptography/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/03/cloudflare_postquantum_cryptography/"/>
+        <updated>2022-10-03T18:22:38.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Assuming this Kyber TLS stuff works as expected</h4> <p>Cloudflare is the first major internet infrastructure provider to support post-quantum cryptography for all customers, which, in theory, should protect data if quantum computing ever manages to break today's encryption technologies.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[National Cybersecurity Awareness program 18 years on: Don't click that]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/03/cybersecurity_awareness_month/</id>
