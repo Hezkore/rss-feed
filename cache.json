@@ -769,16 +769,6 @@
           "wordCount": 1253,
           "title": "Intel announce their NUC 12 Enthusiast Mini PC and Kit with Arc graphics",
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/957376937id21625gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/09/steam-bash-bash-event-now-live-with-demos-and-discounts/",
-          "author": "Liam Dawe",
-          "description": "The latest Steam event is now live with Steam Bash Bash, a celebration of various types of fighting games.",
-          "link": "https://www.gamingonlinux.com/2022/09/steam-bash-bash-event-now-live-with-demos-and-discounts/",
-          "publishedOn": "2022-09-20T09:24:17.000Z",
-          "wordCount": 1225,
-          "title": "Steam Bash Bash event now live with demos and discounts",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1336078160id21623gol.jpg"
         }
       ]
     },
@@ -787,6 +777,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/this-is-the-moment-overwatch-1-died-forever",
+          "author": "Matt Wales",
+          "description": "Six years after its launch, the original Overwatch is no more, with Blizzard having now forever pulled the plug on the game in preparation for Overwatch 2's free-to-play arrival tomorrow.\r\n\n\r\nFans gathered earlier today to witness the final moments of Overwatch, recording the momentous occasion for posterity. Despite its place in the gaming pantheon, though, it met an unceremonious end, blinking out of existing with a simple \"disconnected\" message.\r\n\n\r\nA few official lobby chat server messages did at least attempt to imbue the occasion with some import, telling players, \"Even the best journeys end, but a new one is right around the corner. Thank you, heroes! See you October 4th!\". A final message ahead of Overwatch 1's oblivion simply read, \"See you on the other side\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/this-is-the-moment-overwatch-1-died-forever",
+          "publishedOn": "2022-10-03T20:37:36.000Z",
+          "wordCount": 4649,
+          "title": "This is the moment Overwatch 1 died forever",
+          "imageUrl": "https://assets.reedpopcdn.com/overwatch-release-time-shutdown.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/overwatch-release-time-shutdown.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/eas-dead-space-remake-getting-first-official-gameplay-reveal-tomorrow",
           "author": "Matt Wales",
@@ -3336,16 +3336,6 @@
           "wordCount": 4637,
           "title": "YouTuber slips up, reveals he was behind \"Insider\" Twitter account which leaked Ubisoft details and more",
           "imageUrl": "https://assets.reedpopcdn.com/mirage_I8wzLTO.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/mirage_I8wzLTO.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/off-topic-reading-city-of-glass-in-comic-form",
-          "author": "Christian Donlan",
-          "description": "I first read Paul Auster when I was at university. A tutor recommended The Music of Chance, I think, and I ended up reading all of his stuff in one of those bursts of love you sometimes get for writers. Then, I sort of dropped out of the Auster business. At the beginning of lockdown, I re-read Leviathan, on a whim, and didn't love it. I re-read The New York Trilogy, which I had adored the first time around, and thought it was fine.\r\n\n\r\nAuster's a weird writer, and he's weird in a way that no other writer I've encountered is weird. He's playful yet also humourless. Is that combination even possible? Auster suggests it is: his stuff is filled with games and allusions and illusions, riffs on Don Quixote or Tesla  - but you can't really imagine any of his protagonists ever laughing, and his text unfolds elegantly while being scrubbed clean of much in the way of character.\r\n\n\r\nHe reminds me, in a way, of Magritte, and not just because of the way Auster flirts with surrealism. Magritte paints magical things, but in the most pedestrian manner. That's not a knock on him - it's part of the effect. Astonishing things happen to Auster characters, but they describe their adventures as if they're describing a trip to the grocery store.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/off-topic-reading-city-of-glass-in-comic-form",
-          "publishedOn": "2022-09-20T09:00:00.000Z",
-          "wordCount": 4295,
-          "title": "Off Topic: Reading City of Glass in comic form",
-          "imageUrl": "https://assets.reedpopcdn.com/New-York.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/New-York.jpg"
         }
       ]
     },
@@ -4571,6 +4561,16 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.1-ACPI-PM",
+          "author": null,
+          "description": "The ACPI, power management, and thermal subsystem pull requests have been sent in for the in-development Linux 6.1 kernel...",
+          "link": "https://www.phoronix.com/news/Linux-6.1-ACPI-PM",
+          "publishedOn": "2022-10-03T20:30:00.000Z",
+          "wordCount": 1569,
+          "title": "AMD P-State Fixes, Fixing s2idle For Some Rembrandt Laptops Lead ACPI/PM For Linux 6.1",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Git-2.38-Released",
           "author": null,
@@ -9708,6 +9708,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "http://flossexperiences.wordpress.com/?p=7571",
+          "author": null,
+          "description": "Death Certificate\nAfter waiting for almost two, two, and a half months, I finally got mum’s death certificate last week. A part of me was saddened as it felt like I was nailing her or putting nails to the coffin or whatever it is, (even though I’m an Agarwal) I just felt sad and awful. I was told just get a death certificate and your problems will be over. Some people wanted me to give some amount under the table or something which I didn’t want to party of and because of that perhaps it took a month, month and a half more as I came to know later that it had been issued almost a month and a half back.  The inflation over the last 8 years of the present Govt. has made the corrupt even more corrupt, all the while projecting and telling others that the others are corrupt. There had been also …",
+          "link": "https://flossexperiences.wordpress.com/2022/10/04/death-certificate-legal-heir-succession-certificate-and-indian-beaureacracy/",
+          "publishedOn": "2022-10-03T21:00:44.000Z",
+          "wordCount": 5029,
+          "title": "Shirish Agarwal: Death Certificate, Legal Heir, Succession Certificate, and Indian Beaureacracy.",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "http://bonedaddy.net/pabs3/log/2022/10/03/floss-activities/",
           "author": null,
           "description": "Focus\nThis month I didn't have any particular focus.\nI just worked on issues in my info bubble.\nChanges\nhalibut:\nadd documentation generator metadata\nmpv-mpris:\nfix tests\nduck:\nobsolete site indicators\ndevscripts:\nfix example,\nadd experimental pseudo-excuses\ndpkg-repack:\nshow dpkg-deb cmd\nDebian QA services:\nadd\nexperimental pseudo-excuses,\nimprove excuses page\nDebian usertags:\nfixed ports, lintian usertags\nDebian package uploads:\nmpv-mpris backport\nDebian wiki pages:\nArchitectureSpecificsMemo,\nDebianArt/Themes/Emerald,\nDebianDesktop/Artwork\n(Bookworm),\nDebianLogo,\nDeveloperNews,\nFPGA,\nGnome,\nHomeAssistant,\nInstructionSelection\n(1\n2),\nLTS,\nPackageKit,\nPipeWire,\nSalsa/support,\nServices,\nServicesHosting,\nSIMDEverywhere,\nSimpleBackportCreation,\nspotify,\nSystemBuildTools,\nThomasChung,\nUsingSym…",
@@ -13237,16 +13247,6 @@
           "wordCount": 1752,
           "title": "Star Citizen har nu dragit in en halv miljard dollar!",
           "imageUrl": "https://www.fz.se/artikel/og-image/291516"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291515",
-          "author": null,
-          "description": "En lyckad återvändo.",
-          "link": "https://www.fz.se/artikel/291515-return-to-monkey-island-far-riktigt-bra-betyg",
-          "publishedOn": "2022-09-20T08:54:00.000Z",
-          "wordCount": 1787,
-          "title": "Return to Monkey Island får riktigt bra betyg",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291515"
         }
       ]
     },
@@ -13854,16 +13854,6 @@
           "wordCount": 1710,
           "title": "AMD:s VD Lisa Su är huvudtalare på CES 2023",
           "imageUrl": "https://www.sweclockers.com/artikel/34953/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34952",
-          "author": null,
-          "description": "Utvecklaren tror inte att den omfattande läckan påverkar nutid eller framtid, och lovar fler uppdateringar framöver.",
-          "link": "https://www.sweclockers.com/artikel/34952-rockstar-games-bekraftar-stulna-grand-theft-auto-vi-videor",
-          "publishedOn": "2022-09-20T08:44:52.000Z",
-          "wordCount": 1765,
-          "title": "Rockstar Games bekräftar stulna Grand Theft Auto VI-videor",
-          "imageUrl": "https://www.sweclockers.com/artikel/34952/og-image"
         }
       ]
     },
@@ -14162,6 +14152,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/remote_work_real_estate_values/",
+          "author": null,
+          "description": "<h4>Commercial 'apocalypse' now – and worse is yet to come, apparently</h4> <p>The surge in remote work, and a decline in demand for office space, during the COVID-19 pandemic has apparently wiped an estimated $453 billion off commercial real-estate value. That's not good news for investors and pension funds relying on the value of these buildings.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/remote_work_real_estate_values/",
+          "publishedOn": "2022-10-03T21:03:08.000Z",
+          "wordCount": 1339,
+          "title": "Remote work wipes $453b off office real estate",
+          "imageUrl": "https://regmedia.co.uk/2020/04/07/shutterstock_empty_office.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/tiktok_tracking_pixels/",
           "author": null,
@@ -16621,16 +16621,6 @@
           "wordCount": 1656,
           "title": "Excel's comedy of errors needs a new script, not new scripting",
           "imageUrl": "https://regmedia.co.uk/2022/01/20/excel.png"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/linux_foundation_europe/",
-          "author": null,
-          "description": "<h4>Plans to drive more open source – and more transparency – into public sector</h4> <p><strong>Open Source Summit</strong>  The body behind the biggest open source project in the world has opened a European division.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/linux_foundation_europe/",
-          "publishedOn": "2022-09-20T08:30:11.000Z",
-          "wordCount": 1158,
-          "title": "Linux Foundation launches European division",
-          "imageUrl": "https://regmedia.co.uk/2016/09/15/eu_flag_photo_via_shutterstock.jpg"
         }
       ]
     }
