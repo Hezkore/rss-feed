@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-03T05:46:53.493Z</updated>
+    <updated>2022-10-03T06:43:18.630Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Moody's turns up the heat on 'riskiest' sectors for cyberattacks]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/03/moodys_cyber_risk_ratings/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/03/moodys_cyber_risk_ratings/"/>
+        <updated>2022-10-03T06:33:06.000Z</updated>
+        <summary type="html"><![CDATA[<h4>$22 trillion of global rated debt has 'high' or 'very high' cyber-risk exposure</h4> <p>About $22 trillion of global debt rated by Moody's Investors Service has "high," or "very high" cyber-risk exposure, with electric, gas and water utilities, as well as hospitals, among the sectors facing the highest risk of cyberattacks.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CPU-X an Alternative to CPU-Z for Linux]]></title>
         <id>https://itsfoss.com/?p=102336</id>
@@ -17549,56 +17559,6 @@ The SSH agent protocol abstracts key management out of SSH itself and into a sep
         <summary type="html"><![CDATA[Biden's "over" comment highlights our complicated, precarious pandemic status.]]></summary>
         <author>
             <name>Beth Mole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Måndagsmys till 20 minuter från Octopath Traveller II]]></title>
-        <id>https://www.fz.se/artikel/291509</id>
-        <link href="https://www.fz.se/artikel/291509-mandagsmys-till-20-minuter-fran-octopath-traveller-ii"/>
-        <updated>2022-09-19T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Varning för en överdos av jrpg-värme.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Komplett kan ha oavsiktligt förutspått Nvidias kommande modellnamn]]></title>
-        <id>https://www.sweclockers.com/artikel/34949</id>
-        <link href="https://www.sweclockers.com/artikel/34949-komplett-kan-ha-oavsiktligt-forutspatt-nvidias-kommande-modellnamn"/>
-        <updated>2022-09-19T18:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Uppdaterad! På sin norska webbplats lägger Komplett upp information om Nvidias kommande arkitektur "Ada Lovelace" med tillhörande modellnamn.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Komplett bekräftar Geforce RTX 4090, RTX 4080, RTX 4070 och RTX 4060]]></title>
-        <id>https://www.sweclockers.com/artikel/34949</id>
-        <link href="https://www.sweclockers.com/artikel/34949-komplett-bekraftar-geforce-rtx-4090-rtx-4080-rtx-4070-och-rtx-4060"/>
-        <updated>2022-09-19T18:11:24.000Z</updated>
-        <summary type="html"><![CDATA[På sin norska webbplats lägger Komplett upp information om Nvidias kommande arkitektur "Ada Lovelace" med tillhörande modellnamn.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iPhone 14 iFixit teardown shows Apple's learning on repairs]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/19/iphone_14s_ifixit/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/19/iphone_14s_ifixit/"/>
-        <updated>2022-09-19T18:00:08.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Or was forced into a rethink by legislation</h4> <p><strong>Video</strong>  The iPhone 14 harbors a secret that's a pretty big deal: The internals have been redesigned to make it more repairable, says iFixit. …</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple is top funder of lobby group that says it represents small developers]]></title>
-        <id>https://arstechnica.com/?p=1882617</id>
-        <link href="https://arstechnica.com/?p=1882617"/>
-        <updated>2022-09-19T17:52:47.000Z</updated>
-        <summary type="html"><![CDATA[Group claims to "give a voice" to small firms while fighting bills opposed by Apple.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
         </author>
     </entry>
 </feed>
