@@ -4292,6 +4292,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/GNU-Linux-Libre-6.0",
+          "author": null,
+          "description": "Following yesterday's release of the upstream Linux 6.0 kernel, the GNU FSFLA folks have released GNU Linux-libre 6.0 as their downstream that removes driver support for loading binary firmware/microcode and the ability to load non-free-software kernel modules...",
+          "link": "https://www.phoronix.com/news/GNU-Linux-Libre-6.0",
+          "publishedOn": "2022-10-03T09:29:11.000Z",
+          "wordCount": 1321,
+          "title": "GNU Linux-libre 6.0 Released After More Blob Cleaning",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-6.0-Released",
           "author": null,
           "description": "Linus Torvalds just promoted Linux 6.0 to stable on-schedule and thereby now ushering in the Linux 6.1 merge window to officially get underway tomorrow...",
@@ -8884,21 +8894,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/MqbsfhJ2erAeLtgEdByjLP.jpg"
-        },
-        {
-          "id": "hofSZipdpzmSTsi2S7o5DH",
-          "author": null,
-          "description": "Intel CEO Pat Gelsinger has confirmed in a tweet that Arc A770 will be coming to retail soon. Will it come to retail outside of China, though? That's the real question.",
-          "link": "https://www.tomshardware.com/news/intel-ceo-confirms-arc-a770-coming-to-retail-somewhere",
-          "publishedOn": "2022-09-19T20:50:24.000Z",
-          "wordCount": 21868,
-          "title": "Intel CEO Says Arc Gaming GPUs Will Hit Retail, Somewhere",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/BaUH4ACMEdjpadNSb6JahT.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/BaUH4ACMEdjpadNSb6JahT.jpg"
         }
       ]
     },
@@ -10898,6 +10893,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291658",
+          "author": null,
+          "description": "Bra eller ... mindre bra?",
+          "link": "https://www.fz.se/artikel/291658-disney-sags-vilja-slappa-tva-star-wars-spel-om-aret",
+          "publishedOn": "2022-10-03T09:03:00.000Z",
+          "wordCount": 1894,
+          "title": "Disney sägs vilja släppa två Star Wars-spel om året",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291658"
+        },
         {
           "id": "https://www.fz.se/artikel/291657",
           "author": null,

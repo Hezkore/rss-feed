@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-03T08:36:06.730Z</updated>
+    <updated>2022-10-03T09:33:54.590Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[GNU Linux-libre 6.0 Released After More Blob Cleaning]]></title>
+        <id>https://www.phoronix.com/news/GNU-Linux-Libre-6.0</id>
+        <link href="https://www.phoronix.com/news/GNU-Linux-Libre-6.0"/>
+        <updated>2022-10-03T09:29:11.000Z</updated>
+        <summary type="html"><![CDATA[Following yesterday's release of the upstream Linux 6.0 kernel, the GNU FSFLA folks have released GNU Linux-libre 6.0 as their downstream that removes driver support for loading binary firmware/microcode and the ability to load non-free-software kernel modules...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disney sägs vilja släppa två Star Wars-spel om året]]></title>
+        <id>https://www.fz.se/artikel/291658</id>
+        <link href="https://www.fz.se/artikel/291658-disney-sags-vilja-slappa-tva-star-wars-spel-om-aret"/>
+        <updated>2022-10-03T09:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Bra eller ... mindre bra?]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NVIDIA Vulkan Beta driver 515.49.19 is out now, driver 515.76 causing problems]]></title>
         <id>https://www.gamingonlinux.com/2022/10/nvidia-vulkan-beta-driver-5154919-is-out-now-driver-51576-causing-problems/</id>
@@ -17557,16 +17577,6 @@ The SSH agent protocol abstracts key management out of SSH itself and into a sep
         <summary type="html"><![CDATA[Researchers target online gaming companies like Activision and Roblox.]]></summary>
         <author>
             <name>Ashley Belanger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel CEO Says Arc Gaming GPUs Will Hit Retail, Somewhere]]></title>
-        <id>hofSZipdpzmSTsi2S7o5DH</id>
-        <link href="https://www.tomshardware.com/news/intel-ceo-confirms-arc-a770-coming-to-retail-somewhere"/>
-        <updated>2022-09-19T20:50:24.000Z</updated>
-        <summary type="html"><![CDATA[Intel CEO Pat Gelsinger has confirmed in a tweet that Arc A770 will be coming to retail soon. Will it come to retail outside of China, though? That's the real question.]]></summary>
-        <author>
-            <name>Tomshardware</name>
         </author>
     </entry>
 </feed>
