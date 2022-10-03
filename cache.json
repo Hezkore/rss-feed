@@ -141,6 +141,26 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/10/nvidia-vulkan-beta-driver-5154919-is-out-now-driver-51576-causing-problems/",
+          "author": "Liam Dawe",
+          "description": "NVIDIA have done another new release to their developer-focused Vulkan Beta driver with 515.49.19 out now.",
+          "link": "https://www.gamingonlinux.com/2022/10/nvidia-vulkan-beta-driver-5154919-is-out-now-driver-51576-causing-problems/",
+          "publishedOn": "2022-10-03T08:31:11.000Z",
+          "wordCount": 1134,
+          "title": "NVIDIA Vulkan Beta driver 515.49.19 is out now, driver 515.76 causing problems",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/tagline_gallery/nvidia-logo.jpg"
+        },
+        {
+          "id": "https://www.gamingonlinux.com/2022/10/linux-kernel-60-is-out-now/",
+          "author": "Liam Dawe",
+          "description": "The latest and great version of the Linux kernel has been released with Linux 6.0 out now. Linus Torvalds was also given an award from Intel recently.",
+          "link": "https://www.gamingonlinux.com/2022/10/linux-kernel-60-is-out-now/",
+          "publishedOn": "2022-10-03T08:20:11.000Z",
+          "wordCount": 1156,
+          "title": "Linux kernel 6.0 is out now",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1832642616id21682gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/09/heres-the-top-10-most-played-games-on-steam-deck-for-september-2022/",
           "author": "Liam Dawe",
           "description": "As another month comes to a close, Valve has revealed what is currently popular on the Steam Deck based on the most hours played.",
@@ -727,6 +747,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/horizon-zero-dawn-playstation-5-remaster-reportedly-in-the-works",
+          "author": "Victoria Kennedy",
+          "description": "New reports claim a remaster of Guerrilla's Horizon Zero Dawn is currently in the works for the PS5. \r\n\n\r\nOriginally revealed by MP1st, this remaster will allegedly bring Zero Dawn closer in terms of visuals to its successor, Forbidden West. \r\n\n\r\nWhile, at the time of writing, it is unclear whether this is a \"from the ground up\" remake of the 2017 title, it is claimed that this version of Zero Dawn will see new character models, improvements to the game's lighting system and animations, and \"overhauled textures\". \r\n \nRead more",
+          "link": "https://www.eurogamer.net/horizon-zero-dawn-playstation-5-remaster-reportedly-in-the-works",
+          "publishedOn": "2022-10-03T08:22:48.000Z",
+          "wordCount": 4702,
+          "title": "Horizon Zero Dawn PlayStation 5 remaster reportedly in the works",
+          "imageUrl": "https://assets.reedpopcdn.com/hzd.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/hzd.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/new-world-players-have-clocked-up-5691-million-in-game-hours-over-the-last-year",
           "author": "Vikki Blake",
@@ -5440,16 +5470,6 @@
           "wordCount": 1383,
           "title": "LLVM 15.0.1 Released With Nearly Three Dozen Fixes",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/RadeonSI-VCN-LTR-Encode",
-          "author": null,
-          "description": "Merged today for Mesa 22.3 is support with the RadeonSI Gallium3D driver's Video Core Next (VCN) code to support video encoding with LTR mode...",
-          "link": "https://www.phoronix.com/news/RadeonSI-VCN-LTR-Encode",
-          "publishedOn": "2022-09-19T19:55:48.000Z",
-          "wordCount": 1611,
-          "title": "Amazon Engineer Adds LTR Encode Support To Open-Source AMD Radeon Linux Driver",
-          "imageUrl": null
         }
       ]
     },
@@ -8879,21 +8899,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/BaUH4ACMEdjpadNSb6JahT.jpg"
-        },
-        {
-          "id": "CRvxNeWLL3RfbxK98C5qwP",
-          "author": null,
-          "description": "According to Igor's Lab, EVGA's decision to leave the GPU market might have been related to issues developing in-house, as a secondary problem.",
-          "link": "https://www.tomshardware.com/news/igors-lab-evga-decision-leaving-gpus-is-its-fault",
-          "publishedOn": "2022-09-19T20:10:11.000Z",
-          "wordCount": 21933,
-          "title": "EVGA's Manufacturing, Consumer Policies Minimized GPU Profits, Report",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/FgNR2WN4VERdi4VdMS4BrE.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/FgNR2WN4VERdi4VdMS4BrE.png"
         }
       ]
     },
@@ -10885,36 +10890,6 @@
           "wordCount": 2417,
           "title": "Big gaming companies get DHS help to keep players from becoming terrorists",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1391417006-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1882678",
-          "author": "Andrew Cunningham",
-          "description": "Bug is most likely an issue with the optical image stabilization system.",
-          "link": "https://arstechnica.com/?p=1882678",
-          "publishedOn": "2022-09-19T19:53:21.000Z",
-          "wordCount": 1383,
-          "title": "Apple plans a fix for “grinding,” “vibrating” iPhone 14 Pro Max cameras next week",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/iphone-14-pro-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1882707",
-          "author": "Jonathan M. Gitlin",
-          "description": "Production of the EV for European customers has already begun in Hannover.",
-          "link": "https://arstechnica.com/?p=1882707",
-          "publishedOn": "2022-09-19T19:48:28.000Z",
-          "wordCount": 1324,
-          "title": "After strong interest, VW plans to build 130,000 ID Buzzes a year",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/ID-Buzzes-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1882610",
-          "author": "Samuel Axon",
-          "description": "iFixit calls it the biggest redesign since the iPhone X—but only on the inside.",
-          "link": "https://arstechnica.com/?p=1882610",
-          "publishedOn": "2022-09-19T19:39:58.000Z",
-          "wordCount": 1550,
-          "title": "iPhone 14 teardown: One key change makes it much easier to repair",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/iPhone-14-middle-760x380.jpeg"
         }
       ]
     },
@@ -10923,6 +10898,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291657",
+          "author": null,
+          "description": "Och det är ett live service-spel – hurraaaaaa!",
+          "link": "https://www.fz.se/artikel/291657-god-of-wars-pc-portare-jobbar-pa-ett-spel-med-stort-playstation-ip",
+          "publishedOn": "2022-10-03T08:01:00.000Z",
+          "wordCount": 1868,
+          "title": "God of Wars pc-portare jobbar på ett spel med stort Playstation-IP",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291657"
+        },
         {
           "id": "https://www.fz.se/artikel/291656",
           "author": null,
@@ -12421,6 +12406,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/35005",
+          "author": null,
+          "description": "Att jonglera flera jobb och flera arbetsgivare från hemmakontoret blev en vanligare företeelse under pandemin, inte minst inom IT.",
+          "link": "https://www.sweclockers.com/artikel/35005-dubbla-it-jobb-fran-hemmakontoret-blev-trend-under-pandemin",
+          "publishedOn": "2022-10-03T07:37:01.000Z",
+          "wordCount": 1924,
+          "title": "Dubbla IT-jobb från hemmakontoret blev trend under pandemin",
+          "imageUrl": "https://www.sweclockers.com/artikel/35005/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/35010",
           "author": null,
           "description": "Processornytt från både Intel och AMD blandas med Googles senaste Stadia-besked och inslag om grafikkort. Minns du alla detaljer?",
@@ -13297,6 +13292,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/open_internet_opinion_column/",
+          "author": null,
+          "description": "<h4>It’ll take an army of billions to hold them back. Let’s make one</h4> <p><strong>Opinion</strong>  China and Russia have been colluding to try to get a Chinese Internet protocol, New IP, adopted as a global standard. It's needed, they say, to improve quality of service guarantees. (Oh, and by the way, it also lets countries take complete control of their national networks, adding user registration requirements and shutting off interoperability.)…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/open_internet_opinion_column/",
+          "publishedOn": "2022-10-03T08:30:11.000Z",
+          "wordCount": 1491,
+          "title": "The open internet repels its most insidious attackers. They’ll return",
+          "imageUrl": "https://regmedia.co.uk/2017/04/19/network_scientists_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/who_me/",
           "author": null,
@@ -15656,16 +15661,6 @@
           "wordCount": 1822,
           "title": "Uber explains how it was pwned this month, points finger at Lapsus$ gang",
           "imageUrl": "https://regmedia.co.uk/2022/09/19/uber_car_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/19/lockergoga_ransomware_decryptor/",
-          "author": null,
-          "description": "<h4>Software nasty used to cause hundreds of millions of dollars in damages, cops say</h4> <p>If you've been hit by the LockerGoga ransomware, an international law enforcement effort has publicly released a tool to fix the problem.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/19/lockergoga_ransomware_decryptor/",
-          "publishedOn": "2022-09-19T20:07:43.000Z",
-          "wordCount": 1260,
-          "title": "Been hit by LockerGoga ransomware? A free fix is now out",
-          "imageUrl": "https://regmedia.co.uk/2019/09/18/shutterstock_open_door_unlocked.jpg"
         }
       ]
     }
