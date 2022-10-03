@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-03T19:25:54.403Z</updated>
+    <updated>2022-10-03T20:29:41.833Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TikTok caught using tracking pixels just like Meta, Google]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/03/tiktok_tracking_pixels/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/03/tiktok_tracking_pixels/"/>
+        <updated>2022-10-03T19:45:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Don't have a TikTok account? It doesn't matter – the pixels still grab your data</h4> <p>Google and Meta may be the first names that come to mind when thinking of secretive online tracking of users, but another business is getting into the game in a very similar manner: TikTok.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Git 2.38 Adds Microsoft's "Scalar" Repository Management Tool]]></title>
+        <id>https://www.phoronix.com/news/Git-2.38-Released</id>
+        <link href="https://www.phoronix.com/news/Git-2.38-Released"/>
+        <updated>2022-10-03T19:40:00.000Z</updated>
+        <summary type="html"><![CDATA[Git 2.38 was released on Sunday and most notable with this feature release is the inclusion of scalar as a Microsoft-developed repository management tool to make it easier dealing with very large Git reposotories...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Motherboards 2022 for Gaming, by Socket and Chipset]]></title>
+        <id>zz25CzLKubRayFXiPdiTHo</id>
+        <link href="https://www.tomshardware.com/best-picks/best-motherboards"/>
+        <updated>2022-10-03T19:32:54.000Z</updated>
+        <summary type="html"><![CDATA[Here are the best Intel and AMD motherboards for all the recent processors. These boards offer great features and performance, according to our rigorous tests.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EA's Dead Space remake getting first official gameplay reveal tomorrow]]></title>
+        <id>https://www.eurogamer.net/eas-dead-space-remake-getting-first-official-gameplay-reveal-tomorrow</id>
+        <link href="https://www.eurogamer.net/eas-dead-space-remake-getting-first-official-gameplay-reveal-tomorrow"/>
+        <updated>2022-10-03T19:25:50.000Z</updated>
+        <summary type="html"><![CDATA[With just a few months to go until the release of EA Motive's intriguing Dead Space remake, the developer has confirmed it'll be giving the spruced-up sci-fi horror its first proper gameplay reveal tomorrow, 4th October.
+
+
+Announced last July, the Dead Space remake is a ground-up reworking of Visceral Games' much-loved 2008 original, once again putting players in the role of engineer Isaac Clarke as they journey through the Necromorph-infested mining ship USG Ishimura. This time, though, EA Motive is attempting to bolster the fear factor on modern systems with enhanced audio and visuals, alongside other tweaks including improved story, characters, and game mechanics.
+
+
+Since confirming a Dead Space remake was in the works last year, EA Motive has been unusually open about its development process, detailing the project's progress in a series of livestreams focusing on gameplay changes, audio, and art.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best Cheap CPUs of 2022, Tested and Ranked]]></title>
         <id>Ar7X8LeAba5xApGjh7QgzE</id>
@@ -18604,26 +18652,6 @@ Read more]]></summary>
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/20/linux_foundation_europe/"/>
         <updated>2022-09-20T08:30:11.000Z</updated>
         <summary type="html"><![CDATA[<h4>Plans to drive more open source – and more transparency – into public sector</h4> <p><strong>Open Source Summit</strong>  The body behind the biggest open source project in the world has opened a European division.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rykte: Playstation 5 får variant med löstagbar skivläsare]]></title>
-        <id>https://www.fz.se/artikel/291514</id>
-        <link href="https://www.fz.se/artikel/291514-rykte-playstation-5-far-variant-med-lostagbar-skivlasare"/>
-        <updated>2022-09-20T07:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Som ska ersätta de existerande modellerna.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Internet Society recommends development of Solar-System-scale routing framework]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/20/ipnsig_solar_system_routing_framework/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/20/ipnsig_solar_system_routing_framework/"/>
-        <updated>2022-09-20T07:29:06.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Needs to be autonomous, interoperable, and capable of scaling to 100,000 nodes</h4> <p>The Internet Society’s Interplanetary Networking Special Interest Group (IPNSIG) has called for the development of “a common, interoperable, autonomous and scalable routing framework within the Solar System Internet.”…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
         <author>
             <name>The Register</name>
         </author>
