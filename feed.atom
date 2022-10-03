@@ -2,10 +2,193 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-03T11:23:40.820Z</updated>
+    <updated>2022-10-03T12:56:00.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OpenMandriva's Rolling Release Reaches "Gold", Continues With AMD Zen Optimized Version]]></title>
+        <id>https://www.phoronix.com/news/OpenMandriva-ROME-Gold</id>
+        <link href="https://www.phoronix.com/news/OpenMandriva-ROME-Gold"/>
+        <updated>2022-10-03T12:47:41.000Z</updated>
+        <summary type="html"><![CDATA[OpenMandriva ROME is a rolling-release version of this Linux distribution whose roots trace back to the days of Mandriva and before that Mandrake Linux. This rolling release flavor of OpenMandriva is now up to a "gold" candidate status...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tesla has a lot of work to do on its Optimus robot]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/03/tesla_optimus_prototype/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/03/tesla_optimus_prototype/"/>
+        <updated>2022-10-03T12:34:35.000Z</updated>
+        <summary type="html"><![CDATA[<h4>For a robot meant to revolutionize production lines, reveal event showed much left to do</h4> <p>Tesla headlined its AI Day 2022 event on Friday with the reveal of its “Optimus” robot prototype, showing just how much work was left to do on the project.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Antifusk-mjukvara kan göra Fifa 23 ospelbart på pc]]></title>
+        <id>https://www.fz.se/artikel/291662</id>
+        <link href="https://www.fz.se/artikel/291662-antifusk-mjukvara-kan-gora-fifa-23-ospelbart-pa-pc"/>
+        <updated>2022-10-03T12:29:20.000Z</updated>
+        <summary type="html"><![CDATA[Stolpe ut.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SteamOS and Steam Deck on top for Linux in the Steam Hardware Survey]]></title>
+        <id>https://www.gamingonlinux.com/2022/10/steamos-and-steam-deck-on-top-for-linux-in-the-steam-hardware-survey/</id>
+        <link href="https://www.gamingonlinux.com/2022/10/steamos-and-steam-deck-on-top-for-linux-in-the-steam-hardware-survey/"/>
+        <updated>2022-10-03T12:26:14.000Z</updated>
+        <summary type="html"><![CDATA[The latest Steam Hardware & Software Survey is out now for September 2022, with it showing that clearly the Steam Deck with SteamOS is the most popular way now to game on Linux.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony aims to make 2m PlayStation VR2 units by March]]></title>
+        <id>https://www.eurogamer.net/sony-aims-to-make-2m-playstation-vr2-units-by-march</id>
+        <link href="https://www.eurogamer.net/sony-aims-to-make-2m-playstation-vr2-units-by-march"/>
+        <updated>2022-10-03T12:09:13.000Z</updated>
+        <summary type="html"><![CDATA[Sony is reportedly planning to make 2m units of its upcoming PlayStation VR2 headset by March.
+
+That's according to Bloomberg, which has reported that mass production of the headset began last month.
+
+These high production figures show Sony has an "ambitious" roadmap ahead of the VR2's release, it was said.
+ 
+Read more]]></summary>
+        <author>
+            <name>Liv Ngan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlayStation 5 has been jailbroken, modder claims]]></title>
+        <id>https://www.eurogamer.net/playstation-5-has-been-jailbroken-modder-claims</id>
+        <link href="https://www.eurogamer.net/playstation-5-has-been-jailbroken-modder-claims"/>
+        <updated>2022-10-03T12:02:57.000Z</updated>
+        <summary type="html"><![CDATA[High-profile mod maker Lance McDonald has released footage of what looks to be a working PlayStation 5 exploit that leaves the console "jailbroken". 
+
+
+McDonald's video appears to show custom code being read by a PS5 through an exploit in its online User Guide. Once run, the console is able to access debug settings and then install the infamous PT demo - which is, of course, no longer available under normal circumstances.
+
+
+So, how bad is this for Sony? Well, for now, the use of this exploit is limited. Reportedly this method is still "fairly unstable" and offers "read/write access, but no execute" - so you could download the PT demo, for example, but not yet play it.
+ 
+Read more]]></summary>
+        <author>
+            <name>Tom Phillips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Core i9-13900K stöder DDR5 i 7 600 MHz]]></title>
+        <id>https://www.sweclockers.com/artikel/35012</id>
+        <link href="https://www.sweclockers.com/artikel/35012-intel-core-i9-13900k-stoder-ddr5-i-7-600-mhz"/>
+        <updated>2022-10-03T12:02:35.000Z</updated>
+        <summary type="html"><![CDATA[I specifikationerna till Intels XMP-profiler framgår att Core 13000-familjens flaggskepp går att para med framtida snabba primärminnen.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thorsten Alteholz: My Debian Activities in September 2022]]></title>
+        <id>http://blog.alteholz.eu/?p=1452</id>
+        <link href="http://blog.alteholz.eu/2022/10/my-debian-activities-in-september-2022/"/>
+        <updated>2022-10-03T12:01:52.000Z</updated>
+        <summary type="html"><![CDATA[FTP master
+This month I accepted 226 and rejected 33 packages. The overall number of packages that got accepted was 232.
+All in all I addressed about 60 RM-bugs and either simply removed the package or added a moreinfo tag. In total I spent 5 hours for this task.
+Anyway, I have to repeat my comment from last month: please have a look at the removal page and check whether the created dak command is really what you wanted. It would also help if you check the reverse dependencies and write a comment whether they are important or can be ignored or also file a new bug for them. Each removal must have one bug!
+Debian LTS
+This was my ninety-ninth month that I did some work for the Debian LTS initiative, started by Raphael Hertzog at Freexian.
+This month my all in all workload has been 14h.
+During…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LulzBot TAZ SideKick 747 Review: Born in the USA]]></title>
+        <id>G3qZL5kUXiZMNqjhzUKfAb</id>
+        <link href="https://www.tomshardware.com/reviews/lulzbot-taz-sidekick-747"/>
+        <updated>2022-10-03T12:00:29.000Z</updated>
+        <summary type="html"><![CDATA[An American made 3D printer you can customize…for a price.]]></summary>
+        <author>
+            <name>stldenise@gmail.com (Denise Bertacchi)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Destiny 2 and Hitman developers respond to Google Stadia shutdown]]></title>
+        <id>https://www.eurogamer.net/destiny-2-and-hitman-developers-respond-to-google-stadia-shutdown</id>
+        <link href="https://www.eurogamer.net/destiny-2-and-hitman-developers-respond-to-google-stadia-shutdown"/>
+        <updated>2022-10-03T11:59:49.000Z</updated>
+        <summary type="html"><![CDATA[Last week, Google announced it will shut down its cloud gaming service Stadia in January. While Google confirmed it will refund all Stadia hardware purchases made through the Google Store, as well as all game and add-on content purchases made through the Stadia store, users have been left concerned about their in-game data. 
+
+
+Thankfully, developers are trying to ensure these players are not going to see their efforts wasted when Stadia ultimately closes its doors.
+
+
+Sharing an update on Twitter, Hitman developer IO Interactive announced it was currently "looking into ways" for its Google Stadia fans to "continue [their] Hitman experience on other platforms".
+ 
+Read more]]></summary>
+        <author>
+            <name>Victoria Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Screenshot Saturday Mondays: flirty Poirot and happy Caturday]]></title>
+        <id>https://www.rockpapershotgun.com/screenshot-saturday-mondays-flirty-poirot-and-happy-caturday</id>
+        <link href="https://www.rockpapershotgun.com/screenshot-saturday-mondays-flirty-poirot-and-happy-caturday"/>
+        <updated>2022-10-03T11:46:58.000Z</updated>
+        <summary type="html"><![CDATA[Every weekend, indie devs show off current work on Twitter's #screenshotsaturday tag. And every Monday, I bring you a selection of these snaps and clips. This week, my eye has been caught by automotive horror, great goop technology, flirting with Hercule Poirot, and the most beautiful little cat.
+Read more]]></summary>
+        <author>
+            <name>Alice O'Connor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[När Stadia stängs riskerar Red Dead 2-fanatiker att tappa nära 6 000 timmars speltid]]></title>
+        <id>https://www.fz.se/artikel/291661</id>
+        <link href="https://www.fz.se/artikel/291661-nar-stadia-stangs-riskerar-red-dead-2-fanatiker-att-tappa-nara-6-000-timmars-speltid"/>
+        <updated>2022-10-03T11:35:50.000Z</updated>
+        <summary type="html"><![CDATA[Spelandet motsvarar nästan tre års heltidsarbete.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Translate dropped in mainland China]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/03/google_translate_china_axed/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/03/google_translate_china_axed/"/>
+        <updated>2022-10-03T11:35:16.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Search engine was banned so no surprise no one was using it</h4> <p>Google has discontinued its China-based Google Translate app and site, translate.google.cn, allegedly because no one was using it.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disco Elysium founder has "bad news" for those waiting for a Disco sequel]]></title>
+        <id>https://www.rockpapershotgun.com/disco-elysium-founder-has-bad-news-for-those-waiting-for-a-disco-sequel</id>
+        <link href="https://www.rockpapershotgun.com/disco-elysium-founder-has-bad-news-for-those-waiting-for-a-disco-sequel"/>
+        <updated>2022-10-03T11:34:35.000Z</updated>
+        <summary type="html"><![CDATA[One of the founders of Disco Elysium studio ZA/UM has revealed the “involuntary” departure of three staff from the company in a blog post. Martin Luiga said that designer and founder Robert Kurvitz, writer Helen Hindpere, and art director Aleksander Rostov had ceased working for ZA/UM at the end of 2021. Luiga described their departure as “bad news for the loving fans that are waiting for the Disco sequel”.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>CJ Wheeler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best CPU Deals: Save on AMD and Intel]]></title>
+        <id>vnsiEZTe49beWsoRouBYKH</id>
+        <link href="https://www.tomshardware.com/features/best-cpu-deals"/>
+        <updated>2022-10-03T11:21:08.000Z</updated>
+        <summary type="html"><![CDATA[We're rounding up the best deals on CPUs.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beyond Good & Evil 2 overtakes Guinness record holder Duke Nukem Forever as game longest in development]]></title>
         <id>https://www.eurogamer.net/beyond-good-evil-2-overtakes-guinness-record-holder-duke-nukem-forever-as-game-longest-in-development</id>
@@ -17790,26 +17973,6 @@ But could it?
 The SSH agent protocol abstracts key management out of SSH itself and into a separate process. When you run "ssh-add .ssh/id_rsa", that key is being loaded into the SSH agent. When SSH wants to use that key to authenticate to a remote system, it asks the SSH agent to perform the cryptographic signatures on its behalf. SSH also supports forwarding the SSH agent protocol over SSH itself, so if you SSH into a remote system then remote clients can also access yo…]]></summary>
         <author>
             <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA to live-stream SLS rocket fuel leak repair test]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/20/nasa_sls_test/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/20/nasa_sls_test/"/>
-        <updated>2022-09-20T00:09:39.000Z</updated>
-        <summary type="html"><![CDATA[<h4>For those on tenterhooks over this Moon mission</h4> <p>NASA will televise a test on Wednesday to confirm whether a repair made to its Space Launch System (SLS) rocket has fixed the hydrogen leak that forced officials to scrub a previous launch attempt.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comic for 2022.09.20 - Mistakes]]></title>
-        <id>https://explosm.net/comics/mistakes</id>
-        <link href="https://explosm.net/comics/mistakes"/>
-        <updated>2022-09-20T00:00:41.000Z</updated>
-        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
-        <author>
-            <name>Explosm.net</name>
         </author>
     </entry>
 </feed>

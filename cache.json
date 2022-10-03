@@ -141,6 +141,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/10/steamos-and-steam-deck-on-top-for-linux-in-the-steam-hardware-survey/",
+          "author": "Liam Dawe",
+          "description": "The latest Steam Hardware & Software Survey is out now for September 2022, with it showing that clearly the Steam Deck with SteamOS is the most popular way now to game on Linux.",
+          "link": "https://www.gamingonlinux.com/2022/10/steamos-and-steam-deck-on-top-for-linux-in-the-steam-hardware-survey/",
+          "publishedOn": "2022-10-03T12:26:14.000Z",
+          "wordCount": 1558,
+          "title": "SteamOS and Steam Deck on top for Linux in the Steam Hardware Survey",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_deck.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/10/proton-experimental-updates-fix-up-indiana-jones-final-fantasy-iv-3d-remake/",
           "author": "Liam Dawe",
           "description": "Valve has recently put up a fresh update for Proton Experimental, bringing more game compatibility and some fixes.",
@@ -757,6 +767,36 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/sony-aims-to-make-2m-playstation-vr2-units-by-march",
+          "author": "Liv Ngan",
+          "description": "Sony is reportedly planning to make 2m units of its upcoming PlayStation VR2 headset by March.\r\n\nThat's according to Bloomberg, which has reported that mass production of the headset began last month.\r\n\nThese high production figures show Sony has an \"ambitious\" roadmap ahead of the VR2's release, it was said.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sony-aims-to-make-2m-playstation-vr2-units-by-march",
+          "publishedOn": "2022-10-03T12:09:13.000Z",
+          "wordCount": 4540,
+          "title": "Sony aims to make 2m PlayStation VR2 units by March",
+          "imageUrl": "https://assets.reedpopcdn.com/psvr2_GuHwWPJ.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/psvr2_GuHwWPJ.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/playstation-5-has-been-jailbroken-modder-claims",
+          "author": "Tom Phillips",
+          "description": "High-profile mod maker Lance McDonald has released footage of what looks to be a working PlayStation 5 exploit that leaves the console \"jailbroken\". \r\n\n\r\nMcDonald's video appears to show custom code being read by a PS5 through an exploit in its online User Guide. Once run, the console is able to access debug settings and then install the infamous PT demo - which is, of course, no longer available under normal circumstances.\r\n\n\r\nSo, how bad is this for Sony? Well, for now, the use of this exploit is limited. Reportedly this method is still \"fairly unstable\" and offers \"read/write access, but no execute\" - so you could download the PT demo, for example, but not yet play it.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/playstation-5-has-been-jailbroken-modder-claims",
+          "publishedOn": "2022-10-03T12:02:57.000Z",
+          "wordCount": 4479,
+          "title": "PlayStation 5 has been jailbroken, modder claims",
+          "imageUrl": "https://assets.reedpopcdn.com/playstation_Rjwagv7.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/playstation_Rjwagv7.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/destiny-2-and-hitman-developers-respond-to-google-stadia-shutdown",
+          "author": "Victoria Kennedy",
+          "description": "Last week, Google announced it will shut down its cloud gaming service Stadia in January. While Google confirmed it will refund all Stadia hardware purchases made through the Google Store, as well as all game and add-on content purchases made through the Stadia store, users have been left concerned about their in-game data. \r\n\n\r\nThankfully, developers are trying to ensure these players are not going to see their efforts wasted when Stadia ultimately closes its doors.\r\n\n\r\nSharing an update on Twitter, Hitman developer IO Interactive announced it was currently \"looking into ways\" for its Google Stadia fans to \"continue [their] Hitman experience on other platforms\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/destiny-2-and-hitman-developers-respond-to-google-stadia-shutdown",
+          "publishedOn": "2022-10-03T11:59:49.000Z",
+          "wordCount": 4781,
+          "title": "Destiny 2 and Hitman developers respond to Google Stadia shutdown",
+          "imageUrl": "https://assets.reedpopcdn.com/agent-47_gT8Labl.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/agent-47_gT8Labl.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/beyond-good-evil-2-overtakes-guinness-record-holder-duke-nukem-forever-as-game-longest-in-development",
           "author": "Tom Phillips",
@@ -4362,6 +4402,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/OpenMandriva-ROME-Gold",
+          "author": null,
+          "description": "OpenMandriva ROME is a rolling-release version of this Linux distribution whose roots trace back to the days of Mandriva and before that Mandrake Linux. This rolling release flavor of OpenMandriva is now up to a \"gold\" candidate status...",
+          "link": "https://www.phoronix.com/news/OpenMandriva-ROME-Gold",
+          "publishedOn": "2022-10-03T12:47:41.000Z",
+          "wordCount": 1406,
+          "title": "OpenMandriva's Rolling Release Reaches \"Gold\", Continues With AMD Zen Optimized Version",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Debian-Dynamic-Triple-GNOME",
           "author": null,
           "description": "There's been a lot happening in Debian recently from improving their handling of non-free firmware to switching to PipeWire and WirePlumber with Debian 12. Another change on the way is picking up Ubuntu's work on dynamic triple buffering for the GNOME desktop...",
@@ -5589,6 +5639,26 @@
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
         {
+          "id": "https://www.rockpapershotgun.com/screenshot-saturday-mondays-flirty-poirot-and-happy-caturday",
+          "author": "Alice O'Connor",
+          "description": "Every weekend, indie devs show off current work on Twitter's #screenshotsaturday tag. And every Monday, I bring you a selection of these snaps and clips. This week, my eye has been caught by automotive horror, great goop technology, flirting with Hercule Poirot, and the most beautiful little cat.\nRead more",
+          "link": "https://www.rockpapershotgun.com/screenshot-saturday-mondays-flirty-poirot-and-happy-caturday",
+          "publishedOn": "2022-10-03T11:46:58.000Z",
+          "wordCount": 5219,
+          "title": "Screenshot Saturday Mondays: flirty Poirot and happy Caturday",
+          "imageUrl": "https://assets2.rockpapershotgun.com/spectra-neon-sign-b.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/spectra-neon-sign-b.jpg"
+        },
+        {
+          "id": "https://www.rockpapershotgun.com/disco-elysium-founder-has-bad-news-for-those-waiting-for-a-disco-sequel",
+          "author": "CJ Wheeler",
+          "description": "One of the founders of Disco Elysium studio ZA/UM has revealed the “involuntary” departure of three staff from the company in a blog post. Martin Luiga said that designer and founder Robert Kurvitz, writer Helen Hindpere, and art director Aleksander Rostov had ceased working for ZA/UM at the end of 2021. Luiga described their departure as “bad news for the loving fans that are waiting for the Disco sequel”.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/disco-elysium-founder-has-bad-news-for-those-waiting-for-a-disco-sequel",
+          "publishedOn": "2022-10-03T11:34:35.000Z",
+          "wordCount": 5018,
+          "title": "Disco Elysium founder has \"bad news\" for those waiting for a Disco sequel",
+          "imageUrl": "https://assets2.rockpapershotgun.com/disco-elysium-kim-detective.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/disco-elysium-kim-detective.jpg"
+        },
+        {
           "id": "https://www.rockpapershotgun.com/horizon-zero-dawn-multiplayer-game-claimed-to-be-in-the-works",
           "author": "CJ Wheeler",
           "description": "Horizon Zero Dawn developers Guerrilla Games are working on an online multiplayer instalment in the retro-futuristic, robot battling series, a new report claims. MP1st say multiple sources allege the project exists, and another suggests it could include co-op involving some form of customisation based on tribes from the Horizon series. This multiplayer version of Horizon would come to PC alongside PlayStation consoles.\r\n\n \nRead more",
@@ -6755,6 +6825,36 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "G3qZL5kUXiZMNqjhzUKfAb",
+          "author": "stldenise@gmail.com (Denise Bertacchi)",
+          "description": "An American made 3D printer you can customize…for a price.",
+          "link": "https://www.tomshardware.com/reviews/lulzbot-taz-sidekick-747",
+          "publishedOn": "2022-10-03T12:00:29.000Z",
+          "wordCount": 23919,
+          "title": "LulzBot TAZ SideKick 747 Review: Born in the USA",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/rVt7f7Y5WcxsALL4HbuEsj.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/rVt7f7Y5WcxsALL4HbuEsj.jpg"
+        },
+        {
+          "id": "vnsiEZTe49beWsoRouBYKH",
+          "author": null,
+          "description": "We're rounding up the best deals on CPUs.",
+          "link": "https://www.tomshardware.com/features/best-cpu-deals",
+          "publishedOn": "2022-10-03T11:21:08.000Z",
+          "wordCount": 22594,
+          "title": "Best CPU Deals: Save on AMD and Intel",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/GJnQxsii8vgdgDVZPGYHVD.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/GJnQxsii8vgdgDVZPGYHVD.jpg"
+        },
         {
           "id": "bZ7dGwCvMCMWiphzT8HuLF",
           "author": null,
@@ -9103,6 +9203,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "http://blog.alteholz.eu/?p=1452",
+          "author": null,
+          "description": "FTP master\nThis month I accepted 226 and rejected 33 packages. The overall number of packages that got accepted was 232.\nAll in all I addressed about 60 RM-bugs and either simply removed the package or added a moreinfo tag. In total I spent 5 hours for this task.\nAnyway, I have to repeat my comment from last month: please have a look at the removal page and check whether the created dak command is really what you wanted. It would also help if you check the reverse dependencies and write a comment whether they are important or can be ignored or also file a new bug for them. Each removal must have one bug!\nDebian LTS\nThis was my ninety-ninth month that I did some work for the Debian LTS initiative, started by Raphael Hertzog at Freexian.\nThis month my all in all workload has been 14h.\nDuring…",
+          "link": "http://blog.alteholz.eu/2022/10/my-debian-activities-in-september-2022/",
+          "publishedOn": "2022-10-03T12:01:52.000Z",
+          "wordCount": 891,
+          "title": "Thorsten Alteholz: My Debian Activities in September 2022",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.eyrie.org/~eagle/reviews/books/0-06-228020-1.html",
           "author": null,
           "description": "Review: Jingo, by Terry Pratchett\n\n    Series:\n    Discworld #21\n  \nPublisher:\n    Harper\n  \nCopyright:\n    1997\n  \nPrinting:\n    May 2014\n  \nISBN:\n    0-06-228020-1\n  \nFormat:\n    Mass market\n  \nPages:\n    455\n  \n\n\n    Not a muscle moved on Rust's face.  There was a clink as\n    Vimes's badge was set neatly on the table.\n\n\n\n    \"I don't have to take this,\" Vimes said calmly.\n\n\n\n    \"Oh, so you'd rather be a civilian, would you?\"\n\n\n\n    \"A watchman is a civilian, you inbred streak of pus!\"\n\nThe Last Continent in publication order, and by\nThe Fifth Elephant thematically.\n\n\nRating: 8 out of 10",
@@ -11084,6 +11194,26 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291662",
+          "author": null,
+          "description": "Stolpe ut.",
+          "link": "https://www.fz.se/artikel/291662-antifusk-mjukvara-kan-gora-fifa-23-ospelbart-pa-pc",
+          "publishedOn": "2022-10-03T12:29:20.000Z",
+          "wordCount": 1757,
+          "title": "Antifusk-mjukvara kan göra Fifa 23 ospelbart på pc",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291662"
+        },
+        {
+          "id": "https://www.fz.se/artikel/291661",
+          "author": null,
+          "description": "Spelandet motsvarar nästan tre års heltidsarbete.",
+          "link": "https://www.fz.se/artikel/291661-nar-stadia-stangs-riskerar-red-dead-2-fanatiker-att-tappa-nara-6-000-timmars-speltid",
+          "publishedOn": "2022-10-03T11:35:50.000Z",
+          "wordCount": 2005,
+          "title": "När Stadia stängs riskerar Red Dead 2-fanatiker att tappa nära 6 000 timmars speltid",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291661"
+        },
+        {
           "id": "https://www.fz.se/artikel/291660",
           "author": null,
           "description": "Bygger på demoversionen från E3 2001.",
@@ -12611,6 +12741,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/35012",
+          "author": null,
+          "description": "I specifikationerna till Intels XMP-profiler framgår att Core 13000-familjens flaggskepp går att para med framtida snabba primärminnen.",
+          "link": "https://www.sweclockers.com/artikel/35012-intel-core-i9-13900k-stoder-ddr5-i-7-600-mhz",
+          "publishedOn": "2022-10-03T12:02:35.000Z",
+          "wordCount": 1683,
+          "title": "Intel Core i9-13900K stöder DDR5 i 7 600 MHz",
+          "imageUrl": "https://www.sweclockers.com/artikel/35012/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/35005",
           "author": null,
           "description": "Att jonglera flera jobb och flera arbetsgivare från hemmakontoret blev en vanligare företeelse under pandemin, inte minst inom IT.",
@@ -13359,16 +13499,6 @@
           "wordCount": 638,
           "title": "Comic for 2022.09.21 - Discovery",
           "imageUrl": null
-        },
-        {
-          "id": "https://explosm.net/comics/mistakes",
-          "author": null,
-          "description": "New Cyanide and Happiness Comic",
-          "link": "https://explosm.net/comics/mistakes",
-          "publishedOn": "2022-09-20T00:00:41.000Z",
-          "wordCount": 638,
-          "title": "Comic for 2022.09.20 - Mistakes",
-          "imageUrl": null
         }
       ]
     },
@@ -13497,6 +13627,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/tesla_optimus_prototype/",
+          "author": null,
+          "description": "<h4>For a robot meant to revolutionize production lines, reveal event showed much left to do</h4> <p>Tesla headlined its AI Day 2022 event on Friday with the reveal of its “Optimus” robot prototype, showing just how much work was left to do on the project.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/tesla_optimus_prototype/",
+          "publishedOn": "2022-10-03T12:34:35.000Z",
+          "wordCount": 1530,
+          "title": "Tesla has a lot of work to do on its Optimus robot",
+          "imageUrl": "https://regmedia.co.uk/2022/10/03/optimus.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/google_translate_china_axed/",
+          "author": null,
+          "description": "<h4>Search engine was banned so no surprise no one was using it</h4> <p>Google has discontinued its China-based Google Translate app and site, translate.google.cn, allegedly because no one was using it.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/google_translate_china_axed/",
+          "publishedOn": "2022-10-03T11:35:16.000Z",
+          "wordCount": 1324,
+          "title": "Google Translate dropped in mainland China",
+          "imageUrl": "https://regmedia.co.uk/2022/10/03/shutterstock_google_beijing_office.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/acronis_founder_smart_devices/",
           "author": null,
@@ -15876,16 +16026,6 @@
           "wordCount": 1270,
           "title": "Google's AI call center agents all take the morning off",
           "imageUrl": "https://regmedia.co.uk/2022/09/20/shutterstock_robot_call_centre.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/nasa_sls_test/",
-          "author": null,
-          "description": "<h4>For those on tenterhooks over this Moon mission</h4> <p>NASA will televise a test on Wednesday to confirm whether a repair made to its Space Launch System (SLS) rocket has fixed the hydrogen leak that forced officials to scrub a previous launch attempt.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/nasa_sls_test/",
-          "publishedOn": "2022-09-20T00:09:39.000Z",
-          "wordCount": 1347,
-          "title": "NASA to live-stream SLS rocket fuel leak repair test",
-          "imageUrl": "https://regmedia.co.uk/2022/04/19/artemis_i.jpg"
         }
       ]
     }
