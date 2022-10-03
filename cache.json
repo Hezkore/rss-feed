@@ -7086,6 +7086,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "Ar7X8LeAba5xApGjh7QgzE",
+          "author": "palcorn@outlook.com (Paul Alcorn)",
+          "description": "You can get a surprisingly powerful processor for less than $60. We've tested several cheap CPUs to help you find the right one for your needs and budget.",
+          "link": "https://www.tomshardware.com/reviews/best-cheap-cpus,5668.html",
+          "publishedOn": "2022-10-03T19:12:50.000Z",
+          "wordCount": 24625,
+          "title": "Best Cheap CPUs of 2022, Tested and Ranked",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/8m2rPmCVPyqnZUanatbtHM.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/8m2rPmCVPyqnZUanatbtHM.jpg"
+        },
+        {
           "id": "g8Wyc7yvWJTVnLFt4RKcMF",
           "author": null,
           "description": "AMD's Ryzen 7 5700G is down to $232 at Amazon right now and even comes with a Wraith Stealth air cooler in the box. This APU also has built-in graphics, so it can be used without a GPU if the workload doesn't require one.",
@@ -9896,16 +9911,6 @@
           "wordCount": 1260,
           "title": "Jonathan Dowland: Nine Inch Nails, Cornwall, June",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.josefsson.org/?p=1482",
-          "author": null,
-          "description": "To protect web resources with Kerberos you may use Apache HTTPD with mod_auth_gssapi — however, all web scripts (e.g., PHP) run under Apache will have access to the Kerberos long-term symmetric secret credential (keytab). If someone can get it, they can impersonate your server, which is bad.\nThe gssproxy project makes it possible to introduce privilege separation to reduce the attack surface. There is a tutorial for RPM-based distributions (Fedora, RHEL, AlmaLinux, etc), but I wanted to get this to work on a DPKG-based distribution (Debian, Ubuntu, Trisquel, PureOS, etc) and found it worthwhile to document the process. I’m using Ubuntu 22.04 below, but have tested it on Debian 11 as well.  I have adopted the gssproxy package in Debian, and testing this setup is part of the scripted autopkg…",
-          "link": "https://blog.josefsson.org/2022/09/20/privilege-separation-of-gss-api-credentials-for-apache/",
-          "publishedOn": "2022-09-20T06:40:05.000Z",
-          "wordCount": 1864,
-          "title": "Simon Josefsson: Privilege separation of GSS-API credentials for Apache",
-          "imageUrl": null
         }
       ]
     },
@@ -11649,6 +11654,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291667",
+          "author": null,
+          "description": "Ja må du leva uti hundrade år!",
+          "link": "https://www.fz.se/artikel/291667-bethesda-firar-25-ariga-fallout-med-reor-demos-och-nytt-material",
+          "publishedOn": "2022-10-03T18:30:00.000Z",
+          "wordCount": 1803,
+          "title": "Bethesda firar 25-åriga Fallout med reor, demos och nytt material",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291667"
+        },
+        {
           "id": "https://www.fz.se/artikel/291666",
           "author": null,
           "description": "Sylens bryter tystnaden.",
@@ -13207,16 +13222,6 @@
           "wordCount": 1896,
           "title": "Rykte: Playstation 5 får variant med löstagbar skivläsare",
           "imageUrl": "https://www.fz.se/artikel/og-image/291514"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291513",
-          "author": null,
-          "description": "Kanske inte påverkar jättemånga i Sverige, men likväl välkommet.",
-          "link": "https://www.fz.se/artikel/291513-xbox-series-x-kraver-inte-langre-internet-for-xbox-one-spel-pa-skiva",
-          "publishedOn": "2022-09-20T06:59:00.000Z",
-          "wordCount": 1742,
-          "title": "Xbox Series X kräver inte längre internet för Xbox One-spel på skiva",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291513"
         }
       ]
     },
@@ -13834,16 +13839,6 @@
           "wordCount": 1765,
           "title": "Rockstar Games bekräftar stulna Grand Theft Auto VI-videor",
           "imageUrl": "https://www.sweclockers.com/artikel/34952/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34951",
-          "author": null,
-          "description": "De flesta operativsystem har val om flera olika språk. Väljer du svenska till datorns operativsystem eller föredrar du något annat?",
-          "link": "https://www.sweclockers.com/artikel/34951-snabbkoll-vilket-sprak-anvander-du-i-ditt-operativsystem",
-          "publishedOn": "2022-09-20T06:47:01.000Z",
-          "wordCount": 1602,
-          "title": "Snabbkoll: Vilket språk använder du i ditt operativsystem?",
-          "imageUrl": "https://www.sweclockers.com/artikel/34951/og-image"
         }
       ]
     },
@@ -14142,6 +14137,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/us_uk_data_access_agreement/",
+          "author": null,
+          "description": "<h4>Cops and Feds get easier info sharing, Britain benefits most</h4> <p>The Data Access Agreement (DAA), by which the US and UK have agreed how one country can respond to lawful data demands from police and investigators in the other, took effect on Monday.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/us_uk_data_access_agreement/",
+          "publishedOn": "2022-10-03T19:11:42.000Z",
+          "wordCount": 1568,
+          "title": "From today, America and UK follow new rules on how they can demand your data from each other",
+          "imageUrl": "https://regmedia.co.uk/2022/10/03/uk_us_handshake_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/cloudflare_postquantum_cryptography/",
           "author": null,
@@ -16601,16 +16606,6 @@
           "wordCount": 1295,
           "title": "Internet Society recommends development of Solar-System-scale routing framework",
           "imageUrl": "https://regmedia.co.uk/2022/09/20/shutterstock_the_solar_system.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/in_brief_ai/",
-          "author": null,
-          "description": "<h4>Plus: Cruise expanding self-driving robotaxi operations, and more</h4> <p><strong>In brief</strong>  Everyone agrees that text-to-image models are here to stay, though opinions are divided over AI-generated art.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/20/in_brief_ai/",
-          "publishedOn": "2022-09-20T06:40:12.000Z",
-          "wordCount": 1530,
-          "title": "Creatives up in arms over claim that AI is killing human art",
-          "imageUrl": "https://regmedia.co.uk/2018/11/28/woman_painting.jpg"
         }
       ]
     }

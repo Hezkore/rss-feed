@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-03T18:37:03.344Z</updated>
+    <updated>2022-10-03T19:25:54.403Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Best Cheap CPUs of 2022, Tested and Ranked]]></title>
+        <id>Ar7X8LeAba5xApGjh7QgzE</id>
+        <link href="https://www.tomshardware.com/reviews/best-cheap-cpus,5668.html"/>
+        <updated>2022-10-03T19:12:50.000Z</updated>
+        <summary type="html"><![CDATA[You can get a surprisingly powerful processor for less than $60. We've tested several cheap CPUs to help you find the right one for your needs and budget.]]></summary>
+        <author>
+            <name>palcorn@outlook.com (Paul Alcorn)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From today, America and UK follow new rules on how they can demand your data from each other]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/03/us_uk_data_access_agreement/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/03/us_uk_data_access_agreement/"/>
+        <updated>2022-10-03T19:11:42.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Cops and Feds get easier info sharing, Britain benefits most</h4> <p>The Data Access Agreement (DAA), by which the US and UK have agreed how one country can respond to lawful data demands from police and investigators in the other, took effect on Monday.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bethesda firar 25-åriga Fallout med reor, demos och nytt material]]></title>
+        <id>https://www.fz.se/artikel/291667</id>
+        <link href="https://www.fz.se/artikel/291667-bethesda-firar-25-ariga-fallout-med-reor-demos-och-nytt-material"/>
+        <updated>2022-10-03T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Ja må du leva uti hundrade år!]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[It's 2058. A quantum computer is just another decade away. Still, you curse Cloudflare]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/03/cloudflare_postquantum_cryptography/</id>
@@ -18596,47 +18626,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<h4>Needs to be autonomous, interoperable, and capable of scaling to 100,000 nodes</h4> <p>The Internet Society’s Interplanetary Networking Special Interest Group (IPNSIG) has called for the development of “a common, interoperable, autonomous and scalable routing framework within the Solar System Internet.”…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Xbox Series X kräver inte längre internet för Xbox One-spel på skiva]]></title>
-        <id>https://www.fz.se/artikel/291513</id>
-        <link href="https://www.fz.se/artikel/291513-xbox-series-x-kraver-inte-langre-internet-for-xbox-one-spel-pa-skiva"/>
-        <updated>2022-09-20T06:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Kanske inte påverkar jättemånga i Sverige, men likväl välkommet.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snabbkoll: Vilket språk använder du i ditt operativsystem?]]></title>
-        <id>https://www.sweclockers.com/artikel/34951</id>
-        <link href="https://www.sweclockers.com/artikel/34951-snabbkoll-vilket-sprak-anvander-du-i-ditt-operativsystem"/>
-        <updated>2022-09-20T06:47:01.000Z</updated>
-        <summary type="html"><![CDATA[De flesta operativsystem har val om flera olika språk. Väljer du svenska till datorns operativsystem eller föredrar du något annat?]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creatives up in arms over claim that AI is killing human art]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/20/in_brief_ai/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/20/in_brief_ai/"/>
-        <updated>2022-09-20T06:40:12.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Plus: Cruise expanding self-driving robotaxi operations, and more</h4> <p><strong>In brief</strong>  Everyone agrees that text-to-image models are here to stay, though opinions are divided over AI-generated art.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simon Josefsson: Privilege separation of GSS-API credentials for Apache]]></title>
-        <id>https://blog.josefsson.org/?p=1482</id>
-        <link href="https://blog.josefsson.org/2022/09/20/privilege-separation-of-gss-api-credentials-for-apache/"/>
-        <updated>2022-09-20T06:40:05.000Z</updated>
-        <summary type="html"><![CDATA[To protect web resources with Kerberos you may use Apache HTTPD with mod_auth_gssapi — however, all web scripts (e.g., PHP) run under Apache will have access to the Kerberos long-term symmetric secret credential (keytab). If someone can get it, they can impersonate your server, which is bad.
-The gssproxy project makes it possible to introduce privilege separation to reduce the attack surface. There is a tutorial for RPM-based distributions (Fedora, RHEL, AlmaLinux, etc), but I wanted to get this to work on a DPKG-based distribution (Debian, Ubuntu, Trisquel, PureOS, etc) and found it worthwhile to document the process. I’m using Ubuntu 22.04 below, but have tested it on Debian 11 as well.  I have adopted the gssproxy package in Debian, and testing this setup is part of the scripted autopkg…]]></summary>
-        <author>
-            <name>Planet Debian</name>
         </author>
     </entry>
 </feed>
