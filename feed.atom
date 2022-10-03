@@ -2,10 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-02T23:29:48.007Z</updated>
+    <updated>2022-10-03T02:09:17.873Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Marco d'Itri: Debian bookworm on a Lenovo T14s Gen3 AMD]]></title>
+        <id>tag:https:,2022:id_463</id>
+        <link href="https://blog.bofh.it/debian/id_463"/>
+        <updated>2022-10-03T01:12:28.000Z</updated>
+        <summary type="html"><![CDATA[I recently upgraded my laptop to a Lenovo T14s Gen3 AMD and I am happy to report that it works just fine with Debian/unstable using a 5.19 kernel.
+The only issue is that some firmware files are still missing and I had to install them manually.
+Updates are needed for the firmware-amd-graphics package (#1019847) for the Radeon 680M GPU (AMD Rembrandt) and for the firmware-atheros package (#1021157) for the Qualcomm NFA725A Wi-Fi card (which is actually reported as a NFA765).
+s2idle (AKA "modern suspend") works too.
+For improved energy efficiency it is recommended to switch from the acpi_cpufreq CPU frequency scaling driver to amd_pstate. Please note that so far it is not loaded automatically.
+As expected, fwupdmgr can update the system BIOS and the firmware of the NVMe device.]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux kernel 6.0 debuts, Linus Torvalds teases ‘core new things’ coming in version 6.1]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/02/linux_kernel_6_0_released/</id>
@@ -17814,177 +17829,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Men arbetet fortsätter som planerat, lovar man.]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Portable Raspberry Pi Tricorder Detects Starlink Satellites]]></title>
-        <id>2XJSAL7FBuThA3zD7vgo5K</id>
-        <link href="https://www.tomshardware.com/news/raspberry-pi-tricorder-detects-satellites"/>
-        <updated>2022-09-19T14:03:10.000Z</updated>
-        <summary type="html"><![CDATA[Saveitforparts has upgraded his Raspberry Pi-powered tricorder to detect Starlink satellites using an LNB from a satellite dish.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel's Linux Vulkan Driver readying up a 60%+ speed boost "in draw throughput"]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/intel-linux-vulkan-driver-readying-up-a-60p-speed-boost/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/intel-linux-vulkan-driver-readying-up-a-60p-speed-boost/"/>
-        <updated>2022-09-19T13:52:30.000Z</updated>
-        <summary type="html"><![CDATA[In another nice win for open source graphics, the Vulkan Driver for Intel on Linux is looking set to get a nice speed boost.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diablo 4 joins the leak train with over 50 minutes of footage appearing online]]></title>
-        <id>https://www.vg247.com/diablo-4-gameplay-leak</id>
-        <link href="https://www.vg247.com/diablo-4-gameplay-leak"/>
-        <updated>2022-09-19T13:51:17.000Z</updated>
-        <summary type="html"><![CDATA[After the weekend's big Grand Theft Auto leak, it now turns out that there's been an also pretty big Diablo 4 leak, as test footage has cropped up online. 
-
-
-As shared by Reddit user iV1rus0 on the GamingLeaksAndRumours subreddit, about 53 minutes of the upcoming sequel is available to watch as a pair of videos, one that's around five minutes in length, the other around 38 minutes. While the GTA 6 footage was the result of a hack, this Diablo footage appears to be from a Discord stream, as the app's notification sounds can be heard in the background.
-
-
-You can even hear the people streaming the game, though their voices have been distorted, likely as to protect their identity. Though all of the footage has been watermarked, so who knows how effective that will be.
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA Working To Make Linux Safer For Cars, Robots & Other Safety Critical Environments]]></title>
-        <id>https://www.phoronix.com/news/NVIDIA-ASI-2022-Linux-Dev</id>
-        <link href="https://www.phoronix.com/news/NVIDIA-ASI-2022-Linux-Dev"/>
-        <updated>2022-09-19T13:40:56.000Z</updated>
-        <summary type="html"><![CDATA[NVIDIA is working on their own address space isolation (ASI) implementation for the Linux kernel that they hope will make the kernel safer for use within automobiles, robotics, and other areas where NVIDIA Tegra embedded hardware has a growing Linux-powered presence...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rockstar confirms the GTA 6 leaks doing the rounds are the result of a hack]]></title>
-        <id>https://www.vg247.com/gta-6-leak-rockstar-server-breach-confirmed</id>
-        <link href="https://www.vg247.com/gta-6-leak-rockstar-server-breach-confirmed"/>
-        <updated>2022-09-19T13:38:02.000Z</updated>
-        <summary type="html"><![CDATA[Rockstar has issued a statement earlier on the ongoing saga of the GTA 6 leaks, which resulted in heaps of videos and screenshots from the unannounced game appear online over the weekend.
-While the developer, and its parent company Take-Two, moved quickly to take down as many of them on social media and video platforms as possible, the damage had already been done. Given the nature of the leaks themselves (clearly originating from development builds), it was assumed that the developer's network had been hacked.
-This was, in fact, an accurate guess. In a statement posted to Twitter, the studio acknowledged the leak, confirming that it was the result of an unauthorised network breach.
- Read more]]></summary>
-        <author>
-            <name>Sherif Saed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT-3 'prompt injection' attack causes bad bot manners]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/19/in_brief_security/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/19/in_brief_security/"/>
-        <updated>2022-09-19T13:37:53.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Also, EA goes kernel-deep to stop cheaters, PuTTY gets hijacked by North Korea, and more.</h4> <p><strong>In Brief</strong>  OpenAI's popular natural language model GPT-3 has a problem: It can be tricked into behaving badly by doing little more than telling it to ignore its previous orders.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elden Ring blir brädspel]]></title>
-        <id>https://www.fz.se/artikel/291504</id>
-        <link href="https://www.fz.se/artikel/291504-elden-ring-blir-bradspel"/>
-        <updated>2022-09-19T13:12:00.000Z</updated>
-        <summary type="html"><![CDATA[Av folk som tidigare gjort brädspel av Dark Souls och Horizon.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Becomes First Major Corporate Backer To Krita Open-Source Digital Painting Program]]></title>
-        <id>https://www.phoronix.com/news/Intel-Corporate-Backer-Krita</id>
-        <link href="https://www.phoronix.com/news/Intel-Corporate-Backer-Krita"/>
-        <updated>2022-09-19T13:02:17.000Z</updated>
-        <summary type="html"><![CDATA[Intel has become the first corporate "gold" patron to the Krita Foundation for their development fund to advance this open-source digital painting program...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Mobile App continues adding new features to the Beta]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/steam-mobile-app-continues-adding-new-features-to-the-beta/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/steam-mobile-app-continues-adding-new-features-to-the-beta/"/>
-        <updated>2022-09-19T12:41:18.000Z</updated>
-        <summary type="html"><![CDATA[Valve are continuing to roll out big changes to the brand new Steam Mobile App, which is currently in Beta.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Wandering Village is a clear hit with over 50K copies sold]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/the-wandering-village-is-a-clear-hit-with-over-50k-copies-sold/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/the-wandering-village-is-a-clear-hit-with-over-50k-copies-sold/"/>
-        <updated>2022-09-19T12:21:46.000Z</updated>
-        <summary type="html"><![CDATA[The Wandering Village, the new city-builder from Stray Fawn Studio has clearly become something of a hit and for good reason.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ny Final Fantasy XVI-trailer om en månad eller så]]></title>
-        <id>https://www.fz.se/artikel/291503</id>
-        <link href="https://www.fz.se/artikel/291503-ny-final-fantasy-xvi-trailer-om-en-manad-eller-sa"/>
-        <updated>2022-09-19T12:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Och förhoppningsvis kommer releasedatumet också snart.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding the Fork Bomb :(){ :|:& };:  in Linux]]></title>
-        <id>https://itsfoss.com/?p=102066</id>
-        <link href="https://itsfoss.com/fork-bomb/"/>
-        <updated>2022-09-19T12:12:15.000Z</updated>
-        <summary type="html"><![CDATA[The :(){ :|:& };:  is a popular fork bomb for Linux systems. Learn how it works and what you can do to prevent such a malicious command.]]></summary>
-        <author>
-            <name>Sagar Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comic for 2022.09.19 - Other Woman]]></title>
-        <id>https://explosm.net/comics/other-woman</id>
-        <link href="https://explosm.net/comics/other-woman"/>
-        <updated>2022-09-19T12:02:09.000Z</updated>
-        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
-        <author>
-            <name>Explosm.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cooler Master MasterLiquid PL240 Flux Review: A Quiet Contender]]></title>
-        <id>ATixyCc3PSGMPRktF6avEj</id>
-        <link href="https://www.tomshardware.com/reviews/cooler-master-pl240-flux"/>
-        <updated>2022-09-19T12:00:32.000Z</updated>
-        <summary type="html"><![CDATA[The PL240 Flux is a quiet cooler featuring ARGB lighting. It pairs well with Alder Lake CPUs, provided there are some power limits in place.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[By Jove! Jupiter to make closest approach to Earth in 70 years next Monday]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/19/jupiter_70_years_closest_approach/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/19/jupiter_70_years_closest_approach/"/>
-        <updated>2022-09-19T11:58:05.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Gas giant to come within just 365 million miles. Viewing conditions will be ideal even if you only have binoculars</h4> <p>Next Monday, September 26, Jupiter will be the closest to Earth it has been for in 70 years.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More Meteor Lake Enablement Readied For Intel Graphics Driver With Linux 6.1]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.1-Final-i915-PR</id>
-        <link href="https://www.phoronix.com/news/Linux-6.1-Final-i915-PR"/>
-        <updated>2022-09-19T11:51:59.000Z</updated>
-        <summary type="html"><![CDATA[Along with the last drm-intel-gt-next pull for Linux 6.1, a final drm-intel-next pull request of new feature code was submitted to DRM-Next ahead of the upcoming Linux 6.1 merge window...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
 </feed>
