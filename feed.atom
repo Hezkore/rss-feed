@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-03T06:43:18.630Z</updated>
+    <updated>2022-10-03T07:33:43.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Tetchy trainee turned the lights down low to teach turgid lecturer a lesson]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/03/who_me/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/03/who_me/"/>
+        <updated>2022-10-03T07:30:12.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Sure, I’ll sit here all day taking notes because you’re too cheap to print them out</h4> <p><strong>Who, Me?</strong>  Welcome once again to Who, Me?, in which <i>The Register</i> celebrates the working week stretching out ahead of us all with readers' tales of messes they made, and escaped.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rykte: En remaster av Horizon Zero Dawn är på väg]]></title>
+        <id>https://www.fz.se/artikel/291656</id>
+        <link href="https://www.fz.se/artikel/291656-rykte-en-remaster-av-horizon-zero-dawn-ar-pa-vag"/>
+        <updated>2022-10-03T06:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Frågan är om det behövs.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Moody's turns up the heat on 'riskiest' sectors for cyberattacks]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/03/moodys_cyber_risk_ratings/</id>
@@ -17539,26 +17559,6 @@ The SSH agent protocol abstracts key management out of SSH itself and into a sep
         <summary type="html"><![CDATA[iFixit calls it the biggest redesign since the iPhone X—but only on the inside.]]></summary>
         <author>
             <name>Samuel Axon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI software helps bust image fraud in academic papers]]></title>
-        <id>https://arstechnica.com/?p=1882596</id>
-        <link href="https://arstechnica.com/?p=1882596"/>
-        <updated>2022-09-19T19:32:47.000Z</updated>
-        <summary type="html"><![CDATA[Proofig and ImageTwin software help detect fudged "Western blot" image data in academic papers.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Biden calls pandemic “over” despite pathetic booster rates and new variants]]></title>
-        <id>https://arstechnica.com/?p=1882677</id>
-        <link href="https://arstechnica.com/?p=1882677"/>
-        <updated>2022-09-19T19:15:09.000Z</updated>
-        <summary type="html"><![CDATA[Biden's "over" comment highlights our complicated, precarious pandemic status.]]></summary>
-        <author>
-            <name>Beth Mole</name>
         </author>
     </entry>
 </feed>
