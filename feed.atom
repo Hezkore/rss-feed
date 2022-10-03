@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-03T22:28:08.918Z</updated>
+    <updated>2022-10-03T23:32:23.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Walmart, CVS face trial for putting sham homeopathic products next to real meds]]></title>
+        <id>https://arstechnica.com/?p=1886578</id>
+        <link href="https://arstechnica.com/?p=1886578"/>
+        <updated>2022-10-03T22:28:57.000Z</updated>
+        <summary type="html"><![CDATA[A three-judge panel reversed lower courts' dismissal of the lawsuits.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mike Hommey: Announcing git-cinnabar 0.6.0rc1]]></title>
+        <id>https://glandium.org/blog/?p=4286</id>
+        <link href="https://glandium.org/blog/?p=4286"/>
+        <updated>2022-10-03T22:26:05.000Z</updated>
+        <summary type="html"><![CDATA[Git-cinnabar is a git remote helper to interact with mercurial repositories. It allows to clone, pull and push from/to mercurial remote repositories, using git.
+Get it on github.
+These release notes are also available on the git-cinnabar wiki.
+What’s new since 0.5.10?
+Full rewrite of git-cinnabar in Rust.
+Push performance is between twice and 10 times faster than 0.5.x, depending on scenarios.
+Based on git 2.38.0.
+git cinnabar fetch now accepts a --tags flag to fetch tags.
+git cinnabar bundle now accepts a -t flag to give a specific bundlespec.
+git cinnabar rollback now accepts a --candidates flag to list the metadata sha1 that can be used as target of the rollback.
+git cinnabar rollback now also accepts a --force flag to allow any commit sha1 as metadata.
+git cinnabar now has a self-update subcommand that upgrades it when a new version is available. The subcommand is only available when building with the self-update feature (enabled on prebuilt versions of git-cinnabar).]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Online romance scamlord who netted $9.5m jailed for 25 years]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/03/romance_scammer_sentenced/</id>
@@ -25,6 +56,16 @@
 Read more]]></summary>
         <author>
             <name>Will Judd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Still can’t buy a Raspberry Pi board? Things aren’t getting better anytime soon]]></title>
+        <id>https://arstechnica.com/?p=1886515</id>
+        <link href="https://arstechnica.com/?p=1886515"/>
+        <updated>2022-10-03T21:54:55.000Z</updated>
+        <summary type="html"><![CDATA[400,000 Pis are still being made every month, but most are going to businesses.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
         </author>
     </entry>
     <entry>
@@ -107,6 +148,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Big data trove dumped after LA Unified School District says no to ransomware crooks]]></title>
+        <id>https://arstechnica.com/?p=1886496</id>
+        <link href="https://arstechnica.com/?p=1886496"/>
+        <updated>2022-10-03T20:25:55.000Z</updated>
+        <summary type="html"><![CDATA[Confidential incident reports, personnel records, and more are leaked online.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TikTok caught using tracking pixels just like Meta, Google]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/03/tiktok_tracking_pixels/</id>
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/03/tiktok_tracking_pixels/"/>
@@ -175,6 +226,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SCOTUS weighs first case testing Big Tech liability for recommending content]]></title>
+        <id>https://arstechnica.com/?p=1886430</id>
+        <link href="https://arstechnica.com/?p=1886430"/>
+        <updated>2022-10-03T19:03:24.000Z</updated>
+        <summary type="html"><![CDATA[Section 230 to face its first Supreme Court challenge.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bethesda firar 25-åriga Fallout med reor, demos och nytt material]]></title>
         <id>https://www.fz.se/artikel/291667</id>
         <link href="https://www.fz.se/artikel/291667-bethesda-firar-25-ariga-fallout-med-reor-demos-och-nytt-material"/>
@@ -192,6 +253,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<h4>Assuming this Kyber TLS stuff works as expected</h4> <p>Cloudflare is the first major internet infrastructure provider to support post-quantum cryptography for all customers, which, in theory, should protect data if quantum computing ever manages to break today's encryption technologies.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.0 arrives with support for newer chips, core fixes, and oddities]]></title>
+        <id>https://arstechnica.com/?p=1886350</id>
+        <link href="https://arstechnica.com/?p=1886350"/>
+        <updated>2022-10-03T17:41:06.000Z</updated>
+        <summary type="html"><![CDATA[Intel and AMD gear, yes, but support for RISC-V, LoongArch, and Gaudi2 show up.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
         </author>
     </entry>
     <entry>
@@ -215,6 +286,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[After an amazing run at Mars, India says its orbiter has no more fuel]]></title>
+        <id>https://arstechnica.com/?p=1886275</id>
+        <link href="https://arstechnica.com/?p=1886275"/>
+        <updated>2022-10-03T17:26:48.000Z</updated>
+        <summary type="html"><![CDATA[The orbiter most definitely exceeded expectations.]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Steam Next Fest - October 2022 Edition is live now]]></title>
         <id>https://www.gamingonlinux.com/2022/10/steam-next-fest-october-2022-edition-is-live-now/</id>
         <link href="https://www.gamingonlinux.com/2022/10/steam-next-fest-october-2022-edition-is-live-now/"/>
@@ -232,6 +313,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[AMD's Ryzen 7 5700G is down to $232 at Amazon right now and even comes with a Wraith Stealth air cooler in the box. This APU also has built-in graphics, so it can be used without a GPU if the workload doesn't require one.]]></summary>
         <author>
             <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google prototypes, open sources an extra-long keyboard with one row of keys]]></title>
+        <id>https://arstechnica.com/?p=1886356</id>
+        <link href="https://arstechnica.com/?p=1886356"/>
+        <updated>2022-10-03T17:13:53.000Z</updated>
+        <summary type="html"><![CDATA[Open source files for Google Japan's latest joke concept are on GitHub.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
         </author>
     </entry>
     <entry>
@@ -294,6 +385,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[New PS5 exploit unlocks root privileges, read/write memory access]]></title>
+        <id>https://arstechnica.com/?p=1886381</id>
+        <link href="https://arstechnica.com/?p=1886381"/>
+        <updated>2022-10-03T16:49:07.000Z</updated>
+        <summary type="html"><![CDATA[Hack uses FreeBSD "race condition" exploit on older PS5 firmware.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Best Gaming Laptops of 2022]]></title>
         <id>oGP9nKE7bBcRw2H2pW4eSe</id>
         <link href="https://www.tomshardware.com/reviews/best-gaming-laptops,4828.html"/>
@@ -311,6 +412,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<h4>Vote result good news for new users, but might be bad for remixes</h4> <p>The next major release of Debian will ship installation images that are not 100 percent free open source software.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New trailer for Wakanda Forever gives us a peek at the new Black Panther]]></title>
+        <id>https://arstechnica.com/?p=1886296</id>
+        <link href="https://arstechnica.com/?p=1886296"/>
+        <updated>2022-10-03T16:20:57.000Z</updated>
+        <summary type="html"><![CDATA["Only the most broken people can be great leaders."]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
         </author>
     </entry>
     <entry>
@@ -334,6 +445,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Pixel 6a for $350 ($100 off) makes for an incredible deal]]></title>
+        <id>https://arstechnica.com/?p=1886287</id>
+        <link href="https://arstechnica.com/?p=1886287"/>
+        <updated>2022-10-03T16:08:41.000Z</updated>
+        <summary type="html"><![CDATA[The Pixel 6a was a bargain at the MSRP, and $100 off is even more tempting]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Giant Bomb, GameSpot, MetaCritic, GameFAQs and more have been acquired by Fandom]]></title>
         <id>https://www.vg247.com/giant-bomb-gamespot-metacritic-gamefaqs-and-more-have-been-acquired-by-fandom</id>
         <link href="https://www.vg247.com/giant-bomb-gamespot-metacritic-gamefaqs-and-more-have-been-acquired-by-fandom"/>
@@ -344,6 +465,16 @@ Fandom is something that'll be familiar to most of us. There's a rather high cha
  Read more]]></summary>
         <author>
             <name>Kelsey Raynor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SEC fines Kim Kardashian, warns people about buying crypto touted by celebrities]]></title>
+        <id>https://arstechnica.com/?p=1886347</id>
+        <link href="https://arstechnica.com/?p=1886347"/>
+        <updated>2022-10-03T16:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Kardashian touted EthereumMax on Instagram without revealing she was paid $250,000.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
         </author>
     </entry>
     <entry>
@@ -650,6 +781,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bruce Willis denies selling deepfake rights to Deepcake]]></title>
+        <id>https://arstechnica.com/?p=1886277</id>
+        <link href="https://arstechnica.com/?p=1886277"/>
+        <updated>2022-10-03T14:17:18.000Z</updated>
+        <summary type="html"><![CDATA[Willis' agent: "Bruce has no partnership or agreement with this Deepcake company."]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TSMC Reportedly Overpowers Apple in Negotiations Over Price Increases]]></title>
         <id>4PS8zZLFDqZwQoCGeEHhhd</id>
         <link href="https://www.tomshardware.com/news/tsmc-reportedly-overpowers-apple-in-wrestle-over-price-increases"/>
@@ -698,6 +839,16 @@ The original game, Beyond Good & Evil, launched in 2003 as a third-person action
  Read more]]></summary>
         <author>
             <name>Kelsey Raynor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nobel in Medicine goes to the man who brought us the Neanderthal genome]]></title>
+        <id>https://arstechnica.com/?p=1886267</id>
+        <link href="https://arstechnica.com/?p=1886267"/>
+        <updated>2022-10-03T14:00:53.000Z</updated>
+        <summary type="html"><![CDATA[Svante Pääbo played a central role in developing ways of looking into humanity's past.]]></summary>
+        <author>
+            <name>John Timmer</name>
         </author>
     </entry>
     <entry>
@@ -750,6 +901,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Men än går det inte att köra egen kod på konoslen.]]></summary>
         <author>
             <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black holes can’t trash info about what they swallow—and that’s a problem]]></title>
+        <id>https://arstechnica.com/?p=1884061</id>
+        <link href="https://arstechnica.com/?p=1884061"/>
+        <updated>2022-10-03T13:45:29.000Z</updated>
+        <summary type="html"><![CDATA[Solving the information paradox could unlock quantum gravity and unification of forces.]]></summary>
+        <author>
+            <name>Ars Staff</name>
         </author>
     </entry>
     <entry>
@@ -835,6 +996,16 @@ Rostov later confirmed the news on his personal Twitter account writing, "We con
  Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[With orbital launch, Firefly takes an early lead in the 1-ton rocket race]]></title>
+        <id>https://arstechnica.com/?p=1886246</id>
+        <link href="https://arstechnica.com/?p=1886246"/>
+        <updated>2022-10-03T13:09:22.000Z</updated>
+        <summary type="html"><![CDATA["Firefly is at the point where the only thing holding them back is execution."]]></summary>
+        <author>
+            <name>Eric Berger</name>
         </author>
     </entry>
     <entry>
@@ -18398,189 +18569,6 @@ As a result, it has now sent out all its emails to those in the Q3 bracket of re
 Read more]]></summary>
         <author>
             <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Butterfly Soup 2 out next month]]></title>
-        <id>https://www.eurogamer.net/butterfly-soup-2-out-next-month</id>
-        <link href="https://www.eurogamer.net/butterfly-soup-2-out-next-month"/>
-        <updated>2022-09-20T11:29:14.000Z</updated>
-        <summary type="html"><![CDATA[Developer Brianna Lei has announced a sequel to her 2017 game Butterfly Soup, and it's out next month.
-
-Butterfly Soup 2 is due to launch on 29th October, and will follow the four main characters a few months after the original story.
-
-We've previously featured Butterfly Soup in a piece by Natalie Flores on the humanisation of queer women through humour in games, and Butterfly Soup has this in spades.
- 
-Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another Big Fund exec under investigation by China's anti-corruption watchdog]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/20/china_big_fund_corruption/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/20/china_big_fund_corruption/"/>
-        <updated>2022-09-20T11:29:11.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Ren Kai, vice president of Sino IC Capital, is also on the board of SMIC</h4> <p>A non-executive director for Shanghai-based chipmaker Semiconductor Manufacturing International Corporation (SMIC) and "Big Fund" vice president is under investigation in China for alleged corruption.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RADV Driver Lands Ray-Tracing Optimizations To Boost Quake II RTX By ~10%]]></title>
-        <id>https://www.phoronix.com/news/RADV-RT-Q2RTX-10-Percent</id>
-        <link href="https://www.phoronix.com/news/RADV-RT-Q2RTX-10-Percent"/>
-        <updated>2022-09-20T11:25:58.000Z</updated>
-        <summary type="html"><![CDATA[Mesa's Radeon Vulkan "RADV" driver co-founder Bas Nieuwenhuizen has landed a set of micro-optimizations to the open-source driver for benefiting Vulkan ray-tracing performance...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resident Evil Village DLC will conclude "the Winters family saga"]]></title>
-        <id>https://www.eurogamer.net/resident-evil-village-dlc-will-conclude-the-winters-family-saga</id>
-        <link href="https://www.eurogamer.net/resident-evil-village-dlc-will-conclude-the-winters-family-saga"/>
-        <updated>2022-09-20T11:14:09.000Z</updated>
-        <summary type="html"><![CDATA[Resident Evil Village's Shadows of Rose DLC will serve as Capcom's final act for the Winters family, the publisher has said.
-
-
-Talking to IGN, Director Kento Kinoshita stated Capcom is "creating the Shadows of Rose story to conclude the Winters family saga."
-
-
-This means any future entries to the series will likely introduce us to a new set of characters or bring back some older faces from the previous generations of games - though Capcom itself is tight-lipped on any further details.
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Questions over Call of Duty exclusivity "tremendous opportunity" for Battlefield, EA boss says]]></title>
-        <id>https://www.eurogamer.net/ea-boss-says-questions-over-call-of-duty-exclusivity-tremendous-opportunity-for-battlefield</id>
-        <link href="https://www.eurogamer.net/ea-boss-says-questions-over-call-of-duty-exclusivity-tremendous-opportunity-for-battlefield"/>
-        <updated>2022-09-20T11:12:36.000Z</updated>
-        <summary type="html"><![CDATA[EA boss Andrew Wilson has suggested the ongoing drama surrounding the future of Call of Duty is "a tremendous opportunity" for his company's beleagured Battlefield franchise.
-
-
-Wilson issued the comment at a financial event organised by Goldman Sachs (transcribed by Seeking Alpha), where he contrasted Call of Duty's situation with that of Battlefield - the latter of which, he boasted, was "platform agnostic".
-
-
-"In a world where there may be questions over the future of Call of Duty and what platforms that might be on or might not be on, being platform agnostic and completely cross-platform with Battlefield, I think is a tremendous opportunity," Wilson said.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Star Citizen har nu dragit in en halv miljard dollar!]]></title>
-        <id>https://www.fz.se/artikel/291516</id>
-        <link href="https://www.fz.se/artikel/291516-star-citizen-har-nu-dragit-in-en-halv-miljard-dollar"/>
-        <updated>2022-09-20T11:11:38.000Z</updated>
-        <summary type="html"><![CDATA[Det klarade Kickstartern med viss marginal.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD:s VD Lisa Su är huvudtalare på CES 2023]]></title>
-        <id>https://www.sweclockers.com/artikel/34953</id>
-        <link href="https://www.sweclockers.com/artikel/34953-amds-vd-lisa-su-ar-huvudtalare-pa-ces-2023"/>
-        <updated>2022-09-20T11:09:03.000Z</updated>
-        <summary type="html"><![CDATA[När CES går av stapeln i januari tar AMD:s VD Lisa Su plats i talarstolen för att berätta om hur bolaget ska tackla planetens svåraste frågor.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyper Demon is a trippy, surprise new FPS from the Devil Daggers devs]]></title>
-        <id>https://www.rockpapershotgun.com/hyper-demon-is-a-trippy-surprise-new-fps-from-the-devil-daggers-devs</id>
-        <link href="https://www.rockpapershotgun.com/hyper-demon-is-a-trippy-surprise-new-fps-from-the-devil-daggers-devs"/>
-        <updated>2022-09-20T10:53:40.000Z</updated>
-        <summary type="html"><![CDATA[Imagine waking up in the morning and finding out there’s a brand new FPS from the creators of trippy skull-obsessed shooter Devil Daggers. Well, that’s exactly what’s happened for some of us today. Hyper Demon seems to be all about the disembodied, infernal craniums too, but don’t call it a sequel. Brace yourself as you watch the nightmarish trailer below. It's a wild one.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EVGA are quitting graphics cards after splitting with Nvidia]]></title>
-        <id>https://www.rockpapershotgun.com/evga-are-quitting-graphics-cards-after-splitting-with-nvidia</id>
-        <link href="https://www.rockpapershotgun.com/evga-are-quitting-graphics-cards-after-splitting-with-nvidia"/>
-        <updated>2022-09-20T10:53:17.000Z</updated>
-        <summary type="html"><![CDATA[Apologies for reporting three-day-old-news (thanks, Bank Holiday weekend) but this is a rare surprise in the world of PC hardware: EVGA, longtime graphics card board partners to Nvidia, are getting out the GPU game entirely. What’s more, according an interview with Gamers Nexus, their reasoning is a lack of “respect” shown to them by Nvidia themselves. Suffice to say, there won’t be an EVGA version of the RTX 4090 or any RTX 40 series GPU that might be announced during Nvidia’s GeForce Beyond event later today.
-
- 
-Read more]]></summary>
-        <author>
-            <name>James Archer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel announce their NUC 12 Enthusiast Mini PC and Kit with Arc graphics]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/intel-announce-their-nuc-12-enthusiast-mini-pc-and-kit-with-arc-graphics/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/intel-announce-their-nuc-12-enthusiast-mini-pc-and-kit-with-arc-graphics/"/>
-        <updated>2022-09-20T10:48:12.000Z</updated>
-        <summary type="html"><![CDATA[Intel have revealed their new NUC 12 Enthusiast Mini PC and Kit (code-named Serpent Canyon) and I must admit, it looks and sounds pretty nice.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo will no longer allow social media logins for Nintendo Accounts]]></title>
-        <id>https://www.eurogamer.net/nintendo-will-no-longer-allow-social-media-logins-for-nintendo-accounts</id>
-        <link href="https://www.eurogamer.net/nintendo-will-no-longer-allow-social-media-logins-for-nintendo-accounts"/>
-        <updated>2022-09-20T10:46:18.000Z</updated>
-        <summary type="html"><![CDATA[Nintendo will be discontinuing social media logins into Nintendo Accounts and the Image Share service on 3DS and Wii U consoles next month.
-Nintendo has slowly been dropping support for the 3DS and Wii U, and most notably will close the eShop storefronts for both on 27th March 2023.
-
-Social media logins to a Nintendo Account and the Image Share service are the next features that Nintendo is dropping support for.
- 
-Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rockstar confirm GTA 6 leaks, but say it won't have any "long-term effect" on development]]></title>
-        <id>https://www.rockpapershotgun.com/rockstar-confirm-gta-6-leaks-but-say-it-wont-have-any-long-term-effect-on-development</id>
-        <link href="https://www.rockpapershotgun.com/rockstar-confirm-gta-6-leaks-but-say-it-wont-have-any-long-term-effect-on-development"/>
-        <updated>2022-09-20T10:40:53.000Z</updated>
-        <summary type="html"><![CDATA[Rockstar Games have issued a statement following leaks over the weekend of early footage from the next game in the series, GTA 6, saying they suffered a "network intrusion" from an unauthorised third party, and were "extremely disappointed" that the early development footage was made public through the hack. It’s also emerged that the same hacker may have been responsible for a breach of rideshare platform Uber last week. Uber say they’re in contact with both the FBI and the U.S. Department Of Justice over the hacks.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blizzard battling Diablo 4 leaks again]]></title>
-        <id>https://www.eurogamer.net/blizzard-battling-diablo-4-leaks-again</id>
-        <link href="https://www.eurogamer.net/blizzard-battling-diablo-4-leaks-again"/>
-        <updated>2022-09-20T10:39:30.000Z</updated>
-        <summary type="html"><![CDATA[More leaked footage from Diablo 4 has found its way onto the internet, adding to the blizzard being faced by Blizzard.
-
-
-As with previous leaks from August, this footage appears to have originated from the ongoing Friend and Family beta version of the game - something that is labelled as a "private test build". 
-
-
-The latest leaks were uploaded to reddit and show a total of 43 minutes of gameplay footage. This  work-in-progress  footage includes the map, various cosmetic options and a variety of attacks - though is all subject to change before the release of the full game.
- Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SETI seeks amateur astronomers to find hot Jupiter-like exoplanets]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/20/seti_exoplanets_campaign/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/20/seti_exoplanets_campaign/"/>
-        <updated>2022-09-20T10:28:09.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Much better use of time than 'hot singles in your area'</h4> <p>The SETI Institute has teamed up with telescope-maker Unistellar on a citizen science campaign asking for space fans' help discovering massive hot Jupiter exoplanet candidates identified by NASA's Transiting Exoplanet Survey Satellite (TESS).…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
