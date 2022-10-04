@@ -3335,6 +3335,16 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/nintendo-direct-super-mario-bros-movie-trailer",
+          "author": "Stephany Nunneley",
+          "description": "Nintendo will host a Nintendo Direct presentation this Thursday, October 6 during which time the company will show the world premiere trailer for the Super Mario Bros. movie.\nThis will be our first look at the film featuring the famous plumber who \"travels through an underground labyrinth with his brother to save a captured princess.\"\nThe Super Mario Bros. movie was first announced back in 2018, but it wasn't until last year that we had official casting confirmation. Chris Pratt (Jurassic World and Guardians of the Galaxy) will lend his voice to Mario with Charlie Day (Always Sunny in Philadelphia) voicing Luigi.\n Read more",
+          "link": "https://www.vg247.com/nintendo-direct-super-mario-bros-movie-trailer",
+          "publishedOn": "2022-10-04T17:41:40.000Z",
+          "wordCount": 4637,
+          "title": "Next Nintendo Direct to debut world premiere trailer for the Super Mario Bros. movie",
+          "imageUrl": "https://asset.vg247.com/super-mario-bros-movie-posters.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/super-mario-bros-movie-posters.jpg"
+        },
+        {
           "id": "https://www.vg247.com/cd-projekt-cyberpunk-2077-sequel-multiple-witcher-projects",
           "author": "Stephany Nunneley",
           "description": "CD Projekt announced today in a strategy update for investors that it has a sequel to Cyberpunk 2077 in the works along with three Witcher projects and one new IP.\nFirst up, it was announced that a sequel to Cyberpunk 2077 is in development. Going by  Project Orion at present, the game will \"prove the full power and potential of the Cyberpunk universe,\" and is to be developed by CD Projekt Red.\nThe company also confirmed The Molasses Flood, the indie studio it acquired in October 2021, is working on Project Sirius, an \"innovative take on The Witcher universe.\" The project will tell an \"unforgettable story for existing Witcher fans and new audiences.\" It is currently in pre-production.\n Read more",
@@ -4531,6 +4541,36 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/RADV-RT-XDC-2022",
+          "author": null,
+          "description": "RADV driver co-founder Bas Nieuwenhuizen of Google presented at today's X.Org Developers' Conference (XDC 2022) on the state of this open-source Mesa Vulkan driver's ray-tracing performance...",
+          "link": "https://www.phoronix.com/news/RADV-RT-XDC-2022",
+          "publishedOn": "2022-10-04T18:25:58.000Z",
+          "wordCount": 1385,
+          "title": "Mesa's RADV Radeon Vulkan Ray-Tracing Performance Continues Improving",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Radeon-ROCm-5.3",
+          "author": null,
+          "description": "Officially released today is Radeon ROCm 5.3 as the newest version of AMD's open-source compute stack for Radeon and Instinct hardware...",
+          "link": "https://www.phoronix.com/news/Radeon-ROCm-5.3",
+          "publishedOn": "2022-10-04T18:05:06.000Z",
+          "wordCount": 1307,
+          "title": "Radeon ROCm 5.3 Released With New APIs, Fine Grain Support",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/NVK-Driver-Progress-XDC-2022",
+          "author": null,
+          "description": "As written about for several months on Phoronix, an open-source NVIDIA Vulkan driver has been in the works that by the end of the summer this \"NVK\" driver has been seeing a lot of activity by Jason Ekstrand of Collabora along with David Airlie and Karol Herbst of Red Hat. Jason today talked at XDC 2022 about this NVK driver effort...",
+          "link": "https://www.phoronix.com/news/NVK-Driver-Progress-XDC-2022",
+          "publishedOn": "2022-10-04T17:40:49.000Z",
+          "wordCount": 1427,
+          "title": "Open-Source NVIDIA Vulkan \"NVK\" Driver Continues Progressing",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Intel-iGPU-Avoid-Linux-5.19.12",
           "author": null,
@@ -6985,6 +7025,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "oCwVrUwWHbNpfQq5gavCuj",
+          "author": null,
+          "description": "Here are the best X570 motherboards we've tested, for your AMD Ryzen PC build needs.",
+          "link": "https://www.tomshardware.com/best-picks/best-x570-motherboards",
+          "publishedOn": "2022-10-04T17:29:43.000Z",
+          "wordCount": 25879,
+          "title": "Best X570 Motherboards 2022: ATX, Micro ATX and Mini ITX Tested",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/X8w6RtCS3J7weZqerM3Nr3.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/X8w6RtCS3J7weZqerM3Nr3.jpg"
+        },
         {
           "id": "BMJ8iFSpzs6Zpt6JnYNvsh",
           "author": null,
@@ -9881,6 +9936,46 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1886758",
+          "author": "Jonathan M. Gitlin",
+          "description": "All the goodies from the sedan plus more headroom and an optional third row.",
+          "link": "https://arstechnica.com/?p=1886758",
+          "publishedOn": "2022-10-04T18:15:18.000Z",
+          "wordCount": 1745,
+          "title": "The one people in America will buy: The 2023 Mercedes-Benz EQS SUV",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/2023-Mercedes-EQS-SUV-2-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1886748",
+          "author": "Beth Mole",
+          "description": "In the limited hearing, the judge will weigh alleged government misconduct.",
+          "link": "https://arstechnica.com/?p=1886748",
+          "publishedOn": "2022-10-04T17:23:40.000Z",
+          "wordCount": 1727,
+          "title": "Holmes gets new hearing after disheveled gov’t witness shows up at her house",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/GettyImages-1242865739-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1886651",
+          "author": "Scharon Harding",
+          "description": "Parliament approves USB-C rule for 2024, mulls wireless charging interoperability.",
+          "link": "https://arstechnica.com/?p=1886651",
+          "publishedOn": "2022-10-04T17:15:47.000Z",
+          "wordCount": 1677,
+          "title": "EU’s USB-C mandate approval puts pressure on Apple to replace Lightning port",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/GettyImages-981176536-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1886685",
+          "author": "Kevin Purdy",
+          "description": "Nest's Wifi Pro has all the latest standards and not as much Google-y ecosystem.",
+          "link": "https://arstechnica.com/?p=1886685",
+          "publishedOn": "2022-10-04T17:12:08.000Z",
+          "wordCount": 1635,
+          "title": "Nest Wifi Pro brings 6E network, removes Assistant and backward compatibility",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/nest_wifi_pro1-760x380.png"
+        },
         {
           "id": "https://arstechnica.com/?p=1886727",
           "author": "Jon Brodkin",
@@ -14133,6 +14228,16 @@
       "siteUrl": "https://www.theregister.com/",
       "articles": [
         {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/04/nvidia_russia_offices/",
+          "author": null,
+          "description": "<h4>Remaining employees can continue work in different countries, though they'll struggle to get a flight out</h4> <p>GPU maker Nvidia is shutting down its operations in Russia following its earlier decision to stop selling products there. The company is said to be offering employees the chance to continue working for it in another country.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/04/nvidia_russia_offices/",
+          "publishedOn": "2022-10-04T17:59:14.000Z",
+          "wordCount": 1248,
+          "title": "Nvidia finally pulls shutters down on its Russian offices",
+          "imageUrl": "https://regmedia.co.uk/2022/03/23/shutterstock_exit_russia.jpg"
+        },
+        {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/04/twitter_shares_frozen_on_musk/",
           "author": null,
           "description": "<h4>The world's richest man may be ready to close deal to save himself more text message embarrassment</h4> <p>Trading in shares of Twitter was halted today on news that Elon Musk and the social media company had reached a deal for him to buy the company at the originally agreed upon $54.20 per share. …</p>",
@@ -16561,16 +16666,6 @@
           "wordCount": 1101,
           "title": "Afghanistan’s Taliban government bans TikTok",
           "imageUrl": "https://regmedia.co.uk/2022/08/04/screenshot_delete_tiktok_style.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/21/eu_data_retention/",
-          "author": null,
-          "description": "<h4>'Indiscriminate' preemptive harvesting of personal info a big no-no. What a novel concept</h4> <p>On Tuesday, the European Court of Justice (ECJ) issued rulings that limit indiscriminate data retention in France and Germany.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/21/eu_data_retention/",
-          "publishedOn": "2022-09-21T06:32:07.000Z",
-          "wordCount": 1385,
-          "title": "Look who's fallen foul of Europe's data retention rules. France and Germany",
-          "imageUrl": "https://regmedia.co.uk/2021/02/27/surveillance.jpg"
         }
       ]
     }
