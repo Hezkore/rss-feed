@@ -2,10 +2,87 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-04T21:24:30.123Z</updated>
+    <updated>2022-10-04T22:27:39.998Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SUSE Publishes First Prototype Of Adaptable Linux Platform (ALP)]]></title>
+        <id>https://www.phoronix.com/news/Adaptable-Linux-Platform-Proto</id>
+        <link href="https://www.phoronix.com/news/Adaptable-Linux-Platform-Proto"/>
+        <updated>2022-10-04T22:19:14.000Z</updated>
+        <summary type="html"><![CDATA[After SUSE/openSUSE engineers began talking up the Adaptable Linux Platform "ALP" as their next-gen enterprise Linux focus, last week they talked up the imminent release of "Les Droites" as their first public ALP prototype. Today that prototype is now live...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blizzard says Overwatch 2 servers experiencing "mass DDoS attack"]]></title>
+        <id>https://www.eurogamer.net/blizzard-says-overwatch-2-servers-experiencing-mass-ddos-attack</id>
+        <link href="https://www.eurogamer.net/blizzard-says-overwatch-2-servers-experiencing-mass-ddos-attack"/>
+        <updated>2022-10-04T22:03:07.000Z</updated>
+        <summary type="html"><![CDATA[Blizzard says Overwatch 2's servers are experiencing a "mass DDoS attack", preventing players from accessing the newly launched game.
+
+
+Players have reported unexpected server errors and difficulties joining Overwatch 2 games throughout the evening following today's free-to-play launch, with some claiming to be experiencing queues of as many as 40,000 other players.
+
+
+An earlier tweet by Blizzard boss Mike Ybarra acknowledged today's server woes but gave no indication they might be the result of anything other that launch day teething troubles, only thanking players for their patience and pledging to "get [them] into the fun".
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overwatch 2's launch issues being made worse by DDoS attack]]></title>
+        <id>https://www.rockpapershotgun.com/overwatch-2s-launch-issues-being-made-worse-by-ddos-attack</id>
+        <link href="https://www.rockpapershotgun.com/overwatch-2s-launch-issues-being-made-worse-by-ddos-attack"/>
+        <updated>2022-10-04T22:02:33.000Z</updated>
+        <summary type="html"><![CDATA[Overwatch 2 launched earlier this evening, prompting the traditional New Blizzard Game Experience of thousands of players waiting in long queues to play. According to president of Blizzard Entertainment Mike Ybarra, however, today's launch issues are being made worse by a "mass DDoS attack" on their servers.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sony may invest more in its efforts to bring PlayStation games to PC]]></title>
+        <id>https://www.rockpapershotgun.com/sony-may-invest-more-in-its-efforts-to-bring-playstation-games-to-pc</id>
+        <link href="https://www.rockpapershotgun.com/sony-may-invest-more-in-its-efforts-to-bring-playstation-games-to-pc"/>
+        <updated>2022-10-04T21:42:15.000Z</updated>
+        <summary type="html"><![CDATA[A lot of former PlayStation exclusives have been ported to PC over the past two years, and Sony seem to see the benefit of doing more. Hermen Hulst, head of PlayStation Studios, says that "Further investments in areas that will strengthen the expansion on to PC, on to mobile and into live services, that's definitely a possibility for us."
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CD Projekt har FEM spel på gång]]></title>
+        <id>https://www.fz.se/artikel/291683</id>
+        <link href="https://www.fz.se/artikel/291683-cd-projekt-har-fem-spel-pa-gang"/>
+        <updated>2022-10-04T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Tre The Witcher, ett Cyberpunk och ett nytt IP. Och sen ytterligare två The Witcher.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More Death Stranding 2 rumors surface, game is in development under codename "Ocean"]]></title>
+        <id>https://www.vg247.com/more-death-stranding-2-rumors-codename-ocean</id>
+        <link href="https://www.vg247.com/more-death-stranding-2-rumors-codename-ocean"/>
+        <updated>2022-10-04T21:28:14.000Z</updated>
+        <summary type="html"><![CDATA[Another rumor regarding Death Stranding 2 being in development has surfaced, with the source stating it is under production under the codename "Ocean".
+This is according ResetEra user Dusk Golem, a leaker who has been known to be on the money with horror-related scoops (via Insider Gaming).
+Dusk Golem's comments were posted in a thread on ResetEra where members of the forum were discussing a recent report that Death Stranding 2 would be released on Stadia, which Dusk Golem debunked.
+ Read more]]></summary>
+        <author>
+            <name>Stephany Nunneley</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The next Need For Speed will be revealed this week]]></title>
         <id>https://www.rockpapershotgun.com/the-next-need-for-speed-will-be-revealed-this-week</id>
@@ -18810,130 +18887,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<h4>If you love having thousands of tabs open, this might be one for you</h4> <p>The Mozilla Foundation has let Firefox 105 out of the gate, and if you use a Chrome-based browser, it's a good time to take another look.…</p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTuber who outed himself as behind "insider" posts admits chasing "clout" in new apology video]]></title>
-        <id>https://www.eurogamer.net/youtuber-who-outed-himself-as-behind-insider-posts-admits-chasing-clout-in-new-apology-video</id>
-        <link href="https://www.eurogamer.net/youtuber-who-outed-himself-as-behind-insider-posts-admits-chasing-clout-in-new-apology-video"/>
-        <updated>2022-09-21T10:26:57.000Z</updated>
-        <summary type="html"><![CDATA[YouTuber John Allen, who accidentally outed himself as being behind a video games industry "insider" Twitter account, has issued an apology video in which he admits being motivated by "clout" and "the buzz". 
-
-
-Allen gained brief internet fame by leaking details of Ubisoft's various Assassin's Creed announcements - details which he had been given by Ubisoft itself to prepare content while under embargo.
-
-
-But his identity as "TheRealInsider" was exposed over the weekend, when Allen replied to a tweet from a fan from his main account instead. Allen then swiftly deleted the tweet, the insider account, and subsequently issued a brief Twitter statement saying sorry.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diablo 4 endgame closed beta announced]]></title>
-        <id>https://www.eurogamer.net/diablo-4-endgame-closed-beta-announced</id>
-        <link href="https://www.eurogamer.net/diablo-4-endgame-closed-beta-announced"/>
-        <updated>2022-09-21T10:26:39.000Z</updated>
-        <summary type="html"><![CDATA[Blizzard has announced it will be conducting a closed beta test for the endgame of upcoming release Diablo 4.
-
-The announcement was made through a video of franchise general manager Rod Fergusson and game director Joe Shely, with more information detailed on Blizzard's official website.
-
-Invites will be sent directly to players who have "recently spent significant time in Diablo endgame experiences", with eligibility being determined using gameplay data.
- 
-Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Veckans fråga: Vilken av höstens stora lanseringar ser du mest fram emot?]]></title>
-        <id>https://www.sweclockers.com/artikel/34959</id>
-        <link href="https://www.sweclockers.com/artikel/34959-veckans-fraga-vilken-av-hostens-stora-lanseringar-ser-du-mest-fram-emot"/>
-        <updated>2022-09-21T10:04:33.000Z</updated>
-        <summary type="html"><![CDATA[Under tisdagkvällen avtäcktes Geforce RTX 4000-serien och AMD satte datum för RDNA 3. Därtill väntar processorer från blått och rött lag. Vad är du mest taggad på?]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern Warfare 2 beta's second weekend: quieter footsteps, faster perk earn rates and more visible enemies]]></title>
-        <id>https://www.vg247.com/modern-warfare-2-beta-weekend-two-changes-footsteps-perks</id>
-        <link href="https://www.vg247.com/modern-warfare-2-beta-weekend-two-changes-footsteps-perks"/>
-        <updated>2022-09-21T10:04:05.000Z</updated>
-        <summary type="html"><![CDATA[We're just a couple of days away from the second and final weekend of the Modern Warfare 2 beta. This round expands to PC and Xbox, and offers PlayStation players another chance to go hands-on with the multiplayer shooter.
-As you might expect, players wasted no time offering feedback about design changes they liked, didn't like, and a few of the bugs and map exploits discovered thus far - even if many of those grievances return from Modern Warfare 2019 in a clear sign Infinity Ward doesn't intend to change them.
-What the developer does actually want to do are a few tweaks in time for weekend two. In a blog post, Infinity Ward addressed several major points of feedback and whether or not they'll be changed this weekend.
- Read more]]></summary>
-        <author>
-            <name>Sherif Saed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Five reasons why PBA Pro Bowling 2023 is the best game ever]]></title>
-        <id>https://www.vg247.com/five-reasons-why-pba-pro-bowling-2023-is-the-best-game-ever</id>
-        <link href="https://www.vg247.com/five-reasons-why-pba-pro-bowling-2023-is-the-best-game-ever"/>
-        <updated>2022-09-21T10:03:29.000Z</updated>
-        <summary type="html"><![CDATA[Consider the humble sphere. Now, imagine it crashing through some precariously placed wooden skittles at 40mph. That’s ten pin bowling in a nutshell, and it’s as high-octane a thrillride as it sounds.
-PBA Pro Bowling 2023 may just be the greatest video game that has ever resulted from the coveted PBA Pro Bowling video game licence. And we’re not saying that lightly: we genuinely believe that it’s the best PBA Pro Bowling [YEAR] game since PBA Pro Bowling 2021 (that’s the last one, they skipped a year, dunno why didn’t ask).
-In America, bowling is a serious televised sport with commentators and rules and that. Unfortunately, in Britain, it’s just a thing you might do if you’ve just come out of the cinema but feel like it’s too early to call it a night, and you also fancy some microwaved hot wings. They say our two nations are separated by a common language, but I’ve often felt that people who say that have failed to take into account the several thousand miles of ocean and divergent attitudes toward mid-tier leisure activities.
- 
-Read more]]></summary>
-        <author>
-            <name>Vincent Vulpine</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Cloud Tau T2A Ampere Altra vs. T2D AMD EPYC Performance]]></title>
-        <id>https://www.phoronix.com/review/gce-tau-t2a-t2d</id>
-        <link href="https://www.phoronix.com/review/gce-tau-t2a-t2d"/>
-        <updated>2022-09-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Over the summer Google announced Tau T2A as the first Google Cloud Compute Engine VM to run on Arm. The T2A series is powered by Ampere Altra processors and complement the Tau T2D series powered by AMD EPYC 7003 "Milan" processors that launched last year. I have been trying out the Tau T2A series for the past several weeks and have some initial benchmarks to share today for showing how the Ampere Altra Arm VMs can perform against the existing T2D series.]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snabbkollen - Hur mycket får ett grafikkort kosta?]]></title>
-        <id>https://www.fz.se/artikel/291531</id>
-        <link href="https://www.fz.se/artikel/291531-snabbkollen-hur-mycket-far-ett-grafikkort-kosta"/>
-        <updated>2022-09-21T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Fyr- eller femsiffrigt?]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ben 10 leads the pack as the most-requested MultiVersus character]]></title>
-        <id>https://www.vg247.com/ben-10-leads-the-pack-as-the-most-requested-multiversus-character</id>
-        <link href="https://www.vg247.com/ben-10-leads-the-pack-as-the-most-requested-multiversus-character"/>
-        <updated>2022-09-21T09:45:50.000Z</updated>
-        <summary type="html"><![CDATA[MultiVersus is a game that has brought out heaps of character requests from the community ever since its launch — earlier even! Being a platform fighter where vastly diverse Warner Bros characters battle it out, the title invites wishlists and an outpouring of What Ifs when it comes to upcoming fighters. Thanks to a recent bit of polling, we have a rough idea of what the most-requested community characters are.
-Twitter user MrWhite4MVS, an account dedicated to spreading the good word of the Walter-White-for-MultiVersus, posted a round-up of each character mention in the character wishlist channel within the official MultiVersus Discord. At number one is Ben 10, followed by Walter White, The Warners, Mordecai & Rigby and Gumball.
-Now obviously, it’s worth noting that character mentions aren’t exactly votes. One dedicated Mordecai & Rigby fan could just spam out mentions until they started annoying the mods, or a gaggle of Gumball lovers could all constantly meme post to victory.
- Read more]]></summary>
-        <author>
-            <name>Connor Makar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChromeLoader, what took you so long? Malvertising irritant now slings ransomware]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/21/vmware_microsoft_chromeloader_threat/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/21/vmware_microsoft_chromeloader_threat/"/>
-        <updated>2022-09-21T09:26:11.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Doesn't make cents, makes bigger bucks instead ... probably</h4> <p>ChromeLoader – the malware that exploded onto the scene this year by hijacking browsers to redirect users to pages of ads – is apparently evolving into a more significant threat by deploying malicious payloads that go beyond malvertising.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GE-Proton 7-35 out now with more fixes for Linux / Steam Deck]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/ge-proton-7-35-out-now-with-more-fixes-for-linux-steam-deck/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/ge-proton-7-35-out-now-with-more-fixes-for-linux-steam-deck/"/>
-        <updated>2022-09-21T09:25:11.000Z</updated>
-        <summary type="html"><![CDATA[GE-Proton (GloriousEggroll), the community maintained version of the Windows compatibility layer version 7-35 is out now and here's what's new.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
         </author>
     </entry>
 </feed>
