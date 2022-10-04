@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-04T05:48:42.650Z</updated>
+    <updated>2022-10-04T06:39:27.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Japanese sushi chain boss resigns amid accusation of improper data access]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/04/hama_sushi_data_theft_allegations/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/04/hama_sushi_data_theft_allegations/"/>
+        <updated>2022-10-04T05:56:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Data theft stinks, says victim. Alleged perp claims he's getting a raw deal</h4> <p>The president of casual Japanese chain restaurant Kappa Sushi resigned yesterday in the wake of a data-theft scandal that has rocked the world of sushi trains.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[India’s Mars Orbiter Mission loses contact, burns all fuel, deemed ‘non-recoverable’]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/04/isro_mars_orbiter_mission_ends/</id>
@@ -157,6 +167,16 @@ Rating: 2 out of 10]]></summary>
         <summary type="html"><![CDATA[<h4>Some days, security just feels like a total illusion. OK, most days...</h4> <p>A recently disclosed critical vulnerability in Atlassian's Bitbucket is actively being exploited, according to the US government.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comic for 2022.10.04 - Impostor]]></title>
+        <id>https://explosm.net/comics/impostor</id>
+        <link href="https://explosm.net/comics/impostor"/>
+        <updated>2022-10-04T00:00:13.000Z</updated>
+        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
+        <author>
+            <name>Explosm.net</name>
         </author>
     </entry>
     <entry>
@@ -17729,64 +17749,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Storage maxes out at 512GB, though.]]></summary>
         <author>
             <name>Scharon Harding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CPUs and Memory Sales Drop Dramatically As PC Market Slows]]></title>
-        <id>XDrjp78k6mBkB7oHZqBrSc</id>
-        <link href="https://www.tomshardware.com/news/sales-of-cpus-and-memory-drop-dramatically-as-pc-sales-slow"/>
-        <updated>2022-09-20T18:22:32.000Z</updated>
-        <summary type="html"><![CDATA[Lowering sales of memory signals significant slump of demand for PCs, smartphones.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cooler Master GD160 ARGB Gaming Desk Review: Perfect Ambiance]]></title>
-        <id>ad2327TMyiqivXzPExHP3B</id>
-        <link href="https://www.tomshardware.com/reviews/cooler-master-gd160-argb"/>
-        <updated>2022-09-20T18:18:21.000Z</updated>
-        <summary type="html"><![CDATA[The GD160 ARGB is an electric height-adjustable desk with bright ARGB lighting that can sync to your PC. Don’t knock it till you try it.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Rust We Trust: Microsoft Azure CTO shuns C and C++]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/20/rust_microsoft_c/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/20/rust_microsoft_c/"/>
-        <updated>2022-09-20T18:16:05.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Mark Russinovich goes hardcore against old languages</h4> <p>Microsoft Azure CTO Mark Russinovich has had it with C and C++, time-tested programming languages commonly used for native applications that require high performance.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia Announces RTX 4090 Coming October 12, RTX 4080 Later]]></title>
-        <id>aBgUhdm5Qti5qcnDVnnMRP</id>
-        <link href="https://www.tomshardware.com/news/nvidia-geforce-rtx-4090-rtx-4080-price-release-date-specs-revealed"/>
-        <updated>2022-09-20T18:10:26.000Z</updated>
-        <summary type="html"><![CDATA[Nvidia GeForce RTX 4090 is coming on October 12, with a starting price of $1,599. The RTX 4080 will come in 16GB and 12GB variants, at a later date, with prices of $1,199 and $899, respectively.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia reveals the GeForce RTX 40 Series GPUs - and they’ve beastly power levels]]></title>
-        <id>https://www.vg247.com/nvidia-geforce-rtx-40-series-gpus-dlss-3</id>
-        <link href="https://www.vg247.com/nvidia-geforce-rtx-40-series-gpus-dlss-3"/>
-        <updated>2022-09-20T18:07:19.000Z</updated>
-        <summary type="html"><![CDATA[The time has come for a new graphics refresh - two years on from its last major generational leap, graphics powerhouse Nvidia has today unveiled the GeForce RTX 40 Series GPUs - the market leader’s vision for the next generation of PC graphics technology.
-
-
-In a lengthy keynote video that touched on everything from gaming graphics to the use of Nvidia AI to improve self-driving cars, Nvidia CEO Jensen Huang detailed the company’s vision of the future, powered by the new Ada Lovelace architecture - named after the famed mathematician who is frequently called the first-ever computer programmer.
-
-
-The new Lovelace architecture offers a significant power jump, which means large gains fore the new 40 series GPUs - of which, initially, there will be three.
- 
-Read more]]></summary>
-        <author>
-            <name>Alex Donaldson</name>
         </author>
     </entry>
 </feed>
