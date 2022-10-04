@@ -121,6 +121,26 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/10/deathloop-and-monster-train-are-in-the-new-humble-choice-bundle/",
+          "author": "Liam Dawe",
+          "description": "Another fresh month and a new set of games in Humble Choice, the monthly subscription from Humble Bundle so let's go over what's in it and the compatibility.",
+          "link": "https://www.gamingonlinux.com/2022/10/deathloop-and-monster-train-are-in-the-new-humble-choice-bundle/",
+          "publishedOn": "2022-10-04T17:10:52.000Z",
+          "wordCount": 1064,
+          "title": "DEATHLOOP and Monster Train are in the new Humble Choice Bundle",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/226799795id21695gol.jpg"
+        },
+        {
+          "id": "https://www.gamingonlinux.com/2022/10/streets-of-rogue-2-gets-a-steam-page-with-some-early-screenshots/",
+          "author": "Liam Dawe",
+          "description": "Excuse me for being overly hyped about this one but HECK YES! Streets of Rogue 2 is coming along in development, with a Steam page up now.",
+          "link": "https://www.gamingonlinux.com/2022/10/streets-of-rogue-2-gets-a-steam-page-with-some-early-screenshots/",
+          "publishedOn": "2022-10-04T16:47:18.000Z",
+          "wordCount": 1542,
+          "title": "Streets of Rogue 2 gets a Steam page with some early screenshots",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1882317965id21694gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/10/nvk-is-a-new-open-source-mesa-vulkan-driver-for-nvidia-gpus/",
           "author": "Liam Dawe",
           "description": "Jason Ekstrand of Collabora just announced NVK, a brand new open source Mesa Vulkan driver for NVIDIA GPUs.",
@@ -777,6 +797,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/sony-says-its-playstation-games-wont-release-on-pc-for-at-least-a-year",
+          "author": "Matt Wales",
+          "description": "PlayStation Studios head Hermen Hulst has revealed Sony's first-party PlayStation releases will likely take \"at least a year\" to launch on PC, although live-service games might come sooner.\r\n\n\r\nSony initially confirmed it was exploring bringing its first-party PlayStation exclusives to PC in March 2020, announcing that Horizon Zero Dawn would lead the charge - although it said \"releasing one first-party AAA title to PC doesn't necessarily mean that every game now will come to PC\" and that it didn't have plans to follow Xbox's lead with day-and-date PC releases.\r\n\n\r\nSince then, following the successful launch of Horizon Zero Dawn on PC, the number of titles joining the platform has continued to grow. Days Gone, God of War, and Marvel's Spider-Man Remastered have already made the jump, with Spider-Man: Miles Morales, Uncharted: The Legacy Collection, and Sackboy: A Big Adventure confirmed to be on the way.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sony-says-its-playstation-games-wont-release-on-pc-for-at-least-a-year",
+          "publishedOn": "2022-10-04T16:58:53.000Z",
+          "wordCount": 4790,
+          "title": "Sony says its PlayStation games won't release on PC for \"at least a year\"",
+          "imageUrl": "https://assets.reedpopcdn.com/marvels-spider-man-remastered-pc-screenshot-002.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/marvels-spider-man-remastered-pc-screenshot-002.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/cd-projekt-red-announces-cyberpunk-2077-sequel-future-witcher-projects-outlined",
           "author": "Victoria Kennedy",
@@ -6956,6 +6986,51 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "BMJ8iFSpzs6Zpt6JnYNvsh",
+          "author": null,
+          "description": "We’ve tested dozens of AIO coolers, measuring CPU temperatures and fan noise under load, to find the best closed-loop options to keep your PC cool and quiet.",
+          "link": "https://www.tomshardware.com/best-picks/best-aio-coolers",
+          "publishedOn": "2022-10-04T17:13:00.000Z",
+          "wordCount": 25745,
+          "title": "Best AIO Coolers 2022",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/7tJrEEfwwKGxuhFcyS4QdB.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/7tJrEEfwwKGxuhFcyS4QdB.jpg"
+        },
+        {
+          "id": "2uxAbqpguvtUKCvgdmEqvi",
+          "author": null,
+          "description": "A new Linux kernel update has been found to kill laptop displays physically, thanks to a bug found with Intel's graphics driver. As a result, only Intel-based laptops are effected.",
+          "link": "https://www.tomshardware.com/news/linux-kernel-update-kills-laptop-displays",
+          "publishedOn": "2022-10-04T16:59:06.000Z",
+          "wordCount": 21362,
+          "title": "This New Linux Kernel Update Can Damage Your Laptop Display",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/pxZMxWXMhzvGdVGvoqcKSk.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/pxZMxWXMhzvGdVGvoqcKSk.jpg"
+        },
+        {
+          "id": "P5pnShkwRCpL3n2AU37LV4",
+          "author": null,
+          "description": "Back up your data - all of it, on this massive 20TB Western Digital Elements HDD for $386. This external drive will come in handy for not just backing up your data, but also transporting it.",
+          "link": "https://www.tomshardware.com/news/pick-up-20tb-of-external-storage-for-dollar386-real-deals",
+          "publishedOn": "2022-10-04T16:49:09.000Z",
+          "wordCount": 23411,
+          "title": "Pick up 20TB of External Storage for $386: Real Deals",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/D6AZrNPepJagbprZcHGxMf.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/D6AZrNPepJagbprZcHGxMf.jpg"
+        },
+        {
           "id": "z4kK3Nztrq9P5JQqkZWkiD",
           "author": null,
           "description": "Alibaba's Roma RISC-V laptop can now be purchased, marking the first time the open-source CPU architecture has appeared in an ultraportable.",
@@ -9807,6 +9882,36 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1886727",
+          "author": "Jon Brodkin",
+          "description": "Musk reportedly told Twitter he'll complete deal at original $54.20 share price.",
+          "link": "https://arstechnica.com/?p=1886727",
+          "publishedOn": "2022-10-04T16:48:58.000Z",
+          "wordCount": 1480,
+          "title": "Reports: Musk makes U-turn before trial, tells Twitter he’ll complete merger",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/getty-musk-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1886644",
+          "author": "Benj Edwards",
+          "description": "Non-binding national guidelines on AI harms may inform future policy and business decisions.",
+          "link": "https://arstechnica.com/?p=1886644",
+          "publishedOn": "2022-10-04T16:11:28.000Z",
+          "wordCount": 1585,
+          "title": "Biden proposes new “Bill of Rights” to protect Americans from AI snooping",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/ai_whitehouse_hero_1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1886661",
+          "author": "Ron Amadeo",
+          "description": "The October 2022 Android update is the end of support for Google's worst phone.",
+          "link": "https://arstechnica.com/?p=1886661",
+          "publishedOn": "2022-10-04T15:55:46.000Z",
+          "wordCount": 1857,
+          "title": "The Pixel 4 hits end of life after three years of service",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/10/Pixel-4-7-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1886629",
           "author": "Ron Amadeo",
           "description": "After a 10-ads-per-video experiment earlier, YouTube seems hungry for more subs.",
@@ -11503,6 +11608,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291682",
+          "author": null,
+          "description": "Skulle ha släppts i november.",
+          "link": "https://www.fz.se/artikel/291682-eld-upphor-company-of-heroes-3-forsenas-till-nasta-ar",
+          "publishedOn": "2022-10-04T16:52:00.000Z",
+          "wordCount": 1777,
+          "title": "Eld upphör! Company of Heroes 3 försenas till nästa år",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291682"
+        },
         {
           "id": "https://www.fz.se/artikel/291681",
           "author": null,
@@ -14018,6 +14133,26 @@
       "siteUrl": "https://www.theregister.com/",
       "articles": [
         {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/04/twitter_shares_frozen_on_musk/",
+          "author": null,
+          "description": "<h4>The world's richest man may be ready to close deal to save himself more text message embarrassment</h4> <p>Trading in shares of Twitter was halted today on news that Elon Musk and the social media company had reached a deal for him to buy the company at the originally agreed upon $54.20 per share. …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/04/twitter_shares_frozen_on_musk/",
+          "publishedOn": "2022-10-04T17:11:57.000Z",
+          "wordCount": 1304,
+          "title": "Twitter shares frozen on Musk buyout revival rumor",
+          "imageUrl": "https://regmedia.co.uk/2022/09/07/musk_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/04/eu_usbc_charging/",
+          "author": null,
+          "description": "<h4>It's officially official: Mobile devices will be required to use USB-C from 2024, with laptops following in 2026</h4> <p>After an initial agreement in June, the European Parliament today voted overwhelmingly to approve a USB-C charging standard that will force electronics manufacturers to ditch other ports, proprietary or otherwise. …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/04/eu_usbc_charging/",
+          "publishedOn": "2022-10-04T17:02:30.000Z",
+          "wordCount": 1349,
+          "title": "USB-C iPhone, anyone? EU finalizes charging standard rule",
+          "imageUrl": "https://regmedia.co.uk/2022/06/17/usb_shutterstock.jpg"
+        },
+        {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/04/microsoft_exchange_password_spray/",
           "author": null,
           "description": "<h4>Exchange Online users should have authentication policies in place</h4> <p>Microsoft is warning Exchange Online users about a rise in password spray attacks, urging those that have yet to disable Basic Authentication to at least set up authentication policies to protect their users and data.…</p>",
@@ -16436,16 +16571,6 @@
           "wordCount": 1385,
           "title": "Look who's fallen foul of Europe's data retention rules. France and Germany",
           "imageUrl": "https://regmedia.co.uk/2021/02/27/surveillance.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/21/fcc_puts_pacific_network_and/",
-          "author": null,
-          "description": "<h4>Pacific Network Corp and China Unicom join the likes of Huawei, Hytera, Hikvision on list of dangerous suppliers</h4> <p>The US Federal Communications Commission (FCC) has added two Chinese companies to its list of communications equipment suppliers rated a threat to national security: Pacific Network Corp, its wholly owned subsidiary ComNet (USA) LLC, and China Unicom (Americas).…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/21/fcc_puts_pacific_network_and/",
-          "publishedOn": "2022-09-21T04:58:08.000Z",
-          "wordCount": 1191,
-          "title": "USA adds two more Chinese carriers on 'probably a threat to national security' list",
-          "imageUrl": "https://regmedia.co.uk/2022/09/21/shutterstock_us_china_tech_trade_war.jpg"
         }
       ]
     }
