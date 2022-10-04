@@ -2,10 +2,118 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-04T07:33:32.542Z</updated>
+    <updated>2022-10-04T08:35:59.660Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[So far, Overwatch 2 is a clever but underwhelming free-to-play compromise]]></title>
+        <id>https://www.eurogamer.net/so-far-overwatch-2-is-a-clever-but-underwhelming-free-to-play-compromise</id>
+        <link href="https://www.eurogamer.net/so-far-overwatch-2-is-a-clever-but-underwhelming-free-to-play-compromise"/>
+        <updated>2022-10-04T08:31:34.000Z</updated>
+        <summary type="html"><![CDATA[You didn't hear it from me first, but Overwatch 2 is not Overwatch 2. It is Overwatch 2.0, a free-to-play rejig of the celebrated 2016 hero shooter with rebalanced characters, a sprinkling of new faces, modes and maps, and a predictably tedious seasonal Battle Pass system whereby unlocks are either paid for or ground out through match XP. 
+
+
+Spend an hour with it and, tuned-up visuals notwithstanding, you might struggle to notice any difference beyond the charmless new monetisation elements. There's the same delightful range of MOBA-ish abilities, the same awkward pivot between cultural archetype and dodgy stereotype in the character and cosmetic design, the same sunny ambience and brilliant tactical audio, and the same rousing premise of corpo-progressive Pixar Avengers murdering each other for possession of small wagons and courtyards.
+
+
+Many of the game's headline new bits are still to be developed or added, including the majority of new heroes and various much-trumpeted Player versus AI modes. I've not had much time with what does exist: the review period began in mid-September, but Eurogamer's code arrived late last week, and my existing PS4 account hasn’t transferred over to the PC review build - obliging me to jump in as a First Time User and so, limiting my access to the game's already-tiny pool of pre-release players. But enough of my petulant fist-waving! I’ll have a full review in a week or so - here are some provisional notes from the trenches.
+ 
+Read more]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK hits Russia with British IT services ban]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/04/it_consultants_sanctions/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/04/it_consultants_sanctions/"/>
+        <updated>2022-10-04T08:30:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Annexed Donetsk? No more consultants for you then</h4> <p>Fresh export sanctions were leveled at Russia by the UK last week, with IT consultancy among other professional services that are banned.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valve makes Steam Deck custom boot screens easier]]></title>
+        <id>https://www.gamingonlinux.com/2022/10/valve-makes-steam-deck-custom-boot-screens-easier/</id>
+        <link href="https://www.gamingonlinux.com/2022/10/valve-makes-steam-deck-custom-boot-screens-easier/"/>
+        <updated>2022-10-04T08:27:12.000Z</updated>
+        <summary type="html"><![CDATA[Valve just released a fresh Beta update for the Steam Deck, as they loved seeing all the custom boot screens so much they've now made it officially supported.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dima Kogan: mrcal 2.2 released]]></title>
+        <id>http://notes.secretsauce.net/notes/2022/10/04_mrcal-22-released.html</id>
+        <link href="http://notes.secretsauce.net/notes/2022/10/04_mrcal-22-released.html"/>
+        <updated>2022-10-04T08:05:00.000Z</updated>
+        <summary type="html"><![CDATA[mrcal 2.2 (the release notes are available here). This release
+contains lots of medium-important internal improvements, and is a result of
+
+
+
+Heavy dogfooding. I use these tools a lot every day, and many things are
+nicer, easier and work better in 2.2 than in 2.1
+
+Not-yet-completed cool new functionality. Some of the required internal
+improvements for the big new features are being released here.
+
+
+
+
+The biggest single new feature in this release is the interactive graphical tool
+for examining dense stereo results: accessed via mrcal-stereo --viz stereo.
+
+
+
+The next pressing thing is improved documentation. The tour of mrcal is still a
+good overview of some of the functionality that makes mrcal unique and far
+better than traditional calibration tools. But it doesn't do a good job of
+demonstrating how you would actually use mrcal to diagnose and handle common
+calibration issues. I need to gather some releasable representative data, and
+write docs around that.
+
+
+
+Then I'm going to start finishing the big new features in the roadmap (these are
+all already functional, but need polish):
+
+
+
+Triangulation functions in the optimization loop for efficient
+structure-from-motion
+
+Support for non-central projection to remove a significant source of bias
+present in very wide lenses
+
+Improved projection uncertainty quantification to resolve accuracy and
+performance issues in the current projection uncertainty method]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I kväll visas Dead Space Remake-gameplay upp]]></title>
+        <id>https://www.fz.se/artikel/291671</id>
+        <link href="https://www.fz.se/artikel/291671-i-kvall-visas-dead-space-remake-gameplay-upp"/>
+        <updated>2022-10-04T07:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Kapa lemmarna.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Uppspelning i 4K kan låsas bakom Youtube Premium]]></title>
+        <id>https://www.sweclockers.com/artikel/35017</id>
+        <link href="https://www.sweclockers.com/artikel/35017-uppspelning-i-4k-kan-lasas-bakom-youtube-premium"/>
+        <updated>2022-10-04T07:43:00.000Z</updated>
+        <summary type="html"><![CDATA[Video i 4K på Youtube är för tillfället tillgängligt för samtliga användare. Nu finns indikationer på att den högre upplösningen kan låsas bakom prenumeration.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Someone's at last helping AI models understand those with speech disabilities]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/04/ai_language_recognition_disabled/</id>
@@ -17718,67 +17826,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple raising App Store prices in multiple countries from October]]></title>
-        <id>https://www.eurogamer.net/apple-raising-app-store-prices-in-multiple-countries-from-october</id>
-        <link href="https://www.eurogamer.net/apple-raising-app-store-prices-in-multiple-countries-from-october"/>
-        <updated>2022-09-20T20:32:24.000Z</updated>
-        <summary type="html"><![CDATA[Apple has announced it will be raising its App Store prices in multiple territories - including every country that uses the euro, but excluding the UK at present - starting on 5th October.
-
-
-As per an update shared with developers, which did not provide an explanation for the impending price hike, Apple said the move will impact all tiers of its App Store pricing chart in the following areas: Chile, Egypt, Japan, Malaysia, Pakistan, Poland, South Korea, Sweden, Vietnam, and all territories that use the euro currency. 
-
-
-When the pricing changes come into effect on 5th October, App Store items previously priced at €0.99 will, for instance, increase to €1.19, while apps formerly costing €9.99 will rise to €11.99. App Store developers who offer subscriptions will, however, have the option to preserve prices for existing subscribers. 
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Set a calendar alert: NASA to broadcast first asteroid redirect on Monday]]></title>
-        <id>https://arstechnica.com/?p=1883002</id>
-        <link href="https://arstechnica.com/?p=1883002"/>
-        <updated>2022-09-20T20:28:35.000Z</updated>
-        <summary type="html"><![CDATA[The DART spacecraft will smash into a small asteroid to alter its orbit.]]></summary>
-        <author>
-            <name>John Timmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Satisfactory's update 6 revamps weapons, creature AI and exploration]]></title>
-        <id>https://www.rockpapershotgun.com/satisfactorys-update-6-revamps-weapons-creature-ai-and-exploration</id>
-        <link href="https://www.rockpapershotgun.com/satisfactorys-update-6-revamps-weapons-creature-ai-and-exploration"/>
-        <updated>2022-09-20T20:19:19.000Z</updated>
-        <summary type="html"><![CDATA[Satisfactory's update 6 is now available in the scifi craft 'em up's early access release. It makes several sweeping changes to the game, including revamping existing weapons, adding new locations to enhance exploration, and, uh, a boombox, so you can blast music while you build. There's a new update trailer below.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iRobot and Amazon agree to share data with FTC on $1.7B deal]]></title>
-        <id>https://arstechnica.com/?p=1882953</id>
-        <link href="https://arstechnica.com/?p=1882953"/>
-        <updated>2022-09-20T19:51:28.000Z</updated>
-        <summary type="html"><![CDATA[Both companies agreed to share data for FTC's investigation.]]></summary>
-        <author>
-            <name>Ashley Belanger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warning: That new AMD Ryzen 7000 laptop may not be as fresh as you think]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/20/ryzen_amd_zen2/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/20/ryzen_amd_zen2/"/>
-        <updated>2022-09-20T19:45:45.000Z</updated>
-        <summary type="html"><![CDATA[<h4>The House of Zen is back to its tricks: Chips with three-year-old cores</h4> <p>AMD has apparently dug deep into its spare parts bin with today's launch of its 7020-series mobile processors, which it says will bring all-day battery life to more entry-level notebooks.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
