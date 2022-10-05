@@ -97,23 +97,7 @@
       "title": "Desktop Archives - 9to5Linux",
       "feedUrl": "https://9to5linux.com/category/news/desktop-environment/feed",
       "siteUrl": "https://9to5linux.com/category/news/desktop-environment",
-      "articles": [
-        {
-          "id": "https://9to5linux.com/?p=14062",
-          "author": "Marius Nestor",
-          "description": "GNOME 43 desktop environment is out now with a brand-new Quick Settings feature, more apps ported to GTK4, a new Device Security panel, as well as various other changes and improvements.\nThe post GNOME 43 Released with Quick Settings, More GTK 4 Ports, and New Device Security Panel appeared first on 9to5Linux - do not reproduce this article without permission. This RSS feed is intended for readers, not scrapers.",
-          "link": "https://9to5linux.com/gnome-43-released-with-quick-settings-more-gtk-4-ports-and-new-device-security-panel",
-          "publishedOn": "2022-09-21T14:36:48.000Z",
-          "wordCount": 11836,
-          "title": "GNOME 43 Released with Quick Settings, More GTK 4 Ports, and New Device Security Panel",
-          "enclosure": {
-            "url": "https://9to5linux.com/wp-content/uploads/2022/09/g43.webm",
-            "length": "0",
-            "type": "video/webm"
-          },
-          "imageUrl": "https://9to5linux.com/wp-content/uploads/2022/09/g43.webp"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "GamingOnLinux Latest Articles",
@@ -719,26 +703,6 @@
           "wordCount": 1095,
           "title": "Get a whole lot of Serious Sam in this game bundle",
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/738112611id21637gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/09/steam-beta-lets-you-create-a-collection-filtered-by-games-you-and-friends-own/",
-          "author": "Liam Dawe",
-          "description": "Here's a rather useful feature Valve just added to a recent release of the Steam Beta Client. You can now filter your Steam Library based on what you and your Steam Friends own.",
-          "link": "https://www.gamingonlinux.com/2022/09/steam-beta-lets-you-create-a-collection-filtered-by-games-you-and-friends-own/",
-          "publishedOn": "2022-09-21T15:52:51.000Z",
-          "wordCount": 1157,
-          "title": "Steam Beta lets you create a collection filtered by games you and friends own",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1678912417id21636gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/09/minigalaxy-a-simple-open-source-gog-client-for-linux-adds-lots-of-new-features/",
-          "author": "Liam Dawe",
-          "description": "While plenty of people use apps like Lutris, Heroic and Bottles there's also Minigalaxy which is a dedicated launcher just for GOG on Linux.",
-          "link": "https://www.gamingonlinux.com/2022/09/minigalaxy-a-simple-open-source-gog-client-for-linux-adds-lots-of-new-features/",
-          "publishedOn": "2022-09-21T14:36:04.000Z",
-          "wordCount": 1143,
-          "title": "Minigalaxy, a simple open source GOG client for Linux adds lots of new features",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/295811015id21635gol.jpg"
         }
       ]
     },
@@ -3076,36 +3040,6 @@
           "wordCount": 4466,
           "title": "Afghanistan is latest country to ban PUBG",
           "imageUrl": "https://assets.reedpopcdn.com/pubg-dev-confirms-arrest-of-15-cheat-hack-developers-as-its-own-anti-cheat-efforts-continue-1525126506683.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/pubg-dev-confirms-arrest-of-15-cheat-hack-developers-as-its-own-anti-cheat-efforts-continue-1525126506683.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/minecraft-collaborates-with-bbc-earth-on-frozen-planet-worlds",
-          "author": "Ed Nightingale",
-          "description": "BBC Earth and Minecraft have teamed up to create five free worlds based on new documentary series Frozen Planet 2.\r\n\n\r\nFor the first time ever, it offers a new perspective: players can explore the worlds as animals such as a penguin, bumblebee, and polar bear.\r\n\n\r\nPlayers are tasked with documenting key animal behaviour to inform environmental research, mimicking that of natural history film-making researchers.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/minecraft-collaborates-with-bbc-earth-on-frozen-planet-worlds",
-          "publishedOn": "2022-09-21T15:10:23.000Z",
-          "wordCount": 4540,
-          "title": "Minecraft collaborates with BBC Earth on Frozen Planet worlds",
-          "imageUrl": "https://assets.reedpopcdn.com/Frozen_Planet_II_1.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Frozen_Planet_II_1.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/ray-tracing-coming-to-portal-this-november",
-          "author": "Victoria Kennedy",
-          "description": "Nvidia is releasing Portal with RTX, which will see the game's graphics reimagined \"with full ray tracing and entirely new art evocative of the original.\"\r\n\n\r\nIn a detailed blog post, Nvidia stated that \"full ray tracing\" will mean every level will be transformed. Light will now bounce around the settings, and \"be affected by the scene's geometry and materials\". Meanwhile, where shadows are being cast, these will be \"pixel perfect\".\r\n\n\r\n\"Portal's unique selling point is the ability to take anything through a portal, and see through them, something that hadn't been done before its release,\" Nvidia elaborated. \"With ray tracing, light can pass through portals, too. Even the light from the moving High Energy Pellets will cast through portals, causing shadows to shift in step.\" You can see a little preview of Portal with RTX below.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/ray-tracing-coming-to-portal-this-november",
-          "publishedOn": "2022-09-21T15:07:51.000Z",
-          "wordCount": 4631,
-          "title": "Ray tracing coming to Portal this November",
-          "imageUrl": "https://assets.reedpopcdn.com/ss_2cdaff5ecff39e8fc22b7ba7fa10e60c799195eb.1920x1080.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ss_2cdaff5ecff39e8fc22b7ba7fa10e60c799195eb.1920x1080.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/former-rocksteady-employee-turns-down-sponsored-award-following-sexual-harassment-allegations",
-          "author": "Ed Nightingale",
-          "description": "UPDATE: Rocksteady has responded to Eurogamer with a statement in response to previous investigations into sexual harassment at the studio. Below in full: \n\"Investigations found there was no evidence substantiating the allegations of this former employee who resigned in 2019. We stand against all forms of harassment and take any allegation extremely seriously. We support those who have concerns they wish to raise. We therefore took the necessary time to thoroughly investigate allegations at Rocksteady Studios with the utmost integrity. \n\"An external, independent law firm conducted a full and thorough investigation, including interviewing current and former employees, not only researching past allegations, but also examining the current culture of the studio. Furthermore, a Warner Bros. Discovery (then Warner Media) People Relations team, independent of the games division, diligently researched and investigated any allegations raised. \n Read more",
-          "link": "https://www.eurogamer.net/former-rocksteady-employee-turns-down-sponsored-award-following-sexual-harassment-allegations",
-          "publishedOn": "2022-09-21T14:33:10.000Z",
-          "wordCount": 5241,
-          "title": "Former Rocksteady employee turns down sponsored award following sexual harassment allegations",
-          "imageUrl": "https://assets.reedpopcdn.com/rocksteadys-suicide-squad-has-reportedly-been-delayed-into-next-year-1643826279110.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/rocksteadys-suicide-squad-has-reportedly-been-delayed-into-next-year-1643826279110.jpg"
         }
       ]
     },
@@ -4223,56 +4157,6 @@
           "wordCount": 4770,
           "title": "Ted Lasso and AFC Richmond will be included in FIFA 23",
           "imageUrl": "https://asset.vg247.com/fifa-23_ted_lasso.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/fifa-23_ted_lasso.jpg"
-        },
-        {
-          "id": "https://www.vg247.com/gta-6-leaks-forget-what-you-think-you-know-about-game-development",
-          "author": "Steve Burns",
-          "description": "Like many, my first thought upon seeing the GTA 6 leak was ‘fuck’. The second was a flashback to the protocols which had occurred when leaks or security breaches, no matter how minor, had happened when I was on the development side of the industry: usually, angry-faced men bursting into a room and demanding nobody touch anything. The third thought was what Rockstar, the king of image control and information flow, would do now. My mind ran to that sequence from The Bourne Identity, where an embattled CIA station chief demands the agency ‘get everybody up’. Everybody, in this instance, being a set of assassins, each with cool names and even colder intentions.   \r\n\r\n\nTo my knowledge, Matt Damon is not involved, and Rockstar’s brass has not dispatched Clive Owen to have a gun-point philosophical chat with the person responsible for this leak, much as it perhaps would like to. It has, however, teamed with the FBI, so maybe I wasn’t that far off. Either way, the response will be swift and all-encompassing, like what happened with the closest thing I can think of to this, the Half-Life 2 leak. (And we all know what happened there.)   \r\n\r\n\nThe reasons for such a response are obvious. There is a gigantic financial element in play here. There are security concerns regarding source code and other exposures which could well derail an entire project. And then there’s reputational damage, which has already occurred. Seconds after the leak, the internet was awash with people disappointed with how it looked. That it looked like shit. That if this was what it looks like, it would be a huge disappointment and, just quietly, what have the (lazy?) devs been up to all this time?  \r\n\r\n \nRead more",
-          "link": "https://www.vg247.com/gta-6-leaks-forget-what-you-think-you-know-about-game-development",
-          "publishedOn": "2022-09-21T15:56:20.000Z",
-          "wordCount": 5715,
-          "title": "GTA 6 leaks: Forget what you think you know about game development",
-          "imageUrl": "https://asset.vg247.com/GTA-6-leak-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/GTA-6-leak-header.jpg"
-        },
-        {
-          "id": "https://www.vg247.com/scorn-eight-minutes-of-gameplay",
-          "author": "Stephany Nunneley",
-          "description": "Eight minutes of new gameplay for the upcoming horror game Scorn has been released, providing you with a look at the first puzzle.\nIn this introductory sequence, you will become acquainted with the character you’ll guide through the bio-labyrinth.\nThe game features no assistance as you work your way into the depths of the game's world, equipping yourself with odd tools and solving a gruesome puzzle that \"only hints towards things to come.\"\n Read more",
-          "link": "https://www.vg247.com/scorn-eight-minutes-of-gameplay",
-          "publishedOn": "2022-09-21T15:37:27.000Z",
-          "wordCount": 4545,
-          "title": "Latest Scorn trailer shows eight minutes of grotesque atmosphere and puzzles",
-          "imageUrl": "https://asset.vg247.com/scorn-prologue-screens-(9).jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/scorn-prologue-screens-(9).jpg"
-        },
-        {
-          "id": "https://www.vg247.com/2k-reset-passwords-help-desk-hacked",
-          "author": "Stephany Nunneley",
-          "description": "2K Games is warning customers to change their passwords after an \"unauthorized third party\" gained access to its customer support platform.\nAccording to 2K, customer information became available to the unauthorized individual(s) who proceeded to send out emails containing a malicious link.\nThe company warns customers should they receive an email from support not to click on any link directing them to reset their passwords.\n Read more",
-          "link": "https://www.vg247.com/2k-reset-passwords-help-desk-hacked",
-          "publishedOn": "2022-09-21T15:03:20.000Z",
-          "wordCount": 4610,
-          "title": "2K warns folks to reset passwords due to \"unauthorized third party\" gaining access to help desk platform",
-          "imageUrl": "https://asset.vg247.com/2k-logo_MpyKQZK.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/2k-logo_MpyKQZK.jpg"
-        },
-        {
-          "id": "https://www.vg247.com/the-bird-that-drinks-tears-game-gets-a-stunning-unreal-engine-5-concept-trailer",
-          "author": "Connor Makar",
-          "description": "A new Unreal Engine 5 trailer hypung up an as-of-yet unnamed project based on the Korean Fantasy Novel, The Bird That Drinks Tears, has been released. The visual concept trailer, titled The Nhaga Eater, is a fairly violent affair kicking off with a decapitation before we see the brutal aftermath of a larger, bloodier battle.\nThis concept trailer, released by KRAFTON Inc, was released to showcase the future aesthetics of a variety of future projects KRAFTON are working on in collaboration with Iain McCaig, an American artist, writer, and film maker previously involved with IP such as Star Wars, Terminator, The Avengers, and more.\nThis trailer is the kicking off point for a variety of projects. There will indeed be a game, with no planned release date as of right now as KRAFTON is currently recruiting a team for the project. Until then, there’s an artbook releasing in 2022 followed by a graphic novel based on the same original Korean Novel to come in 2023. In the official press release, an official motion picture is also mentioned, although details on this are scarce.\n Read more",
-          "link": "https://www.vg247.com/the-bird-that-drinks-tears-game-gets-a-stunning-unreal-engine-5-concept-trailer",
-          "publishedOn": "2022-09-21T15:01:09.000Z",
-          "wordCount": 4689,
-          "title": "The Bird That Drinks Tears game gets a stunning Unreal Engine 5 concept trailer",
-          "imageUrl": "https://asset.vg247.com/bird-that-drinks-tears-trailer.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/bird-that-drinks-tears-trailer.jpg"
-        },
-        {
-          "id": "https://www.vg247.com/battlefield-call-of-duty-future-rivalry-xbox-exclusivity-andrew-wilson",
-          "author": "Sherif Saed",
-          "description": "EA CEO Andrew Wilson, who's tenure at the company has seen the Battlefield franchise settle into a slump that no one knowns if it could ever break out of, sees an opportunity in the beleaguered series claiming Call of Duty's crown.\nAccording to Wilson, said opportunity might be a reality, if and when rival shooter franchise Call of Duty becomes locked to Xbox.\nWilson, who attended the Goldman Sachs Communacopia + Technology Conference 2022, spoke about EA's current portfolio of games, some of what it plans to do with it going forward, and the company's ambitions in mobile and beyond.\n Read more",
-          "link": "https://www.vg247.com/battlefield-call-of-duty-future-rivalry-xbox-exclusivity-andrew-wilson",
-          "publishedOn": "2022-09-21T14:53:06.000Z",
-          "wordCount": 5109,
-          "title": "EA CEO is banking on Battlefield picking up the slack should Call of Duty become Xbox exclusive",
-          "imageUrl": "https://asset.vg247.com/battlefield-call-of-duty-andrew-wilson-1.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/battlefield-call-of-duty-andrew-wilson-1.jpg"
         }
       ]
     },
@@ -5500,26 +5384,6 @@
           "wordCount": 1498,
           "title": "Microsoft & Canonical Bring systemd To WSL",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/GNOME-43-Released",
-          "author": null,
-          "description": "GNOME 43 is out today as the newest version of this popular open-source desktop environment used by Fedora Workstation, Ubuntu, and many other Linux distributions...",
-          "link": "https://www.phoronix.com/news/GNOME-43-Released",
-          "publishedOn": "2022-09-21T15:30:00.000Z",
-          "wordCount": 1206,
-          "title": "GNOME 43 Released With More Apps Ported To GTK4, Wayland Enhancements",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Framework-Laptop-Chromebook",
-          "author": null,
-          "description": "The Framework Laptop has proven to be very popular with enthusiasts thanks to its focus on the ability for users to make repairs and upgrades to their laptop. Google has even taken notice and they in cooperation with Framework Computer Inc have launched a Chromebook Edition laptop...",
-          "link": "https://www.phoronix.com/news/Framework-Laptop-Chromebook",
-          "publishedOn": "2022-09-21T15:15:24.000Z",
-          "wordCount": 1260,
-          "title": "Framework Laptop Launches Chromebook Edition With Google",
-          "imageUrl": null
         }
       ]
     },
@@ -6697,46 +6561,6 @@
           "wordCount": 5201,
           "title": "What's better: ding! or the Howie scream?",
           "imageUrl": "https://assets2.rockpapershotgun.com/world-of-warcraft-warlords-of-draenor-level-up.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/world-of-warcraft-warlords-of-draenor-level-up.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/tvs-favourite-football-manager-ted-lasso-is-coming-to-fifa-23",
-          "author": "CJ Wheeler",
-          "description": "Apple TV’s feelgood football manager Ted Lasso will make his digital debut in FIFA 23 when the game releases on September 30th, EA have revealed today. Lasso’s club AFC Richmond will be playable in multiple modes, including Career Mode. There’ll also be themed items in FIFA Ultimate Team and Pro Clubs. Stick on a fake moustache and your biggest grin to watch the trailer below.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/tvs-favourite-football-manager-ted-lasso-is-coming-to-fifa-23",
-          "publishedOn": "2022-09-21T16:00:29.000Z",
-          "wordCount": 5052,
-          "title": "TV’s favourite football manager Ted Lasso is coming to FIFA 23",
-          "imageUrl": "https://assets2.rockpapershotgun.com/FIFA-23-Ted-Lasso-main%5D.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/FIFA-23-Ted-Lasso-main%5D.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/beacon-pines-review",
-          "author": "Graham Smith",
-          "description": "I'm a sucker for invention when it comes to story in video games, and Beacon Pines drew me in with what looked like a choice-driven adventure. As you explore the down-on-its-luck farming town of the title, you discover 'charms'. Each charm is a word which can be deployed at set points to branch the story in new, severe ways. More importantly, you can flip back and forth between these pivotal moments at any time, allowing you to deploy new words in earlier chapters to see what happens.\r\n\nExcept, Beacon Pines is far less choice-driven than I expected. Instead, it's something far rarer and more ambitious in video games: it is a good story, well written, with strong characters you grow to care for.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/beacon-pines-review",
-          "publishedOn": "2022-09-21T16:00:00.000Z",
-          "wordCount": 5663,
-          "title": "Beacon Pines review: a cosy horror adventure game that succeeds on the strength of its characters",
-          "imageUrl": "https://assets2.rockpapershotgun.com/beacon-pines2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/beacon-pines2.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/spelunky-2s-latest-patch-adds-crossplay-online-multiplayer",
-          "author": "CJ Wheeler",
-          "description": "The 1.26 patch for Spelunky 2 has finally brought crossplay for all platforms to the randomised platforming sequel, along with online multiplayer for its Adventure and Arena modes. Creator Derek Yu said that more updates are planned for Spelunky 2, but the next step is to get feedback on multiplayer to improve the experience now its basic features are there. Don’t expect any more additions to single-player though, as the focus there is bug fixes.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/spelunky-2s-latest-patch-adds-crossplay-online-multiplayer",
-          "publishedOn": "2022-09-21T15:29:15.000Z",
-          "wordCount": 4958,
-          "title": "Spelunky 2's latest patch adds crossplay online multiplayer",
-          "imageUrl": "https://assets2.rockpapershotgun.com/spelunky-2_iisNC2Y.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/spelunky-2_iisNC2Y.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/rockstar-owner-take-twos-hacking-woes-continue-as-2k-confirm-attack-on-their-support-service",
-          "author": "CJ Wheeler",
-          "description": "2K’s customer support team say that they’ve been hacked, and recommend that anyone who’s received a dodgy email from them change their passwords immediately and enable two-factor authentication. The company said they became aware of the attack early yesterday, after an “unauthorized third party” managed to access the credentials of a vendor to 2K’s help desk platform. The hacker then fired off a message to some accounts that contained a malicious link.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/rockstar-owner-take-twos-hacking-woes-continue-as-2k-confirm-attack-on-their-support-service",
-          "publishedOn": "2022-09-21T15:16:36.000Z",
-          "wordCount": 4936,
-          "title": "Rockstar owner Take-Two's hacking woes continue as 2K confirm attack on their support service",
-          "imageUrl": "https://assets2.rockpapershotgun.com/wwe-2k22-rey-mysterio-trailer.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/wwe-2k22-rey-mysterio-trailer.jpg"
         }
       ]
     },
@@ -9369,81 +9193,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/bFYPfuDmEdwtq2tGztdAi9.jpg"
-        },
-        {
-          "id": "riFCKiKghcTeJ2YLti2LbW",
-          "author": null,
-          "description": "A new gaming handheld is available for preorder, featuring some of the best mobile CPUs from AMD and Intel.",
-          "link": "https://www.tomshardware.com/news/gaming-handheld-ups-power-level",
-          "publishedOn": "2022-09-21T15:39:18.000Z",
-          "wordCount": 21476,
-          "title": "OneXPlayer Handheld Powered By High-End Intel or AMD Silicon",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/VZqFTTGg6UhXqByMgp3w7R.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/VZqFTTGg6UhXqByMgp3w7R.jpg"
-        },
-        {
-          "id": "5gRBW4DgUQy9xekEux992Y",
-          "author": null,
-          "description": "Bryan Catanzaro, Nvidia Vice President of Applied Deep Learning Research, details DLSS 3 compatibility with GeForce GPUs.",
-          "link": "https://www.tomshardware.com/news/nvidia-dlss-3-only-works-with-geforce-rtx-40-series-gpus-for-now",
-          "publishedOn": "2022-09-21T15:36:39.000Z",
-          "wordCount": 21536,
-          "title": "Nvidia DLSS 3 Only Works With GeForce RTX 40-Series GPUs — For Now",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/qkPVfAkWfi4PRBtwoKGiH5.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/qkPVfAkWfi4PRBtwoKGiH5.jpg"
-        },
-        {
-          "id": "ZC3ZCyCkqRMQ9GUoWtYeik",
-          "author": null,
-          "description": "The Framework Laptop Chromebook Edition will have all of the repairability of the Windows and Linux versions, but will run ChromeOS.",
-          "link": "https://www.tomshardware.com/news/framework-laptop-chromebook-edition-specs-price",
-          "publishedOn": "2022-09-21T15:00:12.000Z",
-          "wordCount": 22602,
-          "title": "Framework Embraces ChromeOS with Chromebook Edition Laptop",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/as89xKzx2uBtGuf3fSWBXE.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/as89xKzx2uBtGuf3fSWBXE.jpg"
-        },
-        {
-          "id": "ny7sjcAwqNEZ3ghZfr9BgZ",
-          "author": null,
-          "description": "Leading makers of waterblocks prep for extreme Nvidia GeForce RTX 4090 overclocking.",
-          "link": "https://www.tomshardware.com/news/alphacool-and-ekwb-unveil-waterblocks-for-geforce-rtx-4090",
-          "publishedOn": "2022-09-21T14:58:38.000Z",
-          "wordCount": 21611,
-          "title": "Alphacool, EKWB Launch Waterblocks for RTX 4090 GPUs",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/JG4NhEbsWJEqp6AhcSS5Cg.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/JG4NhEbsWJEqp6AhcSS5Cg.png"
-        },
-        {
-          "id": "7anuzFVpGjBvmWzErYQ2a5",
-          "author": "brandon.hill@futurenet.com (Brandon Hill)",
-          "description": "Netgear priced its new Wi-Fi 6E adapter at less than $100, but 6GHz support is extremely limited.",
-          "link": "https://www.tomshardware.com/news/negeater-usb-a8000-wifi6e-adapter",
-          "publishedOn": "2022-09-21T14:29:06.000Z",
-          "wordCount": 21594,
-          "title": "Netgear Launches Nighthawk Wi-Fi 6E USB 3.0 Adapter For $90",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/zJQX2ghbEssh8Ptan9JGiK.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/zJQX2ghbEssh8Ptan9JGiK.jpg"
         }
       ]
     },
@@ -11525,46 +11274,6 @@
           "wordCount": null,
           "title": "OnePlus takes just one month to update to Android 13",
           "imageUrl": null
-        },
-        {
-          "id": "https://arstechnica.com/?p=1883333",
-          "author": "Kyle Orland",
-          "description": "Unlicensed \"slots, roulette, or dice games\" will no longer be allowed on-stream.",
-          "link": "https://arstechnica.com/?p=1883333",
-          "publishedOn": "2022-09-21T15:57:55.000Z",
-          "wordCount": 1985,
-          "title": "As streamers threaten boycott, Twitch takes action on some gambling content",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/twitchroulette-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1882591",
-          "author": "Benj Edwards",
-          "description": "LAION scraped medical photos for AI research use. Who's responsible for taking them down?",
-          "link": "https://arstechnica.com/?p=1882591",
-          "publishedOn": "2022-09-21T15:43:09.000Z",
-          "wordCount": 2100,
-          "title": "Artist finds private medical record photos in popular AI training data set",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/medical_images_hero2-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1883228",
-          "author": "Andrew Cunningham",
-          "description": "Chromebook Edition hardware is mostly identical to the standard Framework Laptop.",
-          "link": "https://arstechnica.com/?p=1883228",
-          "publishedOn": "2022-09-21T15:00:18.000Z",
-          "wordCount": 1457,
-          "title": "Repairable, upgradeable Framework Laptop will also be available as a Chromebook",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/FW-chromebook-hero2-orange-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1883287",
-          "author": "WIRED",
-          "description": "Telegram users are increasingly bringing threats to targets’ doorsteps.",
-          "link": "https://arstechnica.com/?p=1883287",
-          "publishedOn": "2022-09-21T14:24:47.000Z",
-          "wordCount": 1638,
-          "title": "Telegram has a serious doxxing problem",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/telegram-megaphone-abstract-760x380.jpg"
         }
       ]
     },
@@ -11573,6 +11282,26 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291685",
+          "author": null,
+          "description": "Möjligtvis med undantag för live service-spel.",
+          "link": "https://www.fz.se/artikel/291685-pc-lar-fa-vanta-minst-ett-ar-pa-playstation-spel-i-framtiden",
+          "publishedOn": "2022-10-05T03:24:36.000Z",
+          "wordCount": 1815,
+          "title": "Pc lär få vänta \"minst ett år\" på Playstation-spel i framtiden",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291685"
+        },
+        {
+          "id": "https://www.fz.se/artikel/291684",
+          "author": null,
+          "description": "Många spelare lider av anslutningsproblem.",
+          "link": "https://www.fz.se/artikel/291684-overwatch-2-servrarna-utsatta-for-ddos-attacker",
+          "publishedOn": "2022-10-05T03:06:22.000Z",
+          "wordCount": 1807,
+          "title": "Overwatch 2-servrarna utsatta för DDoS-attacker",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291684"
+        },
         {
           "id": "https://www.fz.se/artikel/291683",
           "author": null,
@@ -13092,36 +12821,6 @@
           "wordCount": 1982,
           "title": "Indieutvecklare kommer \"ta risker\" med PSVR2, menar Sony-topp",
           "imageUrl": "https://www.fz.se/artikel/og-image/291536"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291530",
-          "author": null,
-          "description": "Storsatsar med ratt och pedaler för entusiasterna - premiär i september.",
-          "link": "https://www.fz.se/artikel/291530-till-slut-logitech-slapper-direct-drive-ratt",
-          "publishedOn": "2022-09-21T16:01:00.000Z",
-          "wordCount": 2137,
-          "title": "Till slut - Logitech släpper direct drive-ratt!",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291530"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291533",
-          "author": null,
-          "description": "Start klockan 20.",
-          "link": "https://www.fz.se/artikel/291533-fz-play-vi-spelar-och-ger-bort-the-diofield-chronicle",
-          "publishedOn": "2022-09-21T15:00:00.000Z",
-          "wordCount": 1735,
-          "title": "FZ Play - Vi spelar och ger bort The Diofield Chronicle!",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291533"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291534",
-          "author": null,
-          "description": "Ger ut spel som Xcom, Borderlands och Civ.",
-          "link": "https://www.fz.se/artikel/291534-2k-hackat-anvandarna-uppmanas-aterstalla-sina-losenord",
-          "publishedOn": "2022-09-21T14:23:00.000Z",
-          "wordCount": 1817,
-          "title": "2K hackat, användarna uppmanas återställa sina lösenord",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291534"
         }
       ]
     },
@@ -13699,26 +13398,6 @@
           "wordCount": 2300,
           "title": "Tävling: Klipp sladden med Asus och vinn påkostad kringutrustning",
           "imageUrl": "https://www.sweclockers.com/artikel/34960/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34962",
-          "author": null,
-          "description": "Logitech kastar sig in i molnspelssfären med Android-enheten G Cloud, som är byggd med molnspelande i fokus.",
-          "link": "https://www.sweclockers.com/artikel/34962-logitech-siktar-mot-molnen-med-handhallna-g-cloud",
-          "publishedOn": "2022-09-21T16:01:00.000Z",
-          "wordCount": 1954,
-          "title": "Logitech siktar mot molnen med handhållna G Cloud",
-          "imageUrl": "https://www.sweclockers.com/artikel/34962/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34954",
-          "author": null,
-          "description": "Med en begränsad tidsram för att leverera påkostade AI-fokuserade grafikkretsar till Kina snurrar Nvidia igång hjulen hos TSMC.",
-          "link": "https://www.sweclockers.com/artikel/34954-nvidia-uppges-hetsa-produktion-for-att-undga-kina-embargo",
-          "publishedOn": "2022-09-21T14:36:57.000Z",
-          "wordCount": 1693,
-          "title": "Nvidia uppges hetsa produktion för att undgå Kina-embargo",
-          "imageUrl": "https://www.sweclockers.com/artikel/34954/og-image"
         }
       ]
     },
@@ -14027,6 +13706,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/shangri_data_leak/",
+          "author": null,
+          "description": "<h4>In Xanadu did Kubla Khan a stately pleasure-dome decree</h4> <p>Hotel chain Shangri-La Group has admitted to its systems being attacked, and personal data describing guests accessed by unknown parties, over a timeframe that includes the dates on which a high-level international defence conference was staged at one of its Singapore properties.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/shangri_data_leak/",
+          "publishedOn": "2022-10-05T02:15:05.000Z",
+          "wordCount": 1327,
+          "title": "No Shangri-La for you: Top hotel chain confirms data leak",
+          "imageUrl": "https://regmedia.co.uk/2022/10/05/shutterstock_personal_data_theft.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/amazon_sues_washington_citation/",
           "author": null,
@@ -16386,36 +16075,6 @@
           "wordCount": 1250,
           "title": "Tesla Megapack battery ignites at substation after less than 6 months",
           "imageUrl": "https://regmedia.co.uk/2021/08/03/handout_tesla_battery_fire_australia.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/21/malwarebytes_blocks_google_domains/",
-          "author": null,
-          "description": "<h4>Sounds like fair comment</h4> <p>Google and its Youtube domains are being flagged as malicious by Malwarebytes as of Wednesday morning, blocking users from accessing a whole range of websites.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/21/malwarebytes_blocks_google_domains/",
-          "publishedOn": "2022-09-21T15:56:01.000Z",
-          "wordCount": 1165,
-          "title": "Malwarebytes blocks Google, YouTube as malware",
-          "imageUrl": "https://regmedia.co.uk/2022/09/21/blocked_sites_illustration_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/21/amazon_27gw_renewable_energy/",
-          "author": null,
-          "description": "<h4>But the question remains whether it is polluting more or less</h4> <p>Amazon says it is adding 2.7 gigawatts of clean energy capacity to its operations that are spread across 71 new renewable energy projects worldwide, as it works towards becoming a carbon neutral biz by 2040.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/21/amazon_27gw_renewable_energy/",
-          "publishedOn": "2022-09-21T15:45:09.000Z",
-          "wordCount": 1337,
-          "title": "Amazon adds 2.7 gigawatts of renewable energy to its operations",
-          "imageUrl": "https://regmedia.co.uk/2021/06/11/amazon.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/21/boeing_wants_driverless_flying_cabs/",
-          "author": null,
-          "description": "<h4>64-page roadmap details how we will all become the Jetsons</h4> <p>Boeing's vision of future mainstream travel includes automated uncrewed passenger-carrying electric aircraft operating as taxis, and on Tuesday it released a detailed roadmap on how to get there by 2030.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/21/boeing_wants_driverless_flying_cabs/",
-          "publishedOn": "2022-09-21T15:00:15.000Z",
-          "wordCount": 1363,
-          "title": "Boeing wants autonomous flying cabs in US airspace by 2030",
-          "imageUrl": "https://regmedia.co.uk/2022/09/21/boeing_flying_taxis.jpg"
         }
       ]
     }
