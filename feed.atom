@@ -2,10 +2,82 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-05T08:33:28.231Z</updated>
+    <updated>2022-10-05T09:29:56.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk kovänder – vill köpa Twitter igen]]></title>
+        <id>https://www.sweclockers.com/artikel/35026</id>
+        <link href="https://www.sweclockers.com/artikel/35026-elon-musk-kovander-vill-kopa-twitter-igen"/>
+        <updated>2022-10-05T09:03:51.000Z</updated>
+        <summary type="html"><![CDATA[Berättelsen om Elon Musks Twitter-köp tar ännu en vändning. Nu vill Musk hellre se att köpet går igenom istället för att låta det gå till rätten.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nästa Need for Speed avtäcks på torsdag]]></title>
+        <id>https://www.fz.se/artikel/291688</id>
+        <link href="https://www.fz.se/artikel/291688-nasta-need-for-speed-avtacks-pa-torsdag"/>
+        <updated>2022-10-05T09:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Criterions nästa ska till slut visas upp.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The State Of RADV's Vulkan Mesh Shading Support]]></title>
+        <id>https://www.phoronix.com/news/RADV-Vulkan-Mesh-Shaders</id>
+        <link href="https://www.phoronix.com/news/RADV-Vulkan-Mesh-Shaders"/>
+        <updated>2022-10-05T08:55:34.000Z</updated>
+        <summary type="html"><![CDATA[Yesterday on the first day of the X.Org Developers' Conference (XDC 2022),  Timur Kristóf of Valve's open-source Linux GPU driver team presented on the Vulkan mesh shader support being worked on for RADV...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EXT4 Rolls Up Some Fixes & Performance Optimizations For Linux 6.1]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-EXT4-Changes</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-EXT4-Changes"/>
+        <updated>2022-10-05T08:43:09.000Z</updated>
+        <summary type="html"><![CDATA[Ted Ts'o has submitted the EXT4 file-system updates for the Linux 6.1 kernel...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Our PAX West videos are now available to everyone]]></title>
+        <id>https://www.rockpapershotgun.com/our-pax-west-videos-are-now-available-to-everyone</id>
+        <link href="https://www.rockpapershotgun.com/our-pax-west-videos-are-now-available-to-everyone"/>
+        <updated>2022-10-05T08:42:36.000Z</updated>
+        <summary type="html"><![CDATA[Last month, Rachel and I made the long pilgrammage to Seattle in order to attend PAX West 2022. While we were there we ran around the show floor with a bag full of loose camera equipment, stopping frequently to enthuse about cool video games we'd discovered or to interview someone interesting. At the time, all of these videos were only accessible to our premium supporters. However, as 30 days have passed since we originally shared them, we're now making them free for everyone to enjoy. Surprise!
+From an interview with the voice cast of Team Fortress 2 to a comprehensive tour of the show floor, there's something for everyone in this bundle of audio-visual delights. Scroll down to see what we got up to, and remember, if you like what you see please do consider funding content like this via our supporters programme. It truly means an awful lot.
+Read more]]></summary>
+        <author>
+            <name>Liam Richardson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wireshark 4.0 Network Protocol Analyzer Released]]></title>
+        <id>https://www.phoronix.com/news/Wireshark-4.0-Released</id>
+        <link href="https://www.phoronix.com/news/Wireshark-4.0-Released"/>
+        <updated>2022-10-05T08:36:17.000Z</updated>
+        <summary type="html"><![CDATA[Wireshark 4.0 has been released as the newest version of this leading open-source network protocol analyzer...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arm job cuts hit UK harder than global rationalization]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/05/arm_job_cuts_hit_uk/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/05/arm_job_cuts_hit_uk/"/>
+        <updated>2022-10-05T08:36:13.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Anyone remember SoftBank's pledge to double headcount in Britain?</h4> <p>Arm has reportedly chopped around 20 percent of its headcount in the UK, unpicking some of the recruitment commitments parent SoftBank made to the government when it bought the chip designer.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Slime Rancher 2 is glorious and ghastly and that's what's fascinating about it]]></title>
         <id>https://www.eurogamer.net/slime-rancher-2-is-glorious-and-ghastly-and-thats-whats-fascinating-about-it</id>
@@ -17701,54 +17773,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Nvidia's GeForce RTX 4090 graphics cards appear at a Spanish retailer for over $2,000.]]></summary>
         <author>
             <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Picross S8 coming to Switch next week with four-player local multiplayer]]></title>
-        <id>https://www.eurogamer.net/picross-s8-coming-to-switch-next-week-with-four-player-local-multiplayer</id>
-        <link href="https://www.eurogamer.net/picross-s8-coming-to-switch-next-week-with-four-player-local-multiplayer"/>
-        <updated>2022-09-21T21:12:19.000Z</updated>
-        <summary type="html"><![CDATA[Developer Jupiter has unveiled an eighth mainline instalment for its mighty Picross puzzle series on Switch, its big new addition being multiplayer support for up to four player when it launches next week. Furthermore, multiplayer and touchscreen support are reportedly being added to all previous Switch instalments at the same time.
-
-
-Picross S8, as this newest entry is known, follows the same familiar formula as its predecessors - each stage requiring players to complete a picture on a grid by solving numerical clues indicating which squares must be filled in - but adds a bit of spice to proceedings by letting four players put their heads together to tackle each challenge.
-
-
-According to the official Picross website, it's local multiplayer only (the trailer suggests there's a score-based component despite everyone working co-operatively to complete the same puzzle), and each player will need their own controller to participate. 
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Corsair MP600 Pro XT PCIe 4.0 SSD Expands to 8TB Capacity]]></title>
-        <id>kesjc3724TosdDYvpDArie</id>
-        <link href="https://www.tomshardware.com/news/corsair-expands-mp600-pro-xt-lineup-with-8tb-ssd"/>
-        <updated>2022-09-21T21:08:44.000Z</updated>
-        <summary type="html"><![CDATA[Corsair adds an 8TB drive to its premium MP600 Pro XT PCIe 4.0 SSD product line.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best VR Headsets for 2022]]></title>
-        <id>VAShJWshYDRUBF9UnhjUt</id>
-        <link href="https://www.tomshardware.com/reviews/best-virtual-reality-headsets,4722.html"/>
-        <updated>2022-09-21T21:05:47.000Z</updated>
-        <summary type="html"><![CDATA[We detail the best VR headsets for gaming and and PC tasks available in 2022.]]></summary>
-        <author>
-            <name>brandon.hill@futurenet.com (Brandon Hill)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tongues wag that Softbank's Son may sell Arm to Samsung]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/21/softbank_samsung_arm_son/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/21/softbank_samsung_arm_son/"/>
-        <updated>2022-09-21T20:54:55.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Japanese super-tycoon to discuss 'stategic alliance' with electronics chaebol</h4> <p>SoftBank mogul Masayoshi Son reportedly plans to meet executives at Samsung Electronics in Seoul to discuss a partnership between the Japanese mega-conglomerate's Arm subsidiary and the South Korean foundry giant.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
