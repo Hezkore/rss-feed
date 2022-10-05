@@ -4296,6 +4296,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/OSFC-2022-Slides-Video",
+          "author": null,
+          "description": "Taking place at the end of September in Mölndal, Sweden was the Open-Source Firmware Conference (OSFC 2022). While the event has now passed, the group has begun publishing the video recordings from the various sessions and many of the presentation slide decks are also available...",
+          "link": "https://www.phoronix.com/news/OSFC-2022-Slides-Video",
+          "publishedOn": "2022-10-05T17:15:42.000Z",
+          "wordCount": 1250,
+          "title": "Open-Source Firmware Conference 2022 Slides & Videos Online",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-6.1-PREEMPT_RT-Clean",
           "author": null,
           "description": "The real-time \"RT\" mainlining effort for the Linux kernel remains ongoing. While the finish line is coming near, PREEMPT_RT support for mainline still isn't over the last hurdle -- seemingly the main blocker it's still held up by are the printk changes with threaded console printing. But for the Linux 6.1 merge window there is at least more kernel code clean-ups...",
@@ -6849,6 +6859,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "BnEefVDS6TDTv2z74u93EP",
+          "author": null,
+          "description": "In new Overwatch 2 gaming benchmark data, shared by Nvidia, the company's RTX 4090 is over twice as fast as its previous generation RTX 3080.",
+          "link": "https://www.tomshardware.com/news/rtx-4090-twice-as-fast-as-3080-overwatch-2",
+          "publishedOn": "2022-10-05T17:33:33.000Z",
+          "wordCount": 21742,
+          "title": "RTX 4090 Twice as Fast as RTX 3080 in Overwatch 2 Without DLSS 3",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/g3E6AZsfo7DtjB3fBB3WVH.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/g3E6AZsfo7DtjB3fBB3WVH.png"
+        },
         {
           "id": "P4JRYDNuCCEusfMHrqFQxM",
           "author": null,
@@ -11613,6 +11638,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291694",
+          "author": null,
+          "description": "Nya nejder för CD Projekt.",
+          "link": "https://www.fz.se/artikel/291694-nasta-the-witcher-och-cyberpunk-har-berikande-multiplayer",
+          "publishedOn": "2022-10-05T17:17:00.000Z",
+          "wordCount": 1927,
+          "title": "Nästa The Witcher och Cyberpunk har \"berikande\" multiplayer",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291694"
+        },
+        {
           "id": "https://www.fz.se/artikel/291693",
           "author": null,
           "description": "12 live service-spel ska finnas på marknaden 2026.",
@@ -13240,6 +13275,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/35029",
+          "author": null,
+          "description": "I samband med lanseringen av Blizzards Overwatch 2 passar Nvidia på att dela med sig av hur Geforce RTX 4000-serien presterar i det nya spelet.",
+          "link": "https://www.sweclockers.com/artikel/35029-geforce-rtx-4090-kammar-hem-500-fps-i-overwatch-2",
+          "publishedOn": "2022-10-05T16:54:00.000Z",
+          "wordCount": 1848,
+          "title": "Geforce RTX 4090 kammar hem 500 FPS i Overwatch 2",
+          "imageUrl": "https://www.sweclockers.com/artikel/35029/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/35034",
           "author": null,
           "description": "Från fräsiga mönster och färgglatt till nattsvart. En musmatta kan såklart vara vilken färg som helst, men vilken färg är din?",
@@ -14186,6 +14231,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/microsoft_financial_services_cloud/",
+          "author": null,
+          "description": "<h4>Cloud expansion comes a week before software giant's show</h4> <p>Microsoft is looking for a share of the financial services industry's wallets, talking up new features and a \"compliance\" program for its industry cloud in the run-up to next week's Ignite 2022 show.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/microsoft_financial_services_cloud/",
+          "publishedOn": "2022-10-05T17:15:07.000Z",
+          "wordCount": 1562,
+          "title": "Microsoft strives to ignite financial services interest with 'compliance'",
+          "imageUrl": "https://regmedia.co.uk/2022/02/23/banking_financial.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/nasa_battery_charging/",
           "author": null,
