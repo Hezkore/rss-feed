@@ -762,6 +762,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/nintendo-airing-animal-crossing-and-splatoon-3-concerts-online-next-week",
+          "author": "Matt Wales",
+          "description": "Nintendo has confirmed it'll be broadcasting two Japanese concerts - one for Animal Crossing and another for Splatoon 3 - online next week for viewers around the world.\r\n\n\r\nThe concerts are part of Nintendo Live 2022, a two-day event being held at Tokyo Big Sight from 8-9th October, promising live music, stage activities, game competitions, and more.\r\n\n\r\nNintendo UK confirmed it would be broadcasting the Animal Crossing and Splatoon 3 shows - titled DJ K.K. Paradise Mix!! and Deep Cut respectively - in a tweet earlier today.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/nintendo-airing-animal-crossing-and-splatoon-3-concerts-online-next-week",
+          "publishedOn": "2022-10-05T22:08:15.000Z",
+          "wordCount": 4497,
+          "title": "Nintendo airing Animal Crossing and Splatoon 3 concerts online next week",
+          "imageUrl": "https://assets.reedpopcdn.com/animal-crossing-concert-art.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/animal-crossing-concert-art.jpeg"
+        },
+        {
           "id": "https://www.eurogamer.net/need-for-speed-2022-name-release-date-and-screens-leak-in-retailer-listing",
           "author": "Matt Wales",
           "description": "With less than 24 hours to go until the long-awaited reveal of EA and developer Criterion's latest Need for Speed game, a full name, plus a release date, and screens have leaked online.\r\n\n\r\nAll this comes via a listing, still live at the time of writing, on Japanese retailer Neowing's website - which, assuming its veracity (highly likely given the nature of the assets and details included), corroborates virtually all previous rumours circulating around the game in recent months.\r\n\n\r\nFirst is the name, Need for Speed: Unbound, which tallies with a report from Insider Gaming at the end of September, as does Neowing's listed release date of 2nd December this year. \r\n \nRead more",
@@ -5594,26 +5604,6 @@
           "wordCount": 1500,
           "title": "Intel Gallium3D \"Iris\" Driver Changes Merged For Rusticl's OpenCL 3.0",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Microsoft-Mesa-Faster-VA-API",
-          "author": null,
-          "description": "A Microsoft engineer has landed an improvement to the Mesa Gallium3D Video Acceleration \"VA\" state tracker that can allow for faster video processing times and greater GPU utilization...",
-          "link": "https://www.phoronix.com/news/Microsoft-Mesa-Faster-VA-API",
-          "publishedOn": "2022-09-22T10:00:46.000Z",
-          "wordCount": 1399,
-          "title": "Microsoft Speeds Up Mesa VA-API Video Acceleration For FFmpeg",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/AOM-AV1-3.5",
-          "author": null,
-          "description": "Google engineers on Wednesday released AOM-AV1 3.5 as the newest version of their open-source AV1 video encoder. With AOM-AV1 3.5 comes yet more performance improvements as well as memory optimizations...",
-          "link": "https://www.phoronix.com/news/AOM-AV1-3.5",
-          "publishedOn": "2022-09-22T09:33:44.000Z",
-          "wordCount": 1554,
-          "title": "Google Releases AOM-AV1 3.5 With More Speedups & Memory Optimizations",
-          "imageUrl": null
         }
       ]
     },
@@ -5622,6 +5612,16 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/get-the-dell-s2721dgfa-27-in-1440p-165hz-gaming-monitor-for-268",
+          "author": "Will Judd",
+          "description": "Over at Eurogamer, I kind of have a thing for LG's Fast IPS screens. This tech combines the best feature of TN panels - their incredibly fast pixel response times - with the traditional advantages of an IPS screen, namely gorgeous colours and wide viewing angles. These screens pop up in LG's 27GL850 and 27GL83A monitors, but are also used in Dell's even better S2721DGFA - and it's this monitor that's on sale today. With a code available here, you can take an extra £30 off a model that's already seen an £80 discount, dropping the price from £380 to £268 - an incredible deal for a monitor of this specification. I used the code $6ZZXZWLF0WV7D, but your code is likely to be different!\nSo what is this specification? Well, the S2721DGFA exists right at the sweet spot for gaming monitors too, with a 27-inch screen size, 2560x1440 resolution and 165Hz refresh rate. This spec is good because it's not too hard to drive, even with a mid-range gaming PC, but you still get a noticeable increase in clarity and fluidity compared to your standard 1080p 60Hz monitors. And with the Fast IPS screen that I was talking about earlier, you have a monitor that's equally well-suited to fast-paced, competitive shooters as it is slower-paced and more atmospheric games from a wide range of genres.\r\n\nI have gone on about the Dell S2721DGFA a few times now, so I'll link to those previous posts so you can find out a little bit more about this monitor - and see how much it used to cost too! Suffice it to say, if you have a look at some reviews you'll see that I'm far from the only fan of this model, so I hope this deal is useful to you! Thanks for joining me once again and I'll see you tomorrow for more deals. \n Read more",
+          "link": "https://www.rockpapershotgun.com/get-the-dell-s2721dgfa-27-in-1440p-165hz-gaming-monitor-for-268",
+          "publishedOn": "2022-10-05T21:49:53.000Z",
+          "wordCount": 4908,
+          "title": "Get the Dell S2721DGFA 27-in 1440p 165Hz gaming monitor for £268",
+          "imageUrl": "https://assets2.rockpapershotgun.com/s2721dgfa.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/s2721dgfa.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/get-the-newly-upgraded-crucial-x6-2tb-portable-ssd-for-129",
           "author": "Will Judd",
@@ -9950,16 +9950,6 @@
           "wordCount": 101,
           "title": "Reproducible Builds (diffoscope): diffoscope 222 released",
           "imageUrl": null
-        },
-        {
-          "id": "https://jmtd.net/log/nin_cornwall/",
-          "author": null,
-          "description": "In June I travelled to see Nine Inch Nails perform two nights at the Eden\nProject in Cornwall. It'd been eight\nyears since I last saw them live and when they announced\nthe Eden shows, I thought it might be the only chance I'd get to see them for a\nlong time. I committed, and sods law, a week or so later they announced a\nhandful of single-night UK club shows. On the other hand, on previous tours\nwhere they'd typically book two club nights in each city, I've attended one\nnight and always felt I should have done both, so this time I was making that\nhappen.\nNewquay\n\n\napproach by air\n\n\nTowan Beach (I think)\nFor personal reasons it's been a difficult year so it was nice to treat\nmyself to a mini holiday. I stayed in Newquay, a seaside town with many\nsimilarities to the North East coast, as well …",
-          "link": "https://jmtd.net/log/nin_cornwall/",
-          "publishedOn": "2022-09-22T10:09:30.000Z",
-          "wordCount": 1260,
-          "title": "Jonathan Dowland: Nine Inch Nails, Cornwall, June",
-          "imageUrl": null
         }
       ]
     },
@@ -9968,6 +9958,16 @@
       "feedUrl": "https://xkcd.com/atom.xml",
       "siteUrl": "https://xkcd.com/",
       "articles": [
+        {
+          "id": "https://xkcd.com/2681/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/archimedes_principle.png\" title=\"&quot;I've always wanted to run naked through town, but I don't want to get in trouble with the king or be remembered by history as a weirdo. I wonder how I could ... EUREKA!&quot;\" alt=\"&quot;I've always wanted to run naked through town, but I don't want to get in trouble with the king or be remembered by history as a weirdo. I wonder how I could ... EUREKA!&quot;\" />",
+          "link": "https://xkcd.com/2681/",
+          "publishedOn": "2022-10-05T00:00:00.000Z",
+          "wordCount": 232,
+          "title": "Archimedes Principle",
+          "imageUrl": "https://imgs.xkcd.com/comics/archimedes_principle_2x.png"
+        },
         {
           "id": "https://xkcd.com/2680/",
           "author": null,
@@ -13291,16 +13291,6 @@
           "wordCount": 1813,
           "title": "Thrustmasters direct drive-ratt avtäcks i november",
           "imageUrl": "https://www.fz.se/artikel/og-image/291544"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291068",
-          "author": null,
-          "description": "Evil West, Hard West 2, Weird West. Vilda västern fortsätter vara aktuell i spelvärlden.",
-          "link": "https://www.fz.se/artikel/291068-quiz-vad-kan-du-om-spelvarldens-vilda-vastern",
-          "publishedOn": "2022-09-22T10:00:00.000Z",
-          "wordCount": 1749,
-          "title": "Quiz – Vad kan du om spelvärldens Vilda västern?",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291068"
         }
       ]
     },
@@ -14266,6 +14256,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/musktwitter_twitter_trial/",
+          "author": null,
+          "description": "<h4>Get ready for that deposition tomorrow, Elon</h4> <p>Elon Musk's decision this week to go ahead with his Twitter purchase – after months of trying to wriggle out of the deal – hasn't automatically stopped his upcoming trial, the judge overseeing the case said today.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/musktwitter_twitter_trial/",
+          "publishedOn": "2022-10-05T21:58:08.000Z",
+          "wordCount": 1634,
+          "title": "Er, Musk's trial hasn't stopped, no matter what he told Twitter, says judge",
+          "imageUrl": "https://regmedia.co.uk/2022/09/07/musk_twitter_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/konnech_election_software_china/",
           "author": null,
@@ -16725,26 +16725,6 @@
           "wordCount": 1736,
           "title": "UK launches competition probe into cloud giants in digital services",
           "imageUrl": "https://regmedia.co.uk/2020/12/15/uk.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/22/cost_of_working/",
-          "author": null,
-          "description": "<h4>As employers herd staff back to the office with few perks, workers are concerned about what it'll cost them</h4> <p>We all must have experienced the deepening cost-of-living crisis first hand by now. But according to new research, there is a cost-of-working crisis too as employers insist staff return to the office.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/22/cost_of_working/",
-          "publishedOn": "2022-09-22T10:28:10.000Z",
-          "wordCount": 1923,
-          "title": "You've heard of the cost-of-living crisis, now get ready for the cost-of-working crisis",
-          "imageUrl": "https://regmedia.co.uk/2021/04/23/shutterstock_commute_platform.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/22/bank_of_england_oracle/",
-          "author": null,
-          "description": "<h4>After venturing into HCM, UK's central bank embarks on finance and procurement journey with Big Red</h4> <p>The UK's central bank is on the hunt for a service partner as it plans to expand its finance, procurement, and recruitment applications into the Oracle Cloud.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/22/bank_of_england_oracle/",
-          "publishedOn": "2022-09-22T09:26:13.000Z",
-          "wordCount": 1179,
-          "title": "Bank of England seeks partner to support Oracle Cloud implementation",
-          "imageUrl": "https://regmedia.co.uk/2020/10/30/shutterstock_bank_of_england.jpg"
         }
       ]
     }
