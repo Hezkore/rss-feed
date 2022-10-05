@@ -2,10 +2,109 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-05T09:29:56.906Z</updated>
+    <updated>2022-10-05T10:31:20.596Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UK competition regulator sets March deadline for Microsoft Activision Blizzard ruling]]></title>
+        <id>https://www.eurogamer.net/uk-competition-regulator-sets-march-deadline-for-microsoft-activision-blizzard-ruling</id>
+        <link href="https://www.eurogamer.net/uk-competition-regulator-sets-march-deadline-for-microsoft-activision-blizzard-ruling"/>
+        <updated>2022-10-05T10:20:59.000Z</updated>
+        <summary type="html"><![CDATA[The UK's Competition and Markets Authority (CMA) has laid out a timeline for its second phase of investigations into Microsoft's proposed $68.7bn acquisition of Activision Blizzard, following concerns this deal could be deemed anti-competitive.
+
+
+New documentation from the CMA states that its statutory deadline to publish the final report will be 1st March, 2023. As such, the final deadline for all parties' responses regarding this investigation will be in February.
+
+
+Between that time and now, the CMA will be conducting meetings with the main and third parties involved with this acquisition, issuing questionnaires and verifying the information provided. 
+ 
+Read more]]></summary>
+        <author>
+            <name>Victoria Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hitman 3’s roguelike Freelancer mode delayed into 2023]]></title>
+        <id>https://www.rockpapershotgun.com/hitman-3s-roguelike-freelancer-mode-delayed-into-2023</id>
+        <link href="https://www.rockpapershotgun.com/hitman-3s-roguelike-freelancer-mode-delayed-into-2023"/>
+        <updated>2022-10-05T10:15:38.000Z</updated>
+        <summary type="html"><![CDATA[Agent 47 is still going freelance, but not this year. IO Interactive have pushed Hitman 3’s planned free Freelancer mode back again, this time to January 26th. The delay was announced along with the reveal of a closed technical test for Freelancer starting early next month. And here I was, thinking that Ian Hitman never missed a target.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>CJ Wheeler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU votes to adopt single charging cable for portable games consoles, tablets, phones]]></title>
+        <id>https://www.eurogamer.net/eu-votes-to-adopt-single-charging-cable-for-portable-devices</id>
+        <link href="https://www.eurogamer.net/eu-votes-to-adopt-single-charging-cable-for-portable-devices"/>
+        <updated>2022-10-05T10:12:40.000Z</updated>
+        <summary type="html"><![CDATA[The European Union has voted to adopt a single charger design for use across all portable games consoles, smartphones, tablets and laptops sold in the region. 
+
+
+Technology manufacturers will now be required to use USB-C charging ports in all smartphones and tablets sold in the region from 2024, and in laptops from 2026. Mice, keyboards, headphones are also included.
+
+
+As previously reported, the UK decided to opt out out of being included in this initiative when it was first proposed, despite its aims to cut electronic waste and generally make things a bit easier for those with a drawer full of random Lightning cables,  micro-USB and mini-USB wires. Thanks Brexit!
+ 
+Read more]]></summary>
+        <author>
+            <name>Tom Phillips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SELinux Continues Path Of Deprecating Run-Time Disabling]]></title>
+        <id>https://www.phoronix.com/news/SELinux-Runtime-Disabling</id>
+        <link href="https://www.phoronix.com/news/SELinux-Runtime-Disabling"/>
+        <updated>2022-10-05T10:11:27.000Z</updated>
+        <summary type="html"><![CDATA[The Security Enhanced Linux (SELinux) changes for Linux 6.1 but with a documentation update does provide a good reminder for a public service announcement: run-time disabling of SELinux is deprecated and will be removed in the future...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smarta hemmet-standarden Matter lanseras i första version]]></title>
+        <id>https://www.sweclockers.com/artikel/35027</id>
+        <link href="https://www.sweclockers.com/artikel/35027-smarta-hemmet-standarden-matter-lanseras-i-forsta-version"/>
+        <updated>2022-10-05T10:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Efter flera förseningar är slutligen Matter 1.0 ute och ska få smarta hemmet-prylar att samarbeta trots många olika standarder och protokoll.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snabbkollen - Kommer du spela Overwatch 2?]]></title>
+        <id>https://www.fz.se/artikel/291689</id>
+        <link href="https://www.fz.se/artikel/291689-snabbkollen-kommer-du-spela-overwatch-2"/>
+        <updated>2022-10-05T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Shooteruppföljaren släpptes i tisdags kväll och kan spelas gratis.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Deck Beta updates fix Red Dead Redemption 2 and external screen changes]]></title>
+        <id>https://www.gamingonlinux.com/2022/10/steam-deck-beta-updates-fix-red-dead-redemption-2-and-external-screen-changes/</id>
+        <link href="https://www.gamingonlinux.com/2022/10/steam-deck-beta-updates-fix-red-dead-redemption-2-and-external-screen-changes/"/>
+        <updated>2022-10-05T09:49:21.000Z</updated>
+        <summary type="html"><![CDATA[Two Beta updates have landed for the Steam Deck with a Client and an OS update available, with some pretty big changes to how external screens are handled.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waxworm's spit shows promise in puncturing plastic pollution]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/05/wax_worms_plastic_paper/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/05/wax_worms_plastic_paper/"/>
+        <updated>2022-10-05T09:30:06.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Scientists believe moth larvae saliva can oxidize, degrade polyethylene</h4> <p>The caterpillar larvae of the wax moth produce saliva with enzymes capable of oxidizing and degrading polyethylene, offering a potential solution to the plastic pollution challenge.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Elon Musk kovänder – vill köpa Twitter igen]]></title>
         <id>https://www.sweclockers.com/artikel/35026</id>
@@ -17745,34 +17844,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Getty sidesteps potential legal problems from unresolved rights and ethics issues.]]></summary>
         <author>
             <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flight Simulator gets long-awaited DLSS support for PC in today's Sim Update 10]]></title>
-        <id>https://www.eurogamer.net/flight-simulator-gets-long-awaited-dlss-support-for-pc-in-todays-sim-update-10</id>
-        <link href="https://www.eurogamer.net/flight-simulator-gets-long-awaited-dlss-support-for-pc-in-todays-sim-update-10"/>
-        <updated>2022-09-21T22:06:36.000Z</updated>
-        <summary type="html"><![CDATA[Developer Asobo has released its latest Sim Update for the majestic Microsoft Flight Simulator, this one bringing, among other things, long-awaited DLSS support for PC.
-
-
-Alongside DLSS anti-aliasing and upscaling, Asobo says Sim Update 10 should deliver "stability, performance, and memory usage" improvements for those using Flight Simulator's in-development Direct X12 support - although it notes the new memory allocator will only be activated once Nvidia's next GPU driver is released.
-
-
-Elsewhere in today's update, moving boats in the world now have a wake effect on PC, there's a new cloud layer system - said to provide "more vertical precision at low altitudes to better reflect the various cloud altitudes and thickness close to the ground" - plus a number of quality of life features for Flight Simulator's VFR map.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GeForce RTX 4090 GPUs Surface Overseas Above Nvidia MSRP]]></title>
-        <id>MeWwpLnDGzcFSXUDSnYakE</id>
-        <link href="https://www.tomshardware.com/news/geforce-rtx-4090-gpus-surface-overseas-above-nvidia-msrp"/>
-        <updated>2022-09-21T22:00:06.000Z</updated>
-        <summary type="html"><![CDATA[Nvidia's GeForce RTX 4090 graphics cards appear at a Spanish retailer for over $2,000.]]></summary>
-        <author>
-            <name>Tomshardware</name>
         </author>
     </entry>
 </feed>

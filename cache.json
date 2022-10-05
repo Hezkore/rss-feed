@@ -115,6 +115,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/10/steam-deck-beta-updates-fix-red-dead-redemption-2-and-external-screen-changes/",
+          "author": "Liam Dawe",
+          "description": "Two Beta updates have landed for the Steam Deck with a Client and an OS update available, with some pretty big changes to how external screens are handled.",
+          "link": "https://www.gamingonlinux.com/2022/10/steam-deck-beta-updates-fix-red-dead-redemption-2-and-external-screen-changes/",
+          "publishedOn": "2022-10-05T09:49:21.000Z",
+          "wordCount": 1236,
+          "title": "Steam Deck Beta updates fix Red Dead Redemption 2 and external screen changes",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2137231981id21696gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/10/deathloop-and-monster-train-are-in-the-new-humble-choice-bundle/",
           "author": "Liam Dawe",
           "description": "Another fresh month and a new set of games in Humble Choice, the monthly subscription from Humble Bundle so let's go over what's in it and the compatibility.",
@@ -721,6 +731,26 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/uk-competition-regulator-sets-march-deadline-for-microsoft-activision-blizzard-ruling",
+          "author": "Victoria Kennedy",
+          "description": "The UK's Competition and Markets Authority (CMA) has laid out a timeline for its second phase of investigations into Microsoft's proposed $68.7bn acquisition of Activision Blizzard, following concerns this deal could be deemed anti-competitive.\r\n\n\r\nNew documentation from the CMA states that its statutory deadline to publish the final report will be 1st March, 2023. As such, the final deadline for all parties' responses regarding this investigation will be in February.\r\n\n\r\nBetween that time and now, the CMA will be conducting meetings with the main and third parties involved with this acquisition, issuing questionnaires and verifying the information provided. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/uk-competition-regulator-sets-march-deadline-for-microsoft-activision-blizzard-ruling",
+          "publishedOn": "2022-10-05T10:20:59.000Z",
+          "wordCount": 4719,
+          "title": "UK competition regulator sets March deadline for Microsoft Activision Blizzard ruling",
+          "imageUrl": "https://assets.reedpopcdn.com/mw2-ghost_y7MFQMT.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/mw2-ghost_y7MFQMT.jpeg"
+        },
+        {
+          "id": "https://www.eurogamer.net/eu-votes-to-adopt-single-charging-cable-for-portable-devices",
+          "author": "Tom Phillips",
+          "description": "The European Union has voted to adopt a single charger design for use across all portable games consoles, smartphones, tablets and laptops sold in the region. \r\n\n\r\nTechnology manufacturers will now be required to use USB-C charging ports in all smartphones and tablets sold in the region from 2024, and in laptops from 2026. Mice, keyboards, headphones are also included.\r\n\n\r\nAs previously reported, the UK decided to opt out out of being included in this initiative when it was first proposed, despite its aims to cut electronic waste and generally make things a bit easier for those with a drawer full of random Lightning cables,  micro-USB and mini-USB wires. Thanks Brexit!\r\n \nRead more",
+          "link": "https://www.eurogamer.net/eu-votes-to-adopt-single-charging-cable-for-portable-devices",
+          "publishedOn": "2022-10-05T10:12:40.000Z",
+          "wordCount": 4561,
+          "title": "EU votes to adopt single charging cable for portable games consoles, tablets, phones",
+          "imageUrl": "https://assets.reedpopcdn.com/Untitled-1-Recovered-Recovered_yOi2nd0.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Untitled-1-Recovered-Recovered_yOi2nd0.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/slime-rancher-2-is-glorious-and-ghastly-and-thats-whats-fascinating-about-it",
           "author": "Christian Donlan",
@@ -2950,16 +2980,6 @@
           "wordCount": 5311,
           "title": "Hyper Demon review - a playable migraine, in a good way",
           "imageUrl": "https://assets.reedpopcdn.com/Hyper-Demon.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Hyper-Demon.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/flight-simulator-gets-long-awaited-dlss-support-for-pc-in-todays-sim-update-10",
-          "author": "Matt Wales",
-          "description": "Developer Asobo has released its latest Sim Update for the majestic Microsoft Flight Simulator, this one bringing, among other things, long-awaited DLSS support for PC.\r\n\n\r\nAlongside DLSS anti-aliasing and upscaling, Asobo says Sim Update 10 should deliver \"stability, performance, and memory usage\" improvements for those using Flight Simulator's in-development Direct X12 support - although it notes the new memory allocator will only be activated once Nvidia's next GPU driver is released.\r\n\n\r\nElsewhere in today's update, moving boats in the world now have a wake effect on PC, there's a new cloud layer system - said to provide \"more vertical precision at low altitudes to better reflect the various cloud altitudes and thickness close to the ground\" - plus a number of quality of life features for Flight Simulator's VFR map.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/flight-simulator-gets-long-awaited-dlss-support-for-pc-in-todays-sim-update-10",
-          "publishedOn": "2022-09-21T22:06:36.000Z",
-          "wordCount": 4592,
-          "title": "Flight Simulator gets long-awaited DLSS support for PC in today's Sim Update 10",
-          "imageUrl": "https://assets.reedpopcdn.com/microsoft-flight-simulator_j9kN89e.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/microsoft-flight-simulator_j9kN89e.jpg"
         }
       ]
     },
@@ -4075,6 +4095,16 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/SELinux-Runtime-Disabling",
+          "author": null,
+          "description": "The Security Enhanced Linux (SELinux) changes for Linux 6.1 but with a documentation update does provide a good reminder for a public service announcement: run-time disabling of SELinux is deprecated and will be removed in the future...",
+          "link": "https://www.phoronix.com/news/SELinux-Runtime-Disabling",
+          "publishedOn": "2022-10-05T10:11:27.000Z",
+          "wordCount": 1304,
+          "title": "SELinux Continues Path Of Deprecating Run-Time Disabling",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/RADV-Vulkan-Mesh-Shaders",
           "author": null,
@@ -5322,6 +5352,16 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/hitman-3s-roguelike-freelancer-mode-delayed-into-2023",
+          "author": "CJ Wheeler",
+          "description": "Agent 47 is still going freelance, but not this year. IO Interactive have pushed Hitman 3’s planned free Freelancer mode back again, this time to January 26th. The delay was announced along with the reveal of a closed technical test for Freelancer starting early next month. And here I was, thinking that Ian Hitman never missed a target.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/hitman-3s-roguelike-freelancer-mode-delayed-into-2023",
+          "publishedOn": "2022-10-05T10:15:38.000Z",
+          "wordCount": 5060,
+          "title": "Hitman 3’s roguelike Freelancer mode delayed into 2023",
+          "imageUrl": "https://assets2.rockpapershotgun.com/hitman-3-agent-47.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/hitman-3-agent-47.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/our-pax-west-videos-are-now-available-to-everyone",
           "author": "Liam Richardson",
@@ -9003,21 +9043,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/zuDXZFivjYmAMW2aAdTbB6.png"
-        },
-        {
-          "id": "MeWwpLnDGzcFSXUDSnYakE",
-          "author": null,
-          "description": "Nvidia's GeForce RTX 4090 graphics cards appear at a Spanish retailer for over $2,000.",
-          "link": "https://www.tomshardware.com/news/geforce-rtx-4090-gpus-surface-overseas-above-nvidia-msrp",
-          "publishedOn": "2022-09-21T22:00:06.000Z",
-          "wordCount": 21476,
-          "title": "GeForce RTX 4090 GPUs Surface Overseas Above Nvidia MSRP",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/LvRvSSq3HkRWrMrSrCwmPC.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/LvRvSSq3HkRWrMrSrCwmPC.png"
         }
       ]
     },
@@ -11008,6 +11033,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291689",
+          "author": null,
+          "description": "Shooteruppföljaren släpptes i tisdags kväll och kan spelas gratis.",
+          "link": "https://www.fz.se/artikel/291689-snabbkollen-kommer-du-spela-overwatch-2",
+          "publishedOn": "2022-10-05T10:00:00.000Z",
+          "wordCount": 1777,
+          "title": "Snabbkollen - Kommer du spela Overwatch 2?",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291689"
+        },
+        {
           "id": "https://www.fz.se/artikel/291688",
           "author": null,
           "description": "Criterions nästa ska till slut visas upp.",
@@ -12565,6 +12600,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/35027",
+          "author": null,
+          "description": "Efter flera förseningar är slutligen Matter 1.0 ute och ska få smarta hemmet-prylar att samarbeta trots många olika standarder och protokoll.",
+          "link": "https://www.sweclockers.com/artikel/35027-smarta-hemmet-standarden-matter-lanseras-i-forsta-version",
+          "publishedOn": "2022-10-05T10:08:00.000Z",
+          "wordCount": 1875,
+          "title": "Smarta hemmet-standarden Matter lanseras i första version",
+          "imageUrl": "https://www.sweclockers.com/artikel/35027/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/35026",
           "author": null,
           "description": "Berättelsen om Elon Musks Twitter-köp tar ännu en vändning. Nu vill Musk hellre se att köpet går igenom istället för att låta det gå till rätten.",
@@ -13471,6 +13516,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/wax_worms_plastic_paper/",
+          "author": null,
+          "description": "<h4>Scientists believe moth larvae saliva can oxidize, degrade polyethylene</h4> <p>The caterpillar larvae of the wax moth produce saliva with enzymes capable of oxidizing and degrading polyethylene, offering a potential solution to the plastic pollution challenge.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/wax_worms_plastic_paper/",
+          "publishedOn": "2022-10-05T09:30:06.000Z",
+          "wordCount": 1312,
+          "title": "Waxworm's spit shows promise in puncturing plastic pollution",
+          "imageUrl": "https://regmedia.co.uk/2022/10/04/shutterstock_wax_worm.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/arm_job_cuts_hit_uk/",
           "author": null,
