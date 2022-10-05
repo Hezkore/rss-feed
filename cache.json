@@ -753,16 +753,6 @@
           "wordCount": 1354,
           "title": "HYPER DEMON is a vision-bending FPS from the creator of Devil Daggers",
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/530350696id21626gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/09/get-a-whole-lot-of-serious-sam-in-this-game-bundle/",
-          "author": "Liam Dawe",
-          "description": "Humble Bundle are making sure you can get serious this week with The Serious Sam Bundle containing plenty of action ready for you to dive in.",
-          "link": "https://www.gamingonlinux.com/2022/09/get-a-whole-lot-of-serious-sam-in-this-game-bundle/",
-          "publishedOn": "2022-09-22T09:21:53.000Z",
-          "wordCount": 1095,
-          "title": "Get a whole lot of Serious Sam in this game bundle",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/738112611id21637gol.jpg"
         }
       ]
     },
@@ -771,6 +761,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/need-for-speed-2022-name-release-date-and-screens-leak-in-retailer-listing",
+          "author": "Matt Wales",
+          "description": "With less than 24 hours to go until the long-awaited reveal of EA and developer Criterion's latest Need for Speed game, a full name, plus a release date, and screens have leaked online.\r\n\n\r\nAll this comes via a listing, still live at the time of writing, on Japanese retailer Neowing's website - which, assuming its veracity (highly likely given the nature of the assets and details included), corroborates virtually all previous rumours circulating around the game in recent months.\r\n\n\r\nFirst is the name, Need for Speed: Unbound, which tallies with a report from Insider Gaming at the end of September, as does Neowing's listed release date of 2nd December this year. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/need-for-speed-2022-name-release-date-and-screens-leak-in-retailer-listing",
+          "publishedOn": "2022-10-05T21:05:17.000Z",
+          "wordCount": 4698,
+          "title": "Need for Speed 2022 name, release date, and screens leak in retailer listing",
+          "imageUrl": "https://assets.reedpopcdn.com/nfs-logo.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/nfs-logo.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/warhammer-40000-inquisitor-martyr-out-this-month-on-ps5-and-xbox-series-xs",
           "author": "Matt Wales",
@@ -3130,16 +3130,6 @@
           "wordCount": 5055,
           "title": "Cyberpunk Edgerunners shows CD Projekt’s Cyberpunk is still worth fighting for",
           "imageUrl": "https://assets.reedpopcdn.com/edgerunners.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/edgerunners.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/hyper-demon-review-a-playable-migraine-in-a-good-way",
-          "author": "Christian Donlan",
-          "description": "Isaac Newton was once moved to put a bodkin, or large, blunt sewing needle, behind his eye. Where exactly? (I feel you would want to be exact about this.) \"Betwixt my eye and bone as neare to [the] backside of my eye as I could.\" This is quite a thing to do to yourself, but Newton was fixated. \r\n\n\r\nNewton was fixated with phosphenes, the frantic scattering light displays that erupt when you press your palms to your eyes and bother the optic nerve. Light from darkness: you can see why such an imbalance would have made Newton a bit grumpy. But also the wonder of it: these scrolling, tunneling, chequerboard passageways that seem to open up between you and the world around you. Magic.\r\n\n\r\nWould Isaac Newton have liked Hyper Demon? I will leave this to others to judge. But Hyper Demon certainly loves phosphenes. This implausibly fast score-chasing micro-shooter coats its enemies in the shimmering, strobing pinks and dirty golds that phosphenes like to trade in. It wraps everything in a fish-eye lens, the queasiest of all lenses, just to give you that extra sense of being trapped deep within something, subdermal or far beneath the oceans. Horned skulls, praying hands, glittering diamonds that shatter on impact. Forget Newton, Hyper Demon makes me realise what a shame it is that Hieronymus Bosch never did a season for Juicy Couture.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/hyper-demon-review-a-playable-migraine-in-a-good-way",
-          "publishedOn": "2022-09-22T09:00:00.000Z",
-          "wordCount": 5311,
-          "title": "Hyper Demon review - a playable migraine, in a good way",
-          "imageUrl": "https://assets.reedpopcdn.com/Hyper-Demon.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Hyper-Demon.jpg"
         }
       ]
     },
@@ -5624,26 +5614,6 @@
           "wordCount": 1554,
           "title": "Google Releases AOM-AV1 3.5 With More Speedups & Memory Optimizations",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Debian-12-Alpha-1-Installer",
-          "author": null,
-          "description": "The first alpha release of the Debian Installer to be used by Debian 12 \"Bookworm\" is now available for early testing...",
-          "link": "https://www.phoronix.com/news/Debian-12-Alpha-1-Installer",
-          "publishedOn": "2022-09-22T09:16:35.000Z",
-          "wordCount": 1242,
-          "title": "Debian 12 \"Bookworm\" Installer Alpha 1 Released",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Turnip-Does-Vulkan-1.3",
-          "author": null,
-          "description": "Turnip as the Mesa Vulkan driver for Qualcomm Adreno graphics is now able to support Vulkan 1.3...",
-          "link": "https://www.phoronix.com/news/Turnip-Does-Vulkan-1.3",
-          "publishedOn": "2022-09-22T09:02:29.000Z",
-          "wordCount": 1273,
-          "title": "Mesa's Turnip Now Advertises Vulkan 1.3 Support",
-          "imageUrl": null
         }
       ]
     },
@@ -5652,6 +5622,16 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/get-the-newly-upgraded-crucial-x6-2tb-portable-ssd-for-129",
+          "author": "Will Judd",
+          "description": "The Crucial X6 is one of the best portable SSDs on the market, and a ginormous 2TB model is currently discounted to £129 at Amazon, from its normal price of £150. This makes it the cheapest 2TB portable SSD by a significant margin, with alternatives like the Samsung T7 and SanDisk Extreme 2TB costing £191 or more - and an excellent value for a drive of this calibre. \nRead more",
+          "link": "https://www.rockpapershotgun.com/get-the-newly-upgraded-crucial-x6-2tb-portable-ssd-for-129",
+          "publishedOn": "2022-10-05T21:19:41.000Z",
+          "wordCount": 4914,
+          "title": "Get the newly upgraded Crucial X6 2TB portable SSD for £129",
+          "imageUrl": "https://assets2.rockpapershotgun.com/x6_mvcUyLA.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/x6_mvcUyLA.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/wild-hearts-shows-off-more-of-its-giant-monster-battling-technology-in-new-gameplay-trailer",
           "author": "CJ Wheeler",
@@ -6891,26 +6871,6 @@
           "wordCount": 5258,
           "title": "Trombone Champ deserves to toot its own horn",
           "imageUrl": "https://assets2.rockpapershotgun.com/Trombone-Champ-nasty.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Trombone-Champ-nasty.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/dark-souls-3s-servers-are-offline-again",
-          "author": "CJ Wheeler",
-          "description": "I hope Dark Souls 3 rested at a bonfire recently, because its servers are down once again. FromSoftware confirmed that PvP multiplayer for the Steam version of the game had gone offline in a tweet, and said they’d provide an update once details were available to share. When I published this post, no explanation was forthcoming about what the cause of the downtime might be.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/dark-souls-3s-servers-are-offline-again",
-          "publishedOn": "2022-09-22T09:18:31.000Z",
-          "wordCount": 4974,
-          "title": "Dark Souls 3’s servers are offline again",
-          "imageUrl": "https://assets2.rockpapershotgun.com/dark-souls-3-servers-down.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/dark-souls-3-servers-down.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/the-diofield-chronicle-review",
-          "author": "Katharine Castle",
-          "description": "Have you ever played a game and thought, \"Are we actually the bad guys here?\" Usually, the whole \"we're fighting on the wrong side of history\" line is a deliberate plot device in RPGs, offering moments of clarity to not only peel back the curtain and provide fresh impetus for the events yet to come, but also to cleverly reframe everything you've achieved so far. I don't say this to spoil the events of The DioField Chronicle, the new real-time strategy game from Lancarse and Square Enix, but it is a question I found myself asking a lot during its middle act - and it never quite delivers the punchline you're looking for. \nAround 8-10 hours into the game, there's an extended portion of the campaign that sees your band of Blue Fox mercenaries bringing an entire region of DioField Island to heel because they're, err, pro democracy. Of the cast's central quartet, only one stands up as a voice of reason when motions are made to quell these despicable riots, but he's repeatedly shot down every time he tries to offer an alternate view. Eventually, one character says to him, and I quote, \"Isca, what has got into you? You ought to know the danger posed by the ideology of democracy.\" It's an odd stance for someone clearly not a villain to take in 2022, although really, I should have probably seen it coming. Our mercs work for a duke after all, and most are aristocratic nobles who are handy with a sword. Oh no. I think this might actually be played: Tories - The Game. Yuck. \nRead more",
-          "link": "https://www.rockpapershotgun.com/the-diofield-chronicle-review",
-          "publishedOn": "2022-09-22T09:00:00.000Z",
-          "wordCount": 5929,
-          "title": "The DioField Chronicle review: deep real-time strategy that gets mired in its own plot",
-          "imageUrl": "https://assets2.rockpapershotgun.com/diofield-chronicle-fred.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/diofield-chronicle-fred.jpg"
         }
       ]
     },
@@ -13341,16 +13301,6 @@
           "wordCount": 1749,
           "title": "Quiz – Vad kan du om spelvärldens Vilda västern?",
           "imageUrl": "https://www.fz.se/artikel/og-image/291068"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291542",
-          "author": null,
-          "description": "Och \"Wonderlands\" ser ut att kunna bli en egen serie.",
-          "link": "https://www.fz.se/artikel/291542-tiny-tinas-wonderlands-overtraffade-gearbox-forvantningar",
-          "publishedOn": "2022-09-22T09:00:00.000Z",
-          "wordCount": 1855,
-          "title": "Tiny Tina's Wonderlands överträffade Gearbox förväntningar",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291542"
         }
       ]
     },
@@ -14316,6 +14266,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/konnech_election_software_china/",
+          "author": null,
+          "description": "<h4>LA DA ain't happy about handling of poll workers' info</h4> <p>Eugene Yu, CEO of Michigan-based software firm Konnech, has been arrested by police in that US state at the request of the Los Angeles County District Attorney George Gascón, as part of an investigation into the theft of personal information.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/konnech_election_software_china/",
+          "publishedOn": "2022-10-05T21:13:05.000Z",
+          "wordCount": 1991,
+          "title": "American software biz CEO arrested for allegedly storing election data in China",
+          "imageUrl": "https://regmedia.co.uk/2015/07/29/china_us_87654567.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/micro_molten_salt_reactor/",
+          "author": null,
+          "description": "<h4>Small, safer vessels could be 'silicon chip' that ushers in new nuclear age</h4> <p>As the US Department of Energy (DoE) continues to look for ways to improve molten salt nuclear reactors (MSRs), a team from Brigham Young University in Utah has designed one it says can fit safely in the bed of a 40-foot truck. …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/micro_molten_salt_reactor/",
+          "publishedOn": "2022-10-05T20:26:05.000Z",
+          "wordCount": 1748,
+          "title": "Micro molten salt reactor can fit on a truck, power 1k homes. When it's built",
+          "imageUrl": "https://regmedia.co.uk/2022/10/05/byu-molten-salt.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/military_contractor_hack/",
           "author": null,
@@ -16775,16 +16745,6 @@
           "wordCount": 1179,
           "title": "Bank of England seeks partner to support Oracle Cloud implementation",
           "imageUrl": "https://regmedia.co.uk/2020/10/30/shutterstock_bank_of_england.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/22/schneider_electric_aveva/",
-          "author": null,
-          "description": "<h4>French industrial conglomerate pays $10.75b, but already owned lion's share of industrial software specialist</h4> <p><strong>Analysis</strong>  Yet another major UK technology business is to pass into foreign ownership with Schneider Electric's £9.48 billion (c $10.75 billion) deal to acquire all the outstanding shares in Aveva.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/22/schneider_electric_aveva/",
-          "publishedOn": "2022-09-22T08:30:14.000Z",
-          "wordCount": 1471,
-          "title": "Another UK tech company bought out: Schneider Electric grabs rest of Aveva",
-          "imageUrl": "https://regmedia.co.uk/2019/07/10/shutterstock_ics_example.jpg"
         }
       ]
     }
