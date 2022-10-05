@@ -732,6 +732,26 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/dead-space-remakes-70-console-price-raises-eyebrows",
+          "author": "Tom Phillips",
+          "description": "EA's Dead Space remake has raised eyebrows for its £70/$70 price point on PlayStation 5 and Xbox Series X/S, compared to its £50/$60 cost on Steam. \r\n\n\r\nOn Steam, its £50 price sits in line with other upcoming AAA launches, such as Gotham Knights, Sonic Frontiers, The Callisto Protocol, Hogwarts Legacy and Marvel's Midnight Suns.\r\n\nOn console, the price point for these games varies a little more. Sonic Frontiers is £50, Callisto Protocol is £55 and Hogwarts Legacy is £60, while Gotham Knights and Marvel's Midnight Suns are £65.\n Read more",
+          "link": "https://www.eurogamer.net/dead-space-remakes-70-console-price-raises-eyebrows",
+          "publishedOn": "2022-10-05T11:09:56.000Z",
+          "wordCount": 4644,
+          "title": "Dead Space remake's £70 console price raises eyebrows",
+          "imageUrl": "https://assets.reedpopcdn.com/Dead-Space-Official-Gameplay-Trailer-3-55-screenshot.png/BROK/thumbnail/1600x900/format/jpg/quality/80/Dead-Space-Official-Gameplay-Trailer-3-55-screenshot.png"
+        },
+        {
+          "id": "https://www.eurogamer.net/playstation-5-gets-its-own-native-disney-app",
+          "author": "Victoria Kennedy",
+          "description": "For those of you looking to watch shows such as Andor and the all-new Hocus Pocus 2 in time for Halloween via your PlayStation 5, there is good news - the console now has a native Disney+ app.\r\n\n\r\nWith this app in play, users will now be able to see all of the channel's offerings in Ultra HD thanks to its 4K HDR playback support (the PlayStation 4 version of the app was limited to 1080p).\r\n\n\r\n\"A key part of our global expansion strategy is to meet consumers wherever they are, which is why we're excited to enhance both Disney Plus and Star Plus for PlayStation 5 users,\" said Jerrell Jimerson, EVP of product and design for Disney streaming (thanks, The Verge). \"The ability to support 4K HDR video streaming on the platform will also improve the viewing experience for fans.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/playstation-5-gets-its-own-native-disney-app",
+          "publishedOn": "2022-10-05T11:03:08.000Z",
+          "wordCount": 4493,
+          "title": "PlayStation 5 gets its own native Disney+ app",
+          "imageUrl": "https://assets.reedpopcdn.com/hocus-pocus-2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/hocus-pocus-2.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/uk-competition-regulator-sets-march-deadline-for-microsoft-activision-blizzard-ruling",
           "author": "Victoria Kennedy",
           "description": "The UK's Competition and Markets Authority (CMA) has laid out a timeline for its second phase of investigations into Microsoft's proposed $68.7bn acquisition of Activision Blizzard, following concerns this deal could be deemed anti-competitive.\r\n\n\r\nNew documentation from the CMA states that its statutory deadline to publish the final report will be 1st March, 2023. As such, the final deadline for all parties' responses regarding this investigation will be in February.\r\n\n\r\nBetween that time and now, the CMA will be conducting meetings with the main and third parties involved with this acquisition, issuing questionnaires and verifying the information provided. \r\n \nRead more",
@@ -2989,6 +3009,16 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/is-the-mario-movie-secretly-an-uncharted-movie-7-things-weve-found-in-the-poster",
+          "author": "Jim Trinca",
+          "description": "Ahead of Nintendo’s presentation on Thursday, a poster for The Super Mario Bros. Movie has been released, and it’s jam-packed with the sort of easter eggs and curious details that the average punter might miss. And let’s face it, who has time to zoom into a Twitter post? Well, luckily for you, it’s our job to do that sort of thing so you don’t have to. So, here’s 7 things we found in the Mario poster that may give us some clues as to the upcoming film’s story:\r\n\nThe Antique Shop’s Pixelated Goods\n\r\nCould this be a clue as to the Mario movie’s canonicity within the wider continuity of the games? I can’t believe I just typed that sentence with a straight face. But hear me out: on those shelves you can clearly see switch blocks and music boxes from Super Mario Bros 3. Is this an indication that the film considers the classic games to have happened in its timeline?\r\n \nRead more",
+          "link": "https://www.vg247.com/is-the-mario-movie-secretly-an-uncharted-movie-7-things-weve-found-in-the-poster",
+          "publishedOn": "2022-10-05T10:32:57.000Z",
+          "wordCount": 5963,
+          "title": "Is the Mario movie secretly an Uncharted movie? 7 things we've found in the poster",
+          "imageUrl": "https://asset.vg247.com/MARIO-HEADER.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/MARIO-HEADER.jpg"
+        },
+        {
           "id": "https://www.vg247.com/overwatch-2-under-mass-ddos-attack-on-launch-says-blizzard",
           "author": "Kelsey Raynor",
           "description": "Overwatch 2 became available less than 24 hours ago, and as expected, there have been some teething issues when it comes to accessing the game. This isn’t something we aren’t used to by any means, but experiencing queues of up to 40,000 players at once still saw me go to bed early rather than stick around to try and play.\nThat said, Blizzard has acknowledged the queue times for the free-to-play multiplayer title via Twitter. Mike Ybarra, president of Blizzard, tweeted that the team was working hard to fix the server issues, and that Blizzard was humbled to see the excitement of its players.\nLater, however, Mike Ybarra followed up on his prior tweet by quoting it with, “Unfortunately, we are experiencing a mass DDoS attack on our servers. Teams are working hard to mitigate/manage. This is causing a lot of drop/connection issues.”\n Read more",
@@ -4095,6 +4125,16 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.1-Retpolines-INT3",
+          "author": null,
+          "description": "The x86/core changes for Linux 6.1 have been merged and are headlined by making sure an INT3 instruction is inserted after every unconditional Retpoline jump (JMP) for the Retpolines handling on both Intel and AMD processors...",
+          "link": "https://www.phoronix.com/news/Linux-6.1-Retpolines-INT3",
+          "publishedOn": "2022-10-05T10:49:46.000Z",
+          "wordCount": 1321,
+          "title": "Linux 6.1 Hardening Retpolines With Ensuring An INT3 After Every Unconditional Jump",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/SELinux-Runtime-Disabling",
           "author": null,
@@ -5353,6 +5393,16 @@
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
         {
+          "id": "https://www.rockpapershotgun.com/streets-of-rogue-2-goes-open-world-and-you-can-drive-a-truck-through-a-barn",
+          "author": "CJ Wheeler",
+          "description": "The Steam store page for top-down roguelite sequel Streets Of Rogue 2 has gone live, and has some screenshots and a wee GIF of the game in action. This time, the immersive sim shenanigans are going open-world. The Steam page also provides some inkling of what else is coming when the game launches in 2023. Did I mention it’s coming out in 2023?\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/streets-of-rogue-2-goes-open-world-and-you-can-drive-a-truck-through-a-barn",
+          "publishedOn": "2022-10-05T10:49:42.000Z",
+          "wordCount": 5036,
+          "title": "Streets Of Rogue 2 goes open-world, and you can drive a truck through a barn",
+          "imageUrl": "https://assets2.rockpapershotgun.com/Streets-Of-Rogue-2-reveal.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Streets-Of-Rogue-2-reveal.jpg"
+        },
+        {
           "id": "https://www.rockpapershotgun.com/hitman-3s-roguelike-freelancer-mode-delayed-into-2023",
           "author": "CJ Wheeler",
           "description": "Agent 47 is still going freelance, but not this year. IO Interactive have pushed Hitman 3’s planned free Freelancer mode back again, this time to January 26th. The delay was announced along with the reveal of a closed technical test for Freelancer starting early next month. And here I was, thinking that Ian Hitman never missed a target.\r\n\n \nRead more",
@@ -6539,6 +6589,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "MckYZQqDYNe5oYuCQLcNCf",
+          "author": null,
+          "description": "We've gathered the top pre-built desktop and laptop deals you can find.",
+          "link": "https://www.tomshardware.com/news/best-gaming-pc-deals",
+          "publishedOn": "2022-10-05T11:05:06.000Z",
+          "wordCount": 22403,
+          "title": "Best PC and Laptop Deals",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/AGEf3zK4MMmMcofKbWS5xf.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/AGEf3zK4MMmMcofKbWS5xf.jpg"
+        },
         {
           "id": "QuX2b5ngeiLZBrXUdZTxSJ",
           "author": null,
@@ -11014,16 +11079,6 @@
           "wordCount": 1756,
           "title": "Andor first impressions: Star Wars inches toward the best of modern adult TV",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/andor-listing-02-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1883513",
-          "author": "Benj Edwards",
-          "description": "Getty sidesteps potential legal problems from unresolved rights and ethics issues.",
-          "link": "https://arstechnica.com/?p=1883513",
-          "publishedOn": "2022-09-21T22:32:35.000Z",
-          "wordCount": 1837,
-          "title": "Fearing copyright issues, Getty Images bans AI-generated artwork",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/ai_image_ban_1-760x380.jpg"
         }
       ]
     },
@@ -13517,6 +13572,16 @@
       "siteUrl": "https://www.theregister.com/",
       "articles": [
         {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/icewm_version_3/",
+          "author": null,
+          "description": "<h4>And it's not the only venerable window manager still in development</h4> <p>A new version of a quarter-century-old window manager shows that there's still room for improvement and innovation, even in established, mature tools.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/icewm_version_3/",
+          "publishedOn": "2022-10-05T10:29:10.000Z",
+          "wordCount": 1438,
+          "title": "IceWM reaches version 3 after a mere 25 years",
+          "imageUrl": "https://regmedia.co.uk/2022/10/04/icewm3.png"
+        },
+        {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/wax_worms_plastic_paper/",
           "author": null,
           "description": "<h4>Scientists believe moth larvae saliva can oxidize, degrade polyethylene</h4> <p>The caterpillar larvae of the wax moth produce saliva with enzymes capable of oxidizing and degrading polyethylene, offering a potential solution to the plastic pollution challenge.…</p>",
@@ -15895,16 +15960,6 @@
           "wordCount": 1568,
           "title": "San Francisco cops can use private cameras to live-monitor 'significant events'",
           "imageUrl": "https://regmedia.co.uk/2022/07/14/shutterstock_salesforce_tower.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/21/meta_google_layoffs/",
-          "author": null,
-          "description": "<h4>You're not being fired, we're just unable to facilitate your sustained employment</h4> <p>Forget quiet quitting. Meta and Google have learned the art of the quiet layoff: telling staff to pick new roles after reorganizing or disbanding teams, and running out the clock on the reapplication process until some are left with no job.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/21/meta_google_layoffs/",
-          "publishedOn": "2022-09-21T23:22:59.000Z",
-          "wordCount": 1576,
-          "title": "Meta, Google learn the art of the quiet layoff",
-          "imageUrl": "https://regmedia.co.uk/2017/07/06/layoffs_shuterstock.jpg"
         }
       ]
     }
