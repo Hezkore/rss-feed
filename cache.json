@@ -9107,6 +9107,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "https://jmtd.net/log/worktrees/",
+          "author": null,
+          "description": "I work on OpenJDK backports:\ntaking a patch that was committed to a current version of JDK, and adapting it\nto an older one. There are four main OpenJDK versions that I am concerned with:\nthe current version (\"jdk\"), 8, 11 and 17. These are all maintained in separate\nGit(Hub) repositories.\nIt's very useful to have access to the other JDKs when working on any\nparticular version. For example, to backport a patch from the latest version to\n17, where the delta is not too big, a lot of the time you can cherry-pick the\npatch unmodified. To do git cherry-pick <some-commit> in a git repository\ntracking JDK17, where <some-commit> is in \"jdk\", I need the \"jdk\" repository\nconfigured as a remote for my local jdk17 repository.\nMaintaining completely separate local git repositories for all four JDK vers…",
+          "link": "https://jmtd.net/log/worktrees/",
+          "publishedOn": "2022-10-06T07:04:12.000Z",
+          "wordCount": 570,
+          "title": "Jonathan Dowland: git worktrees",
+          "imageUrl": null
+        },
+        {
           "id": "http://dirk.eddelbuettel.com/blog/2022/10/05#rvowpalwabbit_0.0.17",
           "author": null,
           "description": "Almost to the week one year since the last maintenance release, we can announce another maintenance release, now at version 0.0.17, of the RVowpalWabbit package. The CRAN maintainers kindly and politly pointed out that I was (cough, cough) apparently the last maintainer who had packages that set StagedInstall: no. Guilty as charged.\nRVowpalWabbit is one the two packages; the other one will hopefully follow ‘shortly’. And while I long suspected linking aspects to drive this (this is an old package, newer R packaging of the awesome VowpalWabbit is in rvw, I was plain wrong here. The cause was an absolute path to an included dataset, computed in an example, which then gets serialized. As Tomas Kalibera suggested, we can replace the constant with a function and all is well. So here is 0.0.17.\nAs noted before, there is a newer package rvw based on the excellent GSoC 2018 and beyond work by Ivan Pavlov (mentored by James and myself) so if you are into VowpalWabbit from R go check it out.\nCRANberries provides a summary of changes to the previous version. More information is on the RVowpalWabbit page. Issues and bugreports should go to the GitHub issue tracker.\nIf you like this or other open-source work I do, you can now sponsor me at GitHub.\nDirk Eddelbuettel originated on his Thinking inside the box blog. Please report excessive re-aggregation in third-party for-profit settings.",
@@ -11067,6 +11077,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291701",
+          "author": null,
+          "description": "Och tar bort telefonkravet för de flesta existerande Overwatch-spelarna.",
+          "link": "https://www.fz.se/artikel/291701-blizzard-ber-om-ursakt-for-overwatch-2-slappet",
+          "publishedOn": "2022-10-06T06:51:00.000Z",
+          "wordCount": 2152,
+          "title": "Blizzard ber om ursäkt för Overwatch 2-släppet",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291701"
+        },
         {
           "id": "https://www.fz.se/artikel/291698",
           "author": null,
@@ -13492,6 +13512,16 @@
       "siteUrl": "https://www.theregister.com/",
       "articles": [
         {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/06/ai_retina_scan_health/",
+          "author": null,
+          "description": "<h4>If and when this hits the mainstream, who's going to trust their retinas to random models?</h4> <p>AI algorithms can predict whether a patient is at risk of suffering a stroke, heart attack, or dying from heart disease just by studying images of their retinas, according to research out of England.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/06/ai_retina_scan_health/",
+          "publishedOn": "2022-10-06T07:22:07.000Z",
+          "wordCount": 1471,
+          "title": "AI eye-scanner can tell whether you'll croak it from a heart attack",
+          "imageUrl": "https://regmedia.co.uk/2022/10/05/retina_shutterstock.jpg"
+        },
+        {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/06/splunk_cribl_lawsuit/",
           "author": null,
           "description": "<h4>Cribl accused of terrible behaviour, horrible IP practices, implausible deniability</h4> <p>Data-crunching outfit Splunk has filed a lawsuit alleging that a former employee stole its source code and used it to start a rival company.…</p>",
@@ -15910,16 +15940,6 @@
           "wordCount": 1606,
           "title": "Check out this Android spyware, says Microsoft, the home of a gazillion Windows flaws",
           "imageUrl": "https://regmedia.co.uk/2022/09/22/malware_warning_computer_screen_android_device_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/22/japanese_solar_powered_cyborg_cockroach/",
-          "author": null,
-          "description": "<h4>Neat idea until you remember that roaches and sunlight, not a good mix</h4> <p>A research breakthrough in Japan could mean future search and rescue missions are conducted using cyborg cockroaches. What's more, an ultra-thin solar film is the real star of this show. …</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/22/japanese_solar_powered_cyborg_cockroach/",
-          "publishedOn": "2022-09-22T19:04:10.000Z",
-          "wordCount": 1458,
-          "title": "Japanese boffins build solar-powered, remote-controlled cyborg cockroach",
-          "imageUrl": "https://regmedia.co.uk/2022/09/22/cyber-roach.jpg"
         }
       ]
     }

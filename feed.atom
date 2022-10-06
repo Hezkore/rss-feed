@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-06T06:36:57.233Z</updated>
+    <updated>2022-10-06T07:30:42.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI eye-scanner can tell whether you'll croak it from a heart attack]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/06/ai_retina_scan_health/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/06/ai_retina_scan_health/"/>
+        <updated>2022-10-06T07:22:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>If and when this hits the mainstream, who's going to trust their retinas to random models?</h4> <p>AI algorithms can predict whether a patient is at risk of suffering a stroke, heart attack, or dying from heart disease just by studying images of their retinas, according to research out of England.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jonathan Dowland: git worktrees]]></title>
+        <id>https://jmtd.net/log/worktrees/</id>
+        <link href="https://jmtd.net/log/worktrees/"/>
+        <updated>2022-10-06T07:04:12.000Z</updated>
+        <summary type="html"><![CDATA[I work on OpenJDK backports:
+taking a patch that was committed to a current version of JDK, and adapting it
+to an older one. There are four main OpenJDK versions that I am concerned with:
+the current version ("jdk"), 8, 11 and 17. These are all maintained in separate
+Git(Hub) repositories.
+It's very useful to have access to the other JDKs when working on any
+particular version. For example, to backport a patch from the latest version to
+17, where the delta is not too big, a lot of the time you can cherry-pick the
+patch unmodified. To do git cherry-pick <some-commit> in a git repository
+tracking JDK17, where <some-commit> is in "jdk", I need the "jdk" repository
+configured as a remote for my local jdk17 repository.
+Maintaining completely separate local git repositories for all four JDK vers…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blizzard ber om ursäkt för Overwatch 2-släppet]]></title>
+        <id>https://www.fz.se/artikel/291701</id>
+        <link href="https://www.fz.se/artikel/291701-blizzard-ber-om-ursakt-for-overwatch-2-slappet"/>
+        <updated>2022-10-06T06:51:00.000Z</updated>
+        <summary type="html"><![CDATA[Och tar bort telefonkravet för de flesta existerande Overwatch-spelarna.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Splunk alleges source code theft by former employee who started rival company]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/06/splunk_cribl_lawsuit/</id>
@@ -17715,16 +17756,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[A new AOM-AV1 update was just released by Google, improving AV1's encoding performance by up to 34% with 16 encoding threads or more.]]></summary>
         <author>
             <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japanese boffins build solar-powered, remote-controlled cyborg cockroach]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/22/japanese_solar_powered_cyborg_cockroach/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/22/japanese_solar_powered_cyborg_cockroach/"/>
-        <updated>2022-09-22T19:04:10.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Neat idea until you remember that roaches and sunlight, not a good mix</h4> <p>A research breakthrough in Japan could mean future search and rescue missions are conducted using cyborg cockroaches. What's more, an ultra-thin solar film is the real star of this show. …</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
