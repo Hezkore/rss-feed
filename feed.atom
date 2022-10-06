@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-06T22:27:35.238Z</updated>
+    <updated>2022-10-06T23:34:21.742Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[RimWorld's new Biotech expansion adds babies, mechanoids, and gene modding]]></title>
+        <id>https://www.eurogamer.net/rimworld-getting-babies-mechanoids-and-gene-mods-in-new-biotech-expansion</id>
+        <link href="https://www.eurogamer.net/rimworld-getting-babies-mechanoids-and-gene-mods-in-new-biotech-expansion"/>
+        <updated>2022-10-06T23:07:27.000Z</updated>
+        <summary type="html"><![CDATA[RimWorld, the acclaimed sci-fi colony sim from Ludeon Studios, is getting a third paid expansion, titled Biotech - which'll be bringing babies, mechanoids, and gene modding when it launches later this month alongside a free content update for all players.
+
+
+Biotech's first big additions come in the form of children and reproduction, with colonists and outsiders able to get pregnant and give birth - either naturally or via technological means.
+
+
+Once babies grow into children, they can learn through lessons, play, or by watching adults work, with players able to determine their traits and passions every few years. Children given more attention and better education are more likely to become happy and talented adult colonists - but players can alternatively skip the nuturing and use growth vats to pump out soldiers and cheap workers to exploit.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If someone weaponizes our robots, we'll be really, really sad, says Boston Dynamics]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/06/boston_dynamics_weapons/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/06/boston_dynamics_weapons/"/>
+        <updated>2022-10-06T22:57:51.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Maybe finally a good use for DRM, eh? Preventing armed modifications</h4> <p>Boston Dynamics and five other robot makers have promised in an open letter they won't allow their machines to be weaponized by either themselves or their customers. …</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dirk Eddelbuettel: Rblpapi 0.3.14: Updates and Extensions]]></title>
+        <id>http://dirk.eddelbuettel.com/blog/2022/10/06#rblpapi_0.3.14</id>
+        <link href="http://dirk.eddelbuettel.com/blog/2022/10/06#rblpapi_0.3.14"/>
+        <updated>2022-10-06T22:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Version 0.3.14 of the Rblpapi package arrived on CRAN earlier today. Rblpapi provides a direct interface between R and the Bloomberg Terminal via the C++ API provided by Bloomberg (but note that a valid Bloomberg license and installation is required).
+This is the fourteenth release since the package first appeared on CRAN in 2016. It comprises a nice PR from Robert Harlow extending support to B-PIPE authentication (for those who have it) along with a few fixes made since the last release in January. The last one provided from a kind assist by Tomas Kalibera who pointed out how to overcome an absolute ‘rpath’ dynamic linker instruction (and as I noticed noticed something I already did in another package – ah well) so that we no longer require StagedInstall: yes.
+The detailed list of changes follow below.
+Changes in Rblpapi version 0.3.14 (2022-10-05)
+Build configuration was generalized to consider local copies of library and headers (Dirk in #362)
+
+
+A ticker symbol was corrected (Dirk in #368 addressing an issue #366 and #367)
+
+
+Support for B-PIPE was added (Robert Harlow in #369 closing #342)
+
+
+The package no longer requires staged installation thanks to an assist from Tomas Kalibera (Dirk in #373)
+
+
+The retired package fts is no longer suggested (Dirk in #374 closing #372)
+
+
+
+Courtesy of my CRANberries, there is also a diffstat report for the this release. As always, more detailed information is on the Rblpapi page. Questions, comments etc should go to the issue tickets system at the GitHub repo.
+If you like this or other open-source work I do, you can now sponsor me at GitHub.
+Dirk Eddelbuettel originated on his Thinking inside the box blog. Please report excessive re-aggregation in third-party for-profit settings.]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.1 Will Try To Print The CPU Core Where A Seg Fault Occurs]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-Seg-Fault-Print-CPU</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-Seg-Fault-Print-CPU"/>
+        <updated>2022-10-06T22:30:24.000Z</updated>
+        <summary type="html"><![CDATA[A change now merged for Linux 6.1 will attempt to print the CPU core where a segmentation fault happens. The hope by printing the CPU/core where a segmentation fault happens is that over time trends may materialize with this information potentially being useful for helping to spot faulty CPUs...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2K warns users their info has been stolen following breach of its help desk]]></title>
+        <id>https://arstechnica.com/?p=1887894</id>
+        <link href="https://arstechnica.com/?p=1887894"/>
+        <updated>2022-10-06T22:06:30.000Z</updated>
+        <summary type="html"><![CDATA[Stolen data includes names, email addresses, console IDs, and gamertags.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Wireless Keyboards for 2022]]></title>
+        <id>YMLtaKPzCo6x5PTVT8Ftjc</id>
+        <link href="https://www.tomshardware.com/best-picks/best-wireless-keyboards"/>
+        <updated>2022-10-06T22:01:46.000Z</updated>
+        <summary type="html"><![CDATA[Whether you’re gaming from the couch, writing book on the road, or you just want a clutter-free desk, these are the best wireless keyboards we've tested.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Huge nonprofit hospital network suffers IT meltdown after 'security incident']]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/06/commonspirit_health_cyberattack/</id>
@@ -18908,143 +18998,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apex Legends studio speaks out over "increased harassment" of dev team]]></title>
-        <id>https://www.eurogamer.net/apex-legends-studio-speaks-out-over-increased-harassment-of-dev-team</id>
-        <link href="https://www.eurogamer.net/apex-legends-studio-speaks-out-over-increased-harassment-of-dev-team"/>
-        <updated>2022-09-23T11:30:33.000Z</updated>
-        <summary type="html"><![CDATA[Apex Legends developer Respawn Entertainment has spoken out on what it calls a recent increase in "harassment towards members of our development team", warning those responsible that it will "take appropriate action to ensure [team members'] health and safety".
-
-
-"Recently, we have seen increased harassment of our development team," the studio wrote in a statement shared on Twitter. "We welcome community input, however, the line between constructive feedback and the harassment of our dev team cannot be crossed."
-
-
-"We want to remind our players that we have a zero tolerance policy for threats and the harassment of our developers," the statement continued. "We will take appropriate action to ensure the healthy and safety of our team".
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teams of aerial drones might one day help to build houses]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/23/drones_3d_printing_buildings/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/23/drones_3d_printing_buildings/"/>
-        <updated>2022-09-23T11:30:08.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Wasp-like technique could be used to 3D-print structures in that remote place you plan to retire in</h4> <p>Flying robots could be the answer to the challenge of building structures in remote locations or hard-to-reach spots, according to engineers who have developed a drone-based approach to 3D printing.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I nysläppta Spiderheck lirar du som en spindel med ljussabel]]></title>
-        <id>https://www.fz.se/artikel/291560</id>
-        <link href="https://www.fz.se/artikel/291560-i-nyslappta-spiderheck-lirar-du-som-en-spindel-med-ljussabel"/>
-        <updated>2022-09-23T11:23:00.000Z</updated>
-        <summary type="html"><![CDATA[Det har dessutom lokal multiplayer och är gratis på pc i helgen!]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solidigm P41 Plus NVMe SSD]]></title>
-        <id>https://www.phoronix.com/review/solidigm-p41-plus</id>
-        <link href="https://www.phoronix.com/review/solidigm-p41-plus"/>
-        <updated>2022-09-23T11:21:50.000Z</updated>
-        <summary type="html"><![CDATA[Up on the review block today is the Solidigm P41 Plus as a value-focused solid-state drive. Solidigm is the US company formed when SK Hynix acquired Intel's NAND/SSD business. Since forming Solidigm at the end of last year they have continued to sell products from Intel's existing SSD product line-up while last month they announced the P41 Plus as their first consumer solid-state drive of their own design. Recently I've been testing out the Solidigm P41 Plus 1TB and 2TB drives under Linux for seeing how these affordable QLC drives perform.]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naughty Dog's Neil Druckmann has a Return to Monkey Island cameo]]></title>
-        <id>https://www.eurogamer.net/naughty-dogs-neil-druckmann-has-a-return-to-monkey-island-cameo</id>
-        <link href="https://www.eurogamer.net/naughty-dogs-neil-druckmann-has-a-return-to-monkey-island-cameo"/>
-        <updated>2022-09-23T11:14:55.000Z</updated>
-        <summary type="html"><![CDATA[Neil Druckmann, the man behind the gritty The Last of Us games, has a cameo in the delightful, and comparatively very colourful, Return to Monkey Island. 
-
-
-Last night, I finished Return to Monkey Island. It was an amazing moment for me, and as I sat watching the credits roll with my heart feeling pleasantly full I saw a name make its way up the screen that I did not expect to see there - Neil Druckmann.
-
-
-"Neil Druckmann?" my mind tried to compute, as my lips verbalised my amazement. Surely not the Neil Druckmann whose Ellie and Joel can be heard cussing left, right and centre in a game that is definitely not for children. 
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good news for UK tech contractors as govt repeals IR35 tax rules]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/23/uk_government_to_repeal_ir35/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/23/uk_government_to_repeal_ir35/"/>
-        <updated>2022-09-23T11:05:13.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Controversial reforms ditched but expert notes HMRC thinks 90% don't comply</h4> <p>The UK government has announced plans to repeal the controversial reform to off-payroll taxation, a set of rules which applied to IT contractors who move between companies.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rocket Report: SpaceX fires up seven Raptors; SpinLaunch raises big funding round]]></title>
-        <id>https://arstechnica.com/?p=1882587</id>
-        <link href="https://arstechnica.com/?p=1882587"/>
-        <updated>2022-09-23T11:00:01.000Z</updated>
-        <summary type="html"><![CDATA[This is the first time the Rocket Report has used the word "yeeted" in its history.]]></summary>
-        <author>
-            <name>Eric Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dicebreaker Recommends: Sobek: 2 Players, a quick and nasty delight]]></title>
-        <id>https://www.eurogamer.net/dicebreaker-recommends-sobek-2-players-a-quick-and-nasty-delight</id>
-        <link href="https://www.eurogamer.net/dicebreaker-recommends-sobek-2-players-a-quick-and-nasty-delight"/>
-        <updated>2022-09-23T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Dicebreaker Recommends is a series of monthly board game, RPG and other tabletop recommendations from our friends at our sibling site, Dicebreaker. This month, we look at a one of the best two-player board games released in recent memory. 
-There's nothing quite like a two-player board game to stoke the fires of competition. Two-player board games are great in that they offer the kind of uniquely competitive experience that no other type of tabletop title can provide - and Sobek: 2 Players is a prime example of this.  
-A recent remake/reimagining of a 2010 card game, Sobek: 2 Players takes the concept of the original – players are merchants attempting to make a tidy profit in an Ancient Egyptian market – and turns it into a more focused version, ditching the two to four-player count for a one-on-one experience. 
- Read more]]></summary>
-        <author>
-            <name>Alex Meehan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Se vad som är mest populärt på Steam med ny topplista]]></title>
-        <id>https://www.sweclockers.com/artikel/34971</id>
-        <link href="https://www.sweclockers.com/artikel/34971-se-vad-som-ar-mest-populart-pa-steam-med-ny-topplista"/>
-        <updated>2022-09-23T10:54:40.000Z</updated>
-        <summary type="html"><![CDATA[Valve har uppdaterat Steam och försett tjänsten med en dedikerad sida för plattformens mest populära titlar.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fragzone-fredag om GTA 6-läckan, Diablo 4, Monkey Island, PSVR2 och Trocamust!]]></title>
-        <id>https://www.fz.se/artikel/291562</id>
-        <link href="https://www.fz.se/artikel/291562-fragzone-fredag-om-gta-6-lackan-diablo-4-monkey-island-psvr2-och-trocamust"/>
-        <updated>2022-09-23T10:53:03.000Z</updated>
-        <summary type="html"><![CDATA[Is it a must?]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valve’s new Steam Charts page puts all its top games in one place]]></title>
-        <id>https://www.eurogamer.net/valves-new-steam-charts-page-puts-all-its-top-games-in-one-place</id>
-        <link href="https://www.eurogamer.net/valves-new-steam-charts-page-puts-all-its-top-games-in-one-place"/>
-        <updated>2022-09-23T10:28:01.000Z</updated>
-        <summary type="html"><![CDATA[Valve has introduced a new, live, charts page on Steam.
-
-
-As you may have surmised from the headline already, this page sees all of Steam's top games bundled together in one place. It will replace the usual Steam Stats many of you may be familiar with.
-
-
-"Today we're launching Steam Charts, a new section of Steam that is dedicated to showing the most-played and top-selling games on Steam. Including numbers in real time," Valve said in a statement (thanks, Kotaku).
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
         </author>
     </entry>
 </feed>
