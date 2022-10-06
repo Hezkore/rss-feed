@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-06T21:24:45.045Z</updated>
+    <updated>2022-10-06T22:27:35.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Huge nonprofit hospital network suffers IT meltdown after 'security incident']]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/06/commonspirit_health_cyberattack/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/06/commonspirit_health_cyberattack/"/>
+        <updated>2022-10-06T21:55:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Ambulances diverted, patient records frozen, rhymes with handsome wear</h4> <p>America's second-largest nonprofit healthcare org is suffering a security "issue" that has diverted ambulances and shut down electronic records systems at hospitals around the country.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Now you can order the Steam Deck (and its dock) without a reservation]]></title>
+        <id>https://arstechnica.com/?p=1887855</id>
+        <link href="https://arstechnica.com/?p=1887855"/>
+        <updated>2022-10-06T21:42:15.000Z</updated>
+        <summary type="html"><![CDATA[Plus, SteamOS 3.3.2 claims to improve the experience with third-party docks.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Boston Dynamics *really* does not want you to add weapons to its robots]]></title>
+        <id>https://arstechnica.com/?p=1887736</id>
+        <link href="https://arstechnica.com/?p=1887736"/>
+        <updated>2022-10-06T21:28:31.000Z</updated>
+        <summary type="html"><![CDATA[Open letter cites concerns about misuse of "widely available" commercial robots among the public.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roblox sued for allegedly enabling young girl’s sexual, financial exploitation]]></title>
+        <id>https://arstechnica.com/?p=1887790</id>
+        <link href="https://arstechnica.com/?p=1887790"/>
+        <updated>2022-10-06T21:20:39.000Z</updated>
+        <summary type="html"><![CDATA[Meta, Snap, and Discord are also defendants in the lawsuit.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://shencomix.tumblr.com/post/697397528640061440</id>
@@ -19005,169 +19045,6 @@ As you may have surmised from the headline already, this page sees all of Steam'
 Read more]]></summary>
         <author>
             <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Not in the Stars]]></title>
-        <id>https://loadingartist.com/comic/not-in-the-stars/</id>
-        <link href="https://loadingartist.com/comic/not-in-the-stars/"/>
-        <updated>2022-09-23T10:19:55.000Z</updated>
-        <summary type="html"><![CDATA[a comic about a bad sign on a bad date]]></summary>
-        <author>
-            <name>Gregor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern Warfare 2 beta pulls in nearly 110,000 concurrent players on its first day on Steam]]></title>
-        <id>https://www.vg247.com/call-of-duty-modern-warfare-2-beta-steam-record-players</id>
-        <link href="https://www.vg247.com/call-of-duty-modern-warfare-2-beta-steam-record-players"/>
-        <updated>2022-09-23T10:18:30.000Z</updated>
-        <summary type="html"><![CDATA[The Modern Warfare 2 beta kicked off its second stint last night across PC, PlayStation, and Xbox. Though it's the second time PlayStation players are able to play, this is the first time PC and Xbox folks are getting access to the beta.
-It's only available for those who pre-ordered or acquired a beta code so far, but it's already breaking records.
-Everyone assumed it was going to be big, but since Call of Duty has been absent from Steam for five years now, we never really had a good picture of its player numbers on PC. Modern Warfare 2 marks the series' grand return to Steam, and the audience there has responded in kind.
- Read more]]></summary>
-        <author>
-            <name>Sherif Saed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MultiVersus' next fighter is unveiled today, and it sounds like it's Rick]]></title>
-        <id>https://www.rockpapershotgun.com/multiversus-next-fighter-is-unveiled-today-and-it-sounds-like-its-rick</id>
-        <link href="https://www.rockpapershotgun.com/multiversus-next-fighter-is-unveiled-today-and-it-sounds-like-its-rick"/>
-        <updated>2022-09-23T10:09:49.000Z</updated>
-        <summary type="html"><![CDATA[There’s a new fighter announcement incoming from Warner Bros. licensed brawler MultiVersus today, with three already revealed characters yet to release in season one. My money’s on Rick And Morty’s Rick Sanchez, but Stripe from Gremlins and the DC Universe’s Black Adam are still set to arrive too. You’ll have to wait until 6pm BST/7pm CEST/10am PST to find out who the next fighter is, according to a tweet from the MultiVersus team.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Radeon R600 Gallium3D Switches To Modern NIR Backend By Default]]></title>
-        <id>https://www.phoronix.com/news/R600g-NIR-Default-Mesa-22.3</id>
-        <link href="https://www.phoronix.com/news/R600g-NIR-Default-Mesa-22.3"/>
-        <updated>2022-09-23T10:07:09.000Z</updated>
-        <summary type="html"><![CDATA[After the persistent work by developer Gert Wollny with a desire to improve the aging "R600g" driver that provides open-source OpenGL support for Radeon HD 2000 through HD 6000 series graphics cards, this Gallium3D driver in Mesa 22.3 will now use the NIR back-end by default...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam har fått en ny sida med officiell statistik]]></title>
-        <id>https://www.fz.se/artikel/291559</id>
-        <link href="https://www.fz.se/artikel/291559-steam-har-fatt-en-ny-sida-med-officiell-statistik"/>
-        <updated>2022-09-23T10:06:00.000Z</updated>
-        <summary type="html"><![CDATA[Så att man slipper förlita sig på tredje parter.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bungie files virtual controller patents following Destiny mobile rumours]]></title>
-        <id>https://www.eurogamer.net/bungie-files-new-virtual-controller-patents-following-destiny-mobile-rumours</id>
-        <link href="https://www.eurogamer.net/bungie-files-new-virtual-controller-patents-following-destiny-mobile-rumours"/>
-        <updated>2022-09-23T09:58:16.000Z</updated>
-        <summary type="html"><![CDATA[Seven new patent filings from Destiny developer Bungie have been unearthed, predominantly all linked to virtual controls on touch-enabled devices, lending further credence to reports earlier this year that it had a Destiny mobile game in the works.
-
-
-Those reports first surfaced back in July, when The Game Post, citing a source with knowledge of Chinese mobile developer NetEase's plans, claimed the company was collaborating with Bungie to bring a completely new instalment in the Destiny series to mobile - a project said to have already been in development for several years.
-
-
-It's in this context that the seven newly unearthed Bungie patents (as spotted by The Game Post) prove particularly interesting. Almost all the patents, published last week, pertain to the implementation of a virtual controller on touch-enabled devices, with individual filings focusing on state-based action buttons, virtual dynamic ledge grabbing, virtual infinite drag and swipe input, virtual automatic aiming (particularly in relation to an 'isometric/top-down' perspective), and action charging via virtual buttons.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google has a cute top-down Zelda-like game that educates you on ancient Mesoamerica]]></title>
-        <id>https://www.eurogamer.net/google-has-a-cute-top-down-zelda-like-game-that-educates-you-on-ancient-mesoamerica</id>
-        <link href="https://www.eurogamer.net/google-has-a-cute-top-down-zelda-like-game-that-educates-you-on-ancient-mesoamerica"/>
-        <updated>2022-09-23T09:55:05.000Z</updated>
-        <summary type="html"><![CDATA[Google's Arts and Culture team has created a cute Zelda-like adventure for those looking to further their education on ancient Mesoamerica.
-
-
-Known as The Descent on the Serpent, this game was made in collaboration with Mexico's National Museum of Anthropology (thanks, The Verge). It starts off with the player visiting a museum. However, out of nowhere, the Lord of the Smoking Mirror, Tezcatlipoca, rushes in and steals an artefact on display. 
-
-
-This clearly can't be good news, and soon a talking statue, which is also on display at the museum, asks for your help returning the artefact  before the equinox happens. Of course, you are more than happy to offer your services on this quest as you do "love exploring". The talking statue then swiftly transports you back in time to ancient Mesoamerica where you need to find 20 icons to return to the city of Chichen Itza. 
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World of Warcraft Classic just got a rad new Lich King trailer]]></title>
-        <id>https://www.vg247.com/world-of-warcraft-classic-has-gotten-a-rad-new-lich-king-trailer</id>
-        <link href="https://www.vg247.com/world-of-warcraft-classic-has-gotten-a-rad-new-lich-king-trailer"/>
-        <updated>2022-09-23T09:53:42.000Z</updated>
-        <summary type="html"><![CDATA[World of Warcraft Classic is getting a massive update with the Wrath of the Lich King expansion on September 26. It’s a bit of a big deal, especially for the thousands of players who have been grinding out Alterac Valley or farming professions over the past few weeks. To celebrate the occasion, a new trailer has been released on the official World of Warcraft Youtube channel, and it’s absolutely perfect.
-You can watch it yourself below, but for some context this wasn’t created by the usual team of talented CGI artists who put out stunning cinematics for expansions (like the excellent Dragon Isle trailer). Instead, it comes from fan creator Hurricane, who has previously been responsible for a range of custom mind-blowing raid trailers.
-In the trailer, you can see all the major features of the Wrath of the Lich King launch, including the scourge invasion of Azeroth, players arriving to the various Northrend zones and battling various monsters you can find there, taking on dungeons and of course some Wintergrasp PvP. All of this is a machinima, made with a variety of in-game assets and custom VFX. For an idea of the sort of work that goes into trailers like this, you can check out a short breakdown video of a previous Black Temple trailer here!
- Read more]]></summary>
-        <author>
-            <name>Connor Makar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reminder: The Phoronix Premium Autumn Sale Is On]]></title>
-        <id>https://www.phoronix.com/news/Premium-2022-Autumn-Reminder</id>
-        <link href="https://www.phoronix.com/news/Premium-2022-Autumn-Reminder"/>
-        <updated>2022-09-23T09:47:40.000Z</updated>
-        <summary type="html"><![CDATA[Just a friendly reminder that if you wish to show your support for Phoronix this autumn season and help in allowing me to continue Linux hardware testing and the like, the annual Phoronix Premium sale is currently taking place...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux RSEQ Patches Updated For Allowing Faster getcpu() In C Libraries]]></title>
-        <id>https://www.phoronix.com/news/Linux-RSEQ-Faster-getcpu</id>
-        <link href="https://www.phoronix.com/news/Linux-RSEQ-Faster-getcpu"/>
-        <updated>2022-09-23T09:33:18.000Z</updated>
-        <summary type="html"><![CDATA[Restartable Sequences "RSEQ" has been one of the nice additions to the Linux kernel in recent years and can allow for faster user-space operations on per-CPU data by providing a shared data structure ABI between each user-space thread and the kernel. RSEQ has been in the process of being extended to provide even more performance benefits...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lenovo marks 30 years of ThinkSystem with slew of new kit]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/23/lenovo_thinksystem_units/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/23/lenovo_thinksystem_units/"/>
-        <updated>2022-09-23T09:33:09.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Servers sure to sport AMD's Epyc Genoa or Intel's Sapphire Rapids but certain specs still under wraps</h4> <p>Lenovo has a wave of over 50 products and services coming to coincide with the 30th anniversary of ThinkSystem servers, including AMD and Intel-based hardware, edge systems, storage arrays and a unified management platform.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Return to Monkey Island]]></title>
-        <id>https://www.fz.se/artikel/291556</id>
-        <link href="https://www.fz.se/artikel/291556-return-to-monkey-island"/>
-        <updated>2022-09-23T09:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Till slut - Ron Gilbert återvänder, med med nygamla apkonster.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grand Theft Auto leak may be the work of multiple people, suggests GTA Forum]]></title>
-        <id>https://www.eurogamer.net/grand-theft-auto-leak-may-be-the-work-of-multiple-people-suggests-gta-forum</id>
-        <link href="https://www.eurogamer.net/grand-theft-auto-leak-may-be-the-work-of-multiple-people-suggests-gta-forum"/>
-        <updated>2022-09-23T09:26:01.000Z</updated>
-        <summary type="html"><![CDATA[The GTA Forum, where this week's Grand Theft Auto leaks occurred, has suggested the leak may have been the work of more than one person.
-
-
-The initial leaker is known as Teapot and used the account @teapotuberhacker, but the forum believes another user, with the moniker Lily, also had access to this account.
-
-
-It’s unclear whether this second user has access to any hacked material, though the forum believes this is not the case.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
         </author>
     </entry>
 </feed>
