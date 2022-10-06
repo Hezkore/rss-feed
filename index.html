@@ -22,8 +22,8 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-10-06 datetime="2022-10-06T07:22:07.000Z">2022-10-06</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-10-06 datetime="2022-10-06T07:22:07.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-10-06 datetime="2022-10-06T08:30:05.000Z">2022-10-06</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-10-06 datetime="2022-10-06T08:30:05.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
@@ -38,6 +38,27 @@
                   <a class="source-heading__link" href="https://www.theregister.com/">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://go.theregister.com/feed/www.theregister.com/2022/10/06/new_dcms_head_newly_independent/"
+                        open
+                      >
+                        <summary class="article-expander__title">Brexit dividend? &#x27;Newly independent&#x27; UK will be world&#x27;s &#x27;data hub&#x27;, claims digital minister</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://go.theregister.com/feed/www.theregister.com/2022/10/06/new_dcms_head_newly_independent/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://regmedia.co.uk/2017/04/05/dataanalysis.jpg" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Amid inevitable talk of &#x27;red tape&#x27; cutting at ruling party conference, data protection experts are concerned
+ Britain&#x27;s digital minister says the General Data Protection Regulation (GDPR) is &quot;limiting the potential of our businesses,&quot; and is vowing to cut data protection &quot;red tape,&quot; for the &quot;newly independent nation free of EU bureaucracy.&quot;…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -195,78 +216,30 @@
                     class="source-heading__name"
                     data-action="toggle-accordions"
                     title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Planet Debian</button>
-                  <a class="source-heading__link" href="https://planet.debian.org/">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://jmtd.net/log/worktrees/"
-                        open
-                      >
-                        <summary class="article-expander__title">Jonathan Dowland: git worktrees</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://jmtd.net/log/worktrees/">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>I work on OpenJDK backports:
-taking a patch that was committed to a current version of JDK, and adapting it
-to an older one. There are four main OpenJDK versions that I am concerned with:
-the current version (&quot;jdk&quot;), 8, 11 and 17. These are all maintained in separate
-Git(Hub) repositories.
-It&#x27;s very useful to have access to the other JDKs when working on any
-particular version. For example, to backport a patch from the latest version to
-17, where the delta is not too big, a lot of the time you can cherry-pick the
-patch unmodified. To do git cherry-pick  in a git repository
-tracking JDK17, where  is in &quot;jdk&quot;, I need the &quot;jdk&quot; repository
-configured as a remote for my local jdk17 repository.
-Maintaining completely separate local git repositories for all four JDK vers…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;2
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="http://dirk.eddelbuettel.com/blog/2022/10/05#rvowpalwabbit_0.0.17"
-                        open
-                      >
-                        <summary class="article-expander__title">Dirk Eddelbuettel: RVowpalWabbit 0.0.17: Maintenance</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="http://dirk.eddelbuettel.com/blog/2022/10/05#rvowpalwabbit_0.0.17">
-                          <div class="article-summary-box-inner media-object">
-                            <span class="media-object__text">
-                              <span>Almost to the week one year since the last maintenance release, we can announce another maintenance release, now at version 0.0.17, of the RVowpalWabbit package. The CRAN maintainers kindly and politly pointed out that I was (cough, cough) apparently the last maintainer who had packages that set StagedInstall: no. Guilty as charged.
-RVowpalWabbit is one the two packages; the other one will hopefully follow ‘shortly’. And while I long suspected linking aspects to drive this (this is an old package, newer R packaging of the awesome VowpalWabbit is in rvw, I was plain wrong here. The cause was an absolute path to an included dataset, computed in an example, which then gets serialized. As Tomas Kalibera suggested, we can replace the constant with a function and all is well. So here is 0.0.17.
-As noted before, there is a newer package rvw based on the excellent GSoC 2018 and beyond work by Ivan Pavlov (mentored by James and myself) so if you are into VowpalWabbit from R go check it out.
-CRANberries provides a summary of changes to the previous version. More information is on the RVowpalWabbit page. Issues and bugreports should go to the GitHub issue tracker.
-If you like this or other open-source work I do, you can now sponsor me at GitHub.
-Dirk Eddelbuettel originated on his Thinking inside the box blog. Please report excessive re-aggregation in third-party for-profit settings.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;3
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
                   >FZ.se</button>
                   <a class="source-heading__link" href="https://www.fz.se">Open</a>
                 </h3>
                 <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.fz.se/artikel/291700"
+                        open
+                      >
+                        <summary class="article-expander__title">Playstation försäkrar att Playstation 4-spelare inte är bortglömda</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.fz.se/artikel/291700-playstation-forsakrar-att-playstation-4-spelare-inte-ar-bortglomda">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.fz.se/artikel/og-image/291700" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>De utvärderar spelsläppen från fall till fall.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
                     <article>
                       <details
                         class="article-expander"
@@ -321,6 +294,74 @@ Dirk Eddelbuettel originated on his Thinking inside the box blog. Please report 
                             <span class="media-object__text">
                               <span>Med en jättestor gris.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;7
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >Planet Debian</button>
+                  <a class="source-heading__link" href="https://planet.debian.org/">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://jmtd.net/log/worktrees/"
+                        open
+                      >
+                        <summary class="article-expander__title">Jonathan Dowland: git worktrees</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://jmtd.net/log/worktrees/">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>I work on OpenJDK backports:
+taking a patch that was committed to a current version of JDK, and adapting it
+to an older one. There are four main OpenJDK versions that I am concerned with:
+the current version (&quot;jdk&quot;), 8, 11 and 17. These are all maintained in separate
+Git(Hub) repositories.
+It&#x27;s very useful to have access to the other JDKs when working on any
+particular version. For example, to backport a patch from the latest version to
+17, where the delta is not too big, a lot of the time you can cherry-pick the
+patch unmodified. To do git cherry-pick  in a git repository
+tracking JDK17, where  is in &quot;jdk&quot;, I need the &quot;jdk&quot; repository
+configured as a remote for my local jdk17 repository.
+Maintaining completely separate local git repositories for all four JDK vers…</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;2
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="http://dirk.eddelbuettel.com/blog/2022/10/05#rvowpalwabbit_0.0.17"
+                        open
+                      >
+                        <summary class="article-expander__title">Dirk Eddelbuettel: RVowpalWabbit 0.0.17: Maintenance</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="http://dirk.eddelbuettel.com/blog/2022/10/05#rvowpalwabbit_0.0.17">
+                          <div class="article-summary-box-inner media-object">
+                            <span class="media-object__text">
+                              <span>Almost to the week one year since the last maintenance release, we can announce another maintenance release, now at version 0.0.17, of the RVowpalWabbit package. The CRAN maintainers kindly and politly pointed out that I was (cough, cough) apparently the last maintainer who had packages that set StagedInstall: no. Guilty as charged.
+RVowpalWabbit is one the two packages; the other one will hopefully follow ‘shortly’. And while I long suspected linking aspects to drive this (this is an old package, newer R packaging of the awesome VowpalWabbit is in rvw, I was plain wrong here. The cause was an absolute path to an included dataset, computed in an example, which then gets serialized. As Tomas Kalibera suggested, we can replace the constant with a function and all is well. So here is 0.0.17.
+As noted before, there is a newer package rvw based on the excellent GSoC 2018 and beyond work by Ivan Pavlov (mentored by James and myself) so if you are into VowpalWabbit from R go check it out.
+CRANberries provides a summary of changes to the previous version. More information is on the RVowpalWabbit page. Issues and bugreports should go to the GitHub issue tracker.
+If you like this or other open-source work I do, you can now sponsor me at GitHub.
+Dirk Eddelbuettel originated on his Thinking inside the box blog. Please report excessive re-aggregation in third-party for-profit settings.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;3
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -35259,27 +35300,6 @@ You find out more by visiting the project homepage.</span>
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://go.theregister.com/feed/www.theregister.com/2022/09/22/microsoft_android_spyware_endpoint/"
-                        open
-                      >
-                        <summary class="article-expander__title">Check out this Android spyware, says Microsoft, the home of a gazillion Windows flaws</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://go.theregister.com/feed/www.theregister.com/2022/09/22/microsoft_android_spyware_endpoint/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://regmedia.co.uk/2022/09/22/malware_warning_computer_screen_android_device_shutterstock.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>While issuing an emergency patch for Endpoint Configuration Manager
- Data-stealing spyware disguised as a banking rewards app is targeting Android users, Microsoft&#x27;s security team has warned.…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;5
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -35374,26 +35394,6 @@ You find out more by visiting the project homepage.</span>
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://arstechnica.com/?p&#x3D;1883836"
-                        open
-                      >
-                        <summary class="article-expander__title">Tesla issues recall for 1.1 million EVs due to power window problem</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://arstechnica.com/?p&#x3D;1883836">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://cdn.arstechnica.net/wp-content/uploads/2022/09/Model3_01-760x380.jpeg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>A closing window could pinch someone thanks to problems with the reversal action.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -35421,26 +35421,6 @@ You find out more by visiting the project homepage.</span>
                               <img src="http://cdn.mos.cms.futurecdn.net/FNsKYBKRC4gmJDhenGcThN.png" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>Intel&#x27;s new top-of-the-range platform will be available with the DDR4 option.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;72
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="wjyxfBmencTC5tGoAyxRqK"
-                        open
-                      >
-                        <summary class="article-expander__title">AV1 Update Reduces CPU Encoding Times By Up To 34 Percent</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.tomshardware.com/news/av1-update-reduces-cpu-encoding-times-by-up-to-34-percent">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="http://cdn.mos.cms.futurecdn.net/PzZh5dUmfakddY7yhpF4fW.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>A new AOM-AV1 update was just released by Google, improving AV1&#x27;s encoding performance by up to 34% with 16 encoding threads or more.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;72
                                   min&hairsp;)</span>
                             </span>
@@ -35484,53 +35464,12 @@ You find out more by visiting the project homepage.</span>
                 </section>
               </section>
             </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >Eurogamer.net Latest Articles Feed</button>
-                  <a class="source-heading__link" href="https://www.eurogamer.net/feed">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/eurogamer-newscast-nintendo-direct-playstation-yakuza-microsoft-disappointment-1"
-                        open
-                      >
-                        <summary class="article-expander__title">How damaging are video game leaks?</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/eurogamer-newscast-nintendo-direct-playstation-yakuza-microsoft-disappointment-1">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assets.reedpopcdn.com/eg21_podcast_cover_newscast_1920x1080px_aw.png/BROK/thumbnail/1600x900/format/jpg/quality/80/eg21_podcast_cover_newscast_1920x1080px_aw.png" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>This week on the Eurogamer Newscast we&#x27;re discussing video game leaks, following last weekend&#x27;s devastating hack of Rockstar Games which saw almost an hour of in-development Grand Theft Auto 6 footage spilled onto the internet and promptly dissected by the masses.
-
-
-The sheer fact Rockstar had been hacked in this manner was itself shocking - but the damage felt worse due to the negative comments this work-in-progress content then received. The hack has robbed Rockstar of its oppurtunity to show the game on its own terms - and for what benefit? We discuss.
-
-After that, we turn our attention to the YouTuber who accidentally outed themselves as being behind an &quot;insider&quot; Twitter account after posting under-wraps information they had been given by Ubisoft. Join Tom Phillips, Ed Nightingale, Victoria Kennedy and Ishraq Subhan for their thoughts.
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;15
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
         </ul>
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/hezweb/news/actions/runs/3195326492">
-        <time id="build-timestamp" datetime="2022-10-06T07:30:42.178Z">2022-10-06T07:30:42.178Z</time>
+      <a class="footer-link" href="https://github.com/hezweb/news/actions/runs/3195715328">
+        <time id="build-timestamp" datetime="2022-10-06T08:34:54.188Z">2022-10-06T08:34:54.188Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>
