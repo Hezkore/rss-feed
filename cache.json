@@ -737,6 +737,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/heres-the-first-trailer-for-nintendos-animated-mario-movie",
+          "author": "Matt Wales",
+          "description": "After years of behind-the-scenes chatter, Nintendo has shared the first trailer for its Chris-Pratt-starring animated Super Mario movie.\r\n\n\r\nAnnounced back in 2018, The Super Mario Bros. Movie is a collaboration between Nintendo and Universal Pictures' Illumination animation division. It sees Pratt heading an all-star cast that includes Jack Black as Bowser and Anya Taylor-Joy as Princess Peach.\r\n\n\r\nSince initial casting details broke last year, all has been largely quiet, but the veil of secrecy has finally been lifted today with the first official teaser trailer, which you can see below.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/heres-the-first-trailer-for-nintendos-animated-mario-movie",
+          "publishedOn": "2022-10-06T20:41:19.000Z",
+          "wordCount": 4527,
+          "title": "Here's the first trailer for Nintendo's animated Mario movie",
+          "imageUrl": "https://assets.reedpopcdn.com/mario-movie-still.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/mario-movie-still.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/steam-deck-can-now-be-purchased-without-a-reservation",
           "author": "Matt Wales",
           "description": "After a year of lengthy, but steadily diminishing, queues to purchase a Steam Deck, Valve has announced its impressive handheld gaming PC is now available without a reservation.\r\n\n\r\nSince last July, Valve has been using a reservation system for Steam Deck orders that first required purchasers to pay a small, deductible sum to join the reservations queue then wait for an invite to make a final purchase. For some time, the wait between the two steps was upward of several months, but the gap has been steadily narrowing as Steam Deck production began to outperform Valve's estimates.\r\n\n\r\nNow, some 15 months after reservations for Steam Deck initially opened, Valve has announced the queue has been eradicated. Anyone looking to acquire a Steam Deck can now do so immediately, without needing to wait for an invitation to purchase.\r\n \nRead more",
@@ -3115,16 +3125,6 @@
           "wordCount": 4673,
           "title": "Grand Theft Auto leak may be the work of multiple people, suggests GTA Forum",
           "imageUrl": "https://assets.reedpopcdn.com/digitalfoundry-2014-grand-theft-auto-5-trailer-ps4-tech-analysis-1402846596700.png/BROK/thumbnail/1600x900/format/jpg/quality/80/digitalfoundry-2014-grand-theft-auto-5-trailer-ps4-tech-analysis-1402846596700.png"
-        },
-        {
-          "id": "https://www.eurogamer.net/what-weve-been-playing-77",
-          "author": "Eurogamer staff",
-          "description": "Hello! Welcome back to our regular feature where we write a little bit about some of the games we've found ourselves playing over the last few days. This time: trombones, pirates, and outer space.\nIf you fancy catching up on some of the older editions of What We've Been Playing, \r\nhere's our archive.\nI haven't laughed so hard at a game in a long time. Trombone Champ is hilarious. It's everything the legendary melodica cover of the Jurassic Park theme tune is and more. And it's hard enough trying to play it without struggling to breathe while laughing. This is rhythm action comedy at its finest.\n Read more",
-          "link": "https://www.eurogamer.net/what-weve-been-playing-77",
-          "publishedOn": "2022-09-23T09:00:00.000Z",
-          "wordCount": 5997,
-          "title": "What we've been playing",
-          "imageUrl": "https://assets.reedpopcdn.com/warframe-veilbreaker-kahl.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/warframe-veilbreaker-kahl.jpg"
         }
       ]
     },
@@ -5689,26 +5689,6 @@
           "wordCount": 1511,
           "title": "Linux RSEQ Patches Updated For Allowing Faster getcpu() In C Libraries",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.1-Final-DRM-Misc-Next",
-          "author": null,
-          "description": "A final batch of drm-misc-next feature changes intended for the Linux 6.1 Linux kernel has been submitted to DRM-Next. This pull consists of some core DRM code improvements as well as updates to the smaller DRM/KMS drivers...",
-          "link": "https://www.phoronix.com/news/Linux-6.1-Final-DRM-Misc-Next",
-          "publishedOn": "2022-09-23T09:16:02.000Z",
-          "wordCount": 1414,
-          "title": "The Smaller DRM Drivers See Last Minute Updates Ahead Of Linux 6.1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Intel-ANV-Ray-Query-Fixes",
-          "author": null,
-          "description": "As part of getting their Vulkan ray-tracing support into good shape, a handful of patches were merged today for Mesa 22.3 in fixing up the ANV driver's ray query code...",
-          "link": "https://www.phoronix.com/news/Intel-ANV-Ray-Query-Fixes",
-          "publishedOn": "2022-09-23T09:01:20.000Z",
-          "wordCount": 1344,
-          "title": "Intel's Vulkan Linux Driver Lands A \"Bunch\" Of Ray Query Fixes",
-          "imageUrl": null
         }
       ]
     },
@@ -7056,16 +7036,6 @@
           "wordCount": 5067,
           "title": "MultiVersus' next fighter is unveiled today, and it sounds like it's Rick",
           "imageUrl": "https://assets2.rockpapershotgun.com/multiversus-rick-sanchez.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/multiversus-rick-sanchez.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/liveblog-texts-from-egx",
-          "author": "Alice O'Connor",
-          "description": "The RPS treehouse is quiet today, with most the gang gone to that London for EGX 2022. We're running a Steam Deck Zone filled with minicomps and have a showcase of games with weird controller experiences, and I imagine they'll also be playing games, chatting, attending talks, loitering, expanding their LinkedIn networks, and other such expo activities. Kindly, they're going to check in across the day, texting us all with updates on what they're seeing, doing, and (I imagine) eating. And Ollie might join in from home with cat photos.\nRead more",
-          "link": "https://www.rockpapershotgun.com/liveblog-texts-from-egx",
-          "publishedOn": "2022-09-23T09:00:00.000Z",
-          "wordCount": 6208,
-          "title": "Liveblog: Texts from EGX",
-          "imageUrl": "https://assets2.rockpapershotgun.com/egx-doors-2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/egx-doors-2.jpg"
         }
       ]
     },
@@ -7074,6 +7044,36 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "u4EozR22CeSMY4Uku5wEyE",
+          "author": "palcorn@outlook.com (Paul Alcorn)",
+          "description": "AMD pre-announced that it would miss its revenue targets for the third quarter by $1.1 billion due to PC market weakness and supply chain disruptions.",
+          "link": "https://www.tomshardware.com/news/amd-warns-of-dollar11-billion-q3-shortfall-cites-pc-market-and-supply-chain",
+          "publishedOn": "2022-10-06T20:58:04.000Z",
+          "wordCount": 21471,
+          "title": "AMD Downgrades Q3 Revenue by $1.1 Billion, Cites PC Market",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/HsPwvKdLHT29UDMsXCsgmR.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/HsPwvKdLHT29UDMsXCsgmR.jpg"
+        },
+        {
+          "id": "5qsgWPgG9Vc7TEBMbhHRjB",
+          "author": null,
+          "description": "Valve has caught up on its reservations, and is finally selling the long-awaited docking station add-on for the Steam Deck. It's available now for $89.",
+          "link": "https://www.tomshardware.com/news/valve-steam-deck-no-more-reservations-dock",
+          "publishedOn": "2022-10-06T20:24:31.000Z",
+          "wordCount": 21532,
+          "title": "Valve Nixes Steam Deck Reservations, Ships Deck Dock",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/hNhakSoNka2MdEUHL6kjPn.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/hNhakSoNka2MdEUHL6kjPn.png"
+        },
         {
           "id": "nY9jHJLSkhriU8s3KunD3h",
           "author": null,
@@ -10260,6 +10260,36 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1887779",
+          "author": "Sam Machkovech",
+          "description": "Illumination's changes to familiar Mushroom Kingdom characters are finally confirmed.",
+          "link": "https://arstechnica.com/?p=1887779",
+          "publishedOn": "2022-10-06T20:37:23.000Z",
+          "wordCount": 1809,
+          "title": "The Super Mario Bros. Movie trailer is out, and it looks pretty solid",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/mario-movie-listing-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1887777",
+          "author": "Beth Mole",
+          "description": "The criminalization of marijuana is a \"failed approach,\" Biden said.",
+          "link": "https://arstechnica.com/?p=1887777",
+          "publishedOn": "2022-10-06T20:20:59.000Z",
+          "wordCount": 1452,
+          "title": "Biden pardons all federal simple marijuana possession offenses",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/GettyImages-1242649489-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1887793",
+          "author": "Jon Brodkin",
+          "description": "Musk urges judge to stay case and remove October 17 trial from court's calendar.",
+          "link": "https://arstechnica.com/?p=1887793",
+          "publishedOn": "2022-10-06T20:18:59.000Z",
+          "wordCount": 1761,
+          "title": "Musk asks judge to cancel trial, claims Twitter won’t “take yes for an answer”",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/getty-musk-twitter-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1887605",
           "author": "Kevin Purdy",
@@ -13626,16 +13656,6 @@
           "wordCount": 3486,
           "title": "Return to Monkey Island",
           "imageUrl": "https://www.fz.se/artikel/og-image/291556"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291555",
-          "author": null,
-          "description": "Men det är lite oklart vad som anses vara \"störande\".",
-          "link": "https://www.fz.se/artikel/291555-storande-spelare-i-valorant-ska-nu-markas-efter-varje-match",
-          "publishedOn": "2022-09-23T08:55:00.000Z",
-          "wordCount": 1898,
-          "title": "Störande spelare i Valorant ska nu märkas efter varje match",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291555"
         }
       ]
     },
@@ -13644,6 +13664,16 @@
       "feedUrl": "https://www.sweclockers.com/feeds/nyheter",
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
+        {
+          "id": "https://www.sweclockers.com/artikel/35041",
+          "author": null,
+          "description": "Under onsdag eftermiddag upptäckte tekniker på Naturvårdsverket att myndigheten utsatts för ett intrång där information stulits och hamnat på avvägar.",
+          "link": "https://www.sweclockers.com/artikel/35041-naturvardsverket-drabbas-av-dataintrang",
+          "publishedOn": "2022-10-06T20:52:36.000Z",
+          "wordCount": 1610,
+          "title": "Naturvårdsverket drabbas av dataintrång",
+          "imageUrl": "https://www.sweclockers.com/artikel/35041/og-image"
+        },
         {
           "id": "https://www.sweclockers.com/artikel/35043",
           "author": null,
@@ -14243,16 +14273,6 @@
           "wordCount": 1597,
           "title": "Se vad som är mest populärt på Steam med ny topplista",
           "imageUrl": "https://www.sweclockers.com/artikel/34971/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34968",
-          "author": null,
-          "description": "Bolagets VD tar Geforce RTX 4000-seriens prissättning i försvar och menar att det numera är omöjligt att leverera dubbel prestanda till samma peng.",
-          "link": "https://www.sweclockers.com/artikel/34968-nvidia-moores-lag-ar-dod",
-          "publishedOn": "2022-09-23T08:38:19.000Z",
-          "wordCount": 1799,
-          "title": "Nvidia: \"Moores lag är död\"",
-          "imageUrl": "https://www.sweclockers.com/artikel/34968/og-image"
         }
       ]
     },
@@ -14495,6 +14515,16 @@
       "siteUrl": "https://shencomix.tumblr.com/",
       "articles": [
         {
+          "id": "https://shencomix.tumblr.com/post/697397528640061440",
+          "author": null,
+          "description": "",
+          "link": "https://shencomix.tumblr.com/post/697397528640061440",
+          "publishedOn": "2022-10-06T21:01:51.000Z",
+          "wordCount": 714,
+          "title": "Untitled",
+          "imageUrl": "https://64.media.tumblr.com/be027b47acfab34391a820abbd59cef3/e649166fb09c0193-7b/s1280x1920/f3807aae0726239d99efa68aa606f0821c9b1454.png"
+        },
+        {
           "id": "https://shencomix.tumblr.com/post/697296903490207744",
           "author": null,
           "description": "Here’s that link!",
@@ -14571,6 +14601,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/06/made_by_google_pixel_phones/",
+          "author": null,
+          "description": "<h4>This and wearables fortified with machine learning to serve you, human</h4> <p>On Thursday Google held an event in Brooklyn, New York to introduce revised Pixel phones, along with the Pixel Watch mentioned at the search giant's developer conference in May. There was also a glimpse of a Pixel tablet due next year.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/06/made_by_google_pixel_phones/",
+          "publishedOn": "2022-10-06T20:58:40.000Z",
+          "wordCount": 1658,
+          "title": "Google reveals Pixel 7 phones with 1.7 Stadias of security fixes promised",
+          "imageUrl": "https://regmedia.co.uk/2022/10/06/pixel_family.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/06/papa_johns_spying_lawsuit/",
           "author": null,
