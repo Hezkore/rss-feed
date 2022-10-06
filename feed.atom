@@ -2,10 +2,163 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-06T09:31:59.055Z</updated>
+    <updated>2022-10-06T10:31:00.879Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SteamOS 3.3.2 and a Stable Steam Deck Client Update are out now, here's what's new]]></title>
+        <id>https://www.gamingonlinux.com/2022/10/steamos-332-and-a-stable-steam-deck-client-update-are-out-now-heres-whats-new/</id>
+        <link href="https://www.gamingonlinux.com/2022/10/steamos-332-and-a-stable-steam-deck-client-update-are-out-now-heres-whats-new/"/>
+        <updated>2022-10-06T10:24:29.000Z</updated>
+        <summary type="html"><![CDATA[SteamOS 3.3.2 and a Steam Deck Client Update are out now, pulling together all the recent Beta / Preview updates and putting them out for everyone. Here's what's new.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blizzard apologises, still working on Overwatch 2 launch woes]]></title>
+        <id>https://www.eurogamer.net/blizzard-apologises-still-working-on-overwatch-2-launch-woes</id>
+        <link href="https://www.eurogamer.net/blizzard-apologises-still-working-on-overwatch-2-launch-woes"/>
+        <updated>2022-10-06T10:24:28.000Z</updated>
+        <summary type="html"><![CDATA[After a rocky launch, Blizzard has updated fans on its progress tackling some of the various issues which have plagued Overwatch 2 over the past 24 hours. 
+
+
+Many fans have been left unable to play for long periods, stuck in queues, left without access to previously-unlocked characters and items, or locked out of the game entirely by the requirement to log-in using their mobile phones.
+
+
+These issues have been exacerbated by a series of DDOS attacks aimed at the game's servers. And today, following a bruising 24 hours, Blizzard has apologised.
+ 
+Read more]]></summary>
+        <author>
+            <name>Tom Phillips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Cloud Platform Makes It Easy To Try Out AMD's Latest CPUs, Accelerators & ROCm Software]]></title>
+        <id>https://www.phoronix.com/review/amd-cloud-platform</id>
+        <link href="https://www.phoronix.com/review/amd-cloud-platform"/>
+        <updated>2022-10-06T10:24:03.000Z</updated>
+        <summary type="html"><![CDATA[Last week at Intel's Innovation conference the Intel Developer Cloud "DevCloud" was announced, while on the AMD side there is already something similar: the AMD Cloud Platform. At the tail end of 2021, AMD announced the Accelerator Cloud as a way for trying out the latest EPYC CPUs and Instinct accelerators complete with a pre-configured ROCm compute software stack. The AMD Cloud Platform is a currently parallel effort to the Accelerator Cloud with the former intended more for developers while the latter is more customer-oriented. After trying out the AMD Cloud Platform, it's indeed an easy way to evaluate the latest AMD data center wares while having a easy-to-deploy, pre-configured software environment.]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Overwatch 2’s frustrating phone registration requirement axed for most players]]></title>
+        <id>https://www.rockpapershotgun.com/overwatch-2s-frustrating-phone-registration-requirement-axed-for-most-players</id>
+        <link href="https://www.rockpapershotgun.com/overwatch-2s-frustrating-phone-registration-requirement-axed-for-most-players"/>
+        <updated>2022-10-06T10:11:08.000Z</updated>
+        <summary type="html"><![CDATA[Blizzard have said they’ve disabled the phone number account requirement for most Overwatch 2 players, following issues with registration for some. The company originally insisted on all players providing a phone number as part of the hero shooter’s new anti-cheat system, dubbed Defense Matrix. The planned change should go into effect from October 7th.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>CJ Wheeler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blizzard backtracks on Overwatch 2 SMS verification for legacy players]]></title>
+        <id>https://www.eurogamer.net/blizzard-backtracks-on-overwatch-2-sms-verification-for-legacy-players</id>
+        <link href="https://www.eurogamer.net/blizzard-backtracks-on-overwatch-2-sms-verification-for-legacy-players"/>
+        <updated>2022-10-06T10:06:48.000Z</updated>
+        <summary type="html"><![CDATA[Blizzard has pulled back from its requirement that players add their mobile phone number to their Battle.net account in order to play Overwatch 2. 
+
+
+It was previously mandatory for players to enroll in the "SMS Protect" system to access the game. Players who declined would be unable to login to the game's servers. 
+
+
+Blizzard argued that SMS Protect was necessary as the game transitioned to a live service free-to-play model, in order to combat "disruptive behaviour" and stop banned users simply creating a new account. 
+ 
+Read more]]></summary>
+        <author>
+            <name>Ishraq Subhan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[More Arm SoCs, Smartphones & NVIDIA Control Backbone Bus Enabled With Linux 6.1]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-Arm-Hardware</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-Arm-Hardware"/>
+        <updated>2022-10-06T10:00:14.000Z</updated>
+        <summary type="html"><![CDATA[The Arm SoC and platform enablement pull requests were sent out this morning that provide the Linux 6.1 kernel with support for several new SoCs, various platforms including some newer smartphones, and other hardware support improvements...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quiz – Vad kan du om höstliga spel?]]></title>
+        <id>https://www.fz.se/artikel/291653</id>
+        <link href="https://www.fz.se/artikel/291653-quiz-vad-kan-du-om-hostliga-spel"/>
+        <updated>2022-10-06T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sommaren är bevisligen kort. Vad kan du om spelvärldens höstligaste titlar?]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Gaming Laptop Deals 2022]]></title>
+        <id>c6gE24pFiqgwWrjotLuua3</id>
+        <link href="https://www.tomshardware.com/news/best-gaming-laptop-deals"/>
+        <updated>2022-10-06T09:56:39.000Z</updated>
+        <summary type="html"><![CDATA[Here are the gaming laptop deals we've seen.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sims 4 October bug laundry list includes werewolf bottom fury and even more incest]]></title>
+        <id>https://www.rockpapershotgun.com/sims-4-october-bug-laundry-list-includes-werewolf-bottom-fury-and-even-more-incest</id>
+        <link href="https://www.rockpapershotgun.com/sims-4-october-bug-laundry-list-includes-werewolf-bottom-fury-and-even-more-incest"/>
+        <updated>2022-10-06T09:53:08.000Z</updated>
+        <summary type="html"><![CDATA[The Sims 4 always gets a few fun bugs to investigate in and around new content coming out (which is all the time), and The Sims 4 Werewolves is no exception. The laundry list of issues that the team are investigating this month has a raft of fun werewolf-centric bugs like humans being able to sniff each other, and a wolf getting mad that he's the bottom (of the pack) even though he's the alpha. The High School Years update from July is also facilitating accidental sibling incest, still, after one method of sibling highschool be-sandwiching was fixed in August. It appears to be an entrenched problem. Those kids must really like House Of The Dragon.
+Read more]]></summary>
+        <author>
+            <name>Alice Bell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Engineer Experimenting With ZRAM Handling For Multiple Compression Streams]]></title>
+        <id>https://www.phoronix.com/news/ZRAM-Multiple-Compression</id>
+        <link href="https://www.phoronix.com/news/ZRAM-Multiple-Compression"/>
+        <updated>2022-10-06T09:36:47.000Z</updated>
+        <summary type="html"><![CDATA[There are patches that provide support for ZRAM to be able to handle multiple compression streams on a per-CPU basis. This kernel module for creating compressed block devices could be made more versatile with this proposed patch series...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BT will back down in face of non-stop protests, says union]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/06/bt_strikes_uk_government_tax/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/06/bt_strikes_uk_government_tax/"/>
+        <updated>2022-10-06T09:36:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>CWU: Just like UK government did a reverse-ferret on tax, so will national telecom titan on staff pay</h4> <p>BT strikers protesting over pay should take note that the British government was forced to climbdown on its proposed tax cut for the richest in society, and the national telecom operator will inevitably bow to continued protests too.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blizzard will remove its controversial SMS Protect system from Overwatch 2, but only for OW1 players]]></title>
+        <id>https://www.vg247.com/blizzard-will-remove-controversial-sms-protect-system</id>
+        <link href="https://www.vg247.com/blizzard-will-remove-controversial-sms-protect-system"/>
+        <updated>2022-10-06T09:32:47.000Z</updated>
+        <summary type="html"><![CDATA[In a bid to keep player accounts protected and curb in-game toxicity, Blizzard added an SMS Protect system to Overwatch 2 for players. This system required all players, across all platforms, to have a phone number associated with their Battle.net accounts.
+Except, this isn’t just about protecting players; the SMS Protect system also aids Blizzard with controlling exactly who can access Overwatch 2. Blizzard has since announced it will be removing the SMS protect system for Overwatch 2 players that previously played Overwatch 1 since June, 9, 2021. If you’re not exactly sure what the deal with SMS Protect is, we’ve explained it here.
+In a previous blog post detailing its Defense Matrix initiative, which is aimed at disincentivising disruptive behaviour and gameplay, Blizzard said, “SMS Protect brings meaningful change when it comes to disruptive play. This additional layer of security is an industry-proven solution in combating both cheating and disruptive behaviour, further protecting your Overwatch 2 experience from bad actors.”
+ Read more]]></summary>
+        <author>
+            <name>Kelsey Raynor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best SSD and Hard Drive Deals 2022]]></title>
+        <id>H8j8FJesm47HqhyoP9jdR9</id>
+        <link href="https://www.tomshardware.com/features/best-deals-on-ssds"/>
+        <updated>2022-10-06T09:26:51.000Z</updated>
+        <summary type="html"><![CDATA[These are the best SSD and HDD deals — guaranteed to expand the storage on your PC without emptying your wallet.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intel Releases oneVPL 2022.2 With GPU Copy Improvements, Linux System Analyzer]]></title>
         <id>https://www.phoronix.com/news/Intel-oneVPL-2022.2</id>
@@ -17709,46 +17862,6 @@ You find out more by visiting the project homepage.]]></summary>
         <summary type="html"><![CDATA[<h4>Musk fumes at NHTSA 'recall' of a million-plus cars</h4> <p>Tesla owners ought to check for firmware updates, or risk their windows proving to be less than (h)armless.…</p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USB-A adapter adds instant Wi-Fi 6E support to Windows 11 PCs]]></title>
-        <id>https://arstechnica.com/?p=1883728</id>
-        <link href="https://arstechnica.com/?p=1883728"/>
-        <updated>2022-09-22T22:14:35.000Z</updated>
-        <summary type="html"><![CDATA[$90 adapter makes Wi-Fi 6E adoption slightly easier.]]></summary>
-        <author>
-            <name>Scharon Harding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Federal agencies buying Americans' internet data challenged by US senators]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/22/federal_agencies_american_data/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/22/federal_agencies_american_data/"/>
-        <updated>2022-09-22T21:53:40.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Maybe we don't want to go with the netflow, man</h4> <p>US government agencies have been buying, to some degree, details of Americans' internet activities from data brokers – and US Senator Ron Wyden (D-OR) wants an explanation.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[After pushing AV1 codec, Google goes after Dolby with HDR and audio standards]]></title>
-        <id>https://arstechnica.com/?p=1883817</id>
-        <link href="https://arstechnica.com/?p=1883817"/>
-        <updated>2022-09-22T21:40:03.000Z</updated>
-        <summary type="html"><![CDATA[AV1's Alliance for Open Media wants more royalty-free standards.]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Artist receives first known US copyright registration for generative AI art]]></title>
-        <id>https://arstechnica.com/?p=1883867</id>
-        <link href="https://arstechnica.com/?p=1883867"/>
-        <updated>2022-09-22T21:38:04.000Z</updated>
-        <summary type="html"><![CDATA[Registration of AI-assisted comic comes amid fierce online debate about AI art ethics.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
         </author>
     </entry>
 </feed>
