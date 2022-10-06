@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-06T08:34:54.273Z</updated>
+    <updated>2022-10-06T09:31:59.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Releases oneVPL 2022.2 With GPU Copy Improvements, Linux System Analyzer]]></title>
+        <id>https://www.phoronix.com/news/Intel-oneVPL-2022.2</id>
+        <link href="https://www.phoronix.com/news/Intel-oneVPL-2022.2"/>
+        <updated>2022-10-06T09:16:50.000Z</updated>
+        <summary type="html"><![CDATA[In addition to the excitement of the Arc Graphics A750 and A770, Intel has unveiled oneVPL 2022.2 as the newest version of this open-source video processing library that is their flagship video decode/encode library and related video processing toolkit as part of oneAPI...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.1 Brings New Sound Drivers For AMD & Apple]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-Sound</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-Sound"/>
+        <updated>2022-10-06T09:03:20.000Z</updated>
+        <summary type="html"><![CDATA[Linux sound subsystem maintainer Takashi Iwai on Wednesday submitted all of the sound driver updates for Linux 6.1...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Witcher-projektet Sirius riktar sig mot en bredare publik]]></title>
+        <id>https://www.fz.se/artikel/291699</id>
+        <link href="https://www.fz.se/artikel/291699-the-witcher-projektet-sirius-riktar-sig-mot-en-bredare-publik"/>
+        <updated>2022-10-06T08:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Mindre "hardcore" och mer för "personer som sett tv-serien".]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matthew Garrett: Cloud desktops aren't as good as you'd think]]></title>
+        <id>https://mjg59.dreamwidth.org/61535.html</id>
+        <link href="https://mjg59.dreamwidth.org/61535.html"/>
+        <updated>2022-10-06T08:31:32.000Z</updated>
+        <summary type="html"><![CDATA[Fast laptops are expensive, cheap laptops are slow. But even a fast laptop is slower than a decent workstation, and if your developers want a local build environment they're probably going to want a decent workstation. They'll want a fast (and expensive) laptop as well, though, because they're not going to carry their workstation home with them and obviously you expect them to be able to work from home. And in two or three years they'll probably want a new laptop and a new workstation, and that's even more money. Not to mention the risks associated with them doing development work on their laptop and then drunkenly leaving it in a bar or having it stolen or the contents being copied off it while they're passing through immigration at an airport. Surely there's a better way?
+This is the thi…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brexit dividend? 'Newly independent' UK will be world's 'data hub', claims digital minister]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/06/new_dcms_head_newly_independent/</id>
@@ -24,6 +65,15 @@
         <summary type="html"><![CDATA[De utvärderar spelsläppen från fall till fall.]]></summary>
         <author>
             <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grand Re-Re-Opening!]]></title>
+        <id>https://loadingartist.com/2022/10/06/grand-re-re-opening/</id>
+        <link href="https://loadingartist.com/2022/10/06/grand-re-re-opening/"/>
+        <updated>2022-10-06T07:41:06.000Z</updated>
+        <author>
+            <name>Gregor</name>
         </author>
     </entry>
     <entry>
@@ -1121,6 +1171,16 @@ Whether you're new to tabletop strategy or already like bashing miniatures toget
 Read more]]></summary>
         <author>
             <name>Ed Thorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NZXT Lift – trevlig gamingmus med låg vikt]]></title>
+        <id>https://www.fz.se/artikel/291632</id>
+        <link href="https://www.fz.se/artikel/291632-nzxt-lift-trevlig-gamingmus-med-lag-vikt"/>
+        <updated>2022-10-05T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Fredrik tar sig an NZXT Lift, en schysst lättviktsmus med några smärre brister.]]></summary>
+        <author>
+            <name>FZ.se</name>
         </author>
     </entry>
     <entry>
@@ -17689,46 +17749,6 @@ You find out more by visiting the project homepage.]]></summary>
         <summary type="html"><![CDATA[Registration of AI-assisted comic comes amid fierce online debate about AI art ethics.]]></summary>
         <author>
             <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asus Readies Intel Z790 Motherboards with DDR4 Support]]></title>
-        <id>JgFyS2fu7yguv9Jej3V33F</id>
-        <link href="https://www.tomshardware.com/news/asus-readies-intel-z790-motherboards-with-ddr4-support"/>
-        <updated>2022-09-22T21:24:20.000Z</updated>
-        <summary type="html"><![CDATA[Intel's new top-of-the-range platform will be available with the DDR4 option.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mesa 22.3 Merges The Big Draw Throughput Improvement For Intel's Vulkan Driver]]></title>
-        <id>https://www.phoronix.com/news/Mesa-22.3-Lands-Intel-Draw-OH</id>
-        <link href="https://www.phoronix.com/news/Mesa-22.3-Lands-Intel-Draw-OH"/>
-        <updated>2022-09-22T21:00:11.000Z</updated>
-        <summary type="html"><![CDATA[From two weeks back you may recall the small patches that led to increasing Intel's Vulkan driver draw throughput by ~60%+. Well, as of yesterday the refined version of that work has landed within Mesa 22.3...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hackathon finds dozens of Ukrainian refugees trafficked online]]></title>
-        <id>https://arstechnica.com/?p=1883832</id>
-        <link href="https://arstechnica.com/?p=1883832"/>
-        <updated>2022-09-22T20:47:05.000Z</updated>
-        <summary type="html"><![CDATA[Europol also identified dozens of online users suspected of exploiting refugees.]]></summary>
-        <author>
-            <name>Ashley Belanger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hunga Tonga eruption put over 50B kilograms of water into the stratosphere]]></title>
-        <id>https://arstechnica.com/?p=1883835</id>
-        <link href="https://arstechnica.com/?p=1883835"/>
-        <updated>2022-09-22T20:37:34.000Z</updated>
-        <summary type="html"><![CDATA[New study shows eruption plume circled the globe multiple times in the stratosphere.]]></summary>
-        <author>
-            <name>John Timmer</name>
         </author>
     </entry>
 </feed>

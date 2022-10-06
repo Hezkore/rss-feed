@@ -4006,6 +4006,26 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Intel-oneVPL-2022.2",
+          "author": null,
+          "description": "In addition to the excitement of the Arc Graphics A750 and A770, Intel has unveiled oneVPL 2022.2 as the newest version of this open-source video processing library that is their flagship video decode/encode library and related video processing toolkit as part of oneAPI...",
+          "link": "https://www.phoronix.com/news/Intel-oneVPL-2022.2",
+          "publishedOn": "2022-10-06T09:16:50.000Z",
+          "wordCount": 1419,
+          "title": "Intel Releases oneVPL 2022.2 With GPU Copy Improvements, Linux System Analyzer",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.1-Sound",
+          "author": null,
+          "description": "Linux sound subsystem maintainer Takashi Iwai on Wednesday submitted all of the sound driver updates for Linux 6.1...",
+          "link": "https://www.phoronix.com/news/Linux-6.1-Sound",
+          "publishedOn": "2022-10-06T09:03:20.000Z",
+          "wordCount": 1333,
+          "title": "Linux 6.1 Brings New Sound Drivers For AMD & Apple",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-6.1-DRM-Next-Pull",
           "author": null,
           "description": "The Direct Rendering Manager (DRM) / Kernel Mode-Setting (KMS) driver updates have been submitted for the Linux 6.1 merge window. As usual, much of the interesting display/graphics driver work is happening within the open-source Intel and AMD Radeon drivers...",
@@ -5213,16 +5233,6 @@
           "publishedOn": "2022-09-23T09:01:20.000Z",
           "wordCount": 1344,
           "title": "Intel's Vulkan Linux Driver Lands A \"Bunch\" Of Ray Query Fixes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Mesa-22.3-Lands-Intel-Draw-OH",
-          "author": null,
-          "description": "From two weeks back you may recall the small patches that led to increasing Intel's Vulkan driver draw throughput by ~60%+. Well, as of yesterday the refined version of that work has landed within Mesa 22.3...",
-          "link": "https://www.phoronix.com/news/Mesa-22.3-Lands-Intel-Draw-OH",
-          "publishedOn": "2022-09-22T21:00:11.000Z",
-          "wordCount": 1385,
-          "title": "Mesa 22.3 Merges The Big Draw Throughput Improvement For Intel's Vulkan Driver",
           "imageUrl": null
         }
       ]
@@ -9058,21 +9068,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/7mqLFpQnhs4cJ3KE3BeyeQ.jpg"
-        },
-        {
-          "id": "JgFyS2fu7yguv9Jej3V33F",
-          "author": null,
-          "description": "Intel's new top-of-the-range platform will be available with the DDR4 option.",
-          "link": "https://www.tomshardware.com/news/asus-readies-intel-z790-motherboards-with-ddr4-support",
-          "publishedOn": "2022-09-22T21:24:20.000Z",
-          "wordCount": 21590,
-          "title": "Asus Readies Intel Z790 Motherboards with DDR4 Support",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/FNsKYBKRC4gmJDhenGcThN.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/FNsKYBKRC4gmJDhenGcThN.png"
         }
       ]
     },
@@ -9081,6 +9076,16 @@
       "feedUrl": "https://planet.debian.org/rss20.xml",
       "siteUrl": "https://planet.debian.org/",
       "articles": [
+        {
+          "id": "https://mjg59.dreamwidth.org/61535.html",
+          "author": null,
+          "description": "Fast laptops are expensive, cheap laptops are slow. But even a fast laptop is slower than a decent workstation, and if your developers want a local build environment they're probably going to want a decent workstation. They'll want a fast (and expensive) laptop as well, though, because they're not going to carry their workstation home with them and obviously you expect them to be able to work from home. And in two or three years they'll probably want a new laptop and a new workstation, and that's even more money. Not to mention the risks associated with them doing development work on their laptop and then drunkenly leaving it in a bar or having it stolen or the contents being copied off it while they're passing through immigration at an airport. Surely there's a better way?\nThis is the thi…",
+          "link": "https://mjg59.dreamwidth.org/61535.html",
+          "publishedOn": "2022-10-06T08:31:32.000Z",
+          "wordCount": null,
+          "title": "Matthew Garrett: Cloud desktops aren't as good as you'd think",
+          "imageUrl": null
+        },
         {
           "id": "https://jmtd.net/log/worktrees/",
           "author": null,
@@ -11014,26 +11019,6 @@
           "wordCount": 1526,
           "title": "Artist receives first known US copyright registration for generative AI art",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/zarya_hero-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1883832",
-          "author": "Ashley Belanger",
-          "description": "Europol also identified dozens of online users suspected of exploiting refugees.",
-          "link": "https://arstechnica.com/?p=1883832",
-          "publishedOn": "2022-09-22T20:47:05.000Z",
-          "wordCount": 1784,
-          "title": "Hackathon finds dozens of Ukrainian refugees trafficked online",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1240100930-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1883835",
-          "author": "John Timmer",
-          "description": "New study shows eruption plume circled the globe multiple times in the stratosphere.",
-          "link": "https://arstechnica.com/?p=1883835",
-          "publishedOn": "2022-09-22T20:37:34.000Z",
-          "wordCount": 1854,
-          "title": "Hunga Tonga eruption put over 50B kilograms of water into the stratosphere",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/Screen-Shot-2022-09-22-at-3.32.42-PM-760x380.png"
         }
       ]
     },
@@ -11042,6 +11027,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291699",
+          "author": null,
+          "description": "Mindre \"hardcore\" och mer för \"personer som sett tv-serien\".",
+          "link": "https://www.fz.se/artikel/291699-the-witcher-projektet-sirius-riktar-sig-mot-en-bredare-publik",
+          "publishedOn": "2022-10-06T08:55:00.000Z",
+          "wordCount": 2017,
+          "title": "The Witcher-projektet Sirius riktar sig mot en bredare publik",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291699"
+        },
         {
           "id": "https://www.fz.se/artikel/291700",
           "author": null,
@@ -11141,6 +11136,16 @@
           "wordCount": 1808,
           "title": "Utvecklingen av Cyberpunk 2077-uppföljaren flyttas till USA",
           "imageUrl": "https://www.fz.se/artikel/og-image/291691"
+        },
+        {
+          "id": "https://www.fz.se/artikel/291632",
+          "author": null,
+          "description": "Fredrik tar sig an NZXT Lift, en schysst lättviktsmus med några smärre brister.",
+          "link": "https://www.fz.se/artikel/291632-nzxt-lift-trevlig-gamingmus-med-lag-vikt",
+          "publishedOn": "2022-10-05T13:00:00.000Z",
+          "wordCount": 3852,
+          "title": "NZXT Lift – trevlig gamingmus med låg vikt",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291632"
         },
         {
           "id": "https://www.fz.se/artikel/291632",
@@ -13186,6 +13191,16 @@
       "feedUrl": "https://loadingartist.com/index.xml",
       "siteUrl": "https://loadingartist.com/",
       "articles": [
+        {
+          "id": "https://loadingartist.com/2022/10/06/grand-re-re-opening/",
+          "author": "Gregor",
+          "description": "",
+          "link": "https://loadingartist.com/2022/10/06/grand-re-re-opening/",
+          "publishedOn": "2022-10-06T07:41:06.000Z",
+          "wordCount": 162,
+          "title": "Grand Re-Re-Opening!",
+          "imageUrl": "/img/bg/logo-char.png"
+        },
         {
           "id": "https://loadingartist.com/2022/10/01/loadtoberj-2022/",
           "author": "Gregor",
