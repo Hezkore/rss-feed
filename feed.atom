@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-06T17:37:59.365Z</updated>
+    <updated>2022-10-06T18:36:13.644Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Canonical makes Ubuntu Pro free for up to five machines]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/06/ubuntu_pro_free/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/06/ubuntu_pro_free/"/>
+        <updated>2022-10-06T18:32:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Kernel live-patching and a full decade of software updates</h4> <p>Canonical has opened up its previously paid-for Ubuntu Pro update service. Now it's free of charge for up to five physical boxes.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GOTY-versionen av Far Cry 6 kommer med (okända) expansionen Lost Between Worlds]]></title>
+        <id>https://www.fz.se/artikel/291709</id>
+        <link href="https://www.fz.se/artikel/291709-goty-versionen-av-far-cry-6-kommer-med-okanda-expansionen-lost-between-worlds"/>
+        <updated>2022-10-06T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Ett mysterium är vad den är.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No more Steam Deck reservation queue — buy it now, plus Docking Station available]]></title>
+        <id>https://www.gamingonlinux.com/2022/10/no-more-steam-deck-reservation-queue-m-buy-it-now-plus-docking-station-available/</id>
+        <link href="https://www.gamingonlinux.com/2022/10/no-more-steam-deck-reservation-queue-m-buy-it-now-plus-docking-station-available/"/>
+        <updated>2022-10-06T18:21:41.000Z</updated>
+        <summary type="html"><![CDATA[The day is finally here. Valve has removed the reservation queue for the Steam Deck, so you can buy it right now. Additionally, the Steam Deck Docking Station is also now available.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samsung Details GDDR7 and 1,000-Layer V-NAND Plans]]></title>
+        <id>o2dnDQHjrPxoa5TQzpi8Dh</id>
+        <link href="https://www.tomshardware.com/news/samsung-details-gddr7-1000-later-vnand-plans"/>
+        <updated>2022-10-06T18:03:06.000Z</updated>
+        <summary type="html"><![CDATA[Samsung has announced plans for an aggressive technological innovation schedule that includes GDDR7 and 1,000-layer V-NAND tech. This investment comes despite reported slowdowns in the NAND and memory sectors.]]></summary>
+        <author>
+            <name>francisco.pires@outlook.com (Francisco Pires)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Battlefield 2042's adds close-combat spin on Conquest in its next event]]></title>
+        <id>https://www.rockpapershotgun.com/battlefield-2042s-adds-close-combat-spin-on-conquest-in-its-next-event</id>
+        <link href="https://www.rockpapershotgun.com/battlefield-2042s-adds-close-combat-spin-on-conquest-in-its-next-event"/>
+        <updated>2022-10-06T17:57:30.000Z</updated>
+        <summary type="html"><![CDATA[Battlefield 2042 is getting a new in-game event from October 11th until the 25th. Called The Liquidators Event, it adds a new mode focused on fast-paced, close-quarters combat featuring only infantry and no vehicles. You'll find a trailer and more details below.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux kernel 5.19.2 code could cause permanent damage to some laptop displays]]></title>
+        <id>https://arstechnica.com/?p=1887605</id>
+        <link href="https://arstechnica.com/?p=1887605"/>
+        <updated>2022-10-06T17:36:19.000Z</updated>
+        <summary type="html"><![CDATA[Power sequence bugs cause damaging flickers on built-in displays. Update now.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prison Architect's Undead DLC will add zombies in time for Halloween]]></title>
         <id>https://www.rockpapershotgun.com/prison-architects-undead-dlc-will-add-zombies-in-time-for-halloween</id>
@@ -55,6 +118,16 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adafruit’s Cheekmate gets to the bottom (ahem) of chess cheating controversy]]></title>
+        <id>https://arstechnica.com/?p=1887540</id>
+        <link href="https://arstechnica.com/?p=1887540"/>
+        <updated>2022-10-06T17:09:06.000Z</updated>
+        <summary type="html"><![CDATA[Adafruit tested its wireless haptic communication system with a juicy slab of pork butt.]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
         </author>
     </entry>
     <entry>
@@ -122,6 +195,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[$250 Lego foosball table includes a whopping 22 minifigs, actually works]]></title>
+        <id>https://arstechnica.com/?p=1887635</id>
+        <link href="https://arstechnica.com/?p=1887635"/>
+        <updated>2022-10-06T16:41:43.000Z</updated>
+        <summary type="html"><![CDATA[Table Football set includes a handy, if macabre, compartment for extra heads.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Intel Claims Major Milestone in Quantum Chip Production]]></title>
         <id>nTBDS7LsneRkKEKbg7fsVi</id>
         <link href="https://www.tomshardware.com/news/intel-claims-quantum-chip-production-milestone"/>
@@ -140,6 +223,16 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Katharine Castle</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blizzard scales back Overwatch 2’s controversial phone number requirement]]></title>
+        <id>https://arstechnica.com/?p=1887613</id>
+        <link href="https://arstechnica.com/?p=1887613"/>
+        <updated>2022-10-06T16:28:52.000Z</updated>
+        <summary type="html"><![CDATA[Those who have linked a Battle.net account can now avoid the "SMS Protect" system.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
         </author>
     </entry>
     <entry>
@@ -166,6 +259,16 @@ It's all part of Pokemon Go's Season of Light which kicked off on September 1.
  Read more]]></summary>
         <author>
             <name>Stephany Nunneley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google shows off the Pixel Tablet dock—it doubles as a smart display]]></title>
+        <id>https://arstechnica.com/?p=1887539</id>
+        <link href="https://arstechnica.com/?p=1887539"/>
+        <updated>2022-10-06T16:13:42.000Z</updated>
+        <summary type="html"><![CDATA[The hardware looks just like a smart display, but the software is different.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
         </author>
     </entry>
     <entry>
@@ -255,6 +358,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[This car company set new track records to prove its 3D printing tech]]></title>
+        <id>https://arstechnica.com/?p=1887530</id>
+        <link href="https://arstechnica.com/?p=1887530"/>
+        <updated>2022-10-06T15:58:40.000Z</updated>
+        <summary type="html"><![CDATA[Kevin and Lukas Czinger have a new way of making cars, and it's starting to catch on.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Need For Speed Unbound officially unveiled, skids onto PC in December]]></title>
         <id>https://www.rockpapershotgun.com/need-for-speed-unbound-officially-unveiled-skids-onto-pc-in-december</id>
         <link href="https://www.rockpapershotgun.com/need-for-speed-unbound-officially-unveiled-skids-onto-pc-in-december"/>
@@ -275,6 +388,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[It needs to hurry up and be 2023 so I can play the full game of Cassette Beasts, an upcoming monster catching / creature collection game from Bytten Studio and RawFury.]]></summary>
         <author>
             <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter seeks assurances that Musk won’t break merger agreement again]]></title>
+        <id>https://arstechnica.com/?p=1887584</id>
+        <link href="https://arstechnica.com/?p=1887584"/>
+        <updated>2022-10-06T15:38:47.000Z</updated>
+        <summary type="html"><![CDATA[Debt financing a key sticking point in talks to end litigation and finish merger.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
         </author>
     </entry>
     <entry>
@@ -362,6 +485,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<h4>Google-owned company claims another scalp with applications in computer science</h4> <p>Google-owned DeepMind has applied reinforced learning techniques to the multiplication of mathematical matrices, beating some human-made algorithms that have lasted 50 years and working toward improvements in computer science.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ex-Uber security chief convicted of hiding hack from federal regulators]]></title>
+        <id>https://arstechnica.com/?p=1887551</id>
+        <link href="https://arstechnica.com/?p=1887551"/>
+        <updated>2022-10-06T15:11:37.000Z</updated>
+        <summary type="html"><![CDATA[Former security chief may be first exec found guilty of hiding a data breach.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
         </author>
     </entry>
     <entry>
@@ -486,6 +619,26 @@ As noted by VGC, this edition features the game, the new Lost Between Worlds exp
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Pixel Watch is official: $349, good looks, and a four-year-old SoC]]></title>
+        <id>https://arstechnica.com/?p=1886799</id>
+        <link href="https://arstechnica.com/?p=1886799"/>
+        <updated>2022-10-06T14:45:16.000Z</updated>
+        <summary type="html"><![CDATA[Google prices itself way above Apple and Samsung, with slower hardware.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google’s Pixel 7 is official, with wider 17-country rollout]]></title>
+        <id>https://arstechnica.com/?p=1886601</id>
+        <link href="https://arstechnica.com/?p=1886601"/>
+        <updated>2022-10-06T14:45:09.000Z</updated>
+        <summary type="html"><![CDATA[They get aluminum camera bars and a "gen 2" Tensor chip that hasn't changed much.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OG Overwatch 2 players are finding their characters locked away in frustrating character select bug]]></title>
         <id>https://www.vg247.com/og-overwatch-2-players-are-finding-their-characters-locked-away-in-frustrating-character-select-bug</id>
         <link href="https://www.vg247.com/og-overwatch-2-players-are-finding-their-characters-locked-away-in-frustrating-character-select-bug"/>
@@ -513,6 +666,26 @@ With questions still to answer about what we'd known was coming, how likely is i
 Read more]]></summary>
         <author>
             <name>Tom Phillips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IoT harmony? What Matter and Thread really mean for your smart home]]></title>
+        <id>https://arstechnica.com/?p=1887208</id>
+        <link href="https://arstechnica.com/?p=1887208"/>
+        <updated>2022-10-06T14:37:41.000Z</updated>
+        <summary type="html"><![CDATA[An explainer on how Matter and Thread work and how they might actually help.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Block this: Using satellites to plaster ads over our skies could work, say boffins]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/06/space_satellite_advertising/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/06/space_satellite_advertising/"/>
+        <updated>2022-10-06T14:30:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>They can't hurt us if we stay indoors</h4> <p>"Space: the final frontier" – not just for humanity but also marketeers, it would seem, as Russian scientists have undertaken a feasibility study on satellite-displayed advertising. They conclude that not only is it possible, but it could also turn a profit.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
         </author>
     </entry>
     <entry>
@@ -633,6 +806,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The robot takeout revolution is closer than you think]]></title>
+        <id>https://arstechnica.com/?p=1887260</id>
+        <link href="https://arstechnica.com/?p=1887260"/>
+        <updated>2022-10-06T14:00:17.000Z</updated>
+        <summary type="html"><![CDATA[I learned a lot ordering a donut and a muffin from delivery robots.]]></summary>
+        <author>
+            <name>Timothy B. Lee</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pokémon Scarlet and Violet trailer shows off auto-battling Let's Go feature]]></title>
         <id>https://www.eurogamer.net/pokemon-scarlet-and-violet-trailer-shows-off-auto-battling-lets-go-feature</id>
         <link href="https://www.eurogamer.net/pokemon-scarlet-and-violet-trailer-shows-off-auto-battling-lets-go-feature"/>
@@ -742,6 +925,16 @@ The video discusses how as a student you will participate in an independent stud
         <summary type="html"><![CDATA[Stämmer ryktena?]]></summary>
         <author>
             <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Big Tech shreds millions of storage devices it could reuse]]></title>
+        <id>https://arstechnica.com/?p=1887511</id>
+        <link href="https://arstechnica.com/?p=1887511"/>
+        <updated>2022-10-06T13:23:20.000Z</updated>
+        <summary type="html"><![CDATA[There are better options than destroying used hard drives in the name of data security.]]></summary>
+        <author>
+            <name>Financial Times</name>
         </author>
     </entry>
     <entry>
@@ -18874,16 +19067,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Slajma som om det vore 2019.]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Privacy watchdog steps up fight against Europol's hoarding of personal data]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/23/europol_data_privacy_legal_edps/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/23/europol_data_privacy_legal_edps/"/>
-        <updated>2022-09-23T06:27:12.000Z</updated>
-        <summary type="html"><![CDATA[<h4>If you could stop storing records on people unconnected to any crimes, that would be great</h4> <p>An EU watchdog says rules that allow Europol cops to retain personal data on individuals with no links to criminal activity go against Europe's own data privacy protections, not to mention undermining the regulator's powers and role.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
