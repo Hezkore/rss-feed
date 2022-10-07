@@ -2,10 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-07T08:34:30.266Z</updated>
+    <updated>2022-10-07T09:29:50.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[What we've been playing]]></title>
+        <id>https://www.eurogamer.net/what-weve-been-playing-79</id>
+        <link href="https://www.eurogamer.net/what-weve-been-playing-79"/>
+        <updated>2022-10-07T09:18:13.000Z</updated>
+        <summary type="html"><![CDATA[Hello! Welcome back to our regular feature where we write a little bit about some of the games we've found ourselves playing over the last few days. This time: rock climbing, the country life, and a handy umbrella.
+If you fancy catching up on some of the older editions of What We've Been Playing, 
+here's our archive.
+One of the things I am always up for in a video game is mountain climbing. Mountain climbing, rock climbing, bouldering. These are the things I wish I did in real life. It's the video game as wish fulfilment.
+ Read more]]></summary>
+        <author>
+            <name>Eurogamer staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Battlefield 2042 infantry-only event coming next week]]></title>
+        <id>https://www.vg247.com/battlefield-2042-liquidators-infantry-only-event-details</id>
+        <link href="https://www.vg247.com/battlefield-2042-liquidators-infantry-only-event-details"/>
+        <updated>2022-10-07T09:06:34.000Z</updated>
+        <summary type="html"><![CDATA[As suggested by leaks, the next Battlefield 2042 in-game event is just over the horizon. The Liquidators is a limited-time event that introduces a new, infantry-only mode to the game.
+The Liquidators is a two-week event, kicking off October 11, and ending October 25. During it, players will be able to jump into Tactical Conquest - the new Conquest variant emphasising squad play and tight infantry combat.
+There are two versions of Tactical Conquest, and each will be available for a full week. During the first week, the mode will be limited to 8v8, which expands to 16v16 the following week. It's best to think of Tactical Conquest as something like Call of Duty's Domination, except tickets are counting down instead of the score going up.
+ Read more]]></summary>
+        <author>
+            <name>Sherif Saed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hunt the Night är vacker retro-action med skräcktema]]></title>
+        <id>https://www.fz.se/artikel/291714</id>
+        <link href="https://www.fz.se/artikel/291714-hunt-the-night-ar-vacker-retro-action-med-skracktema"/>
+        <updated>2022-10-07T09:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Och en demo finns tillgänglig.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI co-programmers perhaps won't spawn as many bugs as feared]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/07/machine_learning_code_assistance/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/07/machine_learning_code_assistance/"/>
+        <updated>2022-10-07T08:38:47.000Z</updated>
+        <summary type="html"><![CDATA[<h4>They can't be any worse than some human developers</h4> <p>Machine-learning models that power next-gen code-completion tools like GitHub Copilot can help software developers write more functional code, without making it less secure.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[There in Spirit]]></title>
         <id>https://loadingartist.com/comic/there-in-spirit/</id>
@@ -18376,46 +18423,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<h4>Nothing screams Land of the Free like the government ordering you to host awful but lawful content</h4> <p>The State of Florida has asked the US Supreme Court to affirm that its social media law SB 7072, which bars online platforms from removing speech they don't want, meets constitutional free speech guarantees.…</p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SiFive RISC-V cores picked for Google AI compute nodes]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/23/google_using_sifive_riscv_cores/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/23/google_using_sifive_riscv_cores/"/>
-        <updated>2022-09-23T21:25:13.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Cor, that's a shot in the arm for this upstart CPU ISA</h4> <p>RISC-V chip biz SiFive says its processors are being used to manage AI workloads to some degree in Google datacenters.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wine 7.18 Released With Unicode 15.0 Support, 20 Bug Fixes]]></title>
-        <id>https://www.phoronix.com/news/Wine-7.18-Released</id>
-        <link href="https://www.phoronix.com/news/Wine-7.18-Released"/>
-        <updated>2022-09-23T21:12:21.000Z</updated>
-        <summary type="html"><![CDATA[Wine 7.18 has been popped this Friday afternoon as the newest bi-weekly development release for this open-source program to enjoy Windows games and applications on Linux, macOS, and other platforms...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA seems to be in full “send it” mode for the Artemis I mission]]></title>
-        <id>https://arstechnica.com/?p=1884140</id>
-        <link href="https://arstechnica.com/?p=1884140"/>
-        <updated>2022-09-23T21:06:42.000Z</updated>
-        <summary type="html"><![CDATA[Space agency officials seem OK with leaving the rocket out in a tropical storm.]]></summary>
-        <author>
-            <name>Eric Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon hires unsafe trucking firms twice as often as peers, WSJ finds]]></title>
-        <id>https://arstechnica.com/?p=1884201</id>
-        <link href="https://arstechnica.com/?p=1884201"/>
-        <updated>2022-09-23T20:50:59.000Z</updated>
-        <summary type="html"><![CDATA[Since 2015, crashes involving Amazon vehicles have killed more than 75 people.]]></summary>
-        <author>
-            <name>Ashley Belanger</name>
         </author>
     </entry>
 </feed>
