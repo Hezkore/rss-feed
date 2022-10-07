@@ -12,6 +12,16 @@
       "siteUrl": "https://itsfoss.com",
       "articles": [
         {
+          "id": "https://itsfoss.com/?p=102484",
+          "author": "sreenath",
+          "description": "VMWare gives an easy option to try and use Linux inside Windows. This article covers a step-by-step guide on installing Ubuntu inside VMWare in Windows.",
+          "link": "https://itsfoss.com/install-ubuntu-in-vmware/",
+          "publishedOn": "2022-10-07T11:54:24.000Z",
+          "wordCount": 8631,
+          "title": "How to Install Ubuntu Linux in VMWare",
+          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/10/install-ubuntu-in-vmware.png"
+        },
+        {
           "id": "https://itsfoss.com/?p=101878",
           "author": "Anuj Sharma",
           "description": "Btrfs is the talk of the Linux town. And if you curious about this filesystem, read about its features and pros and cons over other filesystems like ext4.",
@@ -756,6 +766,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/lets-discuss-the-super-mario-movie-trailer",
+          "author": "Eurogamer staff",
+          "description": "It's finally here. Well over four years after we found out that Nintendo was partnering with Illumination for a Super Mario Bros. movie, last night gave us our first glimpse of the partnership and it was... interesting.\nFrom Illumination's rendition of the Mushroom Kingdom through to Jack Black's Bowser, Keegan Michael-Key's Toad, Charlie Day's Luigi and - of course - Chris Pratt's not-so-novel take on Mario, there's a lot to unpack. So here's what Team Eurogamer made of the big Super Mario Bros. movie reveal.\n\r\nSo, after a lot of hype from a certain Mr. Chris Pratt, who assured us this trailer would blow our minds, we finally got the new teaser for Illumination's upcoming Super Mario Bros. Movie and, I have to say, I kind of loved it.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/lets-discuss-the-super-mario-movie-trailer",
+          "publishedOn": "2022-10-07T11:39:14.000Z",
+          "wordCount": 6551,
+          "title": "Let's discuss the Super Mario Movie trailer",
+          "imageUrl": "https://assets.reedpopcdn.com/mario-movie-direct_5iMUB4m.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/mario-movie-direct_5iMUB4m.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/yes-that-was-elle-fanning-in-kojimas-mysterious-new-game-teaser",
           "author": "Victoria Kennedy",
@@ -4331,6 +4351,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Rusticl-Zink-Vulkan-Works",
+          "author": null,
+          "description": "Red Hat's Karol Herbst has managed to get his Rust-based OpenCL implementation \"Rusticl\" running atop the Zink Gallium3D driver that in turn runs atop Vulkan drivers...",
+          "link": "https://www.phoronix.com/news/Rusticl-Zink-Vulkan-Works",
+          "publishedOn": "2022-10-07T11:42:57.000Z",
+          "wordCount": 1352,
+          "title": "Rusticl Can Run Atop Zink Gallium3D Atop Intel's ANV Vulkan Driver",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/review/amd-ryzen5-7600x",
           "author": null,
           "description": "At the end of September when the review embargo lifted I looked at the AMD Ryzen 9 7900X and 7950X for our launch-day Linux testing and that was then followed by the Ryzen 7 7700X Linux review. Since then I received the fourth and final Ryzen 7000 series desktop processor currently available: the AMD Ryzen 5 7600X. The Ryzen 5 7600X is currently AMD's most affordable Zen 4 processor at $299 USD and provides six cores / 12 threads and a boost clock up to 5.3GHz.",
@@ -4338,6 +4368,16 @@
           "publishedOn": "2022-10-07T10:18:24.000Z",
           "wordCount": 1526,
           "title": "AMD Ryzen 5 7600X Linux Performance",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/CentOS-Hyperscale-SIG-2022Q3",
+          "author": null,
+          "description": "For the past nearly two years the CentOS Hyperscale effort has been working on adapting CentOS Stream to make it more applicable for use within large scale deployments like those at Twitter, Facebook/Meta, and other large companies. This week the special interest group published their latest quarterly report outlining their activities...",
+          "link": "https://www.phoronix.com/news/CentOS-Hyperscale-SIG-2022Q3",
+          "publishedOn": "2022-10-07T10:15:39.000Z",
+          "wordCount": 1440,
+          "title": "CentOS Hyperscale SIG Continues Adapting CentOS Stream For Large Scale Deployments",
           "imageUrl": null
         },
         {
@@ -6874,6 +6914,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "zKriug43inLFnMSeJdUCrC",
+          "author": "brandon.hill@futurenet.com (Brandon Hill)",
+          "description": "We explain the difference between USB 2, 3.2, 4 and names like SuperSpeed and HighSpeed USB.",
+          "link": "https://www.tomshardware.com/features/usb-decoded-all-the-specs-and-version-numbers",
+          "publishedOn": "2022-10-07T12:00:23.000Z",
+          "wordCount": 23478,
+          "title": "USB Decoded: All the Specs and Version Numbers",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/X3VsYk4bDqeaBGCnQVRd7A.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/X3VsYk4bDqeaBGCnQVRd7A.jpg"
+        },
         {
           "id": "23JGyPbuhiDzXuep4Z4HBR",
           "author": null,
@@ -9934,6 +9989,16 @@
       "siteUrl": "https://xkcd.com/",
       "articles": [
         {
+          "id": "https://xkcd.com/2682/",
+          "author": null,
+          "description": "<img src=\"https://imgs.xkcd.com/comics/easy_or_hard.png\" title=\"&quot;Friction-driven static electrification is familiar and fundamental in daily life, industry, and technology, but its basics have long been unknown and have continually perplexed scientists from ancient Greece to the high-tech era. [...] To date, no single theory can satisfactorily explain this mysterious but fundamental phenomenon.&quot; --Eui-Cheol Shin et. al. (2022)\" alt=\"&quot;Friction-driven static electrification is familiar and fundamental in daily life, industry, and technology, but its basics have long been unknown and have continually perplexed scientists from ancient Greece to the high-tech era. [...] To date, no single theory can satisfactorily explain this mysterious but fundamental phenomenon.&quot; --Eui-Cheol Shin et. al. (2022)\" />",
+          "link": "https://xkcd.com/2682/",
+          "publishedOn": "2022-10-07T00:00:00.000Z",
+          "wordCount": 234,
+          "title": "Easy or Hard",
+          "imageUrl": "https://imgs.xkcd.com/comics/easy_or_hard_2x.png"
+        },
+        {
           "id": "https://xkcd.com/2681/",
           "author": null,
           "description": "<img src=\"https://imgs.xkcd.com/comics/archimedes_principle.png\" title=\"&quot;I've always wanted to run naked through town, but I don't want to get in trouble with the king or be remembered by history as a weirdo. I wonder how I could ... EUREKA!&quot;\" alt=\"&quot;I've always wanted to run naked through town, but I don't want to get in trouble with the king or be remembered by history as a weirdo. I wonder how I could ... EUREKA!&quot;\" />",
@@ -9990,6 +10055,16 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1885995",
+          "author": "Steve Haske",
+          "description": "VR hasn't taken over the world, but that doesn't mean it has failed.",
+          "link": "https://arstechnica.com/?p=1885995",
+          "publishedOn": "2022-10-07T11:30:39.000Z",
+          "wordCount": 1637,
+          "title": "What happened to the virtual reality gaming revolution?",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/the-state-of-vr-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1887499",
           "author": "Eric Berger",
@@ -14172,6 +14247,26 @@
       "siteUrl": "https://www.theregister.com/",
       "articles": [
         {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/07/viasat_and_inmarsat_73bn_tieup/",
+          "author": null,
+          "description": "<h4>The multibillion dollar question: Will it make in-flight Wi-Fi on planes more expensive?</h4> <p>Global satellite maker Viasat's proposed $7.3 billion purchase of rival Inmarsat is being held up because Britain's competition regulator is worried about the deal's impact on in-flight passenger Wi-Fi on planes.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/07/viasat_and_inmarsat_73bn_tieup/",
+          "publishedOn": "2022-10-07T12:34:36.000Z",
+          "wordCount": 1639,
+          "title": "Viasat and Inmarsat $7.3b tie-up delayed over competition concerns",
+          "imageUrl": "https://regmedia.co.uk/2021/11/10/shutterstock_satellite_broadband.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/07/retirees_cost_of_living/",
+          "author": null,
+          "description": "<h4>The Great Unresignation as inflation forces hordes of retirees back into work</h4> <p>A sustained upswing in the cost of living is forcing hundreds of thousands of retirees across Britain to reconsider a return to the workplace.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/07/retirees_cost_of_living/",
+          "publishedOn": "2022-10-07T11:32:05.000Z",
+          "wordCount": 1423,
+          "title": "People are coming out of retirement due to cost-of-living crisis",
+          "imageUrl": "https://regmedia.co.uk/2022/10/07/shutterstock_crowd.jpg"
+        },
+        {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/07/postgresql_no_ssl/",
           "author": null,
           "description": "<h4>They probably shouldn't be connected in the first place, says database expert</h4> <p>Only a third of PostgreSQL databases connected to the internet use SSL for encrypted messaging, according to a cloud database provider.…</p>",
@@ -16680,16 +16775,6 @@
           "wordCount": 1231,
           "title": "A match made in heaven: systemd comes to Windows Subsystem for Linux",
           "imageUrl": "https://regmedia.co.uk/2015/05/07/lennart_poettering.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/23/browsers_mozilla_microsoft_google/",
-          "author": null,
-          "description": "<h4>If you've got no OS of your own, you've got little chance to compete, Firefox maker sighs</h4> <p>Firefox maker Mozilla is taking aim at Microsoft, Google, and Apple for using their operating systems to steer users to their browsers and stacking the deck against rivals who lack the same OS advantages. Like, for instance, Mozilla.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/23/browsers_mozilla_microsoft_google/",
-          "publishedOn": "2022-09-23T23:33:34.000Z",
-          "wordCount": 2410,
-          "title": "Mozilla drags Microsoft, Google, Apple for obliterating any form of browser choice",
-          "imageUrl": "https://regmedia.co.uk/2015/11/03/firefox.jpg"
         }
       ]
     }
