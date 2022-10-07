@@ -767,6 +767,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/arkane-finally-confirms-yes-deathloop-is-set-in-the-dishonored-universe",
+          "author": "Matt Wales",
+          "description": "Ever since the release of Deathloop last year, fans have speculated that the acclaimed time loop shooter was, in fact, set in the same universe as Arkane Studios' much-loved Dishonored series - and now theorists can given finally themselves a pat on the back and pack away their cork boards: the developer has confirmed it is indeed so.\r\n\n\r\nCreative director Dinga Bakaba broke the news during the latest episode of the Xbox podcast (thanks PC Gamer), confirming that Deathloop is \"one of the futures of the Dishonored world.\"\r\n\n\r\nWhen asked directly about the possible connection between the two games, Bakaba explained, \"We have a number of systems [that mean] not everyone has seen the same thing [in Deathloop], not everyone has heard the same song hidden somewhere, not everyone has seen every room. So it was nice to see the community pick up the little clues that we did sprinkle everywhere that, yes, indeed, we envisioned Deathloop to be happening in the future after [the third Dishonored game] Death of the Outsider.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/arkane-finally-confirms-yes-deathloop-is-set-in-the-dishonored-universe",
+          "publishedOn": "2022-10-07T21:26:06.000Z",
+          "wordCount": 4915,
+          "title": "Arkane finally confirms, yes, Deathloop is set in the Dishonored universe",
+          "imageUrl": "https://assets.reedpopcdn.com/deathloop-review-1631529480656.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/deathloop-review-1631529480656.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/crash-bandicoots-long-rumoured-wumpa-league-seemingly-being-teased-for-game-awards-reveal",
           "author": "Matt Wales",
           "description": "It looks like the end of 2022 is going to have more than a whiff of Crash Bandicoot about it. Not only has Activision confirmed an 18th October Steam release date for the well-recieved Crash Bandicoot 4: It's About Time, it seems the publisher might just be gearing up to unveil the long-rumoured Crash Bandicoot Wumpa League at this year's Game Awards.\r\n\n\r\nAll this news comes via a bit of promotional tat Activision has been sending out to influencers and press, taking the form of Crash-themed pizza box with goodies inside.\r\n\n\r\nAs detailed in a video by YouTuber Canadian Guy Eh (thanks Games Radar), the promotional pizza box in question comes emblazoned with the words 'Aku Aku's Steam-in Pizza Shack', a not too subtle hint that the formerly Battle.net-exclusive PC version of Crash Bandicoot 4 will (as fans had already surmised) soon be making its way to Valve's storefront. And to clear up any doubt, that's made explicit by an attached label confirming an 18th October Steam release.\r\n \nRead more",
@@ -5839,26 +5849,6 @@
           "wordCount": 1413,
           "title": "Rust-Written Apple DRM Linux Kernel Driver Renders First Cube",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/AMDGPU-Gang-Submit-6.1",
-          "author": null,
-          "description": "On Friday AMD submitted a feature pull request to DRM-Next of some last minute changes they would like to see as part of the upcoming Linux 6.1 kernel...",
-          "link": "https://www.phoronix.com/news/AMDGPU-Gang-Submit-6.1",
-          "publishedOn": "2022-09-24T09:50:00.000Z",
-          "wordCount": 1418,
-          "title": "AMDGPU Gang Submit Sent In For Linux 6.1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Plasma-5.26-More-Bug-Fixes",
-          "author": null,
-          "description": "Following last week's release of KDE Plasma 5.26 beta, KDE developers have turned their focus to bug-fixing ahead of next month's stable release...",
-          "link": "https://www.phoronix.com/news/Plasma-5.26-More-Bug-Fixes",
-          "publishedOn": "2022-09-24T09:39:20.000Z",
-          "wordCount": 1449,
-          "title": "A Lot Of Bug Fixing - Including For Wayland - Heading Into KDE Plasma 5.26",
-          "imageUrl": null
         }
       ]
     },
@@ -10142,6 +10132,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "https://reproducible-builds.org/reports/2022-09/",
+          "author": null,
+          "description": "Welcome to the September 2022 report from the Reproducible Builds project! In our reports we try to outline the most important things that we have been up to over the past month. As a quick recap, whilst anyone may inspect the source code of free software for malicious flaws, almost all software is distributed to end users as pre-compiled binaries. If you are interested in contributing to the project, please visit our Contribute page on our website.\n\nDavid A. Wheeler reported to us that the US National Security Agency (NSA), Cybersecurity and Infrastructure Security Agency (CISA) and the Office of the Director of National Intelligence (ODNI) have released a document called Securing the Software Supply Chain: Recommended Practices Guide for Developers (PDF).\nAs David remarked in his post to…",
+          "link": "https://reproducible-builds.org/reports/2022-09/",
+          "publishedOn": "2022-10-07T21:25:12.000Z",
+          "wordCount": 1978,
+          "title": "Reproducible Builds: Reproducible Builds in September 2022",
+          "imageUrl": null
+        },
+        {
           "id": "https://edwardbetts.com/blog/fish-shell-underscore-number-separator",
           "author": null,
           "description": "In November 2021 I filed a feature request for the fish shell to add underscore as a thousand separator in\nnumbers. My feature request has been implemented and is available\nin fish 3.5.0, released 16 June 2022.\nThe fish shell supports mathematical operations using the math command.\nedward@x1c9 ~> math 2_000 + 22\n2022\nedward@x1c9 ~> \n\n\n\nThe underscore can be used as a thousand separator, but there are other uses for a number separator. Here's a list taken\nfrom a post by Mathias Bynens about the number separator in JavaScript:\n// A decimal integer literal with its digits grouped per thousand:\n1_000_000_000_000\n// A decimal literal with its digits grouped per thousand:\n1_000_000.220_720\n// A binary integer literal with its bits grouped per octet:\n0b01010110_00111000\n// A binary integer literal with its bits grouped per nibble:\n0b0101_0110_0011_1000\n// A hexadecimal integer literal with its digits grouped by byte:\n0x40_76_38_6A_73\n// A BigInt literal with its digits grouped per thousand:\n4_642_473_943_484_686_707n \n\n\n\nProgramming languages are gradually adding a number separator to their syntax, I think Perl was the first. Most are\nlanguages use underscore, but C++ 14 uses an apostrophe for the number separator.",
@@ -10535,6 +10535,26 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1888136",
+          "author": "John Timmer",
+          "description": "Ground, space-based telescopes, and a nearby cubesat have all captured the impact.",
+          "link": "https://arstechnica.com/?p=1888136",
+          "publishedOn": "2022-10-07T21:56:24.000Z",
+          "wordCount": 1763,
+          "title": "Post-impact images of DART mission have not disappointed",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/Screen-Shot-2022-10-07-at-3.13.05-PM-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1884131",
+          "author": "Benj Edwards",
+          "description": "Cult-favorite Weatherscan TV service launched in 1999; hobbyists aim to keep it alive.",
+          "link": "https://arstechnica.com/?p=1884131",
+          "publishedOn": "2022-10-07T20:16:27.000Z",
+          "wordCount": 1893,
+          "title": "After 23 years, Weather Channel’s iconic computerized channel is shutting down",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/weatherscan_1-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1888112",
           "author": "Kyle Orland",
@@ -14598,16 +14618,6 @@
           "wordCount": 1505,
           "title": "Söndagsmatiné: Automatisera Windows",
           "imageUrl": "https://www.sweclockers.com/artikel/34975/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34920",
-          "author": null,
-          "description": "Chiplet-upplägg står på menyn med Core 14000-serien, där en så kallad NPU-del ska avlasta processor och grafikdel på energieffektivt sätt.",
-          "link": "https://www.sweclockers.com/artikel/34920-intel-core-14000-meteor-lake-far-dedikerad-ai-hardvara",
-          "publishedOn": "2022-09-24T10:11:19.000Z",
-          "wordCount": 1794,
-          "title": "Intel Core 14000 \"Meteor Lake\" får dedikerad AI-hårdvara",
-          "imageUrl": "https://www.sweclockers.com/artikel/34920/og-image"
         }
       ]
     },

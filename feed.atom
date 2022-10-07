@@ -2,10 +2,61 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-07T21:24:45.229Z</updated>
+    <updated>2022-10-07T22:28:14.627Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Post-impact images of DART mission have not disappointed]]></title>
+        <id>https://arstechnica.com/?p=1888136</id>
+        <link href="https://arstechnica.com/?p=1888136"/>
+        <updated>2022-10-07T21:56:24.000Z</updated>
+        <summary type="html"><![CDATA[Ground, space-based telescopes, and a nearby cubesat have all captured the impact.]]></summary>
+        <author>
+            <name>John Timmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arkane finally confirms, yes, Deathloop is set in the Dishonored universe]]></title>
+        <id>https://www.eurogamer.net/arkane-finally-confirms-yes-deathloop-is-set-in-the-dishonored-universe</id>
+        <link href="https://www.eurogamer.net/arkane-finally-confirms-yes-deathloop-is-set-in-the-dishonored-universe"/>
+        <updated>2022-10-07T21:26:06.000Z</updated>
+        <summary type="html"><![CDATA[Ever since the release of Deathloop last year, fans have speculated that the acclaimed time loop shooter was, in fact, set in the same universe as Arkane Studios' much-loved Dishonored series - and now theorists can given finally themselves a pat on the back and pack away their cork boards: the developer has confirmed it is indeed so.
+
+
+Creative director Dinga Bakaba broke the news during the latest episode of the Xbox podcast (thanks PC Gamer), confirming that Deathloop is "one of the futures of the Dishonored world."
+
+
+When asked directly about the possible connection between the two games, Bakaba explained, "We have a number of systems [that mean] not everyone has seen the same thing [in Deathloop], not everyone has heard the same song hidden somewhere, not everyone has seen every room. So it was nice to see the community pick up the little clues that we did sprinkle everywhere that, yes, indeed, we envisioned Deathloop to be happening in the future after [the third Dishonored game] Death of the Outsider."
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Reproducible Builds: Reproducible Builds in September 2022]]></title>
+        <id>https://reproducible-builds.org/reports/2022-09/</id>
+        <link href="https://reproducible-builds.org/reports/2022-09/"/>
+        <updated>2022-10-07T21:25:12.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the September 2022 report from the Reproducible Builds project! In our reports we try to outline the most important things that we have been up to over the past month. As a quick recap, whilst anyone may inspect the source code of free software for malicious flaws, almost all software is distributed to end users as pre-compiled binaries. If you are interested in contributing to the project, please visit our Contribute page on our website.
+
+David A. Wheeler reported to us that the US National Security Agency (NSA), Cybersecurity and Infrastructure Security Agency (CISA) and the Office of the Director of National Intelligence (ODNI) have released a document called Securing the Software Supply Chain: Recommended Practices Guide for Developers (PDF).
+As David remarked in his post to…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After 23 years, Weather Channel’s iconic computerized channel is shutting down]]></title>
+        <id>https://arstechnica.com/?p=1884131</id>
+        <link href="https://arstechnica.com/?p=1884131"/>
+        <updated>2022-10-07T20:16:27.000Z</updated>
+        <summary type="html"><![CDATA[Cult-favorite Weatherscan TV service launched in 1999; hobbyists aim to keep it alive.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crash Bandicoot's long-rumoured Wumpa League seemingly being teased for Game Awards reveal]]></title>
         <id>https://www.eurogamer.net/crash-bandicoots-long-rumoured-wumpa-league-seemingly-being-teased-for-game-awards-reveal</id>
@@ -19666,36 +19717,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Slemmigt men mättande sa Pumba.]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Core 14000 "Meteor Lake" får dedikerad AI-hårdvara]]></title>
-        <id>https://www.sweclockers.com/artikel/34920</id>
-        <link href="https://www.sweclockers.com/artikel/34920-intel-core-14000-meteor-lake-far-dedikerad-ai-hardvara"/>
-        <updated>2022-09-24T10:11:19.000Z</updated>
-        <summary type="html"><![CDATA[Chiplet-upplägg står på menyn med Core 14000-serien, där en så kallad NPU-del ska avlasta processor och grafikdel på energieffektivt sätt.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMDGPU Gang Submit Sent In For Linux 6.1]]></title>
-        <id>https://www.phoronix.com/news/AMDGPU-Gang-Submit-6.1</id>
-        <link href="https://www.phoronix.com/news/AMDGPU-Gang-Submit-6.1"/>
-        <updated>2022-09-24T09:50:00.000Z</updated>
-        <summary type="html"><![CDATA[On Friday AMD submitted a feature pull request to DRM-Next of some last minute changes they would like to see as part of the upcoming Linux 6.1 kernel...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Lot Of Bug Fixing - Including For Wayland - Heading Into KDE Plasma 5.26]]></title>
-        <id>https://www.phoronix.com/news/Plasma-5.26-More-Bug-Fixes</id>
-        <link href="https://www.phoronix.com/news/Plasma-5.26-More-Bug-Fixes"/>
-        <updated>2022-09-24T09:39:20.000Z</updated>
-        <summary type="html"><![CDATA[Following last week's release of KDE Plasma 5.26 beta, KDE developers have turned their focus to bug-fixing ahead of next month's stable release...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
 </feed>
