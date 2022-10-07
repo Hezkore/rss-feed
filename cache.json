@@ -9765,16 +9765,6 @@
           "wordCount": null,
           "title": "Ian Jackson: Please vote in favour of the Debian Social Contract change",
           "imageUrl": null
-        },
-        {
-          "id": "https://blog.steve.fi/lisp_macros_are_magical.html",
-          "author": null,
-          "description": "In my previous post I introduced yet another Lisp interpreter.  When it was posted there was no support for macros.\nSince I've recently returned from a visit to the UK, and caught COVID-19 while I was there, I figured I'd see if my brain was fried by adding macro support.\nI know lisp macros are awesome, it's one of those things that everybody is told.  Repeatedly.    I've used macros in my emacs programming off and on for a good few years, but despite that I'd not really given them too much thought.\nIf you know anything about lisp you know that it's all about the lists, the parenthesis, and the macros.  Here's a simple macro I wrote:\n (define if2 (macro (pred one two)\n    `(if ~pred (begin ~one ~two))))\n\nThe standard lisp if function allows you to write:\n (if (= 1 a) (print \"a == 1\") (prin…",
-          "link": "https://blog.steve.fi/lisp_macros_are_magical.html",
-          "publishedOn": "2022-09-23T19:00:00.000Z",
-          "wordCount": 824,
-          "title": "Steve Kemp: Lisp macros are magical",
-          "imageUrl": null
         }
       ]
     },
@@ -11578,6 +11568,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291712",
+          "author": null,
+          "description": "Först ut är The Tribe Must Survive.",
+          "link": "https://www.fz.se/artikel/291712-starbreeze-ska-aterigen-borja-ge-ut-spel",
+          "publishedOn": "2022-10-07T06:57:00.000Z",
+          "wordCount": 1814,
+          "title": "Starbreeze ska återigen börja ge ut spel",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291712"
+        },
+        {
           "id": "https://www.fz.se/artikel/291711",
           "author": null,
           "description": "Och den officiella dockan är också släppt.",
@@ -13105,6 +13105,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/35040",
+          "author": null,
+          "description": "När kylartillverkaren Noctua märkte att AMD:s Ryzen 7000-processorers utskärningar lätt samlar rester av kylpasta valde företaget att ta fram en lösning.",
+          "link": "https://www.sweclockers.com/artikel/35040-noctuas-ram-haller-ryzen-7000-ren-fran-kylpasta",
+          "publishedOn": "2022-10-07T06:43:37.000Z",
+          "wordCount": 1740,
+          "title": "Noctuas ram håller Ryzen 7000 ren från kylpasta",
+          "imageUrl": "https://www.sweclockers.com/artikel/35040/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/35041",
           "author": null,
           "description": "Under onsdag eftermiddag upptäckte tekniker på Naturvårdsverket att myndigheten utsatts för ett intrång där information stulits och hamnat på avvägar.",
@@ -13971,6 +13981,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/07/on_call/",
+          "author": null,
+          "description": "<h4>What’s worse than absurd support requests at work? Ridiculous requests at home, that’s what</h4> <p><strong>On Call</strong>  As another working week ebbs away into history, dispel any thoughts that your efforts have made no mark in history by wallowing in other readers’ misery in another instalment of On-Call, <i>The Register</i>’s weekly tale of being asked to fix the ridiculous and absurd.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/07/on_call/",
+          "publishedOn": "2022-10-07T07:29:09.000Z",
+          "wordCount": 1217,
+          "title": "No, working in IT does not mean you can fix anything with a soldering iron",
+          "imageUrl": "https://regmedia.co.uk/2022/10/06/shutterstock_soldering_iron_on_pcb.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/07/nominet_dirrector_election_register/",
           "author": null,
@@ -16480,16 +16500,6 @@
           "wordCount": 1330,
           "title": "Billionaire CEO tells Googlers 'we shouldn’t always equate fun with money'",
           "imageUrl": "https://regmedia.co.uk/2019/04/10/shutterstock_unhappy_party.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/23/irs_cryptocurrency_income_tax/",
-          "author": null,
-          "description": "<h4>'At least ten' people didn't declare coin income. Wow, what a bust</h4> <p>The IRS has been granted a court order to collect records from a bank the agency said will help it identify US taxpayers who failed to report taxable income from crypto trades. …</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/23/irs_cryptocurrency_income_tax/",
-          "publishedOn": "2022-09-23T19:25:14.000Z",
-          "wordCount": 1369,
-          "title": "Open up, it's the IRS. We're here about the crypto tax you dodged",
-          "imageUrl": "https://regmedia.co.uk/2021/05/20/tax.jpg"
         }
       ]
     }

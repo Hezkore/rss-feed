@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-07T06:40:14.453Z</updated>
+    <updated>2022-10-07T07:33:55.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[No, working in IT does not mean you can fix anything with a soldering iron]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/07/on_call/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/07/on_call/"/>
+        <updated>2022-10-07T07:29:09.000Z</updated>
+        <summary type="html"><![CDATA[<h4>What’s worse than absurd support requests at work? Ridiculous requests at home, that’s what</h4> <p><strong>On Call</strong>  As another working week ebbs away into history, dispel any thoughts that your efforts have made no mark in history by wallowing in other readers’ misery in another instalment of On-Call, <i>The Register</i>’s weekly tale of being asked to fix the ridiculous and absurd.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starbreeze ska återigen börja ge ut spel]]></title>
+        <id>https://www.fz.se/artikel/291712</id>
+        <link href="https://www.fz.se/artikel/291712-starbreeze-ska-aterigen-borja-ge-ut-spel"/>
+        <updated>2022-10-07T06:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Först ut är The Tribe Must Survive.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Noctuas ram håller Ryzen 7000 ren från kylpasta]]></title>
+        <id>https://www.sweclockers.com/artikel/35040</id>
+        <link href="https://www.sweclockers.com/artikel/35040-noctuas-ram-haller-ryzen-7000-ren-fran-kylpasta"/>
+        <updated>2022-10-07T06:43:37.000Z</updated>
+        <summary type="html"><![CDATA[När kylartillverkaren Noctua märkte att AMD:s Ryzen 7000-processorers utskärningar lätt samlar rester av kylpasta valde företaget att ta fram en lösning.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[He's only gone and done it. Ex-Register vulture elected to board of .uk registry]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/07/nominet_dirrector_election_register/</id>
@@ -18396,34 +18426,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[While Valve has been able to repeatedly speed up production of the Steam Deck smashing expectations, they've hit a snag when it comes to Canada.]]></summary>
         <author>
             <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open up, it's the IRS. We're here about the crypto tax you dodged]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/23/irs_cryptocurrency_income_tax/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/23/irs_cryptocurrency_income_tax/"/>
-        <updated>2022-09-23T19:25:14.000Z</updated>
-        <summary type="html"><![CDATA[<h4>'At least ten' people didn't declare coin income. Wow, what a bust</h4> <p>The IRS has been granted a court order to collect records from a bank the agency said will help it identify US taxpayers who failed to report taxable income from crypto trades. …</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steve Kemp: Lisp macros are magical]]></title>
-        <id>https://blog.steve.fi/lisp_macros_are_magical.html</id>
-        <link href="https://blog.steve.fi/lisp_macros_are_magical.html"/>
-        <updated>2022-09-23T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In my previous post I introduced yet another Lisp interpreter.  When it was posted there was no support for macros.
-Since I've recently returned from a visit to the UK, and caught COVID-19 while I was there, I figured I'd see if my brain was fried by adding macro support.
-I know lisp macros are awesome, it's one of those things that everybody is told.  Repeatedly.    I've used macros in my emacs programming off and on for a good few years, but despite that I'd not really given them too much thought.
-If you know anything about lisp you know that it's all about the lists, the parenthesis, and the macros.  Here's a simple macro I wrote:
- (define if2 (macro (pred one two)
-    `(if ~pred (begin ~one ~two))))
-
-The standard lisp if function allows you to write:
- (if (= 1 a) (print "a == 1") (prin…]]></summary>
-        <author>
-            <name>Planet Debian</name>
         </author>
     </entry>
 </feed>
