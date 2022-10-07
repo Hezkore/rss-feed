@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-07T02:30:35.504Z</updated>
+    <updated>2022-10-07T04:11:41.665Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Amazon halts work on ‘Scout’ delivery-bot that delivered parcels no faster than humans]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/07/amazon_halts_scout_delivery_bot/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/07/amazon_halts_scout_delivery_bot/"/>
+        <updated>2022-10-07T04:02:12.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Meanwhile in China, Alibaba runs 500 delivery-bots and they’ve delivered 10 million items to Easy Street</h4> <p>E-commerce behemoth Amazon.com has stopped work on its “Scout” parcel delivery robots.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pros and Cons of Using Btrfs Filesystem in Linux]]></title>
+        <id>https://itsfoss.com/?p=101878</id>
+        <link href="https://itsfoss.com/btrfs/"/>
+        <updated>2022-10-07T03:34:00.000Z</updated>
+        <summary type="html"><![CDATA[Btrfs is the talk of the Linux town. And if you curious about this filesystem, read about its features and pros and cons over other filesystems like ext4.]]></summary>
+        <author>
+            <name>Anuj Sharma</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nu kan Steam Deck köpas utan förhandsbokning]]></title>
+        <id>https://www.fz.se/artikel/291711</id>
+        <link href="https://www.fz.se/artikel/291711-nu-kan-steam-deck-kopas-utan-forhandsbokning"/>
+        <updated>2022-10-07T03:19:51.000Z</updated>
+        <summary type="html"><![CDATA[Och den officiella dockan är också släppt.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nu är trailern för Super Mario Bros-filmen här]]></title>
+        <id>https://www.fz.se/artikel/291710</id>
+        <link href="https://www.fz.se/artikel/291710-nu-ar-trailern-for-super-mario-bros-filmen-har"/>
+        <updated>2022-10-07T02:55:42.000Z</updated>
+        <summary type="html"><![CDATA[Och den ser ju faktiskt riktigt frän ut.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Because you've all stopped buying PCs, AMD's wiped $1b+ off expected sales]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/07/amd_q3_guidance_warning/</id>
@@ -18546,221 +18586,6 @@ The hacker responsible for the GTA 6 had earlier in the week publicised that the
  Read more]]></summary>
         <author>
             <name>Connor Makar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gunnar Wolf: 6237415]]></title>
-        <id>https://gwolf.org/2022/09/6237415.html</id>
-        <link href="https://gwolf.org/2022/09/6237415.html"/>
-        <updated>2022-09-23T16:03:26.000Z</updated>
-        <summary type="html"><![CDATA[Years ago, it was customary that some of us stated publicly the way we
-think in time of Debian General Resolutions (GRs). And even if we
-didn’t, vote lists were open (except when voting for people,
-i.e. when electing a DPL), so if interested we could understand what
-our different peers thought.
-This is the first vote, though, where a Debian vote is protected under
-voting secrecy. I think
-it is sad we chose that path, as I liken a GR vote more with a voting
-process within a general assembly of a cooperative than with a
-countrywide voting one; I feel that understanding who is behind each
-posture helps us better understand the project as a whole.
-But anyway, I’m digressing… Even though I remained quiet during much
-of the discussion period (I was preparing and attending a conference),
-I am ver…]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fredagspanelen 268: RTX 4000 är officiellt på ingång!]]></title>
-        <id>https://www.sweclockers.com/artikel/34970</id>
-        <link href="https://www.sweclockers.com/artikel/34970-fredagspanelen-268-rtx-4000-ar-officiellt-pa-ingang"/>
-        <updated>2022-09-23T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Nvidia har äntligen lyft locket om RTX 4000-serien och Calle och Noelia tar ett ordentligt snack om detta. Samt Logitech-resa, Grand Theft Auto och ännu mer grafikkort.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple M2 Support Added To Upstream LLVM Along With The A15, A16]]></title>
-        <id>https://www.phoronix.com/news/LLVM-Apple-M2-Target</id>
-        <link href="https://www.phoronix.com/news/LLVM-Apple-M2-Target"/>
-        <updated>2022-09-23T15:58:21.000Z</updated>
-        <summary type="html"><![CDATA[Upstream LLVM has added the compiler CPU targets for the Apple M2, A15, and A16 SoCs...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tiny Keyboard Transforms Smartwatch Into a Desktop PC]]></title>
-        <id>VLYfMeYHK26g9pCGhCiwuP</id>
-        <link href="https://www.tomshardware.com/news/lilygo-smartwatch-keyboard"/>
-        <updated>2022-09-23T15:55:07.000Z</updated>
-        <summary type="html"><![CDATA[Chinese manufacturer Lilygo is selling a kit to turn its own-brand smartwatch into a tiny desktop computer.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A history of ARM, part 1: Building the first chip]]></title>
-        <id>https://arstechnica.com/?p=1879525</id>
-        <link href="https://arstechnica.com/?p=1879525"/>
-        <updated>2022-09-23T15:47:46.000Z</updated>
-        <summary type="html"><![CDATA[In 1983, Acorn Computers needed a CPU. So 10 people built one.]]></summary>
-        <author>
-            <name>Jeremy Reimer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux NTFS Driver Preparing "nocase" Case-Insensitive Mount Option]]></title>
-        <id>https://www.phoronix.com/news/Linux-NTFS3-nocase</id>
-        <link href="https://www.phoronix.com/news/Linux-NTFS3-nocase"/>
-        <updated>2022-09-23T15:42:56.000Z</updated>
-        <summary type="html"><![CDATA[The NTFS3 kernel driver providing read/write Microsoft NTFS file-system support on Linux, thanks to the code being open-sourced by Paragon Software, continues to see new improvements...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Gaming PCs of 2022]]></title>
-        <id>eD58hVp4ApHDi92thX7isZ</id>
-        <link href="https://www.tomshardware.com/best-picks/best-gaming-pcs"/>
-        <updated>2022-09-23T15:38:58.000Z</updated>
-        <summary type="html"><![CDATA[We test prebuilt gaming PCs with our typical gauntlet of real-world and synthetic benchmarks to measure overall system performance.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stellaris is getting a VR roguelite that lets you explore the galaxy face-first]]></title>
-        <id>https://www.rockpapershotgun.com/stellaris-is-getting-a-vr-roguelite-that-lets-you-explore-the-galaxy-face-first</id>
-        <link href="https://www.rockpapershotgun.com/stellaris-is-getting-a-vr-roguelite-that-lets-you-explore-the-galaxy-face-first"/>
-        <updated>2022-09-23T15:38:04.000Z</updated>
-        <summary type="html"><![CDATA[Fantasies about being a space captain often seem to revolve around the idea of being sat in a nice comfy chair on the bridge of a starship that’s suspiciously like a living room. Developers Fast Travel Games aren’t the first to figure out that this eminently nerdy dream fits VR really well, but they’re the ones making it happen for the Stellaris universe, with new roguelite game Ghost Signal. Stick on your space helmet and watch the trailer below.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["It's-a me, soon-eo!" Första teasern från Super Mario-filmen snart här]]></title>
-        <id>https://www.fz.se/artikel/291567</id>
-        <link href="https://www.fz.se/artikel/291567-its-a-me-soon-eo-forsta-teasern-fran-super-mario-filmen-snart-har"/>
-        <updated>2022-09-23T15:28:00.000Z</updated>
-        <summary type="html"><![CDATA[Visas på Comic Con i oktober.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Iran blocks Whatsapp, Instagram as citizens protest death of Mahsa Amini]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/23/whatsapp_and_instagram_now_restricted/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/23/whatsapp_and_instagram_now_restricted/"/>
-        <updated>2022-09-23T15:24:13.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Also: New Iranian and Chinese associated 'magnet of threats' member and details of Iran's hack on Albania</h4> <p>Iran is experiencing a near-total internet service disruption in the west and intermittent interruptions nationwide, with access to Instagram, Whatsapp and some mobile networks being blocked, says Netblocks.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sucker Punch unmasks Sly Cooper merch for 20th anniversary]]></title>
-        <id>https://www.eurogamer.net/sucker-punch-unmasks-sly-cooper-merch-for-20th-anniversary</id>
-        <link href="https://www.eurogamer.net/sucker-punch-unmasks-sly-cooper-merch-for-20th-anniversary"/>
-        <updated>2022-09-23T15:12:04.000Z</updated>
-        <summary type="html"><![CDATA[Sly Cooper developer Sucker Punch has lifted the lid on a new line of merchandise to celebrate the series' 20th anniversary.
-
-
-This range consists of a Sly plushy (seen in the header image), a print of some anniversary artwork by the original Sly Cooper's art director Dev Madan and an anniversary T-shirt.
-
-
-The artwork is certainly an impressive collection of nostalgia for Sly Cooper fans. Madan has rammed it full of references and Easter eggs from the last 20 years.
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Det här spelar FZ i helgen - vad spelar DU?]]></title>
-        <id>https://www.fz.se/artikel/291558</id>
-        <link href="https://www.fz.se/artikel/291558-det-har-spelar-fz-i-helgen-vad-spelar-du"/>
-        <updated>2022-09-23T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Pirater, mumier och krymta familjer står på helgmenyn.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mercedes’ F1 team cut its freight emissions by 89% with biofuel switch]]></title>
-        <id>https://arstechnica.com/?p=1884026</id>
-        <link href="https://arstechnica.com/?p=1884026"/>
-        <updated>2022-09-23T14:47:08.000Z</updated>
-        <summary type="html"><![CDATA[16 trucks used biofuels to haul between the final three European races this year.]]></summary>
-        <author>
-            <name>Jonathan M. Gitlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Classic WoW players — beware of the Brewfest scammers!]]></title>
-        <id>https://www.vg247.com/classic-wow-players-beware-of-the-brewfest-scammers</id>
-        <link href="https://www.vg247.com/classic-wow-players-beware-of-the-brewfest-scammers"/>
-        <updated>2022-09-23T14:42:50.000Z</updated>
-        <summary type="html"><![CDATA[While everyone knows that Classic World of Warcraft is undergoing a heap of hype surrounding the Wrath of the Lich King expansion, for good reason too, there are plenty of reasons to get excited, Brewfest is a great opportunity for loot and laughs right now. It is, however, also an opportunity for cheeky people to try and scam some extra loot from under the noses of their fellow adventurer. Such are the joys of Classic WoW.
-But first, what is Brewfest. For those not in the know, Brewfest is a one-per-year limited time event where players can buy some drinks, get smashes, and get some exclusive rewards. It’s unsubtly based on the German holiday Octoberfest, and features a variety of events and tasks for players to complete if they so wish.
-It also has a special boss fight — Corren Direbrew — in the Blackrock Depths, which in turn can provide some truly illustrious loot. These could be powerful trinkets, special toys that allow quick transfer to the dungeon, and even two very rare mounts with roughly a 1% drop-rate from Corren. Since right now players are gearing up characters for the next expansion, an even greater number of players than usual are jumping in for a chance at some handy shinies in this already bustling activity.
- Read more]]></summary>
-        <author>
-            <name>Connor Makar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Many of the most nutritious foods are also the most sustainable]]></title>
-        <id>https://arstechnica.com/?p=1883651</id>
-        <link href="https://arstechnica.com/?p=1883651"/>
-        <updated>2022-09-23T14:39:17.000Z</updated>
-        <summary type="html"><![CDATA[A new approach calculates the sustainability of multi-ingredient foods.]]></summary>
-        <author>
-            <name>K.E.D. Coan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsofts vd "väldigt säker" på att Activision-affären blir verklighet]]></title>
-        <id>https://www.fz.se/artikel/291566</id>
-        <link href="https://www.fz.se/artikel/291566-microsofts-vd-valdigt-saker-pa-att-activision-affaren-blir-verklighet"/>
-        <updated>2022-09-23T14:36:00.000Z</updated>
-        <summary type="html"><![CDATA[Satya Nadella sover gott om nätterna.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starlink broadband speeds slow as subscriber numbers grow]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/23/starlink_broadband_speeds_slow/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/23/starlink_broadband_speeds_slow/"/>
-        <updated>2022-09-23T14:34:09.000Z</updated>
-        <summary type="html"><![CDATA[<h4>But a median of 60Mbps is not to be sniffed at when you're out in the sticks</h4> <p>Elon Musk's Starlink satellite broadband service has seen a decline in download speeds around the world as more and more subscribers sign up, perhaps making the company a victim of its own success.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steve Kemp: Lisp macros are magical]]></title>
-        <id>https://blog.steve.fi/lisp_macros_are_magical.html</id>
-        <link href="https://blog.steve.fi/lisp_macros_are_magical.html"/>
-        <updated>2022-09-23T14:30:30.000Z</updated>
-        <summary type="html"><![CDATA[In my previous post I introduced yet another Lisp interpreter.  When it was posted there was no support for macros.
-Since I've recently returned from a visit to the UK, and caught COVID-19 while I was there, I figured I'd see if my brain was fried by adding macro support.
-I know lisp macros are awesome, it's one of those things that everybody is told.  Repeatedly.    I've used macros in my emacs programming off and on for a good few years, but despite that I'd not really given them too much thought.
-If you know anything about lisp you know that it's all about the lists, the parenthesis, and the macros.  Here's a simple macro I wrote:
- (define if2 (macro (pred one two)
-    `(if ~pred (begin ~one ~two))))
-
-The standard lisp if function allows you to write:
- (if (= 1 a) (print "a == 1") (prin…]]></summary>
-        <author>
-            <name>Planet Debian</name>
         </author>
     </entry>
 </feed>

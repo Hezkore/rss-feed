@@ -12,6 +12,16 @@
       "siteUrl": "https://itsfoss.com",
       "articles": [
         {
+          "id": "https://itsfoss.com/?p=101878",
+          "author": "Anuj Sharma",
+          "description": "Btrfs is the talk of the Linux town. And if you curious about this filesystem, read about its features and pros and cons over other filesystems like ext4.",
+          "link": "https://itsfoss.com/btrfs/",
+          "publishedOn": "2022-10-07T03:34:00.000Z",
+          "wordCount": 7570,
+          "title": "Pros and Cons of Using Btrfs Filesystem in Linux",
+          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/10/btrfs-filesystem.png"
+        },
+        {
           "id": "https://itsfoss.com/?p=101951",
           "author": "Sagar Sharma",
           "description": "With so many package managers, it is not easy to keep track of various packages and update them timely. topgrade tries to address this issue.",
@@ -3005,16 +3015,6 @@
           "wordCount": 6073,
           "title": "Deathloop comes to Xbox Series X - and not much has changed from its PS5 debut",
           "imageUrl": "https://assets.reedpopcdn.com/Deathloop-Site_7eJxuJ4.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Deathloop-Site_7eJxuJ4.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/sucker-punch-unmasks-sly-cooper-merch-for-20th-anniversary",
-          "author": "Victoria Kennedy",
-          "description": "Sly Cooper developer Sucker Punch has lifted the lid on a new line of merchandise to celebrate the series' 20th anniversary.\r\n\n\r\nThis range consists of a Sly plushy (seen in the header image), a print of some anniversary artwork by the original Sly Cooper's art director Dev Madan and an anniversary T-shirt.\r\n\n\r\nThe artwork is certainly an impressive collection of nostalgia for Sly Cooper fans. Madan has rammed it full of references and Easter eggs from the last 20 years.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/sucker-punch-unmasks-sly-cooper-merch-for-20th-anniversary",
-          "publishedOn": "2022-09-23T15:12:04.000Z",
-          "wordCount": 4730,
-          "title": "Sucker Punch unmasks Sly Cooper merch for 20th anniversary",
-          "imageUrl": "https://assets.reedpopcdn.com/sly-coop-merch.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sly-coop-merch.jpg"
         }
       ]
     },
@@ -4212,16 +4212,6 @@
           "wordCount": 4885,
           "title": "A 17-year-old has been arrested on suspicion of hacking, allegedly behind GTA 6 leak",
           "imageUrl": "https://asset.vg247.com/GTA_Online_intelligence_header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/GTA_Online_intelligence_header.jpg"
-        },
-        {
-          "id": "https://www.vg247.com/classic-wow-players-beware-of-the-brewfest-scammers",
-          "author": "Connor Makar",
-          "description": "While everyone knows that Classic World of Warcraft is undergoing a heap of hype surrounding the Wrath of the Lich King expansion, for good reason too, there are plenty of reasons to get excited, Brewfest is a great opportunity for loot and laughs right now. It is, however, also an opportunity for cheeky people to try and scam some extra loot from under the noses of their fellow adventurer. Such are the joys of Classic WoW.\nBut first, what is Brewfest. For those not in the know, Brewfest is a one-per-year limited time event where players can buy some drinks, get smashes, and get some exclusive rewards. It’s unsubtly based on the German holiday Octoberfest, and features a variety of events and tasks for players to complete if they so wish.\nIt also has a special boss fight — Corren Direbrew — in the Blackrock Depths, which in turn can provide some truly illustrious loot. These could be powerful trinkets, special toys that allow quick transfer to the dungeon, and even two very rare mounts with roughly a 1% drop-rate from Corren. Since right now players are gearing up characters for the next expansion, an even greater number of players than usual are jumping in for a chance at some handy shinies in this already bustling activity.\n Read more",
-          "link": "https://www.vg247.com/classic-wow-players-beware-of-the-brewfest-scammers",
-          "publishedOn": "2022-09-23T14:42:50.000Z",
-          "wordCount": 5214,
-          "title": "Classic WoW players — beware of the Brewfest scammers!",
-          "imageUrl": "https://asset.vg247.com/wow_classic_brewfest.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/wow_classic_brewfest.jpg"
         }
       ]
     },
@@ -5458,26 +5448,6 @@
           "publishedOn": "2022-09-23T21:12:21.000Z",
           "wordCount": 1352,
           "title": "Wine 7.18 Released With Unicode 15.0 Support, 20 Bug Fixes",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/LLVM-Apple-M2-Target",
-          "author": null,
-          "description": "Upstream LLVM has added the compiler CPU targets for the Apple M2, A15, and A16 SoCs...",
-          "link": "https://www.phoronix.com/news/LLVM-Apple-M2-Target",
-          "publishedOn": "2022-09-23T15:58:21.000Z",
-          "wordCount": 1339,
-          "title": "Apple M2 Support Added To Upstream LLVM Along With The A15, A16",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-NTFS3-nocase",
-          "author": null,
-          "description": "The NTFS3 kernel driver providing read/write Microsoft NTFS file-system support on Linux, thanks to the code being open-sourced by Paragon Software, continues to see new improvements...",
-          "link": "https://www.phoronix.com/news/Linux-NTFS3-nocase",
-          "publishedOn": "2022-09-23T15:42:56.000Z",
-          "wordCount": 1233,
-          "title": "Linux NTFS Driver Preparing \"nocase\" Case-Insensitive Mount Option",
           "imageUrl": null
         }
       ]
@@ -6776,16 +6746,6 @@
           "wordCount": 5036,
           "title": "UK teenager arrested in connection with GTA 6 leaks",
           "imageUrl": "https://assets2.rockpapershotgun.com/GTA-6-leaks-arrest.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/GTA-6-leaks-arrest.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/stellaris-is-getting-a-vr-roguelite-that-lets-you-explore-the-galaxy-face-first",
-          "author": "CJ Wheeler",
-          "description": "Fantasies about being a space captain often seem to revolve around the idea of being sat in a nice comfy chair on the bridge of a starship that’s suspiciously like a living room. Developers Fast Travel Games aren’t the first to figure out that this eminently nerdy dream fits VR really well, but they’re the ones making it happen for the Stellaris universe, with new roguelite game Ghost Signal. Stick on your space helmet and watch the trailer below.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/stellaris-is-getting-a-vr-roguelite-that-lets-you-explore-the-galaxy-face-first",
-          "publishedOn": "2022-09-23T15:38:04.000Z",
-          "wordCount": 5052,
-          "title": "Stellaris is getting a VR roguelite that lets you explore the galaxy face-first",
-          "imageUrl": "https://assets2.rockpapershotgun.com/Ghost-Signal-A-Stellaris-Game-announcement.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Ghost-Signal-A-Stellaris-Game-announcement.jpg"
         }
       ]
     },
@@ -9628,36 +9588,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/rZSuFx7EGbscDyqZUW7K9R.jpg"
-        },
-        {
-          "id": "VLYfMeYHK26g9pCGhCiwuP",
-          "author": null,
-          "description": "Chinese manufacturer Lilygo is selling a kit to turn its own-brand smartwatch into a tiny desktop computer.",
-          "link": "https://www.tomshardware.com/news/lilygo-smartwatch-keyboard",
-          "publishedOn": "2022-09-23T15:55:07.000Z",
-          "wordCount": 22444,
-          "title": "Tiny Keyboard Transforms Smartwatch Into a Desktop PC",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/4tKeaeExyysr5vmaZCJXTV.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/4tKeaeExyysr5vmaZCJXTV.jpg"
-        },
-        {
-          "id": "eD58hVp4ApHDi92thX7isZ",
-          "author": null,
-          "description": "We test prebuilt gaming PCs with our typical gauntlet of real-world and synthetic benchmarks to measure overall system performance.",
-          "link": "https://www.tomshardware.com/best-picks/best-gaming-pcs",
-          "publishedOn": "2022-09-23T15:38:58.000Z",
-          "wordCount": 26266,
-          "title": "Best Gaming PCs of 2022",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/HbCHdbhS9B8sKLiQs6GtPg.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/HbCHdbhS9B8sKLiQs6GtPg.jpg"
         }
       ]
     },
@@ -9964,26 +9894,6 @@
           "publishedOn": "2022-09-24T19:08:19.000Z",
           "wordCount": null,
           "title": "Ian Jackson: Please vote in favour of the Debian Social Contract change",
-          "imageUrl": null
-        },
-        {
-          "id": "https://gwolf.org/2022/09/6237415.html",
-          "author": null,
-          "description": "Years ago, it was customary that some of us stated publicly the way we\nthink in time of Debian General Resolutions (GRs). And even if we\ndidn’t, vote lists were open (except when voting for people,\ni.e. when electing a DPL), so if interested we could understand what\nour different peers thought.\nThis is the first vote, though, where a Debian vote is protected under\nvoting secrecy. I think\nit is sad we chose that path, as I liken a GR vote more with a voting\nprocess within a general assembly of a cooperative than with a\ncountrywide voting one; I feel that understanding who is behind each\nposture helps us better understand the project as a whole.\nBut anyway, I’m digressing… Even though I remained quiet during much\nof the discussion period (I was preparing and attending a conference),\nI am ver…",
-          "link": "https://gwolf.org/2022/09/6237415.html",
-          "publishedOn": "2022-09-23T16:03:26.000Z",
-          "wordCount": 882,
-          "title": "Gunnar Wolf: 6237415",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.steve.fi/lisp_macros_are_magical.html",
-          "author": null,
-          "description": "In my previous post I introduced yet another Lisp interpreter.  When it was posted there was no support for macros.\nSince I've recently returned from a visit to the UK, and caught COVID-19 while I was there, I figured I'd see if my brain was fried by adding macro support.\nI know lisp macros are awesome, it's one of those things that everybody is told.  Repeatedly.    I've used macros in my emacs programming off and on for a good few years, but despite that I'd not really given them too much thought.\nIf you know anything about lisp you know that it's all about the lists, the parenthesis, and the macros.  Here's a simple macro I wrote:\n (define if2 (macro (pred one two)\n    `(if ~pred (begin ~one ~two))))\n\nThe standard lisp if function allows you to write:\n (if (= 1 a) (print \"a == 1\") (prin…",
-          "link": "https://blog.steve.fi/lisp_macros_are_magical.html",
-          "publishedOn": "2022-09-23T14:30:30.000Z",
-          "wordCount": 824,
-          "title": "Steve Kemp: Lisp macros are magical",
           "imageUrl": null
         }
       ]
@@ -11819,36 +11729,6 @@
           "wordCount": 1774,
           "title": "So long slowdown: New hack runs SNES Star Fox at up to 60 fps",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/03/superfx-599x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1879525",
-          "author": "Jeremy Reimer",
-          "description": "In 1983, Acorn Computers needed a CPU. So 10 people built one.",
-          "link": "https://arstechnica.com/?p=1879525",
-          "publishedOn": "2022-09-23T15:47:46.000Z",
-          "wordCount": 1632,
-          "title": "A history of ARM, part 1: Building the first chip",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/acorn-computers-birth-of-arm-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1884026",
-          "author": "Jonathan M. Gitlin",
-          "description": "16 trucks used biofuels to haul between the final three European races this year.",
-          "link": "https://arstechnica.com/?p=1884026",
-          "publishedOn": "2022-09-23T14:47:08.000Z",
-          "wordCount": 1634,
-          "title": "Mercedes’ F1 team cut its freight emissions by 89% with biofuel switch",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/M327731-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1883651",
-          "author": "K.E.D. Coan",
-          "description": "A new approach calculates the sustainability of multi-ingredient foods.",
-          "link": "https://arstechnica.com/?p=1883651",
-          "publishedOn": "2022-09-23T14:39:17.000Z",
-          "wordCount": 1814,
-          "title": "Many of the most nutritious foods are also the most sustainable",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1344862156-760x380.jpg"
         }
       ]
     },
@@ -11857,6 +11737,26 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291711",
+          "author": null,
+          "description": "Och den officiella dockan är också släppt.",
+          "link": "https://www.fz.se/artikel/291711-nu-kan-steam-deck-kopas-utan-forhandsbokning",
+          "publishedOn": "2022-10-07T03:19:51.000Z",
+          "wordCount": 1834,
+          "title": "Nu kan Steam Deck köpas utan förhandsbokning",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291711"
+        },
+        {
+          "id": "https://www.fz.se/artikel/291710",
+          "author": null,
+          "description": "Och den ser ju faktiskt riktigt frän ut.",
+          "link": "https://www.fz.se/artikel/291710-nu-ar-trailern-for-super-mario-bros-filmen-har",
+          "publishedOn": "2022-10-07T02:55:42.000Z",
+          "wordCount": 1990,
+          "title": "Nu är trailern för Super Mario Bros-filmen här",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291710"
+        },
         {
           "id": "https://www.fz.se/artikel/291709",
           "author": null,
@@ -13376,36 +13276,6 @@
           "wordCount": 1925,
           "title": "Stort WoW-fan har gjort nya Lich King Classic-trailern – det gjorde han rätt i",
           "imageUrl": "https://www.fz.se/artikel/og-image/291568"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291567",
-          "author": null,
-          "description": "Visas på Comic Con i oktober.",
-          "link": "https://www.fz.se/artikel/291567-its-a-me-soon-eo-forsta-teasern-fran-super-mario-filmen-snart-har",
-          "publishedOn": "2022-09-23T15:28:00.000Z",
-          "wordCount": 1842,
-          "title": "\"It's-a me, soon-eo!\" Första teasern från Super Mario-filmen snart här",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291567"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291558",
-          "author": null,
-          "description": "Pirater, mumier och krymta familjer står på helgmenyn.",
-          "link": "https://www.fz.se/artikel/291558-det-har-spelar-fz-i-helgen-vad-spelar-du",
-          "publishedOn": "2022-09-23T15:00:00.000Z",
-          "wordCount": 2046,
-          "title": "Det här spelar FZ i helgen - vad spelar DU?",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291558"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291566",
-          "author": null,
-          "description": "Satya Nadella sover gott om nätterna.",
-          "link": "https://www.fz.se/artikel/291566-microsofts-vd-valdigt-saker-pa-att-activision-affaren-blir-verklighet",
-          "publishedOn": "2022-09-23T14:36:00.000Z",
-          "wordCount": 2078,
-          "title": "Microsofts vd \"väldigt säker\" på att Activision-affären blir verklighet",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291566"
         }
       ]
     },
@@ -13993,16 +13863,6 @@
           "wordCount": 1794,
           "title": "Intel Core 14000 \"Meteor Lake\" får dedikerad AI-hårdvara",
           "imageUrl": "https://www.sweclockers.com/artikel/34920/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34970",
-          "author": null,
-          "description": "Nvidia har äntligen lyft locket om RTX 4000-serien och Calle och Noelia tar ett ordentligt snack om detta. Samt Logitech-resa, Grand Theft Auto och ännu mer grafikkort.",
-          "link": "https://www.sweclockers.com/artikel/34970-fredagspanelen-268-rtx-4000-ar-officiellt-pa-ingang",
-          "publishedOn": "2022-09-23T16:00:00.000Z",
-          "wordCount": 1470,
-          "title": "Fredagspanelen 268: RTX 4000 är officiellt på ingång!",
-          "imageUrl": "https://www.sweclockers.com/artikel/34970/og-image"
         }
       ]
     },
@@ -14291,6 +14151,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/07/amazon_halts_scout_delivery_bot/",
+          "author": null,
+          "description": "<h4>Meanwhile in China, Alibaba runs 500 delivery-bots and they’ve delivered 10 million items to Easy Street</h4> <p>E-commerce behemoth Amazon.com has stopped work on its “Scout” parcel delivery robots.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/07/amazon_halts_scout_delivery_bot/",
+          "publishedOn": "2022-10-07T04:02:12.000Z",
+          "wordCount": 1117,
+          "title": "Amazon halts work on ‘Scout’ delivery-bot that delivered parcels no faster than humans",
+          "imageUrl": "https://regmedia.co.uk/2022/10/07/supplied_amazon_scout_deliverybot.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/07/amd_q3_guidance_warning/",
           "author": null,
@@ -16810,26 +16680,6 @@
           "wordCount": 1740,
           "title": "Boeing to pay SEC $200m to settle charges it misled investors over 737 MAX safety",
           "imageUrl": "https://regmedia.co.uk/2021/06/30/handout_united_airlines_737_max_0.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/23/whatsapp_and_instagram_now_restricted/",
-          "author": null,
-          "description": "<h4>Also: New Iranian and Chinese associated 'magnet of threats' member and details of Iran's hack on Albania</h4> <p>Iran is experiencing a near-total internet service disruption in the west and intermittent interruptions nationwide, with access to Instagram, Whatsapp and some mobile networks being blocked, says Netblocks.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/23/whatsapp_and_instagram_now_restricted/",
-          "publishedOn": "2022-09-23T15:24:13.000Z",
-          "wordCount": 1559,
-          "title": "Iran blocks Whatsapp, Instagram as citizens protest death of Mahsa Amini",
-          "imageUrl": "https://regmedia.co.uk/2020/12/08/iran.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/23/starlink_broadband_speeds_slow/",
-          "author": null,
-          "description": "<h4>But a median of 60Mbps is not to be sniffed at when you're out in the sticks</h4> <p>Elon Musk's Starlink satellite broadband service has seen a decline in download speeds around the world as more and more subscribers sign up, perhaps making the company a victim of its own success.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/23/starlink_broadband_speeds_slow/",
-          "publishedOn": "2022-09-23T14:34:09.000Z",
-          "wordCount": 1368,
-          "title": "Starlink broadband speeds slow as subscriber numbers grow",
-          "imageUrl": "https://regmedia.co.uk/2021/11/10/shutterstock_satellite_broadband.jpg"
         }
       ]
     }
