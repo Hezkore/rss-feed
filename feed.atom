@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-07T07:33:55.571Z</updated>
+    <updated>2022-10-07T08:34:30.266Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[There in Spirit]]></title>
+        <id>https://loadingartist.com/comic/there-in-spirit/</id>
+        <link href="https://loadingartist.com/comic/there-in-spirit/"/>
+        <updated>2022-10-07T08:06:48.000Z</updated>
+        <summary type="html"><![CDATA[a comic about a ghost]]></summary>
+        <author>
+            <name>Gregor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Japp, Elle Fanning är inblandad i Kojimas nästa spel]]></title>
+        <id>https://www.fz.se/artikel/291713</id>
+        <link href="https://www.fz.se/artikel/291713-japp-elle-fanning-ar-inblandad-i-kojimas-nasta-spel"/>
+        <updated>2022-10-07T07:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Den kryptiska "Who Am I"-bilden har avtäckts.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[No, working in IT does not mean you can fix anything with a soldering iron]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/07/on_call/</id>
@@ -18396,36 +18416,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Since 2015, crashes involving Amazon vehicles have killed more than 75 people.]]></summary>
         <author>
             <name>Ashley Belanger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Billionaire CEO tells Googlers 'we shouldn’t always equate fun with money']]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/23/ceo_google_austerity/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/23/ceo_google_austerity/"/>
-        <updated>2022-09-23T20:28:14.000Z</updated>
-        <summary type="html"><![CDATA[<h4>A day in the G is like a day on the farm. Every meal a banquet. Every code checkout a parade. I love the G</h4> <p>Challenged by questions about Google's cost-cutting at an internal meeting, Alphabet billionaire CEO Sundar Pichai reportedly reassured employees about the internet giant's financial belt tightening by insisting that workplace fun doesn't have to be about money.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[39-year-old Radio Shack laptop gets new CPU, keeps original screen]]></title>
-        <id>https://arstechnica.com/?p=1884104</id>
-        <link href="https://arstechnica.com/?p=1884104"/>
-        <updated>2022-09-23T20:13:32.000Z</updated>
-        <summary type="html"><![CDATA[Hobbyist and IEEE editor Stephen Cass upgrades a broken laptop from 1983.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canadian customers seeing a temporary delay for the Steam Deck]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/canadian-customers-seeing-a-temporary-delay-for-the-steam-deck/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/canadian-customers-seeing-a-temporary-delay-for-the-steam-deck/"/>
-        <updated>2022-09-23T20:07:55.000Z</updated>
-        <summary type="html"><![CDATA[While Valve has been able to repeatedly speed up production of the Steam Deck smashing expectations, they've hit a snag when it comes to Canada.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
         </author>
     </entry>
 </feed>
