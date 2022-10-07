@@ -7255,6 +7255,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "TXrWbNwhebS5aGFwBCRrDi",
+          "author": "francisco.pires@outlook.com (Francisco Pires)",
+          "description": "Binance, one of the world's leading cryptocurrency exchanges that operates on its own blockchain, halted all transactions as soon as a hacker exploited its services to steal some $110 million.",
+          "link": "https://www.tomshardware.com/news/binance-hacked-crypto-theft",
+          "publishedOn": "2022-10-07T18:43:22.000Z",
+          "wordCount": 21940,
+          "title": "Binance Loses $110 Million In Latest High-Profile Crypto Hack",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/7T7K3fGxiXhFhwEVahsG4.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/7T7K3fGxiXhFhwEVahsG4.jpg"
+        },
+        {
           "id": "Q7XeKT2p7RxZNBCR7hnvfi",
           "author": null,
           "description": "Nvidia's RTX 4080 16GB has been seen overclocked to 3GHz while maintaining its default power limit of 320 watts. The GPU was also benchmarked in 3DMark TimeSpy and was faster than a overclocked RTX 3090 Ti by 13%.",
@@ -13913,6 +13928,16 @@
           "id": "https://www.sweclockers.com/artikel/35039",
           "author": null,
           "description": "Tävlingar, erbjudanden och roliga aktiviteter väntar när Komplett startar den fjärde upplagan av Swec-Bonanza. Denna gång med direktsändning från studion.",
+          "link": "https://www.sweclockers.com/artikel/35039-livestream-av-komplett-bonanza-live-pa-sweclockers",
+          "publishedOn": "2022-10-07T13:06:56.000Z",
+          "wordCount": 1649,
+          "title": "Livestream av Komplett Bonanza Live på SweClockers",
+          "imageUrl": "https://www.sweclockers.com/artikel/35039/og-image"
+        },
+        {
+          "id": "https://www.sweclockers.com/artikel/35039",
+          "author": null,
+          "description": "Tävlingar, erbjudanden och roliga aktiviteter väntar när Komplett startar den fjärde upplagan av Swec-Bonanza. Denna gång med direktsändning från studion.",
           "link": "https://www.sweclockers.com/artikel/35039-idag-1900-livestream-av-komplett-bonanza-live-pa-sweclockers",
           "publishedOn": "2022-10-07T13:06:56.000Z",
           "wordCount": 1665,
@@ -14826,6 +14851,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/07/biden_china_chips/",
+          "author": null,
+          "description": "<h4>So is this why YMTC's CEO stepped down?</h4> <p>Yangtze Memory Technologies Company (YMTC) is one of more than two dozen Chinese companies and institutions targeted in the Biden Administration’s latest round of export restrictions on semiconductor tech.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/07/biden_china_chips/",
+          "publishedOn": "2022-10-07T19:04:45.000Z",
+          "wordCount": 1428,
+          "title": "Biden cuts off China's Yangtze, 30 others from US chipmaking gear",
+          "imageUrl": "https://regmedia.co.uk/2021/03/04/china_tech_shutterstock.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/07/french_court_apple_penalty/",
           "author": null,
@@ -17415,16 +17450,6 @@
           "wordCount": 2553,
           "title": "This hero probe will smash into an asteroid to see if we can deflect future killer rocks",
           "imageUrl": "https://regmedia.co.uk/2022/09/23/dart_mission.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/24/systemd_windows_linux_microsoft/",
-          "author": null,
-          "description": "<h4>Has someone been Poettering about?</h4> <p>Linux distros running on Windows in a WSL2 virtual machine now can use the systemd init system.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/24/systemd_windows_linux_microsoft/",
-          "publishedOn": "2022-09-24T07:14:11.000Z",
-          "wordCount": 1231,
-          "title": "A match made in heaven: systemd comes to Windows Subsystem for Linux",
-          "imageUrl": "https://regmedia.co.uk/2015/05/07/lennart_poettering.jpg"
         }
       ]
     }

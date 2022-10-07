@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-07T18:36:36.208Z</updated>
+    <updated>2022-10-07T19:25:05.274Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Biden cuts off China's Yangtze, 30 others from US chipmaking gear]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/07/biden_china_chips/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/07/biden_china_chips/"/>
+        <updated>2022-10-07T19:04:45.000Z</updated>
+        <summary type="html"><![CDATA[<h4>So is this why YMTC's CEO stepped down?</h4> <p>Yangtze Memory Technologies Company (YMTC) is one of more than two dozen Chinese companies and institutions targeted in the Biden Administration’s latest round of export restrictions on semiconductor tech.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Binance Loses $110 Million In Latest High-Profile Crypto Hack]]></title>
+        <id>TXrWbNwhebS5aGFwBCRrDi</id>
+        <link href="https://www.tomshardware.com/news/binance-hacked-crypto-theft"/>
+        <updated>2022-10-07T18:43:22.000Z</updated>
+        <summary type="html"><![CDATA[Binance, one of the world's leading cryptocurrency exchanges that operates on its own blockchain, halted all transactions as soon as a hacker exploited its services to steal some $110 million.]]></summary>
+        <author>
+            <name>francisco.pires@outlook.com (Francisco Pires)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[French court slashes Apple's €1.1b fine to pocket change]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/07/french_court_apple_penalty/</id>
@@ -788,6 +808,16 @@ Squad Blast is a team-based competitive shooter, where you and your partner set 
         <summary type="html"><![CDATA[Berätta om dina största inspirationer.]]></summary>
         <author>
             <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Livestream av Komplett Bonanza Live på SweClockers]]></title>
+        <id>https://www.sweclockers.com/artikel/35039</id>
+        <link href="https://www.sweclockers.com/artikel/35039-livestream-av-komplett-bonanza-live-pa-sweclockers"/>
+        <updated>2022-10-07T13:06:56.000Z</updated>
+        <summary type="html"><![CDATA[Tävlingar, erbjudanden och roliga aktiviteter väntar när Komplett startar den fjärde upplagan av Swec-Bonanza. Denna gång med direktsändning från studion.]]></summary>
+        <author>
+            <name>SweClockers</name>
         </author>
     </entry>
     <entry>
@@ -19591,16 +19621,6 @@ It is a boost universally acknowledged, then: jetpacks rule. They have ruled sin
 Read more]]></summary>
         <author>
             <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A match made in heaven: systemd comes to Windows Subsystem for Linux]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/24/systemd_windows_linux_microsoft/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/24/systemd_windows_linux_microsoft/"/>
-        <updated>2022-09-24T07:14:11.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Has someone been Poettering about?</h4> <p>Linux distros running on Windows in a WSL2 virtual machine now can use the systemd init system.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
