@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-07T05:39:36.121Z</updated>
+    <updated>2022-10-07T06:40:14.453Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[He's only gone and done it. Ex-Register vulture elected to board of .uk registry]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/07/nominet_dirrector_election_register/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/07/nominet_dirrector_election_register/"/>
+        <updated>2022-10-07T06:24:13.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Kieren's here to chew gum and kick some Nominet ass. And he's all out of gum</h4> <p>Former Register journo Kieren McCarthy was this week elected to the board of Nominet, the domain registry in charge of the .uk name space.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Top of the Pops: US authorities list the 20 hottest vulns that China's hackers love to hit]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/07/us_spooks_reckon_these_are/</id>
@@ -18414,76 +18424,6 @@ The standard lisp if function allows you to write:
  (if (= 1 a) (print "a == 1") (prin…]]></summary>
         <author>
             <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel's Core i9-13900K Leads Single-Thread Performance Rankings]]></title>
-        <id>Ejgfgfw8DMLLeE9NL2zDug</id>
-        <link href="https://www.tomshardware.com/news/intel-core-i9-13900k-leads-single-thread-passmark-rankings"/>
-        <updated>2022-09-23T18:39:56.000Z</updated>
-        <summary type="html"><![CDATA[Raptor shows its teeth: Core i9-13900K tops PassMark's single-thread CPU performance rankings.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fitbit users will have to sign into Google from 2023]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/23/fitbit_accounts_to_be_replaced/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/23/fitbit_accounts_to_be_replaced/"/>
-        <updated>2022-09-23T18:36:09.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Even those with older devices will have to sign in if they want to activate new features</h4> <p>As part of its takeover of Fitbit, Google will begin requiring customers to use Google accounts to manage their fitness-tracking devices, reigniting privacy concerns over the acquisition in 2019.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fredagsrys! Groteska miljöer och gruvliga pussel i Scorn]]></title>
-        <id>https://www.fz.se/artikel/291569</id>
-        <link href="https://www.fz.se/artikel/291569-fredagsrys-groteska-miljoer-och-gruvliga-pussel-i-scorn"/>
-        <updated>2022-09-23T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Åtta minuter från prologen.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia Reveals Ada Lovelace GPU Secrets: Extreme Transistor Counts at High Clocks]]></title>
-        <id>w6ormcGFF8NpEipmTiEo5G</id>
-        <link href="https://www.tomshardware.com/news/nvidia-reveals-secrets-of-ada-lovelace-gpus"/>
-        <updated>2022-09-23T18:28:06.000Z</updated>
-        <summary type="html"><![CDATA[Nvidia revealed the official transistor counts and die sizes of the new RTX 4090 and 4080 AD102, AD103, AD104 GPUs.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Users Complain of GeForce Issues After 22H2 Feature Update]]></title>
-        <id>FuJvnxssWazwTSYAQExTQ6</id>
-        <link href="https://www.tomshardware.com/news/windows_11_22H2_nvidia_GPU_woes"/>
-        <updated>2022-09-23T18:16:12.000Z</updated>
-        <summary type="html"><![CDATA[Nvidia is investigating the complaints of users across its forums, on Reddit, and on the Tom’s Hardware forums too. There are workaround but we hope a patch or hotfix is delivered ASAP.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How 3 hours of inaction from Amazon cost cryptocurrency holders $235,000]]></title>
-        <id>https://arstechnica.com/?p=1884070</id>
-        <link href="https://arstechnica.com/?p=1884070"/>
-        <updated>2022-09-23T18:04:11.000Z</updated>
-        <summary type="html"><![CDATA[For 2nd time in 4 years, Amazon loses control of its IP space in BGP hijacking.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starlink is getting a lot slower as more people use it, speed tests show]]></title>
-        <id>https://arstechnica.com/?p=1884083</id>
-        <link href="https://arstechnica.com/?p=1884083"/>
-        <updated>2022-09-23T17:57:20.000Z</updated>
-        <summary type="html"><![CDATA[Starlink capacity limits hit users—SpaceX says more satellites will make it faster.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
         </author>
     </entry>
 </feed>
