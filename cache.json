@@ -4651,6 +4651,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Plasma-5.27-Last-5-Release",
+          "author": null,
+          "description": "With Qt 6 porting and KDE Frameworks 6 development continuing at full-speed, KDE developers are looking at Plasma 5.27 being the last feature release in the Plasma 5 series...",
+          "link": "https://www.phoronix.com/news/Plasma-5.27-Last-5-Release",
+          "publishedOn": "2022-10-08T17:43:53.000Z",
+          "wordCount": 1459,
+          "title": "KDE Plasma 5.27 Planning To Be The Last Plasma 5 Feature Release",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/WineConf-2022-Highlights",
           "author": null,
           "description": "Taking place this week alongside the X.Org Developers Conference (XDC 2022) was WineConf as the annual gathering of Wine developers. CodeWeavers organized the co-hosted events in Minneapolis and during WineConf were two days of interesting talks for enjoying Windows games/applications on Linux and macOS...",
@@ -7324,6 +7334,36 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "SYGzXrKfWtaSf7wfmC5q9d",
+          "author": null,
+          "description": "Leaked screenshots allegedly show the GeForce RTX 4090's peak power consumption.",
+          "link": "https://www.tomshardware.com/news/geforce-rtx-4090-reportedly-peaks-at-493w-to-hit-31-ghz",
+          "publishedOn": "2022-10-08T17:51:45.000Z",
+          "wordCount": 24508,
+          "title": "GeForce RTX 4090 Reportedly Peaks at 493W to Hit 3.1 GHz",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/UraYH9XLLqwVSFCGnhkU66.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/UraYH9XLLqwVSFCGnhkU66.jpg"
+        },
+        {
+          "id": "bNAZT97frXwf9HtPN6pjJN",
+          "author": null,
+          "description": "These are the best air and liquid/AIO CPU coolers for all consumer systems, from small form-factor builds to overclocked big rigs.",
+          "link": "https://www.tomshardware.com/reviews/best-cpu-coolers,4181.html",
+          "publishedOn": "2022-10-08T17:31:18.000Z",
+          "wordCount": 25428,
+          "title": "Best CPU Coolers 2022: AIO and Air Coolers",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/t9wwR4WiDnwdiMHRYBuqyB.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/t9wwR4WiDnwdiMHRYBuqyB.jpg"
+        },
         {
           "id": "cKpQiTUmDjnVH3WPceuVG3",
           "author": null,
@@ -10550,6 +10590,16 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1888412",
+          "author": "Jonathan M. Gitlin",
+          "description": "Rivian is the latest automaker to have to recall a big batch of electric vehicles.",
+          "link": "https://arstechnica.com/?p=1888412",
+          "publishedOn": "2022-10-08T16:20:28.000Z",
+          "wordCount": 1215,
+          "title": "Rivian recalls 12,212 EVs due to potentially loose suspension",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/rivian-in-a-field-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1888105",
           "author": "Knowable Magazine",
@@ -14025,6 +14075,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/35047",
+          "author": null,
+          "description": "Skruvmejsel och pappslöjd är Intels främsta verktyg för att skapa referensmodellen av Arc A770, som av Gamers Nexus pekas ut som onödigt komplex.",
+          "link": "https://www.sweclockers.com/artikel/35047-intel-arc-a770-konstruktionen-synas-i-sommarna",
+          "publishedOn": "2022-10-08T17:39:42.000Z",
+          "wordCount": 1807,
+          "title": "Intel Arc A770-konstruktionen synas i sömmarna",
+          "imageUrl": "https://www.sweclockers.com/artikel/35047/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/35033",
           "author": null,
           "description": "Återkommande modellnummer är en vanlig företeelse bland exempelvis grafikkort och processorer. Håller du dig alltid till en specifik siffra eller spelar det ingen roll?",
@@ -15001,6 +15061,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/08/in_brief_ai/",
+          "author": null,
+          "description": "<h4>Plus: US AI Bill of Rights, and a new framework to run models on AMD and Nvidia GPUs more flexibly</h4> <p><strong>In brief</strong>  America's Pacific Northwest National Laboratory is looking into how AI technologies can be used to create a \"Digital Police Officer\" or \"D-PO\" in the future.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/08/in_brief_ai/",
+          "publishedOn": "2022-10-08T18:01:07.000Z",
+          "wordCount": 1568,
+          "title": "Lab explores dystopian future of AI helping cops catch criminals",
+          "imageUrl": "https://regmedia.co.uk/2017/02/09/nypd.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/08/in_brief_security/",
           "author": null,
