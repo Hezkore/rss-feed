@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-08T06:34:27.137Z</updated>
+    <updated>2022-10-08T07:26:43.707Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
@@ -19478,20 +19478,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[This week saw the Intel Habana Labs AI accelerator driver updates submitted to char/misc ahead of the upcoming Linux 6.1 merge window...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ian Jackson: Please vote in favour of the Debian Social Contract change]]></title>
-        <id>tag:dreamwidth.org,2009-05-21:377446:12581</id>
-        <link href="https://diziet.dreamwidth.org/12581.html"/>
-        <updated>2022-09-24T19:08:19.000Z</updated>
-        <summary type="html"><![CDATA[tl;dr: Please vote in favour of the Debian Social Contract change, by ranking all of its options above None of the Above. Rank the SC change options above corresponding options that do not change the Social Contract.
-Vote to change the SC even if you think the change is not necessary for Debian to prominently/officially provide an installer with-nonfree-firmware.
-Why vote for SC change even if I think it’s not needed?
-I’m addressing myself primarily to the reader who agrees with me that Debian ought to be officially providing with-firmware images. I think it is very likely that the winning option will be one of the ones which asks for an official and prominent with-firmware installer.
-However, many who oppose this change believe that it would be a breach of Debian’s Social Contract. This i…]]></summary>
-        <author>
-            <name>Planet Debian</name>
         </author>
     </entry>
 </feed>
