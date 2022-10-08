@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-08T21:24:05.364Z</updated>
+    <updated>2022-10-08T22:26:28.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Call Of Duty: Modern Warfare 2's PC trailer brags of 4K and ultrawide support (and not much else)]]></title>
+        <id>https://www.rockpapershotgun.com/call-of-duty-modern-warfare-2s-pc-trailer-brags-of-4k-and-ultrawide-support-1</id>
+        <link href="https://www.rockpapershotgun.com/call-of-duty-modern-warfare-2s-pc-trailer-brags-of-4k-and-ultrawide-support-1"/>
+        <updated>2022-10-08T21:53:42.000Z</updated>
+        <summary type="html"><![CDATA[Modern Warfare 2's remake edges ever closer and the day after the launch trailer brings a dedicated PC trailer. It crows about, well, all the things my PC isn't powerful enough to run, frankly. 
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Valve showed a Nintendo Switch emulator in Steam Deck's library during recent video]]></title>
         <id>https://www.rockpapershotgun.com/valve-showed-a-nintendo-switch-emulator-in-steam-decks-library-during-recent-video</id>
@@ -19830,74 +19843,6 @@ Famiboards user MetalLord shared a screenshot of Murphy's LinkedIn page, a devel
 Read more]]></summary>
         <author>
             <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Were your teen years exhausting? School schedules may be why]]></title>
-        <id>https://arstechnica.com/?p=1884031</id>
-        <link href="https://arstechnica.com/?p=1884031"/>
-        <updated>2022-09-25T10:00:59.000Z</updated>
-        <summary type="html"><![CDATA[A new book traces how historical accidents left us pitting education against biology.]]></summary>
-        <author>
-            <name>John Timmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GNOME 43.1 To Support Wayland On The AMD-Xilinx Kria KR260]]></title>
-        <id>https://www.phoronix.com/news/GNOME-43.1-Xilinx-KR260</id>
-        <link href="https://www.phoronix.com/news/GNOME-43.1-Xilinx-KR260"/>
-        <updated>2022-09-25T09:55:05.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this year AMD-Xilinx announced a Linux-powered robotics starter kit making use of Xilinx's Kria KR26 SOM featuring a Zynq Ultrascale+ with four Cortex-A53 cores and Mali graphics. While robotics focused, there is a DisplayPort output and over the summer Canonical has been working to get this board playing nicely with a Wayland-powered GNOME desktop...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CPU Benchmarks and Hierarchy 2022: Processor Ranking Charts]]></title>
-        <id>V7teKs7ev9p3jsgMmVR9A</id>
-        <link href="https://www.tomshardware.com/reviews/cpu-hierarchy,4312.html"/>
-        <updated>2022-09-25T09:38:05.000Z</updated>
-        <summary type="html"><![CDATA[All of today's desktop CPU benchmarks compared, including Intel's 12th-Gen Core series and AMD's Ryzen Zen 3 and Threadripper.]]></summary>
-        <author>
-            <name>palcorn@outlook.com (Paul Alcorn)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Super Mario Bros. film gets its first trailer next month, and an April 2023 release date]]></title>
-        <id>https://www.vg247.com/mario-bros-film-first-trailer-release-date</id>
-        <link href="https://www.vg247.com/mario-bros-film-first-trailer-release-date"/>
-        <updated>2022-09-25T09:37:04.000Z</updated>
-        <summary type="html"><![CDATA[We're finally going to get our first taste of the Super Mario Bros. film next month, as a teaser trailer is planned to premiere at New York Comic Con.
-
-
-The official NYCC Twitter account announced earlier this week that the first teaser trailer for Nintendo and Illumination's Super Mario Bros. would be shown off at the convention, October 6, 4pm EST. It also finally confirmed a release date of April 7, 2023, as it had previously only been confirmed for a Spring release, after having been delayed from the holiday season this year.
-
-
-Paired with the announcement is a very simple poster showing the classic question mark block on a black background, providing an elegance that Mario is perhaps not deserving of. No other details were given about the teaser trailer, and the announcement certainly didn't mention if we're going to hear the voice of Mario himself, Chris Pratt. 
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generic EFI Compressed Boot Support Prepped Ahead Of Linux 6.1]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.1-Generic-EFI-Zboot</id>
-        <link href="https://www.phoronix.com/news/Linux-6.1-Generic-EFI-Zboot"/>
-        <updated>2022-09-25T09:32:38.000Z</updated>
-        <summary type="html"><![CDATA[Linux kernel developer Ard Biesheuvel has been working on a patch series implementing EFI generic compressed boot support that can be easily used by architectures like AArch64, LoongArch, and RISC-V...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia Issues Fix for Windows 11 22H2 Lag and Stuttering Bugs]]></title>
-        <id>vtxwXjWxVdn7esNLFd8q6X</id>
-        <link href="https://www.tomshardware.com/news/nvidia-issues-fix-for-windows-11-22h2-lag-and-stuttering-bugs"/>
-        <updated>2022-09-25T09:26:37.000Z</updated>
-        <summary type="html"><![CDATA[If the gaming issues annoy you right now, you can apply a GeForce Experience Beta update today. Otherwise, Nvidia promises a non-beta update with a new driver that will arrive during the coming week.]]></summary>
-        <author>
-            <name>Tomshardware</name>
         </author>
     </entry>
 </feed>
