@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-08T20:27:46.781Z</updated>
+    <updated>2022-10-08T21:24:05.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Valve showed a Nintendo Switch emulator in Steam Deck's library during recent video]]></title>
+        <id>https://www.rockpapershotgun.com/valve-showed-a-nintendo-switch-emulator-in-steam-decks-library-during-recent-video</id>
+        <link href="https://www.rockpapershotgun.com/valve-showed-a-nintendo-switch-emulator-in-steam-decks-library-during-recent-video"/>
+        <updated>2022-10-08T21:16:55.000Z</updated>
+        <summary type="html"><![CDATA[One of the things you can do with a Steam Deck is use it for emulation. Someone at Valve is evidently aware of this, given the recent Steam Deck video - which we wrote about two days ago - contained a shot of a Steam library with a Nintendo Switch emulator in it.
+
+Oops. Valve have since deleted and re-uploaded the video with the emulator removed.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 95 had special code just to fix a bug in the original SimCity]]></title>
+        <id>https://www.rockpapershotgun.com/windows-95-had-special-code-just-to-fix-a-bug-in-the-original-simcity</id>
+        <link href="https://www.rockpapershotgun.com/windows-95-had-special-code-just-to-fix-a-bug-in-the-original-simcity"/>
+        <updated>2022-10-08T20:42:24.000Z</updated>
+        <summary type="html"><![CDATA[It's easy to take backwards compatibility for granted on PC, so much so that we rarely even use the phrase "backwards compatibility". Most old games will simply run, and for everything else there's usually a compatibility mode built into Windows or DOSBox to get it going.
+
+This didn't happen by accident, as an old blog post by a former Microsoft programmer explains. When Microsoft wanted users to switch to Windows 95, for example, they went so far as to add specific code that looked for SimCity and, if it was running, changed how memory allocation worked so that the game wouldn't crash.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We’ll take it: Prime Video unveils brief sneak peek at Wheel of Time S2 at NYCC]]></title>
+        <id>https://arstechnica.com/?p=1888426</id>
+        <link href="https://arstechnica.com/?p=1888426"/>
+        <updated>2022-10-08T20:12:05.000Z</updated>
+        <summary type="html"><![CDATA["The only way to stop all this suffering is to stop the wheel itself."]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lab explores dystopian future of AI helping cops catch criminals]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/08/in_brief_ai/</id>
@@ -19858,66 +19898,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[If the gaming issues annoy you right now, you can apply a GeForce Experience Beta update today. Otherwise, Nvidia promises a non-beta update with a new driver that will arrive during the coming week.]]></summary>
         <author>
             <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shirish Agarwal: Rama II, Arthur C. Clarke, Aliens]]></title>
-        <id>http://flossexperiences.wordpress.com/?p=7536</id>
-        <link href="https://flossexperiences.wordpress.com/2022/09/25/rama-ii-arthur-c-clarke-aliens/"/>
-        <updated>2022-09-25T09:07:45.000Z</updated>
-        <summary type="html"><![CDATA[Rama II
-This would be more of a short post about the current book I am reading. Now people who have seen Arrival would probably be more at home. People who have also seen Avatar would also be familiar to the theme or concept I am sharing about. Now before I go into detail, it seems that Arthur C. Clarke wanted to use a powerful god or mythological character for the name and that is somehow the RAMA series started.
-Now the first book in the series explores an extraterrestrial spaceship that earth people see/connect with. The spaceship is going somewhere and is doing an Earth flyby so humans don’t have much time to explore the spaceship and it is difficult to figure out how the spaceship worked. The spaceship is around 40 km. long. They don’t meet any living Ramans but mostly automated syste…]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Söndagsmatiné: Automatisera Windows]]></title>
-        <id>https://www.sweclockers.com/artikel/34975</id>
-        <link href="https://www.sweclockers.com/artikel/34975-sondagsmatine-automatisera-windows"/>
-        <updated>2022-09-25T09:06:46.000Z</updated>
-        <summary type="html"><![CDATA[I mjugg har Microsoft utrustat Windows med automatiseringsverktyget Power Automate, som i veckans matiné får uppmärksamheten som programmet förtjänar.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How renting Story of Thor proved harder than finishing the actual game]]></title>
-        <id>https://www.eurogamer.net/how-renting-story-of-thor-proved-harder-than-finishing-the-actual-game</id>
-        <link href="https://www.eurogamer.net/how-renting-story-of-thor-proved-harder-than-finishing-the-actual-game"/>
-        <updated>2022-09-25T09:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Renting games as a kid was frequently the only way I could play many new games. I was lucky that I'd typically receive a game for my birthday and for Christmas, but the rest of the year, games were expensive and out of reach through any other method than renting. It was the 1990s and the idea of cheap digital downloads to stave off the lack of games seemed unfathomable. 
-
-
-The advantage to renting games is I had the opportunity to experience many more games than I ever would have risked asking for as a gift. The disadvantage? The competition involved in acquiring the game I was after.
-
-
-That was the case with not-quite-Zelda-clone-but-it-is-basically Story of Thor on the Mega Drive. In many ways, competing for a copy of Story of Thor, also known as Beyond Oasis, was harder than actually playing the game. My local Blockbuster (remember those? No? Oh) had two copies. It looked thrilling. It had one of those newer Mega Drive boxes that had a thick blue line down the side of it. On the one hand, that meant that the game would have superior graphics and other bits and pieces. On the other hand, that meant the Mega Drive was getting a bit long in the tooth and my days of owning the latest console were very numbered. To put it into context, in Europe, Story of Thor came out the same year as the PlayStation 1 launched. Change was coming. Fast.
- 
-Read more]]></summary>
-        <author>
-            <name>Jennifer Allen</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noberus ransomware gets info-stealing upgrades, targets Veeam backup software]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/25/noberus_ransomware_symantec/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/25/noberus_ransomware_symantec/"/>
-        <updated>2022-09-25T08:50:14.000Z</updated>
-        <summary type="html"><![CDATA[<h4>'One of the most dangerous and active malware developers operating at the moment'</h4> <p>Crooks spreading the Noberus ransomware are adding weapons to their malware to steal data and credentials from compromised networks.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Här är teasern för PC-versionen av Spider-Man: Miles Morales]]></title>
-        <id>https://www.fz.se/artikel/291574</id>
-        <link href="https://www.fz.se/artikel/291574-har-ar-teasern-for-pc-versionen-av-spider-man-miles-morales"/>
-        <updated>2022-09-25T08:42:10.000Z</updated>
-        <summary type="html"><![CDATA[I spindlarnas nät! Mer Spider-Man till PC i höst.]]></summary>
-        <author>
-            <name>FZ.se</name>
         </author>
     </entry>
 </feed>

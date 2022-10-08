@@ -3265,16 +3265,6 @@
           "wordCount": 5412,
           "title": "The legacy of shareware is everywhere",
           "imageUrl": "https://assets.reedpopcdn.com/sharewareheroes_book_title.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sharewareheroes_book_title.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/how-renting-story-of-thor-proved-harder-than-finishing-the-actual-game",
-          "author": "Jennifer Allen",
-          "description": "Renting games as a kid was frequently the only way I could play many new games. I was lucky that I'd typically receive a game for my birthday and for Christmas, but the rest of the year, games were expensive and out of reach through any other method than renting. It was the 1990s and the idea of cheap digital downloads to stave off the lack of games seemed unfathomable. \r\n\n\r\nThe advantage to renting games is I had the opportunity to experience many more games than I ever would have risked asking for as a gift. The disadvantage? The competition involved in acquiring the game I was after.\r\n\n\r\nThat was the case with not-quite-Zelda-clone-but-it-is-basically Story of Thor on the Mega Drive. In many ways, competing for a copy of Story of Thor, also known as Beyond Oasis, was harder than actually playing the game. My local Blockbuster (remember those? No? Oh) had two copies. It looked thrilling. It had one of those newer Mega Drive boxes that had a thick blue line down the side of it. On the one hand, that meant that the game would have superior graphics and other bits and pieces. On the other hand, that meant the Mega Drive was getting a bit long in the tooth and my days of owning the latest console were very numbered. To put it into context, in Europe, Story of Thor came out the same year as the PlayStation 1 launched. Change was coming. Fast.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/how-renting-story-of-thor-proved-harder-than-finishing-the-actual-game",
-          "publishedOn": "2022-09-25T09:00:00.000Z",
-          "wordCount": 5394,
-          "title": "How renting Story of Thor proved harder than finishing the actual game",
-          "imageUrl": "https://assets.reedpopcdn.com/Story-of-Thor-header-2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Story-of-Thor-header-2.jpg"
         }
       ]
     },
@@ -5947,6 +5937,26 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/valve-showed-a-nintendo-switch-emulator-in-steam-decks-library-during-recent-video",
+          "author": "Graham Smith",
+          "description": "One of the things you can do with a Steam Deck is use it for emulation. Someone at Valve is evidently aware of this, given the recent Steam Deck video - which we wrote about two days ago - contained a shot of a Steam library with a Nintendo Switch emulator in it.\r\n\nOops. Valve have since deleted and re-uploaded the video with the emulator removed.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/valve-showed-a-nintendo-switch-emulator-in-steam-decks-library-during-recent-video",
+          "publishedOn": "2022-10-08T21:16:55.000Z",
+          "wordCount": 4712,
+          "title": "Valve showed a Nintendo Switch emulator in Steam Deck's library during recent video",
+          "imageUrl": "https://assets2.rockpapershotgun.com/steam-deck-emulator.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/steam-deck-emulator.jpg"
+        },
+        {
+          "id": "https://www.rockpapershotgun.com/windows-95-had-special-code-just-to-fix-a-bug-in-the-original-simcity",
+          "author": "Graham Smith",
+          "description": "It's easy to take backwards compatibility for granted on PC, so much so that we rarely even use the phrase \"backwards compatibility\". Most old games will simply run, and for everything else there's usually a compatibility mode built into Windows or DOSBox to get it going.\r\n\nThis didn't happen by accident, as an old blog post by a former Microsoft programmer explains. When Microsoft wanted users to switch to Windows 95, for example, they went so far as to add specific code that looked for SimCity and, if it was running, changed how memory allocation worked so that the game wouldn't crash.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/windows-95-had-special-code-just-to-fix-a-bug-in-the-original-simcity",
+          "publishedOn": "2022-10-08T20:42:24.000Z",
+          "wordCount": 4973,
+          "title": "Windows 95 had special code just to fix a bug in the original SimCity",
+          "imageUrl": "https://assets2.rockpapershotgun.com/simcity-1_xU684Tc.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/simcity-1_xU684Tc.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-210",
           "author": "Alice O'Connor",
@@ -10495,16 +10505,6 @@
           "wordCount": 12173,
           "title": "Sergio Talens-Oliag: Kubernetes Static Content Server",
           "imageUrl": null
-        },
-        {
-          "id": "http://flossexperiences.wordpress.com/?p=7536",
-          "author": null,
-          "description": "Rama II\nThis would be more of a short post about the current book I am reading. Now people who have seen Arrival would probably be more at home. People who have also seen Avatar would also be familiar to the theme or concept I am sharing about. Now before I go into detail, it seems that Arthur C. Clarke wanted to use a powerful god or mythological character for the name and that is somehow the RAMA series started.\nNow the first book in the series explores an extraterrestrial spaceship that earth people see/connect with. The spaceship is going somewhere and is doing an Earth flyby so humans don’t have much time to explore the spaceship and it is difficult to figure out how the spaceship worked. The spaceship is around 40 km. long. They don’t meet any living Ramans but mostly automated syste…",
-          "link": "https://flossexperiences.wordpress.com/2022/09/25/rama-ii-arthur-c-clarke-aliens/",
-          "publishedOn": "2022-09-25T09:07:45.000Z",
-          "wordCount": 5066,
-          "title": "Shirish Agarwal: Rama II, Arthur C. Clarke, Aliens",
-          "imageUrl": "https://s0.wp.com/i/blank.jpg"
         }
       ]
     },
@@ -10580,6 +10580,16 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1888426",
+          "author": "Jennifer Ouellette",
+          "description": "\"The only way to stop all this suffering is to stop the wheel itself.\"",
+          "link": "https://arstechnica.com/?p=1888426",
+          "publishedOn": "2022-10-08T20:12:05.000Z",
+          "wordCount": 1796,
+          "title": "We’ll take it: Prime Video unveils brief sneak peek at Wheel of Time S2 at NYCC",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/wheel2-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1888412",
           "author": "Jonathan M. Gitlin",
@@ -14046,16 +14056,6 @@
           "wordCount": 1762,
           "title": "Mortal Kombat-skaparen berättar om hur han kom på den ikoniska drakloggan",
           "imageUrl": "https://www.fz.se/artikel/og-image/291575"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291574",
-          "author": null,
-          "description": "I spindlarnas nät! Mer Spider-Man till PC i höst.",
-          "link": "https://www.fz.se/artikel/291574-har-ar-teasern-for-pc-versionen-av-spider-man-miles-morales",
-          "publishedOn": "2022-09-25T08:42:10.000Z",
-          "wordCount": 1816,
-          "title": "Här är teasern för PC-versionen av Spider-Man: Miles Morales",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291574"
         }
       ]
     },
@@ -14723,16 +14723,6 @@
           "wordCount": 1853,
           "title": "Zotacs 12VHPWR-adapter har livslängd om 30 anslutningar",
           "imageUrl": "https://www.sweclockers.com/artikel/34974/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34975",
-          "author": null,
-          "description": "I mjugg har Microsoft utrustat Windows med automatiseringsverktyget Power Automate, som i veckans matiné får uppmärksamheten som programmet förtjänar.",
-          "link": "https://www.sweclockers.com/artikel/34975-sondagsmatine-automatisera-windows",
-          "publishedOn": "2022-09-25T09:06:46.000Z",
-          "wordCount": 1505,
-          "title": "Söndagsmatiné: Automatisera Windows",
-          "imageUrl": "https://www.sweclockers.com/artikel/34975/og-image"
         }
       ]
     },
@@ -17670,16 +17660,6 @@
           "wordCount": 2477,
           "title": "India seeks verified IDs to register email accounts",
           "imageUrl": "https://regmedia.co.uk/2021/08/19/shutterstock_satellite_over_asia.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/25/noberus_ransomware_symantec/",
-          "author": null,
-          "description": "<h4>'One of the most dangerous and active malware developers operating at the moment'</h4> <p>Crooks spreading the Noberus ransomware are adding weapons to their malware to steal data and credentials from compromised networks.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/25/noberus_ransomware_symantec/",
-          "publishedOn": "2022-09-25T08:50:14.000Z",
-          "wordCount": 1481,
-          "title": "Noberus ransomware gets info-stealing upgrades, targets Veeam backup software",
-          "imageUrl": "https://regmedia.co.uk/2016/08/12/ransomware.jpg"
         }
       ]
     }
