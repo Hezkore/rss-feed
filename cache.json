@@ -12,6 +12,16 @@
       "siteUrl": "https://itsfoss.com",
       "articles": [
         {
+          "id": "https://itsfoss.com/?p=100970",
+          "author": "Pratham Patel",
+          "description": "Using VNC could also be a good choice if you need the comfort of the GUI to connect to Raspberry Pi remotely. Learn how to setup VNC on Raspberry Pi for remote connections.",
+          "link": "https://itsfoss.com/vnc-raspberry-pi/",
+          "publishedOn": "2022-10-08T05:56:29.000Z",
+          "wordCount": 7418,
+          "title": "How to Use Raspberry Pi via VNC",
+          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/08/install-vnc-on-raspberry-pi.png"
+        },
+        {
           "id": "https://itsfoss.com/?p=102484",
           "author": "sreenath",
           "description": "VMWare gives an easy option to try and use Linux inside Windows. This article covers a step-by-step guide on installing Ubuntu inside VMWare in Windows.",
@@ -5749,16 +5759,6 @@
           "wordCount": 1331,
           "title": "Intel Habana Labs AI Driver Updates Readied For Linux 6.1",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Java-Native-Wayland-Progress",
-          "author": null,
-          "description": "OpenJDK/Java has been making progress on implementing native \"pure\" Wayland toolkit integration not dependent upon X.Org/X11 or XWayland for rendering of Java GUI applications...",
-          "link": "https://www.phoronix.com/news/Java-Native-Wayland-Progress",
-          "publishedOn": "2022-09-24T18:21:17.000Z",
-          "wordCount": 1294,
-          "title": "OpenJDK Java's Native Wayland Support Progressing",
-          "imageUrl": null
         }
       ]
     },
@@ -9933,21 +9933,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/MzeGySVo35qz77fVWeivVL.jpg"
-        },
-        {
-          "id": "zcWrF37k5jEsqRjkBtXLPh",
-          "author": null,
-          "description": "The upcoming Core i3-13100, i5-13400, and i9-13900 have passed through this sysinfo tool. It collected some specs, but the only standard benchmark was the iGPU.",
-          "link": "https://www.tomshardware.com/news/intel-raptor-lake-non-k-cpus-show-up-in-new-benchmarks",
-          "publishedOn": "2022-09-24T17:53:11.000Z",
-          "wordCount": 21631,
-          "title": "Intel Raptor Lake Non-K CPUs Show Up In New Benchmarks",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/uhhP2p3XMAUtrNnSqC8QDU.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/uhhP2p3XMAUtrNnSqC8QDU.png"
         }
       ]
     },
@@ -14474,6 +14459,16 @@
       "feedUrl": "https://explosm.net/rss.xml",
       "siteUrl": "https://explosm.net",
       "articles": [
+        {
+          "id": "https://explosm.net/comics/hair",
+          "author": null,
+          "description": "New Cyanide and Happiness Comic",
+          "link": "https://explosm.net/comics/hair",
+          "publishedOn": "2022-10-08T00:00:27.000Z",
+          "wordCount": 638,
+          "title": "Comic for 2022.10.08 - Hair",
+          "imageUrl": null
+        },
         {
           "id": "https://explosm.net/comics/funny-bone",
           "author": null,
