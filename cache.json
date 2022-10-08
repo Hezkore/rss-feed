@@ -130,6 +130,26 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/10/jsaux-wasted-no-time-with-a-new-steam-deck-docking-station-with-displayport/",
+          "author": "Liam Dawe",
+          "description": "Find the new official Steam Deck Docking Station too expensive? Perhaps you might like to take another look at JSAUX, as they've announced another upgraded Docking Station.",
+          "link": "https://www.gamingonlinux.com/2022/10/jsaux-wasted-no-time-with-a-new-steam-deck-docking-station-with-displayport/",
+          "publishedOn": "2022-10-08T09:57:42.000Z",
+          "wordCount": 1277,
+          "title": "JSAUX wasted no time with a new Steam Deck Docking Station with DisplayPort",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1943303474id21713gol.jpg"
+        },
+        {
+          "id": "https://www.gamingonlinux.com/2022/10/a-few-more-picks-from-steam-next-fest/",
+          "author": "anewson",
+          "description": "Steam Next Fest is in full swing, and earlier this week we put out some recommendations. Here are a few more games that run great via Proton on Linux to take a look at this month: Cosmoteer, Dredge, and Potionomics.",
+          "link": "https://www.gamingonlinux.com/2022/10/a-few-more-picks-from-steam-next-fest/",
+          "publishedOn": "2022-10-08T09:45:15.000Z",
+          "wordCount": 1562,
+          "title": "A few more picks from Steam Next Fest",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/548855625id21712gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/10/the-undead-are-invading-prison-architect-in-the-next-expansion/",
           "author": "Liam Dawe",
           "description": "Prison Architect - Undead is the next expansion to the building and management sim, with things about to get spooky.",
@@ -4511,6 +4531,36 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-6.1-HID",
+          "author": null,
+          "description": "The HID subsystem updates have been submitted for the ongoing linux 6.1 merge window of which there are several notable driver additions for bettering the hardware support on several fronts...",
+          "link": "https://www.phoronix.com/news/Linux-6.1-HID",
+          "publishedOn": "2022-10-08T10:13:51.000Z",
+          "wordCount": 1414,
+          "title": "Linux 6.1 To Better Handle \"Cheap Clone\" Nintendo Controller Knockoffs",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/OpenChrome-DRM-XDC-2022",
+          "author": null,
+          "description": "The OpenChrome DRM driver has been in development for over a decade for providing open-source display driver support for VIA's aging x86 chipsets. For years now OpenChrome development has been down to one developer left on the project, Kevin Brace, and months ago he hoped to get the driver finally merged into the Linux kernel. He still holds out on those ambitions but will first aim to get basic acceleration working with a stable user-space API/ABI before mainlining...",
+          "link": "https://www.phoronix.com/news/OpenChrome-DRM-XDC-2022",
+          "publishedOn": "2022-10-08T09:57:18.000Z",
+          "wordCount": 1430,
+          "title": "Open-Source VIA Linux Driver Still Wants To Be Merged, But Pursuing Acceleration First",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/KDE-Welcomes-Ghostwriter",
+          "author": null,
+          "description": "KDE developer Nate Graham is out with his usual weekly development summary concerning all of the progress made to the open-source desktop over the past two weeks. This status update actually covers the past two weeks due to last weekend being preoccupied with the annual KDE Akademy developer conference...",
+          "link": "https://www.phoronix.com/news/KDE-Welcomes-Ghostwriter",
+          "publishedOn": "2022-10-08T09:25:36.000Z",
+          "wordCount": 1343,
+          "title": "KDE Welcomes Ghostwriter To Its Collection Of Apps",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/systemd-252-rc1",
           "author": null,
           "description": "Systemd 252-rc1 is out as the first test candidate ahead of this next big feature release for this dominant Linux init systemd. Systemd 252 has been working on a new \"systemd-measure\" tool and a wide variety of other changes...",
@@ -7126,16 +7176,6 @@
           "wordCount": 5189,
           "title": "Screenshot Saturday Mondays: skeleton wrestling and squirrel muggings",
           "imageUrl": "https://assets2.rockpapershotgun.com/echstasis-screenshot-saturday.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/echstasis-screenshot-saturday.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/pubg-devs-are-making-a-game-based-on-korean-fantasy-epic-the-bird-that-drinks-tears",
-          "author": "Graham Smith",
-          "description": "Krafton, Korean publishers PlayerUnknown's Battlegrounds, have released a \"visual concept trailer\" for a new game based on Korean epic fantasy novels The Bird That Drinks Tears. They're still describing the game as \"unannounced\", but say that the trailer illustrates the \"mystical tone\" they're aiming for. \r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/pubg-devs-are-making-a-game-based-on-korean-fantasy-epic-the-bird-that-drinks-tears",
-          "publishedOn": "2022-09-24T21:46:20.000Z",
-          "wordCount": 4824,
-          "title": "PUBG devs are making a game based on Korean fantasy epic The Bird That Drinks Tears",
-          "imageUrl": "https://assets2.rockpapershotgun.com/the-bird-that-drinks-tears.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/the-bird-that-drinks-tears.jpg"
         }
       ]
     },

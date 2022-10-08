@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-08T09:27:36.955Z</updated>
+    <updated>2022-10-08T10:28:38.168Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.1 To Better Handle "Cheap Clone" Nintendo Controller Knockoffs]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-HID</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-HID"/>
+        <updated>2022-10-08T10:13:51.000Z</updated>
+        <summary type="html"><![CDATA[The HID subsystem updates have been submitted for the ongoing linux 6.1 merge window of which there are several notable driver additions for bettering the hardware support on several fronts...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JSAUX wasted no time with a new Steam Deck Docking Station with DisplayPort]]></title>
+        <id>https://www.gamingonlinux.com/2022/10/jsaux-wasted-no-time-with-a-new-steam-deck-docking-station-with-displayport/</id>
+        <link href="https://www.gamingonlinux.com/2022/10/jsaux-wasted-no-time-with-a-new-steam-deck-docking-station-with-displayport/"/>
+        <updated>2022-10-08T09:57:42.000Z</updated>
+        <summary type="html"><![CDATA[Find the new official Steam Deck Docking Station too expensive? Perhaps you might like to take another look at JSAUX, as they've announced another upgraded Docking Station.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open-Source VIA Linux Driver Still Wants To Be Merged, But Pursuing Acceleration First]]></title>
+        <id>https://www.phoronix.com/news/OpenChrome-DRM-XDC-2022</id>
+        <link href="https://www.phoronix.com/news/OpenChrome-DRM-XDC-2022"/>
+        <updated>2022-10-08T09:57:18.000Z</updated>
+        <summary type="html"><![CDATA[The OpenChrome DRM driver has been in development for over a decade for providing open-source display driver support for VIA's aging x86 chipsets. For years now OpenChrome development has been down to one developer left on the project, Kevin Brace, and months ago he hoped to get the driver finally merged into the Linux kernel. He still holds out on those ambitions but will first aim to get basic acceleration working with a stable user-space API/ABI before mainlining...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A few more picks from Steam Next Fest]]></title>
+        <id>https://www.gamingonlinux.com/2022/10/a-few-more-picks-from-steam-next-fest/</id>
+        <link href="https://www.gamingonlinux.com/2022/10/a-few-more-picks-from-steam-next-fest/"/>
+        <updated>2022-10-08T09:45:15.000Z</updated>
+        <summary type="html"><![CDATA[Steam Next Fest is in full swing, and earlier this week we put out some recommendations. Here are a few more games that run great via Proton on Linux to take a look at this month: Cosmoteer, Dredge, and Potionomics.]]></summary>
+        <author>
+            <name>anewson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KDE Welcomes Ghostwriter To Its Collection Of Apps]]></title>
+        <id>https://www.phoronix.com/news/KDE-Welcomes-Ghostwriter</id>
+        <link href="https://www.phoronix.com/news/KDE-Welcomes-Ghostwriter"/>
+        <updated>2022-10-08T09:25:36.000Z</updated>
+        <summary type="html"><![CDATA[KDE developer Nate Graham is out with his usual weekly development summary concerning all of the progress made to the open-source desktop over the past two weeks. This status update actually covers the past two weeks due to last weekend being preoccupied with the annual KDE Akademy developer conference...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How I became an Elden Ring detective]]></title>
         <id>https://www.eurogamer.net/how-i-became-an-elden-ring-detective</id>
@@ -19448,19 +19498,6 @@ Why exactly CD Projekt's sci-fi spectacular was the subject of such ire when it 
         <summary type="html"><![CDATA[How can you check your CPU's temperature and what's a good or normal range? We break it down for you.]]></summary>
         <author>
             <name>palcorn@outlook.com (Paul Alcorn)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PUBG devs are making a game based on Korean fantasy epic The Bird That Drinks Tears]]></title>
-        <id>https://www.rockpapershotgun.com/pubg-devs-are-making-a-game-based-on-korean-fantasy-epic-the-bird-that-drinks-tears</id>
-        <link href="https://www.rockpapershotgun.com/pubg-devs-are-making-a-game-based-on-korean-fantasy-epic-the-bird-that-drinks-tears"/>
-        <updated>2022-09-24T21:46:20.000Z</updated>
-        <summary type="html"><![CDATA[Krafton, Korean publishers PlayerUnknown's Battlegrounds, have released a "visual concept trailer" for a new game based on Korean epic fantasy novels The Bird That Drinks Tears. They're still describing the game as "unannounced", but say that the trailer illustrates the "mystical tone" they're aiming for. 
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
         </author>
     </entry>
 </feed>
