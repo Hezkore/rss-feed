@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-08T04:01:33.301Z</updated>
+    <updated>2022-10-08T05:34:52.388Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel's Alder Lake BIOS Source Code Reportedly Leaked Online]]></title>
+        <id>Y8z3fYy5kw6vaedWGugJ3g</id>
+        <link href="https://www.tomshardware.com/news/intels-alder-lake-bios-source-code-reportedly-leaked-online"/>
+        <updated>2022-10-08T04:27:15.000Z</updated>
+        <summary type="html"><![CDATA[A 6GB file on GitHub purportedly contains the source code for Intel's Alder Lake BIOS.]]></summary>
+        <author>
+            <name>palcorn@outlook.com (Paul Alcorn)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Untitled]]></title>
         <id>https://shencomix.tumblr.com/post/697509340876324864</id>
@@ -19482,78 +19492,6 @@ However, many who oppose this change believe that it would be a breach of Debian
         <summary type="html"><![CDATA[The upcoming Core i3-13100, i5-13400, and i9-13900 have passed through this sysinfo tool. It collected some specs, but the only standard benchmark was the iGPU.]]></summary>
         <author>
             <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 16 review: Customization unlocked]]></title>
-        <id>https://arstechnica.com/?p=1884255</id>
-        <link href="https://arstechnica.com/?p=1884255"/>
-        <updated>2022-09-24T17:28:59.000Z</updated>
-        <summary type="html"><![CDATA[The lock screen gets a major overhaul.]]></summary>
-        <author>
-            <name>Samuel Axon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best RAM for Gaming: DDR4, DDR5 Kits for 2022]]></title>
-        <id>5XV3Do5jG5CB2guNopbqW3</id>
-        <link href="https://www.tomshardware.com/reviews/best-ram,4057.html"/>
-        <updated>2022-09-24T16:57:59.000Z</updated>
-        <summary type="html"><![CDATA[Here are the best RAM kits we’ve tested: computer memory ideal for gaming, video editing, and graphics-heavy applications.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TeamGroup's Speedy DDR5-7200 C34 RAM Hits Retail For $350]]></title>
-        <id>93T6RR45hmEUUAGgHrhr9J</id>
-        <link href="https://www.tomshardware.com/news/teamgroups-speedy-ddr5-7200-c34-ram-hits-retail-for-dollar350"/>
-        <updated>2022-09-24T16:34:24.000Z</updated>
-        <summary type="html"><![CDATA[The TeamGroup T-Force Delta RGB 32GB DDR5-7200 memory kit is available on Newegg for $349.99.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PUBG dev shares "concept trailer" for its game based upon the Korean novel, The Bird That Drinks Tears]]></title>
-        <id>https://www.eurogamer.net/pubg-dev-shares-concept-trailer-for-its-game-based-upon-the-korean-novel-the-bird-that-drinks-tears</id>
-        <link href="https://www.eurogamer.net/pubg-dev-shares-concept-trailer-for-its-game-based-upon-the-korean-novel-the-bird-that-drinks-tears"/>
-        <updated>2022-09-24T16:27:43.000Z</updated>
-        <summary type="html"><![CDATA[PUBG developer Krafton has released a new visual teaser for its unannounced project based upon the Korean fantasy novel, The Bird That Drinks Tears.
-
-The developer says the trailer "illustrates" what audiences can expect from future entertainment projects based on the IP" as well as "guide the aesthetic and tonal directions of various multimedia projects based on The Bird That Drinks Tears, including a graphic novel and motion picture".
-
-"The visual concept trailer was created using Unreal Engine 5 and highlights the mystical tone Krafton is aiming for with entertainment projects based on The Bird That Drinks Tears," explains Krafton. 
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ryzen 9 7950X Soars To 6.5 GHz, Shattering Two CPU Records]]></title>
-        <id>FXEKAMVAQryNRTkbwBp9BY</id>
-        <link href="https://www.tomshardware.com/news/ryzen-9-7950x-soars-to-65-ghz-shattering-two-cpu-records"/>
-        <updated>2022-09-24T16:20:34.000Z</updated>
-        <summary type="html"><![CDATA[AMD’s Ryzen 7000 ‘Raphael’ processors continue to show their prowess in pre-release benchmark feats This time they grab 15%+ better scores than their nearest rivals with LN2 cooling.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sega's Brian Ayers dies "after a short illness"]]></title>
-        <id>https://www.eurogamer.net/segas-brian-ayers-dies-after-a-short-illness</id>
-        <link href="https://www.eurogamer.net/segas-brian-ayers-dies-after-a-short-illness"/>
-        <updated>2022-09-24T16:07:44.000Z</updated>
-        <summary type="html"><![CDATA[Sega Europe's Brian Ayers has died at the age of 42.
-
-His colleague, Ryan King, broke the news on Twitter earlier today, and linked to a crowdfund campaign that confirmed Ayers had died yesterday, 23rd September, "after a short illness". 
-
-"Devastated that we've lost @Kaaaaneda who was truly the best of us - warm, funny, brilliant, a huge loss to us all," King tweeted. "Games industry, please share this link far and wide xxx"
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
         </author>
     </entry>
 </feed>
