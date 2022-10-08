@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-08T07:26:43.707Z</updated>
+    <updated>2022-10-08T08:33:47.537Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Make your neighbor think their house is haunted by blinking their Ikea smart bulbs]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/08/buggy_ikea_smart_bulbs/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/08/buggy_ikea_smart_bulbs/"/>
+        <updated>2022-10-08T08:08:12.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Radio comms vulnerabilities detailed</h4> <p>A couple of vulnerabilities in Ikea smart lighting systems can be exploited to make lights annoyingly flicker for hours.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What are we all playing this weekend?]]></title>
+        <id>https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-210</id>
+        <link href="https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-210"/>
+        <updated>2022-10-08T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I've not yet started my spooky celebrations but I am enjoying seeing other people get into the spirit. What else are going to do in a rainy early October? Do tell me if you have good ghoulish plans, reader dear. Oh! And while you're at it, what are you playing this weekend? Here's what we're clicking on!
+Read more]]></summary>
+        <author>
+            <name>Alice O'Connor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deathloop och Dishonored är kopplade till varandra]]></title>
+        <id>https://www.fz.se/artikel/291723</id>
+        <link href="https://www.fz.se/artikel/291723-deathloop-och-dishonored-ar-kopplade-till-varandra"/>
+        <updated>2022-10-08T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bethesda multiverse.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Use Raspberry Pi via VNC]]></title>
         <id>https://itsfoss.com/?p=100970</id>
@@ -19438,46 +19469,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diablo 2 Resurrected's latest patch introduces Terror Zones]]></title>
-        <id>https://www.rockpapershotgun.com/diablo-2-resurrecteds-latest-patch-introduces-terror-zones</id>
-        <link href="https://www.rockpapershotgun.com/diablo-2-resurrecteds-latest-patch-introduces-terror-zones"/>
-        <updated>2022-09-24T20:22:43.000Z</updated>
-        <summary type="html"><![CDATA["Terror Zones" sounds like a Stephen King TV show from the early '00s, but it's not. They're a new feature added to Diablo 2: Resurrected in the just-released patch 2.5, which is designed to make the game a little harder and more interesting for those players hack-and-slashing their way to level 99 over and over again.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call of Duty: Modern Warfare 2's beta already beset by cheaters]]></title>
-        <id>https://www.eurogamer.net/call-of-duty-modern-warfare-2s-beta-already-beset-by-cheaters</id>
-        <link href="https://www.eurogamer.net/call-of-duty-modern-warfare-2s-beta-already-beset-by-cheaters"/>
-        <updated>2022-09-24T20:02:06.000Z</updated>
-        <summary type="html"><![CDATA[It's weekend two of the Call of Duty: Modern Warfare 2 beta - and now PC, PlayStation and Xbox players are all getting stuck in, cheaters have entered the battlefield.
-
-And, in response, console players are disabling crossplay in a bid to avoid matching up with those on PC - the platform believed to have the most trouble with hackers.
-
-
-If it sounds like you've read this story before, it's because the same thing happened with the beta for last year's Call of Duty Vanguard and 2020's Black Ops Cold War.
- 
-Read more]]></summary>
-        <author>
-            <name>Wesley Yin-Poole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Habana Labs AI Driver Updates Readied For Linux 6.1]]></title>
-        <id>https://www.phoronix.com/news/Intel-Habana-Labs-Linux-6.1</id>
-        <link href="https://www.phoronix.com/news/Intel-Habana-Labs-Linux-6.1"/>
-        <updated>2022-09-24T19:28:57.000Z</updated>
-        <summary type="html"><![CDATA[This week saw the Intel Habana Labs AI accelerator driver updates submitted to char/misc ahead of the upcoming Linux 6.1 merge window...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
 </feed>
