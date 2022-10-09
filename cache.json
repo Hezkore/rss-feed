@@ -130,6 +130,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/10/my-current-little-wish-list-for-steam-deck-upgrades/",
+          "author": "Liam Dawe",
+          "description": "The Steam Deck has been out for a while now and it's now easy to purchase with no reservation queue, the long-delayed Steam Deck Docking Station is also here! Valve has put out a lot of updates but there's plenty they could improve.",
+          "link": "https://www.gamingonlinux.com/2022/10/my-current-little-wish-list-for-steam-deck-upgrades/",
+          "publishedOn": "2022-10-09T09:50:52.000Z",
+          "wordCount": 2077,
+          "title": "My current little wish-list for Steam Deck upgrades",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1054065479id21711gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/10/jsaux-wasted-no-time-with-a-new-steam-deck-docking-station-with-displayport/",
           "author": "Liam Dawe",
           "description": "Find the new official Steam Deck Docking Station too expensive? Perhaps you might like to take another look at JSAUX, as they've announced another upgraded Docking Station.",
@@ -3194,6 +3204,16 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/crash-bandicoot-wumpa-league-reveal-game-awards",
+          "author": "Oisin Kuhnke",
+          "description": "It looks like a new Crash Bandicoot game is set to be revealed at The Game Awards, as Crash Bandicoot 4: It's About Time gets a Steam release.\r\n\n\r\nEarlier this week, a selection of press and influences received a Crash Bandicoot-themed pizza box that contained stuff like a t-shirt and charging cables, mostly innocuous merch for the most part, as detailed by YouTuber Canadian Guy Eh (thanks GamesRadar). On the box the Crash 4 Steam release was teased with the text \"Aku Aku's Steam-in Pizza Shack,\" before just outright saying it's coming to the store October 18. But a teaser on the side of the box is potentially hinting at the reveal of the long-rumoured Crash Bandicoot Wumpa League.\r\n\n\r\nIf you haven't heard of Wumpa League before, there have been rumours surrounding the game for quite a while, with some concept art for the game having been shared earlier this year by DidYouKnowGaming's Liam Robertson. The reason some suspect that Wumpa League will be revealed at The Game Awards is a line of text on the side of the box that reads, \"Hungry for more? Try our new wumpa pizza for $12.08!\"\r\n \nRead more",
+          "link": "https://www.vg247.com/crash-bandicoot-wumpa-league-reveal-game-awards",
+          "publishedOn": "2022-10-09T09:55:54.000Z",
+          "wordCount": 4722,
+          "title": "A pizza box might be teasing a Crash Bandicoot Wumpa League announcement at The Game Awards",
+          "imageUrl": "https://asset.vg247.com/crash_bandicoot_4_its_about_time_reveal_screen_5.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/crash_bandicoot_4_its_about_time_reveal_screen_5.jpg"
+        },
+        {
           "id": "https://www.vg247.com/persona-3-portable-persona-4-remasters-release-date",
           "author": "Stephany Nunneley",
           "description": "Atlus has announced release dates for the Persona 3 Portable and Persona 4 remasters.\nWe knew the remasters would release digitally at some point, but now we know exactly when to expect them.\nPersona 3 Portable will be released on PC, PS4, Switch, Xbox One, and Xbox Series X/S on January 19 (thanks, Gematsu).\n Read more",
@@ -4471,6 +4491,26 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Zink-Evolve-OpenGL-API",
+          "author": null,
+          "description": "Erik Faye-Lund of Collabora raised an interesting discussion this past week at XDC 2022 about leveraging Zink for post-OpenGL graphics development. With Zink able to run \"anywhere\" and currently focused on existing OpenGL APIs atop Vulkan, Zink could be used as a vehicle for developing new OpenGL APIs or trying to evolve the API in its own right while being able to run atop Vulkan API drivers on Windows or Linux...",
+          "link": "https://www.phoronix.com/news/Zink-Evolve-OpenGL-API",
+          "publishedOn": "2022-10-09T10:15:26.000Z",
+          "wordCount": 1392,
+          "title": "Zink Could Prove An Interesting Solution For Evolving OpenGL",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.1-EROFS",
+          "author": null,
+          "description": "EROFS as the read-only Linux file-system started by Huawei originally for Android devices continues seeing new adoption, including in the area of container use-cases beyond the original Android focus...",
+          "link": "https://www.phoronix.com/news/Linux-6.1-EROFS",
+          "publishedOn": "2022-10-09T10:02:41.000Z",
+          "wordCount": 1226,
+          "title": "EROFS Lands FSCache-Based Shared Domain Support For Linux 6.1",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-6.1-USB-Thunderbolt",
           "author": null,
           "description": "Greg Kroah-Hartman has submitted the USB and Thunderbolt feature updates for the in-development Linux 6.1 kernel...",
@@ -5737,6 +5777,16 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/the-sunday-papers-652",
+          "author": "Ed Thorn",
+          "description": "Sundays are for slapping your knees and saying \"Right!\" just before you leave. Before you announce your exit, let's read this week's best writing about games (and game related things).\nRead more",
+          "link": "https://www.rockpapershotgun.com/the-sunday-papers-652",
+          "publishedOn": "2022-10-09T10:00:00.000Z",
+          "wordCount": 5350,
+          "title": "The Sunday Papers",
+          "imageUrl": "https://assets2.rockpapershotgun.com/the-sunday-papers-big.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/the-sunday-papers-big.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/overwatch-2-animated-short-introduces-kiriko-one-of-the-sequels-new-heroes",
           "author": "Graham Smith",
@@ -9907,6 +9957,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "https://blogops.mixinet.net/posts/shared_networking_for_vms_and_containers/",
+          "author": null,
+          "description": "This entry explains how I have configured a linux bridge, dnsmasq and\niptables to be able to run and communicate different virtualization systems\nand containers on laptops running Debian GNU/Linux.\nI’ve used different variations of this setup for a long time with\nVirtualBox and KVM for\nthe Virtual Machines and Linux-VServer,\nOpenVZ, LXC and lately\nDocker or Podman for the\nContainers.\nRequired packages\nI’m running Debian Sid with systemd and network-manager to configure the\nWiFi and Ethernet interfaces, but for the bridge I use bridge-utils with\nifupdown (as I said this setup is old, I guess ifupdow2 and ifupdown-ng\nwill work too).\nTo start and stop the DNS and DHCP services and add NAT rules when the\nbridge is brought up or down I execute a script that uses:\n\nip from iproute2 to get the ne…",
+          "link": "https://blogops.mixinet.net/posts/shared_networking_for_vms_and_containers/",
+          "publishedOn": "2022-10-09T09:45:00.000Z",
+          "wordCount": 3589,
+          "title": "Sergio Talens-Oliag: Shared networking for Virtual Machines and Containers",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.eyrie.org/~eagle/journal/2022-10/001.html",
           "author": null,
           "description": "Tie::ShadowHash distribution page.",
@@ -10225,16 +10285,6 @@
           "wordCount": 362,
           "title": "Bits from Debian: New Debian Developers and Maintainers (July and August 2022)",
           "imageUrl": "https://www.debian.org/logos/openlogo-100.png"
-        },
-        {
-          "id": "https://blogops.mixinet.net/posts/k8s_static_content_server/",
-          "author": null,
-          "description": "This post describes how I’ve put together a simple static content server for\nkubernetes clusters using a Pod with a persistent volume and multiple\ncontainers: an sftp server to manage contents, a web server to publish them\nwith optional access control and another one to run scripts which need access\nto the volume filesystem.\nThe sftp server runs using\nMySecureShell, the web\nserver is nginx and the script runner uses the\nwebhook tool to publish endpoints to call\nthem (the calls will come from other Pods that run backend servers or are\nexecuted from Jobs or CronJobs).\nNote: \nThis service has been developed for Kyso and the\nversion used in our current\narchitecture\nincludes an additional container to index documents for\nElasticsearch, but as it is not\nrelevant for the description of the servic…",
-          "link": "https://blogops.mixinet.net/posts/k8s_static_content_server/",
-          "publishedOn": "2022-09-25T22:12:00.000Z",
-          "wordCount": 12173,
-          "title": "Sergio Talens-Oliag: Kubernetes Static Content Server",
-          "imageUrl": null
         }
       ]
     },

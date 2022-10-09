@@ -2,10 +2,96 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-09T09:27:34.951Z</updated>
+    <updated>2022-10-09T10:28:59.333Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Zink Could Prove An Interesting Solution For Evolving OpenGL]]></title>
+        <id>https://www.phoronix.com/news/Zink-Evolve-OpenGL-API</id>
+        <link href="https://www.phoronix.com/news/Zink-Evolve-OpenGL-API"/>
+        <updated>2022-10-09T10:15:26.000Z</updated>
+        <summary type="html"><![CDATA[Erik Faye-Lund of Collabora raised an interesting discussion this past week at XDC 2022 about leveraging Zink for post-OpenGL graphics development. With Zink able to run "anywhere" and currently focused on existing OpenGL APIs atop Vulkan, Zink could be used as a vehicle for developing new OpenGL APIs or trying to evolve the API in its own right while being able to run atop Vulkan API drivers on Windows or Linux...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EROFS Lands FSCache-Based Shared Domain Support For Linux 6.1]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-EROFS</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-EROFS"/>
+        <updated>2022-10-09T10:02:41.000Z</updated>
+        <summary type="html"><![CDATA[EROFS as the read-only Linux file-system started by Huawei originally for Android devices continues seeing new adoption, including in the area of container use-cases beyond the original Android focus...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sunday Papers]]></title>
+        <id>https://www.rockpapershotgun.com/the-sunday-papers-652</id>
+        <link href="https://www.rockpapershotgun.com/the-sunday-papers-652"/>
+        <updated>2022-10-09T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sundays are for slapping your knees and saying "Right!" just before you leave. Before you announce your exit, let's read this week's best writing about games (and game related things).
+Read more]]></summary>
+        <author>
+            <name>Ed Thorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A pizza box might be teasing a Crash Bandicoot Wumpa League announcement at The Game Awards]]></title>
+        <id>https://www.vg247.com/crash-bandicoot-wumpa-league-reveal-game-awards</id>
+        <link href="https://www.vg247.com/crash-bandicoot-wumpa-league-reveal-game-awards"/>
+        <updated>2022-10-09T09:55:54.000Z</updated>
+        <summary type="html"><![CDATA[It looks like a new Crash Bandicoot game is set to be revealed at The Game Awards, as Crash Bandicoot 4: It's About Time gets a Steam release.
+
+
+Earlier this week, a selection of press and influences received a Crash Bandicoot-themed pizza box that contained stuff like a t-shirt and charging cables, mostly innocuous merch for the most part, as detailed by YouTuber Canadian Guy Eh (thanks GamesRadar). On the box the Crash 4 Steam release was teased with the text "Aku Aku's Steam-in Pizza Shack," before just outright saying it's coming to the store October 18. But a teaser on the side of the box is potentially hinting at the reveal of the long-rumoured Crash Bandicoot Wumpa League.
+
+
+If you haven't heard of Wumpa League before, there have been rumours surrounding the game for quite a while, with some concept art for the game having been shared earlier this year by DidYouKnowGaming's Liam Robertson. The reason some suspect that Wumpa League will be revealed at The Game Awards is a line of text on the side of the box that reads, "Hungry for more? Try our new wumpa pizza for $12.08!"
+ 
+Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My current little wish-list for Steam Deck upgrades]]></title>
+        <id>https://www.gamingonlinux.com/2022/10/my-current-little-wish-list-for-steam-deck-upgrades/</id>
+        <link href="https://www.gamingonlinux.com/2022/10/my-current-little-wish-list-for-steam-deck-upgrades/"/>
+        <updated>2022-10-09T09:50:52.000Z</updated>
+        <summary type="html"><![CDATA[The Steam Deck has been out for a while now and it's now easy to purchase with no reservation queue, the long-delayed Steam Deck Docking Station is also here! Valve has put out a lot of updates but there's plenty they could improve.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sergio Talens-Oliag: Shared networking for Virtual Machines and Containers]]></title>
+        <id>https://blogops.mixinet.net/posts/shared_networking_for_vms_and_containers/</id>
+        <link href="https://blogops.mixinet.net/posts/shared_networking_for_vms_and_containers/"/>
+        <updated>2022-10-09T09:45:00.000Z</updated>
+        <summary type="html"><![CDATA[This entry explains how I have configured a linux bridge, dnsmasq and
+iptables to be able to run and communicate different virtualization systems
+and containers on laptops running Debian GNU/Linux.
+I’ve used different variations of this setup for a long time with
+VirtualBox and KVM for
+the Virtual Machines and Linux-VServer,
+OpenVZ, LXC and lately
+Docker or Podman for the
+Containers.
+Required packages
+I’m running Debian Sid with systemd and network-manager to configure the
+WiFi and Ethernet interfaces, but for the bridge I use bridge-utils with
+ifupdown (as I said this setup is old, I guess ifupdow2 and ifupdown-ng
+will work too).
+To start and stop the DNS and DHCP services and add NAT rules when the
+bridge is brought up or down I execute a script that uses:
+
+ip from iproute2 to get the ne…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intel Meteor Lake Thunderbolt Support & Other USB Updates Sent In For Linux 6.1]]></title>
         <id>https://www.phoronix.com/news/Linux-6.1-USB-Thunderbolt</id>
@@ -19507,33 +19593,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/two_key_system.png" title="Our company can be your one-stop shop for decentralization." alt="Our company can be your one-stop shop for decentralization." />]]></summary>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sergio Talens-Oliag: Kubernetes Static Content Server]]></title>
-        <id>https://blogops.mixinet.net/posts/k8s_static_content_server/</id>
-        <link href="https://blogops.mixinet.net/posts/k8s_static_content_server/"/>
-        <updated>2022-09-25T22:12:00.000Z</updated>
-        <summary type="html"><![CDATA[This post describes how I’ve put together a simple static content server for
-kubernetes clusters using a Pod with a persistent volume and multiple
-containers: an sftp server to manage contents, a web server to publish them
-with optional access control and another one to run scripts which need access
-to the volume filesystem.
-The sftp server runs using
-MySecureShell, the web
-server is nginx and the script runner uses the
-webhook tool to publish endpoints to call
-them (the calls will come from other Pods that run backend servers or are
-executed from Jobs or CronJobs).
-Note: 
-This service has been developed for Kyso and the
-version used in our current
-architecture
-includes an additional container to index documents for
-Elasticsearch, but as it is not
-relevant for the description of the servic…]]></summary>
-        <author>
-            <name>Planet Debian</name>
         </author>
     </entry>
 </feed>
