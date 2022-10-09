@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-09T15:28:30.867Z</updated>
+    <updated>2022-10-09T16:36:20.974Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Confirms 6GB Alder Lake BIOS Source Code Leak, New Details Emerge]]></title>
+        <id>dAEgwtx9qztABD5Zuvgopc</id>
+        <link href="https://www.tomshardware.com/news/intel-confirms-6gb-alder-lake-bios-source-code-leak-new-details-emerge"/>
+        <updated>2022-10-09T16:24:56.000Z</updated>
+        <summary type="html"><![CDATA[Intel confirms that 6GB of proprietary BIOS source code for its Alder Lake processors was leaked to the public.]]></summary>
+        <author>
+            <name>palcorn@outlook.com (Paul Alcorn)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zoo Tycoon: The Board Game is coming next year]]></title>
+        <id>https://www.eurogamer.net/zoo-tycoon-the-board-game-is-coming-next-year</id>
+        <link href="https://www.eurogamer.net/zoo-tycoon-the-board-game-is-coming-next-year"/>
+        <updated>2022-10-09T16:04:14.000Z</updated>
+        <summary type="html"><![CDATA[A Zoo Tycoon board game is in development.
+
+Slated to release next year, the 2-4 player game tasks participants in building "the most successful zoo" in a new strategic and thematic board game that features over 34 species, "most of them represented by 230 beautiful animal meeples". 
+
+With a Kickstarter launching later this month, the creator says "each game you play will be different, delivering high replay value thanks to a novel game mechanism".
+ 
+Read more]]></summary>
+        <author>
+            <name>Vikki Blake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Persona 5 Royal is getting a co-operative card game next year]]></title>
+        <id>https://www.vg247.com/persona-5-royal-is-getting-a-co-operative-card-game-next-year</id>
+        <link href="https://www.vg247.com/persona-5-royal-is-getting-a-co-operative-card-game-next-year"/>
+        <updated>2022-10-09T16:01:30.000Z</updated>
+        <summary type="html"><![CDATA[While it's not a new video game announcement, Atlus has announced that Persona 5 Royal is getting a card game adaptation. 
+
+
+The new card game based on Persona 5 Royal very specifically is being designed by Emerson Matsuuchi, and is being published by Pandasauras Games, announced on the publisher's site. According to Matsuuchi, "Players will take on the roles of their favorite Phantom Thieves and fight to change the world in this cooperative card-based strategy game," though other than that no other details were provided on what the game will actually be like.
+
+
+Nathan McNair, co-owner of Pandasaura Games, also said, As a diehard fan of Persona 5 Royal – I cannot wait to bring the Palaces, Velvet Room and world of Persona 5 Royal onto tabletops everywhere in 2023." The game is apparently targeting a Q4 2023 release, which is anywhere between October and December, though oddly an image on the site does specify an October 21 release date, so it could be then, it could be later.
+ 
+Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tara Strong comments on Chris Pratt's casting in the Super Mario movie: "it should be Charles"]]></title>
+        <id>https://www.eurogamer.net/tara-strong-comments-on-chris-pratts-casting-in-the-super-mario-movie-it-should-be-charles</id>
+        <link href="https://www.eurogamer.net/tara-strong-comments-on-chris-pratts-casting-in-the-super-mario-movie-it-should-be-charles"/>
+        <updated>2022-10-09T15:46:16.000Z</updated>
+        <summary type="html"><![CDATA[Voice actor Tara Strong has criticised the new Mario movie for not offering the titular role to Mario's in-game voice actor, Charles Martinet.
+
+Announced back in 2018, The Super Mario Bros. Movie is a collaboration between Nintendo and Universal Pictures' Illumination animation division. It sees Chris Pratt heading an all-star cast that includes Jack Black as Bowser and Anya Taylor-Joy as Princess Peach.
+
+In a tweet, Strong - whose own prolific career includes voice performances as Harley Quinn, Batgirl, and Fairly Odd Parents' Timmy Turner - posted a photograph of herself and Martinet with the text: "it should be Charles".
+ 
+Read more]]></summary>
+        <author>
+            <name>Vikki Blake</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[You guessed it: Deathloop and Dishonored are set in the same universe after all]]></title>
         <id>https://www.vg247.com/deathloop-dishonored-same-universe</id>
@@ -19802,26 +19862,6 @@ Read more]]></summary>
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/26/alibaba_cloud_ecosystem_uopgrade/"/>
         <updated>2022-09-26T04:57:58.000Z</updated>
         <summary type="html"><![CDATA[<h4>It's mostly a channel program with a fancy name, plus more outposts</h4> <p>Alibaba Cloud last week staged its annual gabfest and revealed some tasty new cloud services, as well as a billion dollar "ecosystem upgrade" aimed at finding more customers outside China.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rusticl Support For AMD RadeonSI Driver Being Worked On]]></title>
-        <id>https://www.phoronix.com/news/Rusticl-RadeonSI-WIP</id>
-        <link href="https://www.phoronix.com/news/Rusticl-RadeonSI-WIP"/>
-        <updated>2022-09-26T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Rusticl as the Rust-written OpenCL implementation for Mesa's Gallium3D as a newer and modern-focused CL alternative to the existing "Clover" code may soon see mainline support for working with the RadeonSI Gallium3D driver for supporting modern AMD graphics processors...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linus Torvalds predicts Linux Kernel 6.0 debut next week, dispels fear of delays]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/26/linux_6_rc7/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/26/linux_6_rc7/"/>
-        <updated>2022-09-26T03:45:14.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Hails unusually smooth development process despite travel complications</h4> <p>Linux kernel boss Linus Torvalds has offered the community an optimistic prediction that version 6.0 of the project will debut next week.…</p>]]></summary>
         <author>
             <name>The Register</name>
         </author>
