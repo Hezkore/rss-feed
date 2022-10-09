@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-08T23:30:26.668Z</updated>
+    <updated>2022-10-09T02:33:42.209Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[MGLRU & Maple Tree Submitted For Linux 6.1]]></title>
+        <id>https://www.phoronix.com/news/MGLRU-Maple-Tree-Linux-6.1-PR</id>
+        <link href="https://www.phoronix.com/news/MGLRU-Maple-Tree-Linux-6.1-PR"/>
+        <updated>2022-10-08T23:56:29.000Z</updated>
+        <summary type="html"><![CDATA[Andrew Morton this afternoon submitted his memory management "MM" related updates for the Linux 6.1 merge window. Most notable with this pull request is the inclusion of Multi-Gen LRU "MGLRU" and the Maple Tree kernel features...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Overwatch 2 animated short introduces Kiriko, one of the sequel's new heroes]]></title>
         <id>https://www.rockpapershotgun.com/overwatch-2-animated-short-introduces-kiriko-one-of-the-sequels-new-heroes</id>
@@ -19642,148 +19652,6 @@ Read more]]></summary>
         <updated>2022-09-25T15:00:00.000Z</updated>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gotham Knights cutscenes will play out differently depending on the character, has Nightwing rump fan service]]></title>
-        <id>https://www.vg247.com/gotham-knights-cutscenes-play-out-differently</id>
-        <link href="https://www.vg247.com/gotham-knights-cutscenes-play-out-differently"/>
-        <updated>2022-09-25T14:20:35.000Z</updated>
-        <summary type="html"><![CDATA[According to Gotham Knights' game director, you won't be able to experience all of the story in just one playthrough.
-
-
-Plenty of games require you to do multiple playthroughs to see all of the story, and it sounds like Gotham Knights is no different. In a recent interview with PLAY magazine (as shared by MP1st), the game's director Geoff Ellenor explained how it is that you'll be able to see different parts of the story.
-
-
-"You will not see all of it in a single playthrough," explained Ellenor, continuing to say "just because there’s so much content that is unique to the hero’s perception of what’s going on and what happened." Obviously Ellenor is referring to the fact that in Gotham Knights you can play as either Nightwing, Batgirl, Red Hood, or Robin, so it isn't too surprising to hear that each character will view things slightly differently.
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Btrfs Async Buffered Writes Slated For Linux 6.1 - 2x Throughput Improvement]]></title>
-        <id>https://www.phoronix.com/news/Btrfs-Async-Buffered-Writes-6.1</id>
-        <link href="https://www.phoronix.com/news/Btrfs-Async-Buffered-Writes-6.1"/>
-        <updated>2022-09-25T14:20:33.000Z</updated>
-        <summary type="html"><![CDATA[Queued up in the Btrfs for-next Git repository ahead of the Linux 6.1 merge window is support for async buffered writes that can offer a more than two times throughput improvement...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sucker Punch gets Sly Cooper some merch for his 20th birthday]]></title>
-        <id>https://www.vg247.com/sucker-punch-gets-sly-cooper-some-merch-for-his-20th-birthday</id>
-        <link href="https://www.vg247.com/sucker-punch-gets-sly-cooper-some-merch-for-his-20th-birthday"/>
-        <updated>2022-09-25T13:28:36.000Z</updated>
-        <summary type="html"><![CDATA[It might not be a new game, but Sucker Punch has shown off some pretty nice looking merch for Sly Cooper's 20th anniversary.
-
-
-Sorry to say that the words 'Sly Cooper' and 'announcement' aren't being paired together to reveal a surprise new title, but with the game's 20th anniversary having taken place on September 23, Sucker Punch did have some merch to show off, including a print, a t-shirt, and a plush of everyone's favourite sneaky raccoon.
-
-
-The print is admittedly incredibly gorgeous, showing a cross section of a building with a tonne of wonderful details and references to the series. At the time of writing both  versions of the framed print are currently out of stock on the producer's website (Cook & Becker), as there were a limited number that were signed by artist Dev Madan, but it might be worth keeping an eye on anyway. But it is still available to pick up on the PlayStation Gear store.
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A secret The Callisto Protocol video hints that something is happening next week]]></title>
-        <id>https://www.eurogamer.net/a-secret-the-callisto-protocol-video-hints-that-something-is-happening-next-week</id>
-        <link href="https://www.eurogamer.net/a-secret-the-callisto-protocol-video-hints-that-something-is-happening-next-week"/>
-        <updated>2022-09-25T12:13:56.000Z</updated>
-        <summary type="html"><![CDATA[A phone number hidden in a recent The Callisto Protocol teaser has led to the discovery that something may be happening next week.
-
-Twitterer Shinobi602 - a games industry brand manager - found themselves intrigued enough by the sci-fi horror's most recent promotional video that they texted the number that pops up in the latest trailer.
-
-After texting the number, Shinobi received a mysterious video response. The secretive teaser flashes words like "secrets, answers, ARCAS, lies" and ends with a date: 29th September.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Montech Sky One Lite Review: Novice-Friendly, but Noisy]]></title>
-        <id>jibQcw2NtrTzuvy65PfAJE</id>
-        <link href="https://www.tomshardware.com/reviews/montech-sky-one-lite"/>
-        <updated>2022-09-25T12:00:17.000Z</updated>
-        <summary type="html"><![CDATA[Montech’s Sky One Lite packs RGB, a hinged tempered glass side panel and a mesh front for about $100. But does its performance stand up to the budget case competition?]]></summary>
-        <author>
-            <name>mylesgoldman@icloud.com (Myles Goldman)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix's The Witcher S3 will premiere in Summer 2023, and Blood Origin in December]]></title>
-        <id>https://www.eurogamer.net/netflixs-the-witcher-s3-will-premiere-in-summer-2023-and-blood-origin-in-december</id>
-        <link href="https://www.eurogamer.net/netflixs-the-witcher-s3-will-premiere-in-summer-2023-and-blood-origin-in-december"/>
-        <updated>2022-09-25T11:52:31.000Z</updated>
-        <summary type="html"><![CDATA[Season 3 of Netflix's The Witcher will debut in Summer/Q2 2023.
-
-Confirmation came via TUDUM and a tweet on the official Netflix account, which simply announced: "Our family returns! The Witcher is back for Season 3 in Summer 2023."
-
-We also discovered that spin-off The Witcher: Blood Origin will premier "this December", which is set to star Minnie Driver as the Narrator.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cyberpunk 2077's player count is thriving through the power of anime]]></title>
-        <id>https://www.vg247.com/cyberpunk-2077-player-count-anime</id>
-        <link href="https://www.vg247.com/cyberpunk-2077-player-count-anime"/>
-        <updated>2022-09-25T11:45:27.000Z</updated>
-        <summary type="html"><![CDATA[Cyberpunk 2077 looks to be doing pretty well for itself, as the game's player count on Steam has risen quickly following the release of Cyberpunk Edgerunners.
-
-
-We probably all know by now that Cyberpunk 2077 didn't exactly launch in an amazing state. Whether it was the glitches, or the much delayed current-gen version of the game, things didn't really pan out until this year when the game actually saw a number of big fixes, and the current-gen version was actually released. Despite all of its problems though, at the time of writing Cyberpunk is sitting at a healthy 105,445 concurrent players (via SteamDB). Why? Through the power of anime, of course.
-
-
-Cyberpunk Edgerunners, the anime spinoff of CD Projekt's take on the franchise from everyone's favourite Studio Trigger, launched last week, and has so far been pretty widely praised. And clearly fans have the Cyberpunk fever, because since the release of the anime, the average player count has been going up and up and up, hitting a peak of 122,376 players yesterday (September 24), which as PCGamesN points out is higher than The Witcher 3's all time Steam peak of 103,329.
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Archinstall 2.5.1 Released With A Number Of Fixes For The Arch Linux Installer]]></title>
-        <id>https://www.phoronix.com/news/Archinstall-2.5.1-Released</id>
-        <link href="https://www.phoronix.com/news/Archinstall-2.5.1-Released"/>
-        <updated>2022-09-25T11:43:52.000Z</updated>
-        <summary type="html"><![CDATA[Over the past year and a half of being on the Arch Linux install media, archinstall has made it dramatically quicker and easier to get this popular Linux distribution installed. Out today is Archinstall 2.5.1 with a number of fixes and other changes for this easy-to-use Arch Linux installer...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Car & Flight Controller HID Drivers Ready To Race With Linux 6.1]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.1-New-HID-Flight-Car</id>
-        <link href="https://www.phoronix.com/news/Linux-6.1-New-HID-Flight-Car"/>
-        <updated>2022-09-25T11:35:01.000Z</updated>
-        <summary type="html"><![CDATA[Two new HID drivers are set to premiere with the upcoming Linux 6.1 merge window for car and flight simulators...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dark Souls 3's PC servers seem to be back online again]]></title>
-        <id>https://www.eurogamer.net/dark-souls-3s-pc-servers-seem-to-be-back-online-again</id>
-        <link href="https://www.eurogamer.net/dark-souls-3s-pc-servers-seem-to-be-back-online-again"/>
-        <updated>2022-09-25T11:30:25.000Z</updated>
-        <summary type="html"><![CDATA[They've been up, down, up, down, down, up, and down again, but right now, Dark Souls 3' PC servers are live once again.
-
-Bandai Namco was originally forced to shutter the PC PvP servers for all Dark Souls games back in January following "reports of an issue with online servers". Although the publisher described the situation as "temporary", it took over seven months for a fix to be deployed, with Dark Souls 3's servers finally coming back online at the end of August… and going down again earlier this week.
-
-On 21st September, Bandai Namco said "there is a confirmed issue with Dark Souls 3 online play via the Steam platform" and revealed that it was "investigating the source of the problem", but the servers remained offline for several days.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
         </author>
     </entry>
 </feed>
