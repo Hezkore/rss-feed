@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-09T12:48:28.711Z</updated>
+    <updated>2022-10-09T13:44:02.344Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AMD P-State EPP Driver Updated For Improving Linux Power Efficiency]]></title>
+        <id>https://www.phoronix.com/news/AMD-P-State-EPP-Linux-v2</id>
+        <link href="https://www.phoronix.com/news/AMD-P-State-EPP-Linux-v2"/>
+        <updated>2022-10-09T13:12:22.000Z</updated>
+        <summary type="html"><![CDATA[In early September AMD announced their new P-State "EPP" driver for Linux systems to further evolve their P-State driver effort started last year. This P-State EPP driver effort is aiming for better performance and power control while this weekend they sent out the second iteration of these Linux kernel patches...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This limited-edition Elden Ring art collection is available now]]></title>
         <id>https://www.eurogamer.net/this-limited-edition-elden-ring-art-collection-is-available-now</id>
@@ -19744,16 +19754,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Och prequel-serien Blood Origin har premiär nu i december.]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[India seeks verified IDs to register email accounts]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/26/apac_tech_news_roundup/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/26/apac_tech_news_roundup/"/>
-        <updated>2022-09-26T01:20:10.000Z</updated>
-        <summary type="html"><![CDATA[<h4>PLUS: Warnings on Chinese payment schemes; AWS brushes up its Cantonese; Hong Kong ponders digital dollar; and more!</h4> <p><strong>Asia In Brief</strong>  India's government last week released a draft telco law that defines all over-the-top services as telecoms providers and therefore makes them subject to the same regulations imposed on carriers.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>

@@ -4561,6 +4561,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/AMD-P-State-EPP-Linux-v2",
+          "author": null,
+          "description": "In early September AMD announced their new P-State \"EPP\" driver for Linux systems to further evolve their P-State driver effort started last year. This P-State EPP driver effort is aiming for better performance and power control while this weekend they sent out the second iteration of these Linux kernel patches...",
+          "link": "https://www.phoronix.com/news/AMD-P-State-EPP-Linux-v2",
+          "publishedOn": "2022-10-09T13:12:22.000Z",
+          "wordCount": 1377,
+          "title": "AMD P-State EPP Driver Updated For Improving Linux Power Efficiency",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Zink-Evolve-OpenGL-API",
           "author": null,
           "description": "Erik Faye-Lund of Collabora raised an interesting discussion this past week at XDC 2022 about leveraging Zink for post-OpenGL graphics development. With Zink able to run \"anywhere\" and currently focused on existing OpenGL APIs atop Vulkan, Zink could be used as a vehicle for developing new OpenGL APIs or trying to evolve the API in its own right while being able to run atop Vulkan API drivers on Windows or Linux...",
@@ -17525,16 +17535,6 @@
           "wordCount": 1324,
           "title": "Linus Torvalds predicts Linux Kernel 6.0 debut next week, dispels fear of delays",
           "imageUrl": "https://regmedia.co.uk/2022/02/14/shutterstock_penguin_and_young.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/26/apac_tech_news_roundup/",
-          "author": null,
-          "description": "<h4>PLUS: Warnings on Chinese payment schemes; AWS brushes up its Cantonese; Hong Kong ponders digital dollar; and more!</h4> <p><strong>Asia In Brief</strong>  India's government last week released a draft telco law that defines all over-the-top services as telecoms providers and therefore makes them subject to the same regulations imposed on carriers.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/26/apac_tech_news_roundup/",
-          "publishedOn": "2022-09-26T01:20:10.000Z",
-          "wordCount": 2477,
-          "title": "India seeks verified IDs to register email accounts",
-          "imageUrl": "https://regmedia.co.uk/2021/08/19/shutterstock_satellite_over_asia.jpg"
         }
       ]
     }
