@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-09T13:44:02.344Z</updated>
+    <updated>2022-10-09T14:25:00.181Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How To Clone Your SSD or Hard Drive]]></title>
+        <id>3PnmL853DF8UEMs4BJoAM8</id>
+        <link href="https://www.tomshardware.com/how-to/clone-your-ssd-or-hard-drive"/>
+        <updated>2022-10-09T13:31:07.000Z</updated>
+        <summary type="html"><![CDATA[Migrating your OS to a faster drive is made easy with Clonezilla.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD P-State EPP Driver Updated For Improving Linux Power Efficiency]]></title>
         <id>https://www.phoronix.com/news/AMD-P-State-EPP-Linux-v2</id>
