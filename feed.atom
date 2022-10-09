@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-09T08:32:45.789Z</updated>
+    <updated>2022-10-09T09:27:34.951Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Meteor Lake Thunderbolt Support & Other USB Updates Sent In For Linux 6.1]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-USB-Thunderbolt</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-USB-Thunderbolt"/>
+        <updated>2022-10-09T09:15:48.000Z</updated>
+        <summary type="html"><![CDATA[Greg Kroah-Hartman has submitted the USB and Thunderbolt feature updates for the in-development Linux 6.1 kernel...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[When are we gonna stop calling it ransomware? It's just data kidnapping now]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/09/extortion_ransomware_threats_category/</id>
@@ -19524,16 +19534,6 @@ Elasticsearch, but as it is not
 relevant for the description of the servic…]]></summary>
         <author>
             <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.0-rc7 Released - Linux 6.0 Will Hopefully Release Next Sunday]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.0-rc7-Released</id>
-        <link href="https://www.phoronix.com/news/Linux-6.0-rc7-Released"/>
-        <updated>2022-09-25T21:23:01.000Z</updated>
-        <summary type="html"><![CDATA[Last week Linux 6.0-rc6 came in tiny due to many of the upstream kernel developers having been in Dublin for LPC 2022 and other events. Linus Torvalds had been fearing an uptick in activity this week as a result, but he's been pleasantly surprised that Linux 6.0-rc7 remains on the lighter side...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
 </feed>

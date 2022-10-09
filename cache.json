@@ -4471,6 +4471,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-6.1-USB-Thunderbolt",
+          "author": null,
+          "description": "Greg Kroah-Hartman has submitted the USB and Thunderbolt feature updates for the in-development Linux 6.1 kernel...",
+          "link": "https://www.phoronix.com/news/Linux-6.1-USB-Thunderbolt",
+          "publishedOn": "2022-10-09T09:15:48.000Z",
+          "wordCount": 1273,
+          "title": "Intel Meteor Lake Thunderbolt Support & Other USB Updates Sent In For Linux 6.1",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/MGLRU-Maple-Tree-Linux-6.1-PR",
           "author": null,
           "description": "Andrew Morton this afternoon submitted his memory management \"MM\" related updates for the Linux 6.1 merge window. Most notable with this pull request is the inclusion of Multi-Gen LRU \"MGLRU\" and the Maple Tree kernel features...",
@@ -5718,16 +5728,6 @@
           "publishedOn": "2022-09-26T04:00:00.000Z",
           "wordCount": 1549,
           "title": "Rusticl Support For AMD RadeonSI Driver Being Worked On",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.0-rc7-Released",
-          "author": null,
-          "description": "Last week Linux 6.0-rc6 came in tiny due to many of the upstream kernel developers having been in Dublin for LPC 2022 and other events. Linus Torvalds had been fearing an uptick in activity this week as a result, but he's been pleasantly surprised that Linux 6.0-rc7 remains on the lighter side...",
-          "link": "https://www.phoronix.com/news/Linux-6.0-rc7-Released",
-          "publishedOn": "2022-09-25T21:23:01.000Z",
-          "wordCount": 1510,
-          "title": "Linux 6.0-rc7 Released - Linux 6.0 Will Hopefully Release Next Sunday",
           "imageUrl": null
         }
       ]
