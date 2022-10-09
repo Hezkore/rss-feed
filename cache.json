@@ -4631,6 +4631,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Ubuntu-22.10-Miracast-GNOME",
+          "author": null,
+          "description": "Among the new applications becoming available with Ubuntu 22.10 \"Kinetic Kudu\" later this month is GNOME-Network-Displays for dealing with Miracast wireless displays...",
+          "link": "https://www.phoronix.com/news/Ubuntu-22.10-Miracast-GNOME",
+          "publishedOn": "2022-10-09T17:39:36.000Z",
+          "wordCount": 1380,
+          "title": "GNOME-Network-Displays Available With Ubuntu 22.10 For Miracast Wireless Displays",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/AMD-P-State-EPP-Linux-v2",
           "author": null,
           "description": "In early September AMD announced their new P-State \"EPP\" driver for Linux systems to further evolve their P-State driver effort started last year. This P-State EPP driver effort is aiming for better performance and power control while this weekend they sent out the second iteration of these Linux kernel patches...",
@@ -7364,6 +7374,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "CmaNyrXMY7nJhUYuvVCVTg",
+          "author": null,
+          "description": "Newegg lists an unreleased GeForce RTX 3060 graphics card with GDDR6X memory from Lenovo.",
+          "link": "https://www.tomshardware.com/news/geforce-rtx-3060-seemingly-gets-faster-gddr6x-memory",
+          "publishedOn": "2022-10-09T17:34:05.000Z",
+          "wordCount": 24738,
+          "title": "GeForce RTX 3060 Seemingly Gets Faster GDDR6X Memory",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/prU8z99qxGbCRDBBECmWb.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/prU8z99qxGbCRDBBECmWb.jpg"
+        },
         {
           "id": "dAEgwtx9qztABD5Zuvgopc",
           "author": "palcorn@outlook.com (Paul Alcorn)",
@@ -14050,6 +14075,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/35048",
+          "author": null,
+          "description": "Den välrenommerade stoltillverkaren Herman Miller lyfter täcket av ett nytt Logitech-samarbete, som enligt företagen är en perfekt stol för spelare.",
+          "link": "https://www.sweclockers.com/artikel/35048-logitech-och-herman-miller-rullar-ut-spelstolen-vantum",
+          "publishedOn": "2022-10-09T17:40:58.000Z",
+          "wordCount": 1771,
+          "title": "Logitech och Herman Miller rullar ut spelstolen Vantum",
+          "imageUrl": "https://www.sweclockers.com/artikel/35048/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/35049",
           "author": null,
           "description": "Sony ställde siktet på att ersätta kassettbandet med en digital och på många sätt bättre variant. I veckans söndagsmatiné ligger fokus på Minidisc.",
@@ -17615,16 +17650,6 @@
           "wordCount": 1632,
           "title": "<i>Girls Who Code</i> book series banned in some US classrooms",
           "imageUrl": "https://regmedia.co.uk/2021/01/18/burningfoldershutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/26/darth_vader_voiced_by_ai/",
-          "author": null,
-          "description": "<h4>Ukrainian outfit Respeecher's GAN-based neural audio enhancer embraces The Dark Side</h4> <p>James Earl Jones, the actor who has voiced iconic Star Wars villain Darth Vader since 1977, has reportedly permitted his past utterances to be fed into an AI that will ensure his distinct tones become replicable once he becomes one with the Force.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/26/darth_vader_voiced_by_ai/",
-          "publishedOn": "2022-09-26T06:03:14.000Z",
-          "wordCount": 1237,
-          "title": "Darth Vader voice actor James Earl Jones allows AI to take over the role",
-          "imageUrl": "https://regmedia.co.uk/2015/12/09/vader.jpg"
         }
       ]
     }
