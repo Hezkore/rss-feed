@@ -778,26 +778,6 @@
           "wordCount": 1176,
           "title": "Blizzard don't officially support Steam Deck / Linux but they still fix issues for it",
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2132720876id21648gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/09/wine-718-rolls-out-with-unicode-15-support/",
-          "author": "Liam Dawe",
-          "description": "Wine, the translation layer that allows you to run applications and games designed for Windows on Linux has a new development release up with Wine 7.18.",
-          "link": "https://www.gamingonlinux.com/2022/09/wine-718-rolls-out-with-unicode-15-support/",
-          "publishedOn": "2022-09-26T08:21:26.000Z",
-          "wordCount": 1060,
-          "title": "Wine 7.18 rolls out with Unicode 15 support",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/tagline_gallery/wine-generic.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/09/update-pc-info-202209/",
-          "author": "gamingonlinux",
-          "description": "This is the public once a month reminder to make sure your PC information is correct on your user profiles. A fresh batch of statistics is generated on the 1st of each month. Also a good reminder of our stats system for people who don't know about it.",
-          "link": "https://www.gamingonlinux.com/2022/09/update-pc-info-202209/",
-          "publishedOn": "2022-09-26T08:11:23.000Z",
-          "wordCount": 1047,
-          "title": "Reminder: Update your PC info for the next round of statistics updates",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/tagline_gallery/defaulttagline.png"
         }
       ]
     },
@@ -3245,16 +3225,6 @@
           "wordCount": 5021,
           "title": "Potion Permit doesn't do anything in a hurry, but maybe that's the point",
           "imageUrl": "https://assets.reedpopcdn.com/potionpermit_cropped.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/potionpermit_cropped.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/heres-our-first-look-at-netflixs-onimusha-anime",
-          "author": "Wesley Yin-Poole",
-          "description": "There's an Onimusha anime in the works for Netflix, Capcom has announced.\r\n\n\r\nThis adaptation of Capcom's dormant samurai action series is produced by Sublimation Inc., the same company that handled the Dragon's Dogma series that was streamed on Netflix in 2020, and is directed by Takashi Miike (Audition, Ichi the Killer, 13 Assassins).\r\n\n\r\nDetails are scarce, but Capcom said the anime has \"3DCG\" animated characters with hand-drawn backgrounds. Toshihiro Mifune plays protagonist Miyamoto Musashi.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/heres-our-first-look-at-netflixs-onimusha-anime",
-          "publishedOn": "2022-09-26T08:21:29.000Z",
-          "wordCount": 4489,
-          "title": "Here's our first look at Netflix's Onimusha anime",
-          "imageUrl": "https://assets.reedpopcdn.com/onimusha.jfif/BROK/thumbnail/1600x900/format/jpg/quality/80/onimusha.jfif"
         }
       ]
     },
@@ -10187,6 +10157,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "https://jmtd.net/log/latex_writing/",
+          "author": null,
+          "description": "LaTeX — the age-old typesetting system — makes me angry. Not because it's bad.\nTo clarify, not because there's something better. But because there should\nbe.\nWhen writing a document using LaTeX, if you are prone to procrastination\nit can be very difficult to focus on the task at hand, because there are so\nmany yaks to shave. Here's a few points of advice.\nformat the document source for legible reading. Yes, it's the input\nto the typesetter, and yes, the output of the typesetter needs to be\nlegible. But it's worth making the input easy to read, too. Because…\n\n\navoid rebuilding your rendered document too often. It's slow, it takes you\nout of the activity of writing, and it throws up lots of opportunities to\nget distracted by some rendering nit that you didn't realise would happen.\n\n\nUnless y…",
+          "link": "https://jmtd.net/log/latex_writing/",
+          "publishedOn": "2022-10-09T19:54:36.000Z",
+          "wordCount": 670,
+          "title": "Jonathan Dowland: Focus writing with (despite) LaTeX",
+          "imageUrl": null
+        },
+        {
           "id": "http://00formicapunk00.wordpress.com/?p=117",
           "author": null,
           "description": "Following my markdown craze, I am slowly starting to move my Dokuwiki based homesite to Grav, a flat file Markdown CMS.\nPHP will be always be PHP, but the documentation and usage seem sound (all config is either via an admin panel  or editing YAML files) and it has professional support.\nI intend to use this Debian based Dockerfile and Podman to deploy Grav.\nPandoc the talented document converter, hat support for Dokuwiki syntax,  Markdown and PHP Markdown extra, so I expected limited hurdles when converting the data.",
@@ -14056,16 +14036,6 @@
           "wordCount": 1825,
           "title": "Retroskjutaren Prodeus har nu släppts – men inte till Switch",
           "imageUrl": "https://www.fz.se/artikel/og-image/291581"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291580",
-          "author": null,
-          "description": "24 fartfyllda avsnitt är på väg till Netflix.",
-          "link": "https://www.fz.se/artikel/291580-ytterligare-en-trailer-for-den-animerade-serien-sonic-prime",
-          "publishedOn": "2022-09-26T07:57:00.000Z",
-          "wordCount": 1871,
-          "title": "Ytterligare en trailer för den animerade serien Sonic Prime",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291580"
         }
       ]
     },
@@ -15061,6 +15031,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/09/internet_traffic_routing_defense/",
+          "author": null,
+          "description": "<h4>RPKI is supposed to verify network routes. Instead, here's how it could be subverted</h4> <p>An internet security mechanism called Resource Public Key Infrastructure (RPKI), intended to safeguard the routing of data traffic, is broken, according to security experts from Germany's ATHENE, the National Research Center for Applied Cybersecurity.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/09/internet_traffic_routing_defense/",
+          "publishedOn": "2022-10-09T19:31:08.000Z",
+          "wordCount": 2038,
+          "title": "That thing to help protect internet traffic from hijacking? It's broken",
+          "imageUrl": "https://regmedia.co.uk/2022/03/30/shutterstock_global_network.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/09/extortion_ransomware_threats_category/",
           "author": null,
@@ -17600,16 +17580,6 @@
           "wordCount": 1666,
           "title": "Rust is eating into our systems, and it's a good thing",
           "imageUrl": "https://regmedia.co.uk/2022/09/23/shutterstock_rust_ship.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/26/who_me/",
-          "author": null,
-          "description": "<h4>Fake BSOD became tool of revenge when a staffer ignored the sensible rules of seniority</h4> <p><strong>Who, Me?</strong>  Welcome to the working week and therefore to a new instalment of “Who, Me?”, <i>The Register</i>'s confessional in which readers reveal and defend their darkest deeds.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/26/who_me/",
-          "publishedOn": "2022-09-26T07:32:14.000Z",
-          "wordCount": 1289,
-          "title": "PC component scavenging queue jumper pulled into line with a screensaver",
-          "imageUrl": "https://regmedia.co.uk/2021/02/02/shutterstock_bsod.jpg"
         }
       ]
     }

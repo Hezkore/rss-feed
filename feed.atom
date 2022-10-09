@@ -2,10 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-09T19:22:31.603Z</updated>
+    <updated>2022-10-09T20:28:12.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Jonathan Dowland: Focus writing with (despite) LaTeX]]></title>
+        <id>https://jmtd.net/log/latex_writing/</id>
+        <link href="https://jmtd.net/log/latex_writing/"/>
+        <updated>2022-10-09T19:54:36.000Z</updated>
+        <summary type="html"><![CDATA[LaTeX — the age-old typesetting system — makes me angry. Not because it's bad.
+To clarify, not because there's something better. But because there should
+be.
+When writing a document using LaTeX, if you are prone to procrastination
+it can be very difficult to focus on the task at hand, because there are so
+many yaks to shave. Here's a few points of advice.
+format the document source for legible reading. Yes, it's the input
+to the typesetter, and yes, the output of the typesetter needs to be
+legible. But it's worth making the input easy to read, too. Because…
+
+
+avoid rebuilding your rendered document too often. It's slow, it takes you
+out of the activity of writing, and it throws up lots of opportunities to
+get distracted by some rendering nit that you didn't realise would happen.
+
+
+Unless y…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[That thing to help protect internet traffic from hijacking? It's broken]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/09/internet_traffic_routing_defense/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/09/internet_traffic_routing_defense/"/>
+        <updated>2022-10-09T19:31:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>RPKI is supposed to verify network routes. Instead, here's how it could be subverted</h4> <p>An internet security mechanism called Resource Public Key Infrastructure (RPKI), intended to safeguard the routing of data traffic, is broken, according to security experts from Germany's ATHENE, the National Research Center for Applied Cybersecurity.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[One final mission: Star Trek: Picard wows NYCC with extended S3 teaser trailer]]></title>
         <id>https://arstechnica.com/?p=1888457</id>
@@ -19803,64 +19839,6 @@ The Game Rating and Administration Committee of Korea, where Gematsu found the i
         <summary type="html"><![CDATA[Nytt fodral och hög ergonomi utlovas när Nothing ger oss en smygtitt på kommande hörlurspinnarna Ear Stick.]]></summary>
         <author>
             <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's our first look at Netflix's Onimusha anime]]></title>
-        <id>https://www.eurogamer.net/heres-our-first-look-at-netflixs-onimusha-anime</id>
-        <link href="https://www.eurogamer.net/heres-our-first-look-at-netflixs-onimusha-anime"/>
-        <updated>2022-09-26T08:21:29.000Z</updated>
-        <summary type="html"><![CDATA[There's an Onimusha anime in the works for Netflix, Capcom has announced.
-
-
-This adaptation of Capcom's dormant samurai action series is produced by Sublimation Inc., the same company that handled the Dragon's Dogma series that was streamed on Netflix in 2020, and is directed by Takashi Miike (Audition, Ichi the Killer, 13 Assassins).
-
-
-Details are scarce, but Capcom said the anime has "3DCG" animated characters with hand-drawn backgrounds. Toshihiro Mifune plays protagonist Miyamoto Musashi.
- 
-Read more]]></summary>
-        <author>
-            <name>Wesley Yin-Poole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wine 7.18 rolls out with Unicode 15 support]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/wine-718-rolls-out-with-unicode-15-support/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/wine-718-rolls-out-with-unicode-15-support/"/>
-        <updated>2022-09-26T08:21:26.000Z</updated>
-        <summary type="html"><![CDATA[Wine, the translation layer that allows you to run applications and games designed for Windows on Linux has a new development release up with Wine 7.18.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reminder: Update your PC info for the next round of statistics updates]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/update-pc-info-202209/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/update-pc-info-202209/"/>
-        <updated>2022-09-26T08:11:23.000Z</updated>
-        <summary type="html"><![CDATA[This is the public once a month reminder to make sure your PC information is correct on your user profiles. A fresh batch of statistics is generated on the 1st of each month. Also a good reminder of our stats system for people who don't know about it.]]></summary>
-        <author>
-            <name>gamingonlinux</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ytterligare en trailer för den animerade serien Sonic Prime]]></title>
-        <id>https://www.fz.se/artikel/291580</id>
-        <link href="https://www.fz.se/artikel/291580-ytterligare-en-trailer-for-den-animerade-serien-sonic-prime"/>
-        <updated>2022-09-26T07:57:00.000Z</updated>
-        <summary type="html"><![CDATA[24 fartfyllda avsnitt är på väg till Netflix.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PC component scavenging queue jumper pulled into line with a screensaver]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/26/who_me/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/26/who_me/"/>
-        <updated>2022-09-26T07:32:14.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Fake BSOD became tool of revenge when a staffer ignored the sensible rules of seniority</h4> <p><strong>Who, Me?</strong>  Welcome to the working week and therefore to a new instalment of “Who, Me?”, <i>The Register</i>'s confessional in which readers reveal and defend their darkest deeds.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
