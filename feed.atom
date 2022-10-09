@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-09T07:27:14.870Z</updated>
+    <updated>2022-10-09T08:32:45.789Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[When are we gonna stop calling it ransomware? It's just data kidnapping now]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/09/extortion_ransomware_threats_category/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/09/extortion_ransomware_threats_category/"/>
+        <updated>2022-10-09T08:12:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>It's not like the good old days with iffy cryptography and begging for keys</h4> <p><strong>Comment</strong>  It's getting difficult these days to find a ransomware group that doesn't steal data and promise not to sell it if a ransom is paid off. What's more, these criminals are going down the extortion-only route, and not even bothering to scramble your files with encryption.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nästa Splatfest i Splatoon 3 kommer ha Pokémon tema]]></title>
+        <id>https://www.fz.se/artikel/291726</id>
+        <link href="https://www.fz.se/artikel/291726-nasta-splatfest-i-splatoon-3-kommer-ha-pokemon-tema"/>
+        <updated>2022-10-09T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Gräs, eld eller vatten.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[From abandoned board game to birthing a genre: Football Manager at 40]]></title>
         <id>https://www.eurogamer.net/from-abandoned-board-game-to-birthing-a-genre-football-manager-at-40</id>
