@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-09T23:31:03.430Z</updated>
+    <updated>2022-10-10T02:34:27.007Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[South Korea relieved US China chip ban won't bite, as Beijing fumes]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/10/china_fumes_over_us_chip_ban/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/10/china_fumes_over_us_chip_ban/"/>
+        <updated>2022-10-10T00:45:06.000Z</updated>
+        <summary type="html"><![CDATA[<h4>PLUS: SK hynix outgasses Putin; Canon's new litho plant; Equinix into Indonesia; and more!</h4> <p><strong>Asia In Brief</strong>  South Korean chipmakers Samsung and SK hynix have reportedly reacted cautiously to the Biden administration's swingeing <a target="_blank" href="https://www.theregister.com/2022/10/07/biden_china_chips/">bans on certain chip tech reaching China</a>.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nyhetsquiz vecka 40 2022: Pixel, mötesplatser och processortest]]></title>
         <id>https://www.sweclockers.com/artikel/35050</id>
@@ -13075,6 +13085,26 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Utkarsh Gupta: FOSS Activites in September 2022]]></title>
+        <id>https://utkarsh2102.com/posts/foss-in-sept-22/</id>
+        <link href="https://utkarsh2102.com/posts/foss-in-sept-22/"/>
+        <updated>2022-09-30T05:41:11.000Z</updated>
+        <summary type="html"><![CDATA[Here’s my (thirty-sixth) monthly but brief update about the activities I’ve done in the F/L/OSS world.
+Debian
+This was my 45th month of actively contributing to Debian.
+I became a DM in late March 2019 and a DD on Christmas ‘19! \o/
+There’s a bunch of things I do, both, technical and non-technical. Here are the things I did this month:
+Debian Uploads
+rails (2:6.1.6.1+dfsg-2) - Add patch to allow Symbols in YAML columns, fixes #1018934.
+rails (2:6.1.6.1+dfsg-3) - Add patch to remove active_record.yaml initializers.
+rails (2:6.1.6.1+dfsg-4) - Add patch to allow Date, Time, ActiveSupport::HashWithIndifferentAccess in YAML columns.
+ruby-arbre (1.4.0-2) - Add patch to use selector to detect authenticity token input.
+ruby-net-http-digest-auth (1.4.1-1) - New upstream version, v1.4.1 to fix the F…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Digital Ocean won't let new customers create resources in four DCs, won't say why]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/09/30/digital_ocean_limited_capacity_issues/</id>
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/30/digital_ocean_limited_capacity_issues/"/>
@@ -19141,414 +19171,6 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[E3 2023 dates revealed as show hosts separate public and business areas]]></title>
-        <id>https://www.vg247.com/e3-2023-dates-revealed-as-show-hosts-separate-public-and-business-areas</id>
-        <link href="https://www.vg247.com/e3-2023-dates-revealed-as-show-hosts-separate-public-and-business-areas"/>
-        <updated>2022-09-26T14:31:29.000Z</updated>
-        <summary type="html"><![CDATA[Earlier this year, we reported that E3 will make its long-awaited return to its now-traditional home of Los Angeles Convention Center in 2023 – but beyond that, details were a little light.
-Today, thanks to a huge article published by VG247 sibling, GI.biz, we've got a little more information on what E3 2023 will actually look like, this time around. And confirmation of dates. 
-First up, the E3 2023 dates. For 2023, the show will return for a four-day expo from Tuesday, June 13 through Friday, June 16, 2023, and will feature separate industry and consumer days and spaces.
- Read more]]></summary>
-        <author>
-            <name>Dom Peppiatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[E3 2023 announces in-person show dates]]></title>
-        <id>https://www.eurogamer.net/e3-2023-announces-in-person-show-dates</id>
-        <link href="https://www.eurogamer.net/e3-2023-announces-in-person-show-dates"/>
-        <updated>2022-09-26T14:30:00.000Z</updated>
-        <summary type="html"><![CDATA[E3 will return as an in-person event next year in June, with three days given over to industry attendees and two days for the general public. 
-
-
-The LA-based show will open its doors for the first time since 2019 at its usual home of the Los Angeles Convention Centre, following mixed success as an online event in the interim. 
-
-
-Next year will see the LACC's two main halls divided into separate spaces for industry attendees and those attending as fans - similar to how the various halls are separated at Gamescom.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fan uses Super Mario Maker 2 to make a full "classic" Mario]]></title>
-        <id>https://www.eurogamer.net/fan-uses-super-mario-maker-2-to-make-a-full-classic-mario</id>
-        <link href="https://www.eurogamer.net/fan-uses-super-mario-maker-2-to-make-a-full-classic-mario"/>
-        <updated>2022-09-26T14:18:53.000Z</updated>
-        <summary type="html"><![CDATA[A Mario fan has used Super Mario Maker 2 to create a whole game inspired by the classic Mario games.
-
-Twitter user MetroidMike64 spent seven years working on his Super World, which he has unofficially named Super Mario Bros. 5, and uploaded the finished product online yesterday.
-MetroidMike64 began creating levels in 2015 using Super Mario Maker on the Wii U, and had always intended for them to be part of a larger game.
- Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oracle extends share options plans, no bumper payday for execs... yet]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/26/oracle_exec_compensation/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/26/oracle_exec_compensation/"/>
-        <updated>2022-09-26T14:00:13.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Not all investors happy that suits get more time to earn significant stock-option awards</h4> <p>Not all execs are created equal and those of the Oracle variety remain among the highest paid due to an extension to performance-based stock options that gives them more time to achieve corporate goals.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bits from Debian: New Debian Developers and Maintainers (July and August 2022)]]></title>
-        <id>tag:bits.debian.org,2022-09-26:/2022/09/new-developers-2022-08.html</id>
-        <link href="https://bits.debian.org/2022/09/new-developers-2022-08.html"/>
-        <updated>2022-09-26T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The following contributors got their Debian Developer accounts in the last two months:
-Sakirnth Nagarasa (sakirnth)
-Philip Rinn (rinni)
-Arnaud Rebillout (arnaudr)
-Marcos Talau (talau)
-The following contributors were added as Debian Maintainers in the last two months:
-Xiao Sheng Wen
-Andrea Pappacoda
-Robin Jarry
-Ben Westover
-Michel Alexandre Salim
-Congratulations!]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Graphics Cards for Gaming in 2022]]></title>
-        <id>ADASzcgE7WXGrc6WHDXDs6</id>
-        <link href="https://www.tomshardware.com/reviews/best-gpus,4380.html"/>
-        <updated>2022-09-26T13:57:21.000Z</updated>
-        <summary type="html"><![CDATA[We've benchmarked all the latest GPUs to select the best graphics cards for gaming. These graphics cards offer the best performance at their price and resolution, from 1080p to 4K.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPU Benchmarks and Hierarchy 2022: Graphics Cards Ranked]]></title>
-        <id>L8SfcAV5o28ayEFjzq6cfX</id>
-        <link href="https://www.tomshardware.com/reviews/gpu-hierarchy,4388.html"/>
-        <updated>2022-09-26T13:52:13.000Z</updated>
-        <summary type="html"><![CDATA[Our GPU benchmarks hierarchy ranks all the current and previous generation graphics cards based on real-world gaming tests. Find out how the latest GPUs stack up.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Purportedly Decides on Location for Multibillion-Euro Chip Factory]]></title>
-        <id>QaiihUtCTpfkdzypu2k8RV</id>
-        <link href="https://www.tomshardware.com/news/intel-decides-on-location-for-euro-chip-factory"/>
-        <updated>2022-09-26T13:48:48.000Z</updated>
-        <summary type="html"><![CDATA[Confirmation of the deal is thought to have been held back so as not to influence the general election. The Vigasio site is expected to be dedicated to advanced semiconductor packaging and assembly.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Judgment mod adds cut actor Pierre Taki back into the game]]></title>
-        <id>https://www.rockpapershotgun.com/judgment-mod-adds-cut-actor-pierre-taki-back-into-the-game</id>
-        <link href="https://www.rockpapershotgun.com/judgment-mod-adds-cut-actor-pierre-taki-back-into-the-game"/>
-        <updated>2022-09-26T13:43:13.000Z</updated>
-        <summary type="html"><![CDATA[Fans of Yakuza spin-off Judgment and of Japanese actors who’ve been naughty will be pleased to hear that there’s a mod to restore the voice and likeness of Pierre Taki to the game. Taki-san's performance as character Kyohei Hamura was removed from the Japanese version of Judgment after he was arrested for possession and use of cocaine in 2019, never making it to the West. Now, the Judgment Pierre Taki Restoration Patch finally brings the scrubbed actor back for the very first time, over here at least.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Assassin's Creed Valhalla's next big update concludes its fun puzzle tomb storyline]]></title>
-        <id>https://www.eurogamer.net/assassins-creed-valhallas-next-big-update-concludes-its-fun-puzzle-tomb-storyline</id>
-        <link href="https://www.eurogamer.net/assassins-creed-valhallas-next-big-update-concludes-its-fun-puzzle-tomb-storyline"/>
-        <updated>2022-09-26T13:30:55.000Z</updated>
-        <summary type="html"><![CDATA[The ever-expanding world of Assassin's Creed Valhalla will receive one of its final major updates tomorrow, as it adds a final set of puzzle tombs via patch 1.6.1. 
-
-
-This activity was originally added to the game earlier this year, and adds a new storyline expanding upon the series' mysterious precursor Isu race, doled out by exploring a string of fun puzzle dungeons. 
-
-
-It also allows for Eivor to come face-to-face with a series of British figures from history before her time - such as the ancient queen of the Iceni, Boudicca. Fans have some interesting theories on who may pop up in this concluding set of dungeons (including someone perhaps more from Assassin's Creed lore than actual history itself).
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Diofield Chronicle]]></title>
-        <id>https://www.fz.se/artikel/291582</id>
-        <link href="https://www.fz.se/artikel/291582-the-diofield-chronicle"/>
-        <updated>2022-09-26T13:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Square Enix nya rollspel är ambitiöst men missar målet.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't expect any difficulty options in Wo Long: Fallen Dynasty]]></title>
-        <id>https://www.vg247.com/dont-expect-any-difficulty-options-in-wo-long-fallen-dynasty</id>
-        <link href="https://www.vg247.com/dont-expect-any-difficulty-options-in-wo-long-fallen-dynasty"/>
-        <updated>2022-09-26T13:18:12.000Z</updated>
-        <summary type="html"><![CDATA[Wo Long: Fallen Dynasty is following the long tradition of difficult games not having any difficulty options.
-
-
-It's a tale as old as time by this point, but difficult games, whether they be Dark Souls, Nioh, or an indie trying its own thing, often don't have any kind of difficulty options. Which isn't even touching on the related but separate issue of accessibility options. And now, Wo Long's producer Masaaki Yamagiwa has explained the decision behind not having any difficulty options in a recent interview.
-
-
-Speaking to MP1st, Yamagiwa said "We're thinking it's 'good' to have one set difficulty so that everyone has the same experience of overcoming a really intense obstacle and they all have that feeling of achievement, like I did it. But the caveat there is giving players all different ways that they can do that."
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Ryzen 9 7950X och Ryzen 7 7700X "Raphael"]]></title>
-        <id>https://www.sweclockers.com/artikel/34873</id>
-        <link href="https://www.sweclockers.com/artikel/34873-amd-ryzen-9-7950x-och-ryzen-7-7700x-raphael"/>
-        <updated>2022-09-26T13:00:29.000Z</updated>
-        <summary type="html"><![CDATA[Konstnären "Raphael" med arkitekturen Zen 4 och tillverkning på 5 nanometer äntrar scen, med löften om stora förbättringar och dominans i prestandatoppen.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ryzen 7600X and 7950X review: Zen 4 starts off expensive but impressive]]></title>
-        <id>https://arstechnica.com/?p=1882539</id>
-        <link href="https://arstechnica.com/?p=1882539"/>
-        <updated>2022-09-26T13:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Thermal behavior is a bit odd, but there's lots to like about these new CPUs.]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Ryzen 9 7950X and Ryzen 5 7600X Review: A Return to Gaming Dominance]]></title>
-        <id>XwDE9wcRSz6Wfer8qtcgKk</id>
-        <link href="https://www.tomshardware.com/news/amd-ryzen-9-7950x-ryzen-5-7600x-cpu-review"/>
-        <updated>2022-09-26T13:00:20.000Z</updated>
-        <summary type="html"><![CDATA[We put the Intel-beating Zen 4 Ryzen 7 7950X and Ryzen 5 7600X through our extensive series of tests to see if the chips are worth your hard-earned cash.]]></summary>
-        <author>
-            <name>palcorn@outlook.com (Paul Alcorn)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything you need to know about Zen 4, socket AM5, and AMD’s newest chipsets]]></title>
-        <id>https://arstechnica.com/?p=1877127</id>
-        <link href="https://arstechnica.com/?p=1877127"/>
-        <updated>2022-09-26T13:00:13.000Z</updated>
-        <summary type="html"><![CDATA[Ryzen 7000 CPUs use a new platform—with plenty of changes.]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Ryzen 9 7900X / Ryzen 9 7950X Benchmarks Show Impressive Zen 4 Linux Performance]]></title>
-        <id>https://www.phoronix.com/review/amd-ryzen-7900x-7950x-linux</id>
-        <link href="https://www.phoronix.com/review/amd-ryzen-7900x-7950x-linux"/>
-        <updated>2022-09-26T13:00:10.000Z</updated>
-        <summary type="html"><![CDATA[The review embargo just lifted for the AMD Ryzen 7000 series "Zen 4" desktop processors ahead of their retail availability this week. As such there are a few Phoronix articles today looking at these Zen 4 processors under Linux and many benchmarks whole several more follow-up articles will be coming over the weeks ahead. For the launch-day review I have the AMD Ryzen 9 7900X and 7950X processors. Let's take a look at the significant performance improvements to find with the AMD Ryzen 9 7900 series under Linux.]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US Department of Energy has $42m to make datacenter cooling more efficient]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/26/coolerchips_program_doe/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/26/coolerchips_program_doe/"/>
-        <updated>2022-09-26T13:00:09.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Nice sentiment considering power-hungry components, but it's not a lot of cash in DC terms</h4> <p>The US Department of Energy is stumping up $42 million in funding for projects to reduce the amount of energy used for cooling in datacenters as part of the government's overarching goal of reaching net zero carbon dioxide emissions by 2050.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sable developer celebrates first anniversary with official art book]]></title>
-        <id>https://www.eurogamer.net/sable-developer-celebrates-first-anniversary-with-official-art-book</id>
-        <link href="https://www.eurogamer.net/sable-developer-celebrates-first-anniversary-with-official-art-book"/>
-        <updated>2022-09-26T13:00:08.000Z</updated>
-        <summary type="html"><![CDATA[An upcoming book focusing on all things Sable will be released to celebrate the game's one-year anniversary. 
-
-
-Sable: Design Works will be the first instalment from publisher Lost in Cult's new series of indie-focussed art books. This particular release, which is due to launch in the second quarter of 2023, will feature interviews from those at developer Shedworks, as well as a "region-by-region insight" into the world of Midden and its art.
-
-
-The book itself will be split into two different sections, one that "charts the development of Sable from its early concept and prototype, through its production, to launch" and one that focuses exclusively on the artwork and visuals. 
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Zen 4 AVX-512 Performance Analysis On The Ryzen 9 7950X]]></title>
-        <id>https://www.phoronix.com/review/amd-zen4-avx512</id>
-        <link href="https://www.phoronix.com/review/amd-zen4-avx512"/>
-        <updated>2022-09-26T13:00:05.000Z</updated>
-        <summary type="html"><![CDATA[While much of AMD's briefings for the Ryzen 7000 desktop series were focused on gaming and other consumer workloads, one of the most exciting aspects for me with the Ryzen 7000 series is AMD now supporting AVX-512. But rather going for a 512-bit FPU data path and the possibility of reduced clock frequencies and power/thermal concerns, they employed a 256-bit "double pumping" strategy. When getting the AMD Ryzen 9 7950X in the lab, exploring the AMD Zen 4 AVX-512 performance was one of the areas I was most excited to evaluate. From the benchmarks about to be shown, AMD's initial AVX-512 implementation is promising and has me all the more excited for finding it on AMD EPYC "Genoa" processors.]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Ryzen 9 7900X and Ryzen 5 7600X review: welcome to the future]]></title>
-        <id>https://www.eurogamer.net/digitalfoundry-2022-amd-ryzen-9-7900x-ryzen-5-7600x-review</id>
-        <link href="https://www.eurogamer.net/digitalfoundry-2022-amd-ryzen-9-7900x-ryzen-5-7600x-review"/>
-        <updated>2022-09-26T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[AMD's Ryzen 7000 processors are here, with a new 5nm process node and AM5 socket unlocking higher clock frequencies, greater power usage and in turn better performance. The four new CPUs releasing on September 27th also include a new 6nm I/O die, integrated graphics and support for DDR5 and PCIe 5.0 - it's a substantial feature upgrade that reclaims parity with Intel's 12th-gen CPUs. 
-Of course, features often come second to fps, so performance testing has comprised the bulk of our efforts. So far, two chips have crossed our desks - the $549/£579 Ryzen 9 7900X and $299/£319 Ryzen 5 7600X - and we've put them up against our assortment of hand-picked games and a sprinkling of productivity benchmarks too. The question we want to answer is simple: how do these Zen 4 designs perform against Intel's 12th-gen Core counterparts and AMD's older Ryzen 5000 lineup? 
-The move to DDR5 also brings up a secondary question - what's the current RAM sweet spot for price/performance with Ryzen 7000? AMD suggest in their documentation that DDR5-6000 is the ideal right now, so we've tested their CPUs - and Intel's closest equivalents - at both 6000MT/s (AMD's recommendation) and 5200MT/s (where we did our Intel 12th-gen testing). 
- Read more]]></summary>
-        <author>
-            <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grounded review - a delightful mix of harsh survival and warm-hearted design]]></title>
-        <id>https://www.eurogamer.net/grounded-review-a-delightful-mix-of-harsh-survival-and-warm-hearted-design</id>
-        <link href="https://www.eurogamer.net/grounded-review-a-delightful-mix-of-harsh-survival-and-warm-hearted-design"/>
-        <updated>2022-09-26T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The first time Grounded killed me, I was beaten to death by a lawn mite. You know; those teeny, tiny little red bugs that could line-dance on a head of a pin and scurry along paving stones, looking like they couldn't hurt anything? Yeah. One of those. Emphasis on the "one", too, as this lad had been alone. And yet he'd taken one look at my sassy side ponytail and (correctly) presumed I was an easy target. Was it unexpected? You bet. Scary? Surprisingly so. Embarrassing? Yes. Very. 
-
-
-Given I'm still on Day One of my survival journey I'd been hoping for a gentle tutorial period, but this bad boy had barrelled towards me, focused and unflinching, like a toddler locks onto a ball pit. A single thought flickers through my head: if these are the early enemies, what the hell are the strong ones like?!
-
-
-The second time I cark it, I died of thirst. It wasn't that I ignored the instruction to get something to drink as much as I was distracted by the glorious wilderness – well, if you can call a suburban backyard the wilderness – and I didn't realise until the sun went down that I was missing the sap required to rustle up a torch. So, instead of creating a Lean To and hunkering down for the night, I huddled beneath the Kid Case spawn point instead – hotly aware of every slither and scuttle around me – and slowly expired of acute dehydration. Turns out that was more embarrassing than being walloped to death by the mite.
- 
-Read more]]></summary>
-        <author>
-            <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Ryzen 9 7900X / 7950X Linux Gaming Performance]]></title>
-        <id>https://www.phoronix.com/review/ryzen-7900-series-gaming</id>
-        <link href="https://www.phoronix.com/review/ryzen-7900-series-gaming"/>
-        <updated>2022-09-26T13:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today the review embargo expires on the AMD Ryzen 7000 series desktop processors ahead of their retail availability this week. Over the past two weeks I have been testing the AMD Ryzen 9 7900X and 7950X processors as the initial review samples (I should be receiving the Ryzen 5 7600X and Ryzen 7 7700X CPUs this week, AMD is staggering their review seeding of the different models). In this article to get things started are my initial Linux gaming benchmarks with the Ryzen 9 7900X/7950X compared to an assortment of other AMD and Intel systems.]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Studio rumoured to be making Halo Infinite battle royale offers fresh tease]]></title>
-        <id>https://www.eurogamer.net/studio-rumoured-to-be-making-halo-infinite-battle-royale-offers-fresh-tease</id>
-        <link href="https://www.eurogamer.net/studio-rumoured-to-be-making-halo-infinite-battle-royale-offers-fresh-tease"/>
-        <updated>2022-09-26T12:58:53.000Z</updated>
-        <summary type="html"><![CDATA[Certain Affinity, the studio long-rumoured to be building a battle royale mode for Halo Infinite, has offered up a fresh hint of its plans for the project. 
-
-
-The developer - which has assisted with work on the Halo series from as far back as Halo 2 - was reported to be working on a new battle royale mode back in January. The following month, it issued a statement to confirm it was "deepening" its relationship with franchise holder 343 Industries. 
-
-
-Now, Certain Affinity exec Paul Sams has said the studio's still-technically-unannounced project had been in the works for more than two years, with almost 100 staff working on it.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comic for 2022.09.26 - Police Car]]></title>
-        <id>https://explosm.net/comics/police-car</id>
-        <link href="https://explosm.net/comics/police-car"/>
-        <updated>2022-09-26T12:53:11.000Z</updated>
-        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
-        <author>
-            <name>Explosm.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Caesar III game engine Augustus has a new releases up]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/caesar-iii-game-engine-augustus-has-a-new-releases-up/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/caesar-iii-game-engine-augustus-has-a-new-releases-up/"/>
-        <updated>2022-09-26T12:49:31.000Z</updated>
-        <summary type="html"><![CDATA[Augustus is a game engine reimplementation for the classic Caesar III, enabling you to play on modern platforms (like Linux / Steam Deck).]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Certain Affinity jobbar på något stort och Halo Infinite-relaterat]]></title>
-        <id>https://www.fz.se/artikel/291586</id>
-        <link href="https://www.fz.se/artikel/291586-certain-affinity-jobbar-pa-nagot-stort-och-halo-infinite-relaterat"/>
-        <updated>2022-09-26T12:46:00.000Z</updated>
-        <summary type="html"><![CDATA[Fler än 100 pers harvar på med något "nytt för serien".]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA battens down another Artemis launch window as hurricane approaches]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/26/hurricane_ian_artemis_delay/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/26/hurricane_ian_artemis_delay/"/>
-        <updated>2022-09-26T12:28:12.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Agency watching forecast before making decision to rollback the SLS, but not doing so would be risky</h4> <p>Rocket fans will have to stow the popcorn once again because NASA's rescheduled launch of Artemis I this week has been stood down.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Final Fantasy 14's Naoki Yoshida on creating the ultimate MMORPG]]></title>
-        <id>https://www.eurogamer.net/final-fantasy-14s-naoki-yoshida-on-creating-the-ultimate-mmorpg</id>
-        <link href="https://www.eurogamer.net/final-fantasy-14s-naoki-yoshida-on-creating-the-ultimate-mmorpg"/>
-        <updated>2022-09-26T11:39:08.000Z</updated>
-        <summary type="html"><![CDATA[The recently added Patch 6.2 was arguably Final Fantasy 14's most diverse update yet.
-
-
-Front and centre was the Island Sanctuary: a farming life sim mode that offers a relaxing alternative to dungeon battling through duties and raids. That was on top of more main scenario and side quests, treasure hunts, housing options, and an extension of the Duty Support feature that lets players quest alone.
-
-
-All of this variety is in line with producer and director Naoki Yoshida's idea of the ultimate MMORPG.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marvel has no plans for video game MCU]]></title>
-        <id>https://www.eurogamer.net/marvel-has-no-plans-for-video-game-mcu</id>
-        <link href="https://www.eurogamer.net/marvel-has-no-plans-for-video-game-mcu"/>
-        <updated>2022-09-26T11:36:12.000Z</updated>
-        <summary type="html"><![CDATA[There are no plans for Marvel's many upcoming video game projects to form any kind of connected universe, the comic book maker has said. 
-
-
-Marvel exec Bill Rosemann set the record straight as part of a GamesIndustry.biz interview, which comes after a succession of announcements for upcoming Iron Man, Black Panther and Wolverine  games.
-
-
-"The world is, amazingly, very familiar and accepting of the multiverse," Rosemann said. "We have all these different realities. Now they're all real, and we want to give everyone the freedom to tell their story. 
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spelkonserten Score kommer till Stockholm i februari]]></title>
-        <id>https://www.fz.se/artikel/291585</id>
-        <link href="https://www.fz.se/artikel/291585-spelkonserten-score-kommer-till-stockholm-i-februari"/>
-        <updated>2022-09-26T11:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Och biljetterna är nu släppta.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[US to relax restrictions for tech companies in Iran]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/26/us_iran_comms_license/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/26/us_iran_comms_license/"/>
-        <updated>2022-09-26T11:32:10.000Z</updated>
-        <summary type="html"><![CDATA[<h4>With censorship looming, US wants to bring internet, communications companies into fray</h4> <p>The US Treasury announced last Friday it was issuing a General License that provides some exemptions to Iran sanctions for internet and communication services in an effort to damper censorship.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
