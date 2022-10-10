@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-10T17:42:11.908Z</updated>
+    <updated>2022-10-10T18:38:26.592Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Mamma Mia! En bit av Super Mario-trailern i Mario 64-stuk]]></title>
+        <id>https://www.fz.se/artikel/291741</id>
+        <link href="https://www.fz.se/artikel/291741-mamma-mia-en-bit-av-super-mario-trailern-i-mario-64-stuk"/>
+        <updated>2022-10-10T18:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Resultatet är superkort men supercharmigt.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Platform Management Framework Merged For Linux 6.1 With Many Laptop Improvements]]></title>
+        <id>https://www.phoronix.com/news/x86-Platform-Drivers-6.1</id>
+        <link href="https://www.phoronix.com/news/x86-Platform-Drivers-6.1"/>
+        <updated>2022-10-10T18:20:28.000Z</updated>
+        <summary type="html"><![CDATA[The platform drivers x86 updates were merged a few days ago for the Linux 6.1 kernel. Most notable is the introduction of the AMD Platform Management Framework (PMF) while there are also a number of laptop driver updates too as part of this feature update...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fans think Phil Spencer's shelf is teasing the Xbox Game Pass streaming box]]></title>
+        <id>https://www.eurogamer.net/fans-think-phil-spencers-shelf-is-teasing-the-xbox-game-pass-streaming-box</id>
+        <link href="https://www.eurogamer.net/fans-think-phil-spencers-shelf-is-teasing-the-xbox-game-pass-streaming-box"/>
+        <updated>2022-10-10T18:14:34.000Z</updated>
+        <summary type="html"><![CDATA[Phil Spencer's shelf is at it again. Ever since it was discovered the Xbox boss had secreted an Xbox Series S in plain sight behind him during a video interview months before the console was announced, fans have been scouring his furnishings for teases of more future reveals - and speculation is now mounting that Spencer has just revealed Microsoft's long-in-the-works Xbox Game Pass streaming device on Twitter.
+
+
+Spencer shared his latest shelf photo earlier today, writing, "Vault Boy left the shelter and stopped by my office to celebrate the Fallout 25th Anniversary." Conspicuously, though, the Vault Boy statue that's supposedly the focus of the tweet is far from the focus of the image. Instead, the photo continues several shelves upward, revealing a mysterious Xbox-branded box fans have so far struggled to identify - and which many are speculating might be the Xbox game-streaming box, codenamed Keystone, announced in 2021.
+
+
+As described by Microsoft in an update on the project in May, the as-yet-unseen Keystone is intended to be a low-cost device enabling users to play Xbox Cloud Gaming titles through any TV or monitor without the need for a console. Reports on its exact nature have varied - some claimed it was a stick-like dongle, others a box - but whatever it was previously, Microsoft said it was 'pivoting away' from the then-current iteration to refocus on "a new approach".
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pro-Putin goons claim responsibility for blowing US airport websites offline]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/10/ddos_us_airport_websites/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/10/ddos_us_airport_websites/"/>
+        <updated>2022-10-10T18:12:28.000Z</updated>
+        <summary type="html"><![CDATA[<h4>How's that boot taste?</h4> <p>Russian miscreants claimed responsibility for knocking more than a dozen US airports' websites offline on Monday morning in what appeared to be a large-scale, distributed-denial-of-service (DDoS) attack.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Klarar din dator av A Plague Tale: Requiem och dess 300 000 råttor?]]></title>
         <id>https://www.fz.se/artikel/291740</id>
@@ -34,6 +82,16 @@
         <summary type="html"><![CDATA[<h4>Gurus say source includes secret hardware info, private signing key for Boot Guard protection</h4> <p>Source code for the BIOS used with Intel's 12th-gen Core processors has been leaked online, possibly including details of undocumented model-specific registers (MSRs) and even the private signing key for Intel's Boot Guard security technology.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Review: Amazon’s $100 Kindle is lightweight and cute, and it nails the basics]]></title>
+        <id>https://arstechnica.com/?p=1888441</id>
+        <link href="https://arstechnica.com/?p=1888441"/>
+        <updated>2022-10-10T16:35:14.000Z</updated>
+        <summary type="html"><![CDATA[All the best features of a circa-2015 Paperwhite in a smaller, cheaper package.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
         </author>
     </entry>
     <entry>
@@ -19640,16 +19698,6 @@ Cobalt-B is a mechanical engineer on the Hykros weapon development team, and she
         <summary type="html"><![CDATA["Älskling, jag krympte barnen" i spelformat.]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snabbkoll: Ska du införskaffa processor ur Ryzen 7000-serien?]]></title>
-        <id>https://www.sweclockers.com/artikel/34979</id>
-        <link href="https://www.sweclockers.com/artikel/34979-snabbkoll-ska-du-inforskaffa-processor-ur-ryzen-7000-serien"/>
-        <updated>2022-09-27T06:17:20.000Z</updated>
-        <summary type="html"><![CDATA[AMD:s första processorer med arkitekturen Zen 4 har fått bekänna färg i testlabbet. Blir det ett köp för dig eller avstår du?]]></summary>
-        <author>
-            <name>SweClockers</name>
         </author>
     </entry>
 </feed>
