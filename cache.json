@@ -12,6 +12,26 @@
       "siteUrl": "https://itsfoss.com",
       "articles": [
         {
+          "id": "https://itsfoss.com/?p=102673",
+          "author": "Abhishek Prakash",
+          "description": "Wondering how to update Google Chrome in Ubuntu? It's done from software center, not from the browser it self. Read in details.",
+          "link": "https://itsfoss.com/update-google-chrome-ubuntu/",
+          "publishedOn": "2022-10-10T07:28:33.000Z",
+          "wordCount": 7172,
+          "title": "How to Update Google Chrome on Ubuntu Linux",
+          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/10/update-google-chrome-in-ubuntu.png"
+        },
+        {
+          "id": "https://itsfoss.com/?p=102659",
+          "author": "Abhishek Prakash",
+          "description": "Paying for full HD streaming to Netflix and yet it doesn't play in 1080p? Here's how you can make Netflix play full HD on Firefox browser.",
+          "link": "https://itsfoss.com/netflix-full-hd-firefox/",
+          "publishedOn": "2022-10-10T06:10:26.000Z",
+          "wordCount": 7327,
+          "title": "Simple Trick to Watch Netflix in Full HD on Firefox Browser",
+          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/10/watch-netflix-in-hd-in-firefox.png"
+        },
+        {
           "id": "https://itsfoss.com/?p=100970",
           "author": "Pratham Patel",
           "description": "Using VNC could also be a good choice if you need the comfort of the GUI to connect to Raspberry Pi remotely. Learn how to setup VNC on Raspberry Pi for remote connections.",
@@ -9538,21 +9558,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/ufia8tDZwcWdWs5fuGeh79.jpg"
-        },
-        {
-          "id": "GxrSFt9S9jDT54mvSEopjD",
-          "author": null,
-          "description": "Buggy, bloated, and broken PC gaming peripheral software makes me want to buy a console.",
-          "link": "https://www.tomshardware.com/opinion/gaming-peripheral-apps-ranked-from-worst-to-worst",
-          "publishedOn": "2022-09-26T19:00:49.000Z",
-          "wordCount": 25362,
-          "title": "Gaming Peripheral Apps, Ranked From Worst to Worst",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/DPxTkToBgcUuERH5VbxmXS.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/DPxTkToBgcUuERH5VbxmXS.jpg"
         }
       ]
     },
@@ -11734,36 +11739,6 @@
           "wordCount": 1541,
           "title": "Google fights latest attempt to have Big Tech pay for ISPs’ network upgrades",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/google-matt-brittin-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1884572",
-          "author": "Sam Machkovech",
-          "description": "Reading between the lines about what post-COVID E3 will look like.",
-          "link": "https://arstechnica.com/?p=1884572",
-          "publishedOn": "2022-09-26T19:28:49.000Z",
-          "wordCount": 1888,
-          "title": "E3 2023 locks down venue, schedule—and confirms new fan-friendly twist",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/e32023listing-1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1884593",
-          "author": "Dan Goodin",
-          "description": "Distributed denial-of-service attacks are also likely to increase, advisory says.",
-          "link": "https://arstechnica.com/?p=1884593",
-          "publishedOn": "2022-09-26T19:14:57.000Z",
-          "wordCount": 1772,
-          "title": "Russia plans “massive cyberattacks” on critical infrastructure, Ukraine warns",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/ukr-matrix-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1884390",
-          "author": "Doug Johnson",
-          "description": "Beyond lithium: Report weighs strengths, weaknesses of alternative battery types",
-          "link": "https://arstechnica.com/?p=1884390",
-          "publishedOn": "2022-09-26T19:05:43.000Z",
-          "wordCount": 1634,
-          "title": "Report pushes ‘big-tent’ approach for the future of batteries",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1202599932-760x380.jpg"
         }
       ]
     },
@@ -11772,6 +11747,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291732",
+          "author": null,
+          "description": "Och Crash Bandicoot 4 kommer till Steam om en vecka.",
+          "link": "https://www.fz.se/artikel/291732-nytt-crash-bandicoot-spel-verkar-bli-utannonserat-pa-the-game-awards",
+          "publishedOn": "2022-10-10T06:54:00.000Z",
+          "wordCount": 1949,
+          "title": "Nytt Crash Bandicoot-spel verkar bli utannonserat på The Game Awards",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291732"
+        },
         {
           "id": "https://www.fz.se/artikel/291731",
           "author": null,
@@ -13281,16 +13266,6 @@
           "wordCount": 1812,
           "title": "The Last of Us-serien har fått en längre trailer",
           "imageUrl": "https://www.fz.se/artikel/og-image/291591"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291590",
-          "author": null,
-          "description": "Nytt spel, när?",
-          "link": "https://www.fz.se/artikel/291590-capcoms-onimusha-blir-netflix-serie",
-          "publishedOn": "2022-09-26T18:30:00.000Z",
-          "wordCount": 1659,
-          "title": "Capcoms Onimusha blir Netflix-serie",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291590"
         }
       ]
     },
@@ -14248,16 +14223,6 @@
           "wordCount": 714,
           "title": "Untitled",
           "imageUrl": "https://64.media.tumblr.com/ebff144a5f26923a98141a1d9c4fd70f/2b8ebb890f0fae23-0a/s1280x1920/f4604c86003bad6614ed0e7a34ad7c6750976d5b.png"
-        },
-        {
-          "id": "https://shencomix.tumblr.com/post/696482881291386880",
-          "author": null,
-          "description": "Here’s that LINK! Thx for reading!",
-          "link": "https://shencomix.tumblr.com/post/696482881291386880",
-          "publishedOn": "2022-09-26T18:43:55.000Z",
-          "wordCount": 717,
-          "title": "Untitled",
-          "imageUrl": "https://64.media.tumblr.com/591b792cecfc98c8fe19fdadf87e02b3/defb52df04c7d5e0-cf/s1280x1920/33d2bf3bf34ce52a40e4a54e1813064b26f89fb2.png"
         }
       ]
     },
@@ -14266,6 +14231,36 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/10/who_me/",
+          "author": null,
+          "description": "<h4>In the immortal words of Shaggy: It wasn't me</h4> <p><strong>Who, Me?</strong>  This week's instalment of Who, Me takes a slightly different turn, as in the end (spoiler alert) it wasn't their fault. But what a lesson to learn, nonetheless.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/10/who_me/",
+          "publishedOn": "2022-10-10T07:30:08.000Z",
+          "wordCount": 1181,
+          "title": "Rookie programmer's code goes up in flames ... kind of",
+          "imageUrl": "https://regmedia.co.uk/2021/06/03/firefighter.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/10/mastercard_crypto_secure/",
+          "author": null,
+          "description": "<h4>Expands into a sector so toxic many won't touch it</h4> <p>Supposedly ingenious schemes to revolutionize the finance industry with crypto are not hard to find – nor are their failures. And scarcely a day passes on which a cryptocurrency venture's infosec is not found wanting. That sad situation is causing financial institutions sufficient pain that Mastercard thinks the time is ripe for a service that helps lenders to understand if their customers' crypto purchases are dangerous.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/10/mastercard_crypto_secure/",
+          "publishedOn": "2022-10-10T06:57:09.000Z",
+          "wordCount": 1330,
+          "title": "Mastercard moves to protect 'risky and frisky' crypto transactions",
+          "imageUrl": "https://regmedia.co.uk/2022/01/31/shutterstock_cryptocurrency_crime.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/10/boffins_fungi_shoes/",
+          "author": null,
+          "description": "<h4>Posture, posture, posture, posture, posture, posture, mushroom, mushroom</h4> <p>Four researchers at the Unconventional Computing Laboratory at the University of West England have enlisted fungi to measure how people walk.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/10/boffins_fungi_shoes/",
+          "publishedOn": "2022-10-10T06:27:11.000Z",
+          "wordCount": 1668,
+          "title": "No, no, hear us out, say boffins: Foot fungus to measure your gait, steps",
+          "imageUrl": "https://regmedia.co.uk/2022/10/07/shoes_mushrooms_forest.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/10/chetu_employee_video_surveillance_case/",
           "author": null,
@@ -16735,26 +16730,6 @@
           "wordCount": 1484,
           "title": "NSA super-leaker Edward Snowden granted Russian citizenship",
           "imageUrl": "https://regmedia.co.uk/2016/12/13/snowden.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/26/intel_italy_packaging/",
-          "author": null,
-          "description": "<h4>Government may foot up to 40% of the bill for a fab that runs on time</h4> <p>As Intel looks to expand its rebooted foundry empire, the x86 giant's next chip plant may be an advanced packaging facility in the northern Italy.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/26/intel_italy_packaging/",
-          "publishedOn": "2022-09-26T18:56:57.000Z",
-          "wordCount": 1512,
-          "title": "Intel's planned Italian facility now tied up in election politics",
-          "imageUrl": "https://regmedia.co.uk/2021/09/16/shutterstock_colosseum_rome.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/26/california_to_phase_out_gas/",
-          "author": null,
-          "description": "<h4>It'll reduce emissions a bunch, but stress the grid even more</h4> <p>First it came for internal combustion engines, and now the California Air Resources Board (CARB) is proposing a phase out of natural gas water heaters and furnaces – another first among US states.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/26/california_to_phase_out_gas/",
-          "publishedOn": "2022-09-26T18:20:07.000Z",
-          "wordCount": 1422,
-          "title": "California to phase out gas furnaces, water heaters by 2030",
-          "imageUrl": "https://regmedia.co.uk/2022/09/26/shutterstock_gas_heater.jpg"
         }
       ]
     }
