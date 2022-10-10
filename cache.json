@@ -7255,6 +7255,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "vpHugqo49QnVLrwffueHMU",
+          "author": null,
+          "description": "AMD's new B650 series motherboards are anything but cheap, starting at $169 for the most affordable version, with most sitting in the $250 price range.",
+          "link": "https://www.tomshardware.com/news/amds-budget-b650-b650e-motherboards-top-out-at-dollar450",
+          "publishedOn": "2022-10-10T16:32:17.000Z",
+          "wordCount": 24685,
+          "title": "AMD's Budget B650, B650E Motherboards Top Out at $450",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/FkcEUYwXwDy9srtD7Zz2Jm.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/FkcEUYwXwDy9srtD7Zz2Jm.jpg"
+        },
+        {
           "id": "BgBT7EC5MYESqFAyu2K3oB",
           "author": null,
           "description": "Find savings on PC hardware at Amazon, Neweggm Best Buy and other tech retailers during Prime Early Access.",
@@ -12358,6 +12373,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291740",
+          "author": null,
+          "description": "Kraven är hyfsat höga.",
+          "link": "https://www.fz.se/artikel/291740-klarar-din-dator-av-a-plague-tale-requiem-och-dess-300-000-rattor",
+          "publishedOn": "2022-10-10T16:53:00.000Z",
+          "wordCount": 1942,
+          "title": "Klarar din dator av A Plague Tale: Requiem och dess 300 000 råttor?",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291740"
+        },
+        {
           "id": "https://www.fz.se/artikel/291739",
           "author": null,
           "description": "Den enes död, den andres... död?",
@@ -14932,6 +14957,26 @@
       "siteUrl": "https://www.theregister.com/",
       "articles": [
         {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/10/rivian_recalls_cars/",
+          "author": null,
+          "description": "<h4>A faulty fastener could leave drivers with wheel in hand, but no steering control</h4> <p>Beleaguered electric automaker Rivian is facing another setback: the recall of nearly 80 percent of the vehicles it has produced.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/10/rivian_recalls_cars/",
+          "publishedOn": "2022-10-10T16:46:15.000Z",
+          "wordCount": 1632,
+          "title": "Rivian recalls nearly every vehicle it has sold",
+          "imageUrl": "https://regmedia.co.uk/2022/10/10/rivian-assembly-line.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/10/alder_lake_bios_code_leaked/",
+          "author": null,
+          "description": "<h4>Gurus say source includes secret hardware info, private signing key for Boot Guard protection</h4> <p>Source code for the BIOS used with Intel's 12th-gen Core processors has been leaked online, possibly including details of undocumented model-specific registers (MSRs) and even the private signing key for Intel's Boot Guard security technology.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/10/alder_lake_bios_code_leaked/",
+          "publishedOn": "2022-10-10T16:45:13.000Z",
+          "wordCount": 1628,
+          "title": "Intel Alder Lake BIOS code leak may contain vital secrets",
+          "imageUrl": "https://regmedia.co.uk/2021/10/27/alder_lake.jpg"
+        },
+        {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/10/confidential_containers_encrypted_k8s/",
           "author": null,
           "description": "<h4>Keeping the contents of your clusters secure from whoever's hosting them</h4> <p>Red Hat is backing a Cloud Native Computing Foundation (CNCF) project that aims to improve the security of containers in Kubernetes clusters by running them inside hardware-enforced enclaves.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
@@ -17460,16 +17505,6 @@
           "wordCount": 1692,
           "title": "China's infosec researchers obeyed Beijing and stopped reporting vulns ... or did they?",
           "imageUrl": "https://regmedia.co.uk/2021/02/22/china.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/etno_digital_infrastructure_sustainability/",
-          "author": null,
-          "description": "<h4>Argue tough economy means everyone needs to pay for the internet's growth – especially those who use it most</h4> <p>The European Telecommunications Network Operators' Association (ETNO) has again called for big technology companies – and especially video streamers – to pay for their share of internet infrastructure.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/etno_digital_infrastructure_sustainability/",
-          "publishedOn": "2022-09-27T05:30:10.000Z",
-          "wordCount": 1392,
-          "title": "European carriers again call for Big Tech to fund network builds",
-          "imageUrl": "https://regmedia.co.uk/2017/05/31/wifi4eu_euro_wifi_logo.jpg"
         }
       ]
     }

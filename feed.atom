@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-10T16:40:29.253Z</updated>
+    <updated>2022-10-10T17:42:11.908Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Klarar din dator av A Plague Tale: Requiem och dess 300 000 råttor?]]></title>
+        <id>https://www.fz.se/artikel/291740</id>
+        <link href="https://www.fz.se/artikel/291740-klarar-din-dator-av-a-plague-tale-requiem-och-dess-300-000-rattor"/>
+        <updated>2022-10-10T16:53:00.000Z</updated>
+        <summary type="html"><![CDATA[Kraven är hyfsat höga.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rivian recalls nearly every vehicle it has sold]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/10/rivian_recalls_cars/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/10/rivian_recalls_cars/"/>
+        <updated>2022-10-10T16:46:15.000Z</updated>
+        <summary type="html"><![CDATA[<h4>A faulty fastener could leave drivers with wheel in hand, but no steering control</h4> <p>Beleaguered electric automaker Rivian is facing another setback: the recall of nearly 80 percent of the vehicles it has produced.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Alder Lake BIOS code leak may contain vital secrets]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/10/alder_lake_bios_code_leaked/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/10/alder_lake_bios_code_leaked/"/>
+        <updated>2022-10-10T16:45:13.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Gurus say source includes secret hardware info, private signing key for Boot Guard protection</h4> <p>Source code for the BIOS used with Intel's 12th-gen Core processors has been leaked online, possibly including details of undocumented model-specific registers (MSRs) and even the private signing key for Intel's Boot Guard security technology.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD's Budget B650, B650E Motherboards Top Out at $450]]></title>
+        <id>vpHugqo49QnVLrwffueHMU</id>
+        <link href="https://www.tomshardware.com/news/amds-budget-b650-b650e-motherboards-top-out-at-dollar450"/>
+        <updated>2022-10-10T16:32:17.000Z</updated>
+        <summary type="html"><![CDATA[AMD's new B650 series motherboards are anything but cheap, starting at $169 for the most affordable version, with most sitting in the $250 price range.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prime Day October Live: Latest GPU, CPU, SSD and PC Deals]]></title>
         <id>BgBT7EC5MYESqFAyu2K3oB</id>
@@ -19610,16 +19650,6 @@ Cobalt-B is a mechanical engineer on the Hykros weapon development team, and she
         <summary type="html"><![CDATA[AMD:s första processorer med arkitekturen Zen 4 har fått bekänna färg i testlabbet. Blir det ett köp för dig eller avstår du?]]></summary>
         <author>
             <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[European carriers again call for Big Tech to fund network builds]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/27/etno_digital_infrastructure_sustainability/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/27/etno_digital_infrastructure_sustainability/"/>
-        <updated>2022-09-27T05:30:10.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Argue tough economy means everyone needs to pay for the internet's growth – especially those who use it most</h4> <p>The European Telecommunications Network Operators' Association (ETNO) has again called for big technology companies – and especially video streamers – to pay for their share of internet infrastructure.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
