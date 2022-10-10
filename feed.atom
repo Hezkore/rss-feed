@@ -2,10 +2,133 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-10T15:31:41.847Z</updated>
+    <updated>2022-10-10T16:40:29.253Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Prime Day October Live: Latest GPU, CPU, SSD and PC Deals]]></title>
+        <id>BgBT7EC5MYESqFAyu2K3oB</id>
+        <link href="https://www.tomshardware.com/news/live/prime-day-october-2022"/>
+        <updated>2022-10-10T16:17:32.000Z</updated>
+        <summary type="html"><![CDATA[Find savings on PC hardware at Amazon, Neweggm Best Buy and other tech retailers during Prime Early Access.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doom Runs at 60 FPS in Notepad]]></title>
+        <id>UcUTVVR43TGb4fv65jrvtg</id>
+        <link href="https://www.tomshardware.com/news/doom-runs-at-60-fps-in-notepad"/>
+        <updated>2022-10-10T16:04:35.000Z</updated>
+        <summary type="html"><![CDATA[Game developer Sam Chiet gets Doom to run in Microsoft Notepad on Windows.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Russian Missile Reportedly Hits Samsung's R&D Center In Ukraine]]></title>
+        <id>cKmh8nWg8dbJtg66wg74Kd</id>
+        <link href="https://www.tomshardware.com/news/russian-missile-reportedly-hits-samsungs-randd-center-in-ukraine"/>
+        <updated>2022-10-10T16:03:11.000Z</updated>
+        <summary type="html"><![CDATA[Russia fires vengeance missiles, with dozens of people killed or injured and various civilian buildings and infrastructure destroyed today. It's reportedly Putin's revenge for the Crimea bridge attack.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Hat backs CNCF project, spills TEE support over Kubernetes]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/10/confidential_containers_encrypted_k8s/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/10/confidential_containers_encrypted_k8s/"/>
+        <updated>2022-10-10T16:00:06.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Keeping the contents of your clusters secure from whoever's hosting them</h4> <p>Red Hat is backing a Cloud Native Computing Foundation (CNCF) project that aims to improve the security of containers in Kubernetes clusters by running them inside hardware-enforced enclaves.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Have You Played... Action Man: Raid On Island X?]]></title>
+        <id>https://www.rockpapershotgun.com/have-you-played-action-man-raid-on-island-x</id>
+        <link href="https://www.rockpapershotgun.com/have-you-played-action-man-raid-on-island-x"/>
+        <updated>2022-10-10T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[If I remember correctly, Action Man: Raid On Island X dropped out of a cereal box. This was back when cereal had that Happy Meal generosity, and you'd look forward to that thump as a gift caked in dust landed in your bowl. You won't find any game demos in those wheat crunchie crumbs anymore.
+Definitely not one on the level of Action Man: Raid On Island X at least. It was the absolute business.
+Read more]]></summary>
+        <author>
+            <name>Ed Thorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Your PSN and Steam accounts can now be linked]]></title>
+        <id>https://www.vg247.com/your-psn-and-steam-accounts-can-now-be-linked</id>
+        <link href="https://www.vg247.com/your-psn-and-steam-accounts-can-now-be-linked"/>
+        <updated>2022-10-10T15:54:31.000Z</updated>
+        <summary type="html"><![CDATA[Good news everyone! You can now link together your Steam and PSN accounts. In case you’re not shaking in your boots, screaming and soiling yourself in hype, this means you can claim some super rad free stuff on PC versions of certain PlayStation titles. Snark and sarcasm aside, this marks the latest step in Sony’s invasion of the PC platform.
+You want an example of some of the perks? How about Marvel’s Spider-Man Miles Morales buddy? If you link together your Steam and PSN accounts, you can claim some cosmetics and in-game bonuses including the Resilient Suit, and early unlock of the Concussive Blast, and two skills points. 
+But what else does this mean, aside from Miles Morales players getting a nice little boost if they decide to pick up the game on the PC right now. Well, as briefly mentioned earlier, it’s a rather major milestone in Sony’s slow but steady trudge onto the platform. We’ve seen it make pushes here and there with services like PlayStation Now allowing you to play games like Bloodborne on PC for a while now, but this newfound connectivity adds some extra justification for porting over Sony’s biggest titles to the platform.
+ Read more]]></summary>
+        <author>
+            <name>Connor Makar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ian Jackson: Skipping releases when upgrading Debian systems]]></title>
+        <id>tag:dreamwidth.org,2009-05-21:377446:13087</id>
+        <link href="https://diziet.dreamwidth.org/13087.html"/>
+        <updated>2022-10-10T15:48:27.000Z</updated>
+        <summary type="html"><![CDATA[Debian does not officially support upgrading from earlier than the previous stable release: you’re not supposed to “skip” releases. Instead, you’re supposed to upgrade to each intervening major release in turn.
+However, skipping intervening releases does, in fact, often work quite well. Apparently, this is surprising to many people, even Debian insiders. I was encouraged to write about it some more.
+My personal experience
+I have three conventionally-managed personal server systems (by which I mean systems which aren’t reprovisioned by some kind of automation). Of these at least two have been skip upgraded at least once:
+The one I don’t think I’ve skip-upgraded (at least, not recently) is my house network manager (and now VM host) which I try to keep to a minimum in terms of functionality a…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The scariest games you can play this Halloween – that aren’t what you think]]></title>
+        <id>https://www.vg247.com/scariest-games-halloween-not-what-you-think</id>
+        <link href="https://www.vg247.com/scariest-games-halloween-not-what-you-think"/>
+        <updated>2022-10-10T15:46:24.000Z</updated>
+        <summary type="html"><![CDATA[Spooky season is upon us. The nights are drawing in, the smell of leaf mulch is in the air, and the clouds are stretching out across the sky, getting thinner and wider and seemingly further away – it all looks as if the barriers between the worlds are fading. 
+It's the perfect time, then, to stay indoors; watch the long autumn evenings drip into night from the safety of your sofa, where you're all wrapped up with a mug of tea and your favourite spooky game. Maybe you'll turn to an old classic – Resident Evil or Dead Space – and by the time you look outside again, there's only the pale light of a harvest moon, illuminating the dead streets and frigid pavements of your road.
+Perhaps you don't want to get back into a classic, though – you've played through SOMA one too many times, maybe, and Alien: Isolation just isn't cutting it for you anymore. So we're here to help.
+ 
+Read more]]></summary>
+        <author>
+            <name>Dom Peppiatt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitch responds to controversial revenue split, says 70/30 is "not viable in the long term"]]></title>
+        <id>https://www.eurogamer.net/twitch-responds-to-controversial-revenue-split-says-7030-is-not-viable-in-the-long-term</id>
+        <link href="https://www.eurogamer.net/twitch-responds-to-controversial-revenue-split-says-7030-is-not-viable-in-the-long-term"/>
+        <updated>2022-10-10T15:44:49.000Z</updated>
+        <summary type="html"><![CDATA[Twitch has responded to its controversial decision not to amend its revenue split for streamers.
+
+
+At present, that split is 50/50 between Twitch and streamers, unlike key competition like YouTube that favours streamers with a 70/30 split. In a lengthy blog post last month, Twitch explained why it won't be amending this.
+
+
+
+Then, at TwitchCon San Diego during the Patch Notes livestream, Twitch addressed the issue once again.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Ed Nightingale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US executive order a long way from settling EU privacy cases]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/10/privacy_shield/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/10/privacy_shield/"/>
+        <updated>2022-10-10T15:31:24.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Expect more sequels than Rocky: Europeans' view of 'proportional' very different from US</h4> <p><strong>Comment</strong>  The Trans-Atlantic Data Privacy Framework agreement between the EU and the US is unlikely to settle the issue of sharing personal data between the two economic superpowers, as a set of court cases and legal challenges loom on the horizon.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Modern Warfare 2 players need to register a phone number and pre-paid "may not work"]]></title>
         <id>https://www.rockpapershotgun.com/modern-warfare-2-players-need-to-register-a-phone-number-and-pre-paid-may-not-work</id>
@@ -17,6 +140,16 @@
 Read more]]></summary>
         <author>
             <name>CJ Wheeler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EA skrotade ett Plants vs. Zombies för att satsa på ett Star Wars-spel (som också skrotades)]]></title>
+        <id>https://www.fz.se/artikel/291739</id>
+        <link href="https://www.fz.se/artikel/291739-ea-skrotade-ett-plants-vs-zombies-for-att-satsa-pa-ett-star-wars-spel-som-ocksa-skrotades"/>
+        <updated>2022-10-10T15:25:00.000Z</updated>
+        <summary type="html"><![CDATA[Den enes död, den andres... död?]]></summary>
+        <author>
+            <name>FZ.se</name>
         </author>
     </entry>
     <entry>
@@ -19485,16 +19618,6 @@ Cobalt-B is a mechanical engineer on the Hykros weapon development team, and she
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/27/etno_digital_infrastructure_sustainability/"/>
         <updated>2022-09-27T05:30:10.000Z</updated>
         <summary type="html"><![CDATA[<h4>Argue tough economy means everyone needs to pay for the internet's growth – especially those who use it most</h4> <p>The European Telecommunications Network Operators' Association (ETNO) has again called for big technology companies – and especially video streamers – to pay for their share of internet infrastructure.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft China turns 30, gives nation the gift of jobs and export promotion]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/27/microsoft_china_30th_anniversary/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/27/microsoft_china_30th_anniversary/"/>
-        <updated>2022-09-27T03:45:09.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Including assistance for the kind of companies the US is keen to contain</h4> <p>Microsoft has celebrated the 30th anniversary of its operations in China with promises to hire more locals and encourage exports.…</p>]]></summary>
         <author>
             <name>The Register</name>
         </author>
