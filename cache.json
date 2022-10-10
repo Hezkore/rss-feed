@@ -7275,6 +7275,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "2CoW9GAB43kSgZGg8ZkQhP",
+          "author": null,
+          "description": "Intel's Raptor Lake architecture shows an impressive performance in the Blender benchmark, with a good performance against AMD's Ryzen 7000 CPUs.",
+          "link": "https://www.tomshardware.com/news/core-i9-13900k-creeps-behind-ryzen-9-7950x-in-blender-benchmarks",
+          "publishedOn": "2022-10-10T19:20:30.000Z",
+          "wordCount": 21536,
+          "title": "Core i9-13900K Creeps Behind Ryzen 9 7950X In Blender Benchmarks",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/UCi5VauRSMvqwDqHJG7uqL.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/UCi5VauRSMvqwDqHJG7uqL.jpg"
+        },
+        {
           "id": "vpHugqo49QnVLrwffueHMU",
           "author": null,
           "description": "AMD's new B650 series motherboards are anything but cheap, starting at $169 for the most affordable version, with most sitting in the $250 price range.",
@@ -10656,6 +10671,36 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1888556",
+          "author": "Kevin Purdy",
+          "description": "Pickup trucks full of software boxes, Win95VersionLie, and other tricks.",
+          "link": "https://arstechnica.com/?p=1888556",
+          "publishedOn": "2022-10-10T18:38:07.000Z",
+          "wordCount": 1864,
+          "title": "Windows 95 went the extra mile to ensure compatibility of SimCity, other games",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/8350168815_dd3c4cb302_o-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1888602",
+          "author": "Ashley Belanger",
+          "description": "A win for workers who hesitate to hit record.",
+          "link": "https://arstechnica.com/?p=1888602",
+          "publishedOn": "2022-10-10T18:30:07.000Z",
+          "wordCount": 1560,
+          "title": "Florida firm’s webcam surveillance violates human rights, Dutch court says",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/GettyImages-1337622186-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1888596",
+          "author": "Jon Brodkin",
+          "description": "Despite industry opposition, FCC could require caller ID auth on non-IP networks.",
+          "link": "https://arstechnica.com/?p=1888596",
+          "publishedOn": "2022-10-10T18:14:48.000Z",
+          "wordCount": 1478,
+          "title": "FCC tackles a thorny robocall problem—how to verify caller ID on old landlines",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/06/getty-robot-phone-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1888441",
           "author": "Andrew Cunningham",
           "description": "All the best features of a circa-2015 Paperwhite in a smaller, cheaper package.",
@@ -13991,16 +14036,6 @@
           "wordCount": 1779,
           "title": "Netflix öppnar en egen spelutvecklare i Finland",
           "imageUrl": "https://www.fz.se/artikel/og-image/291594"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291593",
-          "author": null,
-          "description": "\"Älskling, jag krympte barnen\" i spelformat.",
-          "link": "https://www.fz.se/artikel/291593-i-dag-lamnar-grounded-early-access-och-betygen-ser-bra-ut",
-          "publishedOn": "2022-09-27T06:58:00.000Z",
-          "wordCount": 1928,
-          "title": "I dag lämnar Grounded early access, och betygen ser bra ut",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291593"
         }
       ]
     },
@@ -17535,16 +17570,6 @@
           "wordCount": 1419,
           "title": "Is it a bird? Is it Microsoft Office? No, it's Onlyoffice: Version 7.2 released",
           "imageUrl": "https://regmedia.co.uk/2022/09/27/screenshot_onlyoffice_browser.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/atlantic_council_china_vuln_research/",
-          "author": null,
-          "description": "<h4>Report finds increase in anonymous vuln reports</h4> <p>The number of vulnerability reports provided by Chinese information security researchers has fallen sharply, according to research by think tank The Atlantic Council, which also found a strangely commensurate increase in bug reports from unknown sources.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/atlantic_council_china_vuln_research/",
-          "publishedOn": "2022-09-27T06:58:10.000Z",
-          "wordCount": 1692,
-          "title": "China's infosec researchers obeyed Beijing and stopped reporting vulns ... or did they?",
-          "imageUrl": "https://regmedia.co.uk/2021/02/22/china.jpg"
         }
       ]
     }

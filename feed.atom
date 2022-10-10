@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-10T18:38:26.592Z</updated>
+    <updated>2022-10-10T19:31:28.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Core i9-13900K Creeps Behind Ryzen 9 7950X In Blender Benchmarks]]></title>
+        <id>2CoW9GAB43kSgZGg8ZkQhP</id>
+        <link href="https://www.tomshardware.com/news/core-i9-13900k-creeps-behind-ryzen-9-7950x-in-blender-benchmarks"/>
+        <updated>2022-10-10T19:20:30.000Z</updated>
+        <summary type="html"><![CDATA[Intel's Raptor Lake architecture shows an impressive performance in the Blender benchmark, with a good performance against AMD's Ryzen 7000 CPUs.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows 95 went the extra mile to ensure compatibility of SimCity, other games]]></title>
+        <id>https://arstechnica.com/?p=1888556</id>
+        <link href="https://arstechnica.com/?p=1888556"/>
+        <updated>2022-10-10T18:38:07.000Z</updated>
+        <summary type="html"><![CDATA[Pickup trucks full of software boxes, Win95VersionLie, and other tricks.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Florida firm’s webcam surveillance violates human rights, Dutch court says]]></title>
+        <id>https://arstechnica.com/?p=1888602</id>
+        <link href="https://arstechnica.com/?p=1888602"/>
+        <updated>2022-10-10T18:30:07.000Z</updated>
+        <summary type="html"><![CDATA[A win for workers who hesitate to hit record.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mamma Mia! En bit av Super Mario-trailern i Mario 64-stuk]]></title>
         <id>https://www.fz.se/artikel/291741</id>
@@ -24,6 +54,16 @@
         <summary type="html"><![CDATA[The platform drivers x86 updates were merged a few days ago for the Linux 6.1 kernel. Most notable is the introduction of the AMD Platform Management Framework (PMF) while there are also a number of laptop driver updates too as part of this feature update...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FCC tackles a thorny robocall problem—how to verify caller ID on old landlines]]></title>
+        <id>https://arstechnica.com/?p=1888596</id>
+        <link href="https://arstechnica.com/?p=1888596"/>
+        <updated>2022-10-10T18:14:48.000Z</updated>
+        <summary type="html"><![CDATA[Despite industry opposition, FCC could require caller ID auth on non-IP networks.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
         </author>
     </entry>
     <entry>
@@ -19678,26 +19718,6 @@ Cobalt-B is a mechanical engineer on the Hykros weapon development team, and she
         <summary type="html"><![CDATA[Utvecklarkonferensen Intel Innovation inleds med en keynote där bolagets VD Pat Gelsinger väntas avtäcka Core 13000 "Raptor Lake".]]></summary>
         <author>
             <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China's infosec researchers obeyed Beijing and stopped reporting vulns ... or did they?]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/27/atlantic_council_china_vuln_research/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/27/atlantic_council_china_vuln_research/"/>
-        <updated>2022-09-27T06:58:10.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Report finds increase in anonymous vuln reports</h4> <p>The number of vulnerability reports provided by Chinese information security researchers has fallen sharply, according to research by think tank The Atlantic Council, which also found a strangely commensurate increase in bug reports from unknown sources.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I dag lämnar Grounded early access, och betygen ser bra ut]]></title>
-        <id>https://www.fz.se/artikel/291593</id>
-        <link href="https://www.fz.se/artikel/291593-i-dag-lamnar-grounded-early-access-och-betygen-ser-bra-ut"/>
-        <updated>2022-09-27T06:58:00.000Z</updated>
-        <summary type="html"><![CDATA["Älskling, jag krympte barnen" i spelformat.]]></summary>
-        <author>
-            <name>FZ.se</name>
         </author>
     </entry>
 </feed>
