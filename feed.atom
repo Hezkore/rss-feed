@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-10T22:28:39.997Z</updated>
+    <updated>2022-10-10T23:33:01.896Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Square Enix Montréal is now Studio Onoma following Embracer acquisition]]></title>
+        <id>https://www.eurogamer.net/square-enix-montreal-is-now-studio-onoma-following-embracer-acquisition</id>
+        <link href="https://www.eurogamer.net/square-enix-montreal-is-now-studio-onoma-following-embracer-acquisition"/>
+        <updated>2022-10-10T22:44:52.000Z</updated>
+        <summary type="html"><![CDATA[Square Enix Montréal - the developer behind the likes of Hitman Go and Lara Croft Go - has rebranded as Studio Onoma following its acquisition by Embracer Group in May.
+
+
+Square Enix Montréal was one of three studios purchased by Embracer Group as part of a $300m USD deal with Square Enix earlier this year. Following the deal's completion in August, Embracer now also owns Crystal Dynamics and Eidos-Montréal, alongside major IPs including Tomb Raider, Deus Ex, Thief, and Legacy of Kain.
+
+
+While Crystal Dynamics and Eidos-Montréal will keep their existing identities following the Embracer acquisition, Square Enix Montréal has now shaken off the last remnants of its former owner with a new name and new logo, both of which have been detailed in a lengthy post on the developer's website. The key takeway for the curious, though, is that "Onoma is Greek for name and names offer endless possibilities".
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VirtualBox 7.0 Released - Full VM Encryption Support, Direct3D Acceleration Using DXVK]]></title>
+        <id>https://www.phoronix.com/news/VirtualBox-7.0-Released</id>
+        <link href="https://www.phoronix.com/news/VirtualBox-7.0-Released"/>
+        <updated>2022-10-10T22:30:46.000Z</updated>
+        <summary type="html"><![CDATA[It's been a long time since last having anything significant to report on for Oracle's VM VirtualBox software: VirtualBox 6.0 debuted in 2018 and VirtualBox 6.1 in 2019, but since has been rather quiet... But out today is now VirtualBox 7.0 with big features like support for full virtual machine encryption and a new Direct3D 11 based graphics stack, which for Linux use is now going through DXVK...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Galileo confirmed as author of pseudonymous 17th century astronomy text]]></title>
         <id>https://arstechnica.com/?p=1888548</id>
@@ -19369,132 +19397,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Last week I wrote about how Microsoft landed a VA-API improvement in Mesa to support faster Video Acceleration API encoding with FFmpeg. That code was initially only wired up for the Microsoft D3D12 driver within Mesa for WSL use-cases, but now AMD has taken advantage of the new capability for RadeonSI Gallium3D usage with their Radeon GPUs...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rick lands in MultiVersus today, while a new update doubles levelling time]]></title>
-        <id>https://www.rockpapershotgun.com/rick-lands-in-multiversus-today-while-a-new-update-doubles-levelling-time</id>
-        <link href="https://www.rockpapershotgun.com/rick-lands-in-multiversus-today-while-a-new-update-doubles-levelling-time"/>
-        <updated>2022-09-27T11:32:18.000Z</updated>
-        <summary type="html"><![CDATA[Everyone’s most tolerated science grandpa Rick Sanchez steps into MultiVersus today as the Warner Bros. licensed brawler’s latest fighter, arriving alongside the game’s 1.03 patch. There’s a few notable tweaks to MultiVersus in the patch, including a major change to XP between levels 3 and 15. You’ll need twice as much now. Developers Player First Games have tried to rein in infinite combos, too. You can get a look at Rick by watching the trailer below.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's Microsoft been up to? A quick tour of Windows 11 22H2's security features]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/27/microsoft_windows_11_security_features/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/27/microsoft_windows_11_security_features/"/>
-        <updated>2022-09-27T11:32:07.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Some requirements to be aware of</h4> <p><strong>In brief</strong>  As it rolled out a laundry list of features in the latest version of Windows 11, namely version 22H2, this month, Microsoft has also detailed some of the added security mechanisms.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft bets on hardware/software duo for Win11 security]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/27/microsoft_windows11_security_hardware/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/27/microsoft_windows11_security_hardware/"/>
-        <updated>2022-09-27T11:32:07.000Z</updated>
-        <summary type="html"><![CDATA[<h4>But you'll need to buy lots of new hardware to get the benefit</h4> <p><strong>Analysis</strong>  As it rolled out the laundry list of new features in Windows 11, version 22H2 this week, Microsoft also unveiled the configuration baseline that systems will have to meet to take advantage of the latest security capabilities.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raspberry Pi Pico Keyboard has OLED Keycaps]]></title>
-        <id>piEm3uDsUVzGt4W8tmGMgM</id>
-        <link href="https://www.tomshardware.com/news/raspberry-pi-pico-keyboard-with-oled-keycaps"/>
-        <updated>2022-09-27T11:15:11.000Z</updated>
-        <summary type="html"><![CDATA[Maker and developer Thomas, also known as Thpoll, has made an RP2040-powered keyboard with OLEDs beneath the keycaps.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Darkest Dungeon 2 gets major update to metagame and progression]]></title>
-        <id>https://www.eurogamer.net/darkest-dungeon-2-gets-major-update-to-metagame-and-progression</id>
-        <link href="https://www.eurogamer.net/darkest-dungeon-2-gets-major-update-to-metagame-and-progression"/>
-        <updated>2022-09-27T11:08:03.000Z</updated>
-        <summary type="html"><![CDATA[Early access roguelike Darkest Dungeon 2 is getting a major update which reworks the game's progression system - and also resets some player stats, developer Red Hook Games has warned.
-
-
-The Altar of Hope update adds a new type of reward - Candles of Hope - which you can earn and then spend on various attributes which should make future missions safer for your party.
-
-
-As you'd expect, the bigger the danger, the bigger reward in terms of Candles bagged at the end. Missions will offer more Candles the further you manage to progress, but suffer a wipe and you'll see your Candle hoard penalised. 
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tactics Ogre Reborn producer didn't consider HD-2D art style despite its popularity]]></title>
-        <id>https://www.eurogamer.net/tactics-ogre-reborn-producer-didnt-consider-hd-2d-art-style-despite-its-popularity</id>
-        <link href="https://www.eurogamer.net/tactics-ogre-reborn-producer-didnt-consider-hd-2d-art-style-despite-its-popularity"/>
-        <updated>2022-09-27T11:00:20.000Z</updated>
-        <summary type="html"><![CDATA[Tactics Ogre Reborn producer Hiroaki Kato didn't consider the HD-2D style for the remake, despite its use in this year's Triangle Strategy and Live A Live.
-
-
-Speaking to IGN, Kato admitted he likes the style but the 2D pixel art of the original has been retained instead.
-
-
-"No, we didn't think about making it HD-2D," he said. "We kind of played with the idea of making it 3D, but what we were really thinking about was, 'What are the major parts about this game that are really appealing to everybody?' And in the 2D original, it was really well done pixel art, so we realised that we couldn't have a Tactics Ogre game without this really high-quality, awesome looking 2D pixel art. So to bring that sort of resolution and that sort of fidelity to new hardware and new technology was a lot of effort. But yeah, I think we did it."
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FIFA 23 lets you turn off commentary that points out how bad you are playing]]></title>
-        <id>https://www.eurogamer.net/fifa-23-lets-you-turn-off-commentary-that-points-out-how-bad-you-are-playing</id>
-        <link href="https://www.eurogamer.net/fifa-23-lets-you-turn-off-commentary-that-points-out-how-bad-you-are-playing"/>
-        <updated>2022-09-27T10:55:45.000Z</updated>
-        <summary type="html"><![CDATA[FIFA 23 is out in the wild after the EA Play trial went live a day early, and so new features are emerging.
-
-
-One nice to have but unexpected new feature is the ability to disable critical commentary. Here's the option in the main game settings:
-
-
-Checking this box means the commentators won't point out how bad you're doing during gameplay, but will say all the other normal stuff they say during a match.
- 
-Read more]]></summary>
-        <author>
-            <name>Wesley Yin-Poole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atlus sues fans behind Shin Megami Tensei MMO recreation]]></title>
-        <id>https://www.eurogamer.net/atlus-sues-fans-behind-shin-megami-tensei-mmo-recreation</id>
-        <link href="https://www.eurogamer.net/atlus-sues-fans-behind-shin-megami-tensei-mmo-recreation"/>
-        <updated>2022-09-27T10:35:11.000Z</updated>
-        <summary type="html"><![CDATA[Atlus is suing fans who recreated its defunct MMO Shin Megami Tensei: Imagine.
-
-
-ReImagine, as the unofficial fan server was known, has since been shut down.
-
-
-Atlus's MMO was first released in Japan in 2007 and had players exploring a post-apocalyptic Tokyo. North American (2008) and European (2009) releases followed, but the game was officially shut down in 2016.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Serial Cleaners review: stealth-action body disposal makes for bursts of bloody fun]]></title>
-        <id>https://www.rockpapershotgun.com/serial-cleaners-review</id>
-        <link href="https://www.rockpapershotgun.com/serial-cleaners-review"/>
-        <updated>2022-09-27T10:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Serial Cleaners is Draw Distance's follow-up to the singular Serial Cleaner, a stylish 2D stealth action game where you clean up crime scenes without getting caught. Where the original offers a more traditional top-down view where you're avoiding cops' attention by dodging cones of vision, Serial Cleaners sprinkles different characters and abilities into the mix, alongside a visual revamp that ups more than just the aesthetics. And it works! Making the act of evidence disposal an action-packed affair that makes it a great game to play in bursts.
-Read more]]></summary>
-        <author>
-            <name>Ed Thorn</name>
         </author>
     </entry>
 </feed>
