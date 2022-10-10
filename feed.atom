@@ -2,10 +2,89 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-10T08:38:37.792Z</updated>
+    <updated>2022-10-10T09:32:00.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Doom running on Notepad looks like a match made in hell]]></title>
+        <id>https://www.vg247.com/doom-can-run-on-notepad-now</id>
+        <link href="https://www.vg247.com/doom-can-run-on-notepad-now"/>
+        <updated>2022-10-10T09:25:37.000Z</updated>
+        <summary type="html"><![CDATA[Another day, another person getting Doom running on something it was never intended to - this time, Notepad!
+
+
+If I had a nickel for every weird place you're able to play Doom, I'd probably have quite a few nickels, because people just seem incredibly determined to get it to run on anything they can get their hands on. Today, this particular nickel of mine comes from developer Samperson, who got Doom running on the note taking software Notepad (slight flashing warning in the example video seen below).
+
+
+While it's definitely one of the more unreadable versions of Doom, you have to admit when watching the video, this is in fact Doom. The game itself is obviously made up of a bunch of various characters lined up to resemble the visuals of Doom. It even sounds like Samperson got the audio and soundtrack working and synced up, which could not be anything but witchcraft.
+ 
+Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.1 Brings Input Drivers For IBM Operation Panel & PINE64 Keyboard Case]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-Input-Updates</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-Input-Updates"/>
+        <updated>2022-10-10T09:22:12.000Z</updated>
+        <summary type="html"><![CDATA[Following the recent HID driver updates for Linux 6.1, the other input subsystem driver updates for this new kernel version have been submitted. The input driver updates this cycle range from supporting the optional PinePhone keyboard to a driver enabling the IBM Operation Panel used by some IBM servers...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We finally know how much money Xbox Game Pass actually makes]]></title>
+        <id>https://www.vg247.com/xbox-game-pass-money-revealed</id>
+        <link href="https://www.vg247.com/xbox-game-pass-money-revealed"/>
+        <updated>2022-10-10T09:14:58.000Z</updated>
+        <summary type="html"><![CDATA[International regulators around the world are pouring over the finer details of the Microsoft/Activision Blizzard merger, and some of the information coming out of the enquries are fascinating. The most recent – and revealing – byte of data comes via TweakTown, and from Brazil's Administrative Council for Economic Defense (CADE), which has managed to finally shed some light on how much money Xbox Game Pass actually makes for Microsoft.
+Per data shared with CADE, Xbox Game Pass generated $2.9 billion from consoles in 2021 (not including Xbox Game Pass for PC). This is the first time we've seen data like this, and it sheds a light on how important the service is for Microsoft. 
+Elsewhere, there's more interesting data coming out of CADE – like the revelation that Xbox gaming generated an eye-watering total revenue of $16.28 billion for Microsoft in the 2021 calendar year.
+ Read more]]></summary>
+        <author>
+            <name>Dom Peppiatt</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Planet of Lana får en 19 minuter lång, kommenterad videogenomgång]]></title>
+        <id>https://www.fz.se/artikel/291734</id>
+        <link href="https://www.fz.se/artikel/291734-planet-of-lana-far-en-19-minuter-lang-kommenterad-videogenomgang"/>
+        <updated>2022-10-10T09:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Ett otroligt vackert spel från svenska Wishfully.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wayland Protocols 1.27 Brings Content Type Hinting, Idle Notification]]></title>
+        <id>https://www.phoronix.com/news/Wayland-Protocols-1.27</id>
+        <link href="https://www.phoronix.com/news/Wayland-Protocols-1.27"/>
+        <updated>2022-10-10T09:00:25.000Z</updated>
+        <summary type="html"><![CDATA[Wayland-Protocols 1.27 was released this morning by Jonas Ådahl  in pushing out two new protocols under the staging umbrella...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shout out to all the Overwatch supports - where would we be without you?]]></title>
+        <id>https://www.eurogamer.net/shout-out-to-all-the-overwatch-supports-where-would-we-be-without-you</id>
+        <link href="https://www.eurogamer.net/shout-out-to-all-the-overwatch-supports-where-would-we-be-without-you"/>
+        <updated>2022-10-10T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Why do people play healers in games? Where does that drive come from for someone to log in and want to help someone else instead of seeking glory of their own?
+
+
+I've wondered about it ever since I started healing in Dark Age of Camelot 20 years ago. I don't know why I did it or stuck with it, but in every game I play now, I gravitate towards that role. 
+
+
+And having played healers for so long, I've seen the good and the bad of it. I've been moaned at, and I've been killed as a matter of priority by enemy teams more times than I can count. And let's face it, it's not always fun - not just for those reasons, but because healing isn't the flashy stuff games are sold on.
+ 
+Read more]]></summary>
+        <author>
+            <name>Robert Purchese</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How do you protect your online systems? Cultivate an insider threat]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/10/opinion_infosec/</id>
@@ -18797,26 +18876,6 @@ Unfortunately, this meant skipping some other events I’d wanted attend
 (DebConf, MCH).]]></summary>
         <author>
             <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20-year-old Linux workaround is still slowing down AMD systems]]></title>
-        <id>https://arstechnica.com/?p=1884570</id>
-        <link href="https://arstechnica.com/?p=1884570"/>
-        <updated>2022-09-26T20:51:57.000Z</updated>
-        <summary type="html"><![CDATA[A little fix for CPUs that didn't properly sleep had decades-long consequences.]]></summary>
-        <author>
-            <name>Kevin Purdy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TikTok faces $29m fine for 'failing to protect UK kids' privacy']]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/26/tiktok_uk_ico_privacy/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/26/tiktok_uk_ico_privacy/"/>
-        <updated>2022-09-26T20:49:13.000Z</updated>
-        <summary type="html"><![CDATA[<h4>We're pulling in billions, let me check down the back of the sofa</h4> <p>TikTok faces a £27 million fine ($29 million ... for the moment, at least) following a British government investigation that found the Chinese media giant may have breached UK data protection laws and failed to protect children's privacy.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
