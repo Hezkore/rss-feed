@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-10T19:31:28.979Z</updated>
+    <updated>2022-10-10T20:29:43.284Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple’s new iPhone update fixes bugs in Camera, Mail, and notifications]]></title>
+        <id>https://arstechnica.com/?p=1888631</id>
+        <link href="https://arstechnica.com/?p=1888631"/>
+        <updated>2022-10-10T19:36:22.000Z</updated>
+        <summary type="html"><![CDATA[New features will likely come later in iOS 16.1.]]></summary>
+        <author>
+            <name>Samuel Axon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.1 Perf Adds AMD CPU Cache-To-Cache & Memory Reporting Capabilities]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-Perf</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-Perf"/>
+        <updated>2022-10-10T19:30:00.000Z</updated>
+        <summary type="html"><![CDATA[The "perf" kernel subsystem for Linux with the perf performance analyzing tool has picked up some new AMD processor capabilities for Linux 6.1...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Core i9-13900K Creeps Behind Ryzen 9 7950X In Blender Benchmarks]]></title>
         <id>2CoW9GAB43kSgZGg8ZkQhP</id>
@@ -19676,46 +19696,6 @@ Cobalt-B is a mechanical engineer on the Hykros weapon development team, and she
         <link href="https://www.sweclockers.com/artikel/34977-tavling-designa-jultroja-med-sweclockers"/>
         <updated>2022-09-27T08:54:00.000Z</updated>
         <summary type="html"><![CDATA[Vad är nördigare än en jultröja? En alldeles egen fultröja! Rota fram din inre kläddesigner och ta fram en design värdig titeln SweClockers Fultröja™.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Salesforce set to hire thousands in India after US recruitment slows]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/27/salesforce_set_to_hire_thousands/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/27/salesforce_set_to_hire_thousands/"/>
-        <updated>2022-09-27T08:29:06.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Headcount in subcontinent quadruples in 3 years, after CFO describes 'measured approach' to recruitment</h4> <p>Salesforce is set to hire 2,500 staff in India – bringing the number in the subcontinent to 10,000 – weeks after it slowed hiring in the US.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Netflix öppnar en egen spelutvecklare i Finland]]></title>
-        <id>https://www.fz.se/artikel/291594</id>
-        <link href="https://www.fz.se/artikel/291594-netflix-oppnar-en-egen-spelutvecklare-i-finland"/>
-        <updated>2022-09-27T07:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Utlovar spel "utan reklam eller köp i appen".]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is it a bird? Is it Microsoft Office? No, it's Onlyoffice: Version 7.2 released]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/27/onlyoffice_72_released/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/27/onlyoffice_72_released/"/>
-        <updated>2022-09-27T07:40:10.000Z</updated>
-        <summary type="html"><![CDATA[<h4>The <em>other</em> open-source productivity suite gets a version bump</h4> <p>The latest point-release of Onlyoffice, a free Microsoft Office-compatible suite, is here with multiple small improvements and better support for Asian and African writing systems.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intels VD håller låda ikväll – kan avtäcka "Raptor Lake"]]></title>
-        <id>https://www.sweclockers.com/artikel/34978</id>
-        <link href="https://www.sweclockers.com/artikel/34978-intels-vd-haller-lada-ikvall-kan-avtacka-raptor-lake"/>
-        <updated>2022-09-27T07:38:02.000Z</updated>
-        <summary type="html"><![CDATA[Utvecklarkonferensen Intel Innovation inleds med en keynote där bolagets VD Pat Gelsinger väntas avtäcka Core 13000 "Raptor Lake".]]></summary>
         <author>
             <name>SweClockers</name>
         </author>

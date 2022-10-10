@@ -4541,6 +4541,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-6.1-Perf",
+          "author": null,
+          "description": "The \"perf\" kernel subsystem for Linux with the perf performance analyzing tool has picked up some new AMD processor capabilities for Linux 6.1...",
+          "link": "https://www.phoronix.com/news/Linux-6.1-Perf",
+          "publishedOn": "2022-10-10T19:30:00.000Z",
+          "wordCount": 1434,
+          "title": "Linux 6.1 Perf Adds AMD CPU Cache-To-Cache & Memory Reporting Capabilities",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/x86-Platform-Drivers-6.1",
           "author": null,
           "description": "The platform drivers x86 updates were merged a few days ago for the Linux 6.1 kernel. Most notable is the introduction of the AMD Platform Management Framework (PMF) while there are also a number of laptop driver updates too as part of this feature update...",
@@ -10671,6 +10681,16 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1888631",
+          "author": "Samuel Axon",
+          "description": "New features will likely come later in iOS 16.1.",
+          "link": "https://arstechnica.com/?p=1888631",
+          "publishedOn": "2022-10-10T19:36:22.000Z",
+          "wordCount": 1410,
+          "title": "Apple’s new iPhone update fixes bugs in Camera, Mail, and notifications",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/iphone-14-back-760x380.jpeg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1888556",
           "author": "Kevin Purdy",
           "description": "Pickup trucks full of software boxes, Win95VersionLie, and other tricks.",
@@ -14026,16 +14046,6 @@
           "wordCount": 1836,
           "title": "Det taktiska skjutarspelet IGI Origins har fått en gameplay-trailer",
           "imageUrl": "https://www.fz.se/artikel/og-image/291595"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291594",
-          "author": null,
-          "description": "Utlovar spel \"utan reklam eller köp i appen\".",
-          "link": "https://www.fz.se/artikel/291594-netflix-oppnar-en-egen-spelutvecklare-i-finland",
-          "publishedOn": "2022-09-27T07:55:00.000Z",
-          "wordCount": 1779,
-          "title": "Netflix öppnar en egen spelutvecklare i Finland",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291594"
         }
       ]
     },
@@ -14713,16 +14723,6 @@
           "wordCount": 2203,
           "title": "Tävling: Designa jultröja med SweClockers!",
           "imageUrl": "https://www.sweclockers.com/artikel/34977/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34978",
-          "author": null,
-          "description": "Utvecklarkonferensen Intel Innovation inleds med en keynote där bolagets VD Pat Gelsinger väntas avtäcka Core 13000 \"Raptor Lake\".",
-          "link": "https://www.sweclockers.com/artikel/34978-intels-vd-haller-lada-ikvall-kan-avtacka-raptor-lake",
-          "publishedOn": "2022-09-27T07:38:02.000Z",
-          "wordCount": 1639,
-          "title": "Intels VD håller låda ikväll – kan avtäcka \"Raptor Lake\"",
-          "imageUrl": "https://www.sweclockers.com/artikel/34978/og-image"
         }
       ]
     },
@@ -17550,26 +17550,6 @@
           "wordCount": 1863,
           "title": "Consolidation looms for UK broadband providers",
           "imageUrl": "https://regmedia.co.uk/2019/07/10/shutterstock_optics.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/salesforce_set_to_hire_thousands/",
-          "author": null,
-          "description": "<h4>Headcount in subcontinent quadruples in 3 years, after CFO describes 'measured approach' to recruitment</h4> <p>Salesforce is set to hire 2,500 staff in India – bringing the number in the subcontinent to 10,000 – weeks after it slowed hiring in the US.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/salesforce_set_to_hire_thousands/",
-          "publishedOn": "2022-09-27T08:29:06.000Z",
-          "wordCount": 1194,
-          "title": "Salesforce set to hire thousands in India after US recruitment slows",
-          "imageUrl": "https://regmedia.co.uk/2022/09/26/shutterstock_salesforce.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/onlyoffice_72_released/",
-          "author": null,
-          "description": "<h4>The <em>other</em> open-source productivity suite gets a version bump</h4> <p>The latest point-release of Onlyoffice, a free Microsoft Office-compatible suite, is here with multiple small improvements and better support for Asian and African writing systems.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/onlyoffice_72_released/",
-          "publishedOn": "2022-09-27T07:40:10.000Z",
-          "wordCount": 1419,
-          "title": "Is it a bird? Is it Microsoft Office? No, it's Onlyoffice: Version 7.2 released",
-          "imageUrl": "https://regmedia.co.uk/2022/09/27/screenshot_onlyoffice_browser.jpg"
         }
       ]
     }
