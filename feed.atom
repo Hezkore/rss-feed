@@ -2,10 +2,128 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-11T10:30:36.033Z</updated>
+    <updated>2022-10-11T11:23:49.166Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Overwatch 2 suffers another DDoS attack and character roster bugs]]></title>
+        <id>https://www.eurogamer.net/overwatch-2-suffers-another-ddos-attack-and-character-roster-bugs</id>
+        <link href="https://www.eurogamer.net/overwatch-2-suffers-another-ddos-attack-and-character-roster-bugs"/>
+        <updated>2022-10-11T11:10:46.000Z</updated>
+        <summary type="html"><![CDATA[Following Overwatch 2's fairly shambolic release that involved targeted DDoS attacks, Blizzard has reported interruptions this week to Battle.net via a further DDOS attack, causing login issues. 
+
+
+In addition, Overwatch 2's character roster has had to be downsized a tad to allow Blizzard to "iron out a few bugs". Unfortunately for the developer, however, this has created a new bug of its own, resulting in even more characters becoming inaccessible for some Overwatch 2 players.
+
+
+On the official customer support Twitter account, Blizzard addressed the DDoS attack faced by Battle.net yesterday. This has reportedly now all been dealt with, however it managed to cause widespread issues for players of both Overwatch 2 and Call of Duty: Modern Warfare.
+ 
+Read more]]></summary>
+        <author>
+            <name>Victoria Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rapport - Yngre barn spelar mest i Sverige]]></title>
+        <id>https://www.fz.se/artikel/291747</id>
+        <link href="https://www.fz.se/artikel/291747-rapport-yngre-barn-spelar-mest-i-sverige"/>
+        <updated>2022-10-11T11:01:24.000Z</updated>
+        <summary type="html"><![CDATA[Internetstiftelsen bjuder på statistik om våra onlineliv.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VirtualBox 7.0 is out with their DirectX 11 support using DXVK]]></title>
+        <id>https://www.gamingonlinux.com/2022/10/virtualbox-70-is-out-with-their-directx-11-support-using-dxvk/</id>
+        <link href="https://www.gamingonlinux.com/2022/10/virtualbox-70-is-out-with-their-directx-11-support-using-dxvk/"/>
+        <updated>2022-10-11T10:58:29.000Z</updated>
+        <summary type="html"><![CDATA[Well this was an interesting one entering the GOL inbox recently. VirtualBox, the general-purpose full virtualizer has a big new release out and even they are now using DXVK.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nintendo Switch firmware update lets you take screenshots in the Switch Online app]]></title>
+        <id>https://www.eurogamer.net/nintendo-switch-firmware-update-lets-you-take-screenshots-in-the-switch-online-app</id>
+        <link href="https://www.eurogamer.net/nintendo-switch-firmware-update-lets-you-take-screenshots-in-the-switch-online-app"/>
+        <updated>2022-10-11T10:50:18.000Z</updated>
+        <summary type="html"><![CDATA[You can now take screenshots inside the Nintendo Switch Online application on your console, thanks to the latest Nintendo Switch firmware update.
+
+The previous Switch firmware update was back in March, and finally added folders for organising games.
+
+The update for version 15.0.0 is available now to download.
+ 
+Read more]]></summary>
+        <author>
+            <name>Liv Ngan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fanatical running an awesome 'Dollar Collections' sale]]></title>
+        <id>https://www.gamingonlinux.com/2022/10/fanatical-running-an-awesome-dollar-collections-sale/</id>
+        <link href="https://www.gamingonlinux.com/2022/10/fanatical-running-an-awesome-dollar-collections-sale/"/>
+        <updated>2022-10-11T10:40:56.000Z</updated>
+        <summary type="html"><![CDATA[Time to get some more really cheap games, as Fanatical have launched their Dollar Collections sale and there's plenty of good choices in there to get you through the upcoming cold winter nights.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sonic Frontiers will receive free Monster Hunter DLC]]></title>
+        <id>https://www.eurogamer.net/sonic-frontiers-will-receive-free-monster-hunter-dlc</id>
+        <link href="https://www.eurogamer.net/sonic-frontiers-will-receive-free-monster-hunter-dlc"/>
+        <updated>2022-10-11T10:40:35.000Z</updated>
+        <summary type="html"><![CDATA[Sonic Frontiers will have free Monster Hunter DLC a week after its release.
+
+
+This is the first DLC announced for Sega's open zone adventure, a collaboration with Capcom's hugely successful hunting series.
+
+
+It will launch on 14th November and include two costumes for Sonic: Rathalos and Felyne Rathalos.
+ 
+Read more]]></summary>
+        <author>
+            <name>Ed Nightingale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fortinet warns of critical flaw in its security appliance OSes, admin panels]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/11/fortinet_critical_flaw/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/11/fortinet_critical_flaw/"/>
+        <updated>2022-10-11T10:32:14.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Naturally, they're already under attack – so you know what to do next</h4> <p>Security appliance vendor Fortinet has become the subject of a bug report by its own FortiGuard Labs after the discovery of a critical-rated flaw in three of its products.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blizzard and Overwatch 2 struck by third DDoS attack in a week]]></title>
+        <id>https://www.rockpapershotgun.com/blizzard-and-overwatch-2-struck-by-third-ddos-attack-in-a-week</id>
+        <link href="https://www.rockpapershotgun.com/blizzard-and-overwatch-2-struck-by-third-ddos-attack-in-a-week"/>
+        <updated>2022-10-11T10:30:35.000Z</updated>
+        <summary type="html"><![CDATA[A DDoS attack on Blizzard caused issues for Overwatch 2 players earlier today, following on from similar attacks on the company during the free to play shooter’s launch last week. The latest attack came just after Overwatch 2 had finished a period of emergency maintenance. Although Blizzard have confirmed the DDoS attack has now ended, the recurring attacks aren’t exactly a good sign for a game already beset by technical issues.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>CJ Wheeler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deathloop takes place in the same world as Dishonored, creative director confirms]]></title>
+        <id>https://www.rockpapershotgun.com/deathloop-takes-place-in-the-same-world-as-dishonored-creative-director-confirms</id>
+        <link href="https://www.rockpapershotgun.com/deathloop-takes-place-in-the-same-world-as-dishonored-creative-director-confirms"/>
+        <updated>2022-10-11T10:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Time-bending sci-fi shooter Deathloop is one of the possible futures of the Dishonored universe, Arkane’s Dinga Bakaba revealed during a recent episode of the Xbox podcast. Bakaba was the creative director on Deathloop, and lead designer for Dishonored 2 and Dishonored: Death Of The Outsider. He’s finally spilled the tea, confirming players’ suspicions that the two Arkane series beginning with a D and featuring magical abilities are linked.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>CJ Wheeler</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2K confirms some personal data obtained in recent data breach]]></title>
         <id>https://www.eurogamer.net/2k-confirms-some-personal-data-obtained-in-recent-data-breach</id>
@@ -18558,26 +18676,6 @@ WARNING[360174]: chan_sip.c:35471 in deprecation_notice: https://wiki.asterisk.o
 and so I decided it was time to sto…]]></summary>
         <author>
             <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hurricane Ian blows NASA Artemis Moon launch into October or November]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/27/hurricane_ian_artemis_nasa/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/27/hurricane_ian_artemis_nasa/"/>
-        <updated>2022-09-27T23:18:28.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Fun fact: The mission is named after the Latin word for 'delayed'</h4> <p>NASA's Moon-ward Space Launch System (SLS) rocket will not be blasting off from Earth until late October at the earliest, after the vehicle was rolled back to its hangar to shelter from an incoming hurricane.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unusual Ebola strain kills 23 in Uganda; no vaccines, treatments available]]></title>
-        <id>https://arstechnica.com/?p=1885102</id>
-        <link href="https://arstechnica.com/?p=1885102"/>
-        <updated>2022-09-27T22:51:01.000Z</updated>
-        <summary type="html"><![CDATA[The Sudan species of Ebolavirus has a fatality rate between 41% and 100%.]]></summary>
-        <author>
-            <name>Beth Mole</name>
         </author>
     </entry>
 </feed>

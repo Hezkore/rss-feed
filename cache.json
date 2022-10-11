@@ -160,6 +160,26 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/10/virtualbox-70-is-out-with-their-directx-11-support-using-dxvk/",
+          "author": "Liam Dawe",
+          "description": "Well this was an interesting one entering the GOL inbox recently. VirtualBox, the general-purpose full virtualizer has a big new release out and even they are now using DXVK.",
+          "link": "https://www.gamingonlinux.com/2022/10/virtualbox-70-is-out-with-their-directx-11-support-using-dxvk/",
+          "publishedOn": "2022-10-11T10:58:29.000Z",
+          "wordCount": 1222,
+          "title": "VirtualBox 7.0 is out with their DirectX 11 support using DXVK",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1673174645id21720gol.jpg"
+        },
+        {
+          "id": "https://www.gamingonlinux.com/2022/10/fanatical-running-an-awesome-dollar-collections-sale/",
+          "author": "Liam Dawe",
+          "description": "Time to get some more really cheap games, as Fanatical have launched their Dollar Collections sale and there's plenty of good choices in there to get you through the upcoming cold winter nights.",
+          "link": "https://www.gamingonlinux.com/2022/10/fanatical-running-an-awesome-dollar-collections-sale/",
+          "publishedOn": "2022-10-11T10:40:56.000Z",
+          "wordCount": 1120,
+          "title": "Fanatical running an awesome 'Dollar Collections' sale",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/321948735id21719gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/10/the-upgraded-ivoler-steam-deck-docking-station-is-another-good-choice/",
           "author": "Liam Dawe",
           "description": "Don't fancy buying from JSAUX and don't need the charger + extra expense of the official Steam Deck Docking Station? ivoler are another good choice.",
@@ -736,6 +756,36 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/overwatch-2-suffers-another-ddos-attack-and-character-roster-bugs",
+          "author": "Victoria Kennedy",
+          "description": "Following Overwatch 2's fairly shambolic release that involved targeted DDoS attacks, Blizzard has reported interruptions this week to Battle.net via a further DDOS attack, causing login issues. \r\n\n\r\nIn addition, Overwatch 2's character roster has had to be downsized a tad to allow Blizzard to \"iron out a few bugs\". Unfortunately for the developer, however, this has created a new bug of its own, resulting in even more characters becoming inaccessible for some Overwatch 2 players.\r\n\n\r\nOn the official customer support Twitter account, Blizzard addressed the DDoS attack faced by Battle.net yesterday. This has reportedly now all been dealt with, however it managed to cause widespread issues for players of both Overwatch 2 and Call of Duty: Modern Warfare.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/overwatch-2-suffers-another-ddos-attack-and-character-roster-bugs",
+          "publishedOn": "2022-10-11T11:10:46.000Z",
+          "wordCount": 4923,
+          "title": "Overwatch 2 suffers another DDoS attack and character roster bugs",
+          "imageUrl": "https://assets.reedpopcdn.com/ow2-bugs.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ow2-bugs.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/nintendo-switch-firmware-update-lets-you-take-screenshots-in-the-switch-online-app",
+          "author": "Liv Ngan",
+          "description": "You can now take screenshots inside the Nintendo Switch Online application on your console, thanks to the latest Nintendo Switch firmware update.\r\n\nThe previous Switch firmware update was back in March, and finally added folders for organising games.\r\n\nThe update for version 15.0.0 is available now to download.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/nintendo-switch-firmware-update-lets-you-take-screenshots-in-the-switch-online-app",
+          "publishedOn": "2022-10-11T10:50:18.000Z",
+          "wordCount": 4449,
+          "title": "Nintendo Switch firmware update lets you take screenshots in the Switch Online app",
+          "imageUrl": "https://assets.reedpopcdn.com/600x338_nso_savedata.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/600x338_nso_savedata.jpg"
+        },
+        {
+          "id": "https://www.eurogamer.net/sonic-frontiers-will-receive-free-monster-hunter-dlc",
+          "author": "Ed Nightingale",
+          "description": "Sonic Frontiers will have free Monster Hunter DLC a week after its release.\r\n\n\r\nThis is the first DLC announced for Sega's open zone adventure, a collaboration with Capcom's hugely successful hunting series.\r\n\n\r\nIt will launch on 14th November and include two costumes for Sonic: Rathalos and Felyne Rathalos.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/sonic-frontiers-will-receive-free-monster-hunter-dlc",
+          "publishedOn": "2022-10-11T10:40:35.000Z",
+          "wordCount": 4566,
+          "title": "Sonic Frontiers will receive free Monster Hunter DLC",
+          "imageUrl": "https://assets.reedpopcdn.com/sonic-frontiers-mh2.png/BROK/thumbnail/1600x900/format/jpg/quality/80/sonic-frontiers-mh2.png"
+        },
         {
           "id": "https://www.eurogamer.net/2k-confirms-some-personal-data-obtained-in-recent-data-breach",
           "author": "Ed Nightingale",
@@ -5487,6 +5537,26 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/blizzard-and-overwatch-2-struck-by-third-ddos-attack-in-a-week",
+          "author": "CJ Wheeler",
+          "description": "A DDoS attack on Blizzard caused issues for Overwatch 2 players earlier today, following on from similar attacks on the company during the free to play shooter’s launch last week. The latest attack came just after Overwatch 2 had finished a period of emergency maintenance. Although Blizzard have confirmed the DDoS attack has now ended, the recurring attacks aren’t exactly a good sign for a game already beset by technical issues.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/blizzard-and-overwatch-2-struck-by-third-ddos-attack-in-a-week",
+          "publishedOn": "2022-10-11T10:30:35.000Z",
+          "wordCount": 5138,
+          "title": "Blizzard and Overwatch 2 struck by third DDoS attack in a week",
+          "imageUrl": "https://assets2.rockpapershotgun.com/overwatch-2-bastion.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/overwatch-2-bastion.jpg"
+        },
+        {
+          "id": "https://www.rockpapershotgun.com/deathloop-takes-place-in-the-same-world-as-dishonored-creative-director-confirms",
+          "author": "CJ Wheeler",
+          "description": "Time-bending sci-fi shooter Deathloop is one of the possible futures of the Dishonored universe, Arkane’s Dinga Bakaba revealed during a recent episode of the Xbox podcast. Bakaba was the creative director on Deathloop, and lead designer for Dishonored 2 and Dishonored: Death Of The Outsider. He’s finally spilled the tea, confirming players’ suspicions that the two Arkane series beginning with a D and featuring magical abilities are linked.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/deathloop-takes-place-in-the-same-world-as-dishonored-creative-director-confirms",
+          "publishedOn": "2022-10-11T10:30:13.000Z",
+          "wordCount": 5119,
+          "title": "Deathloop takes place in the same world as Dishonored, creative director confirms",
+          "imageUrl": "https://assets2.rockpapershotgun.com/deathloop-dishonored.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/deathloop-dishonored.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/get-some-rather-excellent-klipsch-promedia-21-bluetooth-pc-speakers-for-59",
           "author": "Will Judd",
@@ -11619,16 +11689,6 @@
           "wordCount": 1652,
           "title": "Logitech finally makes a wireless mechanical keyboard with a true Mac layout",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/listing-4-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1885102",
-          "author": "Beth Mole",
-          "description": "The Sudan species of Ebolavirus has a fatality rate between 41% and 100%.",
-          "link": "https://arstechnica.com/?p=1885102",
-          "publishedOn": "2022-09-27T22:51:01.000Z",
-          "wordCount": 1629,
-          "title": "Unusual Ebola strain kills 23 in Uganda; no vaccines, treatments available",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1243385788-760x380.jpeg"
         }
       ]
     },
@@ -11637,6 +11697,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291747",
+          "author": null,
+          "description": "Internetstiftelsen bjuder på statistik om våra onlineliv.",
+          "link": "https://www.fz.se/artikel/291747-rapport-yngre-barn-spelar-mest-i-sverige",
+          "publishedOn": "2022-10-11T11:01:24.000Z",
+          "wordCount": 1936,
+          "title": "Rapport - Yngre barn spelar mest i Sverige",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291747"
+        },
         {
           "id": "https://www.fz.se/artikel/291748",
           "author": null,
@@ -14142,6 +14212,16 @@
       "siteUrl": "https://www.theregister.com/",
       "articles": [
         {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/11/fortinet_critical_flaw/",
+          "author": null,
+          "description": "<h4>Naturally, they're already under attack – so you know what to do next</h4> <p>Security appliance vendor Fortinet has become the subject of a bug report by its own FortiGuard Labs after the discovery of a critical-rated flaw in three of its products.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/11/fortinet_critical_flaw/",
+          "publishedOn": "2022-10-11T10:32:14.000Z",
+          "wordCount": 1301,
+          "title": "Fortinet warns of critical flaw in its security appliance OSes, admin panels",
+          "imageUrl": "https://regmedia.co.uk/2022/10/11/shutterstock_editorial_only_fortinet.jpg"
+        },
+        {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/11/gpu_intel_nvidia_amd/",
           "author": null,
           "description": "<h4>As Nvidia hikes prices, Intel is only too happy to profit from your discontent, and AMD remains a wild card</h4> <p><strong>Comment</strong>  For the first time in what feels like an eternity, customers have a third choice when it comes to graphics processors with the launch of Intel's mainstream Arc GPUs. It could be that AMD and Nvidia's long-standing duopoly has come to a close.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
@@ -16570,16 +16650,6 @@
           "wordCount": 1360,
           "title": "Sophos fixes critical firewall hole exploited by miscreants",
           "imageUrl": "https://regmedia.co.uk/2022/09/27/vulnerability_screen_alert_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/hurricane_ian_artemis_nasa/",
-          "author": null,
-          "description": "<h4>Fun fact: The mission is named after the Latin word for 'delayed'</h4> <p>NASA's Moon-ward Space Launch System (SLS) rocket will not be blasting off from Earth until late October at the earliest, after the vehicle was rolled back to its hangar to shelter from an incoming hurricane.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/hurricane_ian_artemis_nasa/",
-          "publishedOn": "2022-09-27T23:18:28.000Z",
-          "wordCount": 1300,
-          "title": "Hurricane Ian blows NASA Artemis Moon launch into October or November",
-          "imageUrl": "https://regmedia.co.uk/2018/02/20/nasa_sls_launcher.jpg"
         }
       ]
     }
