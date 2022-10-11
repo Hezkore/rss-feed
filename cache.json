@@ -12,6 +12,16 @@
       "siteUrl": "https://itsfoss.com",
       "articles": [
         {
+          "id": "https://itsfoss.com/?p=102634",
+          "author": "Pranav Krishna",
+          "description": "Want to install Snap applications in Arch Linux? You need to enable snap support first. Here's how to enable snap on Arch Linux.",
+          "link": "https://itsfoss.com/install-snap-arch-linux/",
+          "publishedOn": "2022-10-11T05:16:41.000Z",
+          "wordCount": 7293,
+          "title": "How to Enable Snap Support in Arch Linux",
+          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/10/install-snap-in-arch-linux.png"
+        },
+        {
           "id": "https://itsfoss.com/?p=102673",
           "author": "Abhishek Prakash",
           "description": "Wondering how to update Google Chrome in Ubuntu? It's done from software center, not from the browser it self. Read in details.",
@@ -728,16 +738,6 @@
           "wordCount": 1375,
           "title": "Intel reveals 13th Gen 'Raptor Lake' desktop CPUs",
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1626804388id21659gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/09/steam-deck-gets-a-small-bug-fix-client-beta-out-now/",
-          "author": "Liam Dawe",
-          "description": "Valve has released another Client Beta for the Steam Deck which is now available for testing, mostly just fixing up issues.",
-          "link": "https://www.gamingonlinux.com/2022/09/steam-deck-gets-a-small-bug-fix-client-beta-out-now/",
-          "publishedOn": "2022-09-27T17:39:06.000Z",
-          "wordCount": 1097,
-          "title": "Steam Deck gets a small bug-fix Client Beta out now",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_deck.jpg"
         }
       ]
     },
@@ -5409,16 +5409,6 @@
           "wordCount": 1365,
           "title": "Google Releases Chrome 106 With SerialPort BYOB, Security Fixes",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Intel-Arc-A770-October",
-          "author": null,
-          "description": "In addition to announcing 13th Gen Core \"Raptor Lake\" CPUs, Intel also announced their Arc Graphics A770 flagship graphics card will be launching in just two weeks...",
-          "link": "https://www.phoronix.com/news/Intel-Arc-A770-October",
-          "publishedOn": "2022-09-27T17:20:33.000Z",
-          "wordCount": 1226,
-          "title": "Intel Arc Graphics A770 Launching 12 October For $329 USD",
-          "imageUrl": null
         }
       ]
     },
@@ -9533,66 +9523,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/WdTNo4zCq3vLB98rhG9zwf.jpg"
-        },
-        {
-          "id": "YFdJ66joMnEqGnqtmfi7CA",
-          "author": null,
-          "description": "TeamGroup's T-Force Delta RGB DDR5 memory boasts a 7200 MT/s data transfer rate, aimed at Intel's Raptor Lake processors.",
-          "link": "https://www.tomshardware.com/news/teamgroup-unveils-ddr5-7200-memory-modules",
-          "publishedOn": "2022-09-27T17:49:33.000Z",
-          "wordCount": 21504,
-          "title": "TeamGroup Unveils DDR5-7200 Memory Modules",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/JahsM4oQvcV3HLU9yYjPSb.png",
-            "type": "image/png",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/JahsM4oQvcV3HLU9yYjPSb.png"
-        },
-        {
-          "id": "nWr63xWHu6HV3WCRNkDmsk",
-          "author": null,
-          "description": "Intel's Arc Alchemist will be the company's first 'true' dedicated graphics card in over two decades, sporting a new architecture and vastly improved features and performance for Intel GPUs. Here's everything we know.",
-          "link": "https://www.tomshardware.com/news/intel-arc-alchemist-release-date-specs-pricing-all-we-know",
-          "publishedOn": "2022-09-27T17:36:10.000Z",
-          "wordCount": 30337,
-          "title": "Intel Arc Alchemist: Release Date, Specs, Everything We Know",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/dJag4RBKrDxUgRXvMios88.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/dJag4RBKrDxUgRXvMios88.jpg"
-        },
-        {
-          "id": "ovUhiEPNvSy2xRRWRKjBfn",
-          "author": null,
-          "description": "Intel is launching the Arc A770 GPU on October 12, starting at $329, to bring some more competition to the mid-level GPU market.",
-          "link": "https://www.tomshardware.com/news/intel-arc-a770-launching-oct-12-starting-at-dollar329",
-          "publishedOn": "2022-09-27T17:01:12.000Z",
-          "wordCount": 22705,
-          "title": "Intel Arc A770 Launching Oct. 12, Starting at $329",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/6KEGCk6Z5R2FrV8KjgzCD4.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/6KEGCk6Z5R2FrV8KjgzCD4.jpg"
-        },
-        {
-          "id": "tiruwc6GoAQaFEHMzEDQ7L",
-          "author": null,
-          "description": "NZXT has announced the Z790 version of its N7 motherboard, ready for Raptor Lake",
-          "link": "https://www.tomshardware.com/news/nzxt-z790-announcement",
-          "publishedOn": "2022-09-27T17:00:13.000Z",
-          "wordCount": 22617,
-          "title": "NZXT Brings Shroud-Slathered Design to Raptor Lake With N7 Z790 Motherboard",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/kLAfGYLHYCRSmpUmZqXKCR.jpeg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/kLAfGYLHYCRSmpUmZqXKCR.jpeg"
         }
       ]
     },
@@ -9959,16 +9889,6 @@
           "publishedOn": "2022-09-27T23:30:00.000Z",
           "wordCount": 1071,
           "title": "François Marier: Upgrading from chan_sip to res_pjsip in Asterisk 18",
-          "imageUrl": null
-        },
-        {
-          "id": "https://blog.einval.com/2022/09/27#firmware-vote",
-          "author": null,
-          "description": "Updates\nBack in April I wrote about\nissues\nwith how we handle firmware in Debian, and I also spoke about it at\nDebConf\nin July. Since then, we've started the General Resolution process -\nthis led to a lot of discussion on the\nthe debian-vote\nmailing list and we're now into the second week of\nthe voting\nphase.\nThe discussion has caught the interest of a few news sites along\nthe way:\nDebian to vote on\n  its firmware path in Linux Weekly News\n  \nDebian\n  Begins A General Resolution To Decide What To Do With Non-Free\n  Firmware in Phoronix\n  \nDebian set to start vote on including non-free packages in install media\n    in ITWire\n  \nWhy\n  Debian Might Include Non-Free Firmware in Future Releases in\n  MakeUseOf\n\nMy vote\nI've also had several people ask me how I'm voting myself, as I\nstarted this …",
-          "link": "https://blog.einval.com/2022/09/27#firmware-vote",
-          "publishedOn": "2022-09-27T17:46:00.000Z",
-          "wordCount": 651,
-          "title": "Steve McIntyre: Firmware again - updates, how I'm voting and why!",
           "imageUrl": null
         }
       ]
@@ -11734,56 +11654,6 @@
           "wordCount": 1984,
           "title": "FCC advances plan to require blocking of spam texts from bogus numbers",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/getty-phone-scam-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1884850",
-          "author": "Andrew Cunningham",
-          "description": "You can spend as much on a board as some people do on their whole PC.",
-          "link": "https://arstechnica.com/?p=1884850",
-          "publishedOn": "2022-09-27T17:51:37.000Z",
-          "wordCount": 1845,
-          "title": "Early-adopter tax is in full force for the first batch of AM5 motherboards",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/msi-x670e-godlike-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1884913",
-          "author": "Sam Machkovech",
-          "description": "Expected performance somewhere near Nvidia's RTX 3060 Ti—at least, for DirectX 12.",
-          "link": "https://arstechnica.com/?p=1884913",
-          "publishedOn": "2022-09-27T17:40:29.000Z",
-          "wordCount": 1590,
-          "title": "Intel: “Moore’s law is not dead” as Arc A770 GPU is priced at $329",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/intel-arc-listing-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1884626",
-          "author": "Jennifer Ouellette",
-          "description": "\"You keep her alive, and you set everything right.\"",
-          "link": "https://arstechnica.com/?p=1884626",
-          "publishedOn": "2022-09-27T17:27:27.000Z",
-          "wordCount": 1800,
-          "title": "HBO Max drops first teaser for The Last of Us adaptation",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/lastofus1-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1884919",
-          "author": "Kyle Orland",
-          "description": "Bugged boss encounter leads to 9-hour power-leveling run at 1.8 million XP/hour.",
-          "link": "https://arstechnica.com/?p=1884919",
-          "publishedOn": "2022-09-27T17:13:48.000Z",
-          "wordCount": 1737,
-          "title": "WoW: Lich King player hits level 80 just 9 hours after “Classic” server launch",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/lichkingclassic-760x301.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1884795",
-          "author": "Ron Amadeo",
-          "description": "iRobot's wild mop design can move from the top of the robot to the bottom.",
-          "link": "https://arstechnica.com/?p=1884795",
-          "publishedOn": "2022-09-27T17:07:07.000Z",
-          "wordCount": 1861,
-          "title": "The Roomba j7+ learns to mop with a dramatic swing-arm setup",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/37-760x380.jpg"
         }
       ]
     },
@@ -13291,26 +13161,6 @@
           "wordCount": 1838,
           "title": "Overwatch 2 kräver ett mobilnummer för att spelas",
           "imageUrl": "https://www.fz.se/artikel/og-image/291604"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291602",
-          "author": null,
-          "description": "Älskling, Obsidian krympte spelet!",
-          "link": "https://www.fz.se/artikel/291602-grounded",
-          "publishedOn": "2022-09-27T17:25:00.000Z",
-          "wordCount": 2784,
-          "title": "Grounded",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291602"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291601",
-          "author": null,
-          "description": "Ingen rast, ingen ro.",
-          "link": "https://www.fz.se/artikel/291601-wow-spelare-nar-level-80-i-lich-king-pa-9-timmar",
-          "publishedOn": "2022-09-27T17:23:00.000Z",
-          "wordCount": 1770,
-          "title": "WoW-spelare når level 80 i Lich King – på 9 timmar!",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291601"
         }
       ]
     },
@@ -13958,16 +13808,6 @@
           "wordCount": 1685,
           "title": "Intels Unison suddar gränsen mellan dator och telefon",
           "imageUrl": "https://www.sweclockers.com/artikel/34987/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34986",
-          "author": null,
-          "description": "Intel polerar fram prestanda som vanligen följer med ny arkitektur eller tillverkningsteknik. Förfinade processer, högre klockfrekvens och mer L2-cache är det alternativa receptet.",
-          "link": "https://www.sweclockers.com/artikel/34986-intel-avtacker-core-13000-raptor-lake-extra-karnor-och-hogre-klockfrekvenser",
-          "publishedOn": "2022-09-27T17:22:58.000Z",
-          "wordCount": 2887,
-          "title": "Intel avtäcker Core 13000 \"Raptor Lake\" – extra kärnor och högre klockfrekvenser",
-          "imageUrl": "https://www.sweclockers.com/artikel/34986/og-image"
         }
       ]
     },
@@ -14266,6 +14106,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/11/electric_blanket_chip_boom/",
+          "author": null,
+          "description": "<h4>As energy prices rise, so does demand for the kind of low-end chips China cranks out</h4> <p>Here's an odd side effect of Russia's illegal invasion of Ukraine: a small boom in exports of Chinese electric blankets to Europe.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/11/electric_blanket_chip_boom/",
+          "publishedOn": "2022-10-11T05:58:12.000Z",
+          "wordCount": 1365,
+          "title": "Reds on the beds: Putin's war sparks Chinese chip boom, starting with electric blankets",
+          "imageUrl": "https://regmedia.co.uk/2022/10/11/shutterstock_electric_blanket_icon_with_chinese_flag.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/11/optus_acma_oaic_dual_probes/",
+          "author": null,
+          "description": "<h4>Data retention requirements to be considered alongside infosec failings</h4> <p>Australian carrier Optus's recent data breach will be investigated by two regulators, the double trouble likely an indicator of the nation's displeasure at the incident – which saw almost ten million locals' personal data exposed online.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/11/optus_acma_oaic_dual_probes/",
+          "publishedOn": "2022-10-11T04:57:05.000Z",
+          "wordCount": 1245,
+          "title": "Optus data breach prompts pincer movement of twin regulatory probes",
+          "imageUrl": "https://regmedia.co.uk/2018/07/09/yellowcrab.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/11/apple_australia_store_strike/",
           "author": null,
@@ -16705,26 +16565,6 @@
           "wordCount": 1367,
           "title": "Samsung facing class action over customer data leaks",
           "imageUrl": "https://regmedia.co.uk/2017/02/27/samsung-safety.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/cisco_tax_transparency/",
-          "author": null,
-          "description": "<h4>Amazon's already said no to country-by-country breakdown</h4> <p>Cisco has urged its shareholders to vote against a proposal asking for the company to publish a tax transparency report that breaks down where it pays its taxes on a country-by-country basis.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/cisco_tax_transparency/",
-          "publishedOn": "2022-09-27T17:30:12.000Z",
-          "wordCount": 1688,
-          "title": "Cisco asks shareholders to vote against global tax transparency",
-          "imageUrl": "https://regmedia.co.uk/2022/09/19/shutterstock_editorial_only_cisco_switch.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/oracle_fined_23_million_sec/",
-          "author": null,
-          "description": "<h4>India, Turkey, UAE subsidiaries set up slush funds to bribe 'foreign officials', says watchdog</h4> <p>Oracle has paid $23 million to the US Securities and Exchange Commission over corruption charges that subsidiaries in Turkey, United Arab Emirates and India used “slush funds” to bribe foreign officials to win business.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/oracle_fined_23_million_sec/",
-          "publishedOn": "2022-09-27T17:00:12.000Z",
-          "wordCount": 1333,
-          "title": "Oracle fined $23 million by the SEC for corruption",
-          "imageUrl": "https://regmedia.co.uk/2020/02/21/shutterstock_oracle_fire.jpg"
         }
       ]
     }
