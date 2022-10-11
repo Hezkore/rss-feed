@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-11T09:30:56.742Z</updated>
+    <updated>2022-10-11T10:30:36.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[2K confirms some personal data obtained in recent data breach]]></title>
+        <id>https://www.eurogamer.net/2k-confirms-some-personal-data-obtained-in-recent-data-breach</id>
+        <link href="https://www.eurogamer.net/2k-confirms-some-personal-data-obtained-in-recent-data-breach"/>
+        <updated>2022-10-11T10:18:35.000Z</updated>
+        <summary type="html"><![CDATA[Following a data breach last month, 2K has now confirmed that some personal data has been recorded.
+
+
+Hackers were able to gain access to the company's support desk, impersonating official communication.
+
+
+The publisher is now emailing those affected, confirming that some personal data was recorded but there's "no indication" that financial information has been compromised.
+ 
+Read more]]></summary>
+        <author>
+            <name>Ed Nightingale</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The upgraded ivoler Steam Deck Docking Station is another good choice]]></title>
+        <id>https://www.gamingonlinux.com/2022/10/the-upgraded-ivoler-steam-deck-docking-station-is-another-good-choice/</id>
+        <link href="https://www.gamingonlinux.com/2022/10/the-upgraded-ivoler-steam-deck-docking-station-is-another-good-choice/"/>
+        <updated>2022-10-11T10:18:14.000Z</updated>
+        <summary type="html"><![CDATA[Don't fancy buying from JSAUX and don't need the charger + extra expense of the official Steam Deck Docking Station? ivoler are another good choice.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Resident Evil Village’s Lady D has been shrunk down for Mercenaries]]></title>
+        <id>https://www.vg247.com/resident-evil-villages-lady-d-has-been-shrunk-down-for-mercenaries</id>
+        <link href="https://www.vg247.com/resident-evil-villages-lady-d-has-been-shrunk-down-for-mercenaries"/>
+        <updated>2022-10-11T10:14:16.000Z</updated>
+        <summary type="html"><![CDATA[Resident Evil Village Gold Edition is set to release in just a few weeks on October 8, alongside the Winter's Expansion. With their release, many of us will be headed back to Village once more to see what Rose Winters is capable of in the Shadows of Rose DLC, or to go and fight hordes in Mercenaries.
+In an interview with Polygon, game director Kento Kinoshita had plenty to say about Mercenaries, including exactly what it might feel like finally playing as every Resident Evil fan's favourite vampire, Lady Dimitrescu.
+Mercenaries will feature the playable debut of both Lady D and Karl Heisenberg, and when asked about adapting new characters for the game mode, Kinoshita shared, “When adapting them for The Mercenaries, we made a conscious effort to give each one their own distinct feel. Chris is a hybrid character that combines long-range attacks (firearms) with close-combat (fists). Meanwhile, Heisenberg wields magnetic force to unleash close-range assaults.”
+ Read more]]></summary>
+        <author>
+            <name>Kelsey Raynor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD IOMMU v2 Page Tables Getting Wired Up For Linux 6.1]]></title>
+        <id>https://www.phoronix.com/news/AMD-IOMMU-v2-Linux-6.1</id>
+        <link href="https://www.phoronix.com/news/AMD-IOMMU-v2-Linux-6.1"/>
+        <updated>2022-10-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For more than a year AMD engineers have been working on IOMMU v2 page table support and with the in-development Linux 6.1 kernel the initial patches are finally being merged...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Har Phil Spencers bokhylla "råkat" visa en Xbox-streamingkonsol?]]></title>
+        <id>https://www.fz.se/artikel/291748</id>
+        <link href="https://www.fz.se/artikel/291748-har-phil-spencers-bokhylla-rakat-visa-en-xbox-streamingkonsol"/>
+        <updated>2022-10-11T09:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Xbox-chefens bokhylla kan ha läckt igen.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The new GPU world order is beginning to take shape]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/11/gpu_intel_nvidia_amd/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/11/gpu_intel_nvidia_amd/"/>
+        <updated>2022-10-11T09:32:12.000Z</updated>
+        <summary type="html"><![CDATA[<h4>As Nvidia hikes prices, Intel is only too happy to profit from your discontent, and AMD remains a wild card</h4> <p><strong>Comment</strong>  For the first time in what feels like an eternity, customers have a third choice when it comes to graphics processors with the launch of Intel's mainstream Arc GPUs. It could be that AMD and Nvidia's long-standing duopoly has come to a close.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Battlefield 2042 Liquidators event taken offline less than an hour after going live]]></title>
         <id>https://www.vg247.com/battlefield-2042-liquidators-infantry-event-offline-major-bugs</id>
@@ -18507,19 +18578,6 @@ and so I decided it was time to sto…]]></summary>
         <summary type="html"><![CDATA[The Sudan species of Ebolavirus has a fatality rate between 41% and 100%.]]></summary>
         <author>
             <name>Beth Mole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam is swapping Lunar New Year sales for a new spring sale instead]]></title>
-        <id>https://www.rockpapershotgun.com/steam-is-swapping-lunar-new-year-sales-for-a-new-spring-sale-instead</id>
-        <link href="https://www.rockpapershotgun.com/steam-is-swapping-lunar-new-year-sales-for-a-new-spring-sale-instead"/>
-        <updated>2022-09-27T22:05:51.000Z</updated>
-        <summary type="html"><![CDATA[Steam is ditching its annual Lunar New Year sale next year, opting instead for a new spring sale. That means the digital storefront will now have sales for all four seasons, and Valve have also outlined the dates for the next three major sales events.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
         </author>
     </entry>
 </feed>
