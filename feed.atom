@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-11T06:04:14.784Z</updated>
+    <updated>2022-10-11T07:45:22.801Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NASA regains control of CAPSTONE lunar orbiter after a tumble]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/11/nasa_capstone_moon_satellite/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/11/nasa_capstone_moon_satellite/"/>
+        <updated>2022-10-11T07:26:06.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Pinging something missing on a network is frustrating enough, imagine if it's out in space</h4> <p>NASA is back in control of its CAPSTONE spacecraft after the lunar orbiter lost power and communications and spent weeks powered down in safe mode while tumbling through the void.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.1 Finishes Gutting Out The Old a.out Code]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-Gutting-Out-a.out</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-Gutting-Out-a.out"/>
+        <updated>2022-10-11T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Back in 2019 the Linux kernel finally deprecated a.out support for that format superseded by ELF long ago. Since earlier this year kernel developers moved ahead with beginning to remove a.out support, including the old x86 a.out support. Now with Linux 6.1 some lingering remnants of a.out are being cleared away...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CoD: Modern Warfare 2:s pc-trailer utlovar 500+ inställningsmöjligheter]]></title>
+        <id>https://www.fz.se/artikel/291745</id>
+        <link href="https://www.fz.se/artikel/291745-cod-modern-warfare-2s-pc-trailer-utlovar-500-installningsmojligheter"/>
+        <updated>2022-10-11T06:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Skräddarsy ditt pc-slagfält.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook hittar över 400 skadliga applikationer till Android och IOS]]></title>
+        <id>https://www.sweclockers.com/artikel/35055</id>
+        <link href="https://www.sweclockers.com/artikel/35055-facebook-hittar-over-400-skadliga-applikationer-till-android-och-ios"/>
+        <updated>2022-10-11T06:36:20.000Z</updated>
+        <summary type="html"><![CDATA[Skadliga mobilapplikationer med varierande funktionalitet ägnar sig åt nätfiske med hjälp av inloggning genom Facebook.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singapore suggests blockchain to speed cross-border payments]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/11/singapore_blockchain_cross_border_payments/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/11/singapore_blockchain_cross_border_payments/"/>
+        <updated>2022-10-11T06:32:09.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Monetary Authority director calls current system 'not fit for 21st century'</h4> <p>Monetary Authority of Singapore (MAS) managing director Ravi Menon said on Monday the solution to costly, slow and inefficient cross-border payments is the implementation of industry-led blockchain stablecoin transactions and multi-CBDC platforms.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reds on the beds: Putin's war sparks Chinese chip boom, starting with electric blankets]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/11/electric_blanket_chip_boom/</id>
@@ -94,6 +144,16 @@
         <summary type="html"><![CDATA[<h4>'Oh what a feeling' when your contractor leaks site source code</h4> <p>Toyota has admitted it put 296,019 email addresses and customer management numbers of folks who signed up for its T-Connect assistance website at risk of online theft by bungling its security.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comic for 2022.10.11 - Addiction]]></title>
+        <id>https://explosm.net/comics/addiction</id>
+        <link href="https://explosm.net/comics/addiction"/>
+        <updated>2022-10-11T00:00:29.000Z</updated>
+        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
+        <author>
+            <name>Explosm.net</name>
         </author>
     </entry>
     <entry>
@@ -18439,115 +18499,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<h4>Turns out all it took was a business-disrupting global pandemic</h4> <p>Despite recession fears, most companies are planning to increase IT budgets next year.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Arc A770 GPU releases October 12th]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/intel-arc-a770-gpu-releases-october-12th/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/intel-arc-a770-gpu-releases-october-12th/"/>
-        <updated>2022-09-27T19:18:12.000Z</updated>
-        <summary type="html"><![CDATA[Along with announcing their new Raptor Lake desktop CPUs, Intel has also finally announced the release date of their Arc A770 GPU for October 12th.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple backtracks, will extend Stage Manager multitasking support to older iPads]]></title>
-        <id>https://arstechnica.com/?p=1885000</id>
-        <link href="https://arstechnica.com/?p=1885000"/>
-        <updated>2022-09-27T19:15:15.000Z</updated>
-        <summary type="html"><![CDATA[External display support remains exclusive to M1 iPads, coming "later this year."]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SAS puts ML and analytics suite on Azure Marketplace]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/27/sas_ml_analytics_azure/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/27/sas_ml_analytics_azure/"/>
-        <updated>2022-09-27T19:00:06.000Z</updated>
-        <summary type="html"><![CDATA[<h4>50-year-old software project provides a button the boss can click</h4> <p>Analytics stalwart SAS is making its cloud-based Viya platform available in the Microsoft Azure Marketplace in the hopes users will be tempted by a clickable, pay-as-you-go option for its ML, data management, and analytics tools.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Publishes Xe Super Sampling "XeSS" 1.0 SDK]]></title>
-        <id>https://www.phoronix.com/news/Intel-XeSS-Open-Source</id>
-        <link href="https://www.phoronix.com/news/Intel-XeSS-Open-Source"/>
-        <updated>2022-09-27T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Yet more news from Intel's Innovation event taking place in San Jose is the initial SDK source code availability of the much anticipated Xe Super Sampling. XeSS is Intel's alternative to AMD FidelityFX Super Resolution and NVIDIA DLSS...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel reveals 13th Gen 'Raptor Lake' desktop CPUs]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/intel-reveals-13th-gen-raptor-lake-desktop-cpus/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/intel-reveals-13th-gen-raptor-lake-desktop-cpus/"/>
-        <updated>2022-09-27T18:53:43.000Z</updated>
-        <summary type="html"><![CDATA[Intel has today formally revealed their brand new line of desktop CPUs, just as AMD are launching Ryzen 7000 processors.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://shencomix.tumblr.com/post/696573619521945600</id>
-        <link href="https://shencomix.tumblr.com/post/696573619521945600"/>
-        <updated>2022-09-27T18:46:10.000Z</updated>
-        <author>
-            <name>Shen Comix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Releases Chrome 106 With SerialPort BYOB, Security Fixes]]></title>
-        <id>https://www.phoronix.com/news/Google-Chrome-106-Released</id>
-        <link href="https://www.phoronix.com/news/Google-Chrome-106-Released"/>
-        <updated>2022-09-27T18:36:46.000Z</updated>
-        <summary type="html"><![CDATA[Google this afternoon promoted Chrome 106 to their stable channel for Linux, ChromeOS, macOS, and Windows users of this web browser...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FCC advances plan to require blocking of spam texts from bogus numbers]]></title>
-        <id>https://arstechnica.com/?p=1884977</id>
-        <link href="https://arstechnica.com/?p=1884977"/>
-        <updated>2022-09-27T18:21:21.000Z</updated>
-        <summary type="html"><![CDATA[Robotext plan approved after a year, but FCC still needs to adopt final rules.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung sued for gobbling up too much personal info that miscreants then stole]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/27/samsung_data_theft_lawsuit/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/27/samsung_data_theft_lawsuit/"/>
-        <updated>2022-09-27T18:15:08.000Z</updated>
-        <summary type="html"><![CDATA[<h4>If you're gonna force everyone to register an account, at least protect that data, lawsuit argues</h4> <p>A lawsuit has accused Samsung of failing to address a cyber-intrusion in early 2022, leading to the theft of US customers' personally identifiable information (PII) in a second attack months later in July.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung facing class action over customer data leaks]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/27/samsung_breach_class_action/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/27/samsung_breach_class_action/"/>
-        <updated>2022-09-27T18:15:08.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Not only did the company fail to protect their data, the suit alleges, it also forced users to register</h4> <p>A class action lawsuit has accused Samsung of failing to address a data breach in early 2022, leading to the theft of US customers' personally identifiable information (PII) in a second attack earlier this month.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First AMD Drivers for Ryzen 7000's Super Slow iGPU]]></title>
-        <id>eBYiwqkGDHZYwLgyxRemuM</id>
-        <link href="https://www.tomshardware.com/news/ryzen-7000-integrated-gpu-driver-update"/>
-        <updated>2022-09-27T18:11:45.000Z</updated>
-        <summary type="html"><![CDATA[AMD has released its first Adrenalin GPU driver supporting the Ryzen 7000's new integrated graphics chips.]]></summary>
-        <author>
-            <name>Tomshardware</name>
         </author>
     </entry>
 </feed>
