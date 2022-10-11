@@ -769,16 +769,6 @@
           "wordCount": 1118,
           "title": "NVIDIA put out new Vulkan Beta Driver with Vulkan Video updates",
           "imageUrl": "https://www.gamingonlinux.com/uploads/tagline_gallery/nvidia-logo.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/09/steam-deck-got-another-beta-update-focused-on-steam-input-and-flickstick/",
-          "author": "Liam Dawe",
-          "description": "Seems Valve snuck out another Steam Deck Beta update while I was asleep, this time focused on improvements to Steam Input.",
-          "link": "https://www.gamingonlinux.com/2022/09/steam-deck-got-another-beta-update-focused-on-steam-input-and-flickstick/",
-          "publishedOn": "2022-09-28T09:08:01.000Z",
-          "wordCount": 1205,
-          "title": "Steam Deck got another Beta update focused on Steam Input and FlickStick",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_deck.jpg"
         }
       ]
     },
@@ -3156,16 +3146,6 @@
           "wordCount": 5862,
           "title": "Modern Warfare 2's open beta demonstrates Activision's accessibility negligence",
           "imageUrl": "https://assets.reedpopcdn.com/Modern-warfare-2-open-beta.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/Modern-warfare-2-open-beta.jpeg"
-        },
-        {
-          "id": "https://www.eurogamer.net/the-excavation-of-hobs-barrow-review-an-adventure-game-with-depth",
-          "author": "Christian Donlan",
-          "description": "SPOILER WARNING: I try not to reveal specifics of Hob's Barrow in this piece, but to get at what's special about this game, I've had to talk about certain elements of the design that you might not want to know going in.\n\n\r\nMy favourite moment in The Excavation of Hob's Barrow came about three hours after I'd finished it. But we'll get to that in a bit.\r\n\n\r\nFrom the off, it's hard not to root for Thomasina Bateman. In an age of steam trains and parasols, she has come to a small village in the north of England to dig up an ancient burial site, regardless of all the obstacles the local patriarchy - and the soggy English weather - can place in her way. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/the-excavation-of-hobs-barrow-review-an-adventure-game-with-depth",
-          "publishedOn": "2022-09-28T09:04:47.000Z",
-          "wordCount": 5546,
-          "title": "The Excavation of Hob's Barrow review - an adventure game with depth",
-          "imageUrl": "https://assets.reedpopcdn.com/Hob's-Barrow-3.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Hob's-Barrow-3.jpg"
         }
       ]
     },
@@ -5890,26 +5870,6 @@
           "wordCount": 1473,
           "title": "GNU Toolchain Plans Move To The Linux Foundation's Infrastructure",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Fedora-Disable-Bad-VA-API",
-          "author": null,
-          "description": "For Fedora Linux users currently making use of Mesa's VA-API support with the open-source AMD graphics driver or similar and using it to speed-up H.264, H.265, or VC1 decoding, you may soon be out of luck and will have to fall-back to either using CPU-based decoding or be relying on an unofficial/third-party Mesa build...",
-          "link": "https://www.phoronix.com/news/Fedora-Disable-Bad-VA-API",
-          "publishedOn": "2022-09-28T09:10:37.000Z",
-          "wordCount": 1423,
-          "title": "Fedora Linux Disabling Mesa's H.264 / H.265 / VC1 VA-API Support Over Legal Concerns",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Intel-oneDNN-2.7-Released",
-          "author": null,
-          "description": "Aligned with Intel's Innovation event happening this week in San Jose, Intel on Tuesday released oneDNN 2.7 as the newest version of their deep neural network library. In addition to optimizing support for new Intel hardware, oneDNN 2.7 also has AMD GPU support...",
-          "link": "https://www.phoronix.com/news/Intel-oneDNN-2.7-Released",
-          "publishedOn": "2022-09-28T08:48:41.000Z",
-          "wordCount": 1381,
-          "title": "Intel oneDNN 2.7 Released With Sapphire Rapids & DG2 Optimizations, AMD GPU Bringup",
-          "imageUrl": null
         }
       ]
     },
@@ -5918,6 +5878,26 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/meta-quest-pro-finally-unveiled-but-itll-cost-you-1500",
+          "author": "Graham Smith",
+          "description": "Meta have announced their much-teased new VR headset, the Meta Quest Pro. It promises a swankier virtual reality experience over the Meta Quest 2, with higher resolution displays, a lighter headset, and new Quest Touch Pro controllers included. It's also launching imminently, on October 25th, with pre-orders open now.\r\n\nThe downside: it'll cost you £1500/$1500 versus the Quest 2's £400, with Meta saying the headset is designed for business and not gaming.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/meta-quest-pro-finally-unveiled-but-itll-cost-you-1500",
+          "publishedOn": "2022-10-11T21:07:43.000Z",
+          "wordCount": 4852,
+          "title": "Meta Quest Pro finally unveiled, but it'll cost you £1500",
+          "imageUrl": "https://assets2.rockpapershotgun.com/meta-quest-pro_LfVt1QW.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/meta-quest-pro_LfVt1QW.jpg"
+        },
+        {
+          "id": "https://www.rockpapershotgun.com/2k-confirms-user-data-stolen-and-placed-on-sale-after-recent-security-breach",
+          "author": "Graham Smith",
+          "description": "2K Games have confirmed that personal data was stolen during a security breach last month. The game publisher had previously announced that their support services had been hacked and asked users not to open any links received from them via email. They're now contacting users whose information was accessed and made available for sale by the hackers.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/2k-confirms-user-data-stolen-and-placed-on-sale-after-recent-security-breach",
+          "publishedOn": "2022-10-11T20:36:19.000Z",
+          "wordCount": 4823,
+          "title": "2K confirms user data stolen and placed on sale after recent security breach",
+          "imageUrl": "https://assets2.rockpapershotgun.com/best-twists-pc-games-1-bioshock.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/best-twists-pc-games-1-bioshock.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/ea-show-first-teaser-trailer-for-ea-sports-pga-tour-just-as-2ks-pga-tour-2k23-comes-out",
           "author": "Graham Smith",
@@ -7355,6 +7335,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "9WQsK9veiu8yEzjfTu7ahR",
+          "author": null,
+          "description": "The whole industry suffers as U.S. restrictions on China's semiconductor industry get more severe.",
+          "link": "https://www.tomshardware.com/news/chip-industry-loses-240-billion-in-value",
+          "publishedOn": "2022-10-11T20:49:31.000Z",
+          "wordCount": 22611,
+          "title": "Chip Companies Lose $240 Billion in U.S. Crackdown on China",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/7m777YXFjSDibuo58HEzka.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/7m777YXFjSDibuo58HEzka.png"
+        },
         {
           "id": "kgyukxCwUh5ANqmHs2dj4i",
           "author": null,
@@ -13992,16 +13987,6 @@
           "wordCount": 3785,
           "title": "450 spel reas ut i Playstation Store",
           "imageUrl": "https://www.fz.se/artikel/og-image/291609"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291608",
-          "author": null,
-          "description": "Multiplayer-action från Dice-veteraner.",
-          "link": "https://www.fz.se/artikel/291608-the-finals-visar-imponerande-forstorelse-i-forsta-gameplay-trailern",
-          "publishedOn": "2022-09-28T09:02:00.000Z",
-          "wordCount": 1963,
-          "title": "The Finals visar imponerande förstörelse i första gameplay-trailern",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291608"
         }
       ]
     },
@@ -14987,6 +14972,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/11/us_uber_lyft_gig/",
+          "author": null,
+          "description": "<h4>About to get a lot trickier to justify contractor status for app-hired folks</h4> <p>The US Department of Labor today signaled it hopes to make it much harder for companies to argue that gig workers and laborers, among others, are individual contractors rather than employees.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/11/us_uber_lyft_gig/",
+          "publishedOn": "2022-10-11T20:34:35.000Z",
+          "wordCount": 2054,
+          "title": "Uber, Lyft stock decimated as US aims to classify gig workers as staff",
+          "imageUrl": "https://regmedia.co.uk/2020/11/10/gig.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/11/esoteric-grandioso-turntable/",
           "author": null,
