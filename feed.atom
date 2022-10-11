@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-11T19:25:37.952Z</updated>
+    <updated>2022-10-11T20:30:45.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[EA show first teaser trailer for EA Sports PGA Tour, just as 2K's PGA Tour 2K23 comes out]]></title>
+        <id>https://www.rockpapershotgun.com/ea-show-first-teaser-trailer-for-ea-sports-pga-tour-just-as-2ks-pga-tour-2k23-comes-out</id>
+        <link href="https://www.rockpapershotgun.com/ea-show-first-teaser-trailer-for-ea-sports-pga-tour-just-as-2ks-pga-tour-2k23-comes-out"/>
+        <updated>2022-10-11T20:16:08.000Z</updated>
+        <summary type="html"><![CDATA[EA have released the teaser trailer for their first golf game since 2015, EA Sports PGA Tour. It will reportedly feature all four major golfing championships, as well as several of the world's most famous courses. You can find the thirty seconds of footage of grass and sandpits below.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[This maglev turntable costs more than an average luxury electric car]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/11/esoteric-grandioso-turntable/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/11/esoteric-grandioso-turntable/"/>
+        <updated>2022-10-11T19:29:09.000Z</updated>
+        <summary type="html"><![CDATA[<h4>At $74k, this gear is an odd pitch for TEAC's time to shine again</h4> <p>Things are a bit financially tight right now – we get it – but sometimes an audiophile has to treat themselves, and what better way to do it than with a turntable priced higher than a top electric car?…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xbox Cloud Gaming is heading to Meta Quest VR headsets]]></title>
         <id>https://www.eurogamer.net/xbox-cloud-gaming-is-heading-to-meta-quest-vr-headsets</id>
@@ -22,6 +45,16 @@ And that list, as revealed by Microsoft CEO Satya Nadella during today's Meta Co
 Read more]]></summary>
         <author>
             <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drivers woefully overestimate hands-free driver tech, study shows]]></title>
+        <id>https://arstechnica.com/?p=1889137</id>
+        <link href="https://arstechnica.com/?p=1889137"/>
+        <updated>2022-10-11T19:16:38.000Z</updated>
+        <summary type="html"><![CDATA[53% of Super Cruise and 42% of Autopilot users treat systems as autonomous.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
         </author>
     </entry>
     <entry>
@@ -42,6 +75,26 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Priced from $399, this new breed of Chromebook offers; 120 Hz+ screen refresh rates, RGB keyboards, fast networking, and apps for GeForce NOW, Xbox Cloud Gaming, and Amazon Luna.]]></summary>
         <author>
             <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VirtualBox 7.0 adds first ARM Mac client, full encryption, Windows 11 TPM]]></title>
+        <id>https://arstechnica.com/?p=1889021</id>
+        <link href="https://arstechnica.com/?p=1889021"/>
+        <updated>2022-10-11T18:56:15.000Z</updated>
+        <summary type="html"><![CDATA[The ARM Mac client is so shaky it requires three different warnings.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[That Florida “analysis” on COVID vaccines is—you guessed it—total garbage]]></title>
+        <id>https://arstechnica.com/?p=1889104</id>
+        <link href="https://arstechnica.com/?p=1889104"/>
+        <updated>2022-10-11T18:41:19.000Z</updated>
+        <summary type="html"><![CDATA[This dumpster fire of an analysis is just what you'd expect from Florida's Ladapo.]]></summary>
+        <author>
+            <name>Beth Mole</name>
         </author>
     </entry>
     <entry>
@@ -19550,36 +19603,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Aligned with Intel's Innovation event happening this week in San Jose, Intel on Tuesday released oneDNN 2.7 as the newest version of their deep neural network library. In addition to optimizing support for new Intel hardware, oneDNN 2.7 also has AMD GPU support...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is it time to retire C and C++ for Rust in new programs?]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/28/is_it_time_to_retire_c/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/28/is_it_time_to_retire_c/"/>
-        <updated>2022-09-28T08:30:10.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Mark Russinovich, Microsoft Azure CTO, thinks so</h4> <p><strong>Column</strong>  We all know that the Rust language has become much more popular. By Slashdata's count, Rust users have nearly tripled in the past 24 months.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geforce RTX 4090 från partnertillverkare dyker upp hos Proshop]]></title>
-        <id>https://www.sweclockers.com/artikel/34985</id>
-        <link href="https://www.sweclockers.com/artikel/34985-geforce-rtx-4090-fran-partnertillverkare-dyker-upp-hos-proshop"/>
-        <updated>2022-09-28T08:14:29.000Z</updated>
-        <summary type="html"><![CDATA[Lanseringen av RTX 4090 är bara någon vecka bort och återförsäljaren Proshop har lagt upp värstingkort från partnertillverkare – inklusive priser.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nu går Metal: Hellsinger att modda med egen musik]]></title>
-        <id>https://www.fz.se/artikel/291607</id>
-        <link href="https://www.fz.se/artikel/291607-nu-gar-metal-hellsinger-att-modda-med-egen-musik"/>
-        <updated>2022-09-28T07:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Och så här ser det ut med jazz istället för metal.]]></summary>
-        <author>
-            <name>FZ.se</name>
         </author>
     </entry>
 </feed>
