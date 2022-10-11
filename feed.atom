@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-11T18:35:34.281Z</updated>
+    <updated>2022-10-11T19:25:37.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Xbox Cloud Gaming is heading to Meta Quest VR headsets]]></title>
+        <id>https://www.eurogamer.net/xbox-cloud-gaming-is-heading-to-meta-quest-vr-headsets</id>
+        <link href="https://www.eurogamer.net/xbox-cloud-gaming-is-heading-to-meta-quest-vr-headsets"/>
+        <updated>2022-10-11T19:22:20.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft and Meta have announced a partnership that will see Xbox Cloud Gaming be made available on Quest VR headsets.
+
+
+Xbox Cloud Gaming gives Game Pass Ultimate subscribers the ability to stream and play a steadily growing number of titles on a range of Android, Apple, and Windows devices, as well as Samsung Smart TVs, Xbox consoles, and eventually, Microsoft's dedicated Keystone device. 
+
+
+And that list, as revealed by Microsoft CEO Satya Nadella during today's Meta Connect event, has now grown to include Quest VR head sets.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLVM Clang 15 Delivers Some Small x86_64 Performance Improvements But Mostly Flat]]></title>
+        <id>https://www.phoronix.com/news/LLVM-Clang-15-Benchmarks</id>
+        <link href="https://www.phoronix.com/news/LLVM-Clang-15-Benchmarks"/>
+        <updated>2022-10-11T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Released last month was LLVM/Clang 15 and since then a number of Phoronix readers have been inquiring about Clang 15 compiler benchmarks or there the lack of on Phoronix. I've been testing various Intel and AMD systems with Clang 15, but it hasn't been particularly exciting -- but that's not a bad thing, just that it doesn't make for particularly compelling benchmark articles...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Gaming Chromebooks Flex GeForce Now and Xbox Cloud Tech]]></title>
+        <id>kgyukxCwUh5ANqmHs2dj4i</id>
+        <link href="https://www.tomshardware.com/news/gaming-chromebook-xcloud-geforce-now"/>
+        <updated>2022-10-11T18:57:33.000Z</updated>
+        <summary type="html"><![CDATA[Priced from $399, this new breed of Chromebook offers; 120 Hz+ screen refresh rates, RGB keyboards, fast networking, and apps for GeForce NOW, Xbox Cloud Gaming, and Amazon Luna.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Musk’s one-on-one with Kanye signals naïveté moderating Twitter hate speech]]></title>
+        <id>https://arstechnica.com/?p=1889071</id>
+        <link href="https://arstechnica.com/?p=1889071"/>
+        <updated>2022-10-11T18:27:36.000Z</updated>
+        <summary type="html"><![CDATA[Elon Musk chose to address the hate speech via a heart-to-heart with Kanye.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Best Graphics Card Deals for Prime Day October: Cheap Nvidia and AMD GPUs]]></title>
         <id>zUiNDz98jFy6vz5ebn2F6V</id>
@@ -37,6 +85,16 @@ While there is no date yet, Microsoft said it will share more on this "as soon a
  Read more]]></summary>
         <author>
             <name>Stephany Nunneley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meta announces Quest Pro, a $1,499 “mixed reality” device coming Oct. 25]]></title>
+        <id>https://arstechnica.com/?p=1889103</id>
+        <link href="https://arstechnica.com/?p=1889103"/>
+        <updated>2022-10-11T18:09:59.000Z</updated>
+        <summary type="html"><![CDATA["High-end device" features thinner design, higher resolution, open peripheral vision.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
         </author>
     </entry>
     <entry>
@@ -19520,56 +19578,6 @@ Read more]]></summary>
         <link href="https://www.fz.se/artikel/291607-nu-gar-metal-hellsinger-att-modda-med-egen-musik"/>
         <updated>2022-09-28T07:57:00.000Z</updated>
         <summary type="html"><![CDATA[Och så här ser det ut med jazz istället för metal.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's how crooks will use deepfakes to scam your biz]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/28/trend_deepfake_video/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/28/trend_deepfake_video/"/>
-        <updated>2022-09-28T07:24:06.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Need deepfake tools? GitHub's got 'em</h4> <p>All of the materials and tools needed to make deepfake videos – from source code to publicly available images and account authentication bypass services – are readily available and up for sale on the public internet and underground forums. …</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intels Unison suddar gränsen mellan dator och telefon]]></title>
-        <id>https://www.sweclockers.com/artikel/34987</id>
-        <link href="https://www.sweclockers.com/artikel/34987-intels-unison-suddar-gransen-mellan-dator-och-telefon"/>
-        <updated>2022-09-28T07:09:01.000Z</updated>
-        <summary type="html"><![CDATA[Med framtida Intel Evo-stämplade datorer knyts telefonens notiser och bilder samman med datorn på friktionsfritt vis.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Logitech finally makes a wireless mechanical keyboard with a true Mac layout]]></title>
-        <id>https://arstechnica.com/?p=1884775</id>
-        <link href="https://arstechnica.com/?p=1884775"/>
-        <updated>2022-09-28T07:01:16.000Z</updated>
-        <summary type="html"><![CDATA[A nice gesture toward Mac users, but a full layout, switch options would be even better.]]></summary>
-        <author>
-            <name>Scharon Harding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[India reportedly asks smartphone makers to add local satnav silicon]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/28/navic_smartphone_india_deadline/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/28/navic_smartphone_india_deadline/"/>
-        <updated>2022-09-28T06:58:08.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Manufacturers allegedly told to connect to NavIC by 2023, which did not make them happy at all</h4> <p>India's Ministry of Electronics and IT has clarified that, while the world's second-most populous nation does want smartphone makers to include hardware to connect to its Navigation with Indian Constellation (NavIC) satnav system, it is in no rush to make it happen.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Se 16 minuters gameplay från svenskutvecklade Ravenbound]]></title>
-        <id>https://www.fz.se/artikel/291606</id>
-        <link href="https://www.fz.se/artikel/291606-se-16-minuters-gameplay-fran-svenskutvecklade-ravenbound"/>
-        <updated>2022-09-28T06:58:00.000Z</updated>
-        <summary type="html"><![CDATA[Fantasy-action med ett roguelite-upplägg.]]></summary>
         <author>
             <name>FZ.se</name>
         </author>

@@ -788,6 +788,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/xbox-cloud-gaming-is-heading-to-meta-quest-vr-headsets",
+          "author": "Matt Wales",
+          "description": "Microsoft and Meta have announced a partnership that will see Xbox Cloud Gaming be made available on Quest VR headsets.\r\n\n\r\nXbox Cloud Gaming gives Game Pass Ultimate subscribers the ability to stream and play a steadily growing number of titles on a range of Android, Apple, and Windows devices, as well as Samsung Smart TVs, Xbox consoles, and eventually, Microsoft's dedicated Keystone device. \r\n\n\r\nAnd that list, as revealed by Microsoft CEO Satya Nadella during today's Meta Connect event, has now grown to include Quest VR head sets.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/xbox-cloud-gaming-is-heading-to-meta-quest-vr-headsets",
+          "publishedOn": "2022-10-11T19:22:20.000Z",
+          "wordCount": 4519,
+          "title": "Xbox Cloud Gaming is heading to Meta Quest VR headsets",
+          "imageUrl": "https://assets.reedpopcdn.com/xbox-cloud-gaming-meta-store.png/BROK/thumbnail/1600x900/format/jpg/quality/80/xbox-cloud-gaming-meta-store.png"
+        },
+        {
           "id": "https://www.eurogamer.net/ea-tees-off-with-first-look-at-next-years-ea-sports-pga-tour",
           "author": "Matt Wales",
           "description": "Ahead of its launch next spring, EA has offered a first look at its previously announced \"next generation\" PGA Tour game for PS5, Xbox Series X/S, and PC.\r\n\n\r\nEA Sports PGA Tour - the publisher's first foray into golfing sims since 2015's Rory McIlroy PGA Tour - was officially unveiled back in March last year, promising to deliver world famous golf courses and professional golfers as part of a long-term deal with the PGA Tour.\r\n\n\r\nOne year-long delay later, EA Sports PGA Tour is shuffling ever-closer to release, and EA's first major reveal for the game comes in the form of a 30-second teaser trailer.\r\n \nRead more",
@@ -4622,6 +4632,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/LLVM-Clang-15-Benchmarks",
+          "author": null,
+          "description": "Released last month was LLVM/Clang 15 and since then a number of Phoronix readers have been inquiring about Clang 15 compiler benchmarks or there the lack of on Phoronix. I've been testing various Intel and AMD systems with Clang 15, but it hasn't been particularly exciting -- but that's not a bad thing, just that it doesn't make for particularly compelling benchmark articles...",
+          "link": "https://www.phoronix.com/news/LLVM-Clang-15-Benchmarks",
+          "publishedOn": "2022-10-11T19:00:00.000Z",
+          "wordCount": 1497,
+          "title": "LLVM Clang 15 Delivers Some Small x86_64 Performance Improvements But Mostly Flat",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Zink-Async-Pipeline-Pre",
           "author": null,
           "description": "Mesa's Zink driver implementing the OpenGL API atop Vulkan continues advancing at a rapid pace and today the latest major addition landed: async pipeline precompiles...",
@@ -7325,6 +7345,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "kgyukxCwUh5ANqmHs2dj4i",
+          "author": null,
+          "description": "Priced from $399, this new breed of Chromebook offers; 120 Hz+ screen refresh rates, RGB keyboards, fast networking, and apps for GeForce NOW, Xbox Cloud Gaming, and Amazon Luna.",
+          "link": "https://www.tomshardware.com/news/gaming-chromebook-xcloud-geforce-now",
+          "publishedOn": "2022-10-11T18:57:33.000Z",
+          "wordCount": 24759,
+          "title": "Google Gaming Chromebooks Flex GeForce Now and Xbox Cloud Tech",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/w3rswKegvK7CsWGsf7PJ8P.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/w3rswKegvK7CsWGsf7PJ8P.jpg"
+        },
         {
           "id": "zUiNDz98jFy6vz5ebn2F6V",
           "author": null,
@@ -10622,6 +10657,26 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1889071",
+          "author": "Ashley Belanger",
+          "description": "Elon Musk chose to address the hate speech via a heart-to-heart with Kanye.",
+          "link": "https://arstechnica.com/?p=1889071",
+          "publishedOn": "2022-10-11T18:27:36.000Z",
+          "wordCount": 1946,
+          "title": "Musk’s one-on-one with Kanye signals naïveté moderating Twitter hate speech",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/kanye-musk-clouds-of-smoke-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1889103",
+          "author": "Kyle Orland",
+          "description": "\"High-end device\" features thinner design, higher resolution, open peripheral vision.",
+          "link": "https://arstechnica.com/?p=1889103",
+          "publishedOn": "2022-10-11T18:09:59.000Z",
+          "wordCount": 1976,
+          "title": "Meta announces Quest Pro, a $1,499 “mixed reality” device coming Oct. 25",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/questpro1-760x380.png"
+        },
+        {
           "id": "https://arstechnica.com/?p=1889041",
           "author": "Jonathan M. Gitlin",
           "description": "It has a planned capacity of 40 GWh/year of lithium ion cells by end of 2025.",
@@ -12330,16 +12385,6 @@
           "wordCount": 1805,
           "title": "We interviewed Linux OS through an AI bot to discover its secrets",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/benj-tux-ai-txt-interview-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1884775",
-          "author": "Scharon Harding",
-          "description": "A nice gesture toward Mac users, but a full layout, switch options would be even better.",
-          "link": "https://arstechnica.com/?p=1884775",
-          "publishedOn": "2022-09-28T07:01:16.000Z",
-          "wordCount": 1652,
-          "title": "Logitech finally makes a wireless mechanical keyboard with a true Mac layout",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/listing-4-760x380.jpg"
         }
       ]
     },
@@ -13927,16 +13972,6 @@
           "wordCount": 1924,
           "title": "Nu går Metal: Hellsinger att modda med egen musik",
           "imageUrl": "https://www.fz.se/artikel/og-image/291607"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291606",
-          "author": null,
-          "description": "Fantasy-action med ett roguelite-upplägg.",
-          "link": "https://www.fz.se/artikel/291606-se-16-minuters-gameplay-fran-svenskutvecklade-ravenbound",
-          "publishedOn": "2022-09-28T06:58:00.000Z",
-          "wordCount": 1935,
-          "title": "Se 16 minuters gameplay från svenskutvecklade Ravenbound",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291606"
         }
       ]
     },
@@ -14624,16 +14659,6 @@
           "wordCount": 1798,
           "title": "Geforce RTX 4090 från partnertillverkare dyker upp hos Proshop",
           "imageUrl": "https://www.sweclockers.com/artikel/34985/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34987",
-          "author": null,
-          "description": "Med framtida Intel Evo-stämplade datorer knyts telefonens notiser och bilder samman med datorn på friktionsfritt vis.",
-          "link": "https://www.sweclockers.com/artikel/34987-intels-unison-suddar-gransen-mellan-dator-och-telefon",
-          "publishedOn": "2022-09-28T07:09:01.000Z",
-          "wordCount": 1685,
-          "title": "Intels Unison suddar gränsen mellan dator och telefon",
-          "imageUrl": "https://www.sweclockers.com/artikel/34987/og-image"
         }
       ]
     },
@@ -17401,26 +17426,6 @@
           "wordCount": 1635,
           "title": "Is it time to retire C and C++ for Rust in new programs?",
           "imageUrl": "https://regmedia.co.uk/2022/03/23/shutterstock_c.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/28/trend_deepfake_video/",
-          "author": null,
-          "description": "<h4>Need deepfake tools? GitHub's got 'em</h4> <p>All of the materials and tools needed to make deepfake videos – from source code to publicly available images and account authentication bypass services – are readily available and up for sale on the public internet and underground forums. …</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/28/trend_deepfake_video/",
-          "publishedOn": "2022-09-28T07:24:06.000Z",
-          "wordCount": 1794,
-          "title": "Here's how crooks will use deepfakes to scam your biz",
-          "imageUrl": "https://regmedia.co.uk/2022/09/28/shutterstock_deepfake.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/28/navic_smartphone_india_deadline/",
-          "author": null,
-          "description": "<h4>Manufacturers allegedly told to connect to NavIC by 2023, which did not make them happy at all</h4> <p>India's Ministry of Electronics and IT has clarified that, while the world's second-most populous nation does want smartphone makers to include hardware to connect to its Navigation with Indian Constellation (NavIC) satnav system, it is in no rush to make it happen.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/28/navic_smartphone_india_deadline/",
-          "publishedOn": "2022-09-28T06:58:08.000Z",
-          "wordCount": 1499,
-          "title": "India reportedly asks smartphone makers to add local satnav silicon",
-          "imageUrl": "https://regmedia.co.uk/2021/02/16/india_pin_drop_spatial_smartphone_shutterstock.jpg"
         }
       ]
     }
