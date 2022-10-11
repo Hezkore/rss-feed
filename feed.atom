@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-11T07:45:22.801Z</updated>
+    <updated>2022-10-11T08:37:17.077Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[UK govt launches multibillion procurement for tax agency application services]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/11/uk_hmrc_procurement/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/11/uk_hmrc_procurement/"/>
+        <updated>2022-10-11T08:30:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>First chunk of mega-frameworks go to market</h4> <p>The UK government has kicked off procurement to modernize aging legacy applications used by the national tax collector, HMRC.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VirtGPU DRM Native Contexts Show Potential For Good VM Gaming Performance]]></title>
+        <id>https://www.phoronix.com/news/DRM-Native-Contexts-FPS-VM</id>
+        <link href="https://www.phoronix.com/news/DRM-Native-Contexts-FPS-VM"/>
+        <updated>2022-10-11T08:30:00.000Z</updated>
+        <summary type="html"><![CDATA[At last week's XDC 2022 conference, Google engineer Rob Clark presented on VirtGPU DRM Native Contexts and the potential there for much better performance - especially for gaming - within virtual machines than using API-level virtualization like with Virgl...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senaste A Plague Tale: Requiem-trailern fokuserar på Amicias armborst]]></title>
+        <id>https://www.fz.se/artikel/291746</id>
+        <link href="https://www.fz.se/artikel/291746-senaste-a-plague-tale-requiem-trailern-fokuserar-pa-amicias-armborst"/>
+        <updated>2022-10-11T08:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Hon är betydligt dödligare den här gången.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NASA regains control of CAPSTONE lunar orbiter after a tumble]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/11/nasa_capstone_moon_satellite/</id>
@@ -14,6 +44,16 @@
         <summary type="html"><![CDATA[<h4>Pinging something missing on a network is frustrating enough, imagine if it's out in space</h4> <p>NASA is back in control of its CAPSTONE spacecraft after the lunar orbiter lost power and communications and spent weeks powered down in safe mode while tumbling through the void.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All the best Amazon Prime Early Access deals we can find]]></title>
+        <id>https://arstechnica.com/?p=1888606</id>
+        <link href="https://arstechnica.com/?p=1888606"/>
+        <updated>2022-10-11T07:00:12.000Z</updated>
+        <summary type="html"><![CDATA[We've sorted through Amazon's pre-holiday sale to find the stuff that's worth your time.]]></summary>
+        <author>
+            <name>Corey Gaskin</name>
         </author>
     </entry>
     <entry>
@@ -18433,72 +18473,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Lossy compression bypasses text-to-image portions of Stable Diffusion with interesting results.]]></summary>
         <author>
             <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Finals shows environment destruction and grappling hooks ahead of closed playtest]]></title>
-        <id>https://www.rockpapershotgun.com/the-finals-shows-environment-destruction-and-grappling-hooks-ahead-of-closed-playtest</id>
-        <link href="https://www.rockpapershotgun.com/the-finals-shows-environment-destruction-and-grappling-hooks-ahead-of-closed-playtest"/>
-        <updated>2022-09-27T20:29:34.000Z</updated>
-        <summary type="html"><![CDATA[Granular environment destruction is up there with grappling hooks in the videogame hall of fame. The Finals, an upcoming multiplayer shooter, seems to have both. Its new trailer shows players grappling and ziplining between buildings, and those buildings being destroyed chunk by chunk.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple no longer replacing entire iPad mini 6 just to swap the battery]]></title>
-        <id>https://arstechnica.com/?p=1884794</id>
-        <link href="https://arstechnica.com/?p=1884794"/>
-        <updated>2022-09-27T20:26:23.000Z</updated>
-        <summary type="html"><![CDATA[With this one model, you may actually get your iPad back, new battery and all.]]></summary>
-        <author>
-            <name>Kevin Purdy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teardown shows Apple iPhone 14 Pro is not pro-repair]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/27/apple_iphone_14_pro_repairs/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/27/apple_iphone_14_pro_repairs/"/>
-        <updated>2022-09-27T20:26:05.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Who cares if they are authentic parts! Come to the iStore instead if you know what's good for you</h4> <p>Apple's iPhone 14 can be repaired more easily than its predecessors, but its Pro model retains the architectural inaccessibility of older iPhones and resists replacement parts, even authentic Cupertino kit.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overwatch 2's new player accounts will be limited to fight "disruptive behaviour"]]></title>
-        <id>https://www.rockpapershotgun.com/overwatch-2s-new-player-accounts-will-be-limited-to-fight-disruptive-behaviour</id>
-        <link href="https://www.rockpapershotgun.com/overwatch-2s-new-player-accounts-will-be-limited-to-fight-disruptive-behaviour"/>
-        <updated>2022-09-27T20:11:32.000Z</updated>
-        <summary type="html"><![CDATA[Overwatch 2 differs from its predecessor by being free-to-play, which means it will be more vulnerable to players who are up to no good. Blizzard today outlined how they intend to prevent "disruptive behaviour" from players, including the use of SMS verification and machine learning. More awkwardly, game modes will be locked for first-time players, and Overwatch 1's original heroes will only be unlocked "over the course of approximately 100 matches."
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta disrupted China-based propaganda machine before it reached many Americans]]></title>
-        <id>https://arstechnica.com/?p=1885001</id>
-        <link href="https://arstechnica.com/?p=1885001"/>
-        <updated>2022-09-27T19:48:13.000Z</updated>
-        <summary type="html"><![CDATA[Networks blocked had dozens of fake accounts from China, thousands from Russia.]]></summary>
-        <author>
-            <name>Ashley Belanger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inflation, recession, pah! IT budgets set to rise in 2023]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/27/it_budgets_2023_inflation_recession/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/27/it_budgets_2023_inflation_recession/"/>
-        <updated>2022-09-27T19:45:06.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Turns out all it took was a business-disrupting global pandemic</h4> <p>Despite recession fears, most companies are planning to increase IT budgets next year.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>

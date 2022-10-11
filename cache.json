@@ -4191,6 +4191,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/DRM-Native-Contexts-FPS-VM",
+          "author": null,
+          "description": "At last week's XDC 2022 conference, Google engineer Rob Clark presented on VirtGPU DRM Native Contexts and the potential there for much better performance - especially for gaming - within virtual machines than using API-level virtualization like with Virgl...",
+          "link": "https://www.phoronix.com/news/DRM-Native-Contexts-FPS-VM",
+          "publishedOn": "2022-10-11T08:30:00.000Z",
+          "wordCount": 1254,
+          "title": "VirtGPU DRM Native Contexts Show Potential For Good VM Gaming Performance",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-6.1-Gutting-Out-a.out",
           "author": null,
           "description": "Back in 2019 the Linux kernel finally deprecated a.out support for that format superseded by ELF long ago. Since earlier this year kernel developers moved ahead with beginning to remove a.out support, including the old x86 a.out support. Now with Linux 6.1 some lingering remnants of a.out are being cleared away...",
@@ -6706,26 +6716,6 @@
           "wordCount": 4802,
           "title": "Teen suspect in GTA 6 hacking case pleads not guilty",
           "imageUrl": "https://assets2.rockpapershotgun.com/grand-theft-auto-v.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/grand-theft-auto-v.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/the-finals-shows-environment-destruction-and-grappling-hooks-ahead-of-closed-playtest",
-          "author": "Graham Smith",
-          "description": "Granular environment destruction is up there with grappling hooks in the videogame hall of fame. The Finals, an upcoming multiplayer shooter, seems to have both. Its new trailer shows players grappling and ziplining between buildings, and those buildings being destroyed chunk by chunk.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/the-finals-shows-environment-destruction-and-grappling-hooks-ahead-of-closed-playtest",
-          "publishedOn": "2022-09-27T20:29:34.000Z",
-          "wordCount": 4789,
-          "title": "The Finals shows environment destruction and grappling hooks ahead of closed playtest",
-          "imageUrl": "https://assets2.rockpapershotgun.com/the-finals-header.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/the-finals-header.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/overwatch-2s-new-player-accounts-will-be-limited-to-fight-disruptive-behaviour",
-          "author": "Graham Smith",
-          "description": "Overwatch 2 differs from its predecessor by being free-to-play, which means it will be more vulnerable to players who are up to no good. Blizzard today outlined how they intend to prevent \"disruptive behaviour\" from players, including the use of SMS verification and machine learning. More awkwardly, game modes will be locked for first-time players, and Overwatch 1's original heroes will only be unlocked \"over the course of approximately 100 matches.\"\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/overwatch-2s-new-player-accounts-will-be-limited-to-fight-disruptive-behaviour",
-          "publishedOn": "2022-09-27T20:11:32.000Z",
-          "wordCount": 4930,
-          "title": "Overwatch 2's new player accounts will be limited to fight \"disruptive behaviour\"",
-          "imageUrl": "https://assets2.rockpapershotgun.com/reinhardt-overwatch-2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/reinhardt-overwatch-2.jpg"
         }
       ]
     },
@@ -9921,6 +9911,16 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1888606",
+          "author": "Corey Gaskin",
+          "description": "We've sorted through Amazon's pre-holiday sale to find the stuff that's worth your time.",
+          "link": "https://arstechnica.com/?p=1888606",
+          "publishedOn": "2022-10-11T07:00:12.000Z",
+          "wordCount": 3140,
+          "title": "All the best Amazon Prime Early Access deals we can find",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/prime-day-dm-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1888603",
           "author": "Doug Johnson",
           "description": "Research looks at the factors behind how fast countries move toward renewables.",
@@ -11569,26 +11569,6 @@
           "wordCount": 1604,
           "title": "Better than JPEG? Researcher discovers that Stable Diffusion can compress images",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/compression_hero_3-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1884794",
-          "author": "Kevin Purdy",
-          "description": "With this one model, you may actually get your iPad back, new battery and all.",
-          "link": "https://arstechnica.com/?p=1884794",
-          "publishedOn": "2022-09-27T20:26:23.000Z",
-          "wordCount": 1461,
-          "title": "Apple no longer replacing entire iPad mini 6 just to swap the battery",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/ipad_mini_hero-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1885001",
-          "author": "Ashley Belanger",
-          "description": "Networks blocked had dozens of fake accounts from China, thousands from Russia.",
-          "link": "https://arstechnica.com/?p=1885001",
-          "publishedOn": "2022-09-27T19:48:13.000Z",
-          "wordCount": 2146,
-          "title": "Meta disrupted China-based propaganda machine before it reached many Americans",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/GettyImages-1173369896-760x380.jpg"
         }
       ]
     },
@@ -11597,6 +11577,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291746",
+          "author": null,
+          "description": "Hon är betydligt dödligare den här gången.",
+          "link": "https://www.fz.se/artikel/291746-senaste-a-plague-tale-requiem-trailern-fokuserar-pa-amicias-armborst",
+          "publishedOn": "2022-10-11T08:01:00.000Z",
+          "wordCount": 1915,
+          "title": "Senaste A Plague Tale: Requiem-trailern fokuserar på Amicias armborst",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291746"
+        },
         {
           "id": "https://www.fz.se/artikel/291745",
           "author": null,
@@ -14062,6 +14052,16 @@
       "siteUrl": "https://www.theregister.com/",
       "articles": [
         {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/11/uk_hmrc_procurement/",
+          "author": null,
+          "description": "<h4>First chunk of mega-frameworks go to market</h4> <p>The UK government has kicked off procurement to modernize aging legacy applications used by the national tax collector, HMRC.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/11/uk_hmrc_procurement/",
+          "publishedOn": "2022-10-11T08:30:07.000Z",
+          "wordCount": 1408,
+          "title": "UK govt launches multibillion procurement for tax agency application services",
+          "imageUrl": "https://regmedia.co.uk/2022/01/25/shutterstock_1855385296.jpg"
+        },
+        {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/11/nasa_capstone_moon_satellite/",
           "author": null,
           "description": "<h4>Pinging something missing on a network is frustrating enough, imagine if it's out in space</h4> <p>NASA is back in control of its CAPSTONE spacecraft after the lunar orbiter lost power and communications and spent weeks powered down in safe mode while tumbling through the void.…</p>",
@@ -16490,26 +16490,6 @@
           "wordCount": 1639,
           "title": "Nope, still no Intel Sapphire Rapids Xeon processors for you right now",
           "imageUrl": "https://regmedia.co.uk/2022/09/27/gelsinger_innovation_2022.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/apple_iphone_14_pro_repairs/",
-          "author": null,
-          "description": "<h4>Who cares if they are authentic parts! Come to the iStore instead if you know what's good for you</h4> <p>Apple's iPhone 14 can be repaired more easily than its predecessors, but its Pro model retains the architectural inaccessibility of older iPhones and resists replacement parts, even authentic Cupertino kit.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/apple_iphone_14_pro_repairs/",
-          "publishedOn": "2022-09-27T20:26:05.000Z",
-          "wordCount": 1512,
-          "title": "Teardown shows Apple iPhone 14 Pro is not pro-repair",
-          "imageUrl": "https://regmedia.co.uk/2022/04/27/apple-right-to-repair.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/it_budgets_2023_inflation_recession/",
-          "author": null,
-          "description": "<h4>Turns out all it took was a business-disrupting global pandemic</h4> <p>Despite recession fears, most companies are planning to increase IT budgets next year.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/27/it_budgets_2023_inflation_recession/",
-          "publishedOn": "2022-09-27T19:45:06.000Z",
-          "wordCount": 1413,
-          "title": "Inflation, recession, pah! IT budgets set to rise in 2023",
-          "imageUrl": "https://regmedia.co.uk/2021/02/24/cash.jpg"
         }
       ]
     }
