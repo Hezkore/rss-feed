@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-12T18:37:38.600Z</updated>
+    <updated>2022-10-12T19:28:42.734Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Humble has a new melee-focused game bundle]]></title>
+        <id>https://www.gamingonlinux.com/2022/10/humble-has-a-new-melee-focused-game-bundle/</id>
+        <link href="https://www.gamingonlinux.com/2022/10/humble-has-a-new-melee-focused-game-bundle/"/>
+        <updated>2022-10-12T19:21:28.000Z</updated>
+        <summary type="html"><![CDATA[Up for more melee fighting games of various sorts? The Melee Mayhem Bundle might be just what you need.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Mobile App gets a huge revamp out now for everyone]]></title>
+        <id>https://www.gamingonlinux.com/2022/10/steam-mobile-app-gets-a-huge-revamp-out-now-for-everyone/</id>
+        <link href="https://www.gamingonlinux.com/2022/10/steam-mobile-app-gets-a-huge-revamp-out-now-for-everyone/"/>
+        <updated>2022-10-12T19:12:26.000Z</updated>
+        <summary type="html"><![CDATA[After some time being in Beta, Valve has officially released the new shiny new Steam Mobile App for all.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.1 Drops Old Driver For High Speed Serial / TTY Over IEEE-1394 Firewire]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-Staging</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-Staging"/>
+        <updated>2022-10-12T19:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The staging changes for Linux 6.1 aren't particularly notable but of the code churn is lightening the kernel a bit by dropping the old "fwserial" driver that allows for TTY support over IEEE-1394 Firewire connections...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft attempts to eat Oracle's database lunch with Azure migration service]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/12/microsoft_oracle_migration_service/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/12/microsoft_oracle_migration_service/"/>
+        <updated>2022-10-12T18:45:14.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Redmond hopes move will lure more to its PostgreSQL managed service</h4> <p><strong>Ignite</strong>  Microsoft is launching a database migration tool to help Oracle users shift to a PostgreSQL managed service on Azure.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Overclockers Push RTX 4090 to Record-Breaking 3.45 GHz]]></title>
         <id>4Xxx9uWJyerEWYgheAgkxW</id>
@@ -19536,44 +19576,6 @@ The autumn sale will start on Steam on November 22, running for a week until Nov
         <summary type="html"><![CDATA[<h4>Imagine the lawyer infomercials – Did a computer hurt you? Call (30) 555 1234...</h4> <p>The European Commission put forward rules on Wednesday aimed at making it easier for Europeans to sue companies for damage caused by AI technologies going awry.…</p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK, US, slip down World Digital Competitiveness Ranking]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/29/world_digital_competitiveness_ranking/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/29/world_digital_competitiveness_ranking/"/>
-        <updated>2022-09-29T07:03:08.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Denmark takes top spot, Croatia improves fastest, Hong Kong flops</h4> <p>Denmark has topped the International Institute for Management Development's seventh annual World Digital Competitiveness Ranking – an assessment of 63 nations' "capacity and readiness to adopt and explore digital technologies as a key driver for economic transformation in business, government and wider society."…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Dorfromantik creates contested meanings of landscape]]></title>
-        <id>https://www.eurogamer.net/how-dorfromantik-creates-contested-meanings-of-landscape</id>
-        <link href="https://www.eurogamer.net/how-dorfromantik-creates-contested-meanings-of-landscape"/>
-        <updated>2022-09-29T07:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hello! With Dorfromantik landing on Switch today, here's a piece from Jay that takes a closer look at landscapes. If you're interested in the Switch port itself, we're running a piece on Saturday.
-
-
-I can’t ever get my Dorfromantik dioramas to look quite right. Other people seem to be able to make their rural idylls look balanced, organised. Villages and farms are rounded while rivers gently meander. For me, it’s the other way around. Rivers stagnate in huge lakes while houses and fields snake across the landscape in jagged lines.
-
-
-It chafes particularly because we’re all familiar with the kind of bucolic landscape that Dorfromantik tasks you with making. By placing hexagonal puzzle pieces so that the edges line up –  tree to tree, field to field, home to home – you build out these landscapes, and score points for keeping the jigsaw aligned. Every so often a tile will come with a quest, like turning it into a farm with 50 fields, and completing these gives you more tiles. You can play until you run out.
- 
-Read more]]></summary>
-        <author>
-            <name>Jay Castello</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Storskaliga krigs-MMO:t Foxhole har till slut lämnat early access]]></title>
-        <id>https://www.fz.se/artikel/291620</id>
-        <link href="https://www.fz.se/artikel/291620-storskaliga-krigs-mmot-foxhole-har-till-slut-lamnat-early-access"/>
-        <updated>2022-09-29T06:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Samarbeta med tusentals spelare i veckolånga krig.]]></summary>
-        <author>
-            <name>FZ.se</name>
         </author>
     </entry>
 </feed>

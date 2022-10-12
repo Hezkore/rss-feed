@@ -151,6 +151,26 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/10/humble-has-a-new-melee-focused-game-bundle/",
+          "author": "Liam Dawe",
+          "description": "Up for more melee fighting games of various sorts? The Melee Mayhem Bundle might be just what you need.",
+          "link": "https://www.gamingonlinux.com/2022/10/humble-has-a-new-melee-focused-game-bundle/",
+          "publishedOn": "2022-10-12T19:21:28.000Z",
+          "wordCount": 1026,
+          "title": "Humble has a new melee-focused game bundle",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/747835356id21732gol.jpg"
+        },
+        {
+          "id": "https://www.gamingonlinux.com/2022/10/steam-mobile-app-gets-a-huge-revamp-out-now-for-everyone/",
+          "author": "Liam Dawe",
+          "description": "After some time being in Beta, Valve has officially released the new shiny new Steam Mobile App for all.",
+          "link": "https://www.gamingonlinux.com/2022/10/steam-mobile-app-gets-a-huge-revamp-out-now-for-everyone/",
+          "publishedOn": "2022-10-12T19:12:26.000Z",
+          "wordCount": 1246,
+          "title": "Steam Mobile App gets a huge revamp out now for everyone",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1721309568id21731gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/10/inspired-by-factorio-and-rimworld-space-colony-building-sim-stardeus-out-in-early-access/",
           "author": "Liam Dawe",
           "description": "Taking plenty of inspiration from Factorio and RimWorld (including a very RimWorld style), Kodo Linija and Paradox Arc have released Stardeus into Early Access.",
@@ -3116,16 +3136,6 @@
           "wordCount": 4545,
           "title": "PlayStation's Sackboy: A Big Adventure heading to PC",
           "imageUrl": "https://assets.reedpopcdn.com/digitalfoundry-2020-sackboy-a-big-adventure-tech-analysis-1606471837915.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/digitalfoundry-2020-sackboy-a-big-adventure-tech-analysis-1606471837915.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/how-dorfromantik-creates-contested-meanings-of-landscape",
-          "author": "Jay Castello",
-          "description": "Hello! With Dorfromantik landing on Switch today, here's a piece from Jay that takes a closer look at landscapes. If you're interested in the Switch port itself, we're running a piece on Saturday.\n\n\r\nI can’t ever get my Dorfromantik dioramas to look quite right. Other people seem to be able to make their rural idylls look balanced, organised. Villages and farms are rounded while rivers gently meander. For me, it’s the other way around. Rivers stagnate in huge lakes while houses and fields snake across the landscape in jagged lines.\r\n\n\r\nIt chafes particularly because we’re all familiar with the kind of bucolic landscape that Dorfromantik tasks you with making. By placing hexagonal puzzle pieces so that the edges line up –  tree to tree, field to field, home to home – you build out these landscapes, and score points for keeping the jigsaw aligned. Every so often a tile will come with a quest, like turning it into a farm with 50 fields, and completing these gives you more tiles. You can play until you run out.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/how-dorfromantik-creates-contested-meanings-of-landscape",
-          "publishedOn": "2022-09-29T07:00:00.000Z",
-          "wordCount": 5252,
-          "title": "How Dorfromantik creates contested meanings of landscape",
-          "imageUrl": "https://assets.reedpopcdn.com/dorfromantik_aTxGrac.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/dorfromantik_aTxGrac.jpg"
         }
       ]
     },
@@ -4581,6 +4591,16 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.1-Staging",
+          "author": null,
+          "description": "The staging changes for Linux 6.1 aren't particularly notable but of the code churn is lightening the kernel a bit by dropping the old \"fwserial\" driver that allows for TTY support over IEEE-1394 Firewire connections...",
+          "link": "https://www.phoronix.com/news/Linux-6.1-Staging",
+          "publishedOn": "2022-10-12T19:00:00.000Z",
+          "wordCount": 1416,
+          "title": "Linux 6.1 Drops Old Driver For High Speed Serial / TTY Over IEEE-1394 Firewire",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Linux-Kernel-Drop-ICC",
           "author": null,
@@ -14012,16 +14032,6 @@
           "wordCount": 1898,
           "title": "Läckt video sägs visa Returnals grafikmeny på pc",
           "imageUrl": "https://www.fz.se/artikel/og-image/291621"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291620",
-          "author": null,
-          "description": "Samarbeta med tusentals spelare i veckolånga krig.",
-          "link": "https://www.fz.se/artikel/291620-storskaliga-krigs-mmot-foxhole-har-till-slut-lamnat-early-access",
-          "publishedOn": "2022-09-29T06:54:00.000Z",
-          "wordCount": 1819,
-          "title": "Storskaliga krigs-MMO:t Foxhole har till slut lämnat early access",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291620"
         }
       ]
     },
@@ -15007,6 +15017,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/12/microsoft_oracle_migration_service/",
+          "author": null,
+          "description": "<h4>Redmond hopes move will lure more to its PostgreSQL managed service</h4> <p><strong>Ignite</strong>  Microsoft is launching a database migration tool to help Oracle users shift to a PostgreSQL managed service on Azure.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/12/microsoft_oracle_migration_service/",
+          "publishedOn": "2022-10-12T18:45:14.000Z",
+          "wordCount": 1158,
+          "title": "Microsoft attempts to eat Oracle's database lunch with Azure migration service",
+          "imageUrl": "https://regmedia.co.uk/2020/12/16/shutterstock_database_design.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/12/google_cloud_dual_run_service/",
           "author": null,
@@ -17456,16 +17476,6 @@
           "wordCount": 1351,
           "title": "Europe just might make it easier for people to sue for damage caused by AI tech",
           "imageUrl": "https://regmedia.co.uk/2020/04/09/robotexploding.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/29/world_digital_competitiveness_ranking/",
-          "author": null,
-          "description": "<h4>Denmark takes top spot, Croatia improves fastest, Hong Kong flops</h4> <p>Denmark has topped the International Institute for Management Development's seventh annual World Digital Competitiveness Ranking – an assessment of 63 nations' \"capacity and readiness to adopt and explore digital technologies as a key driver for economic transformation in business, government and wider society.\"…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/29/world_digital_competitiveness_ranking/",
-          "publishedOn": "2022-09-29T07:03:08.000Z",
-          "wordCount": 1383,
-          "title": "UK, US, slip down World Digital Competitiveness Ranking",
-          "imageUrl": "https://regmedia.co.uk/2022/09/29/shutterstock_glowing_red_number_1.jpg"
         }
       ]
     }
