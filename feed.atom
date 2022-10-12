@@ -2,10 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-12T17:45:21.788Z</updated>
+    <updated>2022-10-12T18:37:38.600Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Overclockers Push RTX 4090 to Record-Breaking 3.45 GHz]]></title>
+        <id>4Xxx9uWJyerEWYgheAgkxW</id>
+        <link href="https://www.tomshardware.com/news/geforce-rtx-4090-hits-3-45-ghz"/>
+        <updated>2022-10-12T18:24:24.000Z</updated>
+        <summary type="html"><![CDATA[Galax-sponsored TecLab OC team push GeForce RTX 4090 to world record 3.45 GHz — but had to reel it back to 3.27 - 3.36 GHz due to performance degradation.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Free-to-play Torchlight: Infinite's open beta starts today]]></title>
+        <id>https://www.eurogamer.net/free-to-play-torchlight-infinites-open-beta-starts-today</id>
+        <link href="https://www.eurogamer.net/free-to-play-torchlight-infinites-open-beta-starts-today"/>
+        <updated>2022-10-12T18:21:15.000Z</updated>
+        <summary type="html"><![CDATA[Torchlight: Infinite - a new free-to-play reimagining of the dungeon-crawling action-RPG series - has just launched its open beta on Android, iOS, and PC.
+
+
+Torchlight, if you're unfamiliar, was originally the work of now-defunct developer Runic Games, which made two games in the series before its closure in 2017 - the sequel delivering a critically acclaimed chunk of captivating dungeon-crawling and class-based hack-and-slash action. 
+
+
+Having disbanded Runic, publisher Perfect World then revived the series just nine months later, handing the reins to developer Echtra Games for 2020's Torchlight 3. Interestingly, this third outing was initially planned to be a free-to-play title before Perfect World eventually capitulated after a bit of an outcry - but now, following Torchlight 3's less-than-stellar reception, those free-to-play plans are back for Torchlight: Infinite.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I will never finish Sable before it leaves Game Pass, and I'm cool with that]]></title>
+        <id>https://www.rockpapershotgun.com/ill-never-finish-sable-before-it-leaves-game-pass-and-im-cool-with-that</id>
+        <link href="https://www.rockpapershotgun.com/ill-never-finish-sable-before-it-leaves-game-pass-and-im-cool-with-that"/>
+        <updated>2022-10-12T18:14:33.000Z</updated>
+        <summary type="html"><![CDATA[Open-world hoverbike 'n' climbing game Sable is due to leave PC Game Pass on Sunday, and I only started playing today. I will not finish in time. That's fine. Honestly, I haven't finished half the games I've bought, and I've long since stopped thinking about 'The Backlog' as if I ever will. But I might enjoy this one week of exploring a gorgeous desert, climbing and gliding and hoverbiking, and you might too.
+Read more]]></summary>
+        <author>
+            <name>Alice O'Connor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google wants to copy-paste your mainframe applications into its cloud]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/12/google_cloud_dual_run_service/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/12/google_cloud_dual_run_service/"/>
+        <updated>2022-10-12T18:00:05.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Preview service claims to eliminate risks of migrating mission-critical workloads</h4> <p>Google is preparing a mainframe modernization service that intends to simplify and lessen the risk of migrating mainframe workloads to the cloud - a complex process that can be frought with pitfalls.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Death to passwords: Beta passkey support comes to Chrome and Android]]></title>
+        <id>https://arstechnica.com/?p=1889431</id>
+        <link href="https://arstechnica.com/?p=1889431"/>
+        <updated>2022-10-12T17:38:51.000Z</updated>
+        <summary type="html"><![CDATA[Big Tech's cross-platform password replacement arrives in the Google ecosystem.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nasal COVID vaccine blows clinical trial, flinging researchers back to the lab]]></title>
+        <id>https://arstechnica.com/?p=1889484</id>
+        <link href="https://arstechnica.com/?p=1889484"/>
+        <updated>2022-10-12T17:17:40.000Z</updated>
+        <summary type="html"><![CDATA[The trial used the same vaccine formula as the AstraZeneca vaccine given intramuscularly.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Westinghouse sale signals arrival of a new nuclear age]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/12/westinghouse_sale_nuclear/</id>
@@ -30,6 +99,16 @@ Because the team is prioritizing fixes, development on extra content has been pu
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Webb captures truly strange set of rings built by massive stars]]></title>
+        <id>https://arstechnica.com/?p=1889489</id>
+        <link href="https://arstechnica.com/?p=1889489"/>
+        <updated>2022-10-12T17:04:16.000Z</updated>
+        <summary type="html"><![CDATA[Over the past 120 years, stellar winds have built concentric circles of dust.]]></summary>
+        <author>
+            <name>John Timmer</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Veckans fråga: Ska du köpa Geforce RTX 4090?]]></title>
         <id>https://www.sweclockers.com/artikel/35062</id>
         <link href="https://www.sweclockers.com/artikel/35062-veckans-fraga-ska-du-kopa-geforce-rtx-4090"/>
@@ -40,6 +119,36 @@ Because the team is prioritizing fixes, development on extra content has been pu
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pixel Watch review: Beautiful, fast, and way too expensive]]></title>
+        <id>https://arstechnica.com/?p=1887656</id>
+        <link href="https://arstechnica.com/?p=1887656"/>
+        <updated>2022-10-12T17:00:55.000Z</updated>
+        <summary type="html"><![CDATA[It could be better, but it might be good enough for a wearables-starved ecosystem.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Polestar 3 SUV will cost $83,900 “loaded,” goes on sale Q4 2023]]></title>
+        <id>https://arstechnica.com/?p=1889421</id>
+        <link href="https://arstechnica.com/?p=1889421"/>
+        <updated>2022-10-12T17:00:30.000Z</updated>
+        <summary type="html"><![CDATA[Production of the new EV starts in China in 2023, then South Carolina in 2024.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biden gambles with global chip supply by halting US firms’ operations in China]]></title>
+        <id>https://arstechnica.com/?p=1889454</id>
+        <link href="https://arstechnica.com/?p=1889454"/>
+        <updated>2022-10-12T16:52:18.000Z</updated>
+        <summary type="html"><![CDATA[Power of US export curbs could diminish quickly without other nations joining.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Leveransen av PS5-konsoler ökar med hela 400 % i USA, enligt analyser]]></title>
         <id>https://www.fz.se/artikel/291766</id>
         <link href="https://www.fz.se/artikel/291766-leveransen-av-ps5-konsoler-okar-med-hela-400-i-usa-enligt-analyser"/>
@@ -47,6 +156,16 @@ Because the team is prioritizing fixes, development on extra content has been pu
         <summary type="html"><![CDATA[Att jämföra med fjolåret.]]></summary>
         <author>
             <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NASA says the Artemis I mission will be ready to launch in one month]]></title>
+        <id>https://arstechnica.com/?p=1889450</id>
+        <link href="https://arstechnica.com/?p=1889450"/>
+        <updated>2022-10-12T16:40:30.000Z</updated>
+        <summary type="html"><![CDATA[Set your alarm for 7 minutes after midnight on November 14.]]></summary>
+        <author>
+            <name>Eric Berger</name>
         </author>
     </entry>
     <entry>
@@ -19455,36 +19574,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Samarbeta med tusentals spelare i veckolånga krig.]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Use Picture in Picture Mode in Brave Browser]]></title>
-        <id>https://itsfoss.com/?p=102333</id>
-        <link href="https://itsfoss.com/picture-in-picture-brave/"/>
-        <updated>2022-09-29T06:28:58.000Z</updated>
-        <summary type="html"><![CDATA[Brave has picture-in-picture mode but it's so hidden that you feel like there is no PIP support at all. Here's how to enable and use it.]]></summary>
-        <author>
-            <name>Abhishek Prakash</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This rope-laying, ever-growing robot may one day explore your blood vessels]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/29/soft_robots_humans/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/29/soft_robots_humans/"/>
-        <updated>2022-09-29T06:28:06.000Z</updated>
-        <summary type="html"><![CDATA[<h4>You wouldn't make this the butt of any jokes, right?</h4> <p><strong>Video</strong>  Inspired by plants and fungi, scientists have devised a method to help so-called soft robots travel along tricky pathways by growing as they move.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tencent has its Meta moment as CEO Pony Ma outlines 'immersive convergence']]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/29/tencent_immersive_convergence/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/29/tencent_immersive_convergence/"/>
-        <updated>2022-09-29T05:58:04.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Video confs to add multi-sensory interaction and by 2040 maybe even brain/machine interfaces</h4> <p>Chinese gaming and web giant Tencent has shared its vision of the techno-future, predicting "immersive convergence" is the coming thing.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>

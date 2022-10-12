@@ -125,16 +125,6 @@
           "wordCount": 9361,
           "title": "How to Properly Theme KDE Plasma [An in-depth Guide]",
           "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/09/theming-kde.png"
-        },
-        {
-          "id": "https://itsfoss.com/?p=102333",
-          "author": "Abhishek Prakash",
-          "description": "Brave has picture-in-picture mode but it's so hidden that you feel like there is no PIP support at all. Here's how to enable and use it.",
-          "link": "https://itsfoss.com/picture-in-picture-brave/",
-          "publishedOn": "2022-09-29T06:28:58.000Z",
-          "wordCount": 7267,
-          "title": "How to Use Picture in Picture Mode in Brave Browser",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/09/enable-pip-mode-in-brave.png"
         }
       ]
     },
@@ -777,6 +767,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/free-to-play-torchlight-infinites-open-beta-starts-today",
+          "author": "Matt Wales",
+          "description": "Torchlight: Infinite - a new free-to-play reimagining of the dungeon-crawling action-RPG series - has just launched its open beta on Android, iOS, and PC.\r\n\n\r\nTorchlight, if you're unfamiliar, was originally the work of now-defunct developer Runic Games, which made two games in the series before its closure in 2017 - the sequel delivering a critically acclaimed chunk of captivating dungeon-crawling and class-based hack-and-slash action. \r\n\n\r\nHaving disbanded Runic, publisher Perfect World then revived the series just nine months later, handing the reins to developer Echtra Games for 2020's Torchlight 3. Interestingly, this third outing was initially planned to be a free-to-play title before Perfect World eventually capitulated after a bit of an outcry - but now, following Torchlight 3's less-than-stellar reception, those free-to-play plans are back for Torchlight: Infinite.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/free-to-play-torchlight-infinites-open-beta-starts-today",
+          "publishedOn": "2022-10-12T18:21:15.000Z",
+          "wordCount": 4486,
+          "title": "Free-to-play Torchlight: Infinite's open beta starts today",
+          "imageUrl": "https://assets.reedpopcdn.com/FbXm5hKXEAIZ7lb.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/FbXm5hKXEAIZ7lb.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/fifa-launches-football-themed-roblox-immersive-experience",
           "author": "Matt Wales",
@@ -5869,6 +5869,16 @@
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
         {
+          "id": "https://www.rockpapershotgun.com/ill-never-finish-sable-before-it-leaves-game-pass-and-im-cool-with-that",
+          "author": "Alice O'Connor",
+          "description": "Open-world hoverbike 'n' climbing game Sable is due to leave PC Game Pass on Sunday, and I only started playing today. I will not finish in time. That's fine. Honestly, I haven't finished half the games I've bought, and I've long since stopped thinking about 'The Backlog' as if I ever will. But I might enjoy this one week of exploring a gorgeous desert, climbing and gliding and hoverbiking, and you might too.\nRead more",
+          "link": "https://www.rockpapershotgun.com/ill-never-finish-sable-before-it-leaves-game-pass-and-im-cool-with-that",
+          "publishedOn": "2022-10-12T18:14:33.000Z",
+          "wordCount": 5195,
+          "title": "I will never finish Sable before it leaves Game Pass, and I'm cool with that",
+          "imageUrl": "https://assets2.rockpapershotgun.com/sable-a.png/BROK/thumbnail/1600x900/format/jpg/quality/80/sable-a.png"
+        },
+        {
           "id": "https://www.rockpapershotgun.com/whats-better-temporarily-piloting-an-enemy-or-a-game-within-the-game-just-for-funsies",
           "author": "Alice O'Connor",
           "description": "Last time, you decided that utterly rinsing a place is better than an end credits song. This was a pretty close one, with rinsing taking 54% of the vote. Good. Onwards! This week, you must choose between two things which add fleeting novelty and surprise. What's better: temporarily piloting an enemy, or a game within the game just for funsies?\nRead more",
@@ -7345,6 +7355,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "4Xxx9uWJyerEWYgheAgkxW",
+          "author": null,
+          "description": "Galax-sponsored TecLab OC team push GeForce RTX 4090 to world record 3.45 GHz — but had to reel it back to 3.27 - 3.36 GHz due to performance degradation.",
+          "link": "https://www.tomshardware.com/news/geforce-rtx-4090-hits-3-45-ghz",
+          "publishedOn": "2022-10-12T18:24:24.000Z",
+          "wordCount": 21598,
+          "title": "Overclockers Push RTX 4090 to Record-Breaking 3.45 GHz",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/ojqRg6ST2t7X3RB2L8wZ9W.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/ojqRg6ST2t7X3RB2L8wZ9W.jpg"
+        },
         {
           "id": "U6j8QjxEQCtLkF79q3wTKg",
           "author": null,
@@ -10641,6 +10666,76 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1889431",
+          "author": "Ron Amadeo",
+          "description": "Big Tech's cross-platform password replacement arrives in the Google ecosystem.",
+          "link": "https://arstechnica.com/?p=1889431",
+          "publishedOn": "2022-10-12T17:38:51.000Z",
+          "wordCount": 1754,
+          "title": "Death to passwords: Beta passkey support comes to Chrome and Android",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/01/passwords-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1889484",
+          "author": "Beth Mole",
+          "description": "The trial used the same vaccine formula as the AstraZeneca vaccine given intramuscularly.",
+          "link": "https://arstechnica.com/?p=1889484",
+          "publishedOn": "2022-10-12T17:17:40.000Z",
+          "wordCount": 1691,
+          "title": "Nasal COVID vaccine blows clinical trial, flinging researchers back to the lab",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/GettyImages-91956286-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1889489",
+          "author": "John Timmer",
+          "description": "Over the past 120 years, stellar winds have built concentric circles of dust.",
+          "link": "https://arstechnica.com/?p=1889489",
+          "publishedOn": "2022-10-12T17:04:16.000Z",
+          "wordCount": 1518,
+          "title": "Webb captures truly strange set of rings built by massive stars",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/02-WR140_nospikes-large_JWST-image-of-concentric-dust-rings-emanating-from-th-e1665593396387-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1887656",
+          "author": "Ron Amadeo",
+          "description": "It could be better, but it might be good enough for a wearables-starved ecosystem.",
+          "link": "https://arstechnica.com/?p=1887656",
+          "publishedOn": "2022-10-12T17:00:55.000Z",
+          "wordCount": 1711,
+          "title": "Pixel Watch review: Beautiful, fast, and way too expensive",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/21-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1889421",
+          "author": "Jonathan M. Gitlin",
+          "description": "Production of the new EV starts in China in 2023, then South Carolina in 2024.",
+          "link": "https://arstechnica.com/?p=1889421",
+          "publishedOn": "2022-10-12T17:00:30.000Z",
+          "wordCount": 1778,
+          "title": "The Polestar 3 SUV will cost $83,900 “loaded,” goes on sale Q4 2023",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/Polestar-3-B-11-Snow-Performance-Pack-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1889454",
+          "author": "Ashley Belanger",
+          "description": "Power of US export curbs could diminish quickly without other nations joining.",
+          "link": "https://arstechnica.com/?p=1889454",
+          "publishedOn": "2022-10-12T16:52:18.000Z",
+          "wordCount": 1620,
+          "title": "Biden gambles with global chip supply by halting US firms’ operations in China",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/GettyImages-1351980704-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1889450",
+          "author": "Eric Berger",
+          "description": "Set your alarm for 7 minutes after midnight on November 14.",
+          "link": "https://arstechnica.com/?p=1889450",
+          "publishedOn": "2022-10-12T16:40:30.000Z",
+          "wordCount": 1568,
+          "title": "NASA says the Artemis I mission will be ready to launch in one month",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/SLS-Rollout-June-6-2022-9782-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1889397",
           "author": "Andrew Cunningham",
@@ -14913,6 +15008,16 @@
       "siteUrl": "https://www.theregister.com/",
       "articles": [
         {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/12/google_cloud_dual_run_service/",
+          "author": null,
+          "description": "<h4>Preview service claims to eliminate risks of migrating mission-critical workloads</h4> <p>Google is preparing a mainframe modernization service that intends to simplify and lessen the risk of migrating mainframe workloads to the cloud - a complex process that can be frought with pitfalls.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/12/google_cloud_dual_run_service/",
+          "publishedOn": "2022-10-12T18:00:05.000Z",
+          "wordCount": 1480,
+          "title": "Google wants to copy-paste your mainframe applications into its cloud",
+          "imageUrl": "https://regmedia.co.uk/2020/12/30/copy.jpg"
+        },
+        {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/12/westinghouse_sale_nuclear/",
           "author": null,
           "description": "<h4>Energy granddad wants in on the next generation of atomic tech</h4> <p>Uranium fuel producer Cameco Corp and investment firm Brookfield Renewable Partners intend to buy Westinghouse Electric Company in a bid to accelerate a nuclear power resurgence. …</p>",
@@ -17361,26 +17466,6 @@
           "wordCount": 1383,
           "title": "UK, US, slip down World Digital Competitiveness Ranking",
           "imageUrl": "https://regmedia.co.uk/2022/09/29/shutterstock_glowing_red_number_1.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/29/soft_robots_humans/",
-          "author": null,
-          "description": "<h4>You wouldn't make this the butt of any jokes, right?</h4> <p><strong>Video</strong>  Inspired by plants and fungi, scientists have devised a method to help so-called soft robots travel along tricky pathways by growing as they move.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/29/soft_robots_humans/",
-          "publishedOn": "2022-09-29T06:28:06.000Z",
-          "wordCount": 1430,
-          "title": "This rope-laying, ever-growing robot may one day explore your blood vessels",
-          "imageUrl": "https://regmedia.co.uk/2022/09/29/soft_robot.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/29/tencent_immersive_convergence/",
-          "author": null,
-          "description": "<h4>Video confs to add multi-sensory interaction and by 2040 maybe even brain/machine interfaces</h4> <p>Chinese gaming and web giant Tencent has shared its vision of the techno-future, predicting \"immersive convergence\" is the coming thing.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/29/tencent_immersive_convergence/",
-          "publishedOn": "2022-09-29T05:58:04.000Z",
-          "wordCount": 1332,
-          "title": "Tencent has its Meta moment as CEO Pony Ma outlines 'immersive convergence'",
-          "imageUrl": "https://regmedia.co.uk/2022/09/29/shutterstock_china_flag_vr.jpg"
         }
       ]
     }
