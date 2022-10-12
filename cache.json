@@ -3145,6 +3145,16 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/how-to-download-your-cyberpunk-2077-saves-off-stadia",
+          "author": "Stephany Nunneley",
+          "description": "An update to the CD Projekt RED support page outlines how Stadia users can download their Cyberpunk 2077 saves.\nWith Stadia shutting down in January , folks are understandably worried about their save game files. Those who play Cyberpunk 2077 and want to continue playing their game on another platform, need only do the following using Google Takeout, per CDPR.\n\n\nOpen takeout.google.com.\nIn the \"Create a new export\" section click \"Deselect all\" and select \"Stadia\". Press \"Next Step\" to continue.\nChoose your preferred destination and “Export once” frequency. Choose \".zip\" file type and \"2 GB\" size. Press \"Create Export\".\nDownload the export from the destination chosen in the previous step.\nLocate the downloaded archive on your PC. Extract it.\nYour Cyberpunk 2077 game saves will be located in the following path: .../Takeout/Stadia/GAMING/GAME_SAVE/\nNote that there may be saved files from other games located there as well. \nFiles of each game save are located inside archives. Extract them to separate folders.\nTo use the extracted saves on the PC version, simply copy-paste those folders to the following path: %userprofile%\\Saved Games\\CD Projekt Red\\Cyberpunk 2077\nMake sure that files are not nested inside another folder.\n Read more",
+          "link": "https://www.vg247.com/how-to-download-your-cyberpunk-2077-saves-off-stadia",
+          "publishedOn": "2022-10-12T20:00:51.000Z",
+          "wordCount": 4783,
+          "title": "CD Projekt RED outlines how to keep your Cyberpunk 2077 saves now that Stadia is closing down",
+          "imageUrl": "https://asset.vg247.com/cyberpunk_2077_johnny_02.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/cyberpunk_2077_johnny_02.jpg"
+        },
+        {
           "id": "https://www.vg247.com/saints-row-november-update-contains-200-bug-fixes-stability-upgrades",
           "author": "Stephany Nunneley",
           "description": "Improvements are coming to Saints Row this year and beyond via bug fixes, new cosmetics, and new content in 2023.\nVolition said it is working to improve the gameplay experience with fixes to community-reported issues and more improvements based on player feedback.\nBecause the team is prioritizing fixes, development on extra content has been put on hold for the time being. You can expect the first major update in late November, and it will contain over 200 bug fixes and stability upgrades.\n Read more",
@@ -5889,6 +5899,16 @@
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
         {
+          "id": "https://www.rockpapershotgun.com/pick-up-the-samsung-odyssey-g7-32-in-1440p-240hz-gaming-monitor-for-499",
+          "author": "Will Judd",
+          "description": "The Samsung Odyssey G7 is one of the best gaming monitors in the world - or at least, that's what I keep telling myself after buying one last year. This is a 32-inch model, offering a 2560x1440 resolution, a 240Hz refresh rate and a DisplayHDR 600 certification that means it actually delivers impactful HDR - a rarity at this price point. Anyway, it's down to £499 today after a £100 discount, so listen up - here's why I rate this monitor so highly. \nRead more",
+          "link": "https://www.rockpapershotgun.com/pick-up-the-samsung-odyssey-g7-32-in-1440p-240hz-gaming-monitor-for-499",
+          "publishedOn": "2022-10-12T20:07:32.000Z",
+          "wordCount": 4956,
+          "title": "Pick up the Samsung Odyssey G7 32-in 1440p 240Hz gaming monitor for £499",
+          "imageUrl": "https://assets2.rockpapershotgun.com/g7.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/g7.jpg"
+        },
+        {
           "id": "https://www.rockpapershotgun.com/ill-never-finish-sable-before-it-leaves-game-pass-and-im-cool-with-that",
           "author": "Alice O'Connor",
           "description": "Open-world hoverbike 'n' climbing game Sable is due to leave PC Game Pass on Sunday, and I only started playing today. I will not finish in time. That's fine. Honestly, I haven't finished half the games I've bought, and I've long since stopped thinking about 'The Backlog' as if I ever will. But I might enjoy this one week of exploring a gorgeous desert, climbing and gliding and hoverbiking, and you might too.\nRead more",
@@ -7375,6 +7395,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "dJj5jbnJA9Cw7HzTcZAbzT",
+          "author": null,
+          "description": "YouTuber Benchmark Lab pits two RTX 3090s in SLI formation against RTX 4090; RTX 4090 wins, but just barely. And only because SLI doesn't work.",
+          "link": "https://www.tomshardware.com/news/rtx-3090-sli-fail-to-outperform-4090",
+          "publishedOn": "2022-10-12T19:21:26.000Z",
+          "wordCount": 21949,
+          "title": "RTX 4090 Beats Two RTX 3090s in SLI — Barely",
+          "enclosure": {
+            "url": "https://cdn.mos.cms.futurecdn.net/nxbCRbrghkaR3z8x8wav7j.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "https://cdn.mos.cms.futurecdn.net/nxbCRbrghkaR3z8x8wav7j.jpg"
+        },
         {
           "id": "4Xxx9uWJyerEWYgheAgkxW",
           "author": null,
@@ -10686,6 +10721,36 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1889553",
+          "author": "Jon Brodkin",
+          "description": "Microsoft says UK relied on Sony's \"exaggerated\" claims about Call of Duty.",
+          "link": "https://arstechnica.com/?p=1889553",
+          "publishedOn": "2022-10-12T19:42:57.000Z",
+          "wordCount": 1567,
+          "title": "Microsoft fights to save Activision merger, says Sony protest is “self-serving”",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/getty-xbox-series-s-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1889530",
+          "author": "Ashley Belanger",
+          "description": "TikTok to launch live shopping in the US over the holidays.",
+          "link": "https://arstechnica.com/?p=1889530",
+          "publishedOn": "2022-10-12T18:33:23.000Z",
+          "wordCount": 1903,
+          "title": "TikTok wants to be Amazon, plans US fullfillment centers and poaches staff",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/GettyImages-1243334115-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1889533",
+          "author": "Beth Mole",
+          "description": "Federal officials urge Americans to get their boost by Halloween.",
+          "link": "https://arstechnica.com/?p=1889533",
+          "publishedOn": "2022-10-12T18:17:32.000Z",
+          "wordCount": 1690,
+          "title": "Kids 5-11 can now get the bivalent, BA.5-targeting COVID booster",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/03/GettyImages-1233655534-760x380.jpeg"
+        },
         {
           "id": "https://arstechnica.com/?p=1889431",
           "author": "Ron Amadeo",
@@ -14022,16 +14087,6 @@
           "wordCount": 1788,
           "title": "Nu har Cyberpunk 2077 sålts i över 20 miljoner exemplar",
           "imageUrl": "https://www.fz.se/artikel/og-image/291622"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291621",
-          "author": null,
-          "description": "Alltså pc-versionen som inte har utannonserats och kanske inte existerar.",
-          "link": "https://www.fz.se/artikel/291621-lackt-video-sags-visa-returnals-grafikmeny-pa-pc",
-          "publishedOn": "2022-09-29T07:55:00.000Z",
-          "wordCount": 1898,
-          "title": "Läckt video sägs visa Returnals grafikmeny på pc",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291621"
         }
       ]
     },
@@ -14699,16 +14754,6 @@
           "wordCount": 1748,
           "title": "Intel råkar visa 34-kärnig \"Raptor Lake\"",
           "imageUrl": "https://www.sweclockers.com/artikel/34993/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34989",
-          "author": null,
-          "description": "Ytterligare batteristrul med Samsungs mobiler har uppdagats och den här gången handlar det om batterier som sväller i oanvända enheter.",
-          "link": "https://www.sweclockers.com/artikel/34989-batteriet-i-oanvanda-samsung-telefoner-svaller",
-          "publishedOn": "2022-09-29T07:51:33.000Z",
-          "wordCount": 1761,
-          "title": "Batteriet i oanvända Samsung-telefoner sväller",
-          "imageUrl": "https://www.sweclockers.com/artikel/34989/og-image"
         }
       ]
     },
@@ -15017,6 +15062,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/12/gm_battery_car_storage/",
+          "author": null,
+          "description": "<h4>Gah, for a few milliseconds there, we were willing a cold, faceless corporation to succeed</h4> <p>General Motors' newest endeavor is a business unit dedicated to producing energy storage systems – and the automaker left no doubts about who it sees as its top competitor in the space: Tesla. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/12/gm_battery_car_storage/",
+          "publishedOn": "2022-10-12T19:29:08.000Z",
+          "wordCount": 1324,
+          "title": "GM races after Tesla with battery pack tech and solar deal",
+          "imageUrl": "https://regmedia.co.uk/2022/10/12/ultium-commercial-battery-concept.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/12/microsoft_oracle_migration_service/",
           "author": null,
@@ -17466,16 +17521,6 @@
           "wordCount": 1637,
           "title": "Cockroach Labs CTO: Google became too comfortable, I wasn't being challenged",
           "imageUrl": "https://regmedia.co.uk/2016/09/13/shutterstock_sql.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/29/european_commission_ai_liability/",
-          "author": null,
-          "description": "<h4>Imagine the lawyer infomercials – Did a computer hurt you? Call (30) 555 1234...</h4> <p>The European Commission put forward rules on Wednesday aimed at making it easier for Europeans to sue companies for damage caused by AI technologies going awry.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/29/european_commission_ai_liability/",
-          "publishedOn": "2022-09-29T07:34:11.000Z",
-          "wordCount": 1351,
-          "title": "Europe just might make it easier for people to sue for damage caused by AI tech",
-          "imageUrl": "https://regmedia.co.uk/2020/04/09/robotexploding.jpg"
         }
       ]
     }

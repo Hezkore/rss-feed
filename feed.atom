@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-12T19:28:42.734Z</updated>
+    <updated>2022-10-12T20:30:47.556Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pick up the Samsung Odyssey G7 32-in 1440p 240Hz gaming monitor for £499]]></title>
+        <id>https://www.rockpapershotgun.com/pick-up-the-samsung-odyssey-g7-32-in-1440p-240hz-gaming-monitor-for-499</id>
+        <link href="https://www.rockpapershotgun.com/pick-up-the-samsung-odyssey-g7-32-in-1440p-240hz-gaming-monitor-for-499"/>
+        <updated>2022-10-12T20:07:32.000Z</updated>
+        <summary type="html"><![CDATA[The Samsung Odyssey G7 is one of the best gaming monitors in the world - or at least, that's what I keep telling myself after buying one last year. This is a 32-inch model, offering a 2560x1440 resolution, a 240Hz refresh rate and a DisplayHDR 600 certification that means it actually delivers impactful HDR - a rarity at this price point. Anyway, it's down to £499 today after a £100 discount, so listen up - here's why I rate this monitor so highly. 
+Read more]]></summary>
+        <author>
+            <name>Will Judd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CD Projekt RED outlines how to keep your Cyberpunk 2077 saves now that Stadia is closing down]]></title>
+        <id>https://www.vg247.com/how-to-download-your-cyberpunk-2077-saves-off-stadia</id>
+        <link href="https://www.vg247.com/how-to-download-your-cyberpunk-2077-saves-off-stadia"/>
+        <updated>2022-10-12T20:00:51.000Z</updated>
+        <summary type="html"><![CDATA[An update to the CD Projekt RED support page outlines how Stadia users can download their Cyberpunk 2077 saves.
+With Stadia shutting down in January , folks are understandably worried about their save game files. Those who play Cyberpunk 2077 and want to continue playing their game on another platform, need only do the following using Google Takeout, per CDPR.
+
+
+Open takeout.google.com.
+In the "Create a new export" section click "Deselect all" and select "Stadia". Press "Next Step" to continue.
+Choose your preferred destination and “Export once” frequency. Choose ".zip" file type and "2 GB" size. Press "Create Export".
+Download the export from the destination chosen in the previous step.
+Locate the downloaded archive on your PC. Extract it.
+Your Cyberpunk 2077 game saves will be located in the following path: .../Takeout/Stadia/GAMING/GAME_SAVE/
+Note that there may be saved files from other games located there as well. 
+Files of each game save are located inside archives. Extract them to separate folders.
+To use the extracted saves on the PC version, simply copy-paste those folders to the following path: %userprofile%\Saved Games\CD Projekt Red\Cyberpunk 2077
+Make sure that files are not nested inside another folder.
+ Read more]]></summary>
+        <author>
+            <name>Stephany Nunneley</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft fights to save Activision merger, says Sony protest is “self-serving”]]></title>
+        <id>https://arstechnica.com/?p=1889553</id>
+        <link href="https://arstechnica.com/?p=1889553"/>
+        <updated>2022-10-12T19:42:57.000Z</updated>
+        <summary type="html"><![CDATA[Microsoft says UK relied on Sony's "exaggerated" claims about Call of Duty.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GM races after Tesla with battery pack tech and solar deal]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/12/gm_battery_car_storage/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/12/gm_battery_car_storage/"/>
+        <updated>2022-10-12T19:29:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Gah, for a few milliseconds there, we were willing a cold, faceless corporation to succeed</h4> <p>General Motors' newest endeavor is a business unit dedicated to producing energy storage systems – and the automaker left no doubts about who it sees as its top competitor in the space: Tesla. …</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Humble has a new melee-focused game bundle]]></title>
         <id>https://www.gamingonlinux.com/2022/10/humble-has-a-new-melee-focused-game-bundle/</id>
@@ -14,6 +69,16 @@
         <summary type="html"><![CDATA[Up for more melee fighting games of various sorts? The Melee Mayhem Bundle might be just what you need.]]></summary>
         <author>
             <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RTX 4090 Beats Two RTX 3090s in SLI — Barely]]></title>
+        <id>dJj5jbnJA9Cw7HzTcZAbzT</id>
+        <link href="https://www.tomshardware.com/news/rtx-3090-sli-fail-to-outperform-4090"/>
+        <updated>2022-10-12T19:21:26.000Z</updated>
+        <summary type="html"><![CDATA[YouTuber Benchmark Lab pits two RTX 3090s in SLI formation against RTX 4090; RTX 4090 wins, but just barely. And only because SLI doesn't work.]]></summary>
+        <author>
+            <name>Tomshardware</name>
         </author>
     </entry>
     <entry>
@@ -47,6 +112,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TikTok wants to be Amazon, plans US fullfillment centers and poaches staff]]></title>
+        <id>https://arstechnica.com/?p=1889530</id>
+        <link href="https://arstechnica.com/?p=1889530"/>
+        <updated>2022-10-12T18:33:23.000Z</updated>
+        <summary type="html"><![CDATA[TikTok to launch live shopping in the US over the holidays.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Overclockers Push RTX 4090 to Record-Breaking 3.45 GHz]]></title>
         <id>4Xxx9uWJyerEWYgheAgkxW</id>
         <link href="https://www.tomshardware.com/news/geforce-rtx-4090-hits-3-45-ghz"/>
@@ -72,6 +147,16 @@ Having disbanded Runic, publisher Perfect World then revived the series just nin
 Read more]]></summary>
         <author>
             <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kids 5-11 can now get the bivalent, BA.5-targeting COVID booster]]></title>
+        <id>https://arstechnica.com/?p=1889533</id>
+        <link href="https://arstechnica.com/?p=1889533"/>
+        <updated>2022-10-12T18:17:32.000Z</updated>
+        <summary type="html"><![CDATA[Federal officials urge Americans to get their boost by Halloween.]]></summary>
+        <author>
+            <name>Beth Mole</name>
         </author>
     </entry>
     <entry>
@@ -19544,36 +19629,6 @@ The autumn sale will start on Steam on November 22, running for a week until Nov
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/29/cockroach_labs_serverless_database/"/>
         <updated>2022-09-29T08:43:00.000Z</updated>
         <summary type="html"><![CDATA[<h4>Peter Mattis on starting a multibillion-dollar company as serverless database hits GA</h4> <p><strong>Interview</strong>  Cockroach Labs released the serverless version of its eponymous database for general availability last week. <em>The Register</em> took the opportunity to catch up with CTO Peter Mattis – a Google veteran who is also behind open source image editing software <a target="_blank" href="https://www.theregister.com/2021/10/21/gimp_2998/">GIMP</a>.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Läckt video sägs visa Returnals grafikmeny på pc]]></title>
-        <id>https://www.fz.se/artikel/291621</id>
-        <link href="https://www.fz.se/artikel/291621-lackt-video-sags-visa-returnals-grafikmeny-pa-pc"/>
-        <updated>2022-09-29T07:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Alltså pc-versionen som inte har utannonserats och kanske inte existerar.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Batteriet i oanvända Samsung-telefoner sväller]]></title>
-        <id>https://www.sweclockers.com/artikel/34989</id>
-        <link href="https://www.sweclockers.com/artikel/34989-batteriet-i-oanvanda-samsung-telefoner-svaller"/>
-        <updated>2022-09-29T07:51:33.000Z</updated>
-        <summary type="html"><![CDATA[Ytterligare batteristrul med Samsungs mobiler har uppdagats och den här gången handlar det om batterier som sväller i oanvända enheter.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Europe just might make it easier for people to sue for damage caused by AI tech]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/29/european_commission_ai_liability/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/29/european_commission_ai_liability/"/>
-        <updated>2022-09-29T07:34:11.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Imagine the lawyer infomercials – Did a computer hurt you? Call (30) 555 1234...</h4> <p>The European Commission put forward rules on Wednesday aimed at making it easier for Europeans to sue companies for damage caused by AI technologies going awry.…</p>]]></summary>
         <author>
             <name>The Register</name>
         </author>
