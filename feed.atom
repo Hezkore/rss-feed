@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-12T06:40:30.765Z</updated>
+    <updated>2022-10-12T07:33:35.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How Wi-Fi spy drones snooped on financial firm]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/12/drone-roof-attack/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/12/drone-roof-attack/"/>
+        <updated>2022-10-12T07:22:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Check your rooftops: Flying gear caught carrying network-intrusion kit</h4> <p>Modified off-the-shelf drones have been found carrying wireless network-intrusion kit in a very unlikely place.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.1 Drops BF16 Support For Cortex-A510 Due To Hardware Bug]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-ARM64-Updates</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-ARM64-Updates"/>
+        <updated>2022-10-12T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The 64-bit Arm (ARM64 / AArch64) architecture changes were merged last week for the ongoing Linux 6.1 merge window...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Need for Speed: Unbounds tecknade effekter ska gå att stänga av]]></title>
+        <id>https://www.fz.se/artikel/291758</id>
+        <link href="https://www.fz.se/artikel/291758-need-for-speed-unbounds-tecknade-effekter-ska-ga-att-stanga-av"/>
+        <updated>2022-10-12T06:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Åtminstone för ens egen bil, och förhoppningsvis även andra.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft and Meta promise facehugger PCs piping cloud desktops into VR headsets]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/12/meta_microsoft_alliance/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/12/meta_microsoft_alliance/"/>
+        <updated>2022-10-12T06:45:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Who exactly asked for this? Can you explain how it works? Or why?</h4> <p><strong>Poll</strong>  Microsoft and Meta have teamed up in the metaverse, to bring the software giant's OS and productivity tools into The Social Network's Meta Quest virtual reality hardware.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[China launches solar observation satellite]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/12/chinas_solar_exploration_mission_now/</id>
@@ -18469,59 +18509,6 @@ If you like what you play, the game is on sale this weekend for 50% off on Steam
         <summary type="html"><![CDATA[A new feature being worked on for the Flash-Friendly File-System (F2FS) is the ability to atomically replace files...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD's Ryzen V3000 goes head to head with Intel's embedded chips on power, oomph]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/28/amd_ryzen_embedded_chips/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/28/amd_ryzen_embedded_chips/"/>
-        <updated>2022-09-28T19:14:46.000Z</updated>
-        <summary type="html"><![CDATA[<h4>House of Zen just needs to convince machine makers to use them</h4> <p>AMD put Intel’s low-power Xeon-D and industrial Core-series processors in its sights on Tuesday with the launch of its Ryzen Embedded V3000 CPUs.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More EV charging stations coming nationwide, electrifying 75K miles of highways]]></title>
-        <id>https://arstechnica.com/?p=1885357</id>
-        <link href="https://arstechnica.com/?p=1885357"/>
-        <updated>2022-09-28T19:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Access to 500,000 chargers could lay the groundwork to convert Americans to EVs.]]></summary>
-        <author>
-            <name>Ashley Belanger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ryzen AF 2.0 Spotted: Zen 3-Powered R5 3600 Shows on Romanian Store]]></title>
-        <id>SMQc73DAez6F8ibEYGVhCi</id>
-        <link href="https://www.tomshardware.com/news/zen-3-ryzen-5-3600-af-spotted"/>
-        <updated>2022-09-28T19:02:08.000Z</updated>
-        <summary type="html"><![CDATA[A new CPU has been spotted at a Romanian Retailer known as the Ryzen 5 3600AF. If this listing is real, it would suggest AMD is creating a successor to the Ryzen 5 1600 AF, featuring Zen 3 cores with the Ryzen 3000 series naming scheme.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon’s Astro robot still isn’t ready for prime time]]></title>
-        <id>https://arstechnica.com/?p=1885207</id>
-        <link href="https://arstechnica.com/?p=1885207"/>
-        <updated>2022-09-28T18:54:39.000Z</updated>
-        <summary type="html"><![CDATA[A year after its announcement, it's unclear when Astro will be ready.]]></summary>
-        <author>
-            <name>Scharon Harding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pokemon Scarlet and Violet will feature a new Pokemon called Wiglett]]></title>
-        <id>https://www.vg247.com/pokemon-scarlet-and-violet-wiglett</id>
-        <link href="https://www.vg247.com/pokemon-scarlet-and-violet-wiglett"/>
-        <updated>2022-09-28T18:53:34.000Z</updated>
-        <summary type="html"><![CDATA[The Pokemon Company today aired a special showcase for the Pokemon World Ecological Society during which time it exhibited clips and provided new details for Pokemon Scarlet and Violet.
-During the showcase, new interactions, as well as a new set of returning Pokemon, were shown, but the big news out of it was the reveal of a new Pokemon called Wiglett.
-As reported by Serebii, the Pokemon looks similar to Diglett, but it is a different creature. According to the Ecological Society, while it may look like a Paldean form of Diglett, it’s not.
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
         </author>
     </entry>
 </feed>
