@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-13T06:03:33.413Z</updated>
+    <updated>2022-10-13T07:37:24.247Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Scanning phones to detect child abuse evidence is harmful, 'magical' thinking]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/13/clientside_scanning_csam_anderson/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/13/clientside_scanning_csam_anderson/"/>
+        <updated>2022-10-13T07:30:11.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Security expert challenges claim that bypassing encryption is essential to protecting kids</h4> <p><strong>Exclusive</strong>  Laws in the UK and Europe have been proposed that would give authorities the power to undermine strong end-to-end encryption in the pursuit of, in their minds, justice.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Surface Pro 9 erbjuds med ARM-processor]]></title>
+        <id>https://www.sweclockers.com/artikel/35067</id>
+        <link href="https://www.sweclockers.com/artikel/35067-microsoft-surface-pro-9-erbjuds-med-arm-processor"/>
+        <updated>2022-10-13T07:01:45.000Z</updated>
+        <summary type="html"><![CDATA[Microsofts senaste tillskott i Surface Pro-familjen kommer i flera olika smaker, varav en variant med ARM-processor och 5G-modem.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Picolibc 1.7.9 Adds Support For More CPU Targets]]></title>
+        <id>https://www.phoronix.com/news/Picolibc-1.7.9-Released</id>
+        <link href="https://www.phoronix.com/news/Picolibc-1.7.9-Released"/>
+        <updated>2022-10-13T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Longtime open-source developer Keith Packard has announced the release of Picolibc 1.7.9, the newest version of his C library for embedded systems. Picolibc 1.7.9 adds support for several new CPU architectures and other enhancements for his miniature libc implementation...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spelare ska kompenseras för Overwatch 2-strulen]]></title>
+        <id>https://www.fz.se/artikel/291770</id>
+        <link href="https://www.fz.se/artikel/291770-spelare-ska-kompenseras-for-overwatch-2-strulen"/>
+        <updated>2022-10-13T06:57:00.000Z</updated>
+        <summary type="html"><![CDATA[Helger med dubbel XP och kosmetiskt krimskrams.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Install Gedit on Ubuntu 22.10 and Make it Default Text Editor]]></title>
+        <id>https://itsfoss.com/?p=102715</id>
+        <link href="https://itsfoss.com/install-gedit-ubuntu/"/>
+        <updated>2022-10-13T06:42:29.000Z</updated>
+        <summary type="html"><![CDATA[gedit is not the default text editor in Ubuntu 22.10. Here's how to install Gedit on Ubuntu and make it the default text editor again.]]></summary>
+        <author>
+            <name>Abhishek Prakash</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Want to crawl inside a nuke plant swinging a hammer? No? Toshiba's inspection bots will do it instead]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/13/toshiba_expands_its_range_of/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/13/toshiba_expands_its_range_of/"/>
+        <updated>2022-10-13T06:31:13.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Go ahead, feel redundant: machines reduce maintenance time by 12 days and go places humans cannot</h4> <p>On Wednesday Toshiba launched its commercialized robot inspection services for power plant turbine generators.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ULA's Vulcan Centaur to launch in early '23, with lunar lander and first Amazon broadband sats]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/13/vulcan_centaur_kuiper_peregrine/</id>
@@ -18591,147 +18651,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Expansion nummer nio släpps månad elva.]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reverse DNS queries may reveal too much, computer scientists argue]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/29/reverse_dns_queries_reveal_too/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/29/reverse_dns_queries_reveal_too/"/>
-        <updated>2022-09-29T19:30:07.000Z</updated>
-        <summary type="html"><![CDATA[<h4>When you combine it with DHCP, that spells TRACK ME</h4> <p>Computer scientists at the University of Twente in the Netherlands have found the interplay between the internet and local networks can be analyzed to reveal private data and facilitate tracking.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Viking survival success Valheim is now available via PC Game Pass]]></title>
-        <id>https://www.rockpapershotgun.com/viking-survival-success-valheim-is-now-available-via-pc-game-pass</id>
-        <link href="https://www.rockpapershotgun.com/viking-survival-success-valheim-is-now-available-via-pc-game-pass"/>
-        <updated>2022-09-29T19:18:51.000Z</updated>
-        <summary type="html"><![CDATA[Valheim was a surprise hit early last year and to date has now sold over 10 million copies. As of today, you no longer need to buy the viking fantasy survival game if you want to try it, assuming you have a subsription to PC Game Pass. 
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google kills off Stadia]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/29/google_shuts_down_stadia/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/29/google_shuts_down_stadia/"/>
-        <updated>2022-09-29T19:06:21.000Z</updated>
-        <summary type="html"><![CDATA[<h4>We gave the cloud gaming service two years to live. It managed three</h4> <p>Google on Thursday said it will shut down Stadia, its cloud-based game streaming service, because few people use it.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Antoine Beaupré: Detecting manual (and optimizing large) package installs in Puppet]]></title>
-        <id>https://anarc.at/blog/2022-09-29-optimizing-puppet-bootstrap/</id>
-        <link href="https://anarc.at/blog/2022-09-29-optimizing-puppet-bootstrap/"/>
-        <updated>2022-09-29T19:05:40.000Z</updated>
-        <summary type="html"><![CDATA[Well this is a mouthful.
-I recently worked on a neat hack called puppet-package-check. It
-is designed to warn about manually installed packages, to make sure
-"everything is in Puppet". But it turns out it can (probably?)
-dramatically increase the bootstrap time of Puppet bootstrap when it
-needs to install a large number of packages.
-Detecting manual packages
-On a cleanly filed workstation, it looks like this:
-root@emma:/home/anarcat/bin# ./puppet-package-check -v
-listing puppet packages...
-listing apt packages...
-loading apt cache...
-0 unmanaged packages found
-
-A messy workstation will look like this:
-root@curie:/home/anarcat/bin# ./puppet-package-check -v
-listing puppet packages...
-listing apt packages...
-loading apt cache...
-288 unmanaged packages found
-apparmor-utils beignet-opencl-icd …]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scorn will release itself from the bone wall a week earlier than planned]]></title>
-        <id>https://www.rockpapershotgun.com/scorn-will-release-itself-from-the-bone-wall-a-week-earlier-than-planned</id>
-        <link href="https://www.rockpapershotgun.com/scorn-will-release-itself-from-the-bone-wall-a-week-earlier-than-planned"/>
-        <updated>2022-09-29T18:47:34.000Z</updated>
-        <summary type="html"><![CDATA[Long in-development first-person horror Scorn was due to finally release on October 21st, but in a season of delays its made the most twisted choice imaginable. It's now set to release a week earlier on October 14th. 
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raptor Lake Review Kit Revealed, Includes Only Core i9-13900K and Core i5-13600K]]></title>
-        <id>JhDWXzjhjVuUsMUasphCc6</id>
-        <link href="https://www.tomshardware.com/news/raptor-lake-review-kit-includes-i9-i5-only"/>
-        <updated>2022-09-29T18:37:07.000Z</updated>
-        <summary type="html"><![CDATA[A German YouTuber recently published a video showcasing Intel's new Raptor Lake review kit that will be going out to all media outlets in the future. The box features i5 and i9 Raptor Lake SKUs, and comes with some beautiful box art.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel accidentally leaked its 34-core Raptor Lake chip. What does the die tell us?]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/29/intel_34c_raptor/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/29/intel_34c_raptor/"/>
-        <updated>2022-09-29T18:30:07.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Where we're going, we don't need efficiency cores. But we may need 1.21 jiggawatts</h4> <p><strong>Analysis</strong>  At this week's launch of Intel's 13th-gen Core series, it appears staff accidentally left out on display a wafer of previously undisclosed 34-core Raptor Lake processor dies.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon launches its own QLED 4K TVs, starting at $800]]></title>
-        <id>https://arstechnica.com/?p=1885596</id>
-        <link href="https://arstechnica.com/?p=1885596"/>
-        <updated>2022-09-29T18:27:02.000Z</updated>
-        <summary type="html"><![CDATA[Amazon's second round of TVs make more (but not many) image-quality claims.]]></summary>
-        <author>
-            <name>Scharon Harding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google are pulling the plug on Stadia in January]]></title>
-        <id>https://www.rockpapershotgun.com/google-are-pulling-the-plug-on-stadia-in-january</id>
-        <link href="https://www.rockpapershotgun.com/google-are-pulling-the-plug-on-stadia-in-january"/>
-        <updated>2022-09-29T18:25:40.000Z</updated>
-        <summary type="html"><![CDATA[Google have announced that they intend to begin "winding down" their game streaming service Stadia. The service launched in 2019 but struggled to find an audience. Google say that they'll refund hardware, game and add-on purchases made through the Google and Stadia stores, and that players will continue to have access to their games library until January 18th.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Garden Eel Pokemon Wiglett detailed for Pokemon Scarlet and Violet]]></title>
-        <id>https://www.vg247.com/garden-eel-pokemon-wiglett-detailed-for-pokemon-scarlet-and-violet</id>
-        <link href="https://www.vg247.com/garden-eel-pokemon-wiglett-detailed-for-pokemon-scarlet-and-violet"/>
-        <updated>2022-09-29T18:18:49.000Z</updated>
-        <summary type="html"><![CDATA[Quick bit of news for you: Nintendo and The Pokemon Company have provided more information on Wiglett, the Pokemon revealed yesterday for Pokemon Scarlet and Violet.
-This newly discovered Pokemon lives in the Paldea region and is known as a Garden Eel Pokemon. It may look like Diglett, but it’s a different species. It is a Water-type and features the abilities Gooey and Rattled.
-Boasting an exceptional sense of smell, Wiglett can pick up scents from over 60 feet away. It has a skittish disposition and is constantly cautious of its surroundings. When it notices the scent of other Pokemon, it burrows into the sand to conceal itself.
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia Clears the Air on GeForce RTX 40-series Power Requirements]]></title>
-        <id>ShJykySCAHV6CEi4bZMHbL</id>
-        <link href="https://www.tomshardware.com/news/nvidia-clears-the-air-on-geforce-rtx-40-series-power-requirements"/>
-        <updated>2022-09-29T18:07:40.000Z</updated>
-        <summary type="html"><![CDATA[Nvidia's new FAQ tells consumers everything they need to know about the GeForce RTX 40-series GPUs and power supplies.]]></summary>
-        <author>
-            <name>Tomshardware</name>
         </author>
     </entry>
 </feed>
