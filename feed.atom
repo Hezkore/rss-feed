@@ -2,10 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-13T20:30:32.949Z</updated>
+    <updated>2022-10-13T21:26:08.638Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Microsoft HoloLens proves to be a headache for US soldiers]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/13/us_army_report_microsoft_hololens/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/13/us_army_report_microsoft_hololens/"/>
+        <updated>2022-10-13T21:23:14.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Eyestrain, nausea not entirely dealt with, military brass remain committed to AR</h4> <p>Microsoft Corp's HoloLens mixed reality goggles need further refinement before they're ready for US soldiers, according to a Defense Department report summary.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[£90 is a good deal for EVGA's 850W G6 80+ Gold power supply]]></title>
+        <id>https://www.rockpapershotgun.com/90-is-a-good-deal-for-evgas-850w-g6-80-gold-power-supply</id>
+        <link href="https://www.rockpapershotgun.com/90-is-a-good-deal-for-evgas-850w-g6-80-gold-power-supply"/>
+        <updated>2022-10-13T21:06:36.000Z</updated>
+        <summary type="html"><![CDATA[The EVGA P6 850W is a great high-capacity power supply, and today it's been discounted by £30 over at Scan, dropping from £120 to £90. That's a good deal on a PSU that meets the steep requirements of the RTX 4090, as well as Nvidia's more sanely-specced RTX 40-series cards like the RTX 4080 16GB and the RTX 4070 4080 12GB. 
+Read more]]></summary>
+        <author>
+            <name>Will Judd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Ryzen 7 5800X CPU is down to $230 in the wake of Ryzen 7000's release]]></title>
+        <id>https://www.rockpapershotgun.com/the-ryzen-7-5800x-cpu-is-down-to-230-in-the-wake-of-ryzen-7000s-release</id>
+        <link href="https://www.rockpapershotgun.com/the-ryzen-7-5800x-cpu-is-down-to-230-in-the-wake-of-ryzen-7000s-release"/>
+        <updated>2022-10-13T20:54:54.000Z</updated>
+        <summary type="html"><![CDATA[The Ryzen 7 5800X was a great gaming CPU when it launched in 2020, and it remains one of the fastest options going despite the recent release of Ryzen 7000 processors late last month. The 5800X also has two major advantages: it works on a wide range of cheap motherboards with DDR4 RAM, and it's way cheaper than the 7700X - especially when it's discounted on Ebay US, as is the case today!
+So: let's cut to the chase. The 5800X is down to $229.99 at Ebay, from a list price of $449, meaning it's nearly 50% off. That also makes it $170 cheaper than the equivalent Ryzen 7000 processor, the $400 eight-core Ryzen 7700X. Or, to put it another way, you're paying around 60% of the price for at least 80% of the gaming performance of that newer CPU - not bad, given that you'll also pay way less for a complete Ryzen 5000 system (with AM4 motherboards and DDR4) than a complete Ryzen 7000 one (with AM5 motherboards and DDR5). 
+Read more]]></summary>
+        <author>
+            <name>Will Judd</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Framework offers refurbished versions of its repairable laptops]]></title>
+        <id>https://arstechnica.com/?p=1889883</id>
+        <link href="https://arstechnica.com/?p=1889883"/>
+        <updated>2022-10-13T20:29:15.000Z</updated>
+        <summary type="html"><![CDATA[The company's unique model could make refurbished devices more intriguing.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[China doesn’t need to take Taiwan’s fabs to escape US trade bans]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/13/china_doesnt_need_to_take/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/13/china_doesnt_need_to_take/"/>
+        <updated>2022-10-13T20:29:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Threatening to destroy them could give them just as much leverage, while averting all out war</h4> <p><strong>Comment</strong>  Let's be clear about something: Even if Taiwan Semiconductor Manufacturing Co. (TSMC), fell into Chinese hands in the event of an invasion, it wouldn't do them much good.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lockheed Martin taps silicon photonics tech to build better weapons of war]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/13/lockheed_martin_ayar_labs/</id>
@@ -19478,36 +19531,6 @@ Elsewhere in today's show, I catch us up on some of the reviews we've missed whi
 Read more]]></summary>
         <author>
             <name>Robert Purchese</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 22.10 Beta Released For Linux 5.19 + GNOME 43 Powered Linux Desktop]]></title>
-        <id>https://www.phoronix.com/news/Ubuntu-22.10-Beta-Released</id>
-        <link href="https://www.phoronix.com/news/Ubuntu-22.10-Beta-Released"/>
-        <updated>2022-09-30T09:15:01.000Z</updated>
-        <summary type="html"><![CDATA[On Thursday night Canonical released the beta of next month's Ubuntu 22.10 "Kinetic Kudu" Linux distribution update...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VR-skjutaren Bonelab är ute – spana in släpptrailern]]></title>
-        <id>https://www.fz.se/artikel/291637</id>
-        <link href="https://www.fz.se/artikel/291637-vr-skjutaren-bonelab-ar-ute-spana-in-slapptrailern"/>
-        <updated>2022-09-30T09:04:00.000Z</updated>
-        <summary type="html"><![CDATA[Uppföljaren till utmärkta Boneworks.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel, Microsoft & Arm Continue Advancing The Cloud-Hypervisor With v27 Released]]></title>
-        <id>https://www.phoronix.com/news/Cloud-Hypervisor-27</id>
-        <link href="https://www.phoronix.com/news/Cloud-Hypervisor-27"/>
-        <updated>2022-09-30T08:48:35.000Z</updated>
-        <summary type="html"><![CDATA[Cloud-Hypervisor as what started as an open-source project by Intel and now run under the Linux Foundation umbrella as a Rust-based, modern-focused hypervisor for cloud workloads keeps on advancing. In addition to Intel, Microsoft and Arm continue investing significant resources into Cloud-Hypervisor for this security-focused VMM for running Windows and Linux guests...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
 </feed>
