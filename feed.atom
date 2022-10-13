@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-13T19:28:27.927Z</updated>
+    <updated>2022-10-13T20:30:32.949Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Lockheed Martin taps silicon photonics tech to build better weapons of war]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/13/lockheed_martin_ayar_labs/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/13/lockheed_martin_ayar_labs/"/>
+        <updated>2022-10-13T19:47:11.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Let the battle against latency begin</h4> <p>Military contractor Lockheed Martin this week announced plans to integrate Ayar Lab’s optical input tech into future defense platforms.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix sjösätter reklamabonnemanget]]></title>
+        <id>https://www.sweclockers.com/artikel/35072</id>
+        <link href="https://www.sweclockers.com/artikel/35072-netflix-sjosatter-reklamabonnemanget"/>
+        <updated>2022-10-13T19:43:43.000Z</updated>
+        <summary type="html"><![CDATA[Runt 5 minuter reklam per timme och en månadskostnad som krymper med 30 procent är Netflix paradnummer.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FCC to ban all new Huawei and ZTE equipment on national security grounds]]></title>
+        <id>https://arstechnica.com/?p=1889878</id>
+        <link href="https://arstechnica.com/?p=1889878"/>
+        <updated>2022-10-13T19:41:21.000Z</updated>
+        <summary type="html"><![CDATA[Ban would prevent new products from getting FCC approval; older ones not affected.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Gets Patched For WiFi Vulnerabilities That Can Be Exploited By Malicious Packets]]></title>
+        <id>https://www.phoronix.com/news/Linux-WiFi-Malicious-Packets</id>
+        <link href="https://www.phoronix.com/news/Linux-WiFi-Malicious-Packets"/>
+        <updated>2022-10-13T19:31:27.000Z</updated>
+        <summary type="html"><![CDATA[A set of Linux kernel WiFi stack security issues were made public today. The Linux 6.1 Git kernel has now merged fixes for these vulnerabilities while the fixes also work their way to being back-ported to existing stable series...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia Allegedly Restores Mining Performance On GeForce RTX 30 LHR GPUs]]></title>
+        <id>gJrF4ZmDux4b7eF3gNxyzY</id>
+        <link href="https://www.tomshardware.com/news/nvidia-restores-mining-performance-on-geforce-rtx-30-lhr-gpus"/>
+        <updated>2022-10-13T19:21:38.000Z</updated>
+        <summary type="html"><![CDATA[Now that Ethereum GPU mining is gone, Nvidia returns mining performance to GeForce RTX 30-series LHR graphics cards.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Final Fantasy VII Remake board game is in development]]></title>
         <id>https://www.rockpapershotgun.com/a-final-fantasy-vii-remake-board-game-is-in-development</id>
@@ -55,6 +105,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<h4>Get your own Playstation-on-wheels beginning in 2026, and be prepared to pay subscription fees</h4> <p>Sony and Honda have announced plans to jointly produce a "premium" electric vehicle that will be built in the United States, and they want it to be on North American roads beginning in 2026.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lufthansa awkwardly abandons AirTag ban after baffling face plant]]></title>
+        <id>https://arstechnica.com/?p=1889659</id>
+        <link href="https://arstechnica.com/?p=1889659"/>
+        <updated>2022-10-13T18:48:14.000Z</updated>
+        <summary type="html"><![CDATA[After a confusing, unilateral ban, Lufthansa allows AirTag trackers once again.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
         </author>
     </entry>
     <entry>
@@ -19448,46 +19508,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Cloud-Hypervisor as what started as an open-source project by Intel and now run under the Linux Foundation umbrella as a Rust-based, modern-focused hypervisor for cloud workloads keeps on advancing. In addition to Intel, Microsoft and Arm continue investing significant resources into Cloud-Hypervisor for this security-focused VMM for running Windows and Linux guests...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Citrix dropped the ball on Xen ... according to Citrix]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/30/citrix_xen/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/30/citrix_xen/"/>
-        <updated>2022-09-30T08:30:11.000Z</updated>
-        <summary type="html"><![CDATA[<h4>How to win friends and admit how you lost them earlier?</h4> <p><strong>Open Source Summit</strong>  What's the difference between the Citrix Hypervisor and Xen? Well, one has quite a big crowd of upset current and former community members.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMDVLK 2022.Q3.5 Released With Several Improvements]]></title>
-        <id>https://www.phoronix.com/news/AMDVLK-2022.Q3.5-Released</id>
-        <link href="https://www.phoronix.com/news/AMDVLK-2022.Q3.5-Released"/>
-        <updated>2022-09-30T08:28:25.000Z</updated>
-        <summary type="html"><![CDATA[Prior to ending out the third quarter, AMD's graphics driver team has released AMDVLK 2022.Q3.5 as their newest open-source Vulkan Linux driver update...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alienwares QD OLED-skärm får syskon med lägre prislapp]]></title>
-        <id>https://www.sweclockers.com/artikel/34997</id>
-        <link href="https://www.sweclockers.com/artikel/34997-alienwares-qd-oled-skarm-far-syskon-med-lagre-prislapp"/>
-        <updated>2022-09-30T08:19:54.000Z</updated>
-        <summary type="html"><![CDATA[Den välvda 34-tummaren byter G-sync mot Freesync och kliver ned i rekommenderat pris med motsvarande drygt 2 000 kronor.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sonys lojalitetsprogram Playstation Stars släpps 13 oktober]]></title>
-        <id>https://www.fz.se/artikel/291636</id>
-        <link href="https://www.fz.se/artikel/291636-sonys-lojalitetsprogram-playstation-stars-slapps-13-oktober"/>
-        <updated>2022-09-30T07:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Men får viss kritik för "prioriterad support" för toppdeltagare.]]></summary>
-        <author>
-            <name>FZ.se</name>
         </author>
     </entry>
 </feed>

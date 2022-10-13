@@ -4592,6 +4592,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-WiFi-Malicious-Packets",
+          "author": null,
+          "description": "A set of Linux kernel WiFi stack security issues were made public today. The Linux 6.1 Git kernel has now merged fixes for these vulnerabilities while the fixes also work their way to being back-ported to existing stable series...",
+          "link": "https://www.phoronix.com/news/Linux-WiFi-Malicious-Packets",
+          "publishedOn": "2022-10-13T19:31:27.000Z",
+          "wordCount": 1423,
+          "title": "Linux Gets Patched For WiFi Vulnerabilities That Can Be Exploited By Malicious Packets",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-6.1-Char-Misc",
           "author": null,
           "description": "The \"char/misc\" changes landed recently into mainline for the ongoing Linux 6.1 merge window. In addition to many FPGA subsystem updates, this random catch-all driver area of the kernel has also seen many updates to the Habana Labs AI driver for supporting Intel's forthcoming Gaudi2 accelerator...",
@@ -5859,16 +5869,6 @@
           "publishedOn": "2022-09-30T08:48:35.000Z",
           "wordCount": 1246,
           "title": "Intel, Microsoft & Arm Continue Advancing The Cloud-Hypervisor With v27 Released",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/AMDVLK-2022.Q3.5-Released",
-          "author": null,
-          "description": "Prior to ending out the third quarter, AMD's graphics driver team has released AMDVLK 2022.Q3.5 as their newest open-source Vulkan Linux driver update...",
-          "link": "https://www.phoronix.com/news/AMDVLK-2022.Q3.5-Released",
-          "publishedOn": "2022-09-30T08:28:25.000Z",
-          "wordCount": 1250,
-          "title": "AMDVLK 2022.Q3.5 Released With Several Improvements",
           "imageUrl": null
         }
       ]
@@ -7395,6 +7395,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "gJrF4ZmDux4b7eF3gNxyzY",
+          "author": null,
+          "description": "Now that Ethereum GPU mining is gone, Nvidia returns mining performance to GeForce RTX 30-series LHR graphics cards.",
+          "link": "https://www.tomshardware.com/news/nvidia-restores-mining-performance-on-geforce-rtx-30-lhr-gpus",
+          "publishedOn": "2022-10-13T19:21:38.000Z",
+          "wordCount": 21981,
+          "title": "Nvidia Allegedly Restores Mining Performance On GeForce RTX 30 LHR GPUs",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/8ZoFrv5dB2NEgwmSMVHiUf.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/8ZoFrv5dB2NEgwmSMVHiUf.jpg"
+        },
         {
           "id": "9MVfSdHR7PppKjxsheFMT6",
           "author": null,
@@ -10662,6 +10677,26 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1889878",
+          "author": "Jon Brodkin",
+          "description": "Ban would prevent new products from getting FCC approval; older ones not affected.",
+          "link": "https://arstechnica.com/?p=1889878",
+          "publishedOn": "2022-10-13T19:41:21.000Z",
+          "wordCount": 1502,
+          "title": "FCC to ban all new Huawei and ZTE equipment on national security grounds",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/01/getty-huawei-ces-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1889659",
+          "author": "Kevin Purdy",
+          "description": "After a confusing, unilateral ban, Lufthansa allows AirTag trackers once again.",
+          "link": "https://arstechnica.com/?p=1889659",
+          "publishedOn": "2022-10-13T18:48:14.000Z",
+          "wordCount": 1756,
+          "title": "Lufthansa awkwardly abandons AirTag ban after baffling face plant",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/GettyImages-1423956353-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1889799",
           "author": "Jon Brodkin",
           "description": "$7 plan to have 5 minutes of ads per hour, 720p quality limit, and no downloads.",
@@ -13917,16 +13952,6 @@
           "wordCount": 1776,
           "title": "VR-skjutaren Bonelab är ute – spana in släpptrailern",
           "imageUrl": "https://www.fz.se/artikel/og-image/291637"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291636",
-          "author": null,
-          "description": "Men får viss kritik för \"prioriterad support\" för toppdeltagare.",
-          "link": "https://www.fz.se/artikel/291636-sonys-lojalitetsprogram-playstation-stars-slapps-13-oktober",
-          "publishedOn": "2022-09-30T07:55:00.000Z",
-          "wordCount": 1811,
-          "title": "Sonys lojalitetsprogram Playstation Stars släpps 13 oktober",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291636"
         }
       ]
     },
@@ -13935,6 +13960,16 @@
       "feedUrl": "https://www.sweclockers.com/feeds/nyheter",
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
+        {
+          "id": "https://www.sweclockers.com/artikel/35072",
+          "author": null,
+          "description": "Runt 5 minuter reklam per timme och en månadskostnad som krymper med 30 procent är Netflix paradnummer.",
+          "link": "https://www.sweclockers.com/artikel/35072-netflix-sjosatter-reklamabonnemanget",
+          "publishedOn": "2022-10-13T19:43:43.000Z",
+          "wordCount": 1759,
+          "title": "Netflix sjösätter reklamabonnemanget",
+          "imageUrl": "https://www.sweclockers.com/artikel/35072/og-image"
+        },
         {
           "id": "https://www.sweclockers.com/artikel/35070",
           "author": null,
@@ -14594,16 +14629,6 @@
           "wordCount": 1951,
           "title": "Arc A750 ansluter sig den 12 oktober – får prislapp på 289 USD",
           "imageUrl": "https://www.sweclockers.com/artikel/35000/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/34997",
-          "author": null,
-          "description": "Den välvda 34-tummaren byter G-sync mot Freesync och kliver ned i rekommenderat pris med motsvarande drygt 2 000 kronor.",
-          "link": "https://www.sweclockers.com/artikel/34997-alienwares-qd-oled-skarm-far-syskon-med-lagre-prislapp",
-          "publishedOn": "2022-09-30T08:19:54.000Z",
-          "wordCount": 1588,
-          "title": "Alienwares QD OLED-skärm får syskon med lägre prislapp",
-          "imageUrl": "https://www.sweclockers.com/artikel/34997/og-image"
         }
       ]
     },
@@ -14902,6 +14927,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/13/lockheed_martin_ayar_labs/",
+          "author": null,
+          "description": "<h4>Let the battle against latency begin</h4> <p>Military contractor Lockheed Martin this week announced plans to integrate Ayar Lab’s optical input tech into future defense platforms.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/13/lockheed_martin_ayar_labs/",
+          "publishedOn": "2022-10-13T19:47:11.000Z",
+          "wordCount": 1301,
+          "title": "Lockheed Martin taps silicon photonics tech to build better weapons of war",
+          "imageUrl": "https://regmedia.co.uk/2021/02/24/radar1.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/13/sony_honda_to_collaborate_on/",
           "author": null,
@@ -17331,16 +17366,6 @@
           "wordCount": 1222,
           "title": "HDD Clicker gizmo makes flash sound like spinning rust",
           "imageUrl": "https://regmedia.co.uk/2016/08/24/pc_983465356.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/30/citrix_xen/",
-          "author": null,
-          "description": "<h4>How to win friends and admit how you lost them earlier?</h4> <p><strong>Open Source Summit</strong>  What's the difference between the Citrix Hypervisor and Xen? Well, one has quite a big crowd of upset current and former community members.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/30/citrix_xen/",
-          "publishedOn": "2022-09-30T08:30:11.000Z",
-          "wordCount": 1678,
-          "title": "How Citrix dropped the ball on Xen ... according to Citrix",
-          "imageUrl": "https://regmedia.co.uk/2021/04/13/shutterstock_facepalm_duo.jpg"
         }
       ]
     }
