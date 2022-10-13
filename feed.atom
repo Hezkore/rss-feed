@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-13T10:30:00.247Z</updated>
+    <updated>2022-10-13T11:23:58.612Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Elden Ring is finally separating PvP balance from PvE]]></title>
+        <id>https://www.vg247.com/elden-ring-patch-107-separate-pvp-balance</id>
+        <link href="https://www.vg247.com/elden-ring-patch-107-separate-pvp-balance"/>
+        <updated>2022-10-13T11:20:10.000Z</updated>
+        <summary type="html"><![CDATA[FromSoftware rolled out a big new update for Elden Ring following server maintenance. This is the game's first patch since August, and it arrived earlier this morning on all platforms.
+Update 1.07's biggest new addition is separating PvP balance from single-player and co-op. In other words, scaling for weapons, skills, spells etc. will now have different values in PvP in order to better balance the experience.
+Patch 1.07 heralds the start of this approach to balance, and it's the one FromSoft will be relying on moving forward. As a result, today's update introduces several balance tweaks that only affect PvP gameplay. Stamina attack power has been increased for all attacks against guarding players, except when using long-ranged weapons.
+ Read more]]></summary>
+        <author>
+            <name>Sherif Saed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam finally has an updated mobile app for iOS and Android]]></title>
+        <id>https://www.rockpapershotgun.com/steam-finally-has-an-updated-mobile-app-for-ios-and-android</id>
+        <link href="https://www.rockpapershotgun.com/steam-finally-has-an-updated-mobile-app-for-ios-and-android"/>
+        <updated>2022-10-13T11:02:47.000Z</updated>
+        <summary type="html"><![CDATA[There’s an updated Steam app for phones and tablets, everyone. That’s a sentence I thought I’d never type. Describing it as “completely revamped”, the Android and iOS apps are essentially new and add a way to sign into your account on PC using a QR code, remote downloads from your Library, and customisable tabs. If you really enjoy looking at videos of swiping around on phones then you can watch Valve’s below.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>CJ Wheeler</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Canonical displays controversial 'ad' in shell update prog]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/13/canonical_ubuntu_ad/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/13/canonical_ubuntu_ad/"/>
+        <updated>2022-10-13T10:44:11.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Ubuntu once again courts controversy, but alternative commands are available</h4> <p>Some Ubuntu users are not happy at receiving a promotional message at the command line when upgrading their systems.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EA accidentally leaks FIFA 23's World Cup mode]]></title>
+        <id>https://www.eurogamer.net/ea-accidentally-leaks-fifa-23s-world-cup-mode</id>
+        <link href="https://www.eurogamer.net/ea-accidentally-leaks-fifa-23s-world-cup-mode"/>
+        <updated>2022-10-13T10:28:12.000Z</updated>
+        <summary type="html"><![CDATA[Electronic Arts has accidentally allowed players a peek at FIFA 23's World Cup mode early on PS5. 
+
+
+The mode was not due to be released until later this year, ahead of the 2022 World Cup in Qatar which begins in  November. 
+
+
+FIFA 23 owners on PlayStation 5 have posted screenshots of the mode on social media, which show four different sub-modes: FIFA World Cup Live, FIFA World Cup Kick-Off, Online Tournament and FIFA World Cup 2022.
+ 
+Read more]]></summary>
+        <author>
+            <name>Ishraq Subhan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Starfield has more talking than Skyrim and Fallout 4 combined]]></title>
         <id>https://www.rockpapershotgun.com/starfield-has-more-talking-than-skyrim-and-fallout-4-combined</id>
@@ -152,6 +206,16 @@ Read more]]></summary>
         <summary type="html"><![CDATA[AMD has been on a streak recently of improving their open-source video acceleration capabilities for the RadeonSI Gallium3D driver...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel uppges säga upp tusentals anställda]]></title>
+        <id>https://www.sweclockers.com/artikel/35064</id>
+        <link href="https://www.sweclockers.com/artikel/35064-intel-uppges-saga-upp-tusentals-anstallda"/>
+        <updated>2022-10-13T08:39:51.000Z</updated>
+        <summary type="html"><![CDATA[Intel finner sig i svåra tider med förlust och rekordlåg försäljning. För att sänka kostnaderna kan en våg av uppsägningar vänta.]]></summary>
+        <author>
+            <name>SweClockers</name>
         </author>
     </entry>
     <entry>
@@ -18630,55 +18694,6 @@ You find out more by visiting the project homepage.]]></summary>
         <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/quantified_self.png" title="It's made me way more excited about ferris wheels, subways, car washes, waterslides, and store entrances that have double doors with a divider in the middle." alt="It's made me way more excited about ferris wheels, subways, car washes, waterslides, and store entrances that have double doors with a divider in the middle." />]]></summary>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FDA’s rotten definition of “healthy” food is finally getting tossed]]></title>
-        <id>https://arstechnica.com/?p=1885776</id>
-        <link href="https://arstechnica.com/?p=1885776"/>
-        <updated>2022-09-29T23:16:59.000Z</updated>
-        <summary type="html"><![CDATA[For now, salmon and nuts are not eligible for "healthy" label, but sugary cereals are.]]></summary>
-        <author>
-            <name>Beth Mole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://shencomix.tumblr.com/post/696771213009321984</id>
-        <link href="https://shencomix.tumblr.com/post/696771213009321984"/>
-        <updated>2022-09-29T23:06:50.000Z</updated>
-        <author>
-            <name>Shen Comix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How CIA betrayed informants with shoddy front websites built for covert comms]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/29/us_spy_catastrophe_reported_in/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/29/us_spy_catastrophe_reported_in/"/>
-        <updated>2022-09-29T23:03:55.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Top tip, don't give your secret login box the HTML form type 'password'</h4> <p>For almost a decade, the US Central Intelligence Agency communicated with informants abroad using a network of websites with hidden communications capabilities.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NASA and SpaceX are studying a Hubble telescope boost, adding 15 to 20 years of life]]></title>
-        <id>https://arstechnica.com/?p=1885669</id>
-        <link href="https://arstechnica.com/?p=1885669"/>
-        <updated>2022-09-29T22:45:39.000Z</updated>
-        <summary type="html"><![CDATA["It's doing great science as we speak."]]></summary>
-        <author>
-            <name>Eric Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This underwater camera operates wirelessly without batteries]]></title>
-        <id>https://arstechnica.com/?p=1885419</id>
-        <link href="https://arstechnica.com/?p=1885419"/>
-        <updated>2022-09-29T22:30:40.000Z</updated>
-        <summary type="html"><![CDATA[New ultralow-power imaging method employs underwater backscatter imaging.]]></summary>
-        <author>
-            <name>Jennifer Ouellette</name>
         </author>
     </entry>
 </feed>
