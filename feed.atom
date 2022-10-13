@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-13T07:37:24.247Z</updated>
+    <updated>2022-10-13T08:35:28.260Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Financial watchdogs want to know what traders are talking about on WhatsApp]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/13/whatsapp_trader_comms_regulation/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/13/whatsapp_trader_comms_regulation/"/>
+        <updated>2022-10-13T08:30:05.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Keen interest in messaging platform follows $2 billion fines in US</h4> <p>Authorities in the US and the UK are taking a keen interest in the contents of WhatsApp messages among bank employees and their associates in the financial services industry.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FIFA 23 had series' largest ever number of players at launch]]></title>
+        <id>https://www.eurogamer.net/fifa-23-had-series-largest-ever-number-of-players-at-launch</id>
+        <link href="https://www.eurogamer.net/fifa-23-had-series-largest-ever-number-of-players-at-launch"/>
+        <updated>2022-10-13T08:26:14.000Z</updated>
+        <summary type="html"><![CDATA[EA has triumphantly termed the recently-released FIFA 23 as "record-breaking" - for hitting 10.3 million players in its first week, and having the "biggest launch period in EA Sports FIFA franchise history".
+
+
+FIFA 23 is, of course, also the last EA Sports FIFA franchise release in history - with the series set to transition to EA Sports FC from next year. 
+
+
+Signs were good that FIFA 23 had performed well at launch this year. Launched on 30th September, the game's first week of UK boxed game sales slightly beat those of FIFA 22 - despite the overall trend of declining physical game sales in favour of digital.
+ 
+Read more]]></summary>
+        <author>
+            <name>Tom Phillips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LoongArch Picks Up New CPU Capabilities With Linux 6.1]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-LoongArch</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-LoongArch"/>
+        <updated>2022-10-13T08:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While initial LoongArch CPU support merged in Linux 5.19, it was still in an immature state and since then missing features and functionality continue to be ironed out. With Linux 6.0 came LoongArch PCI support and other changes while for Linux 6.1 come additional features for this Chinese CPU architecture derived from MIPS64 and some elements of RISC-V...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Torchlight: Infinites öppna betatest/early access är igång]]></title>
+        <id>https://www.fz.se/artikel/291771</id>
+        <link href="https://www.fz.se/artikel/291771-torchlight-infinites-oppna-betatest-early-access-ar-igang"/>
+        <updated>2022-10-13T07:55:00.000Z</updated>
+        <summary type="html"><![CDATA[Och reaktionerna är blandade.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Scanning phones to detect child abuse evidence is harmful, 'magical' thinking]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/13/clientside_scanning_csam_anderson/</id>
@@ -18561,96 +18609,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Modern game streaming + retro game emulation + Switch-like design = success?]]></summary>
         <author>
             <name>Kyle Orland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scientists, why not simply invent a working fusion plant using $50m from Uncle Sam]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/29/fusion_program_doe/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/29/fusion_program_doe/"/>
-        <updated>2022-09-29T20:26:15.000Z</updated>
-        <summary type="html"><![CDATA[<h4>You even have until the end of the 2030s to get it done</h4> <p>The US Department of Energy has announced plans to award up to $50 million in funds to private businesses to develop a working fusion pilot plant (FPP) by the 2030s. …</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Room-temperature superconducting claim is retracted]]></title>
-        <id>https://arstechnica.com/?p=1885625</id>
-        <link href="https://arstechnica.com/?p=1885625"/>
-        <updated>2022-09-29T20:22:43.000Z</updated>
-        <summary type="html"><![CDATA[The problem appears to be some data that's not being shared.]]></summary>
-        <author>
-            <name>John Timmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Rearchitects OpenGL Driver for a 72% Performance Uplift]]></title>
-        <id>e6YcwXqbAY7PF9TybXVHpS</id>
-        <link href="https://www.tomshardware.com/news/amd-rearchitects-opengl-driver-for-a-72-performance-uplift"/>
-        <updated>2022-09-29T20:10:04.000Z</updated>
-        <summary type="html"><![CDATA[AMD's new Radeon Pro driver makes Radeon Pro W6800 faster than Nvidia's RTX A5000.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Foxhole's massively multiplayer war has now left early access]]></title>
-        <id>https://www.rockpapershotgun.com/foxholes-massively-multiplayer-war-has-now-left-early-access</id>
-        <link href="https://www.rockpapershotgun.com/foxholes-massively-multiplayer-war-has-now-left-early-access"/>
-        <updated>2022-09-29T20:07:45.000Z</updated>
-        <summary type="html"><![CDATA[Massively multiplayer games rapidly calcified around a specific set of design ideas (eg. World Of Warcraft) and so many other attempts to jam a load of players onto a single server quickly disappeared (eg. most games by Improbable or Amazon). 
-
-Foxhole is one of the few to do it successfully: a single, massive World War 2 battlefield in which players don't just fight at the frontlines, but form supply routes, build defenses, and otherwise take the reigns of the logistics of war. After five years in early access, Foxhole released version 1.0 today.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Atlassian smartens up security, licensing admin tools]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/29/atlassian_together/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/29/atlassian_together/"/>
-        <updated>2022-09-29T20:01:10.000Z</updated>
-        <summary type="html"><![CDATA[<h4>And bundles its best bits at bargain price in case someone wants you to work their way for a while</h4> <p>Atlassian is plugging away at its version of the future of work with an eye on the needs of the admins who tend its software.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FCC OKs satellite de-orbit rule despite possible conflict with NASA guidelines]]></title>
-        <id>https://arstechnica.com/?p=1885651</id>
-        <link href="https://arstechnica.com/?p=1885651"/>
-        <updated>2022-09-29T19:55:10.000Z</updated>
-        <summary type="html"><![CDATA[5-year satellite de-orbit rule passes despite lawmakers questioning FCC authority.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vampire Survivors will hit 1.0 on October 20th, move to new engine by end of year]]></title>
-        <id>https://www.rockpapershotgun.com/vampire-survivors-will-hit-10-on-october-20th-move-to-new-engine-by-end-of-year</id>
-        <link href="https://www.rockpapershotgun.com/vampire-survivors-will-hit-10-on-october-20th-move-to-new-engine-by-end-of-year"/>
-        <updated>2022-09-29T19:40:47.000Z</updated>
-        <summary type="html"><![CDATA[Vampire Survivors will hit version 1.0 on October 20th. Developer poncle announced the release date today as planned, but didn't say what new features the full release would contain so that its additions remain a surprise.
-
-Although reaching 1.0 means leaving early access, it's also not the end of Vampire Survivors development. Work on porting the game to a new engine continues with the aim to "release it by the end of the year."
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Datum spikat för World of Warcraft: Dragonflight]]></title>
-        <id>https://www.fz.se/artikel/291631</id>
-        <link href="https://www.fz.se/artikel/291631-datum-spikat-for-world-of-warcraft-dragonflight"/>
-        <updated>2022-09-29T19:40:00.000Z</updated>
-        <summary type="html"><![CDATA[Expansion nummer nio släpps månad elva.]]></summary>
-        <author>
-            <name>FZ.se</name>
         </author>
     </entry>
 </feed>
