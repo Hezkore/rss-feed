@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-14T02:45:49.262Z</updated>
+    <updated>2022-10-14T04:56:06.145Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[13 Independent Linux Distros That are Built From Scratch]]></title>
+        <id>https://itsfoss.com/?p=101485</id>
+        <link href="https://itsfoss.com/independent-linux-distros/"/>
+        <updated>2022-10-14T04:15:12.000Z</updated>
+        <summary type="html"><![CDATA[Unique and independent Linux distributions that are totally built from scratch. Sounds interesting? Check out the list here.]]></summary>
+        <author>
+            <name>sreenath</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fujitsu and Japanese Uni propose 'endorsement layer' to make the internet trustable]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/14/trustable_internet_endorsement_layer/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/14/trustable_internet_endorsement_layer/"/>
+        <updated>2022-10-14T04:03:05.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Hope to combat misinformation with graph of observations that prove what you’re reading is reliable</h4> <p>Fujitsu and Japan's Keio University have proposed adding an "endorsement layer" to the internet, to verify information and prevent the flow of fake news and disinformation.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Humankinds konsolsläpp försenas på obestämd tid]]></title>
+        <id>https://www.fz.se/artikel/291780</id>
+        <link href="https://www.fz.se/artikel/291780-humankinds-konsolslapp-forsenas-pa-obestamd-tid"/>
+        <updated>2022-10-14T03:26:35.000Z</updated>
+        <summary type="html"><![CDATA[De har stött på "oväntade problem".]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spider-Man: Miles Morales släpps till pc den 18 november]]></title>
+        <id>https://www.fz.se/artikel/291779</id>
+        <link href="https://www.fz.se/artikel/291779-spider-man-miles-morales-slapps-till-pc-den-18-november"/>
+        <updated>2022-10-14T03:12:07.000Z</updated>
+        <summary type="html"><![CDATA[Och stödjer allt från ultrawide-format till DLSS 3.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[India set to extend deadline for absurd infosec reporting requirements]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/14/india_cert_in_reporting_deadline_extension/</id>
@@ -18569,359 +18609,6 @@ Along with the addition of the new Pokemon evolution, you can also look forward 
         <summary type="html"><![CDATA[Micro Center gives away free 32GB DDR5-5600 memory kit with a purchase of a Ryzen 7 or Ryzen 9 7000-series.]]></summary>
         <author>
             <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome’s new ad-blocker-limiting extension platform will launch in 2023]]></title>
-        <id>https://arstechnica.com/?p=1885554</id>
-        <link href="https://arstechnica.com/?p=1885554"/>
-        <updated>2022-09-30T16:55:17.000Z</updated>
-        <summary type="html"><![CDATA[If Google really wants more secure extensions, why not just police the store better?]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Åh, Kanada! Ny World Update till Microsoft Flight Simulator]]></title>
-        <id>https://www.fz.se/artikel/291646</id>
-        <link href="https://www.fz.se/artikel/291646-ah-kanada-ny-world-update-till-microsoft-flight-simulator"/>
-        <updated>2022-09-30T16:50:00.000Z</updated>
-        <summary type="html"><![CDATA[Har släppts lös bland molnen.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deepfake Bruce Willis may be the next Hollywood star, and he’s OK with that]]></title>
-        <id>https://arstechnica.com/?p=1885857</id>
-        <link href="https://arstechnica.com/?p=1885857"/>
-        <updated>2022-09-30T16:35:13.000Z</updated>
-        <summary type="html"><![CDATA[Tech will allow Willis' doppelgänger to continue working despite language disorder diagnosis.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.1 Change Aims To Auto-Detect Logitech HID++ High Resolution Scrolling Support]]></title>
-        <id>https://www.phoronix.com/news/Linux-61-Logitech-Hi-Res-Scroll</id>
-        <link href="https://www.phoronix.com/news/Linux-61-Logitech-Hi-Res-Scroll"/>
-        <updated>2022-09-30T16:30:15.000Z</updated>
-        <summary type="html"><![CDATA[Currently Linux's Logitech HID++ driver "hid-logitech-hidpp" relies on a static list of device quirks for indicating which Logitech mice support high resolution scrolling. With the upcoming Linux 6.1 kernel, the plan is to change that list of devices/quirks and to automatically determine if a device supports high resolution scrolling...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon lets you rent Ubuntu Pro. Yes, it's Linux on the virtual desktop]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/30/ubuntu_amazon_virtual_desktop/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/30/ubuntu_amazon_virtual_desktop/"/>
-        <updated>2022-09-30T16:30:05.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Insert your Year of Linux joke here, we dare you</h4> <p>Amazon WorkSpaces, the company's persistent desktop virtualization product, now <a href="https://aws.amazon.com/blogs/aws/amazon-workspaces-introduces-ubuntu-desktops/" rel="nofollow">offers</a> Ubuntu as an option.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASRock DDR5 Installation Stickers Blamed for Motherboard RMAs]]></title>
-        <id>mRNHe2U3yqQjsKmhN9ppBd</id>
-        <link href="https://www.tomshardware.com/news/asrock-ddr5-sticker-mayhem"/>
-        <updated>2022-09-30T16:17:27.000Z</updated>
-        <summary type="html"><![CDATA[Victims of ASRock's ultra sticky DDR5 memory installation stickers, are officially allowed to request a exchange if the peel is unsuccessful, and leaves adhesive on the DIMM modules.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Night Call devs are swapping taxis for tech-fuelled gas stations in their new narrative management game]]></title>
-        <id>https://www.rockpapershotgun.com/the-night-call-devs-are-swapping-taxis-for-tech-fuelled-gas-stations-in-their-new-narrative-management-game</id>
-        <link href="https://www.rockpapershotgun.com/the-night-call-devs-are-swapping-taxis-for-tech-fuelled-gas-stations-in-their-new-narrative-management-game"/>
-        <updated>2022-09-30T16:11:39.000Z</updated>
-        <summary type="html"><![CDATA[Petrol stations might not be the most natural setting for pondering life's biggest questions, but the ones in Flat Eye, the next game from the makers of detective taxi-me-do Night Call, aren't your ordinary rest stops. As well as a convenient place to relieve yourself and top up on snacks, these futuristic service stations also house cosmetic surgery bots, operation tables, teleportation booths and more - and they're all overseen by a powerful AI trying to find the best possible future for the human race. As the station's head clerk, you'll debate the ethics of eternal youth and end of life care, while also making sure your station has enough power, stocked shelves and a happy customer base. It's certainly an intriguing combo compared to other management games out there right now, so I sat down with director Laurent Victorino and writer Antony Jauneaud to find out more.
-Read more]]></summary>
-        <author>
-            <name>Katharine Castle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First OnLive, now Stadia: Cloud Gaming has been rejected by the market twice – it’s time to let it go]]></title>
-        <id>https://www.vg247.com/first-onlive-now-stadia-cloud-gaming-has-been-rejected-by-the-market-twice-its-time-to-let-it-go</id>
-        <link href="https://www.vg247.com/first-onlive-now-stadia-cloud-gaming-has-been-rejected-by-the-market-twice-its-time-to-let-it-go"/>
-        <updated>2022-09-30T16:11:30.000Z</updated>
-        <summary type="html"><![CDATA[It’s an odd full-circle moment for me that the least surprising bombshell news of all time – Stadia’s unceremonious cancellation – lands just a week out from EGX. The Eurogamer Expo (as it was still called back then) of 2011 was more or less the start of my career in games coverage, and it started when I managed to get an interview with OnLive’s Senior Vice President John Spinale, a smooth-talking American businessman of the kind I had up to that point only encountered via the medium of television. And always as a villain, even in shows produced by smooth-talking American businessmen.
-
-
-Spinale, though, was extremely nice. He could tell I’d never interviewed anyone before, and knew how to set people at ease. Within seconds, it felt like a normal chat with someone you met down the pub. The sheer gulf of wealth disparity between us didn’t seem to matter. John was excited to tell me about OnLive, this strange new concept that was going to disrupt the gaming business, and I was excited to hear about it.
-
-
-It was, and is, a brilliant concept, and the basic pitch for OnLive pretty much applies to the Stadia platform which died a decade later: imagine never having to buy new hardware. That was the first thing that appealed to me, a potless call centre worker at the time, who saw the looming new generation of consoles as less of an exciting new future and more of a £400 tax on joy.
- 
-Read more]]></summary>
-        <author>
-            <name>Jim Trinca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Was Google Stadia always destined for failure?]]></title>
-        <id>https://www.eurogamer.net/eurogamer-newscast-google-stadia-destined-for-failure</id>
-        <link href="https://www.eurogamer.net/eurogamer-newscast-google-stadia-destined-for-failure"/>
-        <updated>2022-09-30T16:08:10.000Z</updated>
-        <summary type="html"><![CDATA[This week on the Eurogamer Newscast we're discussing the failure of Stadia, and why Google's cloud gaming gamble struggled from the start.
-
-
-The announcement of Stadia's demise came as a shock to some - including many developers with titles only weeks from launch - yet still feels like it was on the cards for some time. After a rocky launch and the closure of Google's internal game development studios, what future did Stadia have left? Eurogamer editor-in-chief Martin Robinson weighed in earlier today with his thoughts.
-
-Could Stadia have been a success? What does this all mean for game preservation? And if Google failed, with all of its billions, what future does cloud gaming have elsewhere? Tom Phillips, Ed Nightingale, and Liv Ngan share their thoughts.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Savor the sinister delights of del Toro’s Cabinet of Curiosities trailer]]></title>
-        <id>https://arstechnica.com/?p=1885832</id>
-        <link href="https://arstechnica.com/?p=1885832"/>
-        <updated>2022-09-30T16:07:32.000Z</updated>
-        <summary type="html"><![CDATA["Picture your mind as a cabinet where you lock up your darkest thoughts..."]]></summary>
-        <author>
-            <name>Jennifer Ouellette</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ultimate Audio Bang #25: was Modern Warfare 2's multiplayer beta any good?]]></title>
-        <id>https://www.rockpapershotgun.com/ultimate-audio-bang-podcast-was-modern-warfare-2-beta-any-good</id>
-        <link href="https://www.rockpapershotgun.com/ultimate-audio-bang-podcast-was-modern-warfare-2-beta-any-good"/>
-        <updated>2022-09-30T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[On this week's episode of the Ultimate Audio Bang, we dig deep into Call Of Duty: Modern Warfare 2's recent multiplayer beta weekends and discuss whether Warzone needs a total revamp, how Warzone impacts the multiplayer side of things, and whether Warzone's upcoming DMZ mode may be Call Of Duty's big gambit.
-Read more]]></summary>
-        <author>
-            <name>Ed Thorn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fredagspanelen 269: Ryzande, sickan!]]></title>
-        <id>https://www.sweclockers.com/artikel/34999</id>
-        <link href="https://www.sweclockers.com/artikel/34999-fredagspanelen-269-ryzande-sickan"/>
-        <updated>2022-09-30T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Calle och André blickar tillbaka på veckan som gått och sammanfattar nyheterna. Snack om Ryzen-processorer, RTX 4090 och dumheter på kontoret utlovas.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubisoft reveal co-op shooter Project U exists, with playtests planned]]></title>
-        <id>https://www.rockpapershotgun.com/ubisoft-reveal-co-op-shooter-project-u-exists-with-playtests-planned</id>
-        <link href="https://www.rockpapershotgun.com/ubisoft-reveal-co-op-shooter-project-u-exists-with-playtests-planned"/>
-        <updated>2022-09-30T15:55:24.000Z</updated>
-        <summary type="html"><![CDATA[A mysterious new session-based co-operative shooter has been announced by Ubisoft, codenamed Project U. There aren’t many details to go on just yet, but the game is in the early stages of development and will hold closed playtests on PC in Western Europe. If you’re of an inquiring mind, and like hanging out with mates in shooter lobbies, then all you can do for the moment is register your interest.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Acer’s First GPU is an Intel Arc A770 With Two Different Types of Fans]]></title>
-        <id>vYosHnaFGYenkhiuayNKke</id>
-        <link href="https://www.tomshardware.com/news/acer-intel-a770-gpu"/>
-        <updated>2022-09-30T15:53:01.000Z</updated>
-        <summary type="html"><![CDATA[Acer has unexpectedly entered the graphics card market, announcing a brand new GPU under its Predator gaming brand known as the BiFrost. Powered by an Intel A770 GPU.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[World of Warcraft: Dragonflight expansion goes live on November 28]]></title>
-        <id>https://www.vg247.com/world-of-warcraft-dragonflight-expansion-goes-live-on-november-28</id>
-        <link href="https://www.vg247.com/world-of-warcraft-dragonflight-expansion-goes-live-on-november-28"/>
-        <updated>2022-09-30T15:43:41.000Z</updated>
-        <summary type="html"><![CDATA[The ancestral home of dragonkind is calling you, World of Warcraft players, and soon you shall travel to the Dragon Isles to uncover its long-forgotten secrets.
-So, gather your friends and allies and make ready to heed the call of the dragons because the World of Warcraft: Dragonflight expansion goes live on November 28.
-The Dragonflight expansion takes you to the Dragon Isles, where you will explore four new zones themed around the dragon aspects: the Waking Shores, the Ohn’ahran Plains, the mountainous Azure Span, and the Thaldraszus. 
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google still hasn't told developers that Stadia is shutting down]]></title>
-        <id>https://www.rockpapershotgun.com/google-still-hasnt-told-developers-that-stadia-is-shutting-down</id>
-        <link href="https://www.rockpapershotgun.com/google-still-hasnt-told-developers-that-stadia-is-shutting-down"/>
-        <updated>2022-09-30T15:33:36.000Z</updated>
-        <summary type="html"><![CDATA[Developers working on games for Stadia have expressed surprise and frustration that Google still haven't made contact with them, almost 24 hours after the search giant announced they were shutting down their cloud gaming service yesterday afternoon. Many of the devs I spoke with have had no communication from Google at all since the announcement, with only one saying the company had been in touch. It's not just devs who have been left in the dark, though. Through a leaked internal email sent to Google’s Stadia team, even Google's own staff weren’t briefed until around the same time the public were made aware of the forthcoming shutdown.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Phil Spencer och Xbox undersöker möjligheten att stänga av Quick Resume]]></title>
-        <id>https://www.fz.se/artikel/291645</id>
-        <link href="https://www.fz.se/artikel/291645-phil-spencer-och-xbox-undersoker-mojligheten-att-stanga-av-quick-resume"/>
-        <updated>2022-09-30T15:33:00.000Z</updated>
-        <summary type="html"><![CDATA[Det smidiga verktyget kan ställa till problem.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The best Mac desktop clients for Gmail aficionados]]></title>
-        <id>https://arstechnica.com/?p=1878321</id>
-        <link href="https://arstechnica.com/?p=1878321"/>
-        <updated>2022-09-30T15:32:58.000Z</updated>
-        <summary type="html"><![CDATA[Gmail, the service? Not bad. Gmail, the website? Eh. Time for a real client.]]></summary>
-        <author>
-            <name>Kevin Purdy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitcoin worse for the climate than beef, say economists]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/30/bitcoin_climate_impact/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/30/bitcoin_climate_impact/"/>
-        <updated>2022-09-30T15:30:11.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Researchers mince 'digital gold' claims with study showing cryptocurrency's impact</h4> <p>Far from being the "digital gold" some claim, Bitcoin's relative climate change impact is greater than the beef industry, and over seven times more than actual gold mining.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's a fan trailer for a Super Mario "remake" with Chris Pratt]]></title>
-        <id>https://www.eurogamer.net/heres-a-fan-trailer-for-a-super-mario-remake-with-chris-pratt</id>
-        <link href="https://www.eurogamer.net/heres-a-fan-trailer-for-a-super-mario-remake-with-chris-pratt"/>
-        <updated>2022-09-30T15:25:51.000Z</updated>
-        <summary type="html"><![CDATA[A lifelong Nintendo fan has decided to make a realistic Super Mario Bros remake, and posted a movie-style trailer on YouTube to document their most recent update.
-
-The YouTuber, who has uploaded their videos to the channel Re-Imagined Games, started work on the remake over two months ago.
-
-In order to create the game, they've had to learn Unreal Engine 5 with zero experience in video game development.
- 
-Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mystery hackers are “hyperjacking” targets for insidious spying]]></title>
-        <id>https://arstechnica.com/?p=1885873</id>
-        <link href="https://arstechnica.com/?p=1885873"/>
-        <updated>2022-09-30T15:22:12.000Z</updated>
-        <summary type="html"><![CDATA[After decades of warnings, group figured out how to hijack virtualization software.]]></summary>
-        <author>
-            <name>WIRED</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OnRush losing online features in November]]></title>
-        <id>https://www.eurogamer.net/onrush-losing-online-features-in-november</id>
-        <link href="https://www.eurogamer.net/onrush-losing-online-features-in-november"/>
-        <updated>2022-09-30T15:13:41.000Z</updated>
-        <summary type="html"><![CDATA[Racing game OnRush will lose its online features on 30th November.
-
-
-EA's Online Services Shutdown page has been updated with the addition.
-
-
-"Thanks to everyone who has supported our game - it's been a RUSH," it reads. "With player numbers in online modes dropping to low levels, we will be shutting down the servers from 30th November 2022. For OnRush fans who want to continue playing, offline modes will continue to be available."
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Callisto Protocol’s AI is more interested in scaring you than killing you]]></title>
-        <id>https://www.vg247.com/the-callisto-protocols-ai-scaring-killing</id>
-        <link href="https://www.vg247.com/the-callisto-protocols-ai-scaring-killing"/>
-        <updated>2022-09-30T15:04:43.000Z</updated>
-        <summary type="html"><![CDATA[The Callisto Protocol gets constantly compared to Dead Space – and it makes sense, really. A lot of the developers are the same, a lot of the core ideas are the same, and it even looks quite similar, really. But this new venture from young developer Striking Distance is doing more with its horror than Dead Space could back in 2008; we’re 14 years down the line, now, and technology has come a long way. 
-
-Striking Distance really cares a lot about horror. The staff have been ruthless in studying the psychology of fear, and have boiled down the tenets of human dread to how we respond to atmosphere, tension, brutality, helplessness, and humanity. Taking each of these five strands and tinkering with them individually, Striking Distance reckons it’s made one of the scariest games ever made – no matter what your own personal tolerance for horror is.
-Why is the developer so confident? A lot of it comes down to its tech. Mark James, chief technical officer at the studio, tells me in an interview that new-gen games can do things that just weren’t possible, even a few years ago. Whilst “50% of horror is in audio,” James assures me that a large portion of The Callisto Protocol’s dread comes from its, frankly, sadistic AI.
- 
-Read more]]></summary>
-        <author>
-            <name>Dom Peppiatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google reportedly turned down a Stadia-exclusive Death Stranding successor]]></title>
-        <id>https://www.eurogamer.net/google-reportedly-turned-down-a-stadia-exclusive-death-stranding-successor</id>
-        <link href="https://www.eurogamer.net/google-reportedly-turned-down-a-stadia-exclusive-death-stranding-successor"/>
-        <updated>2022-09-30T15:00:44.000Z</updated>
-        <summary type="html"><![CDATA[Google reportedly turned down a Stadia exclusive follow-up to Hideo Kojima's Death Stranding.
-
-
-According to a new report from 9to5google, the project received initial approval but as it was intended to be a strictly single-player experience (instead of the asynchronous multiplayer in Death Stranding), the Kojima collaboration was cancelled as Google believed there was no longer a market for solo games.
-
-
-
-Despite reaching the early stages of development, the project was reportedly cancelled by Stadia's general manager Phil Harrison in mid 2020 following the first mockups.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Sends Last Minute Fixes To Linux 6.0 For RDNA3 Graphics Cards]]></title>
-        <id>https://www.phoronix.com/news/AMDGPU-Last-Minute-Linux-6.0</id>
-        <link href="https://www.phoronix.com/news/AMDGPU-Last-Minute-Linux-6.0"/>
-        <updated>2022-09-30T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Linux 6.0 should be released as stable on Sunday unless Linus Torvalds has last minute reservations and decides to extend the cycle by an extra week. AMD has sent in a last minute set of patches for their AMDGPU kernel driver with Linux 6.0 for dealing with what appear to be the upcoming RDNA3 graphics cards...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Det här spelar FZ i helgen - vad spelar du?]]></title>
-        <id>https://www.fz.se/artikel/291639</id>
-        <link href="https://www.fz.se/artikel/291639-det-har-spelar-fz-i-helgen-vad-spelar-du"/>
-        <updated>2022-09-30T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Det är #spelhelg igen!]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meta Quest 3 leak includes design files and specs]]></title>
-        <id>https://www.eurogamer.net/meta-quest-3-leak-includes-design-files-and-specs</id>
-        <link href="https://www.eurogamer.net/meta-quest-3-leak-includes-design-files-and-specs"/>
-        <updated>2022-09-30T14:59:02.000Z</updated>
-        <summary type="html"><![CDATA[Leaked files containing information on Meta Quest 3 have surfaced online.
-
-The leak comes from YouTuber Brad Lynch, known as SadlyItsBradley, who posts videos on VR and AR.  
-
-The headset which Lynch detailed in his video "This is the Meta Quest 3" is a different headset to the Meta Quest Pro that was found in a hotel and unboxed earlier this month.
- 
-Read more]]></summary>
-        <author>
-            <name>Liv Ngan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Arc A770 and A750 Limited Edition Unboxed]]></title>
-        <id>2mSxqeWDY58EbmA7JtNGm6</id>
-        <link href="https://www.tomshardware.com/news/intel-arc-a770-a750-unboxing"/>
-        <updated>2022-09-30T14:58:55.000Z</updated>
-        <summary type="html"><![CDATA[The Intel Arc A770 and A750 review kit has arrived, with the launch date set for October 12. Here's our unboxing of the cards, which actually have a pretty cool shipping box.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft Flight Simulator World Update 11 focuses on Canada]]></title>
-        <id>https://www.vg247.com/microsoft-flight-simulator-world-update-11-canada</id>
-        <link href="https://www.vg247.com/microsoft-flight-simulator-world-update-11-canada"/>
-        <updated>2022-09-30T14:49:42.000Z</updated>
-        <summary type="html"><![CDATA[World Update 11 is now available for all Microsoft Flight Simulator players.
-Focusing on Canada, the update provides you with the means to enjoy the diverse country's urban architecture, northern coastlines, tundra, glaciers, and majestic mountains.
-To create the update, the development team processed a large quantity of the latest geospatial data, including digital elevation models, satellite imagery, and aerial photography.
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
         </author>
     </entry>
 </feed>
