@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-14T22:27:19.011Z</updated>
+    <updated>2022-10-14T23:31:00.672Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[US Veterans Affairs extends delay of $10b Oracle Cerner health record system]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/14/dept_of_veterans_affairs_oracle_cerner/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/14/dept_of_veterans_affairs_oracle_cerner/"/>
+        <updated>2022-10-14T23:16:11.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Nothing like medical orders routed into /dev/null</h4> <p>The US Department of Veterans Affairs (VA) this week announced it is delaying pending deployments of the Oracle Cerner electronic health record (EHR) system until June 2023 because of ongoing problems with the system.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wine 7.19 Released With VKD3D 1.5, MPEG-4 Audio Support]]></title>
+        <id>https://www.phoronix.com/news/Wine-7.19-Released</id>
+        <link href="https://www.phoronix.com/news/Wine-7.19-Released"/>
+        <updated>2022-10-14T22:36:41.000Z</updated>
+        <summary type="html"><![CDATA[While the freeze ahead of Wine 8.0 is quickly approaching, Wine 7.19 is out today as the newest development release for this open-source software allowing Windows games and applications to run on Linux and macOS...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia admits mistake, 'unlaunches' 12GB RTX 4080]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/14/nvidia_admits_mistake_unlaunches_12gb/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/14/nvidia_admits_mistake_unlaunches_12gb/"/>
+        <updated>2022-10-14T22:31:11.000Z</updated>
+        <summary type="html"><![CDATA[<h4>The cheapest 40-series card now starts at [checks notes] $1,199</h4> <p>Just weeks after unveiling its 40-series cards powered by the all-new Ada Lovelace architecture, Nvidia said Friday it was pulling the plug on the RTX 4080 12GB before the card had even hit store shelves.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Removing notes from Mendelssohn overture shows plight of humpback whales]]></title>
+        <id>https://arstechnica.com/?p=1890094</id>
+        <link href="https://arstechnica.com/?p=1890094"/>
+        <updated>2022-10-14T22:19:19.000Z</updated>
+        <summary type="html"><![CDATA[Hebrides Redacted is meant to show "how human activities have silenced nature.”]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Qualcomm: Arm lawsuit motivated by greed, 'payback' for opposing Nvidia takeover]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/14/qualcomm_arm_lawsuit_nuvia/</id>
@@ -19881,54 +19921,6 @@ Passwords are just one part of the security toolkit. SSH keys are a seamless and
         <summary type="html"><![CDATA[Det är snabba ryck för google att städa ut efter Stadia.]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open-Source Radeon Vulkan Driver Lands APU Fix For Red Dead Redemption 2]]></title>
-        <id>https://www.phoronix.com/news/RADV-RDR2-APU-Fix</id>
-        <link href="https://www.phoronix.com/news/RADV-RDR2-APU-Fix"/>
-        <updated>2022-10-01T11:20:21.000Z</updated>
-        <summary type="html"><![CDATA[For those with an AMD APU system like the Steam Deck and using the Mesa Radeon Vulkan driver "RADV" and wanting to enjoy the popular game Red Dead Redemption 2, an important fix has been merged for Mesa 22.3...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Helgsnack: Hur sker spelande i framtiden?]]></title>
-        <id>https://www.sweclockers.com/artikel/35003</id>
-        <link href="https://www.sweclockers.com/artikel/35003-helgsnack-hur-sker-spelande-i-framtiden"/>
-        <updated>2022-10-01T11:17:58.000Z</updated>
-        <summary type="html"><![CDATA[Med hårdvarupriser som letar sig uppåt och ett större utbud av strömmade speltjänster väcks funderingar kring hur spel ter sig i framtiden. Vad tror du?]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The era of fast, cheap genome sequencing is here]]></title>
-        <id>https://arstechnica.com/?p=1885880</id>
-        <link href="https://arstechnica.com/?p=1885880"/>
-        <updated>2022-10-01T11:17:17.000Z</updated>
-        <summary type="html"><![CDATA[Illumina just announced a machine that can crack genomes twice as fast.]]></summary>
-        <author>
-            <name>WIRED</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dorfromantik's on Switch and I love it more than ever]]></title>
-        <id>https://www.eurogamer.net/dorfromantiks-on-switch-and-i-love-it-more-than-ever</id>
-        <link href="https://www.eurogamer.net/dorfromantiks-on-switch-and-i-love-it-more-than-ever"/>
-        <updated>2022-10-01T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[In a weird way, I feel ever so slightly sorry for the team of students who made Dorfromantik. Call it Joseph Heller Syndrome: first time out and they've made a classic. Does that leave them confused? Fearful? I suspect not, and this is why I only feel ever so slightly sorry for the team. The bad news is they've made something that will be hard to top, but the good news is that they have made something that will be hard to top. They have brought happiness to hundreds of thousands of us around the world. That kind of feeling sticks around, I think.
-
-
-I play Dorfromantik an awful lot. It's a hex-based tile game about making landscapes. You get a stack of tiles with little rivers, train tracks, forests, villages, grass or farmland on, and you plonk them down. Quests appear to connect certain amounts of a certain type of landscape, and these quests, once fulfilled, give you more tiles. Eventually, though, you run out. Game over. Defeat? Not really, because you've been making a landscape all this time, worrying about the details, and once you're out, the landscape is finished. You get to see the whole thing as if for the first time. You made that!
-
-
-Dorfromantik has just landed on Switch, which explains why I'm doing what I'm doing at the moment. I'm trying to unlock the Midwinter biome. Biomes are unlockable prizes that give the landscape a certain colour scheme or vibe. Midwinter does what you'd expect it to: it makes it look like winter. But more than that it transports me to Christmas, and to the bookshelves where the Christmasest book of all time lives, John Masefield's The Box of Delights. Christmas in the countryside! Dorfromantik is the most Masefield game of all time when you're playing with Midwinter. You hover above the landscape, above the woods and fields and little copses. I feel a bit like Santa.
- 
-Read more]]></summary>
-        <author>
-            <name>Christian Donlan</name>
         </author>
     </entry>
 </feed>

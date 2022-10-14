@@ -3186,16 +3186,6 @@
           "wordCount": 4680,
           "title": "Cyberpunk 2077's revival continues as it becomes one of the most popular games on Steam Deck",
           "imageUrl": "https://assets.reedpopcdn.com/cyberpunk-2077-dataminer-finds-unreleased-quest-descriptions-1618417043855.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/cyberpunk-2077-dataminer-finds-unreleased-quest-descriptions-1618417043855.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/dorfromantiks-on-switch-and-i-love-it-more-than-ever",
-          "author": "Christian Donlan",
-          "description": "In a weird way, I feel ever so slightly sorry for the team of students who made Dorfromantik. Call it Joseph Heller Syndrome: first time out and they've made a classic. Does that leave them confused? Fearful? I suspect not, and this is why I only feel ever so slightly sorry for the team. The bad news is they've made something that will be hard to top, but the good news is that they have made something that will be hard to top. They have brought happiness to hundreds of thousands of us around the world. That kind of feeling sticks around, I think.\r\n\n\r\nI play Dorfromantik an awful lot. It's a hex-based tile game about making landscapes. You get a stack of tiles with little rivers, train tracks, forests, villages, grass or farmland on, and you plonk them down. Quests appear to connect certain amounts of a certain type of landscape, and these quests, once fulfilled, give you more tiles. Eventually, though, you run out. Game over. Defeat? Not really, because you've been making a landscape all this time, worrying about the details, and once you're out, the landscape is finished. You get to see the whole thing as if for the first time. You made that!\r\n\n\r\nDorfromantik has just landed on Switch, which explains why I'm doing what I'm doing at the moment. I'm trying to unlock the Midwinter biome. Biomes are unlockable prizes that give the landscape a certain colour scheme or vibe. Midwinter does what you'd expect it to: it makes it look like winter. But more than that it transports me to Christmas, and to the bookshelves where the Christmasest book of all time lives, John Masefield's The Box of Delights. Christmas in the countryside! Dorfromantik is the most Masefield game of all time when you're playing with Midwinter. You hover above the landscape, above the woods and fields and little copses. I feel a bit like Santa.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/dorfromantiks-on-switch-and-i-love-it-more-than-ever",
-          "publishedOn": "2022-10-01T11:00:00.000Z",
-          "wordCount": 5265,
-          "title": "Dorfromantik's on Switch and I love it more than ever",
-          "imageUrl": "https://assets.reedpopcdn.com/Dorfromantik-1.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Dorfromantik-1.jpg"
         }
       ]
     },
@@ -4712,6 +4702,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Wine-7.19-Released",
+          "author": null,
+          "description": "While the freeze ahead of Wine 8.0 is quickly approaching, Wine 7.19 is out today as the newest development release for this open-source software allowing Windows games and applications to run on Linux and macOS...",
+          "link": "https://www.phoronix.com/news/Wine-7.19-Released",
+          "publishedOn": "2022-10-14T22:36:41.000Z",
+          "wordCount": 1284,
+          "title": "Wine 7.19 Released With VKD3D 1.5, MPEG-4 Audio Support",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Sculpt-OS-22.10",
           "author": null,
           "description": "Genode Labs as the creators of the open-source Genode Operating System Framework have released Sculpt OS 22.10 as the newest version of their general purpose operating system...",
@@ -5939,16 +5939,6 @@
           "publishedOn": "2022-10-01T12:39:00.000Z",
           "wordCount": 1351,
           "title": "AMD Revises Work On GPU Workload Hinting For Linux",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/RADV-RDR2-APU-Fix",
-          "author": null,
-          "description": "For those with an AMD APU system like the Steam Deck and using the Mesa Radeon Vulkan driver \"RADV\" and wanting to enjoy the popular game Red Dead Redemption 2, an important fix has been merged for Mesa 22.3...",
-          "link": "https://www.phoronix.com/news/RADV-RDR2-APU-Fix",
-          "publishedOn": "2022-10-01T11:20:21.000Z",
-          "wordCount": 1344,
-          "title": "Open-Source Radeon Vulkan Driver Lands APU Fix For Red Dead Redemption 2",
           "imageUrl": null
         }
       ]
@@ -10827,6 +10817,16 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1890094",
+          "author": "Jennifer Ouellette",
+          "description": "Hebrides Redacted is meant to show \"how human activities have silenced nature.”",
+          "link": "https://arstechnica.com/?p=1890094",
+          "publishedOn": "2022-10-14T22:19:19.000Z",
+          "wordCount": 1700,
+          "title": "Removing notes from Mendelssohn overture shows plight of humpback whales",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/humpbackLIST-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1890316",
           "author": "Eric Berger",
           "description": "\"Thank you for an incredible ride up to orbit and an incredible ride home.\"",
@@ -12625,16 +12625,6 @@
           "wordCount": 1777,
           "title": "Our ancestors ate a Paleo diet. It had carbs",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/hadza-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1885880",
-          "author": "WIRED",
-          "description": "Illumina just announced a machine that can crack genomes twice as fast.",
-          "link": "https://arstechnica.com/?p=1885880",
-          "publishedOn": "2022-10-01T11:17:17.000Z",
-          "wordCount": 1712,
-          "title": "The era of fast, cheap genome sequencing is here",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/genome1-760x380.jpg"
         }
       ]
     },
@@ -14909,16 +14899,6 @@
           "wordCount": 1697,
           "title": "Acer visar Intel Arc A770 med annorlunda kylarlösning",
           "imageUrl": "https://www.sweclockers.com/artikel/35007/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/35003",
-          "author": null,
-          "description": "Med hårdvarupriser som letar sig uppåt och ett större utbud av strömmade speltjänster väcks funderingar kring hur spel ter sig i framtiden. Vad tror du?",
-          "link": "https://www.sweclockers.com/artikel/35003-helgsnack-hur-sker-spelande-i-framtiden",
-          "publishedOn": "2022-10-01T11:17:58.000Z",
-          "wordCount": 1643,
-          "title": "Helgsnack: Hur sker spelande i framtiden?",
-          "imageUrl": "https://www.sweclockers.com/artikel/35003/og-image"
         }
       ]
     },
@@ -15187,6 +15167,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/14/dept_of_veterans_affairs_oracle_cerner/",
+          "author": null,
+          "description": "<h4>Nothing like medical orders routed into /dev/null</h4> <p>The US Department of Veterans Affairs (VA) this week announced it is delaying pending deployments of the Oracle Cerner electronic health record (EHR) system until June 2023 because of ongoing problems with the system.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/14/dept_of_veterans_affairs_oracle_cerner/",
+          "publishedOn": "2022-10-14T23:16:11.000Z",
+          "wordCount": 1635,
+          "title": "US Veterans Affairs extends delay of $10b Oracle Cerner health record system",
+          "imageUrl": "https://regmedia.co.uk/2017/10/02/oracle_openworld.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/14/nvidia_admits_mistake_unlaunches_12gb/",
+          "author": null,
+          "description": "<h4>The cheapest 40-series card now starts at [checks notes] $1,199</h4> <p>Just weeks after unveiling its 40-series cards powered by the all-new Ada Lovelace architecture, Nvidia said Friday it was pulling the plug on the RTX 4080 12GB before the card had even hit store shelves.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/14/nvidia_admits_mistake_unlaunches_12gb/",
+          "publishedOn": "2022-10-14T22:31:11.000Z",
+          "wordCount": 1286,
+          "title": "Nvidia admits mistake, 'unlaunches' 12GB RTX 4080",
+          "imageUrl": "https://regmedia.co.uk/2015/04/15/nvidia_geforce.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/14/qualcomm_arm_lawsuit_nuvia/",
           "author": null,
