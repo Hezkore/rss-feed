@@ -12,6 +12,26 @@
       "siteUrl": "https://itsfoss.com",
       "articles": [
         {
+          "id": "http://itsfoss.com/?p=32104",
+          "author": "Avimanyu Bandyopadhyay",
+          "description": "Celebrating KDE's Birthday by looking back into some Interesting events from their Glorious Past!",
+          "link": "https://itsfoss.com/kde-facts-trivia/",
+          "publishedOn": "2022-10-14T06:21:05.000Z",
+          "wordCount": 8134,
+          "title": "Celebrating KDE’s 26th Birthday With Some Inspiring Facts From Its Glorious Past!",
+          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/10/kde-birthday.png"
+        },
+        {
+          "id": "https://itsfoss.com/?p=102468",
+          "author": "Ankush Das",
+          "description": "Several open-source WYSIWYG HTML editors. What's your best option? Here, we help you with it.",
+          "link": "https://itsfoss.com/open-source-wysiwyg-editors/",
+          "publishedOn": "2022-10-14T05:00:00.000Z",
+          "wordCount": 8738,
+          "title": "14 Best Open Source WYSIWYG HTML Editors",
+          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/10/best-open-source-wysiwyg-editors.png"
+        },
+        {
           "id": "https://itsfoss.com/?p=101485",
           "author": "sreenath",
           "description": "Unique and independent Linux distributions that are totally built from scratch. Sounds interesting? Check out the list here.",
@@ -679,16 +699,6 @@
           "wordCount": 1156,
           "title": "Linux kernel 6.0 is out now",
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1832642616id21682gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/09/heres-the-top-10-most-played-games-on-steam-deck-for-september-2022/",
-          "author": "Liam Dawe",
-          "description": "As another month comes to a close, Valve has revealed what is currently popular on the Steam Deck based on the most hours played.",
-          "link": "https://www.gamingonlinux.com/2022/09/heres-the-top-10-most-played-games-on-steam-deck-for-september-2022/",
-          "publishedOn": "2022-09-30T19:14:17.000Z",
-          "wordCount": 1140,
-          "title": "Here's the Top 10 Most Played games on Steam Deck for September 2022",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/129101972id21681gol.jpg"
         }
       ]
     },
@@ -11744,6 +11754,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291781",
+          "author": null,
+          "description": "Och siktar nu på early access-släpp tidigt nästa år.",
+          "link": "https://www.fz.se/artikel/291781-haftiga-witchfire-gar-fran-arenastil-till-halvoppen-spelvarld",
+          "publishedOn": "2022-10-14T06:56:00.000Z",
+          "wordCount": 1804,
+          "title": "Häftiga Witchfire går från arenastil till halvöppen spelvärld",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291781"
+        },
+        {
           "id": "https://www.fz.se/artikel/291780",
           "author": null,
           "description": "De har stött på \"oväntade problem\".",
@@ -14127,6 +14147,36 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/14/dji_everest_flight/",
+          "author": null,
+          "description": "<h4>No chance of any peace, not even at 8,900 metres</h4> <p><strong>Video</strong>  Drone maker DJI has claimed a world first by flying one of its Mavic 3 drones around the peak of Mount Everest, capturing some pretty great footage in the process. …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/14/dji_everest_flight/",
+          "publishedOn": "2022-10-14T07:33:14.000Z",
+          "wordCount": 1236,
+          "title": "Now you can't even scale Mount Everest without a drone buzzing overhead",
+          "imageUrl": "https://regmedia.co.uk/2021/05/10/mount_everest_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/14/gdap_deadline_extension/",
+          "author": null,
+          "description": "<h4>Partners may be dragging the chain a little – perhaps you'd like to hurry them up?</h4> <p>Microsoft's campaign to improve the security of its customers and partners – by letting the latter set roles in clients' Active Directory implementations without asking permission – has been extended by four months.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/14/gdap_deadline_extension/",
+          "publishedOn": "2022-10-14T07:03:08.000Z",
+          "wordCount": 1637,
+          "title": "Microsoft extends deadline for partners to improve their clients' security with unauthorised AD tweaks",
+          "imageUrl": "https://regmedia.co.uk/2022/10/14/shutterstock_2023_progress_bar.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/14/on_call/",
+          "author": null,
+          "description": "<h4>The demarcation line between IT and stationery is not electricity, but the line between dumb and nasty clearly starts at staplers</h4> <p><strong>On Call</strong>  The seasons turn, the tides ebb and flow. Just as regularly, each Friday <i>The Register</i> delvers another instalment of On-Call, our reader-contributed tale of another sad constant: IT people being asked to do amazingly dumb things.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/14/on_call/",
+          "publishedOn": "2022-10-14T06:30:11.000Z",
+          "wordCount": 1221,
+          "title": "Senior engineer reported to management for failing to fix a stapler",
+          "imageUrl": "https://regmedia.co.uk/2022/10/13/shutterstock_sentient_stapler.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/14/american_tech_workers_in_china/",
           "author": null,
@@ -16536,26 +16586,6 @@
           "wordCount": 1418,
           "title": "Apropos of nothing, US intel wants to improve low-dose radiation detection",
           "imageUrl": "https://regmedia.co.uk/2021/04/08/radiation_symbol_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/30/chinese_battery_vrfb_us_patents/",
-          "author": null,
-          "description": "<h4>World's largest VRFB was built with inadvertent help from the Department of Energy</h4> <p>The world's largest vanadium redox flow battery (VRFB) has been connected to the grid in Dalian, China, where it was built using technology patented in the United States.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/30/chinese_battery_vrfb_us_patents/",
-          "publishedOn": "2022-09-30T19:29:10.000Z",
-          "wordCount": 1442,
-          "title": "China spins up giant battery built with US-patented tech",
-          "imageUrl": "https://regmedia.co.uk/2022/09/30/dalian-vrfb.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/09/30/in_japan_5g_networks_see/",
-          "author": null,
-          "description": "<h4>Graviton2 processors trials with infrastructure vendors and telco as work on standalone 5G continues</h4> <p>NTT Docomo and NEC have conducted tests that demonstrate Arm-based Graviton2 processors consume 72 percent less power compared to X86 chips while running NEC's 5G core software as part of the NTT Docomo 5G network.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/09/30/in_japan_5g_networks_see/",
-          "publishedOn": "2022-09-30T18:34:13.000Z",
-          "wordCount": 1393,
-          "title": "Japan 5G network tests Arm chips, claims power draw down by 72%",
-          "imageUrl": "https://regmedia.co.uk/2022/03/01/networks_shutterstock.jpg"
         }
       ]
     }

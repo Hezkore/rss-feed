@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-14T06:13:58.568Z</updated>
+    <updated>2022-10-14T07:40:17.179Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Now you can't even scale Mount Everest without a drone buzzing overhead]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/14/dji_everest_flight/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/14/dji_everest_flight/"/>
+        <updated>2022-10-14T07:33:14.000Z</updated>
+        <summary type="html"><![CDATA[<h4>No chance of any peace, not even at 8,900 metres</h4> <p><strong>Video</strong>  Drone maker DJI has claimed a world first by flying one of its Mavic 3 drones around the peak of Mount Everest, capturing some pretty great footage in the process. …</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft extends deadline for partners to improve their clients' security with unauthorised AD tweaks]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/14/gdap_deadline_extension/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/14/gdap_deadline_extension/"/>
+        <updated>2022-10-14T07:03:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Partners may be dragging the chain a little – perhaps you'd like to hurry them up?</h4> <p>Microsoft's campaign to improve the security of its customers and partners – by letting the latter set roles in clients' Active Directory implementations without asking permission – has been extended by four months.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Häftiga Witchfire går från arenastil till halvöppen spelvärld]]></title>
+        <id>https://www.fz.se/artikel/291781</id>
+        <link href="https://www.fz.se/artikel/291781-haftiga-witchfire-gar-fran-arenastil-till-halvoppen-spelvarld"/>
+        <updated>2022-10-14T06:56:00.000Z</updated>
+        <summary type="html"><![CDATA[Och siktar nu på early access-släpp tidigt nästa år.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Senior engineer reported to management for failing to fix a stapler]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/14/on_call/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/14/on_call/"/>
+        <updated>2022-10-14T06:30:11.000Z</updated>
+        <summary type="html"><![CDATA[<h4>The demarcation line between IT and stationery is not electricity, but the line between dumb and nasty clearly starts at staplers</h4> <p><strong>On Call</strong>  The seasons turn, the tides ebb and flow. Just as regularly, each Friday <i>The Register</i> delvers another instalment of On-Call, our reader-contributed tale of another sad constant: IT people being asked to do amazingly dumb things.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Celebrating KDE’s 26th Birthday With Some Inspiring Facts From Its Glorious Past!]]></title>
+        <id>http://itsfoss.com/?p=32104</id>
+        <link href="https://itsfoss.com/kde-facts-trivia/"/>
+        <updated>2022-10-14T06:21:05.000Z</updated>
+        <summary type="html"><![CDATA[Celebrating KDE's Birthday by looking back into some Interesting events from their Glorious Past!]]></summary>
+        <author>
+            <name>Avimanyu Bandyopadhyay</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[American techies in China may be breaking the law by showing up to work]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/14/american_tech_workers_in_china/</id>
@@ -24,6 +74,16 @@
         <summary type="html"><![CDATA[Efter triss i dålig tajming tömmer svenska chassimakaren lagret för att få fart på kassaflödet och göra utrymme för nya satsningar.]]></summary>
         <author>
             <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[14 Best Open Source WYSIWYG HTML Editors]]></title>
+        <id>https://itsfoss.com/?p=102468</id>
+        <link href="https://itsfoss.com/open-source-wysiwyg-editors/"/>
+        <updated>2022-10-14T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Several open-source WYSIWYG HTML editors. What's your best option? Here, we help you with it.]]></summary>
+        <author>
+            <name>Ankush Das</name>
         </author>
     </entry>
     <entry>
@@ -18526,36 +18586,6 @@ once installed it's active when editing CSS files, but it's also supported
         <summary type="html"><![CDATA[Japanese government will help Micron to keep Hiroshima DRAM fab up to date.]]></summary>
         <author>
             <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[China spins up giant battery built with US-patented tech]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/30/chinese_battery_vrfb_us_patents/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/30/chinese_battery_vrfb_us_patents/"/>
-        <updated>2022-09-30T19:29:10.000Z</updated>
-        <summary type="html"><![CDATA[<h4>World's largest VRFB was built with inadvertent help from the Department of Energy</h4> <p>The world's largest vanadium redox flow battery (VRFB) has been connected to the grid in Dalian, China, where it was built using technology patented in the United States.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's the Top 10 Most Played games on Steam Deck for September 2022]]></title>
-        <id>https://www.gamingonlinux.com/2022/09/heres-the-top-10-most-played-games-on-steam-deck-for-september-2022/</id>
-        <link href="https://www.gamingonlinux.com/2022/09/heres-the-top-10-most-played-games-on-steam-deck-for-september-2022/"/>
-        <updated>2022-09-30T19:14:17.000Z</updated>
-        <summary type="html"><![CDATA[As another month comes to a close, Valve has revealed what is currently popular on the Steam Deck based on the most hours played.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japan 5G network tests Arm chips, claims power draw down by 72%]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/09/30/in_japan_5g_networks_see/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/09/30/in_japan_5g_networks_see/"/>
-        <updated>2022-09-30T18:34:13.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Graviton2 processors trials with infrastructure vendors and telco as work on standalone 5G continues</h4> <p>NTT Docomo and NEC have conducted tests that demonstrate Arm-based Graviton2 processors consume 72 percent less power compared to X86 chips while running NEC's 5G core software as part of the NTT Docomo 5G network.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
