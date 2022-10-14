@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-14T07:40:17.179Z</updated>
+    <updated>2022-10-14T08:34:59.571Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[LockBit 3.0 malware forced NHS tech supplier to shut down hosted sites]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/14/nhs_software_hosting_provider_advanced_ransomware_lockbit/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/14/nhs_software_hosting_provider_advanced_ransomware_lockbit/"/>
+        <updated>2022-10-14T08:32:11.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Managed software provider Advanced admits some customer data 'exfiltrated' in August ransomware attack</h4> <p>Advanced, a managed software provider to the UK National Health Service, has confirmed that customer data was indeed lifted as part of the attack by cyber baddies that has disrupted operations for months.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PTS: "Svårt att uppnå bredbandsmål till år 2025"]]></title>
+        <id>https://www.sweclockers.com/artikel/35071</id>
+        <link href="https://www.sweclockers.com/artikel/35071-pts-svart-att-uppna-bredbandsmal-till-ar-2025"/>
+        <updated>2022-10-14T08:03:05.000Z</updated>
+        <summary type="html"><![CDATA[Till år 2025 finns ett mål om att 98 procent av befolkningen ska ha tillgång till bredbandsinfrastruktur som medger 1 Gbit/s, något PTS bedömer som svårt.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kolonisimulatorn Stardeus är släppt i early access]]></title>
+        <id>https://www.fz.se/artikel/291782</id>
+        <link href="https://www.fz.se/artikel/291782-kolonisimulatorn-stardeus-ar-slappt-i-early-access"/>
+        <updated>2022-10-14T07:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Bygg ett fungerande samhälle på ett rymdskepp.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Now you can't even scale Mount Everest without a drone buzzing overhead]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/14/dji_everest_flight/</id>
@@ -18514,78 +18544,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<h4>IARPA unleashes TEI-REX to better track nuclear sources</h4> <p>The research arm of US intelligence has begun investigating methods for spotting low doses of ionizing radiation to better protect American service personnel and provide evidence of nuclear technology use.…</p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stadia controllers could become e-waste unless Google issues Bluetooth update]]></title>
-        <id>https://arstechnica.com/?p=1885973</id>
-        <link href="https://arstechnica.com/?p=1885973"/>
-        <updated>2022-09-30T20:22:11.000Z</updated>
-        <summary type="html"><![CDATA[One firmware push could let Stadia fans keep their favorite wireless controller.]]></summary>
-        <author>
-            <name>Kevin Purdy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google Announces Lyra V2 Low Bit-Rate Voice Codec]]></title>
-        <id>https://www.phoronix.com/news/Google-Lyra-V2</id>
-        <link href="https://www.phoronix.com/news/Google-Lyra-V2"/>
-        <updated>2022-09-30T20:11:24.000Z</updated>
-        <summary type="html"><![CDATA[Last year Google announced the Lyra voice codec for low bit-rates that combined with the open AV1 codec could lead to voice chats on 56kbps connections. Lyra makes use of machine learning and other techniques for extremely low bit-rate speech compression that can function at 3kbps. Google last year open-sourced the Lyra code while today they announced the availability of Lyra V2...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High-severity Microsoft Exchange 0-day under attack threatens 220,000 servers]]></title>
-        <id>https://arstechnica.com/?p=1886065</id>
-        <link href="https://arstechnica.com/?p=1886065"/>
-        <updated>2022-09-30T20:01:42.000Z</updated>
-        <summary type="html"><![CDATA[Microsoft said it's working on an accelerated schedule to roll out a patch.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jonathan Dowland: vim-css-color]]></title>
-        <id>https://jmtd.net/log/vim_plugins/vim-css-color/</id>
-        <link href="https://jmtd.net/log/vim_plugins/vim-css-color/"/>
-        <updated>2022-09-30T19:48:06.000Z</updated>
-        <summary type="html"><![CDATA[Last year I wrote about a subset of the vim plugins I was using,
-specifically those created by master craftsman Tim
-Pope. Off and on since then I've reviewed
-the other plugins I use and tried a few others, so I thought I'd
-write about them.
-
-
-automatic colour name colouring
-vim-css-color is a simple plugin that
-recognised colour names specified in CSS-style: e.g. 'red', '#ff0000',
-'#rgb(255,0,0)' etc., and colours them accordingly. True to its name,
-once installed it's active when editing CSS files, but it's also supported
- for many other file types, and extending it further is not hard.]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Zen 4 Ryzen 7000 Specs, Release Date, Benchmarks, Price Listings]]></title>
-        <id>Mt3XvwKrzGH6Zh7QryGKBj</id>
-        <link href="https://www.tomshardware.com/news/amd-zen-4-ryzen-7000-release-date-specifications-pricing-benchmarks-all-we-know-specs"/>
-        <updated>2022-09-30T19:48:04.000Z</updated>
-        <summary type="html"><![CDATA[Here's the Ryzen 7000 release date, benchmarks, specifications, pricing, and all we know about AMD's Zen 4 architecture.]]></summary>
-        <author>
-            <name>palcorn@outlook.com (Paul Alcorn)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Micron Secures $320 Million in Japanese Subsidies, Might Bring EUV to Japan]]></title>
-        <id>zDi9iKGN7E2oKuBJeHQUiT</id>
-        <link href="https://www.tomshardware.com/news/micron-to-get-320-million-from-japanese-govt"/>
-        <updated>2022-09-30T19:47:38.000Z</updated>
-        <summary type="html"><![CDATA[Japanese government will help Micron to keep Hiroshima DRAM fab up to date.]]></summary>
-        <author>
-            <name>Tomshardware</name>
         </author>
     </entry>
 </feed>

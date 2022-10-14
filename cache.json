@@ -5480,16 +5480,6 @@
           "wordCount": 3594,
           "title": "AMD Ryzen 7000 Series, Linux 6.0, MGLRU, Rust & IO_uring Made For An Exciting September",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Google-Lyra-V2",
-          "author": null,
-          "description": "Last year Google announced the Lyra voice codec for low bit-rates that combined with the open AV1 codec could lead to voice chats on 56kbps connections. Lyra makes use of machine learning and other techniques for extremely low bit-rate speech compression that can function at 3kbps. Google last year open-sourced the Lyra code while today they announced the availability of Lyra V2...",
-          "link": "https://www.phoronix.com/news/Google-Lyra-V2",
-          "publishedOn": "2022-09-30T20:11:24.000Z",
-          "wordCount": 1399,
-          "title": "Google Announces Lyra V2 Low Bit-Rate Voice Codec",
-          "imageUrl": null
         }
       ]
     },
@@ -9674,36 +9664,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/ZUW9hS2Nh6q37rAfaydxXU.jpg"
-        },
-        {
-          "id": "Mt3XvwKrzGH6Zh7QryGKBj",
-          "author": "palcorn@outlook.com (Paul Alcorn)",
-          "description": "Here's the Ryzen 7000 release date, benchmarks, specifications, pricing, and all we know about AMD's Zen 4 architecture.",
-          "link": "https://www.tomshardware.com/news/amd-zen-4-ryzen-7000-release-date-specifications-pricing-benchmarks-all-we-know-specs",
-          "publishedOn": "2022-09-30T19:48:04.000Z",
-          "wordCount": 33916,
-          "title": "AMD Zen 4 Ryzen 7000 Specs, Release Date, Benchmarks, Price Listings",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/GVT52uUKHhmaHY2MhWeA9Y.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/GVT52uUKHhmaHY2MhWeA9Y.jpg"
-        },
-        {
-          "id": "zDi9iKGN7E2oKuBJeHQUiT",
-          "author": null,
-          "description": "Japanese government will help Micron to keep Hiroshima DRAM fab up to date.",
-          "link": "https://www.tomshardware.com/news/micron-to-get-320-million-from-japanese-govt",
-          "publishedOn": "2022-09-30T19:47:38.000Z",
-          "wordCount": 21686,
-          "title": "Micron Secures $320 Million in Japanese Subsidies, Might Bring EUV to Japan",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/ASvCa5F5sGr2mxLmNZp8Nd.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/ASvCa5F5sGr2mxLmNZp8Nd.jpg"
         }
       ]
     },
@@ -10000,16 +9960,6 @@
           "publishedOn": "2022-10-01T13:07:57.000Z",
           "wordCount": 63,
           "title": "Junichi Uekawa: I've sent a kernel patch.",
-          "imageUrl": null
-        },
-        {
-          "id": "https://jmtd.net/log/vim_plugins/vim-css-color/",
-          "author": null,
-          "description": "Last year I wrote about a subset of the vim plugins I was using,\nspecifically those created by master craftsman Tim\nPope. Off and on since then I've reviewed\nthe other plugins I use and tried a few others, so I thought I'd\nwrite about them.\n\n\nautomatic colour name colouring\nvim-css-color is a simple plugin that\nrecognised colour names specified in CSS-style: e.g. 'red', '#ff0000',\n'#rgb(255,0,0)' etc., and colours them accordingly. True to its name,\nonce installed it's active when editing CSS files, but it's also supported\n for many other file types, and extending it further is not hard.",
-          "link": "https://jmtd.net/log/vim_plugins/vim-css-color/",
-          "publishedOn": "2022-09-30T19:48:06.000Z",
-          "wordCount": 139,
-          "title": "Jonathan Dowland: vim-css-color",
           "imageUrl": null
         }
       ]
@@ -11725,26 +11675,6 @@
           "wordCount": 1701,
           "title": "YouTube age-restriction quagmire exposed by 78-minute Mega Man documentary",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/mega-man-2-death-sprite-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1885973",
-          "author": "Kevin Purdy",
-          "description": "One firmware push could let Stadia fans keep their favorite wireless controller.",
-          "link": "https://arstechnica.com/?p=1885973",
-          "publishedOn": "2022-09-30T20:22:11.000Z",
-          "wordCount": 1753,
-          "title": "Stadia controllers could become e-waste unless Google issues Bluetooth update",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2019/11/Stadia-9-of-9-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1886065",
-          "author": "Dan Goodin",
-          "description": "Microsoft said it's working on an accelerated schedule to roll out a patch.",
-          "link": "https://arstechnica.com/?p=1886065",
-          "publishedOn": "2022-09-30T20:01:42.000Z",
-          "wordCount": 1683,
-          "title": "High-severity Microsoft Exchange 0-day under attack threatens 220,000 servers",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/zeroday-760x380.jpg"
         }
       ]
     },
@@ -11753,6 +11683,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291782",
+          "author": null,
+          "description": "Bygg ett fungerande samhälle på ett rymdskepp.",
+          "link": "https://www.fz.se/artikel/291782-kolonisimulatorn-stardeus-ar-slappt-i-early-access",
+          "publishedOn": "2022-10-14T07:54:00.000Z",
+          "wordCount": 1815,
+          "title": "Kolonisimulatorn Stardeus är släppt i early access",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291782"
+        },
         {
           "id": "https://www.fz.se/artikel/291781",
           "author": null,
@@ -13211,6 +13151,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/35071",
+          "author": null,
+          "description": "Till år 2025 finns ett mål om att 98 procent av befolkningen ska ha tillgång till bredbandsinfrastruktur som medger 1 Gbit/s, något PTS bedömer som svårt.",
+          "link": "https://www.sweclockers.com/artikel/35071-pts-svart-att-uppna-bredbandsmal-till-ar-2025",
+          "publishedOn": "2022-10-14T08:03:05.000Z",
+          "wordCount": 1851,
+          "title": "PTS: \"Svårt att uppnå bredbandsmål till år 2025\"",
+          "imageUrl": "https://www.sweclockers.com/artikel/35071/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/35065",
           "author": null,
           "description": "Efter triss i dålig tajming tömmer svenska chassimakaren lagret för att få fart på kassaflödet och göra utrymme för nya satsningar.",
@@ -14147,6 +14097,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/14/nhs_software_hosting_provider_advanced_ransomware_lockbit/",
+          "author": null,
+          "description": "<h4>Managed software provider Advanced admits some customer data 'exfiltrated' in August ransomware attack</h4> <p>Advanced, a managed software provider to the UK National Health Service, has confirmed that customer data was indeed lifted as part of the attack by cyber baddies that has disrupted operations for months.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/14/nhs_software_hosting_provider_advanced_ransomware_lockbit/",
+          "publishedOn": "2022-10-14T08:32:11.000Z",
+          "wordCount": 1643,
+          "title": "LockBit 3.0 malware forced NHS tech supplier to shut down hosted sites",
+          "imageUrl": "https://regmedia.co.uk/2021/03/29/ransom.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/14/dji_everest_flight/",
           "author": null,
