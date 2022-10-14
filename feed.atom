@@ -2,10 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-14T17:35:24.968Z</updated>
+    <updated>2022-10-14T18:34:06.177Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Genode's Sculpt OS 22.10 Brings Performance Optimizations, Better USB Hotplug]]></title>
+        <id>https://www.phoronix.com/news/Sculpt-OS-22.10</id>
+        <link href="https://www.phoronix.com/news/Sculpt-OS-22.10"/>
+        <updated>2022-10-14T18:13:42.000Z</updated>
+        <summary type="html"><![CDATA[Genode Labs as the creators of the open-source Genode Operating System Framework have released Sculpt OS 22.10 as the newest version of their general purpose operating system...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux kernel 6.1 will contain fixes, features. Useful Rust modules? Not yet]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/14/kernel_61_will_contain_fixes/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/14/kernel_61_will_contain_fixes/"/>
+        <updated>2022-10-14T18:00:13.000Z</updated>
+        <summary type="html"><![CDATA[<h4>But you get a super practical patch that prints CPU, core, and socket when you get a segfault</h4> <p>The merge window for contributions to Linux 6.1 is still open and incoming features include Wi-Fi security fixes and hardware tests.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia delays the controversial RTX 4080 12GB]]></title>
+        <id>https://www.eurogamer.net/digitalfoundry-2022-nvidia-delays-the-controversial-rtx-4080-12gb</id>
+        <link href="https://www.eurogamer.net/digitalfoundry-2022-nvidia-delays-the-controversial-rtx-4080-12gb"/>
+        <updated>2022-10-14T17:43:23.000Z</updated>
+        <summary type="html"><![CDATA["The RTX 4080 12GB is a fantastic graphics card, but it's not named right. Having two GPUs with the 4080 designation is confusing. So, we're pressing the 'unlaunch' button on the 4080 12GB. The RTX 4080 16GB is amazing and on track to delight gamers everywhere on November 16th," says Nvidia, in a remarkable new blog post that effectively calls a halt to the upcoming launch of its most contentious of RTX 4000 releases.
+Unveiled by Nvidia boss Jensen Huang on September 20th, the RTX 4000 line of graphics hardware is based on the new Ada Lovelace architecture, fabricated on TSMC's 4nm process. The flagship GPU - the GeForce RTX 4090 - released a couple of days ago and was lauded for its massive generational leap over the existing RTX 3000 flagships, RTX 3090 and RTX 3090 Ti. However, it's fair to say that the same level of acclaim and anticipation was not bestowed upon the RTX 4080, announced in two very different flavours.
+The table below reveals that the spec differential wasn't just about the amount of onboard VRAM: each RTX 4080 model was based on an entirely different core processor, with wild variations in the amount of CUDA codes (compute power) and memory bandwidth. In effect, two very different graphics cards were being sold under the same name at very different price-points.
+ Read more]]></summary>
+        <author>
+            <name>Richard Leadbetter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Pixel 7 tests out 64-bit-only Android, can’t run 32-bit apps]]></title>
+        <id>https://arstechnica.com/?p=1890107</id>
+        <link href="https://arstechnica.com/?p=1890107"/>
+        <updated>2022-10-14T17:41:10.000Z</updated>
+        <summary type="html"><![CDATA[64-bit only Android promises better performance and security, if we can get there.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CFD’s PCIe 5.0 x4 SSD With Monstrous Active Cooler Coming in November]]></title>
+        <id>Lb2jm5LAdjgECAoaHABW4N</id>
+        <link href="https://www.tomshardware.com/news/pcie-gen5-x4-ssd-with-monstrous-active-cooler-launched"/>
+        <updated>2022-10-14T17:40:04.000Z</updated>
+        <summary type="html"><![CDATA[CFD releases PG5NFZ SSD with a huge active cooling system.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dwarf Fortress, the most inscrutable game of two decades, is getting a tutorial]]></title>
+        <id>https://arstechnica.com/?p=1890123</id>
+        <link href="https://arstechnica.com/?p=1890123"/>
+        <updated>2022-10-14T17:38:08.000Z</updated>
+        <summary type="html"><![CDATA[Start off in a mineral-rich play area with hints, rather than primordial chaos.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brazil court orders Apple to reimburse customers for charger-less iPhones]]></title>
+        <id>https://arstechnica.com/?p=1890112</id>
+        <link href="https://arstechnica.com/?p=1890112"/>
+        <updated>2022-10-14T17:35:56.000Z</updated>
+        <summary type="html"><![CDATA[iPhones sold without chargers is an "abusive practice," São Paulo judge says.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia fimpar Geforce RTX 4080 12 GB – medger vilseledande namn]]></title>
+        <id>https://www.sweclockers.com/artikel/35078</id>
+        <link href="https://www.sweclockers.com/artikel/35078-nvidia-fimpar-geforce-rtx-4080-12-gb-medger-vilseledande-namn"/>
+        <updated>2022-10-14T17:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia pudlar efter kritiken och lanseringen av RTX 4080 12 GB ställs in. Samtidigt avslöjas datumet för kvarstående RTX 4080, som anländer 16 november.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Geforce RTX 4080 12 GB dras tillbaka – kommer ej lanseras]]></title>
         <id>https://www.sweclockers.com/artikel/35078</id>
@@ -14,6 +97,26 @@
         <summary type="html"><![CDATA[Nvidia meddelar att Geforce RTX 4080 med 12 GB grafikminne ställs in. Samtidigt avslöjas lanseringsdatumet för det kvarstående RTX 4080-kortet.]]></summary>
         <author>
             <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia will “unlaunch” the 12GB RTX 4080, says it’s “not named right”]]></title>
+        <id>https://arstechnica.com/?p=1890156</id>
+        <link href="https://arstechnica.com/?p=1890156"/>
+        <updated>2022-10-14T17:23:53.000Z</updated>
+        <summary type="html"><![CDATA[Nvidia had taken heat for announcing two 4080 cards with wildly divergent specs.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Researchers make cyborg cockroaches that carry their own power packs]]></title>
+        <id>https://arstechnica.com/?p=1890143</id>
+        <link href="https://arstechnica.com/?p=1890143"/>
+        <updated>2022-10-14T17:19:14.000Z</updated>
+        <summary type="html"><![CDATA[Solar cell and a battery can keep the cyborg's electronics running for weeks.]]></summary>
+        <author>
+            <name>Ars Contributors</name>
         </author>
     </entry>
     <entry>

@@ -758,6 +758,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/digitalfoundry-2022-nvidia-delays-the-controversial-rtx-4080-12gb",
+          "author": "Richard Leadbetter",
+          "description": "\"The RTX 4080 12GB is a fantastic graphics card, but it's not named right. Having two GPUs with the 4080 designation is confusing. So, we're pressing the 'unlaunch' button on the 4080 12GB. The RTX 4080 16GB is amazing and on track to delight gamers everywhere on November 16th,\" says Nvidia, in a remarkable new blog post that effectively calls a halt to the upcoming launch of its most contentious of RTX 4000 releases.\nUnveiled by Nvidia boss Jensen Huang on September 20th, the RTX 4000 line of graphics hardware is based on the new Ada Lovelace architecture, fabricated on TSMC's 4nm process. The flagship GPU - the GeForce RTX 4090 - released a couple of days ago and was lauded for its massive generational leap over the existing RTX 3000 flagships, RTX 3090 and RTX 3090 Ti. However, it's fair to say that the same level of acclaim and anticipation was not bestowed upon the RTX 4080, announced in two very different flavours.\nThe table below reveals that the spec differential wasn't just about the amount of onboard VRAM: each RTX 4080 model was based on an entirely different core processor, with wild variations in the amount of CUDA codes (compute power) and memory bandwidth. In effect, two very different graphics cards were being sold under the same name at very different price-points.\n Read more",
+          "link": "https://www.eurogamer.net/digitalfoundry-2022-nvidia-delays-the-controversial-rtx-4080-12gb",
+          "publishedOn": "2022-10-14T17:43:23.000Z",
+          "wordCount": 4896,
+          "title": "Nvidia delays the controversial RTX 4080 12GB",
+          "imageUrl": "https://assets.reedpopcdn.com/geforce-ada-4080-og-1200x630.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/geforce-ada-4080-og-1200x630.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/new-dead-space-remake-gameplay-walkthrough-takes-an-8-minute-tour-of-the-ishimura",
           "author": "Matt Wales",
           "description": "EA Motive has been uncommonly talkative throughout the development of its Dead Space remake, with the studio hosting various livestreams to show off the likes of its improved art, audio, and gameplay changes - but now, with the game's 27th January launch inching ever nearer, we've had our clearest look yet at how all those elements will come together, courtesy of a new eight-minute gameplay walkthrough.\r\n\n\r\nHot on the heels of last week's 2-minute gameplay trailer, EA celebrated Dead Space's 14th anniversary today with an extended sequence from the remake's third chapter, in which protagonist Isaac must explore the infested USG Ishimura in order to reach the ship's engineering deck take and repair its engines.\r\n\n\r\nThe sequence began in Ishimura's hanger - an area that's now much bigger than it was in the original (a side-by-side comparison made the differences abundantly clear) - with players now able to zero-g their way around the area. Some of remake's environmental changes have been made to enhance the atmosphere, while other were required to accommodate the fact the Ishimura is now one seamless, interconnected ship, with players no longer needed to rely on the tram to get around.\r\n \nRead more",
@@ -4642,6 +4652,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Sculpt-OS-22.10",
+          "author": null,
+          "description": "Genode Labs as the creators of the open-source Genode Operating System Framework have released Sculpt OS 22.10 as the newest version of their general purpose operating system...",
+          "link": "https://www.phoronix.com/news/Sculpt-OS-22.10",
+          "publishedOn": "2022-10-14T18:13:42.000Z",
+          "wordCount": 1266,
+          "title": "Genode's Sculpt OS 22.10 Brings Performance Optimizations, Better USB Hotplug",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/review/zen4-clear-linux",
           "author": null,
           "description": "This shouldn't be too surprising to long-time Phoronix readers, but Intel's performance-optimized Clear Linux operating system is yielding great performance with AMD Ryzen 7000 series \"Zen 4\" processors. Intel's Clear Linux has long shipped HWCAPS support and tuning for AVX-512 and the like to be able to provide optimized libraries when running on their own AVX-512 processors. But with AMD now joining the AVX-512 party -- and Zen 4's AVX-512 implementation performing great -- Intel's Clear Linux distribution is showing leading performance numbers on these new AMD desktop processors.",
@@ -7465,6 +7485,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "Lb2jm5LAdjgECAoaHABW4N",
+          "author": null,
+          "description": "CFD releases PG5NFZ SSD with a huge active cooling system.",
+          "link": "https://www.tomshardware.com/news/pcie-gen5-x4-ssd-with-monstrous-active-cooler-launched",
+          "publishedOn": "2022-10-14T17:40:04.000Z",
+          "wordCount": 22319,
+          "title": "CFD’s PCIe 5.0 x4 SSD With Monstrous Active Cooler Coming in November",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/i29W9UBFL3RW8BvuRY6xuH.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/i29W9UBFL3RW8BvuRY6xuH.png"
+        },
         {
           "id": "BxqyV5aV8gBHMRzt9egb8M",
           "author": null,
@@ -10731,6 +10766,56 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1890107",
+          "author": "Ron Amadeo",
+          "description": "64-bit only Android promises better performance and security, if we can get there.",
+          "link": "https://arstechnica.com/?p=1890107",
+          "publishedOn": "2022-10-14T17:41:10.000Z",
+          "wordCount": 1538,
+          "title": "The Pixel 7 tests out 64-bit-only Android, can’t run 32-bit apps",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/Pixel7-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1890123",
+          "author": "Kevin Purdy",
+          "description": "Start off in a mineral-rich play area with hints, rather than primordial chaos.",
+          "link": "https://arstechnica.com/?p=1890123",
+          "publishedOn": "2022-10-14T17:38:08.000Z",
+          "wordCount": 1679,
+          "title": "Dwarf Fortress, the most inscrutable game of two decades, is getting a tutorial",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/df2-760x380.png"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1890112",
+          "author": "Scharon Harding",
+          "description": "iPhones sold without chargers is an \"abusive practice,\" São Paulo judge says.",
+          "link": "https://arstechnica.com/?p=1890112",
+          "publishedOn": "2022-10-14T17:35:56.000Z",
+          "wordCount": 1543,
+          "title": "Brazil court orders Apple to reimburse customers for charger-less iPhones",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2021/09/iPhone-13-mini-760x380.jpeg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1890156",
+          "author": "Andrew Cunningham",
+          "description": "Nvidia had taken heat for announcing two 4080 cards with wildly divergent specs.",
+          "link": "https://arstechnica.com/?p=1890156",
+          "publishedOn": "2022-10-14T17:23:53.000Z",
+          "wordCount": 1367,
+          "title": "Nvidia will “unlaunch” the 12GB RTX 4080, says it’s “not named right”",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/rtx-3080-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1890143",
+          "author": "Ars Contributors",
+          "description": "Solar cell and a battery can keep the cyborg's electronics running for weeks.",
+          "link": "https://arstechnica.com/?p=1890143",
+          "publishedOn": "2022-10-14T17:19:14.000Z",
+          "wordCount": 1933,
+          "title": "Researchers make cyborg cockroaches that carry their own power packs",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/XT4B4574-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1890131",
           "author": "Kyle Orland",
@@ -14018,6 +14103,16 @@
         {
           "id": "https://www.sweclockers.com/artikel/35078",
           "author": null,
+          "description": "Nvidia pudlar efter kritiken och lanseringen av RTX 4080 12 GB ställs in. Samtidigt avslöjas datumet för kvarstående RTX 4080, som anländer 16 november.",
+          "link": "https://www.sweclockers.com/artikel/35078-nvidia-fimpar-geforce-rtx-4080-12-gb-medger-vilseledande-namn",
+          "publishedOn": "2022-10-14T17:30:00.000Z",
+          "wordCount": 1802,
+          "title": "Nvidia fimpar Geforce RTX 4080 12 GB – medger vilseledande namn",
+          "imageUrl": "https://www.sweclockers.com/artikel/35078/og-image"
+        },
+        {
+          "id": "https://www.sweclockers.com/artikel/35078",
+          "author": null,
           "description": "Nvidia meddelar att Geforce RTX 4080 med 12 GB grafikminne ställs in. Samtidigt avslöjas lanseringsdatumet för det kvarstående RTX 4080-kortet.",
           "link": "https://www.sweclockers.com/artikel/35078-geforce-rtx-4080-12-gb-dras-tillbaka-kommer-ej-lanseras",
           "publishedOn": "2022-10-14T17:30:00.000Z",
@@ -14982,6 +15077,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/14/kernel_61_will_contain_fixes/",
+          "author": null,
+          "description": "<h4>But you get a super practical patch that prints CPU, core, and socket when you get a segfault</h4> <p>The merge window for contributions to Linux 6.1 is still open and incoming features include Wi-Fi security fixes and hardware tests.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/14/kernel_61_will_contain_fixes/",
+          "publishedOn": "2022-10-14T18:00:13.000Z",
+          "wordCount": 1381,
+          "title": "Linux kernel 6.1 will contain fixes, features. Useful Rust modules? Not yet",
+          "imageUrl": "https://regmedia.co.uk/2022/10/14/shutterstock_penguin_jump.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/14/sec_cloud_records_update/",
           "author": null,
