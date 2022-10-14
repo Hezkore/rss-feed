@@ -758,6 +758,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/dreams-is-celebrating-halloween-with-a-spooky-new-adventure-in-the-land-of-lost-dreams",
+          "author": "Matt Wales",
+          "description": "Developer Media Molecule's impressively flexible PlayStation creation tool Dreams is celebrating Halloween this year with the return of its annual All Hallows' event, this time beckoning players to take a spooky trip to the Land of Lost Dreams.\r\n\n\r\nThis latest journey to the realms of spookidom is the third Halloween event for Dreams, following previous outings that saw Media Molecule collaborating with its community to create explorable haunted houses and then, last year, a creepy old fairground.\r\n\n\r\nThings are getting a little more fantastical this time around, however, with a quest to the far-flung Land of Lost Dreams, where players can embark on a quest full of odd characters and puzzles as they attempt to uncover a \"rich and unnerving history\".\r\n \nRead more",
+          "link": "https://www.eurogamer.net/dreams-is-celebrating-halloween-with-a-spooky-new-adventure-in-the-land-of-lost-dreams",
+          "publishedOn": "2022-10-14T21:33:40.000Z",
+          "wordCount": 4502,
+          "title": "Dreams celebrating Halloween with spooky adventure in Land of Lost Dreams",
+          "imageUrl": "https://assets.reedpopcdn.com/dreams-halloween.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/dreams-halloween.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/switch-sports-servers-now-offline-while-nintendo-investigates-crashing-issue",
           "author": "Matt Wales",
           "description": "Nintendo has taken its Switch Sports servers offline - and suspended save data backups - while it investigates an issue causing crashes in the game's latest update.\r\n\n\r\nSwitch Sports' version 1.2.1 update launched earlier this week, aiming to further strengthen measures against what Nintendo called \"disruptive behaviours\" online, as well as pledging to suspend any online players violating its Community Guidelines. Punishable actions included \"fraudulent behaviour such as save data manipulation.\"\r\n\n\r\nUnfortunately, patch 1.2.1 also introduced a significant bug causing crashes - whether playing online or offline - during the pre-match loading screen.\r\n \nRead more",
@@ -5940,26 +5950,6 @@
           "wordCount": 1344,
           "title": "Open-Source Radeon Vulkan Driver Lands APU Fix For Red Dead Redemption 2",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Blumenkrantz-Nukes-17.1k-Mesa",
-          "author": null,
-          "description": "Well known Zink developer Mike Blumekrantz, working for Valve on improving Mesa's OpenGL-on-Vulkan driver, has kicked off October by removing a lot of old Mesa code...",
-          "link": "https://www.phoronix.com/news/Blumenkrantz-Nukes-17.1k-Mesa",
-          "publishedOn": "2022-10-01T09:38:19.000Z",
-          "wordCount": 1477,
-          "title": "Blumenkrantz Flushes 17.1k Lines Of Old Mesa Code",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/September-2022-Highlights",
-          "author": null,
-          "description": "It was a very exciting September with the launch of the AMD Ryzen 7000 series \"Zen 4\" processors, Intel revealing a lot more about Arc Graphics, Linux 6.0 getting buttoned up while feature work toward Linux 6.1 accelerated, ongoing exciting kernel work around MGLRU / IO_uring / RT / etc, and other software releases like GNOME 43 and LLVM 15 all made for an eventful month...",
-          "link": "https://www.phoronix.com/news/September-2022-Highlights",
-          "publishedOn": "2022-10-01T09:29:38.000Z",
-          "wordCount": 3594,
-          "title": "AMD Ryzen 7000 Series, Linux 6.0, MGLRU, Rust & IO_uring Made For An Exciting September",
-          "imageUrl": null
         }
       ]
     },
@@ -10837,6 +10827,16 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1890316",
+          "author": "Eric Berger",
+          "description": "\"Thank you for an incredible ride up to orbit and an incredible ride home.\"",
+          "link": "https://arstechnica.com/?p=1890316",
+          "publishedOn": "2022-10-14T21:57:35.000Z",
+          "wordCount": 1601,
+          "title": "Since Crew Dragon’s debut SpaceX has flown more astronauts than anyone",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/52427279092_82fad265ef_k-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1890235",
           "author": "Samuel Axon",
           "description": "Apple's headset will also scan users' legs for inclusion in virtual space.",
@@ -15188,6 +15188,16 @@
       "siteUrl": "https://www.theregister.com/",
       "articles": [
         {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/14/qualcomm_arm_lawsuit_nuvia/",
+          "author": null,
+          "description": "<h4>A contract is a contract, says Brit CPU designer</h4> <p>Qualcomm has painted Arm as a greedy, capricious bully that's fixated on extracting more and more licensing fees for its designs.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/14/qualcomm_arm_lawsuit_nuvia/",
+          "publishedOn": "2022-10-14T22:10:14.000Z",
+          "wordCount": 2026,
+          "title": "Qualcomm: Arm lawsuit motivated by greed, 'payback' for opposing Nvidia takeover",
+          "imageUrl": "https://regmedia.co.uk/2020/11/05/shutterstock_qualcomm_editorial_only.jpg"
+        },
+        {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/14/microsoft_office_365_message_encryption/",
           "author": null,
           "description": "<h4>Redmond says OME is really for content misuse rather than security</h4> <p>Microsoft Office 365 Message Encryption claims to offer a way \"to send and receive encrypted email messages between people inside and outside your organization.\"…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
@@ -17716,16 +17726,6 @@
           "wordCount": 1659,
           "title": "Text-to-image models are so last month, text-to-video is here",
           "imageUrl": "https://regmedia.co.uk/2022/09/30/outdated_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/01/ethical_hackers_sans_survey/",
-          "author": null,
-          "description": "<h4>300 red teamers walk into a bar…</h4> <p>Once they've broken into an IT environment, most intruders need less than five hours to collect and steal sensitive data, according to a SANS Institute survey of more than 300 ethical hackers. …</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/01/ethical_hackers_sans_survey/",
-          "publishedOn": "2022-10-01T09:57:05.000Z",
-          "wordCount": 1834,
-          "title": "Gone in a day: Ethical hackers say it would take mere hours to empty your network",
-          "imageUrl": "https://regmedia.co.uk/2022/09/28/masked_hacker_computer_shutterstock.jpg"
         }
       ]
     }

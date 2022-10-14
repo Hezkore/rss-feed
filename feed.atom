@@ -2,10 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-14T21:25:45.951Z</updated>
+    <updated>2022-10-14T22:27:19.011Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Qualcomm: Arm lawsuit motivated by greed, 'payback' for opposing Nvidia takeover]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/14/qualcomm_arm_lawsuit_nuvia/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/14/qualcomm_arm_lawsuit_nuvia/"/>
+        <updated>2022-10-14T22:10:14.000Z</updated>
+        <summary type="html"><![CDATA[<h4>A contract is a contract, says Brit CPU designer</h4> <p>Qualcomm has painted Arm as a greedy, capricious bully that's fixated on extracting more and more licensing fees for its designs.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Since Crew Dragon’s debut SpaceX has flown more astronauts than anyone]]></title>
+        <id>https://arstechnica.com/?p=1890316</id>
+        <link href="https://arstechnica.com/?p=1890316"/>
+        <updated>2022-10-14T21:57:35.000Z</updated>
+        <summary type="html"><![CDATA["Thank you for an incredible ride up to orbit and an incredible ride home."]]></summary>
+        <author>
+            <name>Eric Berger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dreams celebrating Halloween with spooky adventure in Land of Lost Dreams]]></title>
+        <id>https://www.eurogamer.net/dreams-is-celebrating-halloween-with-a-spooky-new-adventure-in-the-land-of-lost-dreams</id>
+        <link href="https://www.eurogamer.net/dreams-is-celebrating-halloween-with-a-spooky-new-adventure-in-the-land-of-lost-dreams"/>
+        <updated>2022-10-14T21:33:40.000Z</updated>
+        <summary type="html"><![CDATA[Developer Media Molecule's impressively flexible PlayStation creation tool Dreams is celebrating Halloween this year with the return of its annual All Hallows' event, this time beckoning players to take a spooky trip to the Land of Lost Dreams.
+
+
+This latest journey to the realms of spookidom is the third Halloween event for Dreams, following previous outings that saw Media Molecule collaborating with its community to create explorable haunted houses and then, last year, a creepy old fairground.
+
+
+Things are getting a little more fantastical this time around, however, with a quest to the far-flung Land of Lost Dreams, where players can embark on a quest full of odd characters and puzzles as they attempt to uncover a "rich and unnerving history".
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple’s AR/VR headset will scan your iris when you put it on]]></title>
         <id>https://arstechnica.com/?p=1890235</id>
@@ -19891,36 +19929,6 @@ Dorfromantik has just landed on Switch, which explains why I'm doing what I'm do
 Read more]]></summary>
         <author>
             <name>Christian Donlan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gone in a day: Ethical hackers say it would take mere hours to empty your network]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/01/ethical_hackers_sans_survey/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/01/ethical_hackers_sans_survey/"/>
-        <updated>2022-10-01T09:57:05.000Z</updated>
-        <summary type="html"><![CDATA[<h4>300 red teamers walk into a bar…</h4> <p>Once they've broken into an IT environment, most intruders need less than five hours to collect and steal sensitive data, according to a SANS Institute survey of more than 300 ethical hackers. …</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blumenkrantz Flushes 17.1k Lines Of Old Mesa Code]]></title>
-        <id>https://www.phoronix.com/news/Blumenkrantz-Nukes-17.1k-Mesa</id>
-        <link href="https://www.phoronix.com/news/Blumenkrantz-Nukes-17.1k-Mesa"/>
-        <updated>2022-10-01T09:38:19.000Z</updated>
-        <summary type="html"><![CDATA[Well known Zink developer Mike Blumekrantz, working for Valve on improving Mesa's OpenGL-on-Vulkan driver, has kicked off October by removing a lot of old Mesa code...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Ryzen 7000 Series, Linux 6.0, MGLRU, Rust & IO_uring Made For An Exciting September]]></title>
-        <id>https://www.phoronix.com/news/September-2022-Highlights</id>
-        <link href="https://www.phoronix.com/news/September-2022-Highlights"/>
-        <updated>2022-10-01T09:29:38.000Z</updated>
-        <summary type="html"><![CDATA[It was a very exciting September with the launch of the AMD Ryzen 7000 series "Zen 4" processors, Intel revealing a lot more about Arc Graphics, Linux 6.0 getting buttoned up while feature work toward Linux 6.1 accelerated, ongoing exciting kernel work around MGLRU / IO_uring / RT / etc, and other software releases like GNOME 43 and LLVM 15 all made for an eventful month...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
 </feed>
