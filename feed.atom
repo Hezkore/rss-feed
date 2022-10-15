@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-15T20:28:18.433Z</updated>
+    <updated>2022-10-15T21:23:59.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Minecraft is getting Batman DLC next week, including Gotham and many villains]]></title>
+        <id>https://www.rockpapershotgun.com/minecraft-is-getting-batman-dlc-next-week-including-gotham-and-many-villains</id>
+        <link href="https://www.rockpapershotgun.com/minecraft-is-getting-batman-dlc-next-week-including-gotham-and-many-villains"/>
+        <updated>2022-10-15T20:32:38.000Z</updated>
+        <summary type="html"><![CDATA[I find I have next to no interest in the coming Gotham Knights, but a blocky recreation of Gotham in Minecraft? Yeah, that's cute. It's part of what's coming in the newly announced Batman DLC for Minecraft, as well as the ability to fight Batman's rogue gallery including the Penguin, Poison Ivy and The Joker.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This mod allows you to order real pizza from within Oblivion]]></title>
         <id>https://www.rockpapershotgun.com/this-mod-allows-you-to-order-real-pizza-from-within-oblivion</id>
@@ -19992,26 +20005,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Debian developers have been figuring out an updated stance to take on non-free firmware considering the increasing number of devices now having open-source Linux drivers but requiring closed-source firmware for any level of functionality. The voting on the non-free firmware matter has now concluded and the votes tallied.....]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Publishes New Family 19h CPU Microcode]]></title>
-        <id>https://www.phoronix.com/news/AMD-EO-September-Microcode</id>
-        <link href="https://www.phoronix.com/news/AMD-EO-September-Microcode"/>
-        <updated>2022-10-02T08:59:26.000Z</updated>
-        <summary type="html"><![CDATA[AMD on Friday upstreamed new Family 19h CPU microcode to linux-firmware.git...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BlackCat malware lashes out at US defense IT contractor]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/02/in-brief-security/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/02/in-brief-security/"/>
-        <updated>2022-10-02T08:47:05.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Also, Amazon's Ring footage TV shows draws criticism, US v Societ spying docs found, and more</h4> <p><strong>In Brief</strong>  The BlackCat ransomware gang, also known as ALPHV, has allegedly broken into IT firm NJVC, a provider of services to civilian US government agencies and the Department of Defense.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
