@@ -3176,16 +3176,6 @@
           "wordCount": 4709,
           "title": "The Callisto Protocol's latest trailer reveals \"terrifying secrets beneath Black Iron Prison\"",
           "imageUrl": "https://assets.reedpopcdn.com/TCP_Screen18.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/TCP_Screen18.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/cyberpunk-2077s-revival-continues-as-it-becomes-one-of-the-most-popular-games-on-steam-deck",
-          "author": "Vikki Blake",
-          "description": "Cyberpunk 2077's recent revival includes an uptick in players jumping into Night City on Steam Deck.\r\n\nAccording to stats shared by Valve, Cyberpunk 2077 is the fourth most popular game on Steam Deck by total hours played, topped only by Stardew Valley, Elden Ring, and Vampire Survivors - in that order. \r\n\nWe've already told you about Cyberpunk 2077's second life. Cyberpunk 2077 initially shifted 13m copies when it arrived for PC, PlayStation 4, and Xbox One in December 2020, but interest in the game dropped when word of its technical issues spread.\n Read more",
-          "link": "https://www.eurogamer.net/cyberpunk-2077s-revival-continues-as-it-becomes-one-of-the-most-popular-games-on-steam-deck",
-          "publishedOn": "2022-10-01T14:22:25.000Z",
-          "wordCount": 4680,
-          "title": "Cyberpunk 2077's revival continues as it becomes one of the most popular games on Steam Deck",
-          "imageUrl": "https://assets.reedpopcdn.com/cyberpunk-2077-dataminer-finds-unreleased-quest-descriptions-1618417043855.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/cyberpunk-2077-dataminer-finds-unreleased-quest-descriptions-1618417043855.jpg"
         }
       ]
     },
@@ -5920,26 +5910,6 @@
           "wordCount": 1496,
           "title": "Rust Infrastructure Pull Request Submitted For Linux 6.1!",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Debian-12-PipeWire",
-          "author": null,
-          "description": "In addition to Ubuntu 22.10 switching to PipeWire as the default audio server replacement to PulseAudio, upstream Debian has done the same ahead of their Debian GNU/Linux 12 release next year...",
-          "link": "https://www.phoronix.com/news/Debian-12-PipeWire",
-          "publishedOn": "2022-10-01T12:56:49.000Z",
-          "wordCount": 1331,
-          "title": "Debian 12 Switches To PipeWire & WirePlumber By Default With The GNOME Desktop",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/AMDGPU-Workload-Hints-v2",
-          "author": null,
-          "description": "AMD's Linux graphics driver engineers this week sent out their latest patch series working on workload hints that are used for dynamically tuning the power profile of AMD GPU SoCs based upon the specified workload indicator...",
-          "link": "https://www.phoronix.com/news/AMDGPU-Workload-Hints-v2",
-          "publishedOn": "2022-10-01T12:39:00.000Z",
-          "wordCount": 1351,
-          "title": "AMD Revises Work On GPU Workload Hinting For Linux",
-          "imageUrl": null
         }
       ]
     },
@@ -7505,6 +7475,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "UAmx4EKFEvXvB4aLUL5vJP",
+          "author": null,
+          "description": "Grab a video screen capture with Windows' built-in tools or get a more specific part of your desktop with OBS.",
+          "link": "https://www.tomshardware.com/how-to/screen-record-in-windows",
+          "publishedOn": "2022-10-14T22:57:39.000Z",
+          "wordCount": 23118,
+          "title": "How to Screen Record in Windows 10 or Windows 11",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/8z3edcm3oGwDVYdpGqk3MS.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/8z3edcm3oGwDVYdpGqk3MS.png"
+        },
         {
           "id": "jGqkEVJ6ZjHu7HqBTJSPr4",
           "author": null,
@@ -10354,66 +10339,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/DDYjYQHAR2UCzWGvoVKCuN.png"
-        },
-        {
-          "id": "UuhombnucHvxAgQAGG8BrU",
-          "author": null,
-          "description": "We help you find the best 3D printers for beginners, under $300 and more.",
-          "link": "https://www.tomshardware.com/best-picks/best-3d-printers",
-          "publishedOn": "2022-10-01T13:41:55.000Z",
-          "wordCount": 29470,
-          "title": "Best 3D Printers 2022: FDM, Resin and Sub-$250 Models",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/NzJ4qL5VCRi7c7UP7PTpC8.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/NzJ4qL5VCRi7c7UP7PTpC8.jpg"
-        },
-        {
-          "id": "A8dJMv7kosCjjWGDSWKq2k",
-          "author": null,
-          "description": "SYNOPSIS\nPasswords are just one part of the security toolkit. SSH keys are a seamless and easy to setup tool to keep our connections secure.",
-          "link": "https://www.tomshardware.com/how-to/use-a-secure-key-for-ssh",
-          "publishedOn": "2022-10-01T13:21:21.000Z",
-          "wordCount": 23719,
-          "title": "How To Set Up an SSH Key For Secure Connections",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/hmxQgYZLtvPkiGkefoEfYn.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/hmxQgYZLtvPkiGkefoEfYn.jpg"
-        },
-        {
-          "id": "vvqe7WJGBqMKvQKPNHSESf",
-          "author": null,
-          "description": "No matter your budget, there’s a great service for you.",
-          "link": "https://www.tomshardware.com/best-picks/best-password-managers",
-          "publishedOn": "2022-10-01T12:58:57.000Z",
-          "wordCount": 23543,
-          "title": "Best Password Managers 2022: Free and Paid",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/WgV87CwoK5ptiEEHo986a9.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/WgV87CwoK5ptiEEHo986a9.jpg"
-        },
-        {
-          "id": "VstY4PqHcZQMxMS6Mgim8C",
-          "author": null,
-          "description": "NZXT expands its gaming product line with a 32-inch curved QHD/VA 165 Hz performance-oriented monitor. It wraps Adaptive-Sync, HDR and extended color into an attractive chassis for a reasonable price.",
-          "link": "https://www.tomshardware.com/reviews/nzxt-canvas-32q-review",
-          "publishedOn": "2022-10-01T12:00:25.000Z",
-          "wordCount": 24234,
-          "title": "NZXT Canvas 32Q Gaming Monitor Review: Style and Substance Meet Value",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/ZUW9hS2Nh6q37rAfaydxXU.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/ZUW9hS2Nh6q37rAfaydxXU.jpg"
         }
       ]
     },
@@ -10731,16 +10656,6 @@
           "wordCount": 1052,
           "title": "Abhijith PA: Laptop refreshment",
           "imageUrl": "/images/favicons/favicon-194x194.png"
-        },
-        {
-          "id": "http://www.netfort.gr.jp/~dancer/diary/daily/2022-Oct-1.html.en#2022-Oct-1-22:07:57",
-          "author": null,
-          "description": "I've sent a kernel patch. It's been 4 years since my last upstream kernel patch it seems.\n\t  Time flies.",
-          "link": "http://www.netfort.gr.jp/~dancer/diary/daily/2022-Oct-1.html.en#2022-Oct-1-22:07:57",
-          "publishedOn": "2022-10-01T13:07:57.000Z",
-          "wordCount": 63,
-          "title": "Junichi Uekawa: I've sent a kernel patch.",
-          "imageUrl": null
         }
       ]
     },
@@ -12615,16 +12530,6 @@
           "wordCount": 2629,
           "title": "The weekend’s best deals: Apple MacBooks, Samsung Galaxy Watch 5, 4K TVs, and more",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/dm101-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1885902",
-          "author": "Knowable Magazine",
-          "description": "Modern hunter-gatherers offer insight into how our distant ancestors ate.",
-          "link": "https://arstechnica.com/?p=1885902",
-          "publishedOn": "2022-10-01T12:05:40.000Z",
-          "wordCount": 1777,
-          "title": "Our ancestors ate a Paleo diet. It had carbs",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/hadza-760x380.jpg"
         }
       ]
     },
@@ -14162,26 +14067,6 @@
           "wordCount": 1700,
           "title": "Den fysiska versionen av Bayonetta försenas i Europa",
           "imageUrl": "https://www.fz.se/artikel/og-image/291649"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291643",
-          "author": null,
-          "description": "Vi spelar Subnautica-skaparnas nya.",
-          "link": "https://www.fz.se/artikel/291643-fz-play-moonbreaker",
-          "publishedOn": "2022-10-01T14:00:00.000Z",
-          "wordCount": 1602,
-          "title": "FZ Play - Moonbreaker",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291643"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291648",
-          "author": null,
-          "description": "Det är snabba ryck för google att städa ut efter Stadia.",
-          "link": "https://www.fz.se/artikel/291648-google-har-redan-bommat-igen-stadias-online-affar",
-          "publishedOn": "2022-10-01T12:00:00.000Z",
-          "wordCount": 1783,
-          "title": "Google har redan bommat igen Stadias online-affär",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291648"
         }
       ]
     },
@@ -14941,6 +14826,16 @@
       "siteUrl": "https://explosm.net",
       "articles": [
         {
+          "id": "https://explosm.net/comics/handicap-stall",
+          "author": null,
+          "description": "New Cyanide and Happiness Comic",
+          "link": "https://explosm.net/comics/handicap-stall",
+          "publishedOn": "2022-10-14T17:48:44.000Z",
+          "wordCount": 639,
+          "title": "Comic for 2022.10.14 - Handicap Stall",
+          "imageUrl": null
+        },
+        {
           "id": "https://explosm.net/comics/ed-gein",
           "author": null,
           "description": "New Cyanide and Happiness Comic",
@@ -15167,6 +15062,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/15/skyrora_rocket_fail/",
+          "author": null,
+          "description": "<h4>Never mind, still plenty of time to that 2023 orbital test</h4> <p>Scottish space startup Skyrora's first attempt to launch its Skylark L rocket ended in failure after it unexpectedly came crashing down into the Norwegian sea.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/15/skyrora_rocket_fail/",
+          "publishedOn": "2022-10-15T02:21:31.000Z",
+          "wordCount": 1313,
+          "title": "Scottish space upstart's rocket crashes into the drink",
+          "imageUrl": "https://regmedia.co.uk/2022/10/14/skyrora_skylark_l.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/15/pinsky_terpin_sim_swap/",
+          "author": null,
+          "description": "<h4>Too young to drive, old enough to bribe AT&amp;T staff, apparently</h4> <p>A man who lost $24 million in cryptocurrency in an elaborate SIM swapping scam has won a multi-million-dollar judgment against the thief, who was 15 at the time of the hustle.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/15/pinsky_terpin_sim_swap/",
+          "publishedOn": "2022-10-15T01:07:12.000Z",
+          "wordCount": 1810,
+          "title": "'Baby Al Capone' to pay $22m to SIM-swap crypto-heist victim",
+          "imageUrl": "https://regmedia.co.uk/2022/10/15/shutterstock_sim_crowbar.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/14/dept_of_veterans_affairs_oracle_cerner/",
           "author": null,
