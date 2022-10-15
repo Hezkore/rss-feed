@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-15T08:34:27.861Z</updated>
+    <updated>2022-10-15T09:28:02.191Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[KDE Plasma Wayland Now Supports High Resolution Scrolling]]></title>
+        <id>https://www.phoronix.com/news/KDE-Wayland-High-Res-Scroll</id>
+        <link href="https://www.phoronix.com/news/KDE-Wayland-High-Res-Scroll"/>
+        <updated>2022-10-15T09:19:09.000Z</updated>
+        <summary type="html"><![CDATA[The KDE Plasma Wayland session is finally supporting high resolution scroll wheel support that was engineered by Red Hat and originally supported under GNOME for allowing a smoother scrolling experience on the Linux desktop...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Would you pay $10 to create an AI chatbot to talk again to a dead loved one?]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/15/would_you_pay_10_to/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/15/would_you_pay_10_to/"/>
+        <updated>2022-10-15T08:56:06.000Z</updated>
+        <summary type="html"><![CDATA[<h4>How software can help some grieve, perturb others</h4> <p><strong>Feature</strong>  Death is inescapable. Everyone experiences grief at some point in their lives, whether it's when a relative, friend, or pet passes away.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.0.2, 5.19.16 & Other Point Releases Arrive For Fixing WiFi Stack Vulnerabilities]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.0.2-Point-Releases-WiFi</id>
+        <link href="https://www.phoronix.com/news/Linux-6.0.2-Point-Releases-WiFi"/>
+        <updated>2022-10-15T08:53:29.000Z</updated>
+        <summary type="html"><![CDATA[This morning's batch of Linux kernel point releases to existing stable series is worth upgrading to given the important security fixes...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Five more lovely mechanical keyboards released this year]]></title>
         <id>https://www.eurogamer.net/digitalfoundry-2022-five-more-lovely-mechanical-keyboards-2022</id>
@@ -19676,19 +19706,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[I've no idea how many Steam Decks Valve have sold, but cor: it sure seems to be a success in terms of the diversity of games people are enjoying on it.
 
 Yesterday, the official Steam Deck Twitter account shared a list of the most played games on the handheld PC gaming machine in September. The list includes Vampire Survivors, Elden Ring, Stardew Valley, Cyberpunk 2077, Hades and No Man's Sky.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skyrim is now available DRM-free from GOG]]></title>
-        <id>https://www.rockpapershotgun.com/skyrim-is-now-available-drm-free-from-gog</id>
-        <link href="https://www.rockpapershotgun.com/skyrim-is-now-available-drm-free-from-gog"/>
-        <updated>2022-10-01T21:04:50.000Z</updated>
-        <summary type="html"><![CDATA[Skyrim has been released and re-released several times and is available for almost anything that plays games at this point. As of two days ago, it's even now available DRM-free from digital retailer GOG.com. The GOG release is "entirely playable offline" and includes all the Anniversary Edition content "without the need for Creation Club access."
 
  
 Read more]]></summary>

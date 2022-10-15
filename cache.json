@@ -4632,6 +4632,26 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/KDE-Wayland-High-Res-Scroll",
+          "author": null,
+          "description": "The KDE Plasma Wayland session is finally supporting high resolution scroll wheel support that was engineered by Red Hat and originally supported under GNOME for allowing a smoother scrolling experience on the Linux desktop...",
+          "link": "https://www.phoronix.com/news/KDE-Wayland-High-Res-Scroll",
+          "publishedOn": "2022-10-15T09:19:09.000Z",
+          "wordCount": 1371,
+          "title": "KDE Plasma Wayland Now Supports High Resolution Scrolling",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.0.2-Point-Releases-WiFi",
+          "author": null,
+          "description": "This morning's batch of Linux kernel point releases to existing stable series is worth upgrading to given the important security fixes...",
+          "link": "https://www.phoronix.com/news/Linux-6.0.2-Point-Releases-WiFi",
+          "publishedOn": "2022-10-15T08:53:29.000Z",
+          "wordCount": 1300,
+          "title": "Linux 6.0.2, 5.19.16 & Other Point Releases Arrive For Fixing WiFi Stack Vulnerabilities",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Wine-7.19-Released",
           "author": null,
           "description": "While the freeze ahead of Wine 8.0 is quickly approaching, Wine 7.19 is out today as the newest development release for this open-source software allowing Windows games and applications to run on Linux and macOS...",
@@ -7377,16 +7397,6 @@
           "wordCount": 4798,
           "title": "Imagine any console having a launch line-up as good as Steam Deck's most played games in September",
           "imageUrl": "https://assets2.rockpapershotgun.com/Vampire-Survivors-Steam-Deck.JPG/BROK/thumbnail/1600x900/format/jpg/quality/80/Vampire-Survivors-Steam-Deck.JPG"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/skyrim-is-now-available-drm-free-from-gog",
-          "author": "Graham Smith",
-          "description": "Skyrim has been released and re-released several times and is available for almost anything that plays games at this point. As of two days ago, it's even now available DRM-free from digital retailer GOG.com. The GOG release is \"entirely playable offline\" and includes all the Anniversary Edition content \"without the need for Creation Club access.\"\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/skyrim-is-now-available-drm-free-from-gog",
-          "publishedOn": "2022-10-01T21:04:50.000Z",
-          "wordCount": 4845,
-          "title": "Skyrim is now available DRM-free from GOG",
-          "imageUrl": "https://assets2.rockpapershotgun.com/best-jailbreaks-in-games-1-elder-scrolls-skyrim.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/best-jailbreaks-in-games-1-elder-scrolls-skyrim.jpg"
         }
       ]
     },
@@ -14942,6 +14952,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/15/would_you_pay_10_to/",
+          "author": null,
+          "description": "<h4>How software can help some grieve, perturb others</h4> <p><strong>Feature</strong>  Death is inescapable. Everyone experiences grief at some point in their lives, whether it's when a relative, friend, or pet passes away.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/15/would_you_pay_10_to/",
+          "publishedOn": "2022-10-15T08:56:06.000Z",
+          "wordCount": 1993,
+          "title": "Would you pay $10 to create an AI chatbot to talk again to a dead loved one?",
+          "imageUrl": "https://regmedia.co.uk/2016/10/06/ai.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/15/skyrora_rocket_fail/",
           "author": null,
