@@ -2,10 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-15T21:23:59.328Z</updated>
+    <updated>2022-10-15T22:26:34.343Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[OlliOlli World's final DLC kickflips into the clouds]]></title>
+        <id>https://www.rockpapershotgun.com/olliolli-worlds-final-dlc-kickflips-into-the-clouds</id>
+        <link href="https://www.rockpapershotgun.com/olliolli-worlds-final-dlc-kickflips-into-the-clouds"/>
+        <updated>2022-10-15T22:00:34.000Z</updated>
+        <summary type="html"><![CDATA[OlliOlli World is getting a final piece of DLC. Finding The Flowzone, which will be released this November, features a new bunch of levels to grind across - only these ones are set among the clouds. It'll also include new "Windzones" for catching greater air, as well as harder routes designed for the best players.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Minecraft is getting Batman DLC next week, including Gotham and many villains]]></title>
         <id>https://www.rockpapershotgun.com/minecraft-is-getting-batman-dlc-next-week-including-gotham-and-many-villains</id>
@@ -19898,113 +19911,6 @@ Here's the full content of the blog post:
 Read more]]></summary>
         <author>
             <name>Vikki Blake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Sunday Papers]]></title>
-        <id>https://www.rockpapershotgun.com/the-sunday-papers-651</id>
-        <link href="https://www.rockpapershotgun.com/the-sunday-papers-651"/>
-        <updated>2022-10-02T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Sundays are for returning from a long vacation and shaking off the holiday haze. Before you kick into gear, let's read this week's best writing about games (and game related things).
-Read more]]></summary>
-        <author>
-            <name>Ed Thorn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Most Interesting New Features Of Linux 6.0]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.0-New-Features</id>
-        <link href="https://www.phoronix.com/news/Linux-6.0-New-Features"/>
-        <updated>2022-10-02T09:55:36.000Z</updated>
-        <summary type="html"><![CDATA[Barring any last minute reservations today by Linus Torvalds, the Linux 6.0 stable kernel is expected to be christened before the day is through. Linux 6.0 comes with many notable hardware support additions and other improvements, here is a reminder of all what is great about this imminent kernel release...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abhijith PA: Laptop refreshment]]></title>
-        <id>https://abhijithpa.me/2022/Laptop-refresh/</id>
-        <link href="https://abhijithpa.me/2022/Laptop-refresh/"/>
-        <updated>2022-10-02T09:53:00.000Z</updated>
-        <summary type="html"><![CDATA[(Sorry if you have read this already, due to a tag mistake, my draft 
-copy got published)
-I recently bought a refurbished thinkpad x260. If you have read my 
-post of my <a href=”<!DOCTYPE html>
-
-  
-
-
-
-  
-Abhijith PA
-Hello, I'm Abhijith. A Free Software enthusiast.
-
-                  Twitter
-                
-              
-
-                  GitHub
-                
-              
-
-                  Email
-                
-              
-
-                  Gitlab
-                
-              
-
-                RSS
-              
-            
-Blog
-About me
-Résumé
-
-  </div>
-</header>
-
-
-    
-4 Aug 2022
-      
-      • on debian travel leisure 
-      
-    
-Trip to misty mountains in Munnar
-Munnar is a hill station in Idukki district of Kerala, India. Home to 
-2nd largest tea plantation in the cou…]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayStation Stars apparently gives "priority" customer support to top members]]></title>
-        <id>https://www.vg247.com/playstation-stars-priority-customer-support</id>
-        <link href="https://www.vg247.com/playstation-stars-priority-customer-support"/>
-        <updated>2022-10-02T09:50:14.000Z</updated>
-        <summary type="html"><![CDATA[PlayStation Stars has just launched in Asia, but some players are unhappy that top members are reportedly being given "priority" support.
-
-
-First announced back in July, PlayStation Stars has now launched in Asia this week, with the confirmation that the loyalty program will come to North America and Europe in October. However, as reported by VGC, top members of the program are supposedly being given priority when it comes to customer support, which a number of players aren't happy with.
-
-
-PlayStation Stars apparently has a four tier system that players can progress through by purchasing games and earning trophies. The fourth and highest tier requires you to buy four full-price games on the PlayStation and accrue 128 rare trophies. If a player manages to do this, they'll net a commemorative collectible, and according to Sony, "when contacting PlayStation Customer Support," tier four players "will be given priority in the chat order."
- 
-Read more]]></summary>
-        <author>
-            <name>Oisin Kuhnke</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debian Choose A Reasonable, Common Sense Solution To Dealing With Non-Free Firmware]]></title>
-        <id>https://www.phoronix.com/news/Debian-Non-Free-Firmware-Result</id>
-        <link href="https://www.phoronix.com/news/Debian-Non-Free-Firmware-Result"/>
-        <updated>2022-10-02T09:26:19.000Z</updated>
-        <summary type="html"><![CDATA[Debian developers have been figuring out an updated stance to take on non-free firmware considering the increasing number of devices now having open-source Linux drivers but requiring closed-source firmware for any level of functionality. The voting on the non-free firmware matter has now concluded and the votes tallied.....]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
 </feed>
