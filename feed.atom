@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-15T11:21:46.703Z</updated>
+    <updated>2022-10-15T12:49:48.008Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.1 Brings VirtIO Block "Secure Erase", vDPA Feature Provisioning]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-VirtIO</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-VirtIO"/>
+        <updated>2022-10-15T12:23:19.000Z</updated>
+        <summary type="html"><![CDATA[The VirtIO changes were merged this week for the Linux 6.1 merge window that is ending this weekend...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gotham Knights är låst till 30 FPS på Playstation 5 och Xbox Series X/S]]></title>
+        <id>https://www.fz.se/artikel/291795</id>
+        <link href="https://www.fz.se/artikel/291795-gotham-knights-ar-last-till-30-fps-pa-playstation-5-och-xbox-series-x-s"/>
+        <updated>2022-10-15T12:19:13.000Z</updated>
+        <summary type="html"><![CDATA[Batmans familj slåss i slowmotion.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azza Aero 480 Review: Too Much Airflow?]]></title>
+        <id>tapa96Lv7pAXv3m4uQHW9A</id>
+        <link href="https://www.tomshardware.com/reviews/azza-aero-480"/>
+        <updated>2022-10-15T12:00:19.000Z</updated>
+        <summary type="html"><![CDATA[The Azza Aero 480 case offers a boatload of RGB for less than expected, but in testing, its thermal performance wasn’t as good as you might expect.]]></summary>
+        <author>
+            <name>mylesgoldman@icloud.com (Myles Goldman)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New, transparent AI tool may help detect blood poisoning]]></title>
+        <id>https://arstechnica.com/?p=1889636</id>
+        <link href="https://arstechnica.com/?p=1889636"/>
+        <updated>2022-10-15T11:31:32.000Z</updated>
+        <summary type="html"><![CDATA[The algorithm scans electronic records and may reduce sepsis deaths.]]></summary>
+        <author>
+            <name>Undark Magazine</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intel's Vulkan Driver Lands More Patches To Help Reduce CPU Overhead]]></title>
         <id>https://www.phoronix.com/news/Intel-ANV-Less-Overhead-Z</id>
@@ -19726,26 +19766,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Beyond Good & Evil Forever.]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam On Linux Usage Receded Slightly In September]]></title>
-        <id>https://www.phoronix.com/news/Steam-Survey-September-2022</id>
-        <link href="https://www.phoronix.com/news/Steam-Survey-September-2022"/>
-        <updated>2022-10-02T00:44:30.000Z</updated>
-        <summary type="html"><![CDATA[While the Steam on Linux marketshare has been consistently increasing this year since the launch of the Arch Linux powered Steam Deck, the September 2022 numbers are in and surprisingly there is a slight pull-back in Linux use...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comic for 2022.10.02 - Scary Month]]></title>
-        <id>https://explosm.net/comics/scary-month</id>
-        <link href="https://explosm.net/comics/scary-month"/>
-        <updated>2022-10-02T00:00:43.000Z</updated>
-        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
-        <author>
-            <name>Explosm.net</name>
         </author>
     </entry>
 </feed>

@@ -4632,6 +4632,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-6.1-VirtIO",
+          "author": null,
+          "description": "The VirtIO changes were merged this week for the Linux 6.1 merge window that is ending this weekend...",
+          "link": "https://www.phoronix.com/news/Linux-6.1-VirtIO",
+          "publishedOn": "2022-10-15T12:23:19.000Z",
+          "wordCount": 1390,
+          "title": "Linux 6.1 Brings VirtIO Block \"Secure Erase\", vDPA Feature Provisioning",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Intel-ANV-Less-Overhead-Z",
           "author": null,
           "description": "A set of 12 patches adding 720 lines of new code and removing 222 lines of existing code to Intel's \"ANV\" open-source Vulkan driver have been merged for Mesa 22.3 to help reduce the Vulkan push descriptor CPU overhead...",
@@ -5869,16 +5879,6 @@
           "publishedOn": "2022-10-02T08:59:26.000Z",
           "wordCount": 1340,
           "title": "AMD Publishes New Family 19h CPU Microcode",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Steam-Survey-September-2022",
-          "author": null,
-          "description": "While the Steam on Linux marketshare has been consistently increasing this year since the launch of the Arch Linux powered Steam Deck, the September 2022 numbers are in and surprisingly there is a slight pull-back in Linux use...",
-          "link": "https://www.phoronix.com/news/Steam-Survey-September-2022",
-          "publishedOn": "2022-10-02T00:44:30.000Z",
-          "wordCount": 1322,
-          "title": "Steam On Linux Usage Receded Slightly In September",
           "imageUrl": null
         }
       ]
@@ -7415,6 +7415,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "tapa96Lv7pAXv3m4uQHW9A",
+          "author": "mylesgoldman@icloud.com (Myles Goldman)",
+          "description": "The Azza Aero 480 case offers a boatload of RGB for less than expected, but in testing, its thermal performance wasn’t as good as you might expect.",
+          "link": "https://www.tomshardware.com/reviews/azza-aero-480",
+          "publishedOn": "2022-10-15T12:00:19.000Z",
+          "wordCount": 25949,
+          "title": "Azza Aero 480 Review: Too Much Airflow?",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/VVG4cKwoSkEWr4MSyfvAU8.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/VVG4cKwoSkEWr4MSyfvAU8.jpg"
+        },
         {
           "id": "UAmx4EKFEvXvB4aLUL5vJP",
           "author": null,
@@ -10652,6 +10667,16 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1889636",
+          "author": "Undark Magazine",
+          "description": "The algorithm scans electronic records and may reduce sepsis deaths.",
+          "link": "https://arstechnica.com/?p=1889636",
+          "publishedOn": "2022-10-15T11:31:32.000Z",
+          "wordCount": 1921,
+          "title": "New, transparent AI tool may help detect blood poisoning",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/medical-records-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1890094",
           "author": "Jennifer Ouellette",
           "description": "Hebrides Redacted is meant to show \"how human activities have silenced nature.”",
@@ -12448,6 +12473,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291795",
+          "author": null,
+          "description": "Batmans familj slåss i slowmotion.",
+          "link": "https://www.fz.se/artikel/291795-gotham-knights-ar-last-till-30-fps-pa-playstation-5-och-xbox-series-x-s",
+          "publishedOn": "2022-10-15T12:19:13.000Z",
+          "wordCount": 1922,
+          "title": "Gotham Knights är låst till 30 FPS på Playstation 5 och Xbox Series X/S",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291795"
+        },
         {
           "id": "https://www.fz.se/artikel/291794",
           "author": null,
@@ -14833,16 +14868,6 @@
           "publishedOn": "2022-10-03T15:53:44.000Z",
           "wordCount": 638,
           "title": "Comic for 2022.10.03 - Noah",
-          "imageUrl": null
-        },
-        {
-          "id": "https://explosm.net/comics/scary-month",
-          "author": null,
-          "description": "New Cyanide and Happiness Comic",
-          "link": "https://explosm.net/comics/scary-month",
-          "publishedOn": "2022-10-02T00:00:43.000Z",
-          "wordCount": 639,
-          "title": "Comic for 2022.10.02 - Scary Month",
           "imageUrl": null
         }
       ]
