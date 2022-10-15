@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-15T12:49:48.008Z</updated>
+    <updated>2022-10-15T13:44:44.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Fighting game streamer and player Majin Obama lights up Shibuya Crossing in billboard ads]]></title>
+        <id>https://www.vg247.com/fighting-game-streamer-and-player-majin-obama-lights-up-shibuya-crossing-in-billboard-ads</id>
+        <link href="https://www.vg247.com/fighting-game-streamer-and-player-majin-obama-lights-up-shibuya-crossing-in-billboard-ads"/>
+        <updated>2022-10-15T13:32:36.000Z</updated>
+        <summary type="html"><![CDATA[Twitch streamer, content creator, and Guilty Gear Strive celestial-ranked gatekeeper  Majin Obama has recently started lighting up the busiest pedestrian crossing in the world: Shibuya Crossing. Earnt as part of a series of Twitch promotional campaigns in Japan, Mr Obama was able to net the prize of having their stream and face plastered around bustling Tokyo.
+A long time fighting game player and former English teacher, Majin Obama has gradually been building an audience as one of the communities’ most charismatic creators. Alongside their streaming work, they’ve created videos on a variety of topical topics, including the recent Street Fighter 6 closed beta, the “official FGC certification exam” and a guide on how to get Twitch rich following the earnings leak late last year.
+Reaching out to him via Twitter DMs, Majin Obama expressed how he felt “proud but also lucky”, the shining screens in Shibuya affirming the fortune and work that’s gone into their career up until this point. “I suppose I have come a long way in more ways than one since I started streaming, but I feel lucky to have grown a strong community along with it.”
+ Read more]]></summary>
+        <author>
+            <name>Connor Makar</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel 13th-Gen Raptor Lake Specs, Release Date, Benchmarks, and More]]></title>
+        <id>phD5H6ZPRfdX4oEQ6giK7N</id>
+        <link href="https://www.tomshardware.com/news/intel-13th-gen-raptor-lake-release-date-specifications-pricing-benchmarks-all-we-know-specs"/>
+        <updated>2022-10-15T13:30:34.000Z</updated>
+        <summary type="html"><![CDATA[Here's the Intel 13th-Gen Raptor Lake release date, benchmarks, specifications, pricing, and all we know about the new chip architecture.]]></summary>
+        <author>
+            <name>palcorn@outlook.com (Paul Alcorn)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How To Remove Image Backgrounds Using Gimp]]></title>
+        <id>mw2EQBAvkJky3AYF3RQ7TH</id>
+        <link href="https://www.tomshardware.com/how-to/remove-background-images-gimp"/>
+        <updated>2022-10-15T13:00:59.000Z</updated>
+        <summary type="html"><![CDATA[Learn how to remove objects from images and place them in entirely new environs.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HP-BIOSCFG Driver Being Worked On For HP Laptop BIOS Management Under Linux]]></title>
+        <id>https://www.phoronix.com/news/HP-BIOSCFG-Linux-Driver</id>
+        <link href="https://www.phoronix.com/news/HP-BIOSCFG-Linux-Driver"/>
+        <updated>2022-10-15T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[HP's commercial/business-focused laptops expose a Windows WMI interface that supports the web-based enterprise management of the BIOS configurations. The "HP-BIOSCFG" Linux driver is now being worked on to allow managing the BIOS settings for these HP laptops from within Linux...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux 6.1 Brings VirtIO Block "Secure Erase", vDPA Feature Provisioning]]></title>
         <id>https://www.phoronix.com/news/Linux-6.1-VirtIO</id>
