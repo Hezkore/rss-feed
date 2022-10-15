@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-15T05:51:23.435Z</updated>
+    <updated>2022-10-15T06:38:58.187Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
@@ -24,6 +24,16 @@
         <summary type="html"><![CDATA[<h4>Too young to drive, old enough to bribe AT&amp;T staff, apparently</h4> <p>A man who lost $24 million in cryptocurrency in an elaborate SIM swapping scam has won a multi-million-dollar judgment against the thief, who was 15 at the time of the hustle.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comic for 2022.10.15 - Gender Neutral]]></title>
+        <id>https://explosm.net/comics/gender-neutral</id>
+        <link href="https://explosm.net/comics/gender-neutral"/>
+        <updated>2022-10-15T00:00:20.000Z</updated>
+        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
+        <author>
+            <name>Explosm.net</name>
         </author>
     </entry>
     <entry>
@@ -19685,26 +19695,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[System76 has been developing their own COSMIC desktop as the next evolution for their Pop!_OS Linux distribution built atop an Ubuntu base. Interestingly with this big COSMIC desktop undertaking, which is being written in the Rust programming language, they have decided to shift away from using the GTK toolkit to instead make use of Iced-Rs as a Rust-native, multi-platform graphical toolkit...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The weekend’s best deals: Apple MacBooks, Samsung Galaxy Watch 5, 4K TVs, and more]]></title>
-        <id>https://arstechnica.com/?p=1886079</id>
-        <link href="https://arstechnica.com/?p=1886079"/>
-        <updated>2022-10-01T18:16:12.000Z</updated>
-        <summary type="html"><![CDATA[Dealmaster also has PC accessories, gift card deals, and some of our favorite wearables.]]></summary>
-        <author>
-            <name>Corey Gaskin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD B650 Motherboards Listed at U.S. Retailer Starting at $199]]></title>
-        <id>MKsYpvXrz39HKzwH4eio4B</id>
-        <link href="https://www.tomshardware.com/news/amd-b650-motherboards-listed-at-us-retailer-starting-at-dollar199"/>
-        <updated>2022-10-01T18:08:24.000Z</updated>
-        <summary type="html"><![CDATA[B&H Photo Video lists a ton of AMD B650 motherboards for budget users.]]></summary>
-        <author>
-            <name>Tomshardware</name>
         </author>
     </entry>
 </feed>
