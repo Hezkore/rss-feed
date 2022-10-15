@@ -4632,6 +4632,36 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Intel-ANV-Less-Overhead-Z",
+          "author": null,
+          "description": "A set of 12 patches adding 720 lines of new code and removing 222 lines of existing code to Intel's \"ANV\" open-source Vulkan driver have been merged for Mesa 22.3 to help reduce the Vulkan push descriptor CPU overhead...",
+          "link": "https://www.phoronix.com/news/Intel-ANV-Less-Overhead-Z",
+          "publishedOn": "2022-10-15T10:11:16.000Z",
+          "wordCount": 1374,
+          "title": "Intel's Vulkan Driver Lands More Patches To Help Reduce CPU Overhead",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.1-PSI",
+          "author": null,
+          "description": "Among the pull requests coming in late in the merge window for the Linux 6.1 cycle is the \"sched/psi\" updates for the code improvements around Pressure Stall Information...",
+          "link": "https://www.phoronix.com/news/Linux-6.1-PSI",
+          "publishedOn": "2022-10-15T10:00:58.000Z",
+          "wordCount": 1289,
+          "title": "Linux 6.1 Picks Up Some Improvements For Pressure Stall Information (PSI)",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Intel-XeSS-1.0.1-Released",
+          "author": null,
+          "description": "Last month Intel published the XeSS 1.0 SDK for their Xe Super Sampling technology showcased with Arc Graphics discrete graphics cards. Sadly their initial SDK drop included Windows binaries and wasn't fully open-source. On Friday XeSS 1.0.1 was published with some bug fixes but still not being fully open-source...",
+          "link": "https://www.phoronix.com/news/Intel-XeSS-1.0.1-Released",
+          "publishedOn": "2022-10-15T09:44:58.000Z",
+          "wordCount": 1387,
+          "title": "Intel XeSS 1.0.1 Released With Bug Fixes",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/KDE-Wayland-High-Res-Scroll",
           "author": null,
           "description": "The KDE Plasma Wayland session is finally supporting high resolution scroll wheel support that was engineered by Red Hat and originally supported under GNOME for allowing a smoother scrolling experience on the Linux desktop...",
@@ -7387,16 +7417,6 @@
           "wordCount": 4823,
           "title": "Shenmue The Animation has been cancelled after its first season",
           "imageUrl": "https://assets2.rockpapershotgun.com/shenmue-the-animation.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/shenmue-the-animation.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/imagine-any-console-having-a-launch-line-up-as-good-as-steam-decks-most-played-games-in-september",
-          "author": "Graham Smith",
-          "description": "I've no idea how many Steam Decks Valve have sold, but cor: it sure seems to be a success in terms of the diversity of games people are enjoying on it.\r\n\nYesterday, the official Steam Deck Twitter account shared a list of the most played games on the handheld PC gaming machine in September. The list includes Vampire Survivors, Elden Ring, Stardew Valley, Cyberpunk 2077, Hades and No Man's Sky.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/imagine-any-console-having-a-launch-line-up-as-good-as-steam-decks-most-played-games-in-september",
-          "publishedOn": "2022-10-01T21:54:05.000Z",
-          "wordCount": 4798,
-          "title": "Imagine any console having a launch line-up as good as Steam Deck's most played games in September",
-          "imageUrl": "https://assets2.rockpapershotgun.com/Vampire-Survivors-Steam-Deck.JPG/BROK/thumbnail/1600x900/format/jpg/quality/80/Vampire-Survivors-Steam-Deck.JPG"
         }
       ]
     },
@@ -10248,6 +10268,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "https://jmtd.net/log/podman_generate/",
+          "author": null,
+          "description": "I've been working with and on container technology for seven years, but I still\nlearn new things every day. Recently I read the excellent LWN article Docker\nand the OCI container ecosystem and this was\nnews to me:\nRunning the docker CLI under a process supervisor only results in supervising\nthe CLI process. This has a variety of consequences for users of these tools.\nFor example, any attempt to limit a container's memory usage by running the\nCLI as a systemd service will fail; the limits will only apply to the CLI and\nits non-existent children. In addition, attempts to terminate a client\nprocess may not result in terminating all of the processes in the container.\n\n\nHuh — of course! I hadn't really thought about that. I run a small number of\ncontainers on my home system via docker (since I …",
+          "link": "https://jmtd.net/log/podman_generate/",
+          "publishedOn": "2022-10-15T10:04:14.000Z",
+          "wordCount": 476,
+          "title": "Jonathan Dowland: podman generate",
+          "imageUrl": null
+        },
+        {
           "id": "http://blog.sesse.net/blog/tech/2022-10-14-19-00_firsts.html",
           "author": null,
           "description": "Two nice “firsts” for me in tech this month:\nFirst Chromium feature I'm leading (previous work has mostly been\nabout optimizations): CSS Nesting.\n(Note that the CSSWG is still ironing out the exact spec.)\nFirst patch to a Rust project: Function context for Difftastic.\n(Not yet processed by upstream.)",
@@ -12428,6 +12458,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291794",
+          "author": null,
+          "description": "Dyster fiolmusik från Stirling.",
+          "link": "https://www.fz.se/artikel/291794-lindsey-stirling-gor-officiell-musikvideo-till-a-plague-tale-requiem",
+          "publishedOn": "2022-10-15T10:00:00.000Z",
+          "wordCount": 1759,
+          "title": "Lindsey Stirling gör officiell musikvideo till A Plague Tale: Requiem",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291794"
+        },
         {
           "id": "https://www.fz.se/artikel/291792",
           "author": null,
