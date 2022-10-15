@@ -5820,16 +5820,6 @@
           "wordCount": 1322,
           "title": "Steam On Linux Usage Receded Slightly In September",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/COSMIC-Desktop-Iced-Toolkit",
-          "author": null,
-          "description": "System76 has been developing their own COSMIC desktop as the next evolution for their Pop!_OS Linux distribution built atop an Ubuntu base. Interestingly with this big COSMIC desktop undertaking, which is being written in the Rust programming language, they have decided to shift away from using the GTK toolkit to instead make use of Iced-Rs as a Rust-native, multi-platform graphical toolkit...",
-          "link": "https://www.phoronix.com/news/COSMIC-Desktop-Iced-Toolkit",
-          "publishedOn": "2022-10-01T19:12:51.000Z",
-          "wordCount": 1509,
-          "title": "System76's Pop!_OS COSMIC Desktop To Make Use Of Iced Rust Toolkit Rather Than GTK",
-          "imageUrl": null
         }
       ]
     },
@@ -13946,6 +13936,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/35077",
+          "author": null,
+          "description": "Föredrar du ultralätta tillbehör eller föredrar du gedigna prylar med lite mer tyngd? I helgen pratar vi om prylar och kringutrustning, eller mer specifikt vikten på dessa.",
+          "link": "https://www.sweclockers.com/artikel/35077-helgsnack-hur-viktig-ar-vikten-pa-dina-prylar",
+          "publishedOn": "2022-10-15T07:08:00.000Z",
+          "wordCount": 1403,
+          "title": "Helgsnack: Hur viktig är vikten på dina prylar?",
+          "imageUrl": "https://www.sweclockers.com/artikel/35077/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/35075",
           "author": null,
           "description": "Moderskeppet är kryssningen för alla som älskar spel och hårdvara. Här är vad som händer för dig ombord och vad alla andra missar.",
@@ -14644,16 +14644,6 @@
           "wordCount": 1399,
           "title": "Söndagsmatiné: Att programmera på 80-talet",
           "imageUrl": "https://www.sweclockers.com/artikel/35008/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/35007",
-          "author": null,
-          "description": "När Intel äntrar grafikkortsmarknaden kan Acer bli partnertillverkare. På Twitter visas en variant med kylare som både är öppen och av [i]blower[/i]-typ.",
-          "link": "https://www.sweclockers.com/artikel/35007-acer-visar-intel-arc-a770-med-annorlunda-kylarlosning",
-          "publishedOn": "2022-10-01T19:16:50.000Z",
-          "wordCount": 1697,
-          "title": "Acer visar Intel Arc A770 med annorlunda kylarlösning",
-          "imageUrl": "https://www.sweclockers.com/artikel/35007/og-image"
         }
       ]
     },
