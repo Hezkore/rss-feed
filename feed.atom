@@ -2,10 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-16T18:31:47.238Z</updated>
+    <updated>2022-10-16T19:22:39.790Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sven Hoexter: CentOS 9, stunnel, an openssl memory leak and a VirtualBox crash]]></title>
+        <id>http://sven.stormbind.net/blog/posts/centos_c9s_stunnel_memleak/</id>
+        <link href="http://sven.stormbind.net/blog/posts/centos_c9s_stunnel_memleak/"/>
+        <updated>2022-10-16T18:24:40.000Z</updated>
+        <summary type="html"><![CDATA[tl;dr; OpenSSL 3.0.1 leaks memory in ssl3_setup_write_buffer(), seems to be
+fixed in 3.0.5. The issue manifests at least in stunnel and keepalived on CentOS 9.
+In addition I learned the hard way that running a not so recent VirtualBox version
+on Debian bullseye let to dh parameter generation crashing in libcrypto in
+bn_sqr8x_internal().
+A recent rabbit hole I went down. The actual bug in openssl was nailed down and
+documented by
+Quentin Armitage on GitHub in keepalived
+My bugreport with all back and forth in the RedHat Bugzilla is
+#2128412.
+Act I - Hello stunnel, this is the OOMkiller Calling
+We started to use stunnel on Google Cloud compute engine instances running CentOS 9.
+The loadbalancer in front of those instances used a TCP health check to validate the
+backend availability. A day or…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD Sends Out Basic Zen 4 "Znver4" Enablement For The GCC Compiler]]></title>
         <id>https://www.phoronix.com/news/AMD-Zen-4-Znver4-GCC-Enable</id>
@@ -19822,26 +19845,6 @@ Read more]]></summary>
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/03/who_me/"/>
         <updated>2022-10-03T07:30:12.000Z</updated>
         <summary type="html"><![CDATA[<h4>Sure, I’ll sit here all day taking notes because you’re too cheap to print them out</h4> <p><strong>Who, Me?</strong>  Welcome once again to Who, Me?, in which <i>The Register</i> celebrates the working week stretching out ahead of us all with readers' tales of messes they made, and escaped.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rykte: En remaster av Horizon Zero Dawn är på väg]]></title>
-        <id>https://www.fz.se/artikel/291656</id>
-        <link href="https://www.fz.se/artikel/291656-rykte-en-remaster-av-horizon-zero-dawn-ar-pa-vag"/>
-        <updated>2022-10-03T06:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Frågan är om det behövs.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moody's turns up the heat on 'riskiest' sectors for cyberattacks]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/03/moodys_cyber_risk_ratings/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/03/moodys_cyber_risk_ratings/"/>
-        <updated>2022-10-03T06:33:06.000Z</updated>
-        <summary type="html"><![CDATA[<h4>$22 trillion of global rated debt has 'high' or 'very high' cyber-risk exposure</h4> <p>About $22 trillion of global debt rated by Moody's Investors Service has "high," or "very high" cyber-risk exposure, with electric, gas and water utilities, as well as hospitals, among the sectors facing the highest risk of cyberattacks.…</p>]]></summary>
         <author>
             <name>The Register</name>
         </author>

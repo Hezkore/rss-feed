@@ -10438,6 +10438,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "http://sven.stormbind.net/blog/posts/centos_c9s_stunnel_memleak/",
+          "author": null,
+          "description": "tl;dr; OpenSSL 3.0.1 leaks memory in ssl3_setup_write_buffer(), seems to be\nfixed in 3.0.5. The issue manifests at least in stunnel and keepalived on CentOS 9.\nIn addition I learned the hard way that running a not so recent VirtualBox version\non Debian bullseye let to dh parameter generation crashing in libcrypto in\nbn_sqr8x_internal().\nA recent rabbit hole I went down. The actual bug in openssl was nailed down and\ndocumented by\nQuentin Armitage on GitHub in keepalived\nMy bugreport with all back and forth in the RedHat Bugzilla is\n#2128412.\nAct I - Hello stunnel, this is the OOMkiller Calling\nWe started to use stunnel on Google Cloud compute engine instances running CentOS 9.\nThe loadbalancer in front of those instances used a TCP health check to validate the\nbackend availability. A day or…",
+          "link": "http://sven.stormbind.net/blog/posts/centos_c9s_stunnel_memleak/",
+          "publishedOn": "2022-10-16T18:24:40.000Z",
+          "wordCount": 719,
+          "title": "Sven Hoexter: CentOS 9, stunnel, an openssl memory leak and a VirtualBox crash",
+          "imageUrl": null
+        },
+        {
           "id": "tag:www.chiark.greenend.org.uk,2022-10-16:/~cjwatson/blog/reproducible-man-db-databases.html",
           "author": null,
           "description": "I’ve released man-db 2.11.0\n(announcement,\nNEWS), and\nuploaded it to Debian unstable.\nThe biggest chunk of work here was fixing some extremely long-standing\nissues with how the database is built.  Despite being in the package name,\nman-db’s database is much less important than it used to be: most uses of\nman(1) haven’t required it in a long time, and both hardware and\nsoftware\nimprovements\nmean that even some searches can be done by brute force without needing\nprior indexing.  However, the database is still needed for the whatis(1)\nand apropos(1) commands.\nThe database has a simple format - no relational structure here, it’s just a\nsimple key-value database using old-fashioned DBM-like interfaces and\ncomposing a few fields to form values - but there are a number of subtleties\ninvolved.  Th…",
@@ -14177,16 +14187,6 @@
           "wordCount": 1868,
           "title": "God of Wars pc-portare jobbar på ett spel med stort Playstation-IP",
           "imageUrl": "https://www.fz.se/artikel/og-image/291657"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291656",
-          "author": null,
-          "description": "Frågan är om det behövs.",
-          "link": "https://www.fz.se/artikel/291656-rykte-en-remaster-av-horizon-zero-dawn-ar-pa-vag",
-          "publishedOn": "2022-10-03T06:57:00.000Z",
-          "wordCount": 2066,
-          "title": "Rykte: En remaster av Horizon Zero Dawn är på väg",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291656"
         }
       ]
     },
@@ -17731,16 +17731,6 @@
           "wordCount": 1159,
           "title": "Tetchy trainee turned the lights down low to teach turgid lecturer a lesson",
           "imageUrl": "https://regmedia.co.uk/2022/09/30/shutterstock_using_torch_in_dark.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/moodys_cyber_risk_ratings/",
-          "author": null,
-          "description": "<h4>$22 trillion of global rated debt has 'high' or 'very high' cyber-risk exposure</h4> <p>About $22 trillion of global debt rated by Moody's Investors Service has \"high,\" or \"very high\" cyber-risk exposure, with electric, gas and water utilities, as well as hospitals, among the sectors facing the highest risk of cyberattacks.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/moodys_cyber_risk_ratings/",
-          "publishedOn": "2022-10-03T06:33:06.000Z",
-          "wordCount": 1429,
-          "title": "Moody's turns up the heat on 'riskiest' sectors for cyberattacks",
-          "imageUrl": "https://regmedia.co.uk/2022/09/30/risk_measurement_shutterstock.jpg"
         }
       ]
     }
