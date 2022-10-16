@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-16T17:32:03.299Z</updated>
+    <updated>2022-10-16T18:31:47.238Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AMD Sends Out Basic Zen 4 "Znver4" Enablement For The GCC Compiler]]></title>
+        <id>https://www.phoronix.com/news/AMD-Zen-4-Znver4-GCC-Enable</id>
+        <link href="https://www.phoronix.com/news/AMD-Zen-4-Znver4-GCC-Enable"/>
+        <updated>2022-10-16T18:15:29.000Z</updated>
+        <summary type="html"><![CDATA[Following last month's introduction of the Ryzen 7000 series "Zen 4" processors, AMD has finally posted the code providing initial enablement for the Zen 4 CPUs with the GNU Compiler Collection (GCC)...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nvidia Allegedly Reimburses Partners For RTX 4080 12GB Cancellation]]></title>
+        <id>pmys7cfpsXYWM6XT5PiNDa</id>
+        <link href="https://www.tomshardware.com/news/nvidia-allegedly-reimburses-partners-for-rtx-4080-12gb-cancellation"/>
+        <updated>2022-10-16T17:30:35.000Z</updated>
+        <summary type="html"><![CDATA[AIBs won’t have to shoulder the costs of repackaging, reprinting, new BIOS and driver tweaks, alone. The renamed hardware is expected to launch during CES 2023-time.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[An indie dev brought the fake Simpsons Waterworld game to life]]></title>
         <id>https://www.vg247.com/an-indie-dev-brought-the-fake-simpsons-waterworld-game-to-life</id>

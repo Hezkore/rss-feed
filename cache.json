@@ -4652,6 +4652,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/AMD-Zen-4-Znver4-GCC-Enable",
+          "author": null,
+          "description": "Following last month's introduction of the Ryzen 7000 series \"Zen 4\" processors, AMD has finally posted the code providing initial enablement for the Zen 4 CPUs with the GNU Compiler Collection (GCC)...",
+          "link": "https://www.phoronix.com/news/AMD-Zen-4-Znver4-GCC-Enable",
+          "publishedOn": "2022-10-16T18:15:29.000Z",
+          "wordCount": 1447,
+          "title": "AMD Sends Out Basic Zen 4 \"Znver4\" Enablement For The GCC Compiler",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Linux-6.1-PowerPC",
           "author": null,
           "description": "The IBM POWER/PowerPC changes were merged this week for the Linux 6.1 kernel with this cycle's merge window closing later today...",
@@ -7495,6 +7505,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "pmys7cfpsXYWM6XT5PiNDa",
+          "author": null,
+          "description": "AIBs won’t have to shoulder the costs of repackaging, reprinting, new BIOS and driver tweaks, alone. The renamed hardware is expected to launch during CES 2023-time.",
+          "link": "https://www.tomshardware.com/news/nvidia-allegedly-reimburses-partners-for-rtx-4080-12gb-cancellation",
+          "publishedOn": "2022-10-16T17:30:35.000Z",
+          "wordCount": 22276,
+          "title": "Nvidia Allegedly Reimburses Partners For RTX 4080 12GB Cancellation",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/FAJntdjHRPe3kFtT98XSw9.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/FAJntdjHRPe3kFtT98XSw9.jpg"
+        },
         {
           "id": "5etWrNGk8Fd9VXRXdtMs3f",
           "author": "palcorn@outlook.com (Paul Alcorn)",
