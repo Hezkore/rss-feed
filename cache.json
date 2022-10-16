@@ -749,16 +749,6 @@
           "wordCount": 1558,
           "title": "SteamOS and Steam Deck on top for Linux in the Steam Hardware Survey",
           "imageUrl": "https://www.gamingonlinux.com/uploads/tagline_gallery/steam_deck.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/10/proton-experimental-updates-fix-up-indiana-jones-final-fantasy-iv-3d-remake/",
-          "author": "Liam Dawe",
-          "description": "Valve has recently put up a fresh update for Proton Experimental, bringing more game compatibility and some fixes.",
-          "link": "https://www.gamingonlinux.com/2022/10/proton-experimental-updates-fix-up-indiana-jones-final-fantasy-iv-3d-remake/",
-          "publishedOn": "2022-10-03T09:46:33.000Z",
-          "wordCount": 1202,
-          "title": "Proton Experimental updates fix up Indiana Jones, Final Fantasy IV (3D Remake)",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/tagline_gallery/proton.jpg"
         }
       ]
     },
@@ -767,6 +757,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/silent-hill-series-return-to-be-detailed-this-week",
+          "author": "Tom Phillips",
+          "description": "It's finally happening. A decade on from the last full Silent Hill game, the survival horror franchise is making a long-awaited comback. \r\n\n\r\nThe future of the Silent Hill series will be unveiled this week - on Wednesday at 10pm here in the UK. \r\n\n\r\n\"In your restless dreams, do you see that town?\" the official Silent Hill Twitter account teased this evening. \"The latest updates for the Silent series, will be revealed during the #SilentHill Transmission on Wednesday, 19th October at 2pm PDT.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/silent-hill-series-return-to-be-detailed-this-week",
+          "publishedOn": "2022-10-16T21:46:57.000Z",
+          "wordCount": 4627,
+          "title": "Konami confirms Silent Hill return",
+          "imageUrl": "https://assets.reedpopcdn.com/Silent-Hill-Rated-Korea_09-26-22.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Silent-Hill-Rated-Korea_09-26-22.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/heres-a-peek-at-the-first-few-levels-of-peaky-blinders-the-kings-ransom-on-quest-2",
           "author": "Ian Higton",
@@ -3076,26 +3076,6 @@
           "wordCount": 4509,
           "title": "PlayStation Stars rumoured to have exclusive invitation-only tier",
           "imageUrl": "https://assets.reedpopcdn.com/ps-stars-release.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ps-stars-release.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/new-horizon-forbidden-west-content-teased-by-actor-lance-reddick",
-          "author": "Victoria Kennedy",
-          "description": "Lance Reddick, the man behind Horizon's Sylens, has teased upcoming content for Forbidden West.\r\n\n\r\nIn a now-deleted tweet, the actor shared a short video of himself \"hard at work\" doing \"face capture\". \r\n\n\r\nReddick captioned this tweet: \"... in a session for [Horizon Forbidden West]\". \r\n \nRead more",
-          "link": "https://www.eurogamer.net/new-horizon-forbidden-west-content-teased-by-actor-lance-reddick",
-          "publishedOn": "2022-10-03T10:21:49.000Z",
-          "wordCount": 4641,
-          "title": "New Horizon Forbidden West content teased by actor Lance Reddick",
-          "imageUrl": "https://assets.reedpopcdn.com/sylens.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/sylens.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/playstation-boss-flew-to-brussels-to-appeal-microsoft-call-of-duty-deal-in-person",
-          "author": "Tom Phillips",
-          "description": "Boss of PlayStation Jim Ryan travelled to Brussels to meet EU regulators in person to discuss Microsoft's impending Activision Blizzard purchase.\r\n\n\r\nRyan has been vocal in his criticism of the proposed $68bn deal, which would see Xbox own the Call of Duty publisher.\r\n\nDealreporter (via VGC) reports that Ryan flew to Europe on 8th September to meet regulators and express his concerns face-to-face.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/playstation-boss-flew-to-brussels-to-appeal-microsoft-call-of-duty-deal-in-person",
-          "publishedOn": "2022-10-03T10:16:42.000Z",
-          "wordCount": 4658,
-          "title": "PlayStation boss flew to Brussels to appeal Microsoft Call of Duty deal in person",
-          "imageUrl": "https://assets.reedpopcdn.com/jimryan_8wEwFvv.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/jimryan_8wEwFvv.jpg"
         }
       ]
     },
@@ -5829,46 +5809,6 @@
           "publishedOn": "2022-10-03T12:47:41.000Z",
           "wordCount": 1406,
           "title": "OpenMandriva's Rolling Release Reaches \"Gold\", Continues With AMD Zen Optimized Version",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Debian-Dynamic-Triple-GNOME",
-          "author": null,
-          "description": "There's been a lot happening in Debian recently from improving their handling of non-free firmware to switching to PipeWire and WirePlumber with Debian 12. Another change on the way is picking up Ubuntu's work on dynamic triple buffering for the GNOME desktop...",
-          "link": "https://www.phoronix.com/news/Debian-Dynamic-Triple-GNOME",
-          "publishedOn": "2022-10-03T10:13:03.000Z",
-          "wordCount": 1530,
-          "title": "Debian To Carry Patches For GNOME Dynamic Triple Buffering",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.1-HWMON",
-          "author": null,
-          "description": "Among the early pull requests sent in for the now-open Linux 6.1 merge window was the hardware monitoring \"HWMON\" subsystem updates...",
-          "link": "https://www.phoronix.com/news/Linux-6.1-HWMON",
-          "publishedOn": "2022-10-03T09:58:43.000Z",
-          "wordCount": 1468,
-          "title": "Linux 6.1 HWMON Nukes The Short-Lived ASUS Driver, Other Monitoring Improvements",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.1-statx-DIO-Alignment",
-          "author": null,
-          "description": "Mainlined back in 2017 was the statx() call for reporting enhanced file information and stats like finally reporting a file's creation time, data version numbers, and other attributes. Statx has continued evolving since its introduction in Linux 4.11 and now for Linux 6.1 is being expected to support reporting direct I/O alignment information...",
-          "link": "https://www.phoronix.com/news/Linux-6.1-statx-DIO-Alignment",
-          "publishedOn": "2022-10-03T09:42:58.000Z",
-          "wordCount": 1409,
-          "title": "Linux 6.1 Adding Support To statx() For Reporting Direct I/O Alignment Details",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/GNU-Linux-Libre-6.0",
-          "author": null,
-          "description": "Following yesterday's release of the upstream Linux 6.0 kernel, the GNU FSFLA folks have released GNU Linux-libre 6.0 as their downstream that removes driver support for loading binary firmware/microcode and the ability to load non-free-software kernel modules...",
-          "link": "https://www.phoronix.com/news/GNU-Linux-Libre-6.0",
-          "publishedOn": "2022-10-03T09:29:11.000Z",
-          "wordCount": 1321,
-          "title": "GNU Linux-libre 6.0 Released After More Blob Cleaning",
           "imageUrl": null
         }
       ]
@@ -14137,16 +14077,6 @@
           "wordCount": 2005,
           "title": "När Stadia stängs riskerar Red Dead 2-fanatiker att tappa nära 6 000 timmars speltid",
           "imageUrl": "https://www.fz.se/artikel/og-image/291661"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291660",
-          "author": null,
-          "description": "Bygger på demoversionen från E3 2001.",
-          "link": "https://www.fz.se/artikel/291660-fans-jobbar-pa-att-slappa-duke-nukem-forever-som-det-var-2001",
-          "publishedOn": "2022-10-03T09:57:05.000Z",
-          "wordCount": 1934,
-          "title": "Fans jobbar på att släppa Duke Nukem Forever som det var 2001",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291660"
         }
       ]
     },
@@ -17651,26 +17581,6 @@
           "wordCount": 1435,
           "title": "Founder of cybersecurity firm Acronis is afraid of his own vacuum cleaner",
           "imageUrl": "https://regmedia.co.uk/2017/07/25/roomba.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/ibm_incident_reponder_survey/",
-          "author": null,
-          "description": "<h4>Here's what 1,100 incident responders say about their jobs, just in time for NSCAM</h4> <p>Remember the good old days of cyber-incident response, when the job involved digital forensics and lots of stolen credit cards, as opposed to power-grid-breaking malware and multi-million-dollar ransom demands?…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/ibm_incident_reponder_survey/",
-          "publishedOn": "2022-10-03T10:00:10.000Z",
-          "wordCount": 1965,
-          "title": "Between ransomware and month-long engagements, IR teams need a hug — and a nap",
-          "imageUrl": "https://regmedia.co.uk/2022/09/30/woman_falling_asleep_over_chair_at_work_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/bank_of_england_dta_analytics/",
-          "author": null,
-          "description": "<h4>Data more essential than ever, says analytics chief as Liz Truss U-turns on tax, and world+dog remembers Bank's there to manage risk</h4> <p>The Bank of England had a busy end to September. On Wednesday last week, it said it would buy £65 billion (c $72 billion) of government bonds after the pound tumbled to historic lows and pensions funds went into meltdown, all seemingly the result of the government's mini-budget days earlier.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/bank_of_england_dta_analytics/",
-          "publishedOn": "2022-10-03T09:30:07.000Z",
-          "wordCount": 1737,
-          "title": "Bank of England puts cloud analytics on todo list after seeing off market collapse",
-          "imageUrl": "https://regmedia.co.uk/2020/10/30/shutterstock_bank_of_england.jpg"
         }
       ]
     }
