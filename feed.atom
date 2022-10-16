@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-16T20:28:43.624Z</updated>
+    <updated>2022-10-16T21:24:06.233Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
@@ -19808,36 +19808,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Following yesterday's release of the upstream Linux 6.0 kernel, the GNU FSFLA folks have released GNU Linux-libre 6.0 as their downstream that removes driver support for loading binary firmware/microcode and the ability to load non-free-software kernel modules...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disney sägs vilja släppa två Star Wars-spel om året]]></title>
-        <id>https://www.fz.se/artikel/291658</id>
-        <link href="https://www.fz.se/artikel/291658-disney-sags-vilja-slappa-tva-star-wars-spel-om-aret"/>
-        <updated>2022-10-03T09:03:00.000Z</updated>
-        <summary type="html"><![CDATA[Bra eller ... mindre bra?]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA Vulkan Beta driver 515.49.19 is out now, driver 515.76 causing problems]]></title>
-        <id>https://www.gamingonlinux.com/2022/10/nvidia-vulkan-beta-driver-5154919-is-out-now-driver-51576-causing-problems/</id>
-        <link href="https://www.gamingonlinux.com/2022/10/nvidia-vulkan-beta-driver-5154919-is-out-now-driver-51576-causing-problems/"/>
-        <updated>2022-10-03T08:31:11.000Z</updated>
-        <summary type="html"><![CDATA[NVIDIA have done another new release to their developer-focused Vulkan Beta driver with 515.49.19 out now.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The open internet repels its most insidious attackers. They’ll return]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/03/open_internet_opinion_column/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/03/open_internet_opinion_column/"/>
-        <updated>2022-10-03T08:30:11.000Z</updated>
-        <summary type="html"><![CDATA[<h4>It’ll take an army of billions to hold them back. Let’s make one</h4> <p><strong>Opinion</strong>  China and Russia have been colluding to try to get a Chinese Internet protocol, New IP, adopted as a global standard. It's needed, they say, to improve quality of service guarantees. (Oh, and by the way, it also lets countries take complete control of their national networks, adding user registration requirements and shutting off interoperability.)…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
