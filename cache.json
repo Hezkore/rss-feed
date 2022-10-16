@@ -191,6 +191,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/10/play-real-game-boy-cartridges-on-steam-deck-linux-with-gb-operator/",
+          "author": "Liam Dawe",
+          "description": "GB Operator excites the collector in me, giving you a small device to plug into your PC or Steam Deck, allowing you to play real Game Boy cartridges.",
+          "link": "https://www.gamingonlinux.com/2022/10/play-real-game-boy-cartridges-on-steam-deck-linux-with-gb-operator/",
+          "publishedOn": "2022-10-16T09:33:10.000Z",
+          "wordCount": 1140,
+          "title": "Play real Game Boy cartridges on Steam Deck / Linux with GB Operator",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/459848137id21741gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/10/nvidia-qunlaunchingq-the-rtx-4080-12gb-apparently-4090-ti-cancelled-due-to-melting/",
           "author": "Liam Dawe",
           "description": "Two bits of big NVIDIA news for you today one confirmed and one not so confirmed, which concerns a double-cancellation with the RTX 4080 12GB and a 4090 Ti / Titan.",
@@ -3125,6 +3135,16 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/original-bayonetta-va-calls-for-boycott-of-third-game-over-insulting-pay-offer",
+          "author": "Oisin Kuhnke",
+          "description": "Hellena Taylor, the original voice actor of PlatinumGames' Bayonetta, has called for a boycott of the game after alleging she received an \"insulting\" pay offer for the role.\r\n\n\r\nIt's been known for a little while that for whatever reason, Taylor would not be reprising her role as the now pretty iconic witch, as she essentially said as such last year. Earlier this month it was confirmed that prolific voice actor Jennifer Hale would be taking over the role, with the game's director Yusuke Miyata saying that, \"various overlapping circumstances made it difficult for Hellena Taylor to reprise her role.\" But now Taylor has posted a series of videos on her personal Twitter where she claims that she ultimately had to decline returning due to only being offered $4000 for the performance.\r\n\n\r\n\"I am asking the fans to boycott [Bayonetta 3], and instead spend the money that you would have spent on this game donating it to charity,\" Taylor asked of fans in the first of four videos she posted on Twitter yesterday, October 15. \"I didn't want the world. I didn't ask for too much. I was just asking for a decent, dignified, living wage. What they did was legal, but it was immoral.\"\r\n \nRead more",
+          "link": "https://www.vg247.com/original-bayonetta-va-calls-for-boycott-of-third-game-over-insulting-pay-offer",
+          "publishedOn": "2022-10-16T10:05:31.000Z",
+          "wordCount": 4867,
+          "title": "Original Bayonetta VA calls for boycott of third game over \"insulting\" pay offer",
+          "imageUrl": "https://asset.vg247.com/bayonetta-3-(7)_p6PF0iB.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/bayonetta-3-(7)_p6PF0iB.jpg"
+        },
+        {
           "id": "https://www.vg247.com/minecraft-120-update-coming-in-2023-fauna-faire-hits-minecraft-dungeons-next-week",
           "author": "Stephany Nunneley-Jackson",
           "description": "Minecraft 1.20 is coming next year, and at Minecraft Live 2022 today, the team at Mojang showed off a little bit of the update. \nDuring the show, the camel mob, hanging signs, chiseled bookshelves, and crafting with bamboo were shown off.\nPlayers will be able to make all sorts of things with bamboo nodes, such as planks, rafts, and more. The chiseled bookshelf will allow you to store up to six books and they can even be used as doors.\n Read more",
@@ -4562,6 +4582,26 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Linux-6.1-PowerPC",
+          "author": null,
+          "description": "The IBM POWER/PowerPC changes were merged this week for the Linux 6.1 kernel with this cycle's merge window closing later today...",
+          "link": "https://www.phoronix.com/news/Linux-6.1-PowerPC",
+          "publishedOn": "2022-10-16T10:05:05.000Z",
+          "wordCount": 1325,
+          "title": "Linux 6.1 POWERs Up With KFENCE, Syscall Wrappers, Execute-Only Memory",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.1-XFS-F2FS",
+          "author": null,
+          "description": "For the Linux 6.1 kernel Btrfs is bringing some significant performance optimizations and with EXT4 there is also some performance tuning. But when it comes to the Flash-Friendly File-System (F2FS) and the XFS file-systems this cycle is on the lighter side...",
+          "link": "https://www.phoronix.com/news/Linux-6.1-XFS-F2FS",
+          "publishedOn": "2022-10-16T09:48:00.000Z",
+          "wordCount": 1391,
+          "title": "XFS & F2FS Changes Are Tame For Linux 6.1",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Google-KataOS",
           "author": null,
           "description": "Google this week has announced the release of KataOS as their newest operating system effort focused on embedded devices running ambient machine learning workloads. KataOS is security-minded, exclusively uses the Rust programming language, and is built atop the seL4 microkernel as its foundation...",
@@ -5780,16 +5820,6 @@
           "wordCount": 1321,
           "title": "GNU Linux-libre 6.0 Released After More Blob Cleaning",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.0-Released",
-          "author": null,
-          "description": "Linus Torvalds just promoted Linux 6.0 to stable on-schedule and thereby now ushering in the Linux 6.1 merge window to officially get underway tomorrow...",
-          "link": "https://www.phoronix.com/news/Linux-6.0-Released",
-          "publishedOn": "2022-10-02T21:30:52.000Z",
-          "wordCount": 1369,
-          "title": "Linux 6.0 Released With Many Intel & AMD Driver Additions, IO_uring Keeps Advancing",
-          "imageUrl": null
         }
       ]
     },
@@ -5798,6 +5828,16 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/the-sunday-papers-653",
+          "author": "Ed Thorn",
+          "description": "Sundays are for popping to the corner shop and buying a Lion bar. Before you tuck in, let's read this week's best writing about games (and game related things).\nRead more",
+          "link": "https://www.rockpapershotgun.com/the-sunday-papers-653",
+          "publishedOn": "2022-10-16T10:00:00.000Z",
+          "wordCount": 5352,
+          "title": "The Sunday Papers",
+          "imageUrl": "https://assets2.rockpapershotgun.com/the-sunday-papers-big.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/the-sunday-papers-big.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/olliolli-worlds-final-dlc-kickflips-into-the-clouds",
           "author": "Graham Smith",
@@ -14005,6 +14045,16 @@
       "feedUrl": "https://www.sweclockers.com/feeds/nyheter",
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
+        {
+          "id": "https://www.sweclockers.com/artikel/35076",
+          "author": null,
+          "description": "Rykteskvarnen säger att det kan ta en och en halv månad mellan AMD:s avtäckande av RDNA 3-serien och att entusiaster kan lägga vantarna på den.",
+          "link": "https://www.sweclockers.com/artikel/35076-saljstarten-for-radeon-rx-7000-serien-uppges-droja-till-december",
+          "publishedOn": "2022-10-16T09:58:57.000Z",
+          "wordCount": 1860,
+          "title": "Säljstarten för Radeon RX 7000-serien uppges dröja till december",
+          "imageUrl": "https://www.sweclockers.com/artikel/35076/og-image"
+        },
         {
           "id": "https://www.sweclockers.com/artikel/35080",
           "author": null,

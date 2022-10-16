@@ -2,10 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-16T09:27:41.079Z</updated>
+    <updated>2022-10-16T10:28:47.717Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Original Bayonetta VA calls for boycott of third game over "insulting" pay offer]]></title>
+        <id>https://www.vg247.com/original-bayonetta-va-calls-for-boycott-of-third-game-over-insulting-pay-offer</id>
+        <link href="https://www.vg247.com/original-bayonetta-va-calls-for-boycott-of-third-game-over-insulting-pay-offer"/>
+        <updated>2022-10-16T10:05:31.000Z</updated>
+        <summary type="html"><![CDATA[Hellena Taylor, the original voice actor of PlatinumGames' Bayonetta, has called for a boycott of the game after alleging she received an "insulting" pay offer for the role.
+
+
+It's been known for a little while that for whatever reason, Taylor would not be reprising her role as the now pretty iconic witch, as she essentially said as such last year. Earlier this month it was confirmed that prolific voice actor Jennifer Hale would be taking over the role, with the game's director Yusuke Miyata saying that, "various overlapping circumstances made it difficult for Hellena Taylor to reprise her role." But now Taylor has posted a series of videos on her personal Twitter where she claims that she ultimately had to decline returning due to only being offered $4000 for the performance.
+
+
+"I am asking the fans to boycott [Bayonetta 3], and instead spend the money that you would have spent on this game donating it to charity," Taylor asked of fans in the first of four videos she posted on Twitter yesterday, October 15. "I didn't want the world. I didn't ask for too much. I was just asking for a decent, dignified, living wage. What they did was legal, but it was immoral."
+ 
+Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.1 POWERs Up With KFENCE, Syscall Wrappers, Execute-Only Memory]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-PowerPC</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-PowerPC"/>
+        <updated>2022-10-16T10:05:05.000Z</updated>
+        <summary type="html"><![CDATA[The IBM POWER/PowerPC changes were merged this week for the Linux 6.1 kernel with this cycle's merge window closing later today...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sunday Papers]]></title>
+        <id>https://www.rockpapershotgun.com/the-sunday-papers-653</id>
+        <link href="https://www.rockpapershotgun.com/the-sunday-papers-653"/>
+        <updated>2022-10-16T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sundays are for popping to the corner shop and buying a Lion bar. Before you tuck in, let's read this week's best writing about games (and game related things).
+Read more]]></summary>
+        <author>
+            <name>Ed Thorn</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Säljstarten för Radeon RX 7000-serien uppges dröja till december]]></title>
+        <id>https://www.sweclockers.com/artikel/35076</id>
+        <link href="https://www.sweclockers.com/artikel/35076-saljstarten-for-radeon-rx-7000-serien-uppges-droja-till-december"/>
+        <updated>2022-10-16T09:58:57.000Z</updated>
+        <summary type="html"><![CDATA[Rykteskvarnen säger att det kan ta en och en halv månad mellan AMD:s avtäckande av RDNA 3-serien och att entusiaster kan lägga vantarna på den.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XFS & F2FS Changes Are Tame For Linux 6.1]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-XFS-F2FS</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-XFS-F2FS"/>
+        <updated>2022-10-16T09:48:00.000Z</updated>
+        <summary type="html"><![CDATA[For the Linux 6.1 kernel Btrfs is bringing some significant performance optimizations and with EXT4 there is also some performance tuning. But when it comes to the Flash-Friendly File-System (F2FS) and the XFS file-systems this cycle is on the lighter side...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Play real Game Boy cartridges on Steam Deck / Linux with GB Operator]]></title>
+        <id>https://www.gamingonlinux.com/2022/10/play-real-game-boy-cartridges-on-steam-deck-linux-with-gb-operator/</id>
+        <link href="https://www.gamingonlinux.com/2022/10/play-real-game-boy-cartridges-on-steam-deck-linux-with-gb-operator/"/>
+        <updated>2022-10-16T09:33:10.000Z</updated>
+        <summary type="html"><![CDATA[GB Operator excites the collector in me, giving you a small device to plug into your PC or Steam Deck, allowing you to play real Game Boy cartridges.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NVIDIA "unlaunching" the RTX 4080 12GB, apparently 4090 Ti cancelled due to melting]]></title>
         <id>https://www.gamingonlinux.com/2022/10/nvidia-qunlaunchingq-the-rtx-4080-12gb-apparently-4090-ti-cancelled-due-to-melting/</id>
@@ -19617,16 +19686,6 @@ As expected, fwupdmgr can update the system BIOS and the firmware of the NVMe de
         <summary type="html"><![CDATA[<h4>Linux boss' launch message is more ‘6.0 is overrated’ than ‘The joy of 6.0’</h4> <p>Linus Torvalds has released a stable cut of version 6.0 of the Linux kernel.…</p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.0 Released With Many Intel & AMD Driver Additions, IO_uring Keeps Advancing]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.0-Released</id>
-        <link href="https://www.phoronix.com/news/Linux-6.0-Released"/>
-        <updated>2022-10-02T21:30:52.000Z</updated>
-        <summary type="html"><![CDATA[Linus Torvalds just promoted Linux 6.0 to stable on-schedule and thereby now ushering in the Linux 6.1 merge window to officially get underway tomorrow...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
 </feed>
