@@ -3145,6 +3145,26 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/kingdom-hearts-tv-pilot-shared-online",
+          "author": "Oisin Kuhnke",
+          "description": "Did you know that a Kingdom Hearts TV series was in development back in the day? Well it was, and the original director shared the pilot earlier this week.\r\n\n\r\nThe Kingdom Hearts TV series was an American developed take on the original game, but it never got off the ground. While bits and pieces of the show have appeared online over the years, like storyboards and various pieces of art, a full pilot has been the holy grail that fans have been after for years. Now, director of the project Seth Kearsley has shared the full animatic pilot online, and it honestly isn't the worst thing in the world.\r\n\n\r\nThe animatic is narrated by Pinocchio's Jiminy Cricket, a companion of protagonist Sora in the original game, and fits very well as such considering he keeps a journal of the games events canonically. It's definitely rough around the edges, as it's an animatic rather than fully animated.\r\n \nRead more",
+          "link": "https://www.vg247.com/kingdom-hearts-tv-pilot-shared-online",
+          "publishedOn": "2022-10-16T15:22:56.000Z",
+          "wordCount": 4804,
+          "title": "The Kingdom Hearts TV series pilot finally sees the light of day thanks to the original director",
+          "imageUrl": "https://asset.vg247.com/kingdom-hearts-pilot.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/kingdom-hearts-pilot.jpg"
+        },
+        {
+          "id": "https://www.vg247.com/splinter-cell-remake-director-leaves-ubisoft",
+          "author": "Oisin Kuhnke",
+          "description": "David Grivel, who was meant to be directing the upcoming Splinter Cell remake, has apparently left Ubisoft.\r\n\n\r\nAs shared by VGC, Grivel shared a post on his LinkedIn where he announced his departure from the studio, though didn't explain why he made the decision to do so. \"After more than 11 years at Ubisoft, it is now time for me to go on a new adventure,\" wrote Grivel in the post.\r\n\n\r\n\"11 years is a long time and summing it up in one post is quasi-impossible but I must say, I’ve been lucky. Lucky to work with so many great people over the years. Made so many friends… As for what that new adventure is? Stay tuned.\"\r\n \nRead more",
+          "link": "https://www.vg247.com/splinter-cell-remake-director-leaves-ubisoft",
+          "publishedOn": "2022-10-16T14:36:22.000Z",
+          "wordCount": 4718,
+          "title": "Splinter Cell remake's director leaves Ubisoft after 11 years at the developer",
+          "imageUrl": "https://asset.vg247.com/splinter-cell-remake_Mny2U5B.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/splinter-cell-remake_Mny2U5B.jpg"
+        },
+        {
           "id": "https://www.vg247.com/nintendo-switch-sports-servers-down",
           "author": "Oisin Kuhnke",
           "description": "Nintendo Switch Sports' servers are currently offline, as a bug from the most recent update is making the game crash.\r\n\n\r\nEarlier this week, the Nintendo of America Twitter account put a tweet to make players aware that it would be taking down servers to investigate an issue with Nintendo Switch Sports. \"A bug has been found in the Nintendo Switch Sports Ver1.2.1 update which causes the software to close during the pre-match loading screen,\" reads the tweet. \"This is unfortunately affecting both online and offline play modes. We have therefore temporarily suspended the rollout of this update.\"\r\n\n\r\nIn a followup tweet, Nintendo continued \"While we investigate to find a solution, Nintendo Switch Sports servers will be temporarily taken offline and online play will not be available during this time. Save data backup is also temporarily suspended. We sincerely apologize for the inconvenience.\"\r\n \nRead more",
@@ -10383,6 +10403,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "http://aigarius.com/blog/2022/10/16/ryzen-7000-amdgpu/",
+          "author": null,
+          "description": "So you decided to build a brand new system using all the latest and coolest tech, so you buy a Ryzen 7000 series\nZen 4 CPU, like the Ryzen 7700X that I picked, with a new mother board and DDR5 memory and all that jazz. But for\nnow, you don't yet have a fitting GPU for that system (as the new ones will only come out in November), so you are\nbooting a Debian system using the new build-in video card of the new CPUs (Zen 4 generation has a simple AMD GPU\nbuild-in into every CPU now - great stuff for debugging and mostly-headless systems) and you get ... nothing on \nthe screen. Hmm. You boot into the rescue mode and the kernel message stop after:\nOct 16 13:31:25 home kernel: [    4.128328] amdgpu: Ignoring ACPI CRAT on non-APU system\nOct 16 13:31:25 home kernel: [    4.128329] amdgpu: Virtual C…",
+          "link": "http://aigarius.com/blog/2022/10/16/ryzen-7000-amdgpu/",
+          "publishedOn": "2022-10-16T14:15:13.000Z",
+          "wordCount": 521,
+          "title": "Aigars Mahinovs: Ryzen 7000 amdgpu boot hang",
+          "imageUrl": null
+        },
+        {
           "id": "tag:blogger.com,1999:blog-3019054489127059271.post-243920168463824013",
           "author": "noreply@blogger.com (Vincent Fourmond)",
           "description": "The purpose of this post is to demonstrate a first approach to the analysis of multiwavelength kinetic data, like those obtained using stopped-flow data. To practice, we will use data that were acquired during the stopped flow practicals of the MetBio summer school from the FrenchBIC. During the practicals, the student monitored the reaction of myoglobin (in its Fe(III) state) with azide, which yields a fast and strong change in the absorbance spectrum of the protein, which was monitored using a diode array. The data is publicly available on zenodo.\n\nAims of this tutorial\nQSoas to run a simple, multiwavelength exponential fit on the data, and to look at the results. This is not a kinetics lecture, so that it will not go in depth about the use of the exponential fit and its meaning.\n\nGettin…",
@@ -10680,16 +10710,6 @@
           "publishedOn": "2022-10-03T12:01:52.000Z",
           "wordCount": 891,
           "title": "Thorsten Alteholz: My Debian Activities in September 2022",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.eyrie.org/~eagle/reviews/books/0-06-228020-1.html",
-          "author": null,
-          "description": "Review: Jingo, by Terry Pratchett\n\n    Series:\n    Discworld #21\n  \nPublisher:\n    Harper\n  \nCopyright:\n    1997\n  \nPrinting:\n    May 2014\n  \nISBN:\n    0-06-228020-1\n  \nFormat:\n    Mass market\n  \nPages:\n    455\n  \n\n\n    Not a muscle moved on Rust's face.  There was a clink as\n    Vimes's badge was set neatly on the table.\n\n\n\n    \"I don't have to take this,\" Vimes said calmly.\n\n\n\n    \"Oh, so you'd rather be a civilian, would you?\"\n\n\n\n    \"A watchman is a civilian, you inbred streak of pus!\"\n\nThe Last Continent in publication order, and by\nThe Fifth Elephant thematically.\n\n\nRating: 8 out of 10",
-          "link": "https://www.eyrie.org/~eagle/reviews/books/0-06-228020-1.html",
-          "publishedOn": "2022-10-03T03:27:00.000Z",
-          "wordCount": 847,
-          "title": "Russ Allbery: Review: Jingo",
           "imageUrl": null
         }
       ]
@@ -12563,6 +12583,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291800",
+          "author": null,
+          "description": "Är detta kniven i ryggen på Sam Fisher?",
+          "link": "https://www.fz.se/artikel/291800-splinter-cell-remakens-regissor-har-lamnat-ubisoft",
+          "publishedOn": "2022-10-16T15:00:00.000Z",
+          "wordCount": 1785,
+          "title": "Splinter Cell remakens regissör har lämnat Ubisoft",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291800"
+        },
         {
           "id": "https://www.fz.se/artikel/291799",
           "author": null,

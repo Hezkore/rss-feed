@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-16T14:25:26.489Z</updated>
+    <updated>2022-10-16T15:27:53.033Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[The Kingdom Hearts TV series pilot finally sees the light of day thanks to the original director]]></title>
+        <id>https://www.vg247.com/kingdom-hearts-tv-pilot-shared-online</id>
+        <link href="https://www.vg247.com/kingdom-hearts-tv-pilot-shared-online"/>
+        <updated>2022-10-16T15:22:56.000Z</updated>
+        <summary type="html"><![CDATA[Did you know that a Kingdom Hearts TV series was in development back in the day? Well it was, and the original director shared the pilot earlier this week.
+
+
+The Kingdom Hearts TV series was an American developed take on the original game, but it never got off the ground. While bits and pieces of the show have appeared online over the years, like storyboards and various pieces of art, a full pilot has been the holy grail that fans have been after for years. Now, director of the project Seth Kearsley has shared the full animatic pilot online, and it honestly isn't the worst thing in the world.
+
+
+The animatic is narrated by Pinocchio's Jiminy Cricket, a companion of protagonist Sora in the original game, and fits very well as such considering he keeps a journal of the games events canonically. It's definitely rough around the edges, as it's an animatic rather than fully animated.
+ 
+Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Splinter Cell remakens regissör har lämnat Ubisoft]]></title>
+        <id>https://www.fz.se/artikel/291800</id>
+        <link href="https://www.fz.se/artikel/291800-splinter-cell-remakens-regissor-har-lamnat-ubisoft"/>
+        <updated>2022-10-16T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Är detta kniven i ryggen på Sam Fisher?]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Splinter Cell remake's director leaves Ubisoft after 11 years at the developer]]></title>
+        <id>https://www.vg247.com/splinter-cell-remake-director-leaves-ubisoft</id>
+        <link href="https://www.vg247.com/splinter-cell-remake-director-leaves-ubisoft"/>
+        <updated>2022-10-16T14:36:22.000Z</updated>
+        <summary type="html"><![CDATA[David Grivel, who was meant to be directing the upcoming Splinter Cell remake, has apparently left Ubisoft.
+
+
+As shared by VGC, Grivel shared a post on his LinkedIn where he announced his departure from the studio, though didn't explain why he made the decision to do so. "After more than 11 years at Ubisoft, it is now time for me to go on a new adventure," wrote Grivel in the post.
+
+
+"11 years is a long time and summing it up in one post is quasi-impossible but I must say, I’ve been lucky. Lucky to work with so many great people over the years. Made so many friends… As for what that new adventure is? Stay tuned."
+ 
+Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aigars Mahinovs: Ryzen 7000 amdgpu boot hang]]></title>
+        <id>http://aigarius.com/blog/2022/10/16/ryzen-7000-amdgpu/</id>
+        <link href="http://aigarius.com/blog/2022/10/16/ryzen-7000-amdgpu/"/>
+        <updated>2022-10-16T14:15:13.000Z</updated>
+        <summary type="html"><![CDATA[So you decided to build a brand new system using all the latest and coolest tech, so you buy a Ryzen 7000 series
+Zen 4 CPU, like the Ryzen 7700X that I picked, with a new mother board and DDR5 memory and all that jazz. But for
+now, you don't yet have a fitting GPU for that system (as the new ones will only come out in November), so you are
+booting a Debian system using the new build-in video card of the new CPUs (Zen 4 generation has a simple AMD GPU
+build-in into every CPU now - great stuff for debugging and mostly-headless systems) and you get ... nothing on 
+the screen. Hmm. You boot into the rescue mode and the kernel message stop after:
+Oct 16 13:31:25 home kernel: [    4.128328] amdgpu: Ignoring ACPI CRAT on non-APU system
+Oct 16 13:31:25 home kernel: [    4.128329] amdgpu: Virtual C…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nintendo Switch Sports servers are down currently, with no return date in sight]]></title>
         <id>https://www.vg247.com/nintendo-switch-sports-servers-down</id>
@@ -19739,60 +19802,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[En av de "arketyper" vi kommer kunna välja som.]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Russ Allbery: Review: Jingo]]></title>
-        <id>https://www.eyrie.org/~eagle/reviews/books/0-06-228020-1.html</id>
-        <link href="https://www.eyrie.org/~eagle/reviews/books/0-06-228020-1.html"/>
-        <updated>2022-10-03T03:27:00.000Z</updated>
-        <summary type="html"><![CDATA[Review: Jingo, by Terry Pratchett
-
-    Series:
-    Discworld #21
-  
-Publisher:
-    Harper
-  
-Copyright:
-    1997
-  
-Printing:
-    May 2014
-  
-ISBN:
-    0-06-228020-1
-  
-Format:
-    Mass market
-  
-Pages:
-    455
-  
-
-
-    Not a muscle moved on Rust's face.  There was a clink as
-    Vimes's badge was set neatly on the table.
-
-
-
-    "I don't have to take this," Vimes said calmly.
-
-
-
-    "Oh, so you'd rather be a civilian, would you?"
-
-
-
-    "A watchman is a civilian, you inbred streak of pus!"
-
-The Last Continent in publication order, and by
-The Fifth Elephant thematically.
-
-
-Rating: 8 out of 10]]></summary>
-        <author>
-            <name>Planet Debian</name>
         </author>
     </entry>
 </feed>
