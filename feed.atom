@@ -2,10 +2,73 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-16T08:33:04.400Z</updated>
+    <updated>2022-10-16T09:27:41.079Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA "unlaunching" the RTX 4080 12GB, apparently 4090 Ti cancelled due to melting]]></title>
+        <id>https://www.gamingonlinux.com/2022/10/nvidia-qunlaunchingq-the-rtx-4080-12gb-apparently-4090-ti-cancelled-due-to-melting/</id>
+        <link href="https://www.gamingonlinux.com/2022/10/nvidia-qunlaunchingq-the-rtx-4080-12gb-apparently-4090-ti-cancelled-due-to-melting/"/>
+        <updated>2022-10-16T09:20:49.000Z</updated>
+        <summary type="html"><![CDATA[Two bits of big NVIDIA news for you today one confirmed and one not so confirmed, which concerns a double-cancellation with the RTX 4080 12GB and a 4090 Ti / Titan.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Days of the Devs 2022 Bundle is live, plus a Paradox Interactive DLC build your own bundle]]></title>
+        <id>https://www.gamingonlinux.com/2022/10/days-of-the-devs-2022-bundle-is-live-plus-a-paradox-interactive-dlc-build-your-own-bundle/</id>
+        <link href="https://www.gamingonlinux.com/2022/10/days-of-the-devs-2022-bundle-is-live-plus-a-paradox-interactive-dlc-build-your-own-bundle/"/>
+        <updated>2022-10-16T09:06:32.000Z</updated>
+        <summary type="html"><![CDATA[Humble has two big bundles you might be interested in taking a look at. First is the yearly Days of the Devs Bundle and a Paradox Interactive Bundle you can build yourself.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Announces KataOS As Security-Focused OS, Leveraging Rust & seL4 Microkernel]]></title>
+        <id>https://www.phoronix.com/news/Google-KataOS</id>
+        <link href="https://www.phoronix.com/news/Google-KataOS"/>
+        <updated>2022-10-16T09:03:25.000Z</updated>
+        <summary type="html"><![CDATA[Google this week has announced the release of KataOS as their newest operating system effort focused on embedded devices running ambient machine learning workloads. KataOS is security-minded, exclusively uses the Rust programming language, and is built atop the seL4 microkernel as its foundation...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Duskers and the endless breeds of video game darkness]]></title>
+        <id>https://www.eurogamer.net/duskers-and-the-endless-breeds-of-video-game-darkness</id>
+        <link href="https://www.eurogamer.net/duskers-and-the-endless-breeds-of-video-game-darkness"/>
+        <updated>2022-10-16T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We often say that especially clever video games consist of "shades of grey", but there are just as many shades of blackness. The colour black has a strange, underground career in computer graphics and aesthetics, spread across different types of display and graphics hardware, different genres and art styles. The darkness of a Game Boy game is green-tinged and fertile, like a puddle of algae (and similarly reliant on sunlight). The darkness of a cathode-ray tube display is a dense fog sealed behind a bulging reflection - small wonder that Silent Hill's most atmospheric moments came before the advent of flatscreens. 
+
+
+Black symbolises death in western societies, of course, but it also denotes elegance and luxury, with artisans in every era striving to produce the lushest, finest grades of…]]></summary>
+        <author>
+            <name>Edwin Evans-Thirlwell</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hellena Taylor raljera fansen till att bojkotta Bayonetta 3]]></title>
+        <id>https://www.fz.se/artikel/291797</id>
+        <link href="https://www.fz.se/artikel/291797-hellena-taylor-raljera-fansen-till-att-bojkotta-bayonetta-3"/>
+        <updated>2022-10-16T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Eller ska vi kalla henne Boykottonetta?]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 6.1 Xen Supports Grant-Based VirtIO For x86_64]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.1-Xen</id>
+        <link href="https://www.phoronix.com/news/Linux-6.1-Xen"/>
+        <updated>2022-10-16T08:59:17.000Z</updated>
+        <summary type="html"><![CDATA[The Xen hypervisor changes were merged this week for the Linux 6.1 kernel merge window that is wrapping up this weekend...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chip ohoj! Kryssningen Moderskeppet redo inför stora premiären]]></title>
         <id>https://www.fz.se/artikel/291793</id>
