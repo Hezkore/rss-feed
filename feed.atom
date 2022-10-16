@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-16T19:22:39.790Z</updated>
+    <updated>2022-10-16T20:28:43.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nyhetsquiz vecka 41 2022: Geforce RTX 4090, Surface och Meta Pro]]></title>
+        <id>https://www.sweclockers.com/artikel/35082</id>
+        <link href="https://www.sweclockers.com/artikel/35082-nyhetsquiz-vecka-41-2022-geforce-rtx-4090-surface-och-meta-pro"/>
+        <updated>2022-10-16T19:55:37.000Z</updated>
+        <summary type="html"><![CDATA[Grafikkort, hybriddatorer och påkostade VR-headset står för majoriteten av veckans färska produkter. Får du alla rätt i frågesporten?]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sven Hoexter: CentOS 9, stunnel, an openssl memory leak and a VirtualBox crash]]></title>
         <id>http://sven.stormbind.net/blog/posts/centos_c9s_stunnel_memleak/</id>
@@ -476,6 +486,45 @@ Black symbolises death in western societies, of course, but it also denotes eleg
         <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
         <author>
             <name>Explosm.net</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kpcyrd: updlockfiles: Manage lockfiles in PKGBUILDs for upstreams that don't ship them]]></title>
+        <id>https://vulns.xyz/2022/10/updlockfiles/</id>
+        <link href="https://vulns.xyz/2022/10/updlockfiles/"/>
+        <updated>2022-10-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I’ve released a new tool to manage lockfiles for Arch Linux packages that can’t use a lockfile from the official upstream release. It integrates closely with other Arch Linux tooling like updpkgsums that’s already used to pin the content of build inputs in PKGBUILD.
+To use this, the downstream lockfile becomes an additional source input in the source= array of our PKGBUILD (this is already the case for some packages).
+
+source=("git+https://github.com/vimeo/psalm.git#commit=${_commit}"
+        "composer.lock")
+
+
+You would then add a new function named updlockfiles that can generate new lockfiles and copies them into $outdir, and a prepare function to copy the lockfile in the right place:
+
+ prepare() {
+   cd ${pkgname}
+   cp ../composer.lock .
+}
+
+updlockfiles() {
+  cd ${pkgname}
+  rm -f composer.lock
+  composer update
+  cp composer.lock "${outdir}/"
+}
+
+
+To update the package to the latest (compatible) patch level simply run:
+
+updlockfiles
+
+
+This can also be used in case upstreams lockfile has vulnerable dependencies that you want to patch downstream. For more detailed instructions see the readme.
+Thanks
+This work is currently crowd-funded on github sponsors. I’d like to thank @SantiagoTorres, @repi and @rgacogne for their support in particular. ♥️]]></summary>
+        <author>
+            <name>Planet Debian</name>
         </author>
     </entry>
     <entry>
@@ -19787,64 +19836,6 @@ Read more]]></summary>
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/03/open_internet_opinion_column/"/>
         <updated>2022-10-03T08:30:11.000Z</updated>
         <summary type="html"><![CDATA[<h4>It’ll take an army of billions to hold them back. Let’s make one</h4> <p><strong>Opinion</strong>  China and Russia have been colluding to try to get a Chinese Internet protocol, New IP, adopted as a global standard. It's needed, they say, to improve quality of service guarantees. (Oh, and by the way, it also lets countries take complete control of their national networks, adding user registration requirements and shutting off interoperability.)…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Horizon Zero Dawn PlayStation 5 remaster reportedly in the works]]></title>
-        <id>https://www.eurogamer.net/horizon-zero-dawn-playstation-5-remaster-reportedly-in-the-works</id>
-        <link href="https://www.eurogamer.net/horizon-zero-dawn-playstation-5-remaster-reportedly-in-the-works"/>
-        <updated>2022-10-03T08:22:48.000Z</updated>
-        <summary type="html"><![CDATA[New reports claim a remaster of Guerrilla's Horizon Zero Dawn is currently in the works for the PS5. 
-
-
-Originally revealed by MP1st, this remaster will allegedly bring Zero Dawn closer in terms of visuals to its successor, Forbidden West. 
-
-
-While, at the time of writing, it is unclear whether this is a "from the ground up" remake of the 2017 title, it is claimed that this version of Zero Dawn will see new character models, improvements to the game's lighting system and animations, and "overhauled textures". 
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux kernel 6.0 is out now]]></title>
-        <id>https://www.gamingonlinux.com/2022/10/linux-kernel-60-is-out-now/</id>
-        <link href="https://www.gamingonlinux.com/2022/10/linux-kernel-60-is-out-now/"/>
-        <updated>2022-10-03T08:20:11.000Z</updated>
-        <summary type="html"><![CDATA[The latest and great version of the Linux kernel has been released with Linux 6.0 out now. Linus Torvalds was also given an award from Intel recently.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[God of Wars pc-portare jobbar på ett spel med stort Playstation-IP]]></title>
-        <id>https://www.fz.se/artikel/291657</id>
-        <link href="https://www.fz.se/artikel/291657-god-of-wars-pc-portare-jobbar-pa-ett-spel-med-stort-playstation-ip"/>
-        <updated>2022-10-03T08:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Och det är ett live service-spel – hurraaaaaa!]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dubbla IT-jobb från hemmakontoret blev trend under pandemin]]></title>
-        <id>https://www.sweclockers.com/artikel/35005</id>
-        <link href="https://www.sweclockers.com/artikel/35005-dubbla-it-jobb-fran-hemmakontoret-blev-trend-under-pandemin"/>
-        <updated>2022-10-03T07:37:01.000Z</updated>
-        <summary type="html"><![CDATA[Att jonglera flera jobb och flera arbetsgivare från hemmakontoret blev en vanligare företeelse under pandemin, inte minst inom IT.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tetchy trainee turned the lights down low to teach turgid lecturer a lesson]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/03/who_me/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/03/who_me/"/>
-        <updated>2022-10-03T07:30:12.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Sure, I’ll sit here all day taking notes because you’re too cheap to print them out</h4> <p><strong>Who, Me?</strong>  Welcome once again to Who, Me?, in which <i>The Register</i> celebrates the working week stretching out ahead of us all with readers' tales of messes they made, and escaped.…</p>]]></summary>
         <author>
             <name>The Register</name>
         </author>

@@ -22,11 +22,65 @@
             data-action="toggle-accordions"
             title="Click to toggle the day, Ctrl + click to toggle all."
           >
-            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-10-16 datetime="2022-10-16T18:24:40.000Z">2022-10-16</time>
-            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-10-16 datetime="2022-10-16T18:24:40.000Z"></time>
+            <time class="daily-heading-toggle__weekday js-offset-weekday" data-offset-date=2022-10-16 datetime="2022-10-16T19:55:37.000Z">2022-10-16</time>
+            <time class="daily-heading-toggle__date js-offset-date" data-offset-date=2022-10-16 datetime="2022-10-16T19:55:37.000Z"></time>
           </button>
         </h2>
         <ul class="sources card">
+            <li class="card__section">
+              <section class="js-toggle-accordions-scope">
+                <h3 class="source-heading">
+                  <button
+                    class="source-heading__name"
+                    data-action="toggle-accordions"
+                    title="Click to toggle the source, Ctrl + click to toggle all."
+                  >SweClockers</button>
+                  <a class="source-heading__link" href="https://www.sweclockers.com">Open</a>
+                </h3>
+                <section class="articles-per-source">
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.sweclockers.com/artikel/35082"
+                        open
+                      >
+                        <summary class="article-expander__title">Nyhetsquiz vecka 41 2022: Geforce RTX 4090, Surface och Meta Pro</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.sweclockers.com/artikel/35082-nyhetsquiz-vecka-41-2022-geforce-rtx-4090-surface-och-meta-pro">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.sweclockers.com/artikel/35082/og-image" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Grafikkort, hybriddatorer och påkostade VR-headset står för majoriteten av veckans färska produkter. Får du alla rätt i frågesporten?</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;5
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://www.sweclockers.com/artikel/35076"
+                        open
+                      >
+                        <summary class="article-expander__title">Säljstarten för Radeon RX 7000-serien uppges dröja till december</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://www.sweclockers.com/artikel/35076-saljstarten-for-radeon-rx-7000-serien-uppges-droja-till-december">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://www.sweclockers.com/artikel/35076/og-image" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>Rykteskvarnen säger att det kan ta en och en halv månad mellan AMD:s avtäckande av RDNA 3-serien och att entusiaster kan lägga vantarna på den.</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;6
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                </section>
+              </section>
+            </li>
             <li class="card__section">
               <section class="js-toggle-accordions-scope">
                 <h3 class="source-heading">
@@ -150,6 +204,55 @@ QSoas to run a simple, multiwavelength exponential fit on the data, and to look 
 
 Gettin…</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;16
+                                  min&hairsp;)</span>
+                            </span>
+                          </div>
+                        </a>
+                      </details>
+                    </article>
+                    <article>
+                      <details
+                        class="article-expander"
+                        data-action="toggle-native-accordion"
+                        data-accordion-key="https://vulns.xyz/2022/10/updlockfiles/"
+                        open
+                      >
+                        <summary class="article-expander__title">kpcyrd: updlockfiles: Manage lockfiles in PKGBUILDs for upstreams that don&#x27;t ship them</summary>
+                        <a class="article-summary-link article-summary-box-outer" href="https://vulns.xyz/2022/10/updlockfiles/">
+                          <div class="article-summary-box-inner media-object">
+                              <img src="https://vulns.xyz/img/7763184.png" loading="lazy" class="media-object__media article-image" />
+                            <span class="media-object__text">
+                              <span>I’ve released a new tool to manage lockfiles for Arch Linux packages that can’t use a lockfile from the official upstream release. It integrates closely with other Arch Linux tooling like updpkgsums that’s already used to pin the content of build inputs in PKGBUILD.
+To use this, the downstream lockfile becomes an additional source input in the source&#x3D; array of our PKGBUILD (this is already the case for some packages).
+
+source&#x3D;(&quot;git+https://github.com/vimeo/psalm.git#commit&#x3D;${_commit}&quot;
+        &quot;composer.lock&quot;)
+
+
+You would then add a new function named updlockfiles that can generate new lockfiles and copies them into $outdir, and a prepare function to copy the lockfile in the right place:
+
+ prepare() {
+   cd ${pkgname}
+   cp ../composer.lock .
+}
+
+updlockfiles() {
+  cd ${pkgname}
+  rm -f composer.lock
+  composer update
+  cp composer.lock &quot;${outdir}/&quot;
+}
+
+
+To update the package to the latest (compatible) patch level simply run:
+
+updlockfiles
+
+
+This can also be used in case upstreams lockfile has vulnerable dependencies that you want to patch downstream. For more detailed instructions see the readme.
+Thanks
+This work is currently crowd-funded on github sponsors. I’d like to thank @SantiagoTorres, @repi and @rgacogne for their support in particular. ♥️</span>
+                                &ensp;<span class="article-reading-time">(&hairsp;1
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -879,40 +982,6 @@ Read more</span>
  
 Read more</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;16
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                </section>
-              </section>
-            </li>
-            <li class="card__section">
-              <section class="js-toggle-accordions-scope">
-                <h3 class="source-heading">
-                  <button
-                    class="source-heading__name"
-                    data-action="toggle-accordions"
-                    title="Click to toggle the source, Ctrl + click to toggle all."
-                  >SweClockers</button>
-                  <a class="source-heading__link" href="https://www.sweclockers.com">Open</a>
-                </h3>
-                <section class="articles-per-source">
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.sweclockers.com/artikel/35076"
-                        open
-                      >
-                        <summary class="article-expander__title">Säljstarten för Radeon RX 7000-serien uppges dröja till december</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.sweclockers.com/artikel/35076-saljstarten-for-radeon-rx-7000-serien-uppges-droja-till-december">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.sweclockers.com/artikel/35076/og-image" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Rykteskvarnen säger att det kan ta en och en halv månad mellan AMD:s avtäckande av RDNA 3-serien och att entusiaster kan lägga vantarna på den.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -37356,34 +37425,6 @@ Read more</span>
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.eurogamer.net/horizon-zero-dawn-playstation-5-remaster-reportedly-in-the-works"
-                        open
-                      >
-                        <summary class="article-expander__title">Horizon Zero Dawn PlayStation 5 remaster reportedly in the works</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.eurogamer.net/horizon-zero-dawn-playstation-5-remaster-reportedly-in-the-works">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://assets.reedpopcdn.com/hzd.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/hzd.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>New reports claim a remaster of Guerrilla&#x27;s Horizon Zero Dawn is currently in the works for the PS5. 
-
-
-Originally revealed by MP1st, this remaster will allegedly bring Zero Dawn closer in terms of visuals to its successor, Forbidden West. 
-
-
-While, at the time of writing, it is unclear whether this is a &quot;from the ground up&quot; remake of the 2017 title, it is claimed that this version of Zero Dawn will see new character models, improvements to the game&#x27;s lighting system and animations, and &quot;overhauled textures&quot;. 
- 
-Read more</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;16
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -37791,27 +37832,6 @@ Read more</span>
                               <span>It’ll take an army of billions to hold them back. Let’s make one
  Opinion  China and Russia have been colluding to try to get a Chinese Internet protocol, New IP, adopted as a global standard. It&#x27;s needed, they say, to improve quality of service guarantees. (Oh, and by the way, it also lets countries take complete control of their national networks, adding user registration requirements and shutting off interoperability.)…</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;5
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://go.theregister.com/feed/www.theregister.com/2022/10/03/who_me/"
-                        open
-                      >
-                        <summary class="article-expander__title">Tetchy trainee turned the lights down low to teach turgid lecturer a lesson</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://go.theregister.com/feed/www.theregister.com/2022/10/03/who_me/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://regmedia.co.uk/2022/09/30/shutterstock_using_torch_in_dark.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Sure, I’ll sit here all day taking notes because you’re too cheap to print them out
- Who, Me?  Welcome once again to Who, Me?, in which The Register celebrates the working week stretching out ahead of us all with readers&#x27; tales of messes they made, and escaped.…</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
                                   min&hairsp;)</span>
                             </span>
                           </div>
@@ -38835,26 +38855,6 @@ During…</span>
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.fz.se/artikel/291657"
-                        open
-                      >
-                        <summary class="article-expander__title">God of Wars pc-portare jobbar på ett spel med stort Playstation-IP</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.fz.se/artikel/291657-god-of-wars-pc-portare-jobbar-pa-ett-spel-med-stort-playstation-ip">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.fz.se/artikel/og-image/291657" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Och det är ett live service-spel – hurraaaaaa!</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -38982,26 +38982,6 @@ During…</span>
                               <img src="https://www.gamingonlinux.com/uploads/tagline_gallery/nvidia-logo.jpg" loading="lazy" class="media-object__media article-image" />
                             <span class="media-object__text">
                               <span>NVIDIA have done another new release to their developer-focused Vulkan Beta driver with 515.49.19 out now.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;4
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.gamingonlinux.com/2022/10/linux-kernel-60-is-out-now/"
-                        open
-                      >
-                        <summary class="article-expander__title">Linux kernel 6.0 is out now</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.gamingonlinux.com/2022/10/linux-kernel-60-is-out-now/">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.gamingonlinux.com/uploads/articles/tagline_images/1832642616id21682gol.jpg" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>The latest and great version of the Linux kernel has been released with Linux 6.0 out now. Linus Torvalds was also given an award from Intel recently.</span>
                                 &ensp;<span class="article-reading-time">(&hairsp;4
                                   min&hairsp;)</span>
                             </span>
@@ -39351,26 +39331,6 @@ However, details were reportedly revealed that included an improved lighting sys
                         </a>
                       </details>
                     </article>
-                    <article>
-                      <details
-                        class="article-expander"
-                        data-action="toggle-native-accordion"
-                        data-accordion-key="https://www.sweclockers.com/artikel/35005"
-                        open
-                      >
-                        <summary class="article-expander__title">Dubbla IT-jobb från hemmakontoret blev trend under pandemin</summary>
-                        <a class="article-summary-link article-summary-box-outer" href="https://www.sweclockers.com/artikel/35005-dubbla-it-jobb-fran-hemmakontoret-blev-trend-under-pandemin">
-                          <div class="article-summary-box-inner media-object">
-                              <img src="https://www.sweclockers.com/artikel/35005/og-image" loading="lazy" class="media-object__media article-image" />
-                            <span class="media-object__text">
-                              <span>Att jonglera flera jobb och flera arbetsgivare från hemmakontoret blev en vanligare företeelse under pandemin, inte minst inom IT.</span>
-                                &ensp;<span class="article-reading-time">(&hairsp;6
-                                  min&hairsp;)</span>
-                            </span>
-                          </div>
-                        </a>
-                      </details>
-                    </article>
                 </section>
               </section>
             </li>
@@ -39378,8 +39338,8 @@ However, details were reportedly revealed that included an improved lighting sys
       </section>
 
     <footer>
-      <a class="footer-link" href="https://github.com/hezweb/news/actions/runs/3260626296">
-        <time id="build-timestamp" datetime="2022-10-16T19:22:39.713Z">2022-10-16T19:22:39.713Z</time>
+      <a class="footer-link" href="https://github.com/hezweb/news/actions/runs/3260817588">
+        <time id="build-timestamp" datetime="2022-10-16T20:28:43.553Z">2022-10-16T20:28:43.553Z</time>
       </a>
       <a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.15.1</a>
     </footer>

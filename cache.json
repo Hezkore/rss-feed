@@ -769,16 +769,6 @@
           "wordCount": 1134,
           "title": "NVIDIA Vulkan Beta driver 515.49.19 is out now, driver 515.76 causing problems",
           "imageUrl": "https://www.gamingonlinux.com/uploads/tagline_gallery/nvidia-logo.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/10/linux-kernel-60-is-out-now/",
-          "author": "Liam Dawe",
-          "description": "The latest and great version of the Linux kernel has been released with Linux 6.0 out now. Linus Torvalds was also given an award from Intel recently.",
-          "link": "https://www.gamingonlinux.com/2022/10/linux-kernel-60-is-out-now/",
-          "publishedOn": "2022-10-03T08:20:11.000Z",
-          "wordCount": 1156,
-          "title": "Linux kernel 6.0 is out now",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1832642616id21682gol.jpg"
         }
       ]
     },
@@ -3116,16 +3106,6 @@
           "wordCount": 4658,
           "title": "PlayStation boss flew to Brussels to appeal Microsoft Call of Duty deal in person",
           "imageUrl": "https://assets.reedpopcdn.com/jimryan_8wEwFvv.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/jimryan_8wEwFvv.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/horizon-zero-dawn-playstation-5-remaster-reportedly-in-the-works",
-          "author": "Victoria Kennedy",
-          "description": "New reports claim a remaster of Guerrilla's Horizon Zero Dawn is currently in the works for the PS5. \r\n\n\r\nOriginally revealed by MP1st, this remaster will allegedly bring Zero Dawn closer in terms of visuals to its successor, Forbidden West. \r\n\n\r\nWhile, at the time of writing, it is unclear whether this is a \"from the ground up\" remake of the 2017 title, it is claimed that this version of Zero Dawn will see new character models, improvements to the game's lighting system and animations, and \"overhauled textures\". \r\n \nRead more",
-          "link": "https://www.eurogamer.net/horizon-zero-dawn-playstation-5-remaster-reportedly-in-the-works",
-          "publishedOn": "2022-10-03T08:22:48.000Z",
-          "wordCount": 4702,
-          "title": "Horizon Zero Dawn PlayStation 5 remaster reportedly in the works",
-          "imageUrl": "https://assets.reedpopcdn.com/hzd.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/hzd.jpg"
         }
       ]
     },
@@ -10478,6 +10458,16 @@
           "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjs7iODDDYyNosikw_668mDMdrj0ViPpEPnBZncKOcr0B93XI2BQ-Rc3DwCh26MPbPbxGYdbULfgs4t1LQcJGyLOpbrFu62YaxsnTuX_lPbtuADMHyBjCTlr1zcFThYdOUayxlmn541au2EPg8uTKBlsRRcHELcufF-SBVedV4A-sRnR6d6hOm_sL4/w1200-h630-p-k-no-nu/Data-edit.png"
         },
         {
+          "id": "https://vulns.xyz/2022/10/updlockfiles/",
+          "author": null,
+          "description": "I’ve released a new tool to manage lockfiles for Arch Linux packages that can’t use a lockfile from the official upstream release. It integrates closely with other Arch Linux tooling like updpkgsums that’s already used to pin the content of build inputs in PKGBUILD.\nTo use this, the downstream lockfile becomes an additional source input in the source= array of our PKGBUILD (this is already the case for some packages).\n\nsource=(\"git+https://github.com/vimeo/psalm.git#commit=${_commit}\"\n        \"composer.lock\")\n\n\nYou would then add a new function named updlockfiles that can generate new lockfiles and copies them into $outdir, and a prepare function to copy the lockfile in the right place:\n\n prepare() {\n   cd ${pkgname}\n   cp ../composer.lock .\n}\n\nupdlockfiles() {\n  cd ${pkgname}\n  rm -f composer.lock\n  composer update\n  cp composer.lock \"${outdir}/\"\n}\n\n\nTo update the package to the latest (compatible) patch level simply run:\n\nupdlockfiles\n\n\nThis can also be used in case upstreams lockfile has vulnerable dependencies that you want to patch downstream. For more detailed instructions see the readme.\nThanks\nThis work is currently crowd-funded on github sponsors. I’d like to thank @SantiagoTorres, @repi and @rgacogne for their support in particular. ♥️",
+          "link": "https://vulns.xyz/2022/10/updlockfiles/",
+          "publishedOn": "2022-10-16T00:00:00.000Z",
+          "wordCount": 227,
+          "title": "kpcyrd: updlockfiles: Manage lockfiles in PKGBUILDs for upstreams that don't ship them",
+          "imageUrl": "https://vulns.xyz/img/7763184.png"
+        },
+        {
           "id": "https://jmtd.net/log/podman_generate/",
           "author": null,
           "description": "I've been working with and on container technology for seven years, but I still\nlearn new things every day. Recently I read the excellent LWN article Docker\nand the OCI container ecosystem and this was\nnews to me:\nRunning the docker CLI under a process supervisor only results in supervising\nthe CLI process. This has a variety of consequences for users of these tools.\nFor example, any attempt to limit a container's memory usage by running the\nCLI as a systemd service will fail; the limits will only apply to the CLI and\nits non-existent children. In addition, attempts to terminate a client\nprocess may not result in terminating all of the processes in the container.\n\n\nHuh — of course! I hadn't really thought about that. I run a small number of\ncontainers on my home system via docker (since I …",
@@ -14177,16 +14167,6 @@
           "wordCount": 1894,
           "title": "Disney sägs vilja släppa två Star Wars-spel om året",
           "imageUrl": "https://www.fz.se/artikel/og-image/291658"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291657",
-          "author": null,
-          "description": "Och det är ett live service-spel – hurraaaaaa!",
-          "link": "https://www.fz.se/artikel/291657-god-of-wars-pc-portare-jobbar-pa-ett-spel-med-stort-playstation-ip",
-          "publishedOn": "2022-10-03T08:01:00.000Z",
-          "wordCount": 1868,
-          "title": "God of Wars pc-portare jobbar på ett spel med stort Playstation-IP",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291657"
         }
       ]
     },
@@ -14195,6 +14175,16 @@
       "feedUrl": "https://www.sweclockers.com/feeds/nyheter",
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
+        {
+          "id": "https://www.sweclockers.com/artikel/35082",
+          "author": null,
+          "description": "Grafikkort, hybriddatorer och påkostade VR-headset står för majoriteten av veckans färska produkter. Får du alla rätt i frågesporten?",
+          "link": "https://www.sweclockers.com/artikel/35082-nyhetsquiz-vecka-41-2022-geforce-rtx-4090-surface-och-meta-pro",
+          "publishedOn": "2022-10-16T19:55:37.000Z",
+          "wordCount": 1498,
+          "title": "Nyhetsquiz vecka 41 2022: Geforce RTX 4090, Surface och Meta Pro",
+          "imageUrl": "https://www.sweclockers.com/artikel/35082/og-image"
+        },
         {
           "id": "https://www.sweclockers.com/artikel/35076",
           "author": null,
@@ -14884,16 +14874,6 @@
           "wordCount": 1683,
           "title": "Intel Core i9-13900K stöder DDR5 i 7 600 MHz",
           "imageUrl": "https://www.sweclockers.com/artikel/35012/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/35005",
-          "author": null,
-          "description": "Att jonglera flera jobb och flera arbetsgivare från hemmakontoret blev en vanligare företeelse under pandemin, inte minst inom IT.",
-          "link": "https://www.sweclockers.com/artikel/35005-dubbla-it-jobb-fran-hemmakontoret-blev-trend-under-pandemin",
-          "publishedOn": "2022-10-03T07:37:01.000Z",
-          "wordCount": 1924,
-          "title": "Dubbla IT-jobb från hemmakontoret blev trend under pandemin",
-          "imageUrl": "https://www.sweclockers.com/artikel/35005/og-image"
         }
       ]
     },
@@ -17721,16 +17701,6 @@
           "wordCount": 1491,
           "title": "The open internet repels its most insidious attackers. They’ll return",
           "imageUrl": "https://regmedia.co.uk/2017/04/19/network_scientists_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/who_me/",
-          "author": null,
-          "description": "<h4>Sure, I’ll sit here all day taking notes because you’re too cheap to print them out</h4> <p><strong>Who, Me?</strong>  Welcome once again to Who, Me?, in which <i>The Register</i> celebrates the working week stretching out ahead of us all with readers' tales of messes they made, and escaped.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/who_me/",
-          "publishedOn": "2022-10-03T07:30:12.000Z",
-          "wordCount": 1159,
-          "title": "Tetchy trainee turned the lights down low to teach turgid lecturer a lesson",
-          "imageUrl": "https://regmedia.co.uk/2022/09/30/shutterstock_using_torch_in_dark.jpg"
         }
       ]
     }
