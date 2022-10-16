@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-16T04:42:40.958Z</updated>
+    <updated>2022-10-16T05:50:16.771Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
@@ -15588,6 +15588,16 @@ Later, however, Mike Ybarra followed up on his prior tweet by quoting it with, �
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Install and Use Grub Customizer in Fedora Linux]]></title>
+        <id>https://itsfoss.com/?p=99122</id>
+        <link href="https://itsfoss.com/grub-customizer-fedora/"/>
+        <updated>2022-10-05T05:09:00.000Z</updated>
+        <summary type="html"><![CDATA[Grub Customizer is a handy tool for customizing the grub configuration and changing its appearance. Learn to use it on Fedora Linux.]]></summary>
+        <author>
+            <name>Pranav Krishna</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CD Projekt Red bekräftar uppföljare till Cyberpunk 2077]]></title>
         <id>https://www.sweclockers.com/artikel/35014</id>
         <link href="https://www.sweclockers.com/artikel/35014-cd-projekt-red-bekraftar-uppfoljare-till-cyberpunk-2077"/>
@@ -19534,16 +19544,6 @@ As expected, fwupdmgr can update the system BIOS and the firmware of the NVMe de
         <summary type="html"><![CDATA[Processornytt från både Intel och AMD blandas med Googles senaste Stadia-besked och inslag om grafikkort. Minns du alla detaljer?]]></summary>
         <author>
             <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.1 Should Be Very Exciting With Rust, AMD PMF, MGLRU & Other Changes Expected]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.1-Features-Early-Look</id>
-        <link href="https://www.phoronix.com/news/Linux-6.1-Features-Early-Look"/>
-        <updated>2022-10-02T17:17:02.000Z</updated>
-        <summary type="html"><![CDATA[Linux 6.0 is bringing many great features but looking ahead for Linux 6.1 there are even more changes to get excited about for that kernel which will release as stable around the end of 2022...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
 </feed>
