@@ -798,6 +798,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/heres-a-peek-at-the-first-few-levels-of-peaky-blinders-the-kings-ransom-on-quest-2",
+          "author": "Ian Higton",
+          "description": "I've never actually seen the TV show before but from what little info I could gather, it seems like a bad idea to fuck with the Peaky Blinders. That's exactly what I did in this episode of VR Corner (above) though and, to be honest with you, the consequenses are nowhere near as bad as the Shelby's make them out to be. In fact, I had a pretty good time!\nEarlier this week, I was granted access to a press demo of Peaky Blinders that allowed me to smoke my way through the first few levels of the game. And I do mean smoke in the literal sense because, as you'll see in my video, you can spawn and smoke as many virtual cigarettes as you can fit into your lungs. Cough.\nJust like with Maze Theory's previous TV tie-in, Doctor Who: The Edge of Time, Peaky Blinders: The King's Ransom is a superfan's dream come true. It gives you the ability to inhabit the world of your favourite TV show, interact with the cast, visit familiar locations and, most importantly, feel like you yourself are a part of the story.\n Read more",
+          "link": "https://www.eurogamer.net/heres-a-peek-at-the-first-few-levels-of-peaky-blinders-the-kings-ransom-on-quest-2",
+          "publishedOn": "2022-10-16T13:00:00.000Z",
+          "wordCount": 5044,
+          "title": "Here's a peek at the first few levels of Peaky Blinders: The King's Ransom on Quest 2",
+          "imageUrl": "https://assets.reedpopcdn.com/vr_04oZ7cX.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/vr_04oZ7cX.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/duskers-and-the-endless-breeds-of-video-game-darkness",
           "author": "Edwin Evans-Thirlwell",
           "description": "We often say that especially clever video games consist of \"shades of grey\", but there are just as many shades of blackness. The colour black has a strange, underground career in computer graphics and aesthetics, spread across different types of display and graphics hardware, different genres and art styles. The darkness of a Game Boy game is green-tinged and fertile, like a puddle of algae (and similarly reliant on sunlight). The darkness of a cathode-ray tube display is a dense fog sealed behind a bulging reflection - small wonder that Silent Hill's most atmospheric moments came before the advent of flatscreens. \r\n\n\r\nBlack symbolises death in western societies, of course, but it also denotes elegance and luxury, with artisans in every era striving to produce the lushest, finest grades of…",
@@ -10333,6 +10343,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "tag:blogger.com,1999:blog-3019054489127059271.post-243920168463824013",
+          "author": "noreply@blogger.com (Vincent Fourmond)",
+          "description": "The purpose of this post is to demonstrate a first approach to the analysis of multiwavelength kinetic data, like those obtained using stopped-flow data. To practice, we will use data that were acquired during the stopped flow practicals of the MetBio summer school from the FrenchBIC. During the practicals, the student monitored the reaction of myoglobin (in its Fe(III) state) with azide, which yields a fast and strong change in the absorbance spectrum of the protein, which was monitored using a diode array. The data is publicly available on zenodo.\n\nAims of this tutorial\nQSoas to run a simple, multiwavelength exponential fit on the data, and to look at the results. This is not a kinetics lecture, so that it will not go in depth about the use of the exponential fit and its meaning.\n\nGettin…",
+          "link": "https://vince-debian.blogspot.com/2022/10/tutorial-analyse-multiwavelength-fast.html",
+          "publishedOn": "2022-10-16T12:54:28.000Z",
+          "wordCount": 4777,
+          "title": "Vincent Fourmond: Tutorial: analysis of multiwavelength fast kinetics data",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjs7iODDDYyNosikw_668mDMdrj0ViPpEPnBZncKOcr0B93XI2BQ-Rc3DwCh26MPbPbxGYdbULfgs4t1LQcJGyLOpbrFu62YaxsnTuX_lPbtuADMHyBjCTlr1zcFThYdOUayxlmn541au2EPg8uTKBlsRRcHELcufF-SBVedV4A-sRnR6d6hOm_sL4/w1200-h630-p-k-no-nu/Data-edit.png"
+        },
+        {
           "id": "https://jmtd.net/log/podman_generate/",
           "author": null,
           "description": "I've been working with and on container technology for seven years, but I still\nlearn new things every day. Recently I read the excellent LWN article Docker\nand the OCI container ecosystem and this was\nnews to me:\nRunning the docker CLI under a process supervisor only results in supervising\nthe CLI process. This has a variety of consequences for users of these tools.\nFor example, any attempt to limit a container's memory usage by running the\nCLI as a systemd service will fail; the limits will only apply to the CLI and\nits non-existent children. In addition, attempts to terminate a client\nprocess may not result in terminating all of the processes in the container.\n\n\nHuh — of course! I hadn't really thought about that. I run a small number of\ncontainers on my home system via docker (since I …",
@@ -10630,16 +10650,6 @@
           "publishedOn": "2022-10-03T03:27:00.000Z",
           "wordCount": 847,
           "title": "Russ Allbery: Review: Jingo",
-          "imageUrl": null
-        },
-        {
-          "id": "tag:https:,2022:id_463",
-          "author": null,
-          "description": "I recently upgraded my laptop to a Lenovo T14s Gen3 AMD and I am happy to report that it works just fine with Debian/unstable using a 5.19 kernel.\nThe only issue is that some firmware files are still missing and I had to install them manually.\nUpdates are needed for the firmware-amd-graphics package (#1019847) for the Radeon 680M GPU (AMD Rembrandt) and for the firmware-atheros package (#1021157) for the Qualcomm NFA725A Wi-Fi card (which is actually reported as a NFA765).\ns2idle (AKA \"modern suspend\") works too.\nFor improved energy efficiency it is recommended to switch from the acpi_cpufreq CPU frequency scaling driver to amd_pstate. Please note that so far it is not loaded automatically.\nAs expected, fwupdmgr can update the system BIOS and the firmware of the NVMe device.",
-          "link": "https://blog.bofh.it/debian/id_463",
-          "publishedOn": "2022-10-03T01:12:28.000Z",
-          "wordCount": 361,
-          "title": "Marco d'Itri: Debian bookworm on a Lenovo T14s Gen3 AMD",
           "imageUrl": null
         }
       ]

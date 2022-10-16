@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-16T12:50:05.566Z</updated>
+    <updated>2022-10-16T13:44:27.727Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Here's a peek at the first few levels of Peaky Blinders: The King's Ransom on Quest 2]]></title>
+        <id>https://www.eurogamer.net/heres-a-peek-at-the-first-few-levels-of-peaky-blinders-the-kings-ransom-on-quest-2</id>
+        <link href="https://www.eurogamer.net/heres-a-peek-at-the-first-few-levels-of-peaky-blinders-the-kings-ransom-on-quest-2"/>
+        <updated>2022-10-16T13:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I've never actually seen the TV show before but from what little info I could gather, it seems like a bad idea to fuck with the Peaky Blinders. That's exactly what I did in this episode of VR Corner (above) though and, to be honest with you, the consequenses are nowhere near as bad as the Shelby's make them out to be. In fact, I had a pretty good time!
+Earlier this week, I was granted access to a press demo of Peaky Blinders that allowed me to smoke my way through the first few levels of the game. And I do mean smoke in the literal sense because, as you'll see in my video, you can spawn and smoke as many virtual cigarettes as you can fit into your lungs. Cough.
+Just like with Maze Theory's previous TV tie-in, Doctor Who: The Edge of Time, Peaky Blinders: The King's Ransom is a superfan's dream come true. It gives you the ability to inhabit the world of your favourite TV show, interact with the cast, visit familiar locations and, most importantly, feel like you yourself are a part of the story.
+ Read more]]></summary>
+        <author>
+            <name>Ian Higton</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vincent Fourmond: Tutorial: analysis of multiwavelength fast kinetics data]]></title>
+        <id>tag:blogger.com,1999:blog-3019054489127059271.post-243920168463824013</id>
+        <link href="https://vince-debian.blogspot.com/2022/10/tutorial-analyse-multiwavelength-fast.html"/>
+        <updated>2022-10-16T12:54:28.000Z</updated>
+        <summary type="html"><![CDATA[The purpose of this post is to demonstrate a first approach to the analysis of multiwavelength kinetic data, like those obtained using stopped-flow data. To practice, we will use data that were acquired during the stopped flow practicals of the MetBio summer school from the FrenchBIC. During the practicals, the student monitored the reaction of myoglobin (in its Fe(III) state) with azide, which yields a fast and strong change in the absorbance spectrum of the protein, which was monitored using a diode array. The data is publicly available on zenodo.
+
+Aims of this tutorial
+QSoas to run a simple, multiwavelength exponential fit on the data, and to look at the results. This is not a kinetics lecture, so that it will not go in depth about the use of the exponential fit and its meaning.
+
+Gettin…]]></summary>
+        <author>
+            <name>noreply@blogger.com (Vincent Fourmond)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alienware AW2523HF Review: Blinding Speed and Instant Response]]></title>
         <id>ihEGmfw9hYSRnaA7koKHZG</id>
@@ -19725,21 +19753,6 @@ The Fifth Elephant thematically.
 
 
 Rating: 8 out of 10]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marco d'Itri: Debian bookworm on a Lenovo T14s Gen3 AMD]]></title>
-        <id>tag:https:,2022:id_463</id>
-        <link href="https://blog.bofh.it/debian/id_463"/>
-        <updated>2022-10-03T01:12:28.000Z</updated>
-        <summary type="html"><![CDATA[I recently upgraded my laptop to a Lenovo T14s Gen3 AMD and I am happy to report that it works just fine with Debian/unstable using a 5.19 kernel.
-The only issue is that some firmware files are still missing and I had to install them manually.
-Updates are needed for the firmware-amd-graphics package (#1019847) for the Radeon 680M GPU (AMD Rembrandt) and for the firmware-atheros package (#1021157) for the Qualcomm NFA725A Wi-Fi card (which is actually reported as a NFA765).
-s2idle (AKA "modern suspend") works too.
-For improved energy efficiency it is recommended to switch from the acpi_cpufreq CPU frequency scaling driver to amd_pstate. Please note that so far it is not loaded automatically.
-As expected, fwupdmgr can update the system BIOS and the firmware of the NVMe device.]]></summary>
         <author>
             <name>Planet Debian</name>
         </author>
