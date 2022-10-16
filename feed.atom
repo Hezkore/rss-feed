@@ -2,10 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-16T10:28:47.717Z</updated>
+    <updated>2022-10-16T11:21:56.475Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Elden Ring's latest update might be pointing towards ray tracing and DLC maps]]></title>
+        <id>https://www.vg247.com/elden-ring-update-suggests-ray-tracing-dlc</id>
+        <link href="https://www.vg247.com/elden-ring-update-suggests-ray-tracing-dlc"/>
+        <updated>2022-10-16T11:17:10.000Z</updated>
+        <summary type="html"><![CDATA[Elden Ring's latest update arrived earlier this week, and it appears to be harbouring some secrets that might be pointing towards ray tracing, and maybe even DLC.
+
+
+The main purpose of Elden Ring patch 1.07 was that PvP and PvE balance are now separated, meaning tweaks to one won't affect the other. However, dataminer Lance MdDonald found that some new menu strings that mention ray tracing were found in the code.
+
+
+Later on, McDonald was able to enable the ray tracing settings, which he shared a look at on his Twitter. He did note that the feature just seems to be broken for the time being, speculating that it could be some missing shaders that are the problem. McDonald also found that with the ray tracing enabled, the game still uses screen space reflections in water, which means the geometry isn't rendered twice so it isn't too intensive performance wise.
+ 
+Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weird robot breaks down in middle of House of Lords hearing on AI art]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/16/in-brief-ai/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/16/in-brief-ai/"/>
+        <updated>2022-10-16T10:39:12.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Plus: Listen to Fake Joe Rogan interviewing Bogus Steve Jobs in bizarre podcast episode</h4> <p><strong>In brief</strong>  A freaky-looking humanoid robot wearing dungarees and named Ai-Da became the first machine to speak at a House of Lords committee hearing on AI art this week.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Original Bayonetta VA calls for boycott of third game over "insulting" pay offer]]></title>
         <id>https://www.vg247.com/original-bayonetta-va-calls-for-boycott-of-third-game-over-insulting-pay-offer</id>
@@ -19676,16 +19704,6 @@ As expected, fwupdmgr can update the system BIOS and the firmware of the NVMe de
         <summary type="html"><![CDATA[<img src="https://imgs.xkcd.com/comics/battery_life.png" title="It's okay, I'm at 10%, so I'm good for another month or two." alt="It's okay, I'm at 10%, so I'm good for another month or two." />]]></summary>
         <author>
             <name>xkcd.com</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux kernel 6.0 debuts, Linus Torvalds teases ‘core new things’ coming in version 6.1]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/02/linux_kernel_6_0_released/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/02/linux_kernel_6_0_released/"/>
-        <updated>2022-10-02T22:31:07.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Linux boss' launch message is more ‘6.0 is overrated’ than ‘The joy of 6.0’</h4> <p>Linus Torvalds has released a stable cut of version 6.0 of the Linux kernel.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
