@@ -2,10 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-16T15:27:53.033Z</updated>
+    <updated>2022-10-16T16:37:00.756Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[An indie dev brought the fake Simpsons Waterworld game to life]]></title>
+        <id>https://www.vg247.com/an-indie-dev-brought-the-fake-simpsons-waterworld-game-to-life</id>
+        <link href="https://www.vg247.com/an-indie-dev-brought-the-fake-simpsons-waterworld-game-to-life"/>
+        <updated>2022-10-16T16:33:54.000Z</updated>
+        <summary type="html"><![CDATA[The Simpsons is full of weird jokes, occasionally some of them are about video games, like the time Millhouse played a Waterworld game. And now you can play it!
+
+
+If you haven't seen it, Waterworld stars Kevin Costner, and is a post-apocalyptic world way off in the year 2500, where water levels have risen so high every continent is underwater. In an episode of The Simpsons called The Springfield Files, Millhouse plays an arcade game adaptation of the film, having to pay 40 quarters, a regular amount to play for an arcade game. And now indie dev Macaw45 has made it actually playable, as it was just a small joke in the original episode.
+
+
+"I've always been fascinated by the fake videogames that were occasionally seen in The Simpsons, and the Waterworld one always stuck out to me as a kid," explains Macaw45 in the game page's description. "Of course it's just a short joke poking fun at how expensive the production of the movie was at the time, but this fake game itself with its gigantic Kevin Costner character on the screen who takes a single step before the machine asks for more quarters always made me so eager to know 'what would be beyond that one screen you see in the show."
+ 
+Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toad will sing in The Super Mario Bros. Movie, and you will enjoy it]]></title>
+        <id>https://www.vg247.com/toad-will-sing-in-the-super-mario-bros-movie-and-you-will-enjoy-it</id>
+        <link href="https://www.vg247.com/toad-will-sing-in-the-super-mario-bros-movie-and-you-will-enjoy-it"/>
+        <updated>2022-10-16T16:03:23.000Z</updated>
+        <summary type="html"><![CDATA[It sounds like The Super Mario Bros. Movie might be a bit of a musical, as Toad actor Keegan-Michael Key confirms the mushroom man will do a bit of singing.
+
+
+While it isn't clear if the Mario Bros. film will be a full on musical, Giant Bomb's Jeff Grubb did say earlier this year that it might have a few musical numbers in it, which is sounding a bit more accurate now. Speaking to Variety, Key was asked if the perfect creature known as Toad will do any singing, to which the actor said "he does."
+
+
+"I got to improvise a song in ‘Super Mario Bros.,’ which was an absolute blast," Key continued to explain. "That was just a stick of fun, that whole thing." The actor also spoke about how he developed the voice, saying he "was working on the voice with my partner and trying to find the voice through the internal journey of the character. And then with the directors [Aaron Horvath and Michael Jelenic], we sprinkled some things in, we moved it around."
+ 
+Read more]]></summary>
+        <author>
+            <name>Oisin Kuhnke</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colin Watson: Reproducible man-db databases]]></title>
+        <id>tag:www.chiark.greenend.org.uk,2022-10-16:/~cjwatson/blog/reproducible-man-db-databases.html</id>
+        <link href="https://www.chiark.greenend.org.uk/~cjwatson/blog/reproducible-man-db-databases.html"/>
+        <updated>2022-10-16T15:54:32.000Z</updated>
+        <summary type="html"><![CDATA[I’ve released man-db 2.11.0
+(announcement,
+NEWS), and
+uploaded it to Debian unstable.
+The biggest chunk of work here was fixing some extremely long-standing
+issues with how the database is built.  Despite being in the package name,
+man-db’s database is much less important than it used to be: most uses of
+man(1) haven’t required it in a long time, and both hardware and
+software
+improvements
+mean that even some searches can be done by brute force without needing
+prior indexing.  However, the database is still needed for the whatis(1)
+and apropos(1) commands.
+The database has a simple format - no relational structure here, it’s just a
+simple key-value database using old-fashioned DBM-like interfaces and
+composing a few fields to form values - but there are a number of subtleties
+involved.  Th…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Kingdom Hearts TV series pilot finally sees the light of day thanks to the original director]]></title>
         <id>https://www.vg247.com/kingdom-hearts-tv-pilot-shared-online</id>
@@ -19780,26 +19842,6 @@ Read more]]></summary>
         <link href="https://www.fz.se/artikel/291655-flera-tunga-namn-har-ofrivilligt-lamnat-disco-elysium-utvecklaren"/>
         <updated>2022-10-03T04:46:26.000Z</updated>
         <summary type="html"><![CDATA[Men en uppföljare är tydligen på väg.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung’s Smart Monitor tries too hard to be clever]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/03/samsung_m8_smart_monitor_review/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/03/samsung_m8_smart_monitor_review/"/>
-        <updated>2022-10-03T04:01:06.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Barely adequate as a desktop alternative, but delightful as a dual purpose monitor</h4> <p><strong>Desktop Tourism</strong>  Samsung's vision for a smart monitor tantalizes: the company suggests you park your PC and instead use Bluetooth input devices to work with a monitor that bakes in a browser and Office 365. If you really need a PC, the device can remote into a PC or Mac.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ny trailer för WH40K: Darktide visar upp Zealot: Preacher-klassen]]></title>
-        <id>https://www.fz.se/artikel/291654</id>
-        <link href="https://www.fz.se/artikel/291654-ny-trailer-for-wh40k-darktide-visar-upp-zealot-preacher-klassen"/>
-        <updated>2022-10-03T03:49:40.000Z</updated>
-        <summary type="html"><![CDATA[En av de "arketyper" vi kommer kunna välja som.]]></summary>
         <author>
             <name>FZ.se</name>
         </author>

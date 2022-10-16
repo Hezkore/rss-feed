@@ -3145,6 +3145,26 @@
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
         {
+          "id": "https://www.vg247.com/an-indie-dev-brought-the-fake-simpsons-waterworld-game-to-life",
+          "author": "Oisin Kuhnke",
+          "description": "The Simpsons is full of weird jokes, occasionally some of them are about video games, like the time Millhouse played a Waterworld game. And now you can play it!\r\n\n\r\nIf you haven't seen it, Waterworld stars Kevin Costner, and is a post-apocalyptic world way off in the year 2500, where water levels have risen so high every continent is underwater. In an episode of The Simpsons called The Springfield Files, Millhouse plays an arcade game adaptation of the film, having to pay 40 quarters, a regular amount to play for an arcade game. And now indie dev Macaw45 has made it actually playable, as it was just a small joke in the original episode.\r\n\n\r\n\"I've always been fascinated by the fake videogames that were occasionally seen in The Simpsons, and the Waterworld one always stuck out to me as a kid,\" explains Macaw45 in the game page's description. \"Of course it's just a short joke poking fun at how expensive the production of the movie was at the time, but this fake game itself with its gigantic Kevin Costner character on the screen who takes a single step before the machine asks for more quarters always made me so eager to know 'what would be beyond that one screen you see in the show.\"\r\n \nRead more",
+          "link": "https://www.vg247.com/an-indie-dev-brought-the-fake-simpsons-waterworld-game-to-life",
+          "publishedOn": "2022-10-16T16:33:54.000Z",
+          "wordCount": 4636,
+          "title": "An indie dev brought the fake Simpsons Waterworld game to life",
+          "imageUrl": "https://asset.vg247.com/simpsons-waterworld-game.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/simpsons-waterworld-game.jpg"
+        },
+        {
+          "id": "https://www.vg247.com/toad-will-sing-in-the-super-mario-bros-movie-and-you-will-enjoy-it",
+          "author": "Oisin Kuhnke",
+          "description": "It sounds like The Super Mario Bros. Movie might be a bit of a musical, as Toad actor Keegan-Michael Key confirms the mushroom man will do a bit of singing.\r\n\n\r\nWhile it isn't clear if the Mario Bros. film will be a full on musical, Giant Bomb's Jeff Grubb did say earlier this year that it might have a few musical numbers in it, which is sounding a bit more accurate now. Speaking to Variety, Key was asked if the perfect creature known as Toad will do any singing, to which the actor said \"he does.\"\r\n\n\r\n\"I got to improvise a song in ‘Super Mario Bros.,’ which was an absolute blast,\" Key continued to explain. \"That was just a stick of fun, that whole thing.\" The actor also spoke about how he developed the voice, saying he \"was working on the voice with my partner and trying to find the voice through the internal journey of the character. And then with the directors [Aaron Horvath and Michael Jelenic], we sprinkled some things in, we moved it around.\"\r\n \nRead more",
+          "link": "https://www.vg247.com/toad-will-sing-in-the-super-mario-bros-movie-and-you-will-enjoy-it",
+          "publishedOn": "2022-10-16T16:03:23.000Z",
+          "wordCount": 4663,
+          "title": "Toad will sing in The Super Mario Bros. Movie, and you will enjoy it",
+          "imageUrl": "https://asset.vg247.com/toad-mario-movie.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/toad-mario-movie.jpg"
+        },
+        {
           "id": "https://www.vg247.com/kingdom-hearts-tv-pilot-shared-online",
           "author": "Oisin Kuhnke",
           "description": "Did you know that a Kingdom Hearts TV series was in development back in the day? Well it was, and the original director shared the pilot earlier this week.\r\n\n\r\nThe Kingdom Hearts TV series was an American developed take on the original game, but it never got off the ground. While bits and pieces of the show have appeared online over the years, like storyboards and various pieces of art, a full pilot has been the holy grail that fans have been after for years. Now, director of the project Seth Kearsley has shared the full animatic pilot online, and it honestly isn't the worst thing in the world.\r\n\n\r\nThe animatic is narrated by Pinocchio's Jiminy Cricket, a companion of protagonist Sora in the original game, and fits very well as such considering he keeps a journal of the games events canonically. It's definitely rough around the edges, as it's an animatic rather than fully animated.\r\n \nRead more",
@@ -10403,6 +10423,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "tag:www.chiark.greenend.org.uk,2022-10-16:/~cjwatson/blog/reproducible-man-db-databases.html",
+          "author": null,
+          "description": "I’ve released man-db 2.11.0\n(announcement,\nNEWS), and\nuploaded it to Debian unstable.\nThe biggest chunk of work here was fixing some extremely long-standing\nissues with how the database is built.  Despite being in the package name,\nman-db’s database is much less important than it used to be: most uses of\nman(1) haven’t required it in a long time, and both hardware and\nsoftware\nimprovements\nmean that even some searches can be done by brute force without needing\nprior indexing.  However, the database is still needed for the whatis(1)\nand apropos(1) commands.\nThe database has a simple format - no relational structure here, it’s just a\nsimple key-value database using old-fashioned DBM-like interfaces and\ncomposing a few fields to form values - but there are a number of subtleties\ninvolved.  Th…",
+          "link": "https://www.chiark.greenend.org.uk/~cjwatson/blog/reproducible-man-db-databases.html",
+          "publishedOn": "2022-10-16T15:54:32.000Z",
+          "wordCount": 952,
+          "title": "Colin Watson: Reproducible man-db databases",
+          "imageUrl": null
+        },
+        {
           "id": "http://aigarius.com/blog/2022/10/16/ryzen-7000-amdgpu/",
           "author": null,
           "description": "So you decided to build a brand new system using all the latest and coolest tech, so you buy a Ryzen 7000 series\nZen 4 CPU, like the Ryzen 7700X that I picked, with a new mother board and DDR5 memory and all that jazz. But for\nnow, you don't yet have a fitting GPU for that system (as the new ones will only come out in November), so you are\nbooting a Debian system using the new build-in video card of the new CPUs (Zen 4 generation has a simple AMD GPU\nbuild-in into every CPU now - great stuff for debugging and mostly-headless systems) and you get ... nothing on \nthe screen. Hmm. You boot into the rescue mode and the kernel message stop after:\nOct 16 13:31:25 home kernel: [    4.128328] amdgpu: Ignoring ACPI CRAT on non-APU system\nOct 16 13:31:25 home kernel: [    4.128329] amdgpu: Virtual C…",
@@ -14152,16 +14182,6 @@
           "wordCount": 1924,
           "title": "Flera tunga namn har \"ofrivilligt\" lämnat Disco Elysium-utvecklaren",
           "imageUrl": "https://www.fz.se/artikel/og-image/291655"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291654",
-          "author": null,
-          "description": "En av de \"arketyper\" vi kommer kunna välja som.",
-          "link": "https://www.fz.se/artikel/291654-ny-trailer-for-wh40k-darktide-visar-upp-zealot-preacher-klassen",
-          "publishedOn": "2022-10-03T03:49:40.000Z",
-          "wordCount": 1868,
-          "title": "Ny trailer för WH40K: Darktide visar upp Zealot: Preacher-klassen",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291654"
         }
       ]
     },
@@ -17716,16 +17736,6 @@
           "wordCount": 1429,
           "title": "Moody's turns up the heat on 'riskiest' sectors for cyberattacks",
           "imageUrl": "https://regmedia.co.uk/2022/09/30/risk_measurement_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/samsung_m8_smart_monitor_review/",
-          "author": null,
-          "description": "<h4>Barely adequate as a desktop alternative, but delightful as a dual purpose monitor</h4> <p><strong>Desktop Tourism</strong>  Samsung's vision for a smart monitor tantalizes: the company suggests you park your PC and instead use Bluetooth input devices to work with a monitor that bakes in a browser and Office 365. If you really need a PC, the device can remote into a PC or Mac.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/03/samsung_m8_smart_monitor_review/",
-          "publishedOn": "2022-10-03T04:01:06.000Z",
-          "wordCount": 1935,
-          "title": "Samsung’s Smart Monitor tries too hard to be clever",
-          "imageUrl": "https://regmedia.co.uk/2022/09/30/supplied_samsung_smart_monitor_m8.jpg"
         }
       ]
     }
