@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-17T18:47:09.280Z</updated>
+    <updated>2022-10-17T19:34:39.905Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Artist formerly known as Kanye reveals Parler trick: Buying the far-right haven]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/17/ye_kanye_west_parler/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/17/ye_kanye_west_parler/"/>
+        <updated>2022-10-17T19:28:11.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Used to tweeting? Get ready for Yeeting</h4> <p>After public spats with Twitter and Instagram, Rapper Ye – formerly known as Kanye West – is buying social network Parler, an alternative micro-blogging site often associated with far-right extremists, conspiracy theorists, and others booted from mainstream platforms.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[libcamera Celebrates Its First Release As Camera Support Library For Linux]]></title>
+        <id>https://www.phoronix.com/news/libcamera-First-Release</id>
+        <link href="https://www.phoronix.com/news/libcamera-First-Release"/>
+        <updated>2022-10-17T19:00:24.000Z</updated>
+        <summary type="html"><![CDATA[Libcamera has been in development for several years now as an open-source camera support library that works across Linux, Android, and Chrome OS platforms. Due to interest from seeing tagged releases, the libcamera crew has published their first official release of this open-source camera stack...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US Dept of Energy injects more particles of cash into tokamak fusion reactors]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/17/doe_tokamak_fusion_reactor_research/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/17/doe_tokamak_fusion_reactor_research/"/>
+        <updated>2022-10-17T18:45:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>The funding will continue, until the atoms fuse</h4> <p>The US Department of Energy is handing out more fusion power funding, this time doling out $47 million to 38 projects that explore the feasibility of tokamak reactors. …</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Open 3D Engine 22.10 Released With Better Multiplayer Support, Usability Improvements]]></title>
         <id>https://www.phoronix.com/news/O3DE-22.10-Released</id>
@@ -19401,36 +19431,6 @@ performance issues in the current projection uncertainty method]]></summary>
         <summary type="html"><![CDATA[Video i 4K på Youtube är för tillfället tillgängligt för samtliga användare. Nu finns indikationer på att den högre upplösningen kan låsas bakom prenumeration.]]></summary>
         <author>
             <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Someone's at last helping AI models understand those with speech disabilities]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/04/ai_language_recognition_disabled/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/04/ai_language_recognition_disabled/"/>
-        <updated>2022-10-04T07:26:09.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Welsh, on the other hand, there's no tech that can help with that</h4> <p>Boffins at the University of Illinois Urbana-Champaign (UIUC) in the US are working with the usual internet super-corps to, ideally, improve AI voice recognition for people with disabilities.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Foldable smartphones crawl to one percent of global market share]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/04/idc_folding_smartphones_market_share/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/04/idc_folding_smartphones_market_share/"/>
-        <updated>2022-10-04T06:57:07.000Z</updated>
-        <summary type="html"><![CDATA[<h4>They’re on track for a whopping three percent in 2026 – well out of the mainstream, but growing faster</h4> <p>Cross “optimise site and/or app for folding smartphones” off your to-do list: analyst firm IDC says they’re not going to be mainstream devices by the year 2026.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tidigare Stadia-exklusiva Gylt kommer till andra plattformar]]></title>
-        <id>https://www.fz.se/artikel/291670</id>
-        <link href="https://www.fz.se/artikel/291670-tidigare-stadia-exklusiva-gylt-kommer-till-andra-plattformar"/>
-        <updated>2022-10-04T06:56:00.000Z</updated>
-        <summary type="html"><![CDATA[Men oklart vilka.]]></summary>
-        <author>
-            <name>FZ.se</name>
         </author>
     </entry>
 </feed>

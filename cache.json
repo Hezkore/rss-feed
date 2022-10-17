@@ -4642,6 +4642,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/libcamera-First-Release",
+          "author": null,
+          "description": "Libcamera has been in development for several years now as an open-source camera support library that works across Linux, Android, and Chrome OS platforms. Due to interest from seeing tagged releases, the libcamera crew has published their first official release of this open-source camera stack...",
+          "link": "https://www.phoronix.com/news/libcamera-First-Release",
+          "publishedOn": "2022-10-17T19:00:24.000Z",
+          "wordCount": 1368,
+          "title": "libcamera Celebrates Its First Release As Camera Support Library For Linux",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/O3DE-22.10-Released",
           "author": null,
           "description": "Ahead of O3DCON kicking off tomorrow in Austin, Texas as a developer event around the Open 3D Engine game engine backed by the Linux Foundation and numerous organizations, O3DE 22.10 has been released...",
@@ -13907,16 +13917,6 @@
           "wordCount": 1763,
           "title": "I kväll visas Dead Space Remake-gameplay upp",
           "imageUrl": "https://www.fz.se/artikel/og-image/291671"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291670",
-          "author": null,
-          "description": "Men oklart vilka.",
-          "link": "https://www.fz.se/artikel/291670-tidigare-stadia-exklusiva-gylt-kommer-till-andra-plattformar",
-          "publishedOn": "2022-10-04T06:56:00.000Z",
-          "wordCount": 1826,
-          "title": "Tidigare Stadia-exklusiva Gylt kommer till andra plattformar",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291670"
         }
       ]
     },
@@ -14882,6 +14882,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/17/ye_kanye_west_parler/",
+          "author": null,
+          "description": "<h4>Used to tweeting? Get ready for Yeeting</h4> <p>After public spats with Twitter and Instagram, Rapper Ye – formerly known as Kanye West – is buying social network Parler, an alternative micro-blogging site often associated with far-right extremists, conspiracy theorists, and others booted from mainstream platforms.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/17/ye_kanye_west_parler/",
+          "publishedOn": "2022-10-17T19:28:11.000Z",
+          "wordCount": 1420,
+          "title": "Artist formerly known as Kanye reveals Parler trick: Buying the far-right haven",
+          "imageUrl": "https://regmedia.co.uk/2022/10/17/kanye.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/17/doe_tokamak_fusion_reactor_research/",
+          "author": null,
+          "description": "<h4>The funding will continue, until the atoms fuse</h4> <p>The US Department of Energy is handing out more fusion power funding, this time doling out $47 million to 38 projects that explore the feasibility of tokamak reactors. …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/17/doe_tokamak_fusion_reactor_research/",
+          "publishedOn": "2022-10-17T18:45:10.000Z",
+          "wordCount": 1198,
+          "title": "US Dept of Energy injects more particles of cash into tokamak fusion reactors",
+          "imageUrl": "https://regmedia.co.uk/2020/03/17/tokomak_reactor.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/17/interpol_black_axe_fraud/",
           "author": null,
@@ -17341,26 +17361,6 @@
           "wordCount": 1238,
           "title": "UK hits Russia with British IT services ban",
           "imageUrl": "https://regmedia.co.uk/2022/03/01/sanctions_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/04/ai_language_recognition_disabled/",
-          "author": null,
-          "description": "<h4>Welsh, on the other hand, there's no tech that can help with that</h4> <p>Boffins at the University of Illinois Urbana-Champaign (UIUC) in the US are working with the usual internet super-corps to, ideally, improve AI voice recognition for people with disabilities.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/04/ai_language_recognition_disabled/",
-          "publishedOn": "2022-10-04T07:26:09.000Z",
-          "wordCount": 1318,
-          "title": "Someone's at last helping AI models understand those with speech disabilities",
-          "imageUrl": "https://regmedia.co.uk/2022/10/04/shutterstock_voice_recog.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/04/idc_folding_smartphones_market_share/",
-          "author": null,
-          "description": "<h4>They’re on track for a whopping three percent in 2026 – well out of the mainstream, but growing faster</h4> <p>Cross “optimise site and/or app for folding smartphones” off your to-do list: analyst firm IDC says they’re not going to be mainstream devices by the year 2026.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/04/idc_folding_smartphones_market_share/",
-          "publishedOn": "2022-10-04T06:57:07.000Z",
-          "wordCount": 1248,
-          "title": "Foldable smartphones crawl to one percent of global market share",
-          "imageUrl": "https://regmedia.co.uk/2021/03/31/xiaomi_mix_fold_pr_suppled.jpg"
         }
       ]
     }
