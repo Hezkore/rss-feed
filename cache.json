@@ -759,16 +759,6 @@
           "wordCount": 1085,
           "title": "Fanatical have another great bundle of Steam Deck Verified games",
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1889523107id21690gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/10/valve-makes-steam-deck-custom-boot-screens-easier/",
-          "author": "Liam Dawe",
-          "description": "Valve just released a fresh Beta update for the Steam Deck, as they loved seeing all the custom boot screens so much they've now made it officially supported.",
-          "link": "https://www.gamingonlinux.com/2022/10/valve-makes-steam-deck-custom-boot-screens-easier/",
-          "publishedOn": "2022-10-04T08:27:12.000Z",
-          "wordCount": 1248,
-          "title": "Valve makes Steam Deck custom boot screens easier",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/96674837id21689gol.jpg"
         }
       ]
     },
@@ -777,6 +767,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/apex-legends-next-hero-is-trans-terraformer-and-defensive-conjurer-catalyst",
+          "author": "Matt Wales",
+          "description": "Respawn has shared first details of Apex Legends' 15th season - including a reveal for new hero Catalyst, the first trans Legend to join the line-up - ahead of its arrival on 1st November.\r\n\n\r\nDetails of the new season, which Respawn is calling Eclipse, are a little light at present, but the developer's newly launched Season 15 webpage promises a new map - said to be lie \"in Boreas' shadow\" - as well as a new gifting feature, enabling players to purchase and send cosmetic items to their friends.\r\n\n\r\nFor now, though, the focus is very much on new hero Catalyst, real name Tressa Smith, described as a \"experienced terraformer and defensive conjurer  [who] uses her remarkable control of ferrofluid to manipulate the battlefield.\"\r\n \nRead more",
+          "link": "https://www.eurogamer.net/apex-legends-next-hero-is-trans-terraformer-and-defensive-conjurer-catalyst",
+          "publishedOn": "2022-10-17T19:46:01.000Z",
+          "wordCount": 4363,
+          "title": "Apex Legends' next hero is trans \"terraformer and defensive conjurer\" Catalyst",
+          "imageUrl": "https://assets.reedpopcdn.com/apex-legends-catalyst_QjW9OU6.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/apex-legends-catalyst_QjW9OU6.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/switch-sports-servers-due-back-online-tomorrow-following-weekend-downtime",
           "author": "Matt Wales",
@@ -3094,6 +3094,16 @@
       "feedUrl": "https://www.vg247.com/feed",
       "siteUrl": "https://www.vg247.com/feed",
       "articles": [
+        {
+          "id": "https://www.vg247.com/a-plague-tale-requiem-will-let-you-leg-it-to-the-end",
+          "author": "Jim Trinca",
+          "description": "^Stay tuned after the ads for our guide to legging it through a particularly gnarly bit of Requiem's second chapter.\n\r\nLook, we all know that pang of regret that comes on when you cock-up a stealth section and get spotted but finish the level anyway. There's always a lingering sense of having not done things Properly. Perhaps, if you're the sort of person who likes to get max sync in Assassin's Creed no matter what, you'll make a mental note to do better on your next playthrough. But A Plague Tale: Requiem encourages you to simply manage,  however one must. \r\n\n\r\nAt the end of chapter two there is a sequence which ostensibly presents itself as a stealth section, complete with reeds to hide in, guards with predictable patrols, and plenty of cover to duck behind. But something happens around half way through which mixes things up in a way that the first game never quite dared: the rats cometh.  Bursting up from the ground, through walls, hugging the edge of the light and filling every dark space. In this section, A Plague Tale's \"The Floor Is Lava\" game collides with its \"Hide and Seek\" game: and the results are harrowing.\r\n \nRead more",
+          "link": "https://www.vg247.com/a-plague-tale-requiem-will-let-you-leg-it-to-the-end",
+          "publishedOn": "2022-10-17T19:37:39.000Z",
+          "wordCount": 4775,
+          "title": "A Plague Tale: Requiem will let you leg it to the end",
+          "imageUrl": "https://asset.vg247.com/JUST-LEG-IT.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/JUST-LEG-IT.jpg"
+        },
         {
           "id": "https://www.vg247.com/a-plague-tale-requiem-review",
           "author": "Dom Peppiatt",
@@ -10268,6 +10278,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "http://notes.secretsauce.net/notes/2022/10/17_gnuplot-output-in-an-fltk-widget.html",
+          "author": null,
+          "description": "Overview\nreally\nbugs me. People writing Python code mostly use matplotlib, R people use\nggplot2. MS people use the internal Excel thing. I've seen people use\ngtkdatabox for GTK widgets, rrdtool for logging, qcustomplot for qt. And\nso on. This is really unhelpful, and it would benefit everybody if there was a\nsingle solid plotting backend with lots of bindings to different languages and\ntools.\n\n\n\nFor my own usage, I've been fighting this quixotic battle, using gnuplot as\nthe plotting backend for all my use cases. gnuplot is\n\n\n\nvery mature\n\nstable\n\nfast\n\npowerful\n\nsupported on every (with reason) platform\n\nsupports lots and lots of output backends\n\n\n\n\nThere are some things it can't do, but those can be added, and I haven't felt it\nto be limiting in over 20 years of using it.\n\n\n\nI rarely use …",
+          "link": "http://notes.secretsauce.net/notes/2022/10/17_gnuplot-output-in-an-fltk-widget.html",
+          "publishedOn": "2022-10-17T19:28:00.000Z",
+          "wordCount": 945,
+          "title": "Dima Kogan: gnuplot output in an FLTK widget",
+          "imageUrl": null
+        },
+        {
           "id": "https://jeremy.bicha.net/?p=474",
           "author": null,
           "description": "I first installed Ubuntu when Ubuntu 6.06 LTS “Dapper Drake” was released. I was brand new to Linux. This was Ubuntu’s first LTS release; the very first release of Ubuntu was only a year and a half before. I was impressed by how usable and useful the system was. It soon became my primary home operating system and I wanted to help make it better.\nOn October 15, 2009, I was helping test the release candidates ISOs for the Ubuntu 9.10 release. Specifically, I tested Edubuntu. Edubuntu has since been discontinued but at the time it was an official Ubuntu flavor preloaded with lots of education apps. One of those education apps was Moodle, an e-learning platform.\nWhen testing Moodle, I found that a default installation would make Moodle impossible to use locally. I figured out how to fix this i…",
@@ -10556,16 +10576,6 @@
           "wordCount": 1504,
           "title": "Abhijith PA: Laptop refreshment",
           "imageUrl": "/images/favicons/favicon-194x194.png"
-        },
-        {
-          "id": "http://notes.secretsauce.net/notes/2022/10/04_mrcal-22-released.html",
-          "author": null,
-          "description": "mrcal 2.2 (the release notes are available here). This release\ncontains lots of medium-important internal improvements, and is a result of\n\n\n\nHeavy dogfooding. I use these tools a lot every day, and many things are\nnicer, easier and work better in 2.2 than in 2.1\n\nNot-yet-completed cool new functionality. Some of the required internal\nimprovements for the big new features are being released here.\n\n\n\n\nThe biggest single new feature in this release is the interactive graphical tool\nfor examining dense stereo results: accessed via mrcal-stereo --viz stereo.\n\n\n\nThe next pressing thing is improved documentation. The tour of mrcal is still a\ngood overview of some of the functionality that makes mrcal unique and far\nbetter than traditional calibration tools. But it doesn't do a good job of\ndemonstrating how you would actually use mrcal to diagnose and handle common\ncalibration issues. I need to gather some releasable representative data, and\nwrite docs around that.\n\n\n\nThen I'm going to start finishing the big new features in the roadmap (these are\nall already functional, but need polish):\n\n\n\nTriangulation functions in the optimization loop for efficient\nstructure-from-motion\n\nSupport for non-central projection to remove a significant source of bias\npresent in very wide lenses\n\nImproved projection uncertainty quantification to resolve accuracy and\nperformance issues in the current projection uncertainty method",
-          "link": "http://notes.secretsauce.net/notes/2022/10/04_mrcal-22-released.html",
-          "publishedOn": "2022-10-04T08:05:00.000Z",
-          "wordCount": 271,
-          "title": "Dima Kogan: mrcal 2.2 released",
-          "imageUrl": null
         }
       ]
     },
@@ -10631,6 +10641,16 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1890449",
+          "author": "Scharon Harding",
+          "description": "VESA released DisplayPort 2.1 today, but you may already own certified products.",
+          "link": "https://arstechnica.com/?p=1890449",
+          "publishedOn": "2022-10-17T19:00:03.000Z",
+          "wordCount": 1697,
+          "title": "All DisplayPort 2.0 products are now DisplayPort 2.1, VESA says",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/GettyImages-1323016231-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1890346",
           "author": "Jennifer Ouellette",
@@ -13897,26 +13917,6 @@
           "wordCount": 1854,
           "title": "2.5D-actionspelet Mandragora har nått sitt Kickstarter-mål",
           "imageUrl": "https://www.fz.se/artikel/og-image/291672"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291671",
-          "author": null,
-          "description": "Kapa lemmarna.",
-          "link": "https://www.fz.se/artikel/291671-se-forsta-gameplay-trailern-fran-dead-space-remaken",
-          "publishedOn": "2022-10-04T07:59:00.000Z",
-          "wordCount": 1897,
-          "title": "Se första gameplay-trailern från Dead Space-remaken",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291671"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291671",
-          "author": null,
-          "description": "Kapa lemmarna.",
-          "link": "https://www.fz.se/artikel/291671-i-kvall-visas-dead-space-remake-gameplay-upp",
-          "publishedOn": "2022-10-04T07:59:00.000Z",
-          "wordCount": 1763,
-          "title": "I kväll visas Dead Space Remake-gameplay upp",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291671"
         }
       ]
     },
@@ -14604,16 +14604,6 @@
           "wordCount": 1594,
           "title": "Snabbkoll: Har du bytt till Windows 11?",
           "imageUrl": "https://www.sweclockers.com/artikel/35018/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/35017",
-          "author": null,
-          "description": "Video i 4K på Youtube är för tillfället tillgängligt för samtliga användare. Nu finns indikationer på att den högre upplösningen kan låsas bakom prenumeration.",
-          "link": "https://www.sweclockers.com/artikel/35017-uppspelning-i-4k-kan-lasas-bakom-youtube-premium",
-          "publishedOn": "2022-10-04T07:43:00.000Z",
-          "wordCount": 1763,
-          "title": "Uppspelning i 4K kan låsas bakom Youtube Premium",
-          "imageUrl": "https://www.sweclockers.com/artikel/35017/og-image"
         }
       ]
     },
@@ -14882,6 +14872,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/17/arecibo_telescope_education_center/",
+          "author": null,
+          "description": "<h4>Space scientists lament loss, say it won't be the same without actual working instruments</h4> <p>The US National Science Foundation (NSF) has decided not to rebuild Puerto Rico's Arecibo Observatory, shut down in August 2020 due to damage accrued three years earlier.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/17/arecibo_telescope_education_center/",
+          "publishedOn": "2022-10-17T20:10:08.000Z",
+          "wordCount": 1981,
+          "title": "Collapsed Arecibo telescope to be replaced by school",
+          "imageUrl": "https://regmedia.co.uk/2020/11/09/arecibo.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/17/ye_kanye_west_parler/",
           "author": null,

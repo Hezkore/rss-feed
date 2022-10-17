@@ -2,10 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-17T19:34:39.905Z</updated>
+    <updated>2022-10-17T20:29:42.818Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Collapsed Arecibo telescope to be replaced by school]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/17/arecibo_telescope_education_center/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/17/arecibo_telescope_education_center/"/>
+        <updated>2022-10-17T20:10:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Space scientists lament loss, say it won't be the same without actual working instruments</h4> <p>The US National Science Foundation (NSF) has decided not to rebuild Puerto Rico's Arecibo Observatory, shut down in August 2020 due to damage accrued three years earlier.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apex Legends' next hero is trans "terraformer and defensive conjurer" Catalyst]]></title>
+        <id>https://www.eurogamer.net/apex-legends-next-hero-is-trans-terraformer-and-defensive-conjurer-catalyst</id>
+        <link href="https://www.eurogamer.net/apex-legends-next-hero-is-trans-terraformer-and-defensive-conjurer-catalyst"/>
+        <updated>2022-10-17T19:46:01.000Z</updated>
+        <summary type="html"><![CDATA[Respawn has shared first details of Apex Legends' 15th season - including a reveal for new hero Catalyst, the first trans Legend to join the line-up - ahead of its arrival on 1st November.
+
+
+Details of the new season, which Respawn is calling Eclipse, are a little light at present, but the developer's newly launched Season 15 webpage promises a new map - said to be lie "in Boreas' shadow" - as well as a new gifting feature, enabling players to purchase and send cosmetic items to their friends.
+
+
+For now, though, the focus is very much on new hero Catalyst, real name Tressa Smith, described as a "experienced terraformer and defensive conjurer  [who] uses her remarkable control of ferrofluid to manipulate the battlefield."
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Plague Tale: Requiem will let you leg it to the end]]></title>
+        <id>https://www.vg247.com/a-plague-tale-requiem-will-let-you-leg-it-to-the-end</id>
+        <link href="https://www.vg247.com/a-plague-tale-requiem-will-let-you-leg-it-to-the-end"/>
+        <updated>2022-10-17T19:37:39.000Z</updated>
+        <summary type="html"><![CDATA[^Stay tuned after the ads for our guide to legging it through a particularly gnarly bit of Requiem's second chapter.
+
+Look, we all know that pang of regret that comes on when you cock-up a stealth section and get spotted but finish the level anyway. There's always a lingering sense of having not done things Properly. Perhaps, if you're the sort of person who likes to get max sync in Assassin's Creed no matter what, you'll make a mental note to do better on your next playthrough. But A Plague Tale: Requiem encourages you to simply manage,  however one must. 
+
+
+At the end of chapter two there is a sequence which ostensibly presents itself as a stealth section, complete with reeds to hide in, guards with predictable patrols, and plenty of cover to duck behind. But something happens around half way through which mixes things up in a way that the first game never quite dared: the rats cometh.  Bursting up from the ground, through walls, hugging the edge of the light and filling every dark space. In this section, A Plague Tale's "The Floor Is Lava" game collides with its "Hide and Seek" game: and the results are harrowing.
+ 
+Read more]]></summary>
+        <author>
+            <name>Jim Trinca</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Artist formerly known as Kanye reveals Parler trick: Buying the far-right haven]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/17/ye_kanye_west_parler/</id>
@@ -17,6 +62,52 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dima Kogan: gnuplot output in an FLTK widget]]></title>
+        <id>http://notes.secretsauce.net/notes/2022/10/17_gnuplot-output-in-an-fltk-widget.html</id>
+        <link href="http://notes.secretsauce.net/notes/2022/10/17_gnuplot-output-in-an-fltk-widget.html"/>
+        <updated>2022-10-17T19:28:00.000Z</updated>
+        <summary type="html"><![CDATA[Overview
+really
+bugs me. People writing Python code mostly use matplotlib, R people use
+ggplot2. MS people use the internal Excel thing. I've seen people use
+gtkdatabox for GTK widgets, rrdtool for logging, qcustomplot for qt. And
+so on. This is really unhelpful, and it would benefit everybody if there was a
+single solid plotting backend with lots of bindings to different languages and
+tools.
+
+
+
+For my own usage, I've been fighting this quixotic battle, using gnuplot as
+the plotting backend for all my use cases. gnuplot is
+
+
+
+very mature
+
+stable
+
+fast
+
+powerful
+
+supported on every (with reason) platform
+
+supports lots and lots of output backends
+
+
+
+
+There are some things it can't do, but those can be added, and I haven't felt it
+to be limiting in over 20 years of using it.
+
+
+
+I rarely use …]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[libcamera Celebrates Its First Release As Camera Support Library For Linux]]></title>
         <id>https://www.phoronix.com/news/libcamera-First-Release</id>
         <link href="https://www.phoronix.com/news/libcamera-First-Release"/>
@@ -24,6 +115,16 @@
         <summary type="html"><![CDATA[Libcamera has been in development for several years now as an open-source camera support library that works across Linux, Android, and Chrome OS platforms. Due to interest from seeing tagged releases, the libcamera crew has published their first official release of this open-source camera stack...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All DisplayPort 2.0 products are now DisplayPort 2.1, VESA says]]></title>
+        <id>https://arstechnica.com/?p=1890449</id>
+        <link href="https://arstechnica.com/?p=1890449"/>
+        <updated>2022-10-17T19:00:03.000Z</updated>
+        <summary type="html"><![CDATA[VESA released DisplayPort 2.1 today, but you may already own certified products.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
         </author>
     </entry>
     <entry>
@@ -19341,96 +19442,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<h4>Annexed Donetsk? No more consultants for you then</h4> <p>Fresh export sanctions were leveled at Russia by the UK last week, with IT consultancy among other professional services that are banned.…</p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valve makes Steam Deck custom boot screens easier]]></title>
-        <id>https://www.gamingonlinux.com/2022/10/valve-makes-steam-deck-custom-boot-screens-easier/</id>
-        <link href="https://www.gamingonlinux.com/2022/10/valve-makes-steam-deck-custom-boot-screens-easier/"/>
-        <updated>2022-10-04T08:27:12.000Z</updated>
-        <summary type="html"><![CDATA[Valve just released a fresh Beta update for the Steam Deck, as they loved seeing all the custom boot screens so much they've now made it officially supported.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dima Kogan: mrcal 2.2 released]]></title>
-        <id>http://notes.secretsauce.net/notes/2022/10/04_mrcal-22-released.html</id>
-        <link href="http://notes.secretsauce.net/notes/2022/10/04_mrcal-22-released.html"/>
-        <updated>2022-10-04T08:05:00.000Z</updated>
-        <summary type="html"><![CDATA[mrcal 2.2 (the release notes are available here). This release
-contains lots of medium-important internal improvements, and is a result of
-
-
-
-Heavy dogfooding. I use these tools a lot every day, and many things are
-nicer, easier and work better in 2.2 than in 2.1
-
-Not-yet-completed cool new functionality. Some of the required internal
-improvements for the big new features are being released here.
-
-
-
-
-The biggest single new feature in this release is the interactive graphical tool
-for examining dense stereo results: accessed via mrcal-stereo --viz stereo.
-
-
-
-The next pressing thing is improved documentation. The tour of mrcal is still a
-good overview of some of the functionality that makes mrcal unique and far
-better than traditional calibration tools. But it doesn't do a good job of
-demonstrating how you would actually use mrcal to diagnose and handle common
-calibration issues. I need to gather some releasable representative data, and
-write docs around that.
-
-
-
-Then I'm going to start finishing the big new features in the roadmap (these are
-all already functional, but need polish):
-
-
-
-Triangulation functions in the optimization loop for efficient
-structure-from-motion
-
-Support for non-central projection to remove a significant source of bias
-present in very wide lenses
-
-Improved projection uncertainty quantification to resolve accuracy and
-performance issues in the current projection uncertainty method]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Se första gameplay-trailern från Dead Space-remaken]]></title>
-        <id>https://www.fz.se/artikel/291671</id>
-        <link href="https://www.fz.se/artikel/291671-se-forsta-gameplay-trailern-fran-dead-space-remaken"/>
-        <updated>2022-10-04T07:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Kapa lemmarna.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I kväll visas Dead Space Remake-gameplay upp]]></title>
-        <id>https://www.fz.se/artikel/291671</id>
-        <link href="https://www.fz.se/artikel/291671-i-kvall-visas-dead-space-remake-gameplay-upp"/>
-        <updated>2022-10-04T07:59:00.000Z</updated>
-        <summary type="html"><![CDATA[Kapa lemmarna.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uppspelning i 4K kan låsas bakom Youtube Premium]]></title>
-        <id>https://www.sweclockers.com/artikel/35017</id>
-        <link href="https://www.sweclockers.com/artikel/35017-uppspelning-i-4k-kan-lasas-bakom-youtube-premium"/>
-        <updated>2022-10-04T07:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Video i 4K på Youtube är för tillfället tillgängligt för samtliga användare. Nu finns indikationer på att den högre upplösningen kan låsas bakom prenumeration.]]></summary>
-        <author>
-            <name>SweClockers</name>
         </author>
     </entry>
 </feed>
