@@ -181,6 +181,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/10/lego-bricktales-is-out-now-with-linux-support-and-steam-deck-verified/",
+          "author": "Liam Dawe",
+          "description": "Who doesn't love LEGO? ClockStone and Thunderful Publishing just recently released LEGO Bricktales and surprisingly, it came with full Native Linux support along with being Steam Deck Verified.",
+          "link": "https://www.gamingonlinux.com/2022/10/lego-bricktales-is-out-now-with-linux-support-and-steam-deck-verified/",
+          "publishedOn": "2022-10-17T13:03:55.000Z",
+          "wordCount": 2053,
+          "title": "LEGO Bricktales is out now with Linux support and Steam Deck Verified",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1799522097id21744gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/10/steamdb-makes-it-easier-to-track-upcoming-releases/",
           "author": "Liam Dawe",
           "description": "SteamDB, the unofficial website that tracks basically everything Steam, has a new and improved way for you to track upcoming games.",
@@ -4482,6 +4492,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/review/linux-61-features",
+          "author": null,
+          "description": "Now that Linux 6.1-rc1 was released, here is my look at all of the interesting kernel changes and new features that landed over the past two weeks. Linux 6.1 is shaping up to be another exciting kernel with many new software features, new hardware enablement work, and other changes for this end-of-year 2022 kernel version that is also likely to be the next Linux LTS release.",
+          "link": "https://www.phoronix.com/review/linux-61-features",
+          "publishedOn": "2022-10-17T13:07:34.000Z",
+          "wordCount": 1536,
+          "title": "Linux 6.1 Features Include Initial Rust Code, MGLRU, New AMD CPU Features, More Security",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Firefox-106-Available",
           "author": null,
           "description": "Firefox 106.0 web browser release builds are now available ahead of the official Firefox 106 announcement on Tuesday. Firefox 106 does have improvements to its PDF viewer as well as the WebRTC communication support...",
@@ -7216,6 +7236,36 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "3F36WyBZ737aNguRPhegFb",
+          "author": null,
+          "description": "After the US government places chip maker YMTC on the Unverified List, Apple looks elsewhere for flash",
+          "link": "https://www.tomshardware.com/news/ymtc-chips-off-the-menu-for-apple",
+          "publishedOn": "2022-10-17T13:26:50.000Z",
+          "wordCount": 22022,
+          "title": "U.S. Government Export Block Could Prevent Apple Using Chinese 3D NAND",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/TiwuGCXfbjb7oStPFPAwUY.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/TiwuGCXfbjb7oStPFPAwUY.png"
+        },
+        {
+          "id": "8DSSoNpu9GztisYLVzLMPj",
+          "author": null,
+          "description": "Cablemod has created a new 90 degree power adapter for the RTX 4090 that significantly reduces the 16-pin power plug's form factor.",
+          "link": "https://www.tomshardware.com/news/rtx-4090-right-angle-adapter",
+          "publishedOn": "2022-10-17T13:02:18.000Z",
+          "wordCount": 22222,
+          "title": "CableMod Announce Nvidia RTX 4090 Right Angle Power Adapter",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/hih9qZyP6yiuB3ecSartQR.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/hih9qZyP6yiuB3ecSartQR.jpg"
+        },
+        {
           "id": "tnHrkRACukpvL7WX6uFdad",
           "author": "stldenise@gmail.com (Denise Bertacchi)",
           "description": "Phrozen’s Sonic Mighty 8K prints big without leaving any details behind.",
@@ -9863,6 +9913,16 @@
       "siteUrl": "https://planet.debian.org/",
       "articles": [
         {
+          "id": "https://jeremy.bicha.net/?p=474",
+          "author": null,
+          "description": "I first installed Ubuntu when Ubuntu 6.06 LTS “Dapper Drake” was released. I was brand new to Linux. This was Ubuntu’s first LTS release; the very first release of Ubuntu was only a year and a half before. I was impressed by how usable and useful the system was. It soon became my primary home operating system and I wanted to help make it better.\nOn October 15, 2009, I was helping test the release candidates ISOs for the Ubuntu 9.10 release. Specifically, I tested Edubuntu. Edubuntu has since been discontinued but at the time it was an official Ubuntu flavor preloaded with lots of education apps. One of those education apps was Moodle, an e-learning platform.\nWhen testing Moodle, I found that a default installation would make Moodle impossible to use locally. I figured out how to fix this i…",
+          "link": "https://jeremy.bicha.net/2022/10/17/ubuntu-bug-fix-anniversary/",
+          "publishedOn": "2022-10-17T13:54:46.000Z",
+          "wordCount": 1516,
+          "title": "Jeremy Bicha: Ubuntu bug fix anniversary",
+          "imageUrl": "https://s0.wp.com/i/blank.jpg"
+        },
+        {
           "id": "http://sven.stormbind.net/blog/posts/centos_c9s_stunnel_memleak/",
           "author": null,
           "description": "tl;dr; OpenSSL 3.0.1 leaks memory in ssl3_setup_write_buffer(), seems to be\nfixed in 3.0.5. The issue manifests at least in stunnel and keepalived on CentOS 9.\nIn addition I learned the hard way that running a not so recent VirtualBox version\non Debian bullseye let to dh parameter generation crashing in libcrypto in\nbn_sqr8x_internal().\nA recent rabbit hole I went down. The actual bug in openssl was nailed down and\ndocumented by\nQuentin Armitage on GitHub in keepalived\nMy bugreport with all back and forth in the RedHat Bugzilla is\n#2128412.\nAct I - Hello stunnel, this is the OOMkiller Calling\nWe started to use stunnel on Google Cloud compute engine instances running CentOS 9.\nThe loadbalancer in front of those instances used a TCP health check to validate the\nbackend availability. A day or…",
@@ -10226,6 +10286,16 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1888712",
+          "author": "Jon Brodkin",
+          "description": "Fed up with Comcast and AT&T, Silicon Valley residents started their own network.",
+          "link": "https://arstechnica.com/?p=1888712",
+          "publishedOn": "2022-10-17T12:48:32.000Z",
+          "wordCount": 1685,
+          "title": "Comcast wanted $210,000 for Internet—so this man helped expand a co-op fiber ISP",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/lahcf-conduit-spool-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1889636",
           "author": "Undark Magazine",
@@ -11884,6 +11954,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291809",
+          "author": null,
+          "description": "Låt spekulationerna börja.",
+          "link": "https://www.fz.se/artikel/291809-valve-varumarkesskyddar-nat-spelrelaterat-vid-namn-neon-prime",
+          "publishedOn": "2022-10-17T14:02:44.000Z",
+          "wordCount": 1812,
+          "title": "Valve varumärkesskyddar nåt spelrelaterat vid namn Neon Prime",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291809"
+        },
+        {
           "id": "https://www.fz.se/artikel/291808",
           "author": null,
           "description": "Menar att budget-Xboxen sätter lägstanivån för hela generationen.",
@@ -13421,6 +13501,26 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/35085",
+          "author": null,
+          "description": "Nästan två år efter att Spotify utlovade högre ljudkvalitet skymtas det på nytt i en enkät för användare som avslutar sin prenumeration.",
+          "link": "https://www.sweclockers.com/artikel/35085-spotify-hifi-kan-introduceras-som-platinum-prenumeration",
+          "publishedOn": "2022-10-17T14:30:36.000Z",
+          "wordCount": 1728,
+          "title": "Spotify Hifi kan introduceras som Platinum-prenumeration",
+          "imageUrl": "https://www.sweclockers.com/artikel/35085/og-image"
+        },
+        {
+          "id": "https://www.sweclockers.com/artikel/35081",
+          "author": null,
+          "description": "VD Jensen Huang anser att AI krävs för att hitta nya vägar för en fortsatt levande halvledarindustri, och donerar därför en halv miljard till forskning.",
+          "link": "https://www.sweclockers.com/artikel/35081-nvidia-ai-avgorande-for-framtidens-kretsutveckling",
+          "publishedOn": "2022-10-17T13:09:11.000Z",
+          "wordCount": 1900,
+          "title": "Nvidia: \"AI avgörande för framtidens kretsutveckling\"",
+          "imageUrl": "https://www.sweclockers.com/artikel/35081/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/35083",
           "author": null,
           "description": "Enligt uppgifter till Gamers Nexus står Nvidia för nya förpackningar. Huruvida de täcker några andra kostnader efter namnfloppen är inte lika självklart.",
@@ -14357,6 +14457,46 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/17/musk/",
+          "author": null,
+          "description": "<h4>'Even though Starlink is still losing money &amp; other companies are getting billions of taxpayer $'</h4> <p>One problem of dealing with a prolifically tweeting billionaire is that the subjects of those mind burps can have the rug pulled from beneath them.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/17/musk/",
+          "publishedOn": "2022-10-17T14:10:10.000Z",
+          "wordCount": 1289,
+          "title": "Musk says Starlink will keep providing free service to Ukraine",
+          "imageUrl": "https://regmedia.co.uk/2021/11/10/shutterstock_satellite_broadband.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/17/in-brief-security/",
+          "author": null,
+          "description": "<h4>Also, Senator Warren says banks need to grow the Zelle up, an AirTag does some good – if you’re a Democrat, and more</h4> <p><strong>In brief</strong>  Advanced persistent threat group (APT) Budworm has shifted targets after hitting the Middle East, Europe and Asia, and was caught this week trying to break into the systems of an unnamed US state legislature.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/17/in-brief-security/",
+          "publishedOn": "2022-10-17T13:45:06.000Z",
+          "wordCount": 1831,
+          "title": "China-linked Budworm burrows hole in US legislature systems",
+          "imageUrl": "https://regmedia.co.uk/2022/04/07/china_shutterstock3.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/17/uk_government_reverses_ir35_decision/",
+          "author": null,
+          "description": "<h4>Latest U-turn follows a series of clown-car maneuvers that spooked financial markets</h4> <p>The UK government has reversed its decision to axe IR35 tax reforms — <a target=\"_blank\" href=\"https://www.theregister.com/2022/09/23/uk_government_to_repeal_ir35/\">announced little more than three weeks ago</a> — following a volatile market reaction to its planned tax cuts.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/17/uk_government_reverses_ir35_decision/",
+          "publishedOn": "2022-10-17T13:30:11.000Z",
+          "wordCount": 1366,
+          "title": "Too bad, contractors: UK government reverses decision to axe IR35 tax reform",
+          "imageUrl": "https://regmedia.co.uk/2021/05/14/shutterstock_umbrella_sad.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/17/tsmc_downgraded_chip_downcycle/",
+          "author": null,
+          "description": "<h4>Some estimates say the sector will have contracted by as much as 23% by the end</h4> <p>Shares in key Taiwanese chipmaker TSMC may have been up in the past few days after it reported better than expected Q3 results, but many financial analysts have downgraded their forecasts for the company amid warnings the tech downturn is likely to be deeper than feared.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/17/tsmc_downgraded_chip_downcycle/",
+          "publishedOn": "2022-10-17T13:00:13.000Z",
+          "wordCount": 1471,
+          "title": "TSMC downgraded as analysts warn of worst slump in a decade",
+          "imageUrl": "https://regmedia.co.uk/2021/06/07/shutterstock_taiwan_chip_manufacturing.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/17/vodafone_opts_to_move_sap/",
           "author": null,
@@ -16786,16 +16926,6 @@
           "wordCount": 2354,
           "title": "Xiaomi India names Qualcomm as destination for allegedly illegal payments",
           "imageUrl": "https://regmedia.co.uk/2022/10/03/frozen.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/04/bruce_willis_ai_image_deepcake/",
-          "author": null,
-          "description": "<h4>Superstar is still exclusively a meat popsicle</h4> <p>Bruce Willis' agent has denied the Die Hard superstar fully sold his image rights to an AI startup specializing in deepfake technology.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/04/bruce_willis_ai_image_deepcake/",
-          "publishedOn": "2022-10-04T01:45:37.000Z",
-          "wordCount": 1335,
-          "title": "This rumor needs to Die Hard: Bruce Willis denies selling face to deepfake biz",
-          "imageUrl": "https://regmedia.co.uk/2022/10/04/shutterstock_bruce_willis.jpg"
         }
       ]
     }
