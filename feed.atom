@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-17T09:38:57.912Z</updated>
+    <updated>2022-10-17T10:33:55.223Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel Meteor Lake "-march=meteorlake" Support Lands In GCC 13]]></title>
+        <id>https://www.phoronix.com/news/GCC-13-Lands-Meteor-Lake</id>
+        <link href="https://www.phoronix.com/news/GCC-13-Lands-Meteor-Lake"/>
+        <updated>2022-10-17T10:16:47.000Z</updated>
+        <summary type="html"><![CDATA[After Intel posted a set of patches last week for the GNU Compiler Collection around Raptor Lake, Meteor Lake, and Sierra Forest, the two more basic patches have already been merged into the GCC 13 code-base while the Sierra Forest Xeon E-core patches and the various new instructions presented there are still undergoing review...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK regulator proposes price cap on Motorola as supplier of Airwave network]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/17/cma_motorola_airwave/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/17/cma_motorola_airwave/"/>
+        <updated>2022-10-17T10:15:06.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Home Office and emergency services appear to be locked in with monopoly provider, market watchdog says</h4> <p>The UK's competition watchdog is proposing price controls on Motorola's role in running a controversial communications network for emergency services.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Return to Monkey Island gets a Linux Beta version]]></title>
+        <id>https://www.gamingonlinux.com/2022/10/return-to-monkey-island-gets-a-linux-beta-version/</id>
+        <link href="https://www.gamingonlinux.com/2022/10/return-to-monkey-island-gets-a-linux-beta-version/"/>
+        <updated>2022-10-17T09:52:52.000Z</updated>
+        <summary type="html"><![CDATA[Do you own Return to Monkey Island or are you thinking of buying it? Good news, as the developer now has a Native Linux version ready for Beta testing.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arcan Project Announces The Modern & Radically Different Cat9 Shell]]></title>
+        <id>https://www.phoronix.com/news/Arcan-Cat9-Shell</id>
+        <link href="https://www.phoronix.com/news/Arcan-Cat9-Shell"/>
+        <updated>2022-10-17T09:48:53.000Z</updated>
+        <summary type="html"><![CDATA[The Arcan project that started out as a display server built atop a game engine and with time has introduced many features and experimenting with original approaches to longstanding Linux desktop/display shortcomings, has announced their Cat9 shell. This modern terminal has been in development for nearly six years while now the developers are finally confident in announcing this initiative...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam Deck plugin system Decky Loader solves some major issues in new update]]></title>
+        <id>https://www.gamingonlinux.com/2022/10/steam-deck-plugin-system-decky-loader-solves-some-major-issues-in-new-update/</id>
+        <link href="https://www.gamingonlinux.com/2022/10/steam-deck-plugin-system-decky-loader-solves-some-major-issues-in-new-update/"/>
+        <updated>2022-10-17T09:41:33.000Z</updated>
+        <summary type="html"><![CDATA[Last week I showed off Decky Loader properly, a fantastic plugin system for the Steam Deck and the developers have now put up a new release solving some problems.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Konami reveals that Silent Hill is making a comeback, more information coming on Wednesday]]></title>
         <id>https://www.vg247.com/konami-reveals-silent-hill-comeback</id>
@@ -17,6 +67,16 @@ Well, Konami are full of surprises, it seems. Last night, the official Silent Hi
  Read more]]></summary>
         <author>
             <name>Kelsey Raynor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PHP 8.2 Cleared For Introduction In Fedora 38]]></title>
+        <id>https://www.phoronix.com/news/PHP-8.3-Fedora-38</id>
+        <link href="https://www.phoronix.com/news/PHP-8.3-Fedora-38"/>
+        <updated>2022-10-17T09:19:45.000Z</updated>
+        <summary type="html"><![CDATA[This should hardly come as a surprise given Fedora's tendency to ship with bleeding-edge package versions, but Fedora Linux 38 next spring will offer PHP 8.2 for those wanting to run a LAMP stack on this modern, Red Hat sponsored Linux distribution...]]></summary>
+        <author>
+            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -18481,80 +18541,6 @@ Rating: 2 out of 10]]></summary>
         <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
         <author>
             <name>Explosm.net</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Walmart, CVS face trial for putting sham homeopathic products next to real meds]]></title>
-        <id>https://arstechnica.com/?p=1886578</id>
-        <link href="https://arstechnica.com/?p=1886578"/>
-        <updated>2022-10-03T22:28:57.000Z</updated>
-        <summary type="html"><![CDATA[A three-judge panel reversed lower courts' dismissal of the lawsuits.]]></summary>
-        <author>
-            <name>Beth Mole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mike Hommey: Announcing git-cinnabar 0.6.0rc1]]></title>
-        <id>https://glandium.org/blog/?p=4286</id>
-        <link href="https://glandium.org/blog/?p=4286"/>
-        <updated>2022-10-03T22:26:05.000Z</updated>
-        <summary type="html"><![CDATA[Git-cinnabar is a git remote helper to interact with mercurial repositories. It allows to clone, pull and push from/to mercurial remote repositories, using git.
-Get it on github.
-These release notes are also available on the git-cinnabar wiki.
-What’s new since 0.5.10?
-Full rewrite of git-cinnabar in Rust.
-Push performance is between twice and 10 times faster than 0.5.x, depending on scenarios.
-Based on git 2.38.0.
-git cinnabar fetch now accepts a --tags flag to fetch tags.
-git cinnabar bundle now accepts a -t flag to give a specific bundlespec.
-git cinnabar rollback now accepts a --candidates flag to list the metadata sha1 that can be used as target of the rollback.
-git cinnabar rollback now also accepts a --force flag to allow any commit sha1 as metadata.
-git cinnabar now has a self-update subcommand that upgrades it when a new version is available. The subcommand is only available when building with the self-update feature (enabled on prebuilt versions of git-cinnabar).]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Online romance scamlord who netted $9.5m jailed for 25 years]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/03/romance_scammer_sentenced/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/03/romance_scammer_sentenced/"/>
-        <updated>2022-10-03T22:15:47.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Hello, love, I need $32k to fix my oil rig</h4> <p>A man in the US has been jailed for 25 years after using dating websites, email scams, and other online swindles to steal more than $9.5 million from companies and individuals.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The WD SN850 1TB SSD is down to £105 with a heatsink in a historic price drop]]></title>
-        <id>https://www.rockpapershotgun.com/the-wd-sn850-1tb-ssd-is-down-to-105-with-a-heatsink-in-a-historic-price-drop</id>
-        <link href="https://www.rockpapershotgun.com/the-wd-sn850-1tb-ssd-is-down-to-105-with-a-heatsink-in-a-historic-price-drop"/>
-        <updated>2022-10-03T22:07:42.000Z</updated>
-        <summary type="html"><![CDATA[The WD Black SN850 is one of our favourite gaming SSDs, and today it's available for just over £100 at Ebay when you use the code SPEND15 to knock 15% off the price. This a good price for one of the fastest SSDs on the market, especially given that it's a PCIe 4.0 model that comes with a heatsink - very useful for PCs and it even meets Sony's strict requirements for the PS5. 
-Read more]]></summary>
-        <author>
-            <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Still can’t buy a Raspberry Pi board? Things aren’t getting better anytime soon]]></title>
-        <id>https://arstechnica.com/?p=1886515</id>
-        <link href="https://arstechnica.com/?p=1886515"/>
-        <updated>2022-10-03T21:54:55.000Z</updated>
-        <summary type="html"><![CDATA[400,000 Pis are still being made every month, but most are going to businesses.]]></summary>
-        <author>
-            <name>Andrew Cunningham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pick up a 2TB NVMe SSD for £118.98 thanks to a 15% off code at Ebay UK]]></title>
-        <id>https://www.rockpapershotgun.com/pick-up-a-2tb-nvme-ssd-for-11898-thanks-to-a-15-off-code-at-ebay-uk</id>
-        <link href="https://www.rockpapershotgun.com/pick-up-a-2tb-nvme-ssd-for-11898-thanks-to-a-15-off-code-at-ebay-uk"/>
-        <updated>2022-10-03T21:53:42.000Z</updated>
-        <summary type="html"><![CDATA[The WD SN550 is going cheap at Ebuyer's Ebay UK page right now, with a 2TB drive costing just £118.98. That's an awesome deal for what is already one of the best value PCIe 3.0 SSDs, offering sequential read speeds up to 2600MB/s and sequential write speeds up to 1800MB/s. That's about five times faster than even the fastest SATA drive in terms of peak read speeds, making this an excellent choice for handling large files such as 4K videos, disc images and so on. 
-To get this reduced price, you'll need to use the code SPEND15 at Ebay. This knocks £21 off the price, moving it from £140 to £119. 
-Read more]]></summary>
-        <author>
-            <name>Will Judd</name>
         </author>
     </entry>
 </feed>
