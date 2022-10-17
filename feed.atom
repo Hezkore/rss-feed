@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-17T05:05:15.869Z</updated>
+    <updated>2022-10-17T06:58:35.014Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Loathsome eighties ladder-climber levelled by a custom DOS prompt]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/17/who_me/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/17/who_me/"/>
+        <updated>2022-10-17T05:58:14.000Z</updated>
+        <summary type="html"><![CDATA[<h4>This wasn't <i>WarGames</i> – it was far more serious</h4> <p><strong>Who, Me?</strong>  The working week is upon us again, so what better way to mark it than with another of <em>The Reg</em>'s weekly tales of readers getting away with it after perhaps not having done their very best work.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft extends Azure Hybrid benefit to some on-prem software]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/17/azure_hybrid_benefit_extension/</id>
@@ -18584,96 +18594,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Section 230 to face its first Supreme Court challenge.]]></summary>
         <author>
             <name>Ashley Belanger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bethesda firar 25-åriga Fallout med reor, demos och nytt material]]></title>
-        <id>https://www.fz.se/artikel/291667</id>
-        <link href="https://www.fz.se/artikel/291667-bethesda-firar-25-ariga-fallout-med-reor-demos-och-nytt-material"/>
-        <updated>2022-10-03T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Ja må du leva uti hundrade år!]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's 2058. A quantum computer is just another decade away. Still, you curse Cloudflare]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/03/cloudflare_postquantum_cryptography/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/03/cloudflare_postquantum_cryptography/"/>
-        <updated>2022-10-03T18:22:38.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Assuming this Kyber TLS stuff works as expected</h4> <p>Cloudflare is the first major internet infrastructure provider to support post-quantum cryptography for all customers, which, in theory, should protect data if quantum computing ever manages to break today's encryption technologies.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.0 arrives with support for newer chips, core fixes, and oddities]]></title>
-        <id>https://arstechnica.com/?p=1886350</id>
-        <link href="https://arstechnica.com/?p=1886350"/>
-        <updated>2022-10-03T17:41:06.000Z</updated>
-        <summary type="html"><![CDATA[Intel and AMD gear, yes, but support for RISC-V, LoongArch, and Gaudi2 show up.]]></summary>
-        <author>
-            <name>Kevin Purdy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[National Cybersecurity Awareness program 18 years on: Don't click that]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/03/cybersecurity_awareness_month/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/03/cybersecurity_awareness_month/"/>
-        <updated>2022-10-03T17:30:10.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Technology is addressing many of the cyberthreats, but the human element will always be a factor</h4> <p>If you've ever found yourself in an interminable meeting listening to the CISO ramble on about the important role you play in protecting yourself and the company from cyberthreats, you could probably point an accusatory finger in large part at the National Cybersecurity Awareness Month (NCSAM) program.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.1 Feature Would Have Caught All memcpy Based Buffer Overflows Of Recent Years]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.1-Memcpy-Dynamic-Warn</id>
-        <link href="https://www.phoronix.com/news/Linux-6.1-Memcpy-Dynamic-Warn"/>
-        <updated>2022-10-03T17:30:00.000Z</updated>
-        <summary type="html"><![CDATA[A kernel hardening security improvement on the way for Linux 6.1 is the ability to provide warning of possible memcpy() based overflows. Right now this is only a warning but it's work towards being able to address "trivially detectable" buffer overflow conditions within the kernel and in the future may be able to block such overflows from happening...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[After an amazing run at Mars, India says its orbiter has no more fuel]]></title>
-        <id>https://arstechnica.com/?p=1886275</id>
-        <link href="https://arstechnica.com/?p=1886275"/>
-        <updated>2022-10-03T17:26:48.000Z</updated>
-        <summary type="html"><![CDATA[The orbiter most definitely exceeded expectations.]]></summary>
-        <author>
-            <name>Eric Berger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Next Fest - October 2022 Edition is live now]]></title>
-        <id>https://www.gamingonlinux.com/2022/10/steam-next-fest-october-2022-edition-is-live-now/</id>
-        <link href="https://www.gamingonlinux.com/2022/10/steam-next-fest-october-2022-edition-is-live-now/"/>
-        <updated>2022-10-03T17:23:41.000Z</updated>
-        <summary type="html"><![CDATA[Ready to try more game demos? Now is your chance once again as Steam Next Fest - October 2022 Edition is live.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD's Ryzen 7 5700G Down to $232: Real Deals]]></title>
-        <id>g8Wyc7yvWJTVnLFt4RKcMF</id>
-        <link href="https://www.tomshardware.com/news/amds-ryzen-7-5700g-down-to-dollar232-real-deals"/>
-        <updated>2022-10-03T17:14:09.000Z</updated>
-        <summary type="html"><![CDATA[AMD's Ryzen 7 5700G is down to $232 at Amazon right now and even comes with a Wraith Stealth air cooler in the box. This APU also has built-in graphics, so it can be used without a GPU if the workload doesn't require one.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google prototypes, open sources an extra-long keyboard with one row of keys]]></title>
-        <id>https://arstechnica.com/?p=1886356</id>
-        <link href="https://arstechnica.com/?p=1886356"/>
-        <updated>2022-10-03T17:13:53.000Z</updated>
-        <summary type="html"><![CDATA[Open source files for Google Japan's latest joke concept are on GitHub.]]></summary>
-        <author>
-            <name>Scharon Harding</name>
         </author>
     </entry>
 </feed>
