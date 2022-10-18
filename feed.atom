@@ -2,10 +2,106 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-18T22:28:27.843Z</updated>
+    <updated>2022-10-18T23:33:49.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[YouTube loves recommending conservative vids regardless of your beliefs]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/18/youtube_algorithm_conservative_content/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/18/youtube_algorithm_conservative_content/"/>
+        <updated>2022-10-18T23:16:55.000Z</updated>
+        <summary type="html"><![CDATA[<h4>There goes Woke Big Tech again, downplaying traditional liberal views</h4> <p>YouTube's recommendation algorithm not only gently traps viewers in mild echo chambers, it is more likely to suggest conservative-leaning videos regardless of your political alignment.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Filthy floodwaters from Hurricane Ian drove wave of flesh-eating infections]]></title>
+        <id>https://arstechnica.com/?p=1891019</id>
+        <link href="https://arstechnica.com/?p=1891019"/>
+        <updated>2022-10-18T23:09:36.000Z</updated>
+        <summary type="html"><![CDATA[Health officials warn those in floodwaters to cover open wounds.]]></summary>
+        <author>
+            <name>Beth Mole</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix is "seriously exploring" its own cloud gaming offering]]></title>
+        <id>https://www.eurogamer.net/netflix-is-seriously-exploring-its-own-cloud-gaming-service</id>
+        <link href="https://www.eurogamer.net/netflix-is-seriously-exploring-its-own-cloud-gaming-service"/>
+        <updated>2022-10-18T23:05:09.000Z</updated>
+        <summary type="html"><![CDATA[As Netflix's gaming strategy grows ever bolder following its first tentative steps into the market, the streaming service has now revealed it's "seriously exploring" its own cloud gaming offering.
+
+
+That's according to Netflix's vice president of gaming Mike Verdu, who, speaking at TechCrunch Disrupt (thanks TechCrunch), explained the company saw the technology as "a value add" for subscribers. "We're not asking you to subscribe as a console replacement. It's a completely different business model. The hope is over time that it just becomes this very natural way to play games where wherever you are."
+
+
+Addressing the elephant in the room - the dramatic failure of Google's game streaming service Stadia, which will cease operations in January, a little over three years after its initial launch - Verdu noted that while Stadia was a "technical success" and was "fun to play games on", "it had some issues with the business model."
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another casualty of the pandemic: our ability to worry about anything else]]></title>
+        <id>https://arstechnica.com/?p=1891002</id>
+        <link href="https://arstechnica.com/?p=1891002"/>
+        <updated>2022-10-18T22:56:17.000Z</updated>
+        <summary type="html"><![CDATA[Mid-pandemic tweeting suggests we have what's called a "finite pool of worry."]]></summary>
+        <author>
+            <name>John Timmer</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dirk Eddelbuettel: digest 0.6.30 on CRAN: More Package Maintenance]]></title>
+        <id>http://dirk.eddelbuettel.com/blog/2022/10/18#digest_0.6.30</id>
+        <link href="http://dirk.eddelbuettel.com/blog/2022/10/18#digest_0.6.30"/>
+        <updated>2022-10-18T22:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Release 0.6.30 of the digest package arrived at CRAN earlier today, and was just uploaded to Debian as well.
+digest creates hash digests of arbitrary R objects (using the md5, sha-1, sha-256, sha-512, crc32, xxhash32, xxhash64, murmur32, spookyhash, and blake3 algorithms) permitting easy comparison of R language objects. It is a mature and widely-used as many tasks may involve caching of objects for which it provides convenient general-purpose hash key generation to quickly identify the various objects.
+This release contains two tiny changes on old standard C code to appease the new / upcoming clang-15 release now used by CRAN in their forward-looking checks.
+My CRANberries provides the usual summary of changes to the previous version. For questions or comments use the issue tracker off the GitHub repo.
+If you like this or other open-source work I do, you can now sponsor me at GitHub.
+Dirk Eddelbuettel originated on his Thinking inside the box blog. Please report excessive re-aggregation in third-party for-profit settings.]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sims 4 is getting an official platform for hosting and downloading mods]]></title>
+        <id>https://www.rockpapershotgun.com/the-sims-4-is-getting-an-official-platform-for-hosting-and-downloading-mods</id>
+        <link href="https://www.rockpapershotgun.com/the-sims-4-is-getting-an-official-platform-for-hosting-and-downloading-mods"/>
+        <updated>2022-10-18T22:42:03.000Z</updated>
+        <summary type="html"><![CDATA[The Sims series has always had a vibrant modding community, but for the first time Maxis are taking steps to make it easier. In today's Sims Summit stream, they announced that they were partnering with CurseForge to create a "moderated, curated space" for The Sims 4 players to download mods and custom content.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[USB-C can hit 120Gbps with newly published USB4 Version 2.0 spec]]></title>
+        <id>https://arstechnica.com/?p=1890901</id>
+        <link href="https://arstechnica.com/?p=1890901"/>
+        <updated>2022-10-18T22:37:01.000Z</updated>
+        <summary type="html"><![CDATA[USB-IF's new USB-C spec supports up to 120Gbps across three lanes.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arc A770 Beats RTX 4090 In Early 8K AV1 Decoding Benchmarks]]></title>
+        <id>5XWHeBtxG2JcyHWjezpzE3</id>
+        <link href="https://www.tomshardware.com/news/8k-av1-decoding-compared"/>
+        <updated>2022-10-18T22:24:33.000Z</updated>
+        <summary type="html"><![CDATA[Regarding 8K AV1 decoding, Intel's Arc A770 may be better than Nvidia's GeForce RTX 4090.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AMD Develops New "GI-1.0" Open-Source Global Illumination Tech]]></title>
         <id>https://www.phoronix.com/news/AMD-GPUOpen-GI-1.0-Paper</id>
@@ -35,6 +131,16 @@ Read more]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Reform Section 230, punish users spreading online hate: New York AG]]></title>
+        <id>https://arstechnica.com/?p=1890927</id>
+        <link href="https://arstechnica.com/?p=1890927"/>
+        <updated>2022-10-18T22:06:35.000Z</updated>
+        <summary type="html"><![CDATA[Recommendations come after an investigation into the Buffalo mass shooting.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Here's when new games are coming to Xbox Game Pass in October, including Persona 5 Royal]]></title>
         <id>https://www.rockpapershotgun.com/heres-when-new-games-are-coming-to-xbox-game-pass-in-october-including-persona-5-royal</id>
         <link href="https://www.rockpapershotgun.com/heres-when-new-games-are-coming-to-xbox-game-pass-in-october-including-persona-5-royal"/>
@@ -58,6 +164,16 @@ Read more]]></summary>
 Read more]]></summary>
         <author>
             <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lost something? Search through 91.7 million files from the 80s, 90s, and 2000s]]></title>
+        <id>https://arstechnica.com/?p=1890903</id>
+        <link href="https://arstechnica.com/?p=1890903"/>
+        <updated>2022-10-18T21:31:55.000Z</updated>
+        <summary type="html"><![CDATA[Discmaster lets you sift through 11 terabytes of CD-ROM and floppy disk archives.]]></summary>
+        <author>
+            <name>Benj Edwards</name>
         </author>
     </entry>
     <entry>
@@ -18890,121 +19006,6 @@ Now, you can drive Rocket League's most famous vehicle - the Octane - within For
 Read more]]></summary>
         <author>
             <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modified version of Tor Browser spies on Chinese users]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/05/tor_browser_china_spy_kasperksy_research/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/05/tor_browser_china_spy_kasperksy_research/"/>
-        <updated>2022-10-05T11:32:06.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Patiently gathers data that can be used to identify the victims, says Kaspersky</h4> <p>Cybersecurity biz Kaspersky has spotted a modified version of the Tor Browser it says collects sensitive data on Chinese users.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Airborne survival game Forever Skies sets you on a course to find a cure for humanity in its toxic cloud sea]]></title>
-        <id>https://www.rockpapershotgun.com/airborne-survival-game-forever-skies-sets-you-on-a-course-to-find-a-cure-for-humanity-in-its-toxic-cloud-sea</id>
-        <link href="https://www.rockpapershotgun.com/airborne-survival-game-forever-skies-sets-you-on-a-course-to-find-a-cure-for-humanity-in-its-toxic-cloud-sea"/>
-        <updated>2022-10-05T11:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Somewhere at the edges of the galaxy in No Man's Sky lies a large, verdant planet with an abandoned, but functioning, starter ship on it. I left it there in 2016 after discovering a larger ship out in the wilds, but it's a decision that still haunts me to this very day. You see, I was so taken with my new set of wings that I failed to notice it didn't have a functioning hyperdrive attached, which is needed to punch through the atmosphere to visit another solar system. It also turned out that this particular planet didn't have any of the necessary resources to craft a new one either, leaving my only form of escape back in my tiny little starter ship – which, of course, was now nowhere to be seen. I spent hours looking for that little ship, but the planet was so vast that I never saw it again. 
-Upcoming aerial survival game Forever Skies doesn't have lots of large planets to lose your only means of transportation in, thankfully. In its Steam Next Fest demo at least, the only things I was able to land my makeshift aircraft on were tiny, rusty platforms perched atop decaying skyscrapers on an Earth ruined by disease and an ecological apocalypse. But that fear of getting stranded somewhere I shouldn't be has never left me, and I'd be lying if I said I wasn't just a teensy bit scared of jumping down from my ship and finding I wasn't able to get back up to it again. 
-Read more]]></summary>
-        <author>
-            <name>Katharine Castle</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dead Space remake's £70 console price raises eyebrows]]></title>
-        <id>https://www.eurogamer.net/dead-space-remakes-70-console-price-raises-eyebrows</id>
-        <link href="https://www.eurogamer.net/dead-space-remakes-70-console-price-raises-eyebrows"/>
-        <updated>2022-10-05T11:09:56.000Z</updated>
-        <summary type="html"><![CDATA[EA's Dead Space remake has raised eyebrows for its £70/$70 price point on PlayStation 5 and Xbox Series X/S, compared to its £50/$60 cost on Steam. 
-
-
-On Steam, its £50 price sits in line with other upcoming AAA launches, such as Gotham Knights, Sonic Frontiers, The Callisto Protocol, Hogwarts Legacy and Marvel's Midnight Suns.
-
-On console, the price point for these games varies a little more. Sonic Frontiers is £50, Callisto Protocol is £55 and Hogwarts Legacy is £60, while Gotham Knights and Marvel's Midnight Suns are £65.
- Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best PC and Laptop Deals]]></title>
-        <id>MckYZQqDYNe5oYuCQLcNCf</id>
-        <link href="https://www.tomshardware.com/news/best-gaming-pc-deals"/>
-        <updated>2022-10-05T11:05:06.000Z</updated>
-        <summary type="html"><![CDATA[We've gathered the top pre-built desktop and laptop deals you can find.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayStation 5 gets its own native Disney+ app]]></title>
-        <id>https://www.eurogamer.net/playstation-5-gets-its-own-native-disney-app</id>
-        <link href="https://www.eurogamer.net/playstation-5-gets-its-own-native-disney-app"/>
-        <updated>2022-10-05T11:03:08.000Z</updated>
-        <summary type="html"><![CDATA[For those of you looking to watch shows such as Andor and the all-new Hocus Pocus 2 in time for Halloween via your PlayStation 5, there is good news - the console now has a native Disney+ app.
-
-
-With this app in play, users will now be able to see all of the channel's offerings in Ultra HD thanks to its 4K HDR playback support (the PlayStation 4 version of the app was limited to 1080p).
-
-
-"A key part of our global expansion strategy is to meet consumers wherever they are, which is why we're excited to enhance both Disney Plus and Star Plus for PlayStation 5 users," said Jerrell Jimerson, EVP of product and design for Disney streaming (thanks, The Verge). "The ability to support 4K HDR video streaming on the platform will also improve the viewing experience for fans."
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 6.1 Hardening Retpolines With Ensuring An INT3 After Every Unconditional Jump]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.1-Retpolines-INT3</id>
-        <link href="https://www.phoronix.com/news/Linux-6.1-Retpolines-INT3"/>
-        <updated>2022-10-05T10:49:46.000Z</updated>
-        <summary type="html"><![CDATA[The x86/core changes for Linux 6.1 have been merged and are headlined by making sure an INT3 instruction is inserted after every unconditional Retpoline jump (JMP) for the Retpolines handling on both Intel and AMD processors...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Streets Of Rogue 2 goes open-world, and you can drive a truck through a barn]]></title>
-        <id>https://www.rockpapershotgun.com/streets-of-rogue-2-goes-open-world-and-you-can-drive-a-truck-through-a-barn</id>
-        <link href="https://www.rockpapershotgun.com/streets-of-rogue-2-goes-open-world-and-you-can-drive-a-truck-through-a-barn"/>
-        <updated>2022-10-05T10:49:42.000Z</updated>
-        <summary type="html"><![CDATA[The Steam store page for top-down roguelite sequel Streets Of Rogue 2 has gone live, and has some screenshots and a wee GIF of the game in action. This time, the immersive sim shenanigans are going open-world. The Steam page also provides some inkling of what else is coming when the game launches in 2023. Did I mention it’s coming out in 2023?
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is the Mario movie secretly an Uncharted movie? 7 things we've found in the poster]]></title>
-        <id>https://www.vg247.com/is-the-mario-movie-secretly-an-uncharted-movie-7-things-weve-found-in-the-poster</id>
-        <link href="https://www.vg247.com/is-the-mario-movie-secretly-an-uncharted-movie-7-things-weve-found-in-the-poster"/>
-        <updated>2022-10-05T10:32:57.000Z</updated>
-        <summary type="html"><![CDATA[Ahead of Nintendo’s presentation on Thursday, a poster for The Super Mario Bros. Movie has been released, and it’s jam-packed with the sort of easter eggs and curious details that the average punter might miss. And let’s face it, who has time to zoom into a Twitter post? Well, luckily for you, it’s our job to do that sort of thing so you don’t have to. So, here’s 7 things we found in the Mario poster that may give us some clues as to the upcoming film’s story:
-
-The Antique Shop’s Pixelated Goods
-
-Could this be a clue as to the Mario movie’s canonicity within the wider continuity of the games? I can’t believe I just typed that sentence with a straight face. But hear me out: on those shelves you can clearly see switch blocks and music boxes from Super Mario Bros 3. Is this an indication that the film considers the classic games to have happened in its timeline?
- 
-Read more]]></summary>
-        <author>
-            <name>Jim Trinca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IceWM reaches version 3 after a mere 25 years]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/05/icewm_version_3/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/05/icewm_version_3/"/>
-        <updated>2022-10-05T10:29:10.000Z</updated>
-        <summary type="html"><![CDATA[<h4>And it's not the only venerable window manager still in development</h4> <p>A new version of a quarter-century-old window manager shows that there's still room for improvement and innovation, even in established, mature tools.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
