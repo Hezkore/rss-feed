@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-18T04:55:40.946Z</updated>
+    <updated>2022-10-18T06:15:43.691Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Huawei rolls dice, adds exec heads to enterprise and carrier divisions amid troubled times]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/18/huawei_exec_appointments/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/18/huawei_exec_appointments/"/>
+        <updated>2022-10-18T05:57:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Wang and Li appointed following death of Ryan Ding</h4> <p>Beleaguered Chinese tech giant Huawei has named two execs to run its enterprise and carrier businesses following the death of Ryan Ding Yun, who had managed both units.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS targets desktop virtualization rigs with lift and shift to cloudy DaaS]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/18/vdi_meets_daas/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/18/vdi_meets_daas/"/>
+        <updated>2022-10-18T04:59:07.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Citrix can do this too. Hyperconverged infrastructure's salad days serving virtual PCs might be ending</h4> <p>Amazon Web Services is moving to bring desktop virtualization (VDI) into the age of desktop-as-a-service.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Check Your CPU Temperature]]></title>
+        <id>pfuqHH3HcFUGWfneFWiZVi</id>
+        <link href="https://www.tomshardware.com/how-to/how-to-check-cpu-temp-temperature"/>
+        <updated>2022-10-18T04:37:58.000Z</updated>
+        <summary type="html"><![CDATA[How can you check your CPU's temperature and what's a good or normal range? We break it down for you.]]></summary>
+        <author>
+            <name>palcorn@outlook.com (Paul Alcorn)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Halo Infinites Forge-läge stödjer dubbelt så stora kartor som tidigare]]></title>
         <id>https://www.fz.se/artikel/291815</id>
@@ -54,6 +84,16 @@
         <summary type="html"><![CDATA[<h4>Wild story of a multinational law firm, cyber-mercenaries, a sheikh, and more</h4> <p>A former Wall Street Journal reporter has sued a multinational law firm, some of its attorneys, and others for allegedly stealing his emails and spreading the messages to wrongly discredit him, leading to his firing.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comic for 2022.10.18 - Willie The Pimp]]></title>
+        <id>https://explosm.net/comics/willie-the-pimp</id>
+        <link href="https://explosm.net/comics/willie-the-pimp"/>
+        <updated>2022-10-18T00:00:36.000Z</updated>
+        <summary type="html"><![CDATA[New Cyanide and Happiness Comic]]></summary>
+        <author>
+            <name>Explosm.net</name>
         </author>
     </entry>
     <entry>
@@ -18338,167 +18378,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[RADV driver co-founder Bas Nieuwenhuizen of Google presented at today's X.Org Developers' Conference (XDC 2022) on the state of this open-source Mesa Vulkan driver's ray-tracing performance...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The one people in America will buy: The 2023 Mercedes-Benz EQS SUV]]></title>
-        <id>https://arstechnica.com/?p=1886758</id>
-        <link href="https://arstechnica.com/?p=1886758"/>
-        <updated>2022-10-04T18:15:18.000Z</updated>
-        <summary type="html"><![CDATA[All the goodies from the sedan plus more headroom and an optional third row.]]></summary>
-        <author>
-            <name>Jonathan M. Gitlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Radeon ROCm 5.3 Released With New APIs, Fine Grain Support]]></title>
-        <id>https://www.phoronix.com/news/Radeon-ROCm-5.3</id>
-        <link href="https://www.phoronix.com/news/Radeon-ROCm-5.3"/>
-        <updated>2022-10-04T18:05:06.000Z</updated>
-        <summary type="html"><![CDATA[Officially released today is Radeon ROCm 5.3 as the newest version of AMD's open-source compute stack for Radeon and Instinct hardware...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nvidia finally pulls shutters down on its Russian offices]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/04/nvidia_russia_offices/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/04/nvidia_russia_offices/"/>
-        <updated>2022-10-04T17:59:14.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Remaining employees can continue work in different countries, though they'll struggle to get a flight out</h4> <p>GPU maker Nvidia is shutting down its operations in Russia following its earlier decision to stop selling products there. The company is said to be offering employees the chance to continue working for it in another country.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next Nintendo Direct to debut world premiere trailer for the Super Mario Bros. movie]]></title>
-        <id>https://www.vg247.com/nintendo-direct-super-mario-bros-movie-trailer</id>
-        <link href="https://www.vg247.com/nintendo-direct-super-mario-bros-movie-trailer"/>
-        <updated>2022-10-04T17:41:40.000Z</updated>
-        <summary type="html"><![CDATA[Nintendo will host a Nintendo Direct presentation this Thursday, October 6 during which time the company will show the world premiere trailer for the Super Mario Bros. movie.
-This will be our first look at the film featuring the famous plumber who "travels through an underground labyrinth with his brother to save a captured princess."
-The Super Mario Bros. movie was first announced back in 2018, but it wasn't until last year that we had official casting confirmation. Chris Pratt (Jurassic World and Guardians of the Galaxy) will lend his voice to Mario with Charlie Day (Always Sunny in Philadelphia) voicing Luigi.
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open-Source NVIDIA Vulkan "NVK" Driver Continues Progressing]]></title>
-        <id>https://www.phoronix.com/news/NVK-Driver-Progress-XDC-2022</id>
-        <link href="https://www.phoronix.com/news/NVK-Driver-Progress-XDC-2022"/>
-        <updated>2022-10-04T17:40:49.000Z</updated>
-        <summary type="html"><![CDATA[As written about for several months on Phoronix, an open-source NVIDIA Vulkan driver has been in the works that by the end of the summer this "NVK" driver has been seeing a lot of activity by Jason Ekstrand of Collabora along with David Airlie and Karol Herbst of Red Hat. Jason today talked at XDC 2022 about this NVK driver effort...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best X570 Motherboards 2022: ATX, Micro ATX and Mini ITX Tested]]></title>
-        <id>oCwVrUwWHbNpfQq5gavCuj</id>
-        <link href="https://www.tomshardware.com/best-picks/best-x570-motherboards"/>
-        <updated>2022-10-04T17:29:43.000Z</updated>
-        <summary type="html"><![CDATA[Here are the best X570 motherboards we've tested, for your AMD Ryzen PC build needs.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Holmes gets new hearing after disheveled gov’t witness shows up at her house]]></title>
-        <id>https://arstechnica.com/?p=1886748</id>
-        <link href="https://arstechnica.com/?p=1886748"/>
-        <updated>2022-10-04T17:23:40.000Z</updated>
-        <summary type="html"><![CDATA[In the limited hearing, the judge will weigh alleged government misconduct.]]></summary>
-        <author>
-            <name>Beth Mole</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU’s USB-C mandate approval puts pressure on Apple to replace Lightning port]]></title>
-        <id>https://arstechnica.com/?p=1886651</id>
-        <link href="https://arstechnica.com/?p=1886651"/>
-        <updated>2022-10-04T17:15:47.000Z</updated>
-        <summary type="html"><![CDATA[Parliament approves USB-C rule for 2024, mulls wireless charging interoperability.]]></summary>
-        <author>
-            <name>Scharon Harding</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best AIO Coolers 2022]]></title>
-        <id>BMJ8iFSpzs6Zpt6JnYNvsh</id>
-        <link href="https://www.tomshardware.com/best-picks/best-aio-coolers"/>
-        <updated>2022-10-04T17:13:00.000Z</updated>
-        <summary type="html"><![CDATA[We’ve tested dozens of AIO coolers, measuring CPU temperatures and fan noise under load, to find the best closed-loop options to keep your PC cool and quiet.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nest Wifi Pro brings 6E network, removes Assistant and backward compatibility]]></title>
-        <id>https://arstechnica.com/?p=1886685</id>
-        <link href="https://arstechnica.com/?p=1886685"/>
-        <updated>2022-10-04T17:12:08.000Z</updated>
-        <summary type="html"><![CDATA[Nest's Wifi Pro has all the latest standards and not as much Google-y ecosystem.]]></summary>
-        <author>
-            <name>Kevin Purdy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter shares frozen on Musk buyout revival rumor]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/04/twitter_shares_frozen_on_musk/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/04/twitter_shares_frozen_on_musk/"/>
-        <updated>2022-10-04T17:11:57.000Z</updated>
-        <summary type="html"><![CDATA[<h4>The world's richest man may be ready to close deal to save himself more text message embarrassment</h4> <p>Trading in shares of Twitter was halted today on news that Elon Musk and the social media company had reached a deal for him to buy the company at the originally agreed upon $54.20 per share. …</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEATHLOOP and Monster Train are in the new Humble Choice Bundle]]></title>
-        <id>https://www.gamingonlinux.com/2022/10/deathloop-and-monster-train-are-in-the-new-humble-choice-bundle/</id>
-        <link href="https://www.gamingonlinux.com/2022/10/deathloop-and-monster-train-are-in-the-new-humble-choice-bundle/"/>
-        <updated>2022-10-04T17:10:52.000Z</updated>
-        <summary type="html"><![CDATA[Another fresh month and a new set of games in Humble Choice, the monthly subscription from Humble Bundle so let's go over what's in it and the compatibility.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[USB-C iPhone, anyone? EU finalizes charging standard rule]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/04/eu_usbc_charging/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/04/eu_usbc_charging/"/>
-        <updated>2022-10-04T17:02:30.000Z</updated>
-        <summary type="html"><![CDATA[<h4>It's officially official: Mobile devices will be required to use USB-C from 2024, with laptops following in 2026</h4> <p>After an initial agreement in June, the European Parliament today voted overwhelmingly to approve a USB-C charging standard that will force electronics manufacturers to ditch other ports, proprietary or otherwise. …</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This New Linux Kernel Update Can Damage Your Laptop Display]]></title>
-        <id>2uxAbqpguvtUKCvgdmEqvi</id>
-        <link href="https://www.tomshardware.com/news/linux-kernel-update-kills-laptop-displays"/>
-        <updated>2022-10-04T16:59:06.000Z</updated>
-        <summary type="html"><![CDATA[A new Linux kernel update has been found to kill laptop displays physically, thanks to a bug found with Intel's graphics driver. As a result, only Intel-based laptops are effected.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony says its PlayStation games won't release on PC for "at least a year"]]></title>
-        <id>https://www.eurogamer.net/sony-says-its-playstation-games-wont-release-on-pc-for-at-least-a-year</id>
-        <link href="https://www.eurogamer.net/sony-says-its-playstation-games-wont-release-on-pc-for-at-least-a-year"/>
-        <updated>2022-10-04T16:58:53.000Z</updated>
-        <summary type="html"><![CDATA[PlayStation Studios head Hermen Hulst has revealed Sony's first-party PlayStation releases will likely take "at least a year" to launch on PC, although live-service games might come sooner.
-
-
-Sony initially confirmed it was exploring bringing its first-party PlayStation exclusives to PC in March 2020, announcing that Horizon Zero Dawn would lead the charge - although it said "releasing one first-party AAA title to PC doesn't necessarily mean that every game now will come to PC" and that it didn't have plans to follow Xbox's lead with day-and-date PC releases.
-
-
-Since then, following the successful launch of Horizon Zero Dawn on PC, the number of titles joining the platform has continued to grow. Days Gone, God of War, and Marvel's Spider-Man Remastered have already made the jump, with Spider-Man: Miles Morales, Uncharted: The Legacy Collection, and Sackboy: A Big Adventure confirmed to be on the way.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
         </author>
     </entry>
 </feed>
