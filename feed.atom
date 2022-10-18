@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-18T19:29:32.216Z</updated>
+    <updated>2022-10-18T20:30:30.307Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Oracle Buys Tens of Thousands of Nvidia A100, H100 GPUs]]></title>
+        <id>KiLDqPSRmQNT8G6NoMSkRX</id>
+        <link href="https://www.tomshardware.com/news/oracle-buys-tens-of-thousands-of-nvidia-a100-and-h100-compute-gpus"/>
+        <updated>2022-10-18T20:21:48.000Z</updated>
+        <summary type="html"><![CDATA[Oracle procures tens of thousands of Nvidia's top compute GPUs in a significant AI push.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Fully undetectable' Windows backdoor gets detected]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/18/fully_undetectable_windows_powershell_backdoor/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/18/fully_undetectable_windows_powershell_backdoor/"/>
+        <updated>2022-10-18T20:14:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>SafeBreach supposedly spots somewhat stealthy subversive software</h4> <p>SafeBreach Labs says it has detected a novel fully undetectable (FUD) PowerShell backdoor, which calls into question the accuracy of threat naming.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[US citizen got 16 years in Saudi Arabian prison for tweets, his son says]]></title>
+        <id>https://arstechnica.com/?p=1890912</id>
+        <link href="https://arstechnica.com/?p=1890912"/>
+        <updated>2022-10-18T20:01:41.000Z</updated>
+        <summary type="html"><![CDATA[Son of 72-year-old in Saudi prison says Biden admin did little to help.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Shares Potential Fix for High Idle Power Consumption on Arc GPUs]]></title>
+        <id>QBBY2BsYkueujaJSasMpKg</id>
+        <link href="https://www.tomshardware.com/news/intel-potential-fix-high-idle-power-arc-gpus"/>
+        <updated>2022-10-18T19:43:42.000Z</updated>
+        <summary type="html"><![CDATA[Reviews of Intel's Arc series of GPUs showed idle power consumption that was several times higher than that of comparable cards from both AMD and Nvidia. Intel has now shared a potential fix for this behavior, though it does require users to dive into their BIOS settings and may not work on all motherboards.]]></summary>
+        <author>
+            <name>francisco.pires@outlook.com (Francisco Pires)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NSA urges enterprises to watch China, Taiwan tensions]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/18/as_chinataiwan_tensions_mount_hows/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/18/as_chinataiwan_tensions_mount_hows/"/>
+        <updated>2022-10-18T19:30:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Have you thought about your supply chains, partnerships, and how far they reach?</h4> <p>Tensions between the US, China, and Taiwan have far-reaching impacts beyond semiconductor saber-rattling and trade restrictions. There is an enterprise security angle that CISOs should be on guard to tackle, according to US intelligence.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple smyger ut Ipad med nytt yttre och inre]]></title>
         <id>https://www.sweclockers.com/artikel/35093</id>
@@ -811,6 +861,16 @@ Its departure means there is now no way to play Rockstar's original cowboy epic 
 Read more]]></summary>
         <author>
             <name>Tom Phillips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Upstart Ransom Cartel linked to REvil veterans]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/18/revil_ransom_cartel_research/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/18/revil_ransom_cartel_research/"/>
+        <updated>2022-10-18T11:44:09.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Lesser of two REvils? There’s a relationship, say infosec bods, but not enough to say one evolved into the other</h4> <p>It has been almost a year since the ransomware gang Ransom Cartel was first detected and the crew over that time has racked up a steady drumbeat of victims in such countries as the United States and France and from a broad array of industry sectors.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
         </author>
     </entry>
     <entry>
@@ -19021,57 +19081,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[<h4>Anyone remember SoftBank's pledge to double headcount in Britain?</h4> <p>Arm has reportedly chopped around 20 percent of its headcount in the UK, unpicking some of the recruitment commitments parent SoftBank made to the government when it bought the chip designer.…</p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slime Rancher 2 is glorious and ghastly and that's what's fascinating about it]]></title>
-        <id>https://www.eurogamer.net/slime-rancher-2-is-glorious-and-ghastly-and-thats-whats-fascinating-about-it</id>
-        <link href="https://www.eurogamer.net/slime-rancher-2-is-glorious-and-ghastly-and-thats-whats-fascinating-about-it"/>
-        <updated>2022-10-05T08:24:48.000Z</updated>
-        <summary type="html"><![CDATA[A few weeks back a friend recommended Jonathan Crary's 24/7, a short, vital book I have just finished reading. I suspect a lot of it went over my head, but the basics are pretty simple. Crary, who is a professor of modern art and theory at Columbia, makes the case that the contemporary world's focus on an endless 24/7 treadmill of consumption and toil has made sleep the true enemy of capitalism. Sleep is the last place where you cannot be sold stuff, or made to work, and so capitalism must fight sleep, and it will probably be a fight to the death.
-
-
-Crary takes this argument in a number of fascinating, alarming ways. What he doesn't mention - and I understand this, I guess - is a great-uncle of mine who used to own a turkey farm, and had heard that turkeys were so stupid that when the lights went off they thought the day was over. He rigged up a system in his turkey farm, a farm which clearly should have been shut down by the authorities, in which the lights continually went on and off, the theory being that the turkeys would age by a day each time this happened, and would be ready for market sooner. I don't need to add anything at this point, but I will: my great uncle was not a very nice man and should not be interpreted as the hero of this story.
-
-
-Both of these things - Crary's illuminating book and the involuntary memory about a family member that it prompted - created what is basically the single least ideal mindset in which to experience Slime Rancher 2, which is out in early access at the moment and is taking over the world. Slime Rancher 2 is a thing of joy: exploration and curiosity delivered in thick, buttery pastels. But it is also the kind of horror that Crary would potentially identify as pure capitalist indoctrination - a game that people are exposed to rather than asked to play. I don't think that would be entirely fair, but everything about this game is contradictory and challenging.
- 
-Read more]]></summary>
-        <author>
-            <name>Christian Donlan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marcin Iwiński slutar som vd för CD Projekt]]></title>
-        <id>https://www.fz.se/artikel/291687</id>
-        <link href="https://www.fz.se/artikel/291687-marcin-iwinski-slutar-som-vd-for-cd-projekt"/>
-        <updated>2022-10-05T07:54:00.000Z</updated>
-        <summary type="html"><![CDATA[Men han blir kvar i företaget.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physics Nobel Prize in a superposition between three quantum physicists]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/05/nobel_prize_physics/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/05/nobel_prize_physics/"/>
-        <updated>2022-10-05T07:37:16.000Z</updated>
-        <summary type="html"><![CDATA[<h4>How apt</h4> <p>Physicists Alain Aspect, John Clauser and Anton Zeilinger were awarded the Nobel Prize in Physics this week for performing breakthrough quantum entanglement experiments.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overwatch 2 under "mass DDos attack" on launch, says Blizzard]]></title>
-        <id>https://www.vg247.com/overwatch-2-under-mass-ddos-attack-on-launch-says-blizzard</id>
-        <link href="https://www.vg247.com/overwatch-2-under-mass-ddos-attack-on-launch-says-blizzard"/>
-        <updated>2022-10-05T07:35:28.000Z</updated>
-        <summary type="html"><![CDATA[Overwatch 2 became available less than 24 hours ago, and as expected, there have been some teething issues when it comes to accessing the game. This isn’t something we aren’t used to by any means, but experiencing queues of up to 40,000 players at once still saw me go to bed early rather than stick around to try and play.
-That said, Blizzard has acknowledged the queue times for the free-to-play multiplayer title via Twitter. Mike Ybarra, president of Blizzard, tweeted that the team was working hard to fix the server issues, and that Blizzard was humbled to see the excitement of its players.
-Later, however, Mike Ybarra followed up on his prior tweet by quoting it with, “Unfortunately, we are experiencing a mass DDoS attack on our servers. Teams are working hard to mitigate/manage. This is causing a lot of drop/connection issues.”
- Read more]]></summary>
-        <author>
-            <name>Kelsey Raynor</name>
         </author>
     </entry>
 </feed>
