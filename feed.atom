@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-18T07:43:52.019Z</updated>
+    <updated>2022-10-18T08:40:19.758Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Children should have separate sections in social media sites, says UK coroner]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/18/social_media_separate/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/18/social_media_separate/"/>
+        <updated>2022-10-18T08:30:06.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Also recommends age verification as Meta tells The Reg it's working on parental controls</h4> <p>UK coroner Andrew Walker has sent a report to Meta, Pinterest, Twitter, Snapchat, and the government itself recommending that adults and children each have their own parts of the platform to prevent harm to youngsters.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gollum-utvecklaren Daedalic gör gärna fler Lord of the Rings-spel]]></title>
+        <id>https://www.fz.se/artikel/291817</id>
+        <link href="https://www.fz.se/artikel/291817-gollum-utvecklaren-daedalic-gor-garna-fler-lord-of-the-rings-spel"/>
+        <updated>2022-10-18T08:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Trots att deras första inte är ute än.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Imagine surviving a wiper attack only for ransomware to scramble your restored files]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/18/prestige_ransomware_microsoft_ukraine/</id>
@@ -18162,112 +18182,6 @@ Various first-party titles have already been released on PC, and these include D
  Read more]]></summary>
         <author>
             <name>Stephany Nunneley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magic: The Gathering is getting Assassin's Creed and Final Fantasy crossovers]]></title>
-        <id>https://www.rockpapershotgun.com/magic-the-gathering-is-getting-assassins-creed-and-final-fantasy-crossovers</id>
-        <link href="https://www.rockpapershotgun.com/magic-the-gathering-is-getting-assassins-creed-and-final-fantasy-crossovers"/>
-        <updated>2022-10-04T20:34:31.000Z</updated>
-        <summary type="html"><![CDATA[Card game Magic: The Gathering introduced sets which cross over with other worlds last year under the name Universes Beyond. Wizards Of The Coast announced during an investor call today that future crossovers would include Final Fantasy and Assassin's Creed - although not until 2024.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jonathan Dowland: rewrite rule representation]]></title>
-        <id>https://jmtd.net/log/phd/representation/</id>
-        <link href="https://jmtd.net/log/phd/representation/"/>
-        <updated>2022-10-04T20:29:31.000Z</updated>
-        <summary type="html"><![CDATA[I've begun writing up my phd and, not for the first time, I'm pondering
-issues of how best to represent things. Specifically, rewrite rules.
-Here's one way of representing an example rewrite rule:
-streamFilter g . streamFilter f = streamFilter (g . f)
-
-This is a fairly succinct representation. It's sort-of Haskell, but not
-quite. It's an equation. The left-hand side is a pattern: it's intended
-to describe not one expression but a family of expressions that match.
-The lower case individual letters g and f are free variables:
-labelled placeholders within the pattern that can be referred to on the
-right hand side. I haven't stipulated what defines a free variable and
-what is a more concrete part of the pattern. It's kind-of Haskell, and
-I've used the well-known operator . to represent the two…]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Europe to Force Laptop Makers to Adopt USB-C for Charging]]></title>
-        <id>UMfWZHcnLhjLXFtpw4r7QH</id>
-        <link href="https://www.tomshardware.com/news/europe-to-force-laptop-makers-to-adopt-usb-c-for-charging"/>
-        <updated>2022-10-04T20:24:38.000Z</updated>
-        <summary type="html"><![CDATA[All laptops sold in Europe will have to support USB-C charging starting in 2026.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tequila Works confirms Stadia-exclusive Gylt is going multiplatorm next year]]></title>
-        <id>https://www.eurogamer.net/tequila-works-confirms-stadia-exclusive-gylt-is-going-multiplatorm-next-year</id>
-        <link href="https://www.eurogamer.net/tequila-works-confirms-stadia-exclusive-gylt-is-going-multiplatorm-next-year"/>
-        <updated>2022-10-04T20:22:38.000Z</updated>
-        <summary type="html"><![CDATA[Tequila Works, the developer behind the likes of the sublime Rime and intriguing VR murder-mystery The Invisible Hours, has confirmed its formerly Stadia-exclusive action-adventure Gylt will be going multiplatform next year.
-
-
-Gylt, an enjoyably surreal horror yarn that follows the adventures of a young girl in search of her missing cousin, launched exclusively on Stadia back in 2019. And while Tequila Works did at one point suggest a multiplatform release might eventually be on the cards, it's remained resolutely Stadia-bound in the years since.
-
-
-However, following last week's announcement that Google will be shutting down Stadia on 18th January next year - a move that prompted questions as to what might happen to the cloud gaming service's handful of remaining exclusives - Tequila Works has confirmed Gylt will finally be getting a multiplatform release some time in 2023.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best Gaming Mouse 2022]]></title>
-        <id>MvgBUtmYGiaJLGpxQrQQMR</id>
-        <link href="https://www.tomshardware.com/best-picks/best-gaming-mouse"/>
-        <updated>2022-10-04T20:15:00.000Z</updated>
-        <summary type="html"><![CDATA[Up your game with the best gaming mouse for your grip.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CD Projekt Red are making a new Witcher trilogy, Cyberpunk 2077 sequel, and a brand new IP]]></title>
-        <id>https://www.rockpapershotgun.com/cd-projekt-red-are-making-a-new-witcher-trilogy-cyberpunk-2077-sequel-and-a-brand-new-ip</id>
-        <link href="https://www.rockpapershotgun.com/cd-projekt-red-are-making-a-new-witcher-trilogy-cyberpunk-2077-sequel-and-a-brand-new-ip"/>
-        <updated>2022-10-04T20:05:07.000Z</updated>
-        <summary type="html"><![CDATA[In an update for investors, CD Projekt Red today outlined their "long-term product outlook." It contains some projects we already knew about, such as next year's Cyberpunk 2077 expansion Phantom Liberty, but also many that we did not. That includes a new trilogy of The Witcher RPGs, a Cyberpunk 2077 sequel, and a brand new IP being developed by CD Projekt Red, plus two further games in The Witcher universe being created by third-party studios.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VideoLAN threatens to sue India gov’t as ISPs keep blocking VLC website]]></title>
-        <id>https://arstechnica.com/?p=1886817</id>
-        <link href="https://arstechnica.com/?p=1886817"/>
-        <updated>2022-10-04T19:44:54.000Z</updated>
-        <summary type="html"><![CDATA[ISPs apparently blocking VLC website due to gov't order, but it's not clear why.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Best PC Gaming Headsets 2022: Budget, Wired and Wireless]]></title>
-        <id>Zw4qvyGodH67Aet8DsKy5J</id>
-        <link href="https://www.tomshardware.com/reviews/best-gaming-headsets,5499.html"/>
-        <updated>2022-10-04T19:44:26.000Z</updated>
-        <summary type="html"><![CDATA[From budget to wireless, we've tested the best gaming headsets, and these are our picks for 2022.]]></summary>
-        <author>
-            <name>Tomshardware</name>
         </author>
     </entry>
 </feed>
