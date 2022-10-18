@@ -181,6 +181,46 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/10/theme-park-building-sim-indoorlands-is-officially-out-now/",
+          "author": "Liam Dawe",
+          "description": "Indoorlands, a somewhat unique theme park building sim has left Early Access as a finished game ready for you to get clicking around.",
+          "link": "https://www.gamingonlinux.com/2022/10/theme-park-building-sim-indoorlands-is-officially-out-now/",
+          "publishedOn": "2022-10-18T09:30:44.000Z",
+          "wordCount": 1358,
+          "title": "Theme park building sim Indoorlands is officially out now",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1260707670id21751gol.jpg"
+        },
+        {
+          "id": "https://www.gamingonlinux.com/2022/10/lost-ember-should-run-nicer-on-steam-deck-linux-as-dev-fixes-video-issues/",
+          "author": "Liam Dawe",
+          "description": "LOST EMBER is an adventure game all about the power of nature. Released back in 2019, it seems recently that went back to it to ensure it works nicely on Steam Deck (and so Linux too).",
+          "link": "https://www.gamingonlinux.com/2022/10/lost-ember-should-run-nicer-on-steam-deck-linux-as-dev-fixes-video-issues/",
+          "publishedOn": "2022-10-18T09:19:20.000Z",
+          "wordCount": 1224,
+          "title": "LOST EMBER should run nicer on Steam Deck / Linux, as dev fixes video issues",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1116917579id21750gol.jpg"
+        },
+        {
+          "id": "https://www.gamingonlinux.com/2022/10/proton-70-5-is-coming-soon-improving-steam-deck-linux-gaming/",
+          "author": "Liam Dawe",
+          "description": "Valve are preparing to launch the latest update to Steam Play Proton, the compatibility layer to run Windows games on Linux and Steam Deck.",
+          "link": "https://www.gamingonlinux.com/2022/10/proton-70-5-is-coming-soon-improving-steam-deck-linux-gaming/",
+          "publishedOn": "2022-10-18T09:07:11.000Z",
+          "wordCount": 1297,
+          "title": "Proton 7.0-5 is coming soon improving Steam Deck / Linux gaming",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/tagline_gallery/proton.jpg"
+        },
+        {
+          "id": "https://www.gamingonlinux.com/2022/10/if-you-use-polymc-for-minecraft-you-should-switch-away-now/",
+          "author": "Liam Dawe",
+          "description": "Unfortunately, it seems the a developer on the Minecraft launcher PolyMC went completely rogue and so for your own safety, you should remove PolyMC from all systems.",
+          "link": "https://www.gamingonlinux.com/2022/10/if-you-use-polymc-for-minecraft-you-should-switch-away-now/",
+          "publishedOn": "2022-10-18T08:56:40.000Z",
+          "wordCount": 1183,
+          "title": "If you use PolyMC for Minecraft you should switch away now",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/539874825id21748gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/10/lego-bricktales-is-out-now-with-linux-support-and-steam-deck-verified/",
           "author": "Liam Dawe",
           "description": "Who doesn't love LEGO? ClockStone and Thunderful Publishing just recently released LEGO Bricktales and surprisingly, it came with full Native Linux support along with being Steam Deck Verified.",
@@ -697,6 +737,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/off-topic-when-racecar-engineering-is-a-puzzle-to-be-solved",
+          "author": "Martin Robinson",
+          "description": "\"Those who can, do,\" motorsport's most famous enthusiast Murray Walker used to say of his vocation in typically modest fashion, \"those who can't, talk about it.\" Taking that adage further still, some of us are just happy to read about it, and ever since I fell in love with cars driving in circles fast I've read everything I could lay my hands on on the sport and those who pursue it. In parallel with my love of video games, enabled and enhanced by the words and articles of fellow fans in magazines or even on sites such as this, reading about motorsport and the fascinating stories surrounding it can be just as rewarding as heading to a race track itself. \r\n\n\r\nSome books are better than others, and there are the staple reads I'm sure anyone with a passing interest in motorsport will have read already: AJ Baime's Go Like Hell, for instance, chronicling the war between Ford and Ferrari that was played out on the likes of Daytona and Le Mans in the 60s, or Michael Cannell's The Limit which so vividly paints a human portrait of motorsport's most brutal era. \r\n\n\r\nThere are recent masterpieces like Adrian Newey's How to Build a Car (something that does the unthinkable and makes Red Bull Racing, self-appointed villains of F1's new Drive to Survive reality TV era, actually quite likeable), underlining Newey's place in a lineage alongside the likes of Colin Chapman and Enzo Ferrari as one of the sport's all-time greats. Or if you want to read about some of those older legends there's fare like Brock Yates' Enzo Ferrari: The Man and Machine, if you want to find out more about Il Commendatore before it gets the Hollywood treatment via Michael Mann next year. \r\n \nRead more",
+          "link": "https://www.eurogamer.net/off-topic-when-racecar-engineering-is-a-puzzle-to-be-solved",
+          "publishedOn": "2022-10-18T09:17:24.000Z",
+          "wordCount": 4257,
+          "title": "Off Topic: When racecar engineering is a puzzle to be solved",
+          "imageUrl": "https://assets.reedpopcdn.com/MarkDonohue1971.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/MarkDonohue1971.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/capcoms-next-resident-evil-showcase-airs-this-week-with-more-on-re4-remake",
           "author": "Matt Wales",
@@ -4253,26 +4303,6 @@
           "wordCount": 4872,
           "title": "Overwatch 2 under \"mass DDos attack\" on launch, says Blizzard",
           "imageUrl": "https://asset.vg247.com/Overwatch-2-Asset.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Overwatch-2-Asset.jpg"
-        },
-        {
-          "id": "https://www.vg247.com/more-death-stranding-2-rumors-codename-ocean",
-          "author": "Stephany Nunneley",
-          "description": "Another rumor regarding Death Stranding 2 being in development has surfaced, with the source stating it is under production under the codename \"Ocean\".\nThis is according ResetEra user Dusk Golem, a leaker who has been known to be on the money with horror-related scoops (via Insider Gaming).\nDusk Golem's comments were posted in a thread on ResetEra where members of the forum were discussing a recent report that Death Stranding 2 would be released on Stadia, which Dusk Golem debunked.\n Read more",
-          "link": "https://www.vg247.com/more-death-stranding-2-rumors-codename-ocean",
-          "publishedOn": "2022-10-04T21:28:14.000Z",
-          "wordCount": 4990,
-          "title": "More Death Stranding 2 rumors surface, game is in development under codename \"Ocean\"",
-          "imageUrl": "https://asset.vg247.com/death_stranding-7.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/death_stranding-7.jpg"
-        },
-        {
-          "id": "https://www.vg247.com/sonys-first-party-games-pc-at-least-a-year-after-playstation",
-          "author": "Stephany Nunneley",
-          "description": "Sony plans to continue supporting PC with its first-party games, but it could take \"at least a year\" for the games to release for the platform.\nThat's according to PlayStation Studios boss Hermen Hulst who added that the firm's live-service games may be released earlier than one year post launch.\nVarious first-party titles have already been released on PC, and these include Days Gone, God of War, and Marvel's Spider-Man Remastered. In the PC pipeline is Sackboy: A Big Adventure, Spider-Man: Miles Morales, and Uncharted: The Legacy Collection.\n Read more",
-          "link": "https://www.vg247.com/sonys-first-party-games-pc-at-least-a-year-after-playstation",
-          "publishedOn": "2022-10-04T20:42:49.000Z",
-          "wordCount": 4642,
-          "title": "Sony's first-party games won't be released on PC for \"at least a year\" after PlayStation launch",
-          "imageUrl": "https://asset.vg247.com/playstation_logo_large.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/playstation_logo_large.jpg"
         }
       ]
     },
@@ -4281,6 +4311,26 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/CBL-Mariner-2.0-October-2022",
+          "author": null,
+          "description": "Microsoft has released its monthly update to CBL-Mariner 2.0, its in-house Linux distribution serving a variety of purposes from WSL to Azure...",
+          "link": "https://www.phoronix.com/news/CBL-Mariner-2.0-October-2022",
+          "publishedOn": "2022-10-18T09:22:20.000Z",
+          "wordCount": 1245,
+          "title": "Microsoft Releases Its Linux Distribution Update For October 2022",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Mesa-Gallium3D-Graw-Dropped",
+          "author": null,
+          "description": "Two weeks ago a bunch of old Mesa code got removed including the XvMC front-end, Rbug as a remote debugging interface, and some of Graw that was to serve as a raw Gallium3D interface without a traditional Gallium front-end. Some of Graw was accidentally left in the source tree while now that has been caught and eliminated in further lightening the size of Mesa...",
+          "link": "https://www.phoronix.com/news/Mesa-Gallium3D-Graw-Dropped",
+          "publishedOn": "2022-10-18T09:14:59.000Z",
+          "wordCount": 1260,
+          "title": "Mesa's Gallium3D Finishes Gutting Out Its Graw Interface",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Proton-7.0-5-RC",
           "author": null,
@@ -5418,6 +5468,16 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/capcom-are-holding-a-resident-evil-showcase-this-week",
+          "author": "CJ Wheeler",
+          "description": "It’s officially the spooky season now, so that makes it a highly appropriate juncture for some survival horror. Good job that Capcom have announced they’re streaming a Resident Evil showcase this Thursday, October 20th, then. They’ve even roped in Resident Evil Village’s Merchant to narrate the trailer for it. Watch below for a quick look at what’s coming up in the showcase stream.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/capcom-are-holding-a-resident-evil-showcase-this-week",
+          "publishedOn": "2022-10-18T09:33:10.000Z",
+          "wordCount": 4915,
+          "title": "Capcom are holding a Resident Evil showcase this week",
+          "imageUrl": "https://assets2.rockpapershotgun.com/Resident-Evil-4-remake_hy1bQvs.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Resident-Evil-4-remake_hy1bQvs.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/clean-a-haunted-house-in-this-fun-little-indie-game",
           "author": "Alice O'Connor",
@@ -6897,16 +6957,6 @@
           "wordCount": 4808,
           "title": "Sony may invest more in its efforts to bring PlayStation games to PC",
           "imageUrl": "https://assets2.rockpapershotgun.com/god-of-war-pc-a.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/god-of-war-pc-a.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/the-next-need-for-speed-will-be-revealed-this-week",
-          "author": "Graham Smith",
-          "description": "Electronic Arts' next Need For Speed game will be revealed this coming Thursday, October 6th. The official Need For Speed Twitter account shared the news that the reveal trailer would land at 8am PT/4pm BST/5pm CEST.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/the-next-need-for-speed-will-be-revealed-this-week",
-          "publishedOn": "2022-10-04T21:17:27.000Z",
-          "wordCount": 4791,
-          "title": "The next Need For Speed will be revealed this week",
-          "imageUrl": "https://assets2.rockpapershotgun.com/nfs-reveal-trailer.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/nfs-reveal-trailer.jpg"
         }
       ]
     },
@@ -9299,21 +9349,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/xgKLt9BcbQzvk5nLWo7F2i.png"
-        },
-        {
-          "id": "sKMEyUmZrWJEsRASDkYXag",
-          "author": "francisco.pires@outlook.com (Francisco Pires)",
-          "description": "A team of researchers has achieved a world record coherence time for silicon qubits, extending the amount of time entangled qubits can remain coherent by a hundredfold.",
-          "link": "https://www.tomshardware.com/news/smart-protocol-extends-silicon-qubit-coherence-by-100x",
-          "publishedOn": "2022-10-04T20:44:30.000Z",
-          "wordCount": 21853,
-          "title": "SMART Protocol Extends Silicon Qubit' Coherence by 100x",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/W477Utj9YFB5wTZTXYXKPf.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/W477Utj9YFB5wTZTXYXKPf.jpg"
         }
       ]
     },
@@ -11345,16 +11380,6 @@
           "wordCount": 1910,
           "title": "2022 Nobel Physics Prize goes to seminal tests of spooky action at a distance",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/nobel-winners-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1886485",
-          "author": "Benj Edwards",
-          "description": "Sega's famously boxy 1993 arcade game gets a fan-powered Stable Diffusion refresh.",
-          "link": "https://arstechnica.com/?p=1886485",
-          "publishedOn": "2022-10-04T20:48:44.000Z",
-          "wordCount": 1584,
-          "title": "Begone, polygons: 1993’s Virtua Fighter gets smoothed out by AI",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/virtua_hero_1-760x380.jpg"
         }
       ]
     },
@@ -11363,6 +11388,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291818",
+          "author": null,
+          "description": "Till Fallout 4.",
+          "link": "https://www.fz.se/artikel/291818-soldrankt-apokalyps-i-trailern-for-modden-fallout-miami",
+          "publishedOn": "2022-10-18T08:57:00.000Z",
+          "wordCount": 1891,
+          "title": "Soldränkt apokalyps i trailern för modden Fallout: Miami",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291818"
+        },
         {
           "id": "https://www.fz.se/artikel/291817",
           "author": null,
@@ -12822,26 +12857,6 @@
           "wordCount": 1807,
           "title": "Overwatch 2-servrarna utsatta för DDoS-attacker",
           "imageUrl": "https://www.fz.se/artikel/og-image/291684"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291683",
-          "author": null,
-          "description": "Och sen ytterligare två The Witcher-titlar.",
-          "link": "https://www.fz.se/artikel/291683-cyberpunk-uppfoljare-fem-the-witcher-spel-och-ett-nytt-ip-pa-gang-hos-cdpr",
-          "publishedOn": "2022-10-04T21:30:00.000Z",
-          "wordCount": 2177,
-          "title": "Cyberpunk-uppföljare, FEM The Witcher-spel och ett nytt IP på gång hos CDPR",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291683"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291683",
-          "author": null,
-          "description": "Tre The Witcher, ett Cyberpunk och ett nytt IP. Och sen ytterligare två The Witcher.",
-          "link": "https://www.fz.se/artikel/291683-cd-projekt-har-fem-spel-pa-gang",
-          "publishedOn": "2022-10-04T21:30:00.000Z",
-          "wordCount": 1988,
-          "title": "CD Projekt har FEM spel på gång",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291683"
         }
       ]
     },
@@ -13508,6 +13523,16 @@
       "siteUrl": "https://loadingartist.com/",
       "articles": [
         {
+          "id": "https://loadingartist.com/2022/10/18/prints-are-back/",
+          "author": "Gregor",
+          "description": "30% OFF PRINTS THIS WEEK!\nWith the launch of the new print shop I’m matching INPRNT’s current 15% discount with another 15% discount to make a whopping 30% DISCOUNT for all prints this week!",
+          "link": "https://loadingartist.com/2022/10/18/prints-are-back/",
+          "publishedOn": "2022-10-18T08:54:32.000Z",
+          "wordCount": 186,
+          "title": "Prints are BACK!",
+          "imageUrl": "/img/bg/logo-char.png"
+        },
+        {
           "id": "https://loadingartist.com/comic/there-in-spirit/",
           "author": "Gregor",
           "description": "a comic about a ghost",
@@ -13759,16 +13784,6 @@
           "wordCount": 714,
           "title": "Untitled",
           "imageUrl": "https://64.media.tumblr.com/63b1413e20ca9f30b6aff6fda4bbbe84/8697d1c6e9c37804-51/s1280x1920/7493d35f42ce20c9e2c22c50e402f591dc0357f4.png"
-        },
-        {
-          "id": "https://shencomix.tumblr.com/post/697215543639408640",
-          "author": null,
-          "description": "",
-          "link": "https://shencomix.tumblr.com/post/697215543639408640",
-          "publishedOn": "2022-10-04T20:49:16.000Z",
-          "wordCount": 714,
-          "title": "Untitled",
-          "imageUrl": "https://64.media.tumblr.com/6c76e0a8503a143d21e7f1e534d6cc2d/067322c9d833e2ea-54/s1280x1920/b7852c24bc7782fc863ccb1c7202c93886e12c09.png"
         }
       ]
     },
@@ -13777,6 +13792,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/18/robot_for_building_in_space/",
+          "author": null,
+          "description": "<h4>E-Walker is a 'seven degrees-of-freedom fully dexterous end-over-end walking robot'</h4> <p>Although large in-space construction projects are the stuff of science fiction, they will have to become science fact as missions grow ever more ambitious. Researchers at the University of Lincoln have decided to get a head start.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/18/robot_for_building_in_space/",
+          "publishedOn": "2022-10-18T09:30:10.000Z",
+          "wordCount": 1448,
+          "title": "Boffins propose Slinky-like robot that can build stuff in space",
+          "imageUrl": "https://regmedia.co.uk/2022/10/17/shutterstock_space_robot.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/18/social_media_separate/",
           "author": null,
