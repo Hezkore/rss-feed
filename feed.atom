@@ -2,10 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-18T21:26:02.102Z</updated>
+    <updated>2022-10-18T22:28:27.843Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AMD Develops New "GI-1.0" Open-Source Global Illumination Tech]]></title>
+        <id>https://www.phoronix.com/news/AMD-GPUOpen-GI-1.0-Paper</id>
+        <link href="https://www.phoronix.com/news/AMD-GPUOpen-GI-1.0-Paper"/>
+        <updated>2022-10-18T22:20:00.000Z</updated>
+        <summary type="html"><![CDATA[AMD under their GPUOpen umbrella has published a paper on their new technology dubbed "GI-1.0" that is a fast, scalable two-level radiance caching scheme for real-time global illumination. This means of real-time global illumination says it can deliver comparable quality to other GI implementations while said to be much faster. GI-1.0 will be open-source, AMD says, but the code isn't yet published...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You can now visit Guildford High Street in No Man's Sky]]></title>
+        <id>https://www.eurogamer.net/you-can-now-visit-guildford-high-street-in-no-mans-sky</id>
+        <link href="https://www.eurogamer.net/you-can-now-visit-guildford-high-street-in-no-mans-sky"/>
+        <updated>2022-10-18T22:18:36.000Z</updated>
+        <summary type="html"><![CDATA[In an endless universe of infinite possibilities, where would you most like to go? If your answer was 'Guildford High Street', then, hey, you're in luck, as fearless space explorers can now visit west Surrey's most glamorous locale in No Man's Sky.
+
+
+Perhaps, first, a quick introduction for those who've yet to experienced the marvels of Guildford High Street for themselves; it's the epicentre of a small town situated around 40 miles south-west of London that just so happens to be a thriving hub for the UK's game development scene.
+
+
+Poke around and you'll find the likes of Supermassive, Media Molecule, EA, Room developer Fireproof Games, Criterion, Ubisoft - and, of course, No Man's Sky developer Hello Games.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Here's when new games are coming to Xbox Game Pass in October, including Persona 5 Royal]]></title>
+        <id>https://www.rockpapershotgun.com/heres-when-new-games-are-coming-to-xbox-game-pass-in-october-including-persona-5-royal</id>
+        <link href="https://www.rockpapershotgun.com/heres-when-new-games-are-coming-to-xbox-game-pass-in-october-including-persona-5-royal"/>
+        <updated>2022-10-18T21:55:19.000Z</updated>
+        <summary type="html"><![CDATA[It's the middle of the month, which means it's time for another batch of Game Pass games to be detailed. For a start, today sees the day one release of A Plague Tale: Requiem, the followup to everyone's favourite Middle Ages ratventure. There are similarly big games to come before the end of the month, however, including Persona 5 Royal.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Asymmetric multiplayer Ghostbusters: Spirits Unleashed busts out today]]></title>
+        <id>https://www.rockpapershotgun.com/asymmetric-multiplayer-ghostbusters-spirits-unleashed-busts-out-today</id>
+        <link href="https://www.rockpapershotgun.com/asymmetric-multiplayer-ghostbusters-spirits-unleashed-busts-out-today"/>
+        <updated>2022-10-18T21:33:00.000Z</updated>
+        <summary type="html"><![CDATA[I used to think Ghostbusters was a fantasy about having a cool car and a slidey pole in your house. Now that I'm an adult I realise it's actually a fantasy about having ample free time to hang out with your friends in New York. But I suppose it's also about bustin' ghosts, which is what Ghostbusters: Spirits Unleashed's asymmetric multiplayer replicates. It's out today. 
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Apple remembers it makes iPads, updates fondleslabs]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/18/apple_new_ipad_pro/</id>
@@ -18949,105 +19003,6 @@ Read more]]></summary>
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/05/icewm_version_3/"/>
         <updated>2022-10-05T10:29:10.000Z</updated>
         <summary type="html"><![CDATA[<h4>And it's not the only venerable window manager still in development</h4> <p>A new version of a quarter-century-old window manager shows that there's still room for improvement and innovation, even in established, mature tools.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UK competition regulator sets March deadline for Microsoft Activision Blizzard ruling]]></title>
-        <id>https://www.eurogamer.net/uk-competition-regulator-sets-march-deadline-for-microsoft-activision-blizzard-ruling</id>
-        <link href="https://www.eurogamer.net/uk-competition-regulator-sets-march-deadline-for-microsoft-activision-blizzard-ruling"/>
-        <updated>2022-10-05T10:20:59.000Z</updated>
-        <summary type="html"><![CDATA[The UK's Competition and Markets Authority (CMA) has laid out a timeline for its second phase of investigations into Microsoft's proposed $68.7bn acquisition of Activision Blizzard, following concerns this deal could be deemed anti-competitive.
-
-
-New documentation from the CMA states that its statutory deadline to publish the final report will be 1st March, 2023. As such, the final deadline for all parties' responses regarding this investigation will be in February.
-
-
-Between that time and now, the CMA will be conducting meetings with the main and third parties involved with this acquisition, issuing questionnaires and verifying the information provided. 
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hitman 3’s roguelike Freelancer mode delayed into 2023]]></title>
-        <id>https://www.rockpapershotgun.com/hitman-3s-roguelike-freelancer-mode-delayed-into-2023</id>
-        <link href="https://www.rockpapershotgun.com/hitman-3s-roguelike-freelancer-mode-delayed-into-2023"/>
-        <updated>2022-10-05T10:15:38.000Z</updated>
-        <summary type="html"><![CDATA[Agent 47 is still going freelance, but not this year. IO Interactive have pushed Hitman 3’s planned free Freelancer mode back again, this time to January 26th. The delay was announced along with the reveal of a closed technical test for Freelancer starting early next month. And here I was, thinking that Ian Hitman never missed a target.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EU votes to adopt single charging cable for portable games consoles, tablets, phones]]></title>
-        <id>https://www.eurogamer.net/eu-votes-to-adopt-single-charging-cable-for-portable-devices</id>
-        <link href="https://www.eurogamer.net/eu-votes-to-adopt-single-charging-cable-for-portable-devices"/>
-        <updated>2022-10-05T10:12:40.000Z</updated>
-        <summary type="html"><![CDATA[The European Union has voted to adopt a single charger design for use across all portable games consoles, smartphones, tablets and laptops sold in the region. 
-
-
-Technology manufacturers will now be required to use USB-C charging ports in all smartphones and tablets sold in the region from 2024, and in laptops from 2026. Mice, keyboards, headphones are also included.
-
-
-As previously reported, the UK decided to opt out out of being included in this initiative when it was first proposed, despite its aims to cut electronic waste and generally make things a bit easier for those with a drawer full of random Lightning cables,  micro-USB and mini-USB wires. Thanks Brexit!
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SELinux Continues Path Of Deprecating Run-Time Disabling]]></title>
-        <id>https://www.phoronix.com/news/SELinux-Runtime-Disabling</id>
-        <link href="https://www.phoronix.com/news/SELinux-Runtime-Disabling"/>
-        <updated>2022-10-05T10:11:27.000Z</updated>
-        <summary type="html"><![CDATA[The Security Enhanced Linux (SELinux) changes for Linux 6.1 but with a documentation update does provide a good reminder for a public service announcement: run-time disabling of SELinux is deprecated and will be removed in the future...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smarta hemmet-standarden Matter lanseras i första version]]></title>
-        <id>https://www.sweclockers.com/artikel/35027</id>
-        <link href="https://www.sweclockers.com/artikel/35027-smarta-hemmet-standarden-matter-lanseras-i-forsta-version"/>
-        <updated>2022-10-05T10:08:00.000Z</updated>
-        <summary type="html"><![CDATA[Efter flera förseningar är slutligen Matter 1.0 ute och ska få smarta hemmet-prylar att samarbeta trots många olika standarder och protokoll.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snabbkollen - Kommer du spela Overwatch 2?]]></title>
-        <id>https://www.fz.se/artikel/291689</id>
-        <link href="https://www.fz.se/artikel/291689-snabbkollen-kommer-du-spela-overwatch-2"/>
-        <updated>2022-10-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Shooteruppföljaren släpptes i tisdags kväll och kan spelas gratis.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Steam Deck Beta updates fix Red Dead Redemption 2 and external screen changes]]></title>
-        <id>https://www.gamingonlinux.com/2022/10/steam-deck-beta-updates-fix-red-dead-redemption-2-and-external-screen-changes/</id>
-        <link href="https://www.gamingonlinux.com/2022/10/steam-deck-beta-updates-fix-red-dead-redemption-2-and-external-screen-changes/"/>
-        <updated>2022-10-05T09:49:21.000Z</updated>
-        <summary type="html"><![CDATA[Two Beta updates have landed for the Steam Deck with a Client and an OS update available, with some pretty big changes to how external screens are handled.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waxworm's spit shows promise in puncturing plastic pollution]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/05/wax_worms_plastic_paper/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/05/wax_worms_plastic_paper/"/>
-        <updated>2022-10-05T09:30:06.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Scientists believe moth larvae saliva can oxidize, degrade polyethylene</h4> <p>The caterpillar larvae of the wax moth produce saliva with enzymes capable of oxidizing and degrading polyethylene, offering a potential solution to the plastic pollution challenge.…</p>]]></summary>
         <author>
             <name>The Register</name>
         </author>

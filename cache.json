@@ -749,16 +749,6 @@
           "wordCount": 1273,
           "title": "Oxygen Not Included has a new animated short, plus a 'Story Trait System' update",
           "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/284378231id21698gol.jpg"
-        },
-        {
-          "id": "https://www.gamingonlinux.com/2022/10/steam-deck-beta-updates-fix-red-dead-redemption-2-and-external-screen-changes/",
-          "author": "Liam Dawe",
-          "description": "Two Beta updates have landed for the Steam Deck with a Client and an OS update available, with some pretty big changes to how external screens are handled.",
-          "link": "https://www.gamingonlinux.com/2022/10/steam-deck-beta-updates-fix-red-dead-redemption-2-and-external-screen-changes/",
-          "publishedOn": "2022-10-05T09:49:21.000Z",
-          "wordCount": 1236,
-          "title": "Steam Deck Beta updates fix Red Dead Redemption 2 and external screen changes",
-          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/2137231981id21696gol.jpg"
         }
       ]
     },
@@ -767,6 +757,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/you-can-now-visit-guildford-high-street-in-no-mans-sky",
+          "author": "Matt Wales",
+          "description": "In an endless universe of infinite possibilities, where would you most like to go? If your answer was 'Guildford High Street', then, hey, you're in luck, as fearless space explorers can now visit west Surrey's most glamorous locale in No Man's Sky.\r\n\n\r\nPerhaps, first, a quick introduction for those who've yet to experienced the marvels of Guildford High Street for themselves; it's the epicentre of a small town situated around 40 miles south-west of London that just so happens to be a thriving hub for the UK's game development scene.\r\n\n\r\nPoke around and you'll find the likes of Supermassive, Media Molecule, EA, Room developer Fireproof Games, Criterion, Ubisoft - and, of course, No Man's Sky developer Hello Games.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/you-can-now-visit-guildford-high-street-in-no-mans-sky",
+          "publishedOn": "2022-10-18T22:18:36.000Z",
+          "wordCount": 4623,
+          "title": "You can now visit Guildford High Street in No Man's Sky",
+          "imageUrl": "https://assets.reedpopcdn.com/nms-guildford.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/nms-guildford.jpg"
+        },
         {
           "id": "https://www.eurogamer.net/new-reports-dispute-bayonetta-voice-actors-4000-pay-offer-claims",
           "author": "Matt Wales",
@@ -3026,26 +3026,6 @@
           "wordCount": 4493,
           "title": "PlayStation 5 gets its own native Disney+ app",
           "imageUrl": "https://assets.reedpopcdn.com/hocus-pocus-2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/hocus-pocus-2.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/uk-competition-regulator-sets-march-deadline-for-microsoft-activision-blizzard-ruling",
-          "author": "Victoria Kennedy",
-          "description": "The UK's Competition and Markets Authority (CMA) has laid out a timeline for its second phase of investigations into Microsoft's proposed $68.7bn acquisition of Activision Blizzard, following concerns this deal could be deemed anti-competitive.\r\n\n\r\nNew documentation from the CMA states that its statutory deadline to publish the final report will be 1st March, 2023. As such, the final deadline for all parties' responses regarding this investigation will be in February.\r\n\n\r\nBetween that time and now, the CMA will be conducting meetings with the main and third parties involved with this acquisition, issuing questionnaires and verifying the information provided. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/uk-competition-regulator-sets-march-deadline-for-microsoft-activision-blizzard-ruling",
-          "publishedOn": "2022-10-05T10:20:59.000Z",
-          "wordCount": 4719,
-          "title": "UK competition regulator sets March deadline for Microsoft Activision Blizzard ruling",
-          "imageUrl": "https://assets.reedpopcdn.com/mw2-ghost_y7MFQMT.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/mw2-ghost_y7MFQMT.jpeg"
-        },
-        {
-          "id": "https://www.eurogamer.net/eu-votes-to-adopt-single-charging-cable-for-portable-devices",
-          "author": "Tom Phillips",
-          "description": "The European Union has voted to adopt a single charger design for use across all portable games consoles, smartphones, tablets and laptops sold in the region. \r\n\n\r\nTechnology manufacturers will now be required to use USB-C charging ports in all smartphones and tablets sold in the region from 2024, and in laptops from 2026. Mice, keyboards, headphones are also included.\r\n\n\r\nAs previously reported, the UK decided to opt out out of being included in this initiative when it was first proposed, despite its aims to cut electronic waste and generally make things a bit easier for those with a drawer full of random Lightning cables,  micro-USB and mini-USB wires. Thanks Brexit!\r\n \nRead more",
-          "link": "https://www.eurogamer.net/eu-votes-to-adopt-single-charging-cable-for-portable-devices",
-          "publishedOn": "2022-10-05T10:12:40.000Z",
-          "wordCount": 4561,
-          "title": "EU votes to adopt single charging cable for portable games consoles, tablets, phones",
-          "imageUrl": "https://assets.reedpopcdn.com/Untitled-1-Recovered-Recovered_yOi2nd0.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Untitled-1-Recovered-Recovered_yOi2nd0.jpg"
         }
       ]
     },
@@ -4552,6 +4532,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/AMD-GPUOpen-GI-1.0-Paper",
+          "author": null,
+          "description": "AMD under their GPUOpen umbrella has published a paper on their new technology dubbed \"GI-1.0\" that is a fast, scalable two-level radiance caching scheme for real-time global illumination. This means of real-time global illumination says it can deliver comparable quality to other GI implementations while said to be much faster. GI-1.0 will be open-source, AMD says, but the code isn't yet published...",
+          "link": "https://www.phoronix.com/news/AMD-GPUOpen-GI-1.0-Paper",
+          "publishedOn": "2022-10-18T22:20:00.000Z",
+          "wordCount": 1260,
+          "title": "AMD Develops New \"GI-1.0\" Open-Source Global Illumination Tech",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/Windows-11-22H2-Terminal",
           "author": null,
           "description": "As some interesting open-source news out of Microsoft today, their open-source Windows Termina that has been in development the past few years and providing many modern features is now the default beginning with Windows 11 22H2...",
@@ -5720,16 +5710,6 @@
           "wordCount": 1321,
           "title": "Linux 6.1 Hardening Retpolines With Ensuring An INT3 After Every Unconditional Jump",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/SELinux-Runtime-Disabling",
-          "author": null,
-          "description": "The Security Enhanced Linux (SELinux) changes for Linux 6.1 but with a documentation update does provide a good reminder for a public service announcement: run-time disabling of SELinux is deprecated and will be removed in the future...",
-          "link": "https://www.phoronix.com/news/SELinux-Runtime-Disabling",
-          "publishedOn": "2022-10-05T10:11:27.000Z",
-          "wordCount": 1304,
-          "title": "SELinux Continues Path Of Deprecating Run-Time Disabling",
-          "imageUrl": null
         }
       ]
     },
@@ -5738,6 +5718,26 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/heres-when-new-games-are-coming-to-xbox-game-pass-in-october-including-persona-5-royal",
+          "author": "Graham Smith",
+          "description": "It's the middle of the month, which means it's time for another batch of Game Pass games to be detailed. For a start, today sees the day one release of A Plague Tale: Requiem, the followup to everyone's favourite Middle Ages ratventure. There are similarly big games to come before the end of the month, however, including Persona 5 Royal.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/heres-when-new-games-are-coming-to-xbox-game-pass-in-october-including-persona-5-royal",
+          "publishedOn": "2022-10-18T21:55:19.000Z",
+          "wordCount": 4783,
+          "title": "Here's when new games are coming to Xbox Game Pass in October, including Persona 5 Royal",
+          "imageUrl": "https://assets2.rockpapershotgun.com/plague-tale-requiem-amicia-hugo.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/plague-tale-requiem-amicia-hugo.jpg"
+        },
+        {
+          "id": "https://www.rockpapershotgun.com/asymmetric-multiplayer-ghostbusters-spirits-unleashed-busts-out-today",
+          "author": "Graham Smith",
+          "description": "I used to think Ghostbusters was a fantasy about having a cool car and a slidey pole in your house. Now that I'm an adult I realise it's actually a fantasy about having ample free time to hang out with your friends in New York. But I suppose it's also about bustin' ghosts, which is what Ghostbusters: Spirits Unleashed's asymmetric multiplayer replicates. It's out today. \r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/asymmetric-multiplayer-ghostbusters-spirits-unleashed-busts-out-today",
+          "publishedOn": "2022-10-18T21:33:00.000Z",
+          "wordCount": 4676,
+          "title": "Asymmetric multiplayer Ghostbusters: Spirits Unleashed busts out today",
+          "imageUrl": "https://assets2.rockpapershotgun.com/ghostbusters-spirits-unleashed.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/ghostbusters-spirits-unleashed.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/the-sims-5-is-in-early-development-shows-powerful-new-creative-tools",
           "author": "Graham Smith",
@@ -7307,16 +7307,6 @@
           "wordCount": 5036,
           "title": "Streets Of Rogue 2 goes open-world, and you can drive a truck through a barn",
           "imageUrl": "https://assets2.rockpapershotgun.com/Streets-Of-Rogue-2-reveal.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/Streets-Of-Rogue-2-reveal.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/hitman-3s-roguelike-freelancer-mode-delayed-into-2023",
-          "author": "CJ Wheeler",
-          "description": "Agent 47 is still going freelance, but not this year. IO Interactive have pushed Hitman 3’s planned free Freelancer mode back again, this time to January 26th. The delay was announced along with the reveal of a closed technical test for Freelancer starting early next month. And here I was, thinking that Ian Hitman never missed a target.\r\n\n \nRead more",
-          "link": "https://www.rockpapershotgun.com/hitman-3s-roguelike-freelancer-mode-delayed-into-2023",
-          "publishedOn": "2022-10-05T10:15:38.000Z",
-          "wordCount": 5060,
-          "title": "Hitman 3’s roguelike Freelancer mode delayed into 2023",
-          "imageUrl": "https://assets2.rockpapershotgun.com/hitman-3-agent-47.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/hitman-3-agent-47.jpg"
         }
       ]
     },
@@ -13492,16 +13482,6 @@
           "wordCount": 1783,
           "title": "Kritikerkåren ger Overwatch 2 bra betyg, men tydligt lägre än för Overwatch",
           "imageUrl": "https://www.fz.se/artikel/og-image/291690"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291689",
-          "author": null,
-          "description": "Shooteruppföljaren släpptes i tisdags kväll och kan spelas gratis.",
-          "link": "https://www.fz.se/artikel/291689-snabbkollen-kommer-du-spela-overwatch-2",
-          "publishedOn": "2022-10-05T10:00:00.000Z",
-          "wordCount": 1777,
-          "title": "Snabbkollen - Kommer du spela Overwatch 2?",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291689"
         }
       ]
     },
@@ -14169,16 +14149,6 @@
           "wordCount": 2086,
           "title": "Tävla inför Komplett Bonanza Live – tema plattformar från Intel och AMD",
           "imageUrl": "https://www.sweclockers.com/artikel/35028/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/35027",
-          "author": null,
-          "description": "Efter flera förseningar är slutligen Matter 1.0 ute och ska få smarta hemmet-prylar att samarbeta trots många olika standarder och protokoll.",
-          "link": "https://www.sweclockers.com/artikel/35027-smarta-hemmet-standarden-matter-lanseras-i-forsta-version",
-          "publishedOn": "2022-10-05T10:08:00.000Z",
-          "wordCount": 1875,
-          "title": "Smarta hemmet-standarden Matter lanseras i första version",
-          "imageUrl": "https://www.sweclockers.com/artikel/35027/og-image"
         }
       ]
     },
@@ -16966,16 +16936,6 @@
           "wordCount": 1438,
           "title": "IceWM reaches version 3 after a mere 25 years",
           "imageUrl": "https://regmedia.co.uk/2022/10/04/icewm3.png"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/wax_worms_plastic_paper/",
-          "author": null,
-          "description": "<h4>Scientists believe moth larvae saliva can oxidize, degrade polyethylene</h4> <p>The caterpillar larvae of the wax moth produce saliva with enzymes capable of oxidizing and degrading polyethylene, offering a potential solution to the plastic pollution challenge.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/wax_worms_plastic_paper/",
-          "publishedOn": "2022-10-05T09:30:06.000Z",
-          "wordCount": 1312,
-          "title": "Waxworm's spit shows promise in puncturing plastic pollution",
-          "imageUrl": "https://regmedia.co.uk/2022/10/04/shutterstock_wax_worm.jpg"
         }
       ]
     }
