@@ -4562,6 +4562,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Windows-11-22H2-Terminal",
+          "author": null,
+          "description": "As some interesting open-source news out of Microsoft today, their open-source Windows Termina that has been in development the past few years and providing many modern features is now the default beginning with Windows 11 22H2...",
+          "link": "https://www.phoronix.com/news/Windows-11-22H2-Terminal",
+          "publishedOn": "2022-10-18T18:50:00.000Z",
+          "wordCount": 1328,
+          "title": "Microsoft Promotes Its Open-Source Terminal To The Default For Windows 11 CLI Apps",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/MoltenVK-1.2-Vulkan-Apple",
           "author": null,
           "description": "MoltenVK as the portability layer for Vulkan that exposes this industry standard graphics API on Apple's macOS, iOS, and tvOS platforms is now able to expose Vulkan 1.2 compatibility...",
@@ -10237,6 +10247,16 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1890770",
+          "author": "Ron Amadeo",
+          "description": "Is the Google Assistant in trouble? It's true that it doesn't make any money...",
+          "link": "https://arstechnica.com/?p=1890770",
+          "publishedOn": "2022-10-18T17:39:07.000Z",
+          "wordCount": 1976,
+          "title": "Report: Google “doubles down” on Pixel hardware, cuts Google Assistant support",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2018/12/google-web-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1890843",
           "author": "Ars Staff",
           "description": "Why Dolby Atmos in a car is more than a gimmick.",
@@ -13502,16 +13522,6 @@
           "wordCount": 1749,
           "title": "Marcin Iwiński slutar som vd för CD Projekt",
           "imageUrl": "https://www.fz.se/artikel/og-image/291687"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291686",
-          "author": null,
-          "description": "Det är nästan klart, men Io vill testa det lite först.",
-          "link": "https://www.fz.se/artikel/291686-roguelite-laget-freelancer-till-hitman-3-har-forsenats-igen",
-          "publishedOn": "2022-10-05T06:59:00.000Z",
-          "wordCount": 1817,
-          "title": "Roguelite-läget Freelancer till Hitman 3 har försenats igen",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291686"
         }
       ]
     },
@@ -13520,6 +13530,16 @@
       "feedUrl": "https://www.sweclockers.com/feeds/nyheter",
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
+        {
+          "id": "https://www.sweclockers.com/artikel/35093",
+          "author": null,
+          "description": "Den populära surfplattan följer i syskonmodellernas fotspår. Med detta följer bortskalad hemknapp och uppskalad prislapp, vid sidan av krav på extra adapter.",
+          "link": "https://www.sweclockers.com/artikel/35093-apple-smyger-ut-ipad-med-nytt-yttre-och-inre",
+          "publishedOn": "2022-10-18T19:13:55.000Z",
+          "wordCount": 1847,
+          "title": "Apple smyger ut Ipad med nytt yttre och inre",
+          "imageUrl": "https://www.sweclockers.com/artikel/35093/og-image"
+        },
         {
           "id": "https://www.sweclockers.com/artikel/35088",
           "author": null,
@@ -14189,16 +14209,6 @@
           "wordCount": 1849,
           "title": "Elon Musk kovänder – vill köpa Twitter igen",
           "imageUrl": "https://www.sweclockers.com/artikel/35026/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/35022",
-          "author": null,
-          "description": "Drygt en vecka efter lanseringen av Ryzen 7000 är det dags för moderkort med de mer avskalade styrkretsarna B650 och B650E att titta fram.",
-          "link": "https://www.sweclockers.com/artikel/35022-asus-gigabyte-och-msi-presenterar-moderkort-med-styrkrets-b650",
-          "publishedOn": "2022-10-05T07:13:37.000Z",
-          "wordCount": 2093,
-          "title": "Asus, Gigabyte och MSI presenterar moderkort med styrkrets B650",
-          "imageUrl": "https://www.sweclockers.com/artikel/35022/og-image"
         }
       ]
     },
@@ -14467,6 +14477,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/18/intel_mobileye_ipo_16b_valuation/",
+          "author": null,
+          "description": "<h4>Far cry from the $50 billion valuation Gelsinger hoped would fuel foundry empire</h4> <p>Intel expects the initial public offering of its Mobileye business unit to muster a valuation of $16 billion, a fraction of the nearly $50 billion figure the autonomous driving division was expected to fetch earlier this year.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/18/intel_mobileye_ipo_16b_valuation/",
+          "publishedOn": "2022-10-18T18:45:06.000Z",
+          "wordCount": 1446,
+          "title": "When the chips fall: Intel preps for $16b Mobileye IPO",
+          "imageUrl": "https://regmedia.co.uk/2021/09/08/iaaa-indash-16x9.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/18/meta_facebook_giphy_cma_/",
           "author": null,
@@ -16966,16 +16986,6 @@
           "wordCount": 1233,
           "title": "Physics Nobel Prize in a superposition between three quantum physicists",
           "imageUrl": "https://regmedia.co.uk/2022/10/04/nobel_prize_physics_2022.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/tcs_wipro_infosys_labor_issues/",
-          "author": null,
-          "description": "<h4>Industry insists it needs new blood, yet offers are being rescinded, pay rises delayed, and workers are furious</h4> <p>Indian IT Service giant Wipro has confirmed to <i>The Register</i> that it expects employees will return to its office for at least three days a week as of October 10th.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/tcs_wipro_infosys_labor_issues/",
-          "publishedOn": "2022-10-05T06:58:13.000Z",
-          "wordCount": 1871,
-          "title": "India’s IT services sector wants workers back in offices - but not all the new hires",
-          "imageUrl": "https://regmedia.co.uk/2022/10/05/shutterstock_unhappy_workers.jpg"
         }
       ]
     }
