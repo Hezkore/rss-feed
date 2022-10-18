@@ -2,10 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-18T20:30:30.307Z</updated>
+    <updated>2022-10-18T21:26:02.102Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Apple remembers it makes iPads, updates fondleslabs]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/18/apple_new_ipad_pro/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/18/apple_new_ipad_pro/"/>
+        <updated>2022-10-18T21:22:05.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Goodbye Lightning, hello USB-C and the usual two-year-old processor</h4> <p>Apple today announced an updated iPad Pro and a redesigned entry-level iPad.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New reports dispute Bayonetta voice actor's $4000 pay offer claims]]></title>
+        <id>https://www.eurogamer.net/new-reports-dispute-bayonetta-voice-actors-4000-pay-offer-claims</id>
+        <link href="https://www.eurogamer.net/new-reports-dispute-bayonetta-voice-actors-4000-pay-offer-claims"/>
+        <updated>2022-10-18T20:57:35.000Z</updated>
+        <summary type="html"><![CDATA[New reports have emerged disputing claims made by original Bayonetta voice actor Hellena Taylor that developer PlatinumGames was only willing to offer her a total of $4,000 USD to reprise her role in the series' upcoming third instalment.
+
+
+Taylor - who has been replaced by voice actor Jennifer Hale for Bayonetta 3 - made the claim in a series of emotional videos shared on Twitter this weekend, citing Platinum's "insulting [pay] offer" as the reason for her absence in the third game.
+
+
+"I didn't want the world, I didn't ask for too much," she said in one video. "I was just asking for a decent, dignified living wage. What they did was legal, but it was immoral." Taylor also called for a boycott of Bayonetta 3, suggesting fans instead donated their money to charity.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sims 5 is in early development, shows powerful new creative tools]]></title>
+        <id>https://www.rockpapershotgun.com/the-sims-5-is-in-early-development-shows-powerful-new-creative-tools</id>
+        <link href="https://www.rockpapershotgun.com/the-sims-5-is-in-early-development-shows-powerful-new-creative-tools"/>
+        <updated>2022-10-18T20:55:28.000Z</updated>
+        <summary type="html"><![CDATA[The Sims 4 is now a free-to-play game - and yet somehow this isn't today's biggest The Sims news. That's because, during today's Sims Summit livestream, Maxis also announced that the next The Sims is in-development. Currently codenamed Project Rene, it's a few years away, although we saw some early footage of its creative tools in action.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Oracle Buys Tens of Thousands of Nvidia A100, H100 GPUs]]></title>
         <id>KiLDqPSRmQNT8G6NoMSkRX</id>
@@ -19007,78 +19048,6 @@ Read more]]></summary>
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/05/wax_worms_plastic_paper/"/>
         <updated>2022-10-05T09:30:06.000Z</updated>
         <summary type="html"><![CDATA[<h4>Scientists believe moth larvae saliva can oxidize, degrade polyethylene</h4> <p>The caterpillar larvae of the wax moth produce saliva with enzymes capable of oxidizing and degrading polyethylene, offering a potential solution to the plastic pollution challenge.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elon Musk kovänder – vill köpa Twitter igen]]></title>
-        <id>https://www.sweclockers.com/artikel/35026</id>
-        <link href="https://www.sweclockers.com/artikel/35026-elon-musk-kovander-vill-kopa-twitter-igen"/>
-        <updated>2022-10-05T09:03:51.000Z</updated>
-        <summary type="html"><![CDATA[Berättelsen om Elon Musks Twitter-köp tar ännu en vändning. Nu vill Musk hellre se att köpet går igenom istället för att låta det gå till rätten.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nästa Need for Speed avtäcks på torsdag]]></title>
-        <id>https://www.fz.se/artikel/291688</id>
-        <link href="https://www.fz.se/artikel/291688-nasta-need-for-speed-avtacks-pa-torsdag"/>
-        <updated>2022-10-05T09:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Criterions nästa ska till slut visas upp.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The State Of RADV's Vulkan Mesh Shading Support]]></title>
-        <id>https://www.phoronix.com/news/RADV-Vulkan-Mesh-Shaders</id>
-        <link href="https://www.phoronix.com/news/RADV-Vulkan-Mesh-Shaders"/>
-        <updated>2022-10-05T08:55:34.000Z</updated>
-        <summary type="html"><![CDATA[Yesterday on the first day of the X.Org Developers' Conference (XDC 2022),  Timur Kristóf of Valve's open-source Linux GPU driver team presented on the Vulkan mesh shader support being worked on for RADV...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EXT4 Rolls Up Some Fixes & Performance Optimizations For Linux 6.1]]></title>
-        <id>https://www.phoronix.com/news/Linux-6.1-EXT4-Changes</id>
-        <link href="https://www.phoronix.com/news/Linux-6.1-EXT4-Changes"/>
-        <updated>2022-10-05T08:43:09.000Z</updated>
-        <summary type="html"><![CDATA[Ted Ts'o has submitted the EXT4 file-system updates for the Linux 6.1 kernel...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our PAX West videos are now available to everyone]]></title>
-        <id>https://www.rockpapershotgun.com/our-pax-west-videos-are-now-available-to-everyone</id>
-        <link href="https://www.rockpapershotgun.com/our-pax-west-videos-are-now-available-to-everyone"/>
-        <updated>2022-10-05T08:42:36.000Z</updated>
-        <summary type="html"><![CDATA[Last month, Rachel and I made the long pilgrammage to Seattle in order to attend PAX West 2022. While we were there we ran around the show floor with a bag full of loose camera equipment, stopping frequently to enthuse about cool video games we'd discovered or to interview someone interesting. At the time, all of these videos were only accessible to our premium supporters. However, as 30 days have passed since we originally shared them, we're now making them free for everyone to enjoy. Surprise!
-From an interview with the voice cast of Team Fortress 2 to a comprehensive tour of the show floor, there's something for everyone in this bundle of audio-visual delights. Scroll down to see what we got up to, and remember, if you like what you see please do consider funding content like this via our supporters programme. It truly means an awful lot.
-Read more]]></summary>
-        <author>
-            <name>Liam Richardson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wireshark 4.0 Network Protocol Analyzer Released]]></title>
-        <id>https://www.phoronix.com/news/Wireshark-4.0-Released</id>
-        <link href="https://www.phoronix.com/news/Wireshark-4.0-Released"/>
-        <updated>2022-10-05T08:36:17.000Z</updated>
-        <summary type="html"><![CDATA[Wireshark 4.0 has been released as the newest version of this leading open-source network protocol analyzer...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arm job cuts hit UK harder than global rationalization]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/05/arm_job_cuts_hit_uk/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/05/arm_job_cuts_hit_uk/"/>
-        <updated>2022-10-05T08:36:13.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Anyone remember SoftBank's pledge to double headcount in Britain?</h4> <p>Arm has reportedly chopped around 20 percent of its headcount in the UK, unpicking some of the recruitment commitments parent SoftBank made to the government when it bought the chip designer.…</p>]]></summary>
         <author>
             <name>The Register</name>
         </author>

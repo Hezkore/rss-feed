@@ -768,6 +768,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/new-reports-dispute-bayonetta-voice-actors-4000-pay-offer-claims",
+          "author": "Matt Wales",
+          "description": "New reports have emerged disputing claims made by original Bayonetta voice actor Hellena Taylor that developer PlatinumGames was only willing to offer her a total of $4,000 USD to reprise her role in the series' upcoming third instalment.\r\n\n\r\nTaylor - who has been replaced by voice actor Jennifer Hale for Bayonetta 3 - made the claim in a series of emotional videos shared on Twitter this weekend, citing Platinum's \"insulting [pay] offer\" as the reason for her absence in the third game.\r\n\n\r\n\"I didn't want the world, I didn't ask for too much,\" she said in one video. \"I was just asking for a decent, dignified living wage. What they did was legal, but it was immoral.\" Taylor also called for a boycott of Bayonetta 3, suggesting fans instead donated their money to charity.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/new-reports-dispute-bayonetta-voice-actors-4000-pay-offer-claims",
+          "publishedOn": "2022-10-18T20:57:35.000Z",
+          "wordCount": 4536,
+          "title": "New reports dispute Bayonetta voice actor's $4000 pay offer claims",
+          "imageUrl": "https://assets.reedpopcdn.com/bayonetta-3-enfin-la-date-de-sortie-sur-switch-une-nouveaute-incroyable-et-un-collector_62ced58a26ceb.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/bayonetta-3-enfin-la-date-de-sortie-sur-switch-une-nouveaute-incroyable-et-un-collector_62ced58a26ceb.jpeg"
+        },
+        {
           "id": "https://www.eurogamer.net/ea-gives-super-early-look-at-next-generation-sims-game-project-rene",
           "author": "Matt Wales",
           "description": "As part of its first ever Behind the Sims Summit Stream event, EA has given a \"super early\" look at its next Sims game, codenamed Project Rene, and shared a few future plans for The Sims 4.\r\n\n\r\nProject Rene - a name EA says it chose to reflect words like \"renewal, renaissance, rebirth\" - is described as a \"next generation Sims game and creative platform\" that will \"[reimagine] the Sims you know and love with new ways to play\".\r\n\n\r\nIt's said to be built on a foundation of \"charming sims, powerful tools, and meaningful stories\" that will stay true to previous Sims games while also \"pushing to evolve how those Sims think and behave, [pushing] tools even further when creating and customising, and [exploring] innovative ways to not only tell stories but to collaborate on those stories or creations with your closest friends across your favourite devices.\"\r\n \nRead more",
@@ -5720,36 +5730,6 @@
           "wordCount": 1304,
           "title": "SELinux Continues Path Of Deprecating Run-Time Disabling",
           "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/RADV-Vulkan-Mesh-Shaders",
-          "author": null,
-          "description": "Yesterday on the first day of the X.Org Developers' Conference (XDC 2022),  Timur Kristóf of Valve's open-source Linux GPU driver team presented on the Vulkan mesh shader support being worked on for RADV...",
-          "link": "https://www.phoronix.com/news/RADV-Vulkan-Mesh-Shaders",
-          "publishedOn": "2022-10-05T08:55:34.000Z",
-          "wordCount": 1276,
-          "title": "The State Of RADV's Vulkan Mesh Shading Support",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Linux-6.1-EXT4-Changes",
-          "author": null,
-          "description": "Ted Ts'o has submitted the EXT4 file-system updates for the Linux 6.1 kernel...",
-          "link": "https://www.phoronix.com/news/Linux-6.1-EXT4-Changes",
-          "publishedOn": "2022-10-05T08:43:09.000Z",
-          "wordCount": 1333,
-          "title": "EXT4 Rolls Up Some Fixes & Performance Optimizations For Linux 6.1",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.phoronix.com/news/Wireshark-4.0-Released",
-          "author": null,
-          "description": "Wireshark 4.0 has been released as the newest version of this leading open-source network protocol analyzer...",
-          "link": "https://www.phoronix.com/news/Wireshark-4.0-Released",
-          "publishedOn": "2022-10-05T08:36:17.000Z",
-          "wordCount": 1172,
-          "title": "Wireshark 4.0 Network Protocol Analyzer Released",
-          "imageUrl": null
         }
       ]
     },
@@ -5758,6 +5738,16 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/the-sims-5-is-in-early-development-shows-powerful-new-creative-tools",
+          "author": "Graham Smith",
+          "description": "The Sims 4 is now a free-to-play game - and yet somehow this isn't today's biggest The Sims news. That's because, during today's Sims Summit livestream, Maxis also announced that the next The Sims is in-development. Currently codenamed Project Rene, it's a few years away, although we saw some early footage of its creative tools in action.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/the-sims-5-is-in-early-development-shows-powerful-new-creative-tools",
+          "publishedOn": "2022-10-18T20:55:28.000Z",
+          "wordCount": 4746,
+          "title": "The Sims 5 is in early development, shows powerful new creative tools",
+          "imageUrl": "https://assets2.rockpapershotgun.com/the-sims-5-project-rene.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/the-sims-5-project-rene.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/overwatch-2-players-are-eulogising-out-of-action-hero-bastion-as-if-hed-died",
           "author": "CJ Wheeler",
@@ -7327,16 +7317,6 @@
           "wordCount": 5060,
           "title": "Hitman 3’s roguelike Freelancer mode delayed into 2023",
           "imageUrl": "https://assets2.rockpapershotgun.com/hitman-3-agent-47.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/hitman-3-agent-47.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/our-pax-west-videos-are-now-available-to-everyone",
-          "author": "Liam Richardson",
-          "description": "Last month, Rachel and I made the long pilgrammage to Seattle in order to attend PAX West 2022. While we were there we ran around the show floor with a bag full of loose camera equipment, stopping frequently to enthuse about cool video games we'd discovered or to interview someone interesting. At the time, all of these videos were only accessible to our premium supporters. However, as 30 days have passed since we originally shared them, we're now making them free for everyone to enjoy. Surprise!\nFrom an interview with the voice cast of Team Fortress 2 to a comprehensive tour of the show floor, there's something for everyone in this bundle of audio-visual delights. Scroll down to see what we got up to, and remember, if you like what you see please do consider funding content like this via our supporters programme. It truly means an awful lot.\nRead more",
-          "link": "https://www.rockpapershotgun.com/our-pax-west-videos-are-now-available-to-everyone",
-          "publishedOn": "2022-10-05T08:42:36.000Z",
-          "wordCount": 5556,
-          "title": "Our PAX West videos are now available to everyone",
-          "imageUrl": "https://assets2.rockpapershotgun.com/pax-west.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/pax-west.jpg"
         }
       ]
     },
@@ -13522,16 +13502,6 @@
           "wordCount": 1777,
           "title": "Snabbkollen - Kommer du spela Overwatch 2?",
           "imageUrl": "https://www.fz.se/artikel/og-image/291689"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291688",
-          "author": null,
-          "description": "Criterions nästa ska till slut visas upp.",
-          "link": "https://www.fz.se/artikel/291688-nasta-need-for-speed-avtacks-pa-torsdag",
-          "publishedOn": "2022-10-05T09:01:00.000Z",
-          "wordCount": 1786,
-          "title": "Nästa Need for Speed avtäcks på torsdag",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291688"
         }
       ]
     },
@@ -14209,16 +14179,6 @@
           "wordCount": 1875,
           "title": "Smarta hemmet-standarden Matter lanseras i första version",
           "imageUrl": "https://www.sweclockers.com/artikel/35027/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/35026",
-          "author": null,
-          "description": "Berättelsen om Elon Musks Twitter-köp tar ännu en vändning. Nu vill Musk hellre se att köpet går igenom istället för att låta det gå till rätten.",
-          "link": "https://www.sweclockers.com/artikel/35026-elon-musk-kovander-vill-kopa-twitter-igen",
-          "publishedOn": "2022-10-05T09:03:51.000Z",
-          "wordCount": 1849,
-          "title": "Elon Musk kovänder – vill köpa Twitter igen",
-          "imageUrl": "https://www.sweclockers.com/artikel/35026/og-image"
         }
       ]
     },
@@ -14487,6 +14447,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/18/apple_new_ipad_pro/",
+          "author": null,
+          "description": "<h4>Goodbye Lightning, hello USB-C and the usual two-year-old processor</h4> <p>Apple today announced an updated iPad Pro and a redesigned entry-level iPad.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/18/apple_new_ipad_pro/",
+          "publishedOn": "2022-10-18T21:22:05.000Z",
+          "wordCount": 1619,
+          "title": "Apple remembers it makes iPads, updates fondleslabs",
+          "imageUrl": "https://regmedia.co.uk/2022/10/18/10th-gen-apple-ipad.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/18/fully_undetectable_windows_powershell_backdoor/",
           "author": null,
@@ -17006,16 +16976,6 @@
           "wordCount": 1312,
           "title": "Waxworm's spit shows promise in puncturing plastic pollution",
           "imageUrl": "https://regmedia.co.uk/2022/10/04/shutterstock_wax_worm.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/arm_job_cuts_hit_uk/",
-          "author": null,
-          "description": "<h4>Anyone remember SoftBank's pledge to double headcount in Britain?</h4> <p>Arm has reportedly chopped around 20 percent of its headcount in the UK, unpicking some of the recruitment commitments parent SoftBank made to the government when it bought the chip designer.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/arm_job_cuts_hit_uk/",
-          "publishedOn": "2022-10-05T08:36:13.000Z",
-          "wordCount": 1500,
-          "title": "Arm job cuts hit UK harder than global rationalization",
-          "imageUrl": "https://regmedia.co.uk/2018/05/10/shutterstock_firing.jpg"
         }
       ]
     }
