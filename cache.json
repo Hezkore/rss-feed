@@ -135,26 +135,6 @@
             "type": "video/mp4"
           },
           "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/09/topgrade-cli-tool-ubuntu.png"
-        },
-        {
-          "id": "https://itsfoss.com/?p=99122",
-          "author": "Pranav Krishna",
-          "description": "Grub Customizer is a handy tool for customizing the grub configuration and changing its appearance. Learn to use it on Fedora Linux.",
-          "link": "https://itsfoss.com/grub-customizer-fedora/",
-          "publishedOn": "2022-10-05T05:09:00.000Z",
-          "wordCount": 7264,
-          "title": "Install and Use Grub Customizer in Fedora Linux",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/10/grub-fedora.png"
-        },
-        {
-          "id": "https://itsfoss.com/?p=102422",
-          "author": "Pratham Patel",
-          "description": "Hacktoberfest is the best place to give back to open-source projects. Here's everything you need to know about Hacktoberfest and how to participate in it..",
-          "link": "https://itsfoss.com/hacktoberfest-guide/",
-          "publishedOn": "2022-10-05T04:51:45.000Z",
-          "wordCount": 10107,
-          "title": "How to Contribute to Open Source in Hacktoberfest 2022 [Ultimate Guide]",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/10/contribute-to-hacktoberfest.png"
         }
       ]
     },
@@ -200,6 +180,26 @@
       "feedUrl": "http://www.gamingonlinux.com/news_rss.php",
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
+        {
+          "id": "https://www.gamingonlinux.com/2022/10/windows-compatibility-layer-wine-version-719-is-out-now/",
+          "author": "Liam Dawe",
+          "description": "Just before the weekend hit, a new development release of the Windows compatibility layer Wine went up with version 7.19.",
+          "link": "https://www.gamingonlinux.com/2022/10/windows-compatibility-layer-wine-version-719-is-out-now/",
+          "publishedOn": "2022-10-18T16:58:56.000Z",
+          "wordCount": 1046,
+          "title": "Windows compatibility layer Wine version 7.19 is out now",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/tagline_gallery/wine-generic.jpg"
+        },
+        {
+          "id": "https://www.gamingonlinux.com/2022/10/sweet-point-and-click-dino-adventure-zid-journey-is-up-on-kickstarter-with-demo/",
+          "author": "Liam Dawe",
+          "description": "Love your point and click adventures and want to see more? Zid Journey is a new one from the team behind Zniw Adventure.",
+          "link": "https://www.gamingonlinux.com/2022/10/sweet-point-and-click-dino-adventure-zid-journey-is-up-on-kickstarter-with-demo/",
+          "publishedOn": "2022-10-18T16:43:56.000Z",
+          "wordCount": 1181,
+          "title": "Sweet point and click dino adventure Zid Journey is up on Kickstarter with demo",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/857018107id21753gol.jpg"
+        },
         {
           "id": "https://www.gamingonlinux.com/2022/10/emudeck-20-makes-emulation-on-steam-deck-easier-than-ever/",
           "author": "Liam Dawe",
@@ -4552,6 +4552,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Git-2.38.1-Released",
+          "author": null,
+          "description": "Git 2.38.1 was just released along with updates to older versions, including the new point releases of v2.30.6, v2.31.5, v2.32.4, v2.33.5, v2.34.5, v2.35.5, v2.36.3, and v2.37.4. The big set of Git updates today is due to two more security issues coming to light...",
+          "link": "https://www.phoronix.com/news/Git-2.38.1-Released",
+          "publishedOn": "2022-10-18T17:15:00.000Z",
+          "wordCount": 1446,
+          "title": "Git 2.38.1 Released For Two New Security Vulnerabilities",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/review/caliptra",
           "author": null,
           "description": "AMD, Google, Microsoft, and NVIDIA have used this week's OCP Global Summit to announce Caliptra as their open specification for a silicon Root-of-Trust (ROT) to be found with future CPUs / SoCs, GPUs, NICs, SSDs, and other hardware components.",
@@ -7325,6 +7335,51 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "6KnAe8CAkhvFgfCrpdyk8P",
+          "author": null,
+          "description": "USB 4 with 80 Gbps is now official, along with new logos for the standard.",
+          "link": "https://www.tomshardware.com/news/usb-4-version-2-spec-now-official",
+          "publishedOn": "2022-10-18T16:55:53.000Z",
+          "wordCount": 22369,
+          "title": "USB 4's 80 Gbps Spec Released Alongside New Logos",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/vkQLWTdsaQ6Cw7S6wRsWHD.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/vkQLWTdsaQ6Cw7S6wRsWHD.png"
+        },
+        {
+          "id": "UZUSWnNkbSfWUeDKqnf5kR",
+          "author": null,
+          "description": "A report in a Russian business newspaper claims 40% of Chinese semiconductor products imported into Russia now fail",
+          "link": "https://www.tomshardware.com/news/chinese-microchips-40-percent-failure-for-russia",
+          "publishedOn": "2022-10-18T16:43:13.000Z",
+          "wordCount": 21980,
+          "title": "Russian Newspaper Reports 40% Failure Rate for Chinese Microchips",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/upgxKzpaEcuGeecdEFdVPX.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/upgxKzpaEcuGeecdEFdVPX.jpg"
+        },
+        {
+          "id": "UW9VF5cZPumgCFLnUBHWGS",
+          "author": null,
+          "description": "Samsung’s new LPDDR5X-8500 has been validated with Qualcomm’s Snapdragon platforms, bringing higher speeds and bandwidth to laptops, smartphones, and other applications.",
+          "link": "https://www.tomshardware.com/news/samsung-new-lpdrr5x-brings-8500-mts-memory-to-laptops",
+          "publishedOn": "2022-10-18T16:40:05.000Z",
+          "wordCount": 22037,
+          "title": "Samsung Announces LPDDR5X-8500 Memory",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/PRaVikd9jrKXJeg5bbpZdb.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/PRaVikd9jrKXJeg5bbpZdb.jpg"
+        },
         {
           "id": "oZihoGALjRGbupiVhanm8D",
           "author": null,
@@ -10132,6 +10187,26 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1890843",
+          "author": "Ars Staff",
+          "description": "Why Dolby Atmos in a car is more than a gimmick.",
+          "link": "https://arstechnica.com/?p=1890843",
+          "publishedOn": "2022-10-18T17:14:34.000Z",
+          "wordCount": 1758,
+          "title": "Mercedes-Benz’s new sound system could finally push music beyond stereo",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/22A0340_lr-source-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1890775",
+          "author": "Ashley Belanger",
+          "description": "Giphy is worried that GIFs becoming \"cringe\" will “dampen investor appetite.”",
+          "link": "https://arstechnica.com/?p=1890775",
+          "publishedOn": "2022-10-18T16:56:25.000Z",
+          "wordCount": 1531,
+          "title": "Meta grudgingly agrees to sell Giphy after admitting defeat in UK battle",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/GettyImages-1236896678-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1890771",
           "author": "Samuel Axon",
           "description": "Also: iPadOS 16 launches October 24.",
@@ -11868,6 +11943,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291825",
+          "author": null,
+          "description": "Tack för alla skratt.",
+          "link": "https://www.fz.se/artikel/291825-jan-rabson-rosten-bakom-leisure-suit-larry-har-gatt-bort",
+          "publishedOn": "2022-10-18T16:38:00.000Z",
+          "wordCount": 1660,
+          "title": "Jan Rabson, rösten bakom Leisure Suit Larry, har gått bort",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291825"
+        },
         {
           "id": "https://www.fz.se/artikel/291821",
           "author": null,
@@ -14064,16 +14149,6 @@
           "wordCount": 2093,
           "title": "Asus, Gigabyte och MSI presenterar moderkort med styrkrets B650",
           "imageUrl": "https://www.sweclockers.com/artikel/35022/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/35014",
-          "author": null,
-          "description": "Utöver Netflix-serie och expansion ska framtiden bjuda på renodlad uppföljare i form av projektet \"Orion\".",
-          "link": "https://www.sweclockers.com/artikel/35014-cd-projekt-red-bekraftar-uppfoljare-till-cyberpunk-2077",
-          "publishedOn": "2022-10-05T05:06:00.000Z",
-          "wordCount": 1691,
-          "title": "CD Projekt Red bekräftar uppföljare till Cyberpunk 2077",
-          "imageUrl": "https://www.sweclockers.com/artikel/35014/og-image"
         }
       ]
     },
@@ -14342,6 +14417,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/18/selfdriving_tech_values/",
+          "author": null,
+          "description": "<h4>LiDAR companies lead the pack, with valuations plummeting up to 99% since IPO</h4> <p>It's not a great time for self-driving tech startups. The ones that managed an IPO in the past two years have lost a combined 81 percent of their market value, dropping from a total of nearly $51 billion offering time to a mere $9 billion this month.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/18/selfdriving_tech_values/",
+          "publishedOn": "2022-10-18T17:15:14.000Z",
+          "wordCount": 1630,
+          "title": "Self-driving tech startup values crash 81% in 2 years",
+          "imageUrl": "https://regmedia.co.uk/2022/02/11/shutterstock_self_driving_car.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/18/meta_ocp_grand_teton/",
           "author": null,
@@ -16841,16 +16926,6 @@
           "wordCount": 1555,
           "title": "Boss of Chinese memory maker Yangtze departs for no obvious reason",
           "imageUrl": "https://regmedia.co.uk/2021/03/01/china.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/paige_thompson_sentence_doj_unhappy/",
-          "author": null,
-          "description": "<h4>‘This is not what justice looks like’ says US attorney of sanction for leak of 100 million records</h4> <p>Convicted wire fraud perpetrator Paige Thompson (aka \"erratic\") has been sentenced to time served and five years of probation with location and computer monitoring, prompting U.S. Attorney Nick Brown to label the sanctions unsatisfactory.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/paige_thompson_sentence_doj_unhappy/",
-          "publishedOn": "2022-10-05T05:31:06.000Z",
-          "wordCount": 1263,
-          "title": "DoJ ‘very disappointed’ with probation sentence for Capital One hacker Paige Thompson",
-          "imageUrl": "https://regmedia.co.uk/2022/04/22/doj_shutterstock.jpg"
         }
       ]
     }
