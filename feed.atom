@@ -2,10 +2,145 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-19T09:36:13.502Z</updated>
+    <updated>2022-10-19T10:35:25.611Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FIFA? Nah, give me more of Pixel Cup Soccer]]></title>
+        <id>https://www.gamingonlinux.com/2022/10/fifa-nah-give-me-more-of-pixel-cup-soccer/</id>
+        <link href="https://www.gamingonlinux.com/2022/10/fifa-nah-give-me-more-of-pixel-cup-soccer/"/>
+        <updated>2022-10-19T10:33:30.000Z</updated>
+        <summary type="html"><![CDATA[Need more Football in your life? Yes, I said Football, get over it. Pixel Cup Soccer - Ultimate Edition is officially out now along with Native Linux support.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FreeBSD comes to Amazon's lightweight hypervisor]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/19/freebsd_comes_to_amazons_lightweight/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/19/freebsd_comes_to_amazons_lightweight/"/>
+        <updated>2022-10-19T10:32:11.000Z</updated>
+        <summary type="html"><![CDATA[<h4>"Serverless" microVMs further blur the line between containers and virtual machines</h4> <p>The FreeBSD developer who brought FreeBSD to Amazon EC² has now got it working on the company's lightweight Firecracker hypervisor.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Petter Reinholdtsen: Managing and using ONVIF IP cameras with Linux]]></title>
+        <id>https://people.skolelinux.org/pere/blog/Managing_and_using_ONVIF_IP_cameras_with_Linux.html</id>
+        <link href="https://people.skolelinux.org/pere/blog/Managing_and_using_ONVIF_IP_cameras_with_Linux.html"/>
+        <updated>2022-10-19T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently I have been looking at how to control and collect data
+from a handful IP cameras using Linux.  I both wanted to change their
+settings and to make their imagery available via a free software
+service under my control.  Here is a summary of the tools I found.
+First I had to identify the cameras and their protocols.  As far as
+I could tell, they were using some SOAP looking protocol and their
+internal web server seem to only work with Microsoft Internet Explorer
+with some proprietary binary plugin, which in these days of course is
+a security disaster and also made it impossible for me to use the
+camera web interface.  Luckily I discovered that the SOAP looking
+protocol is actually following the
+ONVIF specification, which seem to be supported by a lot of IP
+cameras these days.
+Once the…]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LLVM Begins Preparing For Intel Sierra Forest & Grand Ridge CPUs]]></title>
+        <id>https://www.phoronix.com/news/LLVM-MSRLIST-WRMSRNS</id>
+        <link href="https://www.phoronix.com/news/LLVM-MSRLIST-WRMSRNS"/>
+        <updated>2022-10-19T10:12:45.000Z</updated>
+        <summary type="html"><![CDATA[Last week saw Intel sending out new GCC compiler patches for adding the "Sierra Forest" CPU target and the number of new x86_64 instructions it's adding. Those GCC patches follow Intel publishing an updated programming reference manual where they detailed these new instructions coming for Sierra Forest Xeon CPUs as well as Grand Ridge. Now on the LLVM compiler side, they too have begun landing new patches for these new Intel instructions...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call of Duty: Modern Warfare 2 PC specs detailed]]></title>
+        <id>https://www.eurogamer.net/call-of-duty-modern-warfare-2-pc-specs-detailed</id>
+        <link href="https://www.eurogamer.net/call-of-duty-modern-warfare-2-pc-specs-detailed"/>
+        <updated>2022-10-19T10:07:16.000Z</updated>
+        <summary type="html"><![CDATA[Ahead of its imminent release, the Call of Duty: Modern Warfare 2 team has detailed its all-important PC specs.
+
+
+In addition to these specs, Infinity Ward has also announced those who pre-ordered the game digitally will be able to get their preloads on the go from today (19th October). This will in turn offer up those eight days of early campaign access announced in August, which will go live tomorrow.
+
+
+Meanwhile, preloading for the full release (which, unlike the early access mentioned above, will include the multiplayer and Special Ops elements) can begin from the 26th October ahead of the game's official launch on the 27th/28th, depending on where you are playing.
+ 
+Read more]]></summary>
+        <author>
+            <name>Victoria Kennedy</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Callisto Protocol developer confirms 60 FPS performance mode]]></title>
+        <id>https://www.eurogamer.net/callisto-protocol-developer-confirms-60fps-performance-mode</id>
+        <link href="https://www.eurogamer.net/callisto-protocol-developer-confirms-60fps-performance-mode"/>
+        <updated>2022-10-19T10:01:06.000Z</updated>
+        <summary type="html"><![CDATA[The Callisto Protocol publisher Krafton has confirmed a 60 FPS performance mode for the game, just days after Gotham Knights hit the headlines for not having one on consoles. 
+
+
+Responding last night to some confusion over the game's release date, the official Callisto Protocol account on Twitter reconfirmed the space survival horror's 2nd December launch. 
+
+
+"And yes, we'll have a 60 FPS performance mode," the tweet added. 
+ 
+Read more]]></summary>
+        <author>
+            <name>Tom Phillips</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Snabbkollen - Hur viktig är frameraten i spel?]]></title>
+        <id>https://www.fz.se/artikel/291831</id>
+        <link href="https://www.fz.se/artikel/291831-snabbkollen-hur-viktig-ar-frameraten-i-spel"/>
+        <updated>2022-10-19T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Rösta - mycket, medel, knappt alls?]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Sims 4 base game is now free to play on all platforms, how to claim]]></title>
+        <id>https://www.vg247.com/the-sims-4-now-free-to-play</id>
+        <link href="https://www.vg247.com/the-sims-4-now-free-to-play"/>
+        <updated>2022-10-19T09:50:44.000Z</updated>
+        <summary type="html"><![CDATA[It’s been almost a decade of The Sims 4, and most fans are yet to tire of the simulation game. During the Behind the Sims Summit on October 18, the title went free to play across all platforms. Now, The Sims 4 has had its fair share of free weekends or ‘free on Origin’ offers, but this appears to be it for the game.
+Developer, Maxis, didn’t leave us with just that, though. They also revealed what’s next for the series and gave fans a brief glimpse at Project Rene; the next step for The Sims’ universe. Project Rene is a few years off yet, so in the meantime, Maxis has appeased the masses by finally making The Sims 4 free to play.
+So, how do you go about claiming The Sims 4 now that it’s free? Do you have to install it through Origin? Fortunately for you, there are no requirements like that this time around.
+ Read more]]></summary>
+        <author>
+            <name>Kelsey Raynor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EA reveals first look at what’s next for The Sims with ‘Project Rene’]]></title>
+        <id>https://www.vg247.com/whats-next-for-the-sims-project-rene</id>
+        <link href="https://www.vg247.com/whats-next-for-the-sims-project-rene"/>
+        <updated>2022-10-19T09:50:37.000Z</updated>
+        <summary type="html"><![CDATA[It’s been eight years of The Sims 4, and it’s endless amount of packs and expansions. Given this amount of time, fans of the series were beginning to ask what was next for their favourite game.
+At long last, EA has finally revealed a teaser for the future of The Sims series, dubbed ‘Project Rene’ rather than The Sims 5; that said, this is likely what will become the fifth mainline Sims instalment, but there’s no telling if that’s actually the case just yet. By the looks of things, Project Rene still has a long while to go before it’s finally available to launch.
+Developer, Maxis, shared its plans during the Behind the Sims Summit, which detailed what’s next for the series and how the developer plans to find new ways for players to both experiment and express themselves.
+ Read more]]></summary>
+        <author>
+            <name>Kelsey Raynor</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GB Operator is a fun gadget for Game Boy fans tested on Steam Deck]]></title>
+        <id>https://www.gamingonlinux.com/2022/10/gb-operator-is-a-fun-gadget-for-game-boy-fans-tested-on-steam-deck/</id>
+        <link href="https://www.gamingonlinux.com/2022/10/gb-operator-is-a-fun-gadget-for-game-boy-fans-tested-on-steam-deck/"/>
+        <updated>2022-10-19T09:46:19.000Z</updated>
+        <summary type="html"><![CDATA[Recently I mentioned GB Operator a little USB gadget that reads cartridges of the Game Boy, Game Boy Colour and Game Boy Advance. After giving it a go myself, I'm impressed and a little in love.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intel's Linux Vulkan Driver Lands Workaround For HITMAN 3]]></title>
         <id>https://www.phoronix.com/news/Intel-Graphics-Fix-HITMAN-3</id>
@@ -24,6 +159,16 @@
         <summary type="html"><![CDATA[<h4>Inflation and energy prices force consumers to prioritize household bills over shiny electronic devices</h4> <p>The bad news juggernaut just keeps on rolling for devices maker, with global smartphone shipments for calendar Q3 falling to their lowest quarterly rate in eight years.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Utforskarens flikar anländer till Windows 11]]></title>
+        <id>https://www.sweclockers.com/artikel/35095</id>
+        <link href="https://www.sweclockers.com/artikel/35095-utforskarens-flikar-anlander-till-windows-11"/>
+        <updated>2022-10-19T09:27:07.000Z</updated>
+        <summary type="html"><![CDATA[Efter lång väntan är flikarna slutligen introducerade. De sällskapas av uppdaterat aktivitetsfält och snabbare åtkomst till aktivitetshanteraren.]]></summary>
+        <author>
+            <name>SweClockers</name>
         </author>
     </entry>
     <entry>
@@ -18128,73 +18273,6 @@ Maintaining completely separate local git repositories for all four JDK vers…]
         <summary type="html"><![CDATA[<h4>And note to his crime pals – he said he would sing like a canary</h4> <p>An ex-Canadian government worker who extorted tens of millions of dollars from organizations worldwide using the NetWalker ransomware has been sent down for 20 years.…</p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dirk Eddelbuettel: RVowpalWabbit 0.0.17: Maintenance]]></title>
-        <id>http://dirk.eddelbuettel.com/blog/2022/10/05#rvowpalwabbit_0.0.17</id>
-        <link href="http://dirk.eddelbuettel.com/blog/2022/10/05#rvowpalwabbit_0.0.17"/>
-        <updated>2022-10-05T22:13:00.000Z</updated>
-        <summary type="html"><![CDATA[Almost to the week one year since the last maintenance release, we can announce another maintenance release, now at version 0.0.17, of the RVowpalWabbit package. The CRAN maintainers kindly and politly pointed out that I was (cough, cough) apparently the last maintainer who had packages that set StagedInstall: no. Guilty as charged.
-RVowpalWabbit is one the two packages; the other one will hopefully follow ‘shortly’. And while I long suspected linking aspects to drive this (this is an old package, newer R packaging of the awesome VowpalWabbit is in rvw, I was plain wrong here. The cause was an absolute path to an included dataset, computed in an example, which then gets serialized. As Tomas Kalibera suggested, we can replace the constant with a function and all is well. So here is 0.0.17.
-As noted before, there is a newer package rvw based on the excellent GSoC 2018 and beyond work by Ivan Pavlov (mentored by James and myself) so if you are into VowpalWabbit from R go check it out.
-CRANberries provides a summary of changes to the previous version. More information is on the RVowpalWabbit page. Issues and bugreports should go to the GitHub issue tracker.
-If you like this or other open-source work I do, you can now sponsor me at GitHub.
-Dirk Eddelbuettel originated on his Thinking inside the box blog. Please report excessive re-aggregation in third-party for-profit settings.]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo airing Animal Crossing and Splatoon 3 concerts online next week]]></title>
-        <id>https://www.eurogamer.net/nintendo-airing-animal-crossing-and-splatoon-3-concerts-online-next-week</id>
-        <link href="https://www.eurogamer.net/nintendo-airing-animal-crossing-and-splatoon-3-concerts-online-next-week"/>
-        <updated>2022-10-05T22:08:15.000Z</updated>
-        <summary type="html"><![CDATA[Nintendo has confirmed it'll be broadcasting two Japanese concerts - one for Animal Crossing and another for Splatoon 3 - online next week for viewers around the world.
-
-
-The concerts are part of Nintendo Live 2022, a two-day event being held at Tokyo Big Sight from 8-9th October, promising live music, stage activities, game competitions, and more.
-
-
-Nintendo UK confirmed it would be broadcasting the Animal Crossing and Splatoon 3 shows - titled DJ K.K. Paradise Mix!! and Deep Cut respectively - in a tweet earlier today.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Did an NYU professor get fired because students hate organic chem?]]></title>
-        <id>https://arstechnica.com/?p=1887214</id>
-        <link href="https://arstechnica.com/?p=1887214"/>
-        <updated>2022-10-05T22:07:12.000Z</updated>
-        <summary type="html"><![CDATA[There's a lot to the recent firing, most of it centered on how to best serve students.]]></summary>
-        <author>
-            <name>John Timmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Er, Musk's trial hasn't stopped, no matter what he told Twitter, says judge]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/05/musktwitter_twitter_trial/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/05/musktwitter_twitter_trial/"/>
-        <updated>2022-10-05T21:58:08.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Get ready for that deposition tomorrow, Elon</h4> <p>Elon Musk's decision this week to go ahead with his Twitter purchase – after months of trying to wriggle out of the deal – hasn't automatically stopped his upcoming trial, the judge overseeing the case said today.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get the Dell S2721DGFA 27-in 1440p 165Hz gaming monitor for £268]]></title>
-        <id>https://www.rockpapershotgun.com/get-the-dell-s2721dgfa-27-in-1440p-165hz-gaming-monitor-for-268</id>
-        <link href="https://www.rockpapershotgun.com/get-the-dell-s2721dgfa-27-in-1440p-165hz-gaming-monitor-for-268"/>
-        <updated>2022-10-05T21:49:53.000Z</updated>
-        <summary type="html"><![CDATA[Over at Eurogamer, I kind of have a thing for LG's Fast IPS screens. This tech combines the best feature of TN panels - their incredibly fast pixel response times - with the traditional advantages of an IPS screen, namely gorgeous colours and wide viewing angles. These screens pop up in LG's 27GL850 and 27GL83A monitors, but are also used in Dell's even better S2721DGFA - and it's this monitor that's on sale today. With a code available here, you can take an extra £30 off a model that's already seen an £80 discount, dropping the price from £380 to £268 - an incredible deal for a monitor of this specification. I used the code $6ZZXZWLF0WV7D, but your code is likely to be different!
-So what is this specification? Well, the S2721DGFA exists right at the sweet spot for gaming monitors too, with a 27-inch screen size, 2560x1440 resolution and 165Hz refresh rate. This spec is good because it's not too hard to drive, even with a mid-range gaming PC, but you still get a noticeable increase in clarity and fluidity compared to your standard 1080p 60Hz monitors. And with the Fast IPS screen that I was talking about earlier, you have a monitor that's equally well-suited to fast-paced, competitive shooters as it is slower-paced and more atmospheric games from a wide range of genres.
-
-I have gone on about the Dell S2721DGFA a few times now, so I'll link to those previous posts so you can find out a little bit more about this monitor - and see how much it used to cost too! Suffice it to say, if you have a look at some reviews you'll see that I'm far from the only fan of this model, so I hope this deal is useful to you! Thanks for joining me once again and I'll see you tomorrow for more deals. 
- Read more]]></summary>
-        <author>
-            <name>Will Judd</name>
         </author>
     </entry>
 </feed>
