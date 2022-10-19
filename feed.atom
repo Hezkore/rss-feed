@@ -2,10 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-19T16:47:00.470Z</updated>
+    <updated>2022-10-19T17:50:26.780Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SpaceX's in-flight Wi-Fi, Starlink Aviation, takes to the skies]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/19/starlink_aviation/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/19/starlink_aviation/"/>
+        <updated>2022-10-19T17:30:14.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Oh c'mon! Was it too much to expect Skynet?</h4> <p>SpaceX's in-flight internet service for airplanes now has a name – Starlink Aviation.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix ska få bukt med kontodelning – breda insatser efter årsskiftet]]></title>
+        <id>https://www.sweclockers.com/artikel/35097</id>
+        <link href="https://www.sweclockers.com/artikel/35097-netflix-ska-fa-bukt-med-kontodelning-breda-insatser-efter-arsskiftet"/>
+        <updated>2022-10-19T17:22:11.000Z</updated>
+        <summary type="html"><![CDATA[Efter en testrunda i Latinamerika förbereder streamingjätten insatser mot kontodelning med hjälp av underkonton och profilöverföring.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A new Beta of game manager Lutris fixes up Origin, Epic Games and Ubisoft Connect]]></title>
+        <id>https://www.gamingonlinux.com/2022/10/a-new-beta-of-game-manager-lutris-fixes-up-origin-epic-games-and-ubisoft-connect/</id>
+        <link href="https://www.gamingonlinux.com/2022/10/a-new-beta-of-game-manager-lutris-fixes-up-origin-epic-games-and-ubisoft-connect/"/>
+        <updated>2022-10-19T17:10:07.000Z</updated>
+        <summary type="html"><![CDATA[Lutris, the open source game manager that can help you keep together all your games from various services on Linux and Steam Deck has a new Beta release fixing some big issues.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call Depth Tracking Aligning For Linux 6.2 To Lessen Mitigation Performance Hit For Intel Skylake]]></title>
+        <id>https://www.phoronix.com/news/Call-Depth-Tracking-6.2</id>
+        <link href="https://www.phoronix.com/news/Call-Depth-Tracking-6.2"/>
+        <updated>2022-10-19T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While the Linux 6.1 merge window just passed and the "Call Depth Tracking" patches have been in development the past few months, it looks like that for the Linux 6.2 kernel is where that alternative mitigation technique will be introduced for helping offset some of the significant performance regressions incurred for Intel Skylake era processors as a result of recent CPU security vulnerability mitigations...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[De rekommenderade systemkraven för Gotham Knights släppta]]></title>
+        <id>https://www.fz.se/artikel/291837</id>
+        <link href="https://www.fz.se/artikel/291837-de-rekommenderade-systemkraven-for-gotham-knights-slappta"/>
+        <updated>2022-10-19T16:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Så dags nu.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Millennials, Gen Z actually suck at workplace security]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/19/millennials_gen_z/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/19/millennials_gen_z/"/>
+        <updated>2022-10-19T16:45:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>OK, boomer – how do I turn off cookies?</h4> <p>It's just as you suspected: your Gen Z and millennial coworkers just aren't taking cybersecurity at work seriously enough. …</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Team Group Launches Dual CPU and SSD Liquid Cooler]]></title>
+        <id>yQerVvvhjfs6BEHhhjMUcL</id>
+        <link href="https://www.tomshardware.com/news/team-group-launches-dual-cpu-and-ssd-liquid-cooler"/>
+        <updated>2022-10-19T16:40:56.000Z</updated>
+        <summary type="html"><![CDATA[This $399 AiO should comfortably keep your new Raptor Lake or Raphael CPU chilled, as well as being ready for hot high-performance SSDs.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Overclock Your Graphics Card]]></title>
+        <id>WrJCnEXH2QMnCKf3cVH6WV</id>
+        <link href="https://www.tomshardware.com/how-to/overclock-graphics-card-gpu"/>
+        <updated>2022-10-19T16:37:10.000Z</updated>
+        <summary type="html"><![CDATA[Our guide for how to overclock your graphics card covers the software you need to use, the various ways you can overclock, and the expected gains. If you're looking to tune your GPU to improve performance, you've come to the right place.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starlink unveils airplane service—Musk says it’s like using Internet at home]]></title>
+        <id>https://arstechnica.com/?p=1891136</id>
+        <link href="https://arstechnica.com/?p=1891136"/>
+        <updated>2022-10-19T16:34:54.000Z</updated>
+        <summary type="html"><![CDATA[Airplane operators can reserve now for Starlink deliveries in mid-2023.]]></summary>
+        <author>
+            <name>Jon Brodkin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Watch Live: Silent Hill returns tonight]]></title>
         <id>https://www.eurogamer.net/watch-live-silent-hill-returns-tonight</id>
@@ -69,6 +159,16 @@ Sony's existing marketing deal with Call of Duty sees the PlayStation branding u
         <summary type="html"><![CDATA[Intel is further detailing its next-gen Thunderbolt spec, which will support 80 GBps transfers and up to 120 GBps for video.]]></summary>
         <author>
             <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thunderbolt’s next spec triples bandwidth to 120Gbps—with a catch]]></title>
+        <id>https://arstechnica.com/?p=1890408</id>
+        <link href="https://arstechnica.com/?p=1890408"/>
+        <updated>2022-10-19T16:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Next-gen Thunderbolt will auto-switch from 80 to 120Gbps with fancy monitors.]]></summary>
+        <author>
+            <name>Scharon Harding</name>
         </author>
     </entry>
     <entry>
@@ -18790,16 +18890,6 @@ Maintaining completely separate local git repositories for all four JDK vers…]
         <summary type="html"><![CDATA[I en intervju berättar Playstation Studios-chefen att live service-spel i framtiden kan komma att släppas på flera plattformar samtidigt.]]></summary>
         <author>
             <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japan testing probe to land on Martian moon Phobos, bring a chunk of it back to Earth]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/06/japans_martian_moons_exploration_mission/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/06/japans_martian_moons_exploration_mission/"/>
-        <updated>2022-10-06T05:31:09.000Z</updated>
-        <summary type="html"><![CDATA[<h4>COVID hiccups be damned, work on instruments and connectivity is under way and space agency JAXA is determined to hit launch window</h4> <p>The world’s first mission to collect samples from Phobos, one of two moons orbiting Mars, has progressed to testing its bus system and mission instruments.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>

@@ -181,6 +181,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/10/a-new-beta-of-game-manager-lutris-fixes-up-origin-epic-games-and-ubisoft-connect/",
+          "author": "Liam Dawe",
+          "description": "Lutris, the open source game manager that can help you keep together all your games from various services on Linux and Steam Deck has a new Beta release fixing some big issues.",
+          "link": "https://www.gamingonlinux.com/2022/10/a-new-beta-of-game-manager-lutris-fixes-up-origin-epic-games-and-ubisoft-connect/",
+          "publishedOn": "2022-10-19T17:10:07.000Z",
+          "wordCount": 1111,
+          "title": "A new Beta of game manager Lutris fixes up Origin, Epic Games and Ubisoft Connect",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1263653470id21759gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/10/lucy-dreaming-is-a-quality-point-and-click-adventure-with-great-british-humour/",
           "author": "Liam Dawe",
           "description": "You know a game is going to be good, when you're already chuckling away in the first few minutes. Point and click adventure Lucy Dreaming is out now.",
@@ -4532,6 +4542,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Call-Depth-Tracking-6.2",
+          "author": null,
+          "description": "While the Linux 6.1 merge window just passed and the \"Call Depth Tracking\" patches have been in development the past few months, it looks like that for the Linux 6.2 kernel is where that alternative mitigation technique will be introduced for helping offset some of the significant performance regressions incurred for Intel Skylake era processors as a result of recent CPU security vulnerability mitigations...",
+          "link": "https://www.phoronix.com/news/Call-Depth-Tracking-6.2",
+          "publishedOn": "2022-10-19T17:00:00.000Z",
+          "wordCount": 1763,
+          "title": "Call Depth Tracking Aligning For Linux 6.2 To Lessen Mitigation Performance Hit For Intel Skylake",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/systemd-252-rc2",
           "author": null,
           "description": "Two weeks ago was the release of systemd 252-rc1 with introducing the new systemd-measure command, a \"support-ended\" taint flag for OS images detected past their end-of-support date, and a wide variety of other changes and feature additions. Systemd 252-rc2 is now available for additional testing with various fixes plus a few more additions...",
@@ -7286,6 +7306,36 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "yQerVvvhjfs6BEHhhjMUcL",
+          "author": null,
+          "description": "This $399 AiO should comfortably keep your new Raptor Lake or Raphael CPU chilled, as well as being ready for hot high-performance SSDs.",
+          "link": "https://www.tomshardware.com/news/team-group-launches-dual-cpu-and-ssd-liquid-cooler",
+          "publishedOn": "2022-10-19T16:40:56.000Z",
+          "wordCount": 22082,
+          "title": "Team Group Launches Dual CPU and SSD Liquid Cooler",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/puegxcmUTxz6WD9JfRg4vi.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/puegxcmUTxz6WD9JfRg4vi.jpg"
+        },
+        {
+          "id": "WrJCnEXH2QMnCKf3cVH6WV",
+          "author": null,
+          "description": "Our guide for how to overclock your graphics card covers the software you need to use, the various ways you can overclock, and the expected gains. If you're looking to tune your GPU to improve performance, you've come to the right place.",
+          "link": "https://www.tomshardware.com/how-to/overclock-graphics-card-gpu",
+          "publishedOn": "2022-10-19T16:37:10.000Z",
+          "wordCount": 27612,
+          "title": "How to Overclock Your Graphics Card",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/rJLegTMA6AmBgHZA3ZJ5FA.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/rJLegTMA6AmBgHZA3ZJ5FA.jpg"
+        },
+        {
           "id": "Ra5R4EFkB8uj2DjLEm6BjH",
           "author": null,
           "description": "ASML sees record demand for chip production equipment despite U.S. sanctions against Chinese chip sector.",
@@ -10007,6 +10057,26 @@
       "siteUrl": "https://arstechnica.com",
       "articles": [
         {
+          "id": "https://arstechnica.com/?p=1891136",
+          "author": "Jon Brodkin",
+          "description": "Airplane operators can reserve now for Starlink deliveries in mid-2023.",
+          "link": "https://arstechnica.com/?p=1891136",
+          "publishedOn": "2022-10-19T16:34:54.000Z",
+          "wordCount": 1700,
+          "title": "Starlink unveils airplane service—Musk says it’s like using Internet at home",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/starlink-aviation-2-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1890408",
+          "author": "Scharon Harding",
+          "description": "Next-gen Thunderbolt will auto-switch from 80 to 120Gbps with fancy monitors.",
+          "link": "https://arstechnica.com/?p=1890408",
+          "publishedOn": "2022-10-19T16:00:10.000Z",
+          "wordCount": 1808,
+          "title": "Thunderbolt’s next spec triples bandwidth to 120Gbps—with a catch",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/GettyImages-1243730575-760x380.jpg"
+        },
+        {
           "id": "https://arstechnica.com/?p=1891044",
           "author": "Doug Johnson",
           "description": "Study of one wreck supports the idea that its 50,000 peers may leak pollutants.",
@@ -11694,6 +11764,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291837",
+          "author": null,
+          "description": "Så dags nu.",
+          "link": "https://www.fz.se/artikel/291837-de-rekommenderade-systemkraven-for-gotham-knights-slappta",
+          "publishedOn": "2022-10-19T16:58:00.000Z",
+          "wordCount": 2000,
+          "title": "De rekommenderade systemkraven för Gotham Knights släppta",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291837"
+        },
+        {
           "id": "https://www.fz.se/artikel/291835",
           "author": null,
           "description": "Kan komma att serveras styckvis.",
@@ -13171,6 +13251,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/35097",
+          "author": null,
+          "description": "Efter en testrunda i Latinamerika förbereder streamingjätten insatser mot kontodelning med hjälp av underkonton och profilöverföring.",
+          "link": "https://www.sweclockers.com/artikel/35097-netflix-ska-fa-bukt-med-kontodelning-breda-insatser-efter-arsskiftet",
+          "publishedOn": "2022-10-19T17:22:11.000Z",
+          "wordCount": 1678,
+          "title": "Netflix ska få bukt med kontodelning – breda insatser efter årsskiftet",
+          "imageUrl": "https://www.sweclockers.com/artikel/35097/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/35096",
           "author": null,
           "description": "Är uppskalningsteknikerna det bästa sedan skivat bröd? Vilka typer har du testat, och finns det någon favorit?",
@@ -14137,6 +14227,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/19/starlink_aviation/",
+          "author": null,
+          "description": "<h4>Oh c'mon! Was it too much to expect Skynet?</h4> <p>SpaceX's in-flight internet service for airplanes now has a name – Starlink Aviation.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/19/starlink_aviation/",
+          "publishedOn": "2022-10-19T17:30:14.000Z",
+          "wordCount": 1334,
+          "title": "SpaceX's in-flight Wi-Fi, Starlink Aviation, takes to the skies",
+          "imageUrl": "https://regmedia.co.uk/2022/10/19/starlinkaviation.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/19/millennials_gen_z/",
+          "author": null,
+          "description": "<h4>OK, boomer – how do I turn off cookies?</h4> <p>It's just as you suspected: your Gen Z and millennial coworkers just aren't taking cybersecurity at work seriously enough. …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/19/millennials_gen_z/",
+          "publishedOn": "2022-10-19T16:45:10.000Z",
+          "wordCount": 1523,
+          "title": "Millennials, Gen Z actually suck at workplace security",
+          "imageUrl": "https://regmedia.co.uk/2022/10/19/hipster_laptop_gen_z.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/19/intel_nextgen_thunderbolt/",
           "author": null,
@@ -16646,16 +16756,6 @@
           "wordCount": 1141,
           "title": "Splunk alleges source code theft by former employee who started rival company",
           "imageUrl": "https://regmedia.co.uk/2022/10/06/shutterstock_scales_of_justice_digital.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/06/japans_martian_moons_exploration_mission/",
-          "author": null,
-          "description": "<h4>COVID hiccups be damned, work on instruments and connectivity is under way and space agency JAXA is determined to hit launch window</h4> <p>The world’s first mission to collect samples from Phobos, one of two moons orbiting Mars, has progressed to testing its bus system and mission instruments.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/06/japans_martian_moons_exploration_mission/",
-          "publishedOn": "2022-10-06T05:31:09.000Z",
-          "wordCount": 1381,
-          "title": "Japan testing probe to land on Martian moon Phobos, bring a chunk of it back to Earth",
-          "imageUrl": "https://regmedia.co.uk/2022/03/01/mars_shutterstock.jpg"
         }
       ]
     }
