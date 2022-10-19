@@ -7136,6 +7136,21 @@
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
         {
+          "id": "chEUp2Cm7NiEie2vcqgMvf",
+          "author": null,
+          "description": "Netflix reckons Stadia was a technical success, but the business model was wrong. It’s new games studio is headed up by an ex-Overwatch executive producer.",
+          "link": "https://www.tomshardware.com/news/netflix-vp-confirms-cloud-gaming-ambitions",
+          "publishedOn": "2022-10-19T13:07:32.000Z",
+          "wordCount": 21980,
+          "title": "Netflix VP Confirms Cloud Gaming Ambitions",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/JNL5xWdwdyyo7ZzRgxZG4N.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/JNL5xWdwdyyo7ZzRgxZG4N.jpg"
+        },
+        {
           "id": "SRgZhcU2gtMHYv6453AgDD",
           "author": null,
           "description": "The Lenovo ThinkPad Z16 is a modern business laptop with a luxury design and AMD processors, but it could use more ports and is expensive for what you get.",
@@ -9796,6 +9811,26 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1891081",
+          "author": "The Conversation",
+          "description": "And it is also raising questions about innate grammar.",
+          "link": "https://arstechnica.com/?p=1891081",
+          "publishedOn": "2022-10-19T13:54:52.000Z",
+          "wordCount": 2030,
+          "title": "AI is changing scientists’ understanding of language learning",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/parent-child-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1891063",
+          "author": "Ars Staff",
+          "description": "UK-based Wejo unveils new operating system to \"democratize\" AV data.",
+          "link": "https://arstechnica.com/?p=1891063",
+          "publishedOn": "2022-10-19T13:39:08.000Z",
+          "wordCount": 1590,
+          "title": "“Data in the Desert” hints at the future of autonomous vehicles",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/97437F2C-4589-4C94-87F0-731658990726-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1890307",
           "author": "John Timmer",
@@ -13768,6 +13803,16 @@
       "siteUrl": "https://tapas.io/series/3346",
       "articles": [
         {
+          "id": "https://tapas.io/episode/2668158",
+          "author": "J. L. Westover",
+          "description": "",
+          "link": "https://tapas.io/episode/2668158",
+          "publishedOn": "2022-10-19T13:16:04.000Z",
+          "wordCount": null,
+          "title": "No Laughing Matter",
+          "imageUrl": null
+        },
+        {
           "id": "https://tapas.io/episode/2663929",
           "author": "J. L. Westover",
           "description": "",
@@ -13877,6 +13922,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/19/gartern_sees_enterprise_it_as/",
+          "author": null,
+          "description": "<h4>Tech dept still wearing halo from saving companies in lockdown... plus cloud committers 'can't cut that spending'</h4> <p>Despite the abundance of geopolitical uncertainty and darkening economic clouds, global IT spending is projected to hit $4.6 trillion in 2023, up 5.1 percent from 2022, according to Gartner's latest forecast.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/19/gartern_sees_enterprise_it_as/",
+          "publishedOn": "2022-10-19T13:45:09.000Z",
+          "wordCount": 1618,
+          "title": "Gartner thinks enterprise IT will be immune to recession",
+          "imageUrl": "https://regmedia.co.uk/2022/10/18/shutterstock_halo.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/19/azure_service_fabric_vulnerability/",
+          "author": null,
+          "description": "<h4>Orca Security disclosed the bug, and older versions remain vulnerable</h4> <p>A proof-of-concept exploit has been published detailing a spoofing vulnerability in Microsoft Azure Service Fabric. The flaw allows attackers to gain full administrator permissions and then perform any manner of malicious activity.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/19/azure_service_fabric_vulnerability/",
+          "publishedOn": "2022-10-19T13:05:14.000Z",
+          "wordCount": 1861,
+          "title": "Tear in Microsoft Azure Service Fabric can give attackers full admin privileges",
+          "imageUrl": "https://regmedia.co.uk/2022/10/19/shutterstock_keyboard.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/19/cisco_latest_switch_packs_32/",
           "author": null,

@@ -2,10 +2,69 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-19T12:59:42.340Z</updated>
+    <updated>2022-10-19T14:04:53.448Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AI is changing scientists’ understanding of language learning]]></title>
+        <id>https://arstechnica.com/?p=1891081</id>
+        <link href="https://arstechnica.com/?p=1891081"/>
+        <updated>2022-10-19T13:54:52.000Z</updated>
+        <summary type="html"><![CDATA[And it is also raising questions about innate grammar.]]></summary>
+        <author>
+            <name>The Conversation</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gartner thinks enterprise IT will be immune to recession]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/19/gartern_sees_enterprise_it_as/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/19/gartern_sees_enterprise_it_as/"/>
+        <updated>2022-10-19T13:45:09.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Tech dept still wearing halo from saving companies in lockdown... plus cloud committers 'can't cut that spending'</h4> <p>Despite the abundance of geopolitical uncertainty and darkening economic clouds, global IT spending is projected to hit $4.6 trillion in 2023, up 5.1 percent from 2022, according to Gartner's latest forecast.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“Data in the Desert” hints at the future of autonomous vehicles]]></title>
+        <id>https://arstechnica.com/?p=1891063</id>
+        <link href="https://arstechnica.com/?p=1891063"/>
+        <updated>2022-10-19T13:39:08.000Z</updated>
+        <summary type="html"><![CDATA[UK-based Wejo unveils new operating system to "democratize" AV data.]]></summary>
+        <author>
+            <name>Ars Staff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Laughing Matter]]></title>
+        <id>https://tapas.io/episode/2668158</id>
+        <link href="https://tapas.io/episode/2668158"/>
+        <updated>2022-10-19T13:16:04.000Z</updated>
+        <author>
+            <name>J. L. Westover</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Netflix VP Confirms Cloud Gaming Ambitions]]></title>
+        <id>chEUp2Cm7NiEie2vcqgMvf</id>
+        <link href="https://www.tomshardware.com/news/netflix-vp-confirms-cloud-gaming-ambitions"/>
+        <updated>2022-10-19T13:07:32.000Z</updated>
+        <summary type="html"><![CDATA[Netflix reckons Stadia was a technical success, but the business model was wrong. It’s new games studio is headed up by an ex-Overwatch executive producer.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tear in Microsoft Azure Service Fabric can give attackers full admin privileges]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/19/azure_service_fabric_vulnerability/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/19/azure_service_fabric_vulnerability/"/>
+        <updated>2022-10-19T13:05:14.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Orca Security disclosed the bug, and older versions remain vulnerable</h4> <p>A proof-of-concept exploit has been published detailing a spoofing vulnerability in Microsoft Azure Service Fabric. The flaw allows attackers to gain full administrator permissions and then perform any manner of malicious activity.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I dismissed Nvidia Reflex as for esports superstars - but now I don’t want to go back to life without it]]></title>
         <id>https://www.vg247.com/nvidia-reflex-esports-game-changer</id>
