@@ -2876,16 +2876,6 @@
           "wordCount": 4497,
           "title": "Nintendo airing Animal Crossing and Splatoon 3 concerts online next week",
           "imageUrl": "https://assets.reedpopcdn.com/animal-crossing-concert-art.jpeg/BROK/thumbnail/1600x900/format/jpg/quality/80/animal-crossing-concert-art.jpeg"
-        },
-        {
-          "id": "https://www.eurogamer.net/need-for-speed-2022-name-release-date-and-screens-leak-in-retailer-listing",
-          "author": "Matt Wales",
-          "description": "With less than 24 hours to go until the long-awaited reveal of EA and developer Criterion's latest Need for Speed game, a full name, plus a release date, and screens have leaked online.\r\n\n\r\nAll this comes via a listing, still live at the time of writing, on Japanese retailer Neowing's website - which, assuming its veracity (highly likely given the nature of the assets and details included), corroborates virtually all previous rumours circulating around the game in recent months.\r\n\n\r\nFirst is the name, Need for Speed: Unbound, which tallies with a report from Insider Gaming at the end of September, as does Neowing's listed release date of 2nd December this year. \r\n \nRead more",
-          "link": "https://www.eurogamer.net/need-for-speed-2022-name-release-date-and-screens-leak-in-retailer-listing",
-          "publishedOn": "2022-10-05T21:05:17.000Z",
-          "wordCount": 4698,
-          "title": "Need for Speed 2022 name, release date, and screens leak in retailer listing",
-          "imageUrl": "https://assets.reedpopcdn.com/nfs-logo.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/nfs-logo.jpg"
         }
       ]
     },
@@ -4301,6 +4291,26 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Intel-Graphics-Fix-HITMAN-3",
+          "author": null,
+          "description": "Intel Arc Graphics A750 and A770 work on Linux if you are running the very latest Linux kernel and Mesa. The gaming experience is decent aside from occasional driver issues. One of the games that has been pesky with the open-source Intel \"ANV\" Vulkan driver has been the HITMAN 3 title running under Steam Play but with the newest Mesa 22.3 code should now be fixed up...",
+          "link": "https://www.phoronix.com/news/Intel-Graphics-Fix-HITMAN-3",
+          "publishedOn": "2022-10-19T09:32:02.000Z",
+          "wordCount": 1456,
+          "title": "Intel's Linux Vulkan Driver Lands Workaround For HITMAN 3",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Mold-1.6-Linker",
+          "author": null,
+          "description": "Mold as the open-source high performance linker continues its ascent in working to prove itself as a viable alternative to LLVM's LLD and GNU Gold. Mold 1.6 is out today with the latest fixes and features...",
+          "link": "https://www.phoronix.com/news/Mold-1.6-Linker",
+          "publishedOn": "2022-10-19T09:16:04.000Z",
+          "wordCount": 1241,
+          "title": "Mold 1.6 High Speed Linker Adds PPC64 and s390x, Smaller Output Files",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Rusticl-Outperformed-ROCm",
           "author": null,
@@ -6957,16 +6967,6 @@
           "wordCount": 4908,
           "title": "Get the Dell S2721DGFA 27-in 1440p 165Hz gaming monitor for £268",
           "imageUrl": "https://assets2.rockpapershotgun.com/s2721dgfa.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/s2721dgfa.jpg"
-        },
-        {
-          "id": "https://www.rockpapershotgun.com/get-the-newly-upgraded-crucial-x6-2tb-portable-ssd-for-129",
-          "author": "Will Judd",
-          "description": "The Crucial X6 is one of the best portable SSDs on the market, and a ginormous 2TB model is currently discounted to £129 at Amazon, from its normal price of £150. This makes it the cheapest 2TB portable SSD by a significant margin, with alternatives like the Samsung T7 and SanDisk Extreme 2TB costing £191 or more - and an excellent value for a drive of this calibre. \nRead more",
-          "link": "https://www.rockpapershotgun.com/get-the-newly-upgraded-crucial-x6-2tb-portable-ssd-for-129",
-          "publishedOn": "2022-10-05T21:19:41.000Z",
-          "wordCount": 4914,
-          "title": "Get the newly upgraded Crucial X6 2TB portable SSD for £129",
-          "imageUrl": "https://assets2.rockpapershotgun.com/x6_mvcUyLA.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/x6_mvcUyLA.jpg"
         }
       ]
     },
@@ -11305,26 +11305,6 @@
           "wordCount": 1892,
           "title": "Did an NYU professor get fired because students hate organic chem?",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/GettyImages-157692561-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1887240",
-          "author": "Dan Goodin",
-          "description": "Lazarus is latest group to pull off \"bring your own vulnerable device\" attack.",
-          "link": "https://arstechnica.com/?p=1887240",
-          "publishedOn": "2022-10-05T21:23:30.000Z",
-          "wordCount": 1734,
-          "title": "No fix in sight for mile-wide loophole plaguing a key Windows defense for years",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/windows-malware-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1887195",
-          "author": "Jennifer Ouellette",
-          "description": "It's like The Ref meets Mel Gibson's Fat Man, with a side of John Wick.",
-          "link": "https://arstechnica.com/?p=1887195",
-          "publishedOn": "2022-10-05T20:47:11.000Z",
-          "wordCount": 1812,
-          "title": "You better watch out for David Harbour’s badass Santa in Violent Night trailer",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/violentTOP-760x380.jpg"
         }
       ]
     },
@@ -11333,6 +11313,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291830",
+          "author": null,
+          "description": "Åtminstone enligt källor som Bloomberg har pratat med.",
+          "link": "https://www.fz.se/artikel/291830-rapport-hellena-taylor-erbjods-mer-an-hon-havdar-for-bayonetta-3",
+          "publishedOn": "2022-10-19T09:01:00.000Z",
+          "wordCount": 2107,
+          "title": "Rapport: Hellena Taylor erbjöds mer än hon hävdar för Bayonetta 3",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291830"
+        },
         {
           "id": "https://www.fz.se/artikel/291829",
           "author": null,
@@ -12771,6 +12761,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/35095",
+          "author": null,
+          "description": "Efter lång väntan är flikarna slutligen tillbaka. De sällskapas av uppdaterat aktivitetsfält och snabbare åtkomst till aktivitetshanteraren.",
+          "link": "https://www.sweclockers.com/artikel/35095-utforskarens-flikar-atervander-till-windows-11",
+          "publishedOn": "2022-10-19T09:27:07.000Z",
+          "wordCount": 1581,
+          "title": "Utforskarens flikar återvänder till Windows 11",
+          "imageUrl": "https://www.sweclockers.com/artikel/35095/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/35094",
           "author": null,
           "description": "Gårdagens smyguppdateringar sträcker sig till toppskiktet, där Ipad Pro bestyckas med M2-krets och mediaspelaren får Iphone 13-kretsen Bionic A15.",
@@ -13677,6 +13677,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/19/smartphone_shipments_q3_2022_canalys/",
+          "author": null,
+          "description": "<h4>Inflation and energy prices force consumers to prioritize household bills over shiny electronic devices</h4> <p>The bad news juggernaut just keeps on rolling for devices maker, with global smartphone shipments for calendar Q3 falling to their lowest quarterly rate in eight years.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/19/smartphone_shipments_q3_2022_canalys/",
+          "publishedOn": "2022-10-19T09:31:11.000Z",
+          "wordCount": 1337,
+          "title": "Global smartphone sales come tumbling down as reality bites",
+          "imageUrl": "https://regmedia.co.uk/2017/04/07/fallingoutawindow.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/19/overemployment/",
           "author": null,
@@ -16156,16 +16166,6 @@
           "wordCount": 1634,
           "title": "Er, Musk's trial hasn't stopped, no matter what he told Twitter, says judge",
           "imageUrl": "https://regmedia.co.uk/2022/09/07/musk_twitter_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/konnech_election_software_china/",
-          "author": null,
-          "description": "<h4>LA DA ain't happy about handling of poll workers' info</h4> <p>Eugene Yu, CEO of Michigan-based software firm Konnech, has been arrested by police in that US state at the request of the Los Angeles County District Attorney George Gascón, as part of an investigation into the theft of personal information.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/05/konnech_election_software_china/",
-          "publishedOn": "2022-10-05T21:13:05.000Z",
-          "wordCount": 1991,
-          "title": "American software biz CEO arrested for allegedly storing election data in China",
-          "imageUrl": "https://regmedia.co.uk/2015/07/29/china_us_87654567.jpg"
         }
       ]
     }

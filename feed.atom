@@ -2,10 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-19T08:43:05.655Z</updated>
+    <updated>2022-10-19T09:36:13.502Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Intel's Linux Vulkan Driver Lands Workaround For HITMAN 3]]></title>
+        <id>https://www.phoronix.com/news/Intel-Graphics-Fix-HITMAN-3</id>
+        <link href="https://www.phoronix.com/news/Intel-Graphics-Fix-HITMAN-3"/>
+        <updated>2022-10-19T09:32:02.000Z</updated>
+        <summary type="html"><![CDATA[Intel Arc Graphics A750 and A770 work on Linux if you are running the very latest Linux kernel and Mesa. The gaming experience is decent aside from occasional driver issues. One of the games that has been pesky with the open-source Intel "ANV" Vulkan driver has been the HITMAN 3 title running under Steam Play but with the newest Mesa 22.3 code should now be fixed up...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Global smartphone sales come tumbling down as reality bites]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/19/smartphone_shipments_q3_2022_canalys/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/19/smartphone_shipments_q3_2022_canalys/"/>
+        <updated>2022-10-19T09:31:11.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Inflation and energy prices force consumers to prioritize household bills over shiny electronic devices</h4> <p>The bad news juggernaut just keeps on rolling for devices maker, with global smartphone shipments for calendar Q3 falling to their lowest quarterly rate in eight years.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Utforskarens flikar återvänder till Windows 11]]></title>
+        <id>https://www.sweclockers.com/artikel/35095</id>
+        <link href="https://www.sweclockers.com/artikel/35095-utforskarens-flikar-atervander-till-windows-11"/>
+        <updated>2022-10-19T09:27:07.000Z</updated>
+        <summary type="html"><![CDATA[Efter lång väntan är flikarna slutligen tillbaka. De sällskapas av uppdaterat aktivitetsfält och snabbare åtkomst till aktivitetshanteraren.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mold 1.6 High Speed Linker Adds PPC64 and s390x, Smaller Output Files]]></title>
+        <id>https://www.phoronix.com/news/Mold-1.6-Linker</id>
+        <link href="https://www.phoronix.com/news/Mold-1.6-Linker"/>
+        <updated>2022-10-19T09:16:04.000Z</updated>
+        <summary type="html"><![CDATA[Mold as the open-source high performance linker continues its ascent in working to prove itself as a viable alternative to LLVM's LLD and GNU Gold. Mold 1.6 is out today with the latest fixes and features...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rapport: Hellena Taylor erbjöds mer än hon hävdar för Bayonetta 3]]></title>
+        <id>https://www.fz.se/artikel/291830</id>
+        <link href="https://www.fz.se/artikel/291830-rapport-hellena-taylor-erbjods-mer-an-hon-havdar-for-bayonetta-3"/>
+        <updated>2022-10-19T09:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Åtminstone enligt källor som Bloomberg har pratat med.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Steam Deck adds External Display Safe Mode setting, 30 second boot videos]]></title>
         <id>https://www.gamingonlinux.com/2022/10/steam-deck-adds-external-display-safe-mode-setting-30-second-boot-videos/</id>
@@ -18145,65 +18195,6 @@ I have gone on about the Dell S2721DGFA a few times now, so I'll link to those p
  Read more]]></summary>
         <author>
             <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No fix in sight for mile-wide loophole plaguing a key Windows defense for years]]></title>
-        <id>https://arstechnica.com/?p=1887240</id>
-        <link href="https://arstechnica.com/?p=1887240"/>
-        <updated>2022-10-05T21:23:30.000Z</updated>
-        <summary type="html"><![CDATA[Lazarus is latest group to pull off "bring your own vulnerable device" attack.]]></summary>
-        <author>
-            <name>Dan Goodin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get the newly upgraded Crucial X6 2TB portable SSD for £129]]></title>
-        <id>https://www.rockpapershotgun.com/get-the-newly-upgraded-crucial-x6-2tb-portable-ssd-for-129</id>
-        <link href="https://www.rockpapershotgun.com/get-the-newly-upgraded-crucial-x6-2tb-portable-ssd-for-129"/>
-        <updated>2022-10-05T21:19:41.000Z</updated>
-        <summary type="html"><![CDATA[The Crucial X6 is one of the best portable SSDs on the market, and a ginormous 2TB model is currently discounted to £129 at Amazon, from its normal price of £150. This makes it the cheapest 2TB portable SSD by a significant margin, with alternatives like the Samsung T7 and SanDisk Extreme 2TB costing £191 or more - and an excellent value for a drive of this calibre. 
-Read more]]></summary>
-        <author>
-            <name>Will Judd</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[American software biz CEO arrested for allegedly storing election data in China]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/05/konnech_election_software_china/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/05/konnech_election_software_china/"/>
-        <updated>2022-10-05T21:13:05.000Z</updated>
-        <summary type="html"><![CDATA[<h4>LA DA ain't happy about handling of poll workers' info</h4> <p>Eugene Yu, CEO of Michigan-based software firm Konnech, has been arrested by police in that US state at the request of the Los Angeles County District Attorney George Gascón, as part of an investigation into the theft of personal information.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Need for Speed 2022 name, release date, and screens leak in retailer listing]]></title>
-        <id>https://www.eurogamer.net/need-for-speed-2022-name-release-date-and-screens-leak-in-retailer-listing</id>
-        <link href="https://www.eurogamer.net/need-for-speed-2022-name-release-date-and-screens-leak-in-retailer-listing"/>
-        <updated>2022-10-05T21:05:17.000Z</updated>
-        <summary type="html"><![CDATA[With less than 24 hours to go until the long-awaited reveal of EA and developer Criterion's latest Need for Speed game, a full name, plus a release date, and screens have leaked online.
-
-
-All this comes via a listing, still live at the time of writing, on Japanese retailer Neowing's website - which, assuming its veracity (highly likely given the nature of the assets and details included), corroborates virtually all previous rumours circulating around the game in recent months.
-
-
-First is the name, Need for Speed: Unbound, which tallies with a report from Insider Gaming at the end of September, as does Neowing's listed release date of 2nd December this year. 
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You better watch out for David Harbour’s badass Santa in Violent Night trailer]]></title>
-        <id>https://arstechnica.com/?p=1887195</id>
-        <link href="https://arstechnica.com/?p=1887195"/>
-        <updated>2022-10-05T20:47:11.000Z</updated>
-        <summary type="html"><![CDATA[It's like The Ref meets Mel Gibson's Fat Man, with a side of John Wick.]]></summary>
-        <author>
-            <name>Jennifer Ouellette</name>
         </author>
     </entry>
 </feed>
