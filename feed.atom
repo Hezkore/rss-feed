@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-19T17:50:26.780Z</updated>
+    <updated>2022-10-19T18:44:06.493Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Call of Duty kan komma att tvingas skippa Game Pass "ett antal år"]]></title>
+        <id>https://www.fz.se/artikel/291838</id>
+        <link href="https://www.fz.se/artikel/291838-call-of-duty-kan-komma-att-tvingas-skippa-game-pass-ett-antal-ar"/>
+        <updated>2022-10-19T18:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Detta på grund av Sony-deal.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Founder of zero-emissions truck venture Nikola found guilty of $1b fraud]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/19/nikola_founder_fraud/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/19/nikola_founder_fraud/"/>
+        <updated>2022-10-19T18:15:08.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Verdict in for trial where promo vid showed gravity rather than batteries or fuel cells keeping electric truck moving</h4> <p>A federal jury has found the founder of eco-truck outfit Nikola, Trevor Milton, guilty of deceiving investors with exaggerated claims about how close his company was to producing working prototypes of zero-emission 18-wheelers.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SpaceX's in-flight Wi-Fi, Starlink Aviation, takes to the skies]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/19/starlink_aviation/</id>
@@ -18870,26 +18890,6 @@ Maintaining completely separate local git repositories for all four JDK vers…]
         <summary type="html"><![CDATA[Och tar bort telefonkravet för de flesta existerande Overwatch-spelarna.]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Splunk alleges source code theft by former employee who started rival company]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/06/splunk_cribl_lawsuit/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/06/splunk_cribl_lawsuit/"/>
-        <updated>2022-10-06T06:30:11.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Cribl accused of terrible behaviour, horrible IP practices, implausible deniability</h4> <p>Data-crunching outfit Splunk has filed a lawsuit alleging that a former employee stole its source code and used it to start a rival company.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sony: "Vissa spel kan släppas till Playstation och PC samtidigt"]]></title>
-        <id>https://www.sweclockers.com/artikel/35032</id>
-        <link href="https://www.sweclockers.com/artikel/35032-sony-vissa-spel-kan-slappas-till-playstation-och-pc-samtidigt"/>
-        <updated>2022-10-06T06:26:00.000Z</updated>
-        <summary type="html"><![CDATA[I en intervju berättar Playstation Studios-chefen att live service-spel i framtiden kan komma att släppas på flera plattformar samtidigt.]]></summary>
-        <author>
-            <name>SweClockers</name>
         </author>
     </entry>
 </feed>
