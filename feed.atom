@@ -2,10 +2,83 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-19T18:44:06.493Z</updated>
+    <updated>2022-10-19T19:31:03.090Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Blizzard Albany QA testers win their fight for union vote]]></title>
+        <id>https://www.rockpapershotgun.com/blizzard-albany-qa-testers-win-their-fight-for-union-vote</id>
+        <link href="https://www.rockpapershotgun.com/blizzard-albany-qa-testers-win-their-fight-for-union-vote"/>
+        <updated>2022-10-19T19:28:14.000Z</updated>
+        <summary type="html"><![CDATA[QA testers at Blizzard Albany have won the right to vote on whether to form a union. The decision comes after arguments were made to the US National Labor Relations Board (NLRB). The employees, organising under the name GWA Albany, tweeted that the vote would take place a month from today.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get PAYDAY 2 and a ton of DLC in the latest Humble Bundle]]></title>
+        <id>https://www.gamingonlinux.com/2022/10/get-payday-2-and-a-ton-of-dlc-in-the-latest-humble-bundle/</id>
+        <link href="https://www.gamingonlinux.com/2022/10/get-payday-2-and-a-ton-of-dlc-in-the-latest-humble-bundle/"/>
+        <updated>2022-10-19T19:04:55.000Z</updated>
+        <summary type="html"><![CDATA[In the mood to play a co-op shooter? Humble Bundle has a huge PAYDAY 2: The Ultimate Score bundle ready for you.]]></summary>
+        <author>
+            <name>Liam Dawe</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[23.00 - se Silent Hill-nyheterna live]]></title>
+        <id>https://www.fz.se/artikel/291836</id>
+        <link href="https://www.fz.se/artikel/291836-23-00-se-silent-hill-nyheterna-live"/>
+        <updated>2022-10-19T19:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Ser du helst ett nytt spel eller en remake (som det ryktas om)?]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google submits Go apps container project to Cloud Native Computing Foundation]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/19/google_go_container_cncf/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/19/google_go_container_cncf/"/>
+        <updated>2022-10-19T19:00:11.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Did we say donate? We meant submit. Megacorp swiftly KOs former blog title</h4> <p>Google has offered its tool for pure Go Kubernetes containers to the Cloud Native Computing Foundation (CNCF) ... and may have thought it was a done deal.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Tom's Hardware Tests, Rates and Reviews Tech Products]]></title>
+        <id>uacoz9C9KJXHynDirMAhMk</id>
+        <link href="https://www.tomshardware.com/news/how-we-test"/>
+        <updated>2022-10-19T18:48:51.000Z</updated>
+        <summary type="html"><![CDATA[We explain our testing methodology, our commitment to readers and what our product ratings mean.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SK Hynix Unveils CXL Memory Module with Compute Capabilities]]></title>
+        <id>jjvHWBexhZ6hgVmMW3QiT4</id>
+        <link href="https://www.tomshardware.com/news/sk-hynix-unveils-cxl-computational-memory-solution"/>
+        <updated>2022-10-19T18:37:57.000Z</updated>
+        <summary type="html"><![CDATA[SK Hynix shows off 512GB computational memory solution (CMS) with PCIe 4.0/CXL interface.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The FTC is looking at fixing appliance repair, but it needs to go beyond manuals]]></title>
+        <id>https://arstechnica.com/?p=1891124</id>
+        <link href="https://arstechnica.com/?p=1891124"/>
+        <updated>2022-10-19T18:36:04.000Z</updated>
+        <summary type="html"><![CDATA[Firmware access and parts are also needed for a real repair push.]]></summary>
+        <author>
+            <name>Kevin Purdy</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Call of Duty kan komma att tvingas skippa Game Pass "ett antal år"]]></title>
         <id>https://www.fz.se/artikel/291838</id>
@@ -14,6 +87,16 @@
         <summary type="html"><![CDATA[Detta på grund av Sony-deal.]]></summary>
         <author>
             <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel details sort-of-annoying fix for high idle power consumption in Arc GPUs]]></title>
+        <id>https://arstechnica.com/?p=1891196</id>
+        <link href="https://arstechnica.com/?p=1891196"/>
+        <updated>2022-10-19T18:19:10.000Z</updated>
+        <summary type="html"><![CDATA[One of several teething issues for Intel's first stab at a dedicated GPU.]]></summary>
+        <author>
+            <name>Andrew Cunningham</name>
         </author>
     </entry>
     <entry>
@@ -27,6 +110,46 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[New Jersey sues gas companies over climate change damages worth billions]]></title>
+        <id>https://arstechnica.com/?p=1891202</id>
+        <link href="https://arstechnica.com/?p=1891202"/>
+        <updated>2022-10-19T18:05:07.000Z</updated>
+        <summary type="html"><![CDATA[Lawsuit targets ExxonMobil, Shell, Chevron, BP, and ConocoPhillips.]]></summary>
+        <author>
+            <name>Ashley Belanger</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMW will invest $1.7 billion to make EVs in the United States]]></title>
+        <id>https://arstechnica.com/?p=1891212</id>
+        <link href="https://arstechnica.com/?p=1891212"/>
+        <updated>2022-10-19T17:47:04.000Z</updated>
+        <summary type="html"><![CDATA[By 2030 BMW will build six different EV models in Spartanburg, South Carolina.]]></summary>
+        <author>
+            <name>Jonathan M. Gitlin</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixel Watch teardown shows off “ugly” insides, gives strong first-gen vibes]]></title>
+        <id>https://arstechnica.com/?p=1891145</id>
+        <link href="https://arstechnica.com/?p=1891145"/>
+        <updated>2022-10-19T17:40:18.000Z</updated>
+        <summary type="html"><![CDATA[iFixit shows exactly how difficult it'll be to fix those cracked displays.]]></summary>
+        <author>
+            <name>Ron Amadeo</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Baby chicks are wary of prey with eyespots because of “Mona Lisa effect”]]></title>
+        <id>https://arstechnica.com/?p=1891092</id>
+        <link href="https://arstechnica.com/?p=1891092"/>
+        <updated>2022-10-19T17:34:47.000Z</updated>
+        <summary type="html"><![CDATA[Chick experiments hint at why eyespots evolved independently in different species.]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SpaceX's in-flight Wi-Fi, Starlink Aviation, takes to the skies]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/19/starlink_aviation/</id>
         <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/19/starlink_aviation/"/>
@@ -34,6 +157,16 @@
         <summary type="html"><![CDATA[<h4>Oh c'mon! Was it too much to expect Skynet?</h4> <p>SpaceX's in-flight internet service for airplanes now has a name – Starlink Aviation.…</p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Bayonetta 3’s drama tells us about the market for video game voice work]]></title>
+        <id>https://arstechnica.com/?p=1891161</id>
+        <link href="https://arstechnica.com/?p=1891161"/>
+        <updated>2022-10-19T17:27:13.000Z</updated>
+        <summary type="html"><![CDATA[Union was unable to secure demanded residual payments after their last strike.]]></summary>
+        <author>
+            <name>Kyle Orland</name>
         </author>
     </entry>
     <entry>
@@ -18849,47 +18982,6 @@ This is the thi…]]></summary>
         <updated>2022-10-06T07:41:06.000Z</updated>
         <author>
             <name>Gregor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI eye-scanner can tell whether you'll croak it from a heart attack]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/06/ai_retina_scan_health/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/06/ai_retina_scan_health/"/>
-        <updated>2022-10-06T07:22:07.000Z</updated>
-        <summary type="html"><![CDATA[<h4>If and when this hits the mainstream, who's going to trust their retinas to random models?</h4> <p>AI algorithms can predict whether a patient is at risk of suffering a stroke, heart attack, or dying from heart disease just by studying images of their retinas, according to research out of England.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jonathan Dowland: git worktrees]]></title>
-        <id>https://jmtd.net/log/worktrees/</id>
-        <link href="https://jmtd.net/log/worktrees/"/>
-        <updated>2022-10-06T07:04:12.000Z</updated>
-        <summary type="html"><![CDATA[I work on OpenJDK backports:
-taking a patch that was committed to a current version of JDK, and adapting it
-to an older one. There are four main OpenJDK versions that I am concerned with:
-the current version ("jdk"), 8, 11 and 17. These are all maintained in separate
-Git(Hub) repositories.
-It's very useful to have access to the other JDKs when working on any
-particular version. For example, to backport a patch from the latest version to
-17, where the delta is not too big, a lot of the time you can cherry-pick the
-patch unmodified. To do git cherry-pick <some-commit> in a git repository
-tracking JDK17, where <some-commit> is in "jdk", I need the "jdk" repository
-configured as a remote for my local jdk17 repository.
-Maintaining completely separate local git repositories for all four JDK vers…]]></summary>
-        <author>
-            <name>Planet Debian</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blizzard ber om ursäkt för Overwatch 2-släppet]]></title>
-        <id>https://www.fz.se/artikel/291701</id>
-        <link href="https://www.fz.se/artikel/291701-blizzard-ber-om-ursakt-for-overwatch-2-slappet"/>
-        <updated>2022-10-06T06:51:00.000Z</updated>
-        <summary type="html"><![CDATA[Och tar bort telefonkravet för de flesta existerande Overwatch-spelarna.]]></summary>
-        <author>
-            <name>FZ.se</name>
         </author>
     </entry>
 </feed>

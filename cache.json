@@ -181,6 +181,16 @@
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
         {
+          "id": "https://www.gamingonlinux.com/2022/10/get-payday-2-and-a-ton-of-dlc-in-the-latest-humble-bundle/",
+          "author": "Liam Dawe",
+          "description": "In the mood to play a co-op shooter? Humble Bundle has a huge PAYDAY 2: The Ultimate Score bundle ready for you.",
+          "link": "https://www.gamingonlinux.com/2022/10/get-payday-2-and-a-ton-of-dlc-in-the-latest-humble-bundle/",
+          "publishedOn": "2022-10-19T19:04:55.000Z",
+          "wordCount": 1162,
+          "title": "Get PAYDAY 2 and a ton of DLC in the latest Humble Bundle",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/92917785id21760gol.jpg"
+        },
+        {
           "id": "https://www.gamingonlinux.com/2022/10/a-new-beta-of-game-manager-lutris-fixes-up-origin-epic-games-and-ubisoft-connect/",
           "author": "Liam Dawe",
           "description": "Lutris, the open source game manager that can help you keep together all your games from various services on Linux and Steam Deck has a new Beta release fixing some big issues.",
@@ -5749,6 +5759,16 @@
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
         {
+          "id": "https://www.rockpapershotgun.com/blizzard-albany-qa-testers-win-their-fight-for-union-vote",
+          "author": "Graham Smith",
+          "description": "QA testers at Blizzard Albany have won the right to vote on whether to form a union. The decision comes after arguments were made to the US National Labor Relations Board (NLRB). The employees, organising under the name GWA Albany, tweeted that the vote would take place a month from today.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/blizzard-albany-qa-testers-win-their-fight-for-union-vote",
+          "publishedOn": "2022-10-19T19:28:14.000Z",
+          "wordCount": 4721,
+          "title": "Blizzard Albany QA testers win their fight for union vote",
+          "imageUrl": "https://assets2.rockpapershotgun.com/activision-blizzard_7V91ecb.png/BROK/thumbnail/1600x900/format/jpg/quality/80/activision-blizzard_7V91ecb.png"
+        },
+        {
           "id": "https://www.rockpapershotgun.com/have-you-played-deep-rock-galactic",
           "author": "James Archer",
           "description": "Deep Rock Galactic is a game about going to work, assuming your job is to extract space minerals from a shattered planet occupied by trillions of giant, murderous bugs. If it isn’t, it’s not too hard to pretend, and DRG’s another-day-at-the-office wit lends it a likeable levity that’s partly why I’ve played it almost every week for a year and a half.\r\n\n \nRead more",
@@ -7305,6 +7325,36 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "uacoz9C9KJXHynDirMAhMk",
+          "author": null,
+          "description": "We explain our testing methodology, our commitment to readers and what our product ratings mean.",
+          "link": "https://www.tomshardware.com/news/how-we-test",
+          "publishedOn": "2022-10-19T18:48:51.000Z",
+          "wordCount": 22922,
+          "title": "How Tom's Hardware Tests, Rates and Reviews Tech Products",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/oktDmFTWB8F2rA3EEezai.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/oktDmFTWB8F2rA3EEezai.jpg"
+        },
+        {
+          "id": "jjvHWBexhZ6hgVmMW3QiT4",
+          "author": null,
+          "description": "SK Hynix shows off 512GB computational memory solution (CMS) with PCIe 4.0/CXL interface.",
+          "link": "https://www.tomshardware.com/news/sk-hynix-unveils-cxl-computational-memory-solution",
+          "publishedOn": "2022-10-19T18:37:57.000Z",
+          "wordCount": 21908,
+          "title": "SK Hynix Unveils CXL Memory Module with Compute Capabilities",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/4vWKdJjmn8rKbp7U5LfP4f.png",
+            "type": "image/png",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/4vWKdJjmn8rKbp7U5LfP4f.png"
+        },
         {
           "id": "yQerVvvhjfs6BEHhhjMUcL",
           "author": null,
@@ -9981,16 +10031,6 @@
           "wordCount": null,
           "title": "Matthew Garrett: Cloud desktops aren't as good as you'd think",
           "imageUrl": null
-        },
-        {
-          "id": "https://jmtd.net/log/worktrees/",
-          "author": null,
-          "description": "I work on OpenJDK backports:\ntaking a patch that was committed to a current version of JDK, and adapting it\nto an older one. There are four main OpenJDK versions that I am concerned with:\nthe current version (\"jdk\"), 8, 11 and 17. These are all maintained in separate\nGit(Hub) repositories.\nIt's very useful to have access to the other JDKs when working on any\nparticular version. For example, to backport a patch from the latest version to\n17, where the delta is not too big, a lot of the time you can cherry-pick the\npatch unmodified. To do git cherry-pick <some-commit> in a git repository\ntracking JDK17, where <some-commit> is in \"jdk\", I need the \"jdk\" repository\nconfigured as a remote for my local jdk17 repository.\nMaintaining completely separate local git repositories for all four JDK vers…",
-          "link": "https://jmtd.net/log/worktrees/",
-          "publishedOn": "2022-10-06T07:04:12.000Z",
-          "wordCount": 570,
-          "title": "Jonathan Dowland: git worktrees",
-          "imageUrl": null
         }
       ]
     },
@@ -10056,6 +10096,76 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1891124",
+          "author": "Kevin Purdy",
+          "description": "Firmware access and parts are also needed for a real repair push.",
+          "link": "https://arstechnica.com/?p=1891124",
+          "publishedOn": "2022-10-19T18:36:04.000Z",
+          "wordCount": 1950,
+          "title": "The FTC is looking at fixing appliance repair, but it needs to go beyond manuals",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/GettyImages-1242566833-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1891196",
+          "author": "Andrew Cunningham",
+          "description": "One of several teething issues for Intel's first stab at a dedicated GPU.",
+          "link": "https://arstechnica.com/?p=1891196",
+          "publishedOn": "2022-10-19T18:19:10.000Z",
+          "wordCount": 1599,
+          "title": "Intel details sort-of-annoying fix for high idle power consumption in Arc GPUs",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/FXt1C91VQAEe-xW-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1891202",
+          "author": "Ashley Belanger",
+          "description": "Lawsuit targets ExxonMobil, Shell, Chevron, BP, and ConocoPhillips.",
+          "link": "https://arstechnica.com/?p=1891202",
+          "publishedOn": "2022-10-19T18:05:07.000Z",
+          "wordCount": 1924,
+          "title": "New Jersey sues gas companies over climate change damages worth billions",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/GettyImages-675338358-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1891212",
+          "author": "Jonathan M. Gitlin",
+          "description": "By 2030 BMW will build six different EV models in Spartanburg, South Carolina.",
+          "link": "https://arstechnica.com/?p=1891212",
+          "publishedOn": "2022-10-19T17:47:04.000Z",
+          "wordCount": 1601,
+          "title": "BMW will invest $1.7 billion to make EVs in the United States",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/BMW-factory-in-south-carolina-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1891145",
+          "author": "Ron Amadeo",
+          "description": "iFixit shows exactly how difficult it'll be to fix those cracked displays.",
+          "link": "https://arstechnica.com/?p=1891145",
+          "publishedOn": "2022-10-19T17:40:18.000Z",
+          "wordCount": 1527,
+          "title": "Pixel Watch teardown shows off “ugly” insides, gives strong first-gen vibes",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/chrome_6ogEk54N3s-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1891092",
+          "author": "Jennifer Ouellette",
+          "description": "Chick experiments hint at why eyespots evolved independently in different species.",
+          "link": "https://arstechnica.com/?p=1891092",
+          "publishedOn": "2022-10-19T17:34:47.000Z",
+          "wordCount": 2137,
+          "title": "Baby chicks are wary of prey with eyespots because of “Mona Lisa effect”",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/eyespotCROP-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1891161",
+          "author": "Kyle Orland",
+          "description": "Union was unable to secure demanded residual payments after their last strike.",
+          "link": "https://arstechnica.com/?p=1891161",
+          "publishedOn": "2022-10-19T17:27:13.000Z",
+          "wordCount": 1950,
+          "title": "What Bayonetta 3’s drama tells us about the market for video game voice work",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/bayo3-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1891136",
           "author": "Jon Brodkin",
@@ -11764,6 +11874,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291836",
+          "author": null,
+          "description": "Ser du helst ett nytt spel eller en remake (som det ryktas om)?",
+          "link": "https://www.fz.se/artikel/291836-23-00-se-silent-hill-nyheterna-live",
+          "publishedOn": "2022-10-19T19:03:00.000Z",
+          "wordCount": 1799,
+          "title": "23.00 - se Silent Hill-nyheterna live",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291836"
+        },
+        {
           "id": "https://www.fz.se/artikel/291838",
           "author": null,
           "description": "Detta på grund av Sony-deal.",
@@ -13242,16 +13362,6 @@
           "wordCount": 2046,
           "title": "Playstation försäkrar att Playstation 4-spelare inte är bortglömda",
           "imageUrl": "https://www.fz.se/artikel/og-image/291700"
-        },
-        {
-          "id": "https://www.fz.se/artikel/291701",
-          "author": null,
-          "description": "Och tar bort telefonkravet för de flesta existerande Overwatch-spelarna.",
-          "link": "https://www.fz.se/artikel/291701-blizzard-ber-om-ursakt-for-overwatch-2-slappet",
-          "publishedOn": "2022-10-06T06:51:00.000Z",
-          "wordCount": 2152,
-          "title": "Blizzard ber om ursäkt för Overwatch 2-släppet",
-          "imageUrl": "https://www.fz.se/artikel/og-image/291701"
         }
       ]
     },
@@ -14227,6 +14337,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/19/google_go_container_cncf/",
+          "author": null,
+          "description": "<h4>Did we say donate? We meant submit. Megacorp swiftly KOs former blog title</h4> <p>Google has offered its tool for pure Go Kubernetes containers to the Cloud Native Computing Foundation (CNCF) ... and may have thought it was a done deal.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/19/google_go_container_cncf/",
+          "publishedOn": "2022-10-19T19:00:11.000Z",
+          "wordCount": 1345,
+          "title": "Google submits Go apps container project to Cloud Native Computing Foundation",
+          "imageUrl": "https://regmedia.co.uk/2022/10/19/shutterstock_go.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/19/nikola_founder_fraud/",
           "author": null,
@@ -16746,16 +16866,6 @@
           "wordCount": 1529,
           "title": "Brexit dividend? 'Newly independent' UK will be world's 'data hub', claims digital minister",
           "imageUrl": "https://regmedia.co.uk/2017/04/05/dataanalysis.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/06/ai_retina_scan_health/",
-          "author": null,
-          "description": "<h4>If and when this hits the mainstream, who's going to trust their retinas to random models?</h4> <p>AI algorithms can predict whether a patient is at risk of suffering a stroke, heart attack, or dying from heart disease just by studying images of their retinas, according to research out of England.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/06/ai_retina_scan_health/",
-          "publishedOn": "2022-10-06T07:22:07.000Z",
-          "wordCount": 1471,
-          "title": "AI eye-scanner can tell whether you'll croak it from a heart attack",
-          "imageUrl": "https://regmedia.co.uk/2022/10/05/retina_shutterstock.jpg"
         }
       ]
     }
