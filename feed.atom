@@ -2,10 +2,85 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-20T02:37:39.551Z</updated>
+    <updated>2022-10-20T04:24:31.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Detta är alla Silent Hill-spel som utannonserades under Konamis show]]></title>
+        <id>https://www.fz.se/artikel/291840</id>
+        <link href="https://www.fz.se/artikel/291840-detta-ar-alla-silent-hill-spel-som-utannonserades-under-konamis-show"/>
+        <updated>2022-10-20T04:01:07.000Z</updated>
+        <summary type="html"><![CDATA[En spinoff i Japan, ett äventyrsspel(?) och en interaktiv streamingupplevelse.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silent Hill 2 Remake utannonseras, utvecklas av Bloober Team]]></title>
+        <id>https://www.fz.se/artikel/291839</id>
+        <link href="https://www.fz.se/artikel/291839-silent-hill-2-remake-utannonseras-utvecklas-av-bloober-team"/>
+        <updated>2022-10-20T03:14:11.000Z</updated>
+        <summary type="html"><![CDATA[I mina rastlösa drömmer ser jag den där staden ... Silent Hill.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dirk Eddelbuettel: qlcal 0.0.3 on CRAN: Maintenance and Updates]]></title>
+        <id>http://dirk.eddelbuettel.com/blog/2022/10/19#qlcal-r_0.0.3</id>
+        <link href="http://dirk.eddelbuettel.com/blog/2022/10/19#qlcal-r_0.0.3"/>
+        <updated>2022-10-20T02:41:00.000Z</updated>
+        <summary type="html"><![CDATA[The third release of the still pretty new qlcal package arrivied at CRAN today.
+qlcal is based on the calendaring subset of QuantLib. It is provided (for the R package) as a set of included files, so the package is self-contained and does not depend on an external QuantLib library (which can be demanding to build). qlcal covers over sixty country / market calendars and can compute holiday lists, its complement (i.e. business day lists) and much more.
+This release fixes a small bug affecting one function, brings calendar updates from QuantLib 1.27 and 1.28, and applies a little bit of polish to appease clang++-15.
+Changes in version 0.0.3 (2022-10-19)
+Correct the isBusinessDay() functionality (Fixes #2)
+
+
+Update Australia and Saudi Arabia calendars from QuantLib 1.27
+
+
+Update United Kingdom calendar from QuantLib 1.28
+
+
+Convert one source file to utf-8 to appease clang-15
+
+
+
+See the project page and package documentation for more details, and more examples.
+If you like this or other open-source work I do, you can now sponsor me at GitHub.
+Dirk Eddelbuettel originated on his Thinking inside the box blog. Please report excessive re-aggregation in third-party for-profit settings.]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dirk Eddelbuettel: RcppQuantuccia 0.1.1 on CRAN: Maintenance]]></title>
+        <id>http://dirk.eddelbuettel.com/blog/2022/10/19#rcppquantuccia_0.1.1</id>
+        <link href="http://dirk.eddelbuettel.com/blog/2022/10/19#rcppquantuccia_0.1.1"/>
+        <updated>2022-10-20T02:35:00.000Z</updated>
+        <summary type="html"><![CDATA[A minor release of RcppQuantuccia arrived on CRAN today. RcppQuantuccia started from the Quantuccia header-only subset / variant of QuantLib which it brings it to R. This project validated the idea of making the calendaring functionality of QuantLib available in a more compact and standalone project – which we now do with qlcal which can be seen as a successor to this.
+This release merely updates a source file to proper encoding as clang++-15 would otherwise warn.
+The complete list changes for this release follows.
+Changes in version 0.1.1 (2022-10-19)
+Minor code reorganization splitting off calendars.cpp
+
+
+Convert the Argentinian calendar sources files as utf-8 to appease clang++-15
+
+
+Advertise the qlcal package as an alternative
+
+
+
+Courtesy of CRANberries, there is also a diffstat report relative to the previous release. More information is on the RcppQuantuccia page. Issues and bugreports should go to the GitHub issue tracker.
+If you like this or other open-source work I do, you can now sponsor me at GitHub.
+Dirk Eddelbuettel originated on his Thinking inside the box blog. Please report excessive re-aggregation in third-party for-profit settings.]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SolarWinds and Dynatrace directors resign over antitrust concerns]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/20/doj_solarwinds_dynatrace_interlocking_directors/</id>
@@ -18111,459 +18186,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Those who have linked a Battle.net account can now avoid the "SMS Protect" system.]]></summary>
         <author>
             <name>Kyle Orland</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern Warfare 2 gets new launch trailer, three weeks before launch]]></title>
-        <id>https://www.rockpapershotgun.com/modern-warfare-2-gets-new-launch-trailer-three-weeks-before-launch</id>
-        <link href="https://www.rockpapershotgun.com/modern-warfare-2-gets-new-launch-trailer-three-weeks-before-launch"/>
-        <updated>2022-10-06T16:15:59.000Z</updated>
-        <summary type="html"><![CDATA[A launch trailer for Call Of Duty: Modern Warfare 2 has popped onto the Internet a full three weeks before the military shooter’s launch date of October 28th. Pre-orderers can play the campaign a week early, technically, but that’s still a good couple of weeks away as well. By the way, could you help me out? I can’t remember the actor who’s playing the shouty general’s name and it’s really bothering me. He’s in the trailer below, watch it and let me know in the comments please.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pokemon Go's Festival of Lights will see the debut of Morelull and Xerneas returns to Five-Star Raids]]></title>
-        <id>https://www.vg247.com/pokemon-go-festival-of-lights-morelull-xerneas</id>
-        <link href="https://www.vg247.com/pokemon-go-festival-of-lights-morelull-xerneas"/>
-        <updated>2022-10-06T16:13:51.000Z</updated>
-        <summary type="html"><![CDATA[Illuminating Pokemon Morelull and its evolution Shiinotic are coming to Pokemon Go.
-The Pokemon will be available once the Festival of Lights goes live on Friday, October 14, 2. The event will end on Monday, October 17.
-It's all part of Pokemon Go's Season of Light which kicked off on September 1.
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google shows off the Pixel Tablet dock—it doubles as a smart display]]></title>
-        <id>https://arstechnica.com/?p=1887539</id>
-        <link href="https://arstechnica.com/?p=1887539"/>
-        <updated>2022-10-06T16:13:42.000Z</updated>
-        <summary type="html"><![CDATA[The hardware looks just like a smart display, but the software is different.]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Googles designfokuserade Pixel 7 landar i Sverige]]></title>
-        <id>https://www.sweclockers.com/artikel/35043</id>
-        <link href="https://www.sweclockers.com/artikel/35043-googles-designfokuserade-pixel-7-landar-i-sverige"/>
-        <updated>2022-10-06T16:08:32.000Z</updated>
-        <summary type="html"><![CDATA[Pixel får inte på några stora nyheter, men för svenska kunder är situationen en annan: Google lanserar slutligen den kamerastarka telefonfamiljen i Sverige.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prison Architect's spooky next expansion Undead announced]]></title>
-        <id>https://www.eurogamer.net/prison-architects-spooky-next-expansion-undead-announced</id>
-        <link href="https://www.eurogamer.net/prison-architects-spooky-next-expansion-undead-announced"/>
-        <updated>2022-10-06T16:03:26.000Z</updated>
-        <summary type="html"><![CDATA[The eighth expansion for Prison Architect, known as Undead, is on its way to PC, Xbox One and PlayStation 4, just in time for Halloween.
-
-
-Upon its 11th October release, this expansion will bring a whole new element to your gameplay: Survival against some heinous zombies.
-
-
-"Just in time for spooky season, Undead adds a mix of survival and horror to Prison Architect that will put Wardens' management skills to the test," said game director Gaz Wright. "Grappling with the task of survival is no easy feat, as it introduces an extra layer of complexity and pressure to management gameplay." You can see a little teaser for this expansion below.
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[South Korea to invalidate passport of Terraform Lab's Do Kwon]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/06/south_korea_to_invalidate_passport/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/06/south_korea_to_invalidate_passport/"/>
-        <updated>2022-10-06T16:02:14.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Whereabouts of wanted cryptobro unknown, but he's reliably on Twitter</h4> <p>South Korea issued a publicly available notice on Wednesday to wanted man and Terraform Labs founder Do Kwon, demanding he return his passport.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Battlefield 2042 finally gets its first live service event, The Liquidators]]></title>
-        <id>https://www.eurogamer.net/battlefield-2042-finally-gets-its-first-live-service-event-the-liquidators</id>
-        <link href="https://www.eurogamer.net/battlefield-2042-finally-gets-its-first-live-service-event-the-liquidators"/>
-        <updated>2022-10-06T16:01:32.000Z</updated>
-        <summary type="html"><![CDATA[When EA released Battlefield 2042 almost 11 months ago, the promise of a live service Battlefield game filled brim with a constant stream of content updates was one of the key selling points.
-
-
-In fact, the live service model was supposed to be used as a substitute for the traditional story campaign, where in-game events would fill in the lore of the new climate-change ridden world.
-
-
-But all of that was postponed thanks to dire state of the game at launch. Now almost a year since launch and two seasons later, we finally have our first in-season event and new game mode. 
- 
-Read more]]></summary>
-        <author>
-            <name>Ishraq Subhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Three mysterious Pokémon icons seem to reveal yet more Violet and Scarlet species]]></title>
-        <id>https://www.eurogamer.net/three-mysterious-pokemon-icons-seem-to-reveal-yet-more-violetscarlet-species</id>
-        <link href="https://www.eurogamer.net/three-mysterious-pokemon-icons-seem-to-reveal-yet-more-violetscarlet-species"/>
-        <updated>2022-10-06T16:00:21.000Z</updated>
-        <summary type="html"><![CDATA[A handful of new, unannounced Pokémon have been spotted in the latest trailer.
-
-
-Earlier today, The Pokémon Company released a new trailer for Pokémon Scarlet and Violet that included around 14 minutes of gameplay.
-
-
-But at around the 7.17 mark, just as one trainer enters the town of Artazon, a number of new 'mon can be seen on the minimap at the bottom right of the screen.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Rally Point: Ostriv, Workers & Resources, and where town builders ought to go next]]></title>
-        <id>https://www.rockpapershotgun.com/the-rally-point-ostriv-workers-resources-and-where-town-builders-ought-to-go-next</id>
-        <link href="https://www.rockpapershotgun.com/the-rally-point-ostriv-workers-resources-and-where-town-builders-ought-to-go-next"/>
-        <updated>2022-10-06T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Let's be clear about one thing: whatever else I say today doesn't deny that building games are in a great state right now. Within just the last few years, we've not only had many releases, but an impressive proportion of well-designed, enjoyable games made with obvious care and enthusiasm. Things, in a word, are good. And yet I keep coming back to Ostriv, and Workers & Resources. Neither are out of early access yet. But they've had me contemplating the nature of a settlement, and the complex relationships between people, leaders, and the land itself, where so many of their peers feel like a dispassionate excercise in placing tokens.
-Building games are doing well. But they could be doing more.
-Read more]]></summary>
-        <author>
-            <name>Sin Vega</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This car company set new track records to prove its 3D printing tech]]></title>
-        <id>https://arstechnica.com/?p=1887530</id>
-        <link href="https://arstechnica.com/?p=1887530"/>
-        <updated>2022-10-06T15:58:40.000Z</updated>
-        <summary type="html"><![CDATA[Kevin and Lukas Czinger have a new way of making cars, and it's starting to catch on.]]></summary>
-        <author>
-            <name>Jonathan M. Gitlin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Need For Speed Unbound officially unveiled, skids onto PC in December]]></title>
-        <id>https://www.rockpapershotgun.com/need-for-speed-unbound-officially-unveiled-skids-onto-pc-in-december</id>
-        <link href="https://www.rockpapershotgun.com/need-for-speed-unbound-officially-unveiled-skids-onto-pc-in-december"/>
-        <updated>2022-10-06T15:51:40.000Z</updated>
-        <summary type="html"><![CDATA[The next Need For Speed has been revealed at last, and its new graphical direction is what I can only describe as pulling an 'Into The Spiderverse'. Yep, Need For Speed Unbound is looking pretty cel-shaded, with little cartoon streams of dust flying up from the wheels of your speeding vehicle. Substantially pimped-out vehicle, might I add, courtesy of rapper and general lad A$AP Rocky. Take a look at his motor in the trailer below.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cassette Beasts is a wonderful take on monster catching]]></title>
-        <id>https://www.gamingonlinux.com/2022/10/cassette-beasts-is-a-wonderful-take-on-monster-catching/</id>
-        <link href="https://www.gamingonlinux.com/2022/10/cassette-beasts-is-a-wonderful-take-on-monster-catching/"/>
-        <updated>2022-10-06T15:50:50.000Z</updated>
-        <summary type="html"><![CDATA[It needs to hurry up and be 2023 so I can play the full game of Cassette Beasts, an upcoming monster catching / creature collection game from Bytten Studio and RawFury.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter seeks assurances that Musk won’t break merger agreement again]]></title>
-        <id>https://arstechnica.com/?p=1887584</id>
-        <link href="https://arstechnica.com/?p=1887584"/>
-        <updated>2022-10-06T15:38:47.000Z</updated>
-        <summary type="html"><![CDATA[Debt financing a key sticking point in talks to end litigation and finish merger.]]></summary>
-        <author>
-            <name>Jon Brodkin</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fall Guys Star Trek crossover lets you dress as Spock and Worf]]></title>
-        <id>https://www.eurogamer.net/fall-guys-star-trek-crossover-lets-you-dress-as-spock-and-worf</id>
-        <link href="https://www.eurogamer.net/fall-guys-star-trek-crossover-lets-you-dress-as-spock-and-worf"/>
-        <updated>2022-10-06T15:35:55.000Z</updated>
-        <summary type="html"><![CDATA[Boistrous bean battle royale Fall Guys is adding Star Trek skins so you can dress as Spock, Worf and Uhura.
-
-
-A USS Enterprise backpack and Beam Me Up celebration will also be available. 
-
-
-It sounds like all of the above will be available via the game's store, save for Spock - you'll get him with Fall Guys' current season pass, alongside a Borg mask. I have to say, I really love these designs.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Om 22 dagar smäller det, släpptrailern för CoD Modern Warfare 2 smäller redan nu]]></title>
-        <id>https://www.fz.se/artikel/291706</id>
-        <link href="https://www.fz.se/artikel/291706-om-22-dagar-smaller-det-slapptrailern-for-cod-modern-warfare-2-smaller-redan-nu"/>
-        <updated>2022-10-06T15:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Plikten kallar (snart).]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starbreeze makes its return to publishing]]></title>
-        <id>https://www.eurogamer.net/starbreeze-makes-its-return-to-publishing</id>
-        <link href="https://www.eurogamer.net/starbreeze-makes-its-return-to-publishing"/>
-        <updated>2022-10-06T15:31:18.000Z</updated>
-        <summary type="html"><![CDATA[Swedish video game company Starbreeze has announced its return to publishing with an agreement signed with development studio Walking Tree Games to publish its upcoming game: The Tribe Must Survive.
-
-
-Starbreeze, best known for its development of the Payday series, fell from grace following the disastrous launch of Overkill's The Walking Dead on Steam back in 2018.
-
-
-The game's failure led to severe financial issues and the exit of the company's boss Bo Andersson. Wesley Yin-Poole produced a full-length feature on the company's collapse in 2019 which I recommend you give a thorough read if you want the full context. 
- 
-Read more]]></summary>
-        <author>
-            <name>Ishraq Subhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The rumoured Modern Warfare 2 "Greatest Hits" map pack won't be complete without these COD classics]]></title>
-        <id>https://www.rockpapershotgun.com/the-rumoured-modern-warfare-2-greatest-hits-map-pack-wont-be-complete-without-these-cod-classics</id>
-        <link href="https://www.rockpapershotgun.com/the-rumoured-modern-warfare-2-greatest-hits-map-pack-wont-be-complete-without-these-cod-classics"/>
-        <updated>2022-10-06T15:31:10.000Z</updated>
-        <summary type="html"><![CDATA[Call Of Duty: Modern Warfare 2 isn't even out yet and there's already a rumour circulating that, to celebrate the series' 20th anniversary, the game's going to receive a paid "Greatest Hits" map pack featuring a bunch of the classic maps from across the series. We're talking favourites from Infinity Ward, Sledgehammer Games, and Treyarch, all rolled into one mega-bundle.
-Of course, it's only a rumour, which means it could be debunked at any moment. But it did get Hayden and I – the resident codders of the RPS Treehouse – thinking. If this rumour turns out to be true, which maps would we like to see return for Modern Warfare 2?
-Read more]]></summary>
-        <author>
-            <name>Ed Thorn</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spider-Man Remastered on PC adds option to link PSN account]]></title>
-        <id>https://www.eurogamer.net/spider-man-remastered-on-pc-adds-option-to-link-psn-account</id>
-        <link href="https://www.eurogamer.net/spider-man-remastered-on-pc-adds-option-to-link-psn-account"/>
-        <updated>2022-10-06T15:18:21.000Z</updated>
-        <summary type="html"><![CDATA[An update to Spider-Man Remastered on PC lets players link their Steam and PlayStation Network accounts.
-
-
-Doing so will unlock the Resilient Suit and Concussive Blast Gadget in-game, as well as two skill points. Players will also receive news, updates and offers from PlayStation Studios on PC or PlayStation platforms.
-
-
-Spider-Man Remastered is the first PlayStation game on PC to offer this option, though it looks like Trophy support isn't included. It's unclear if previous games will also be updated with this feature, or if it will be included in future releases like Uncharted: Legacy of Thieves.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepMind uses matrix math to automate discovery of better matrix math techniques]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/06/deepmind_ai_matrix_multiplication_improvements/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/06/deepmind_ai_matrix_multiplication_improvements/"/>
-        <updated>2022-10-06T15:15:11.000Z</updated>
-        <summary type="html"><![CDATA[<h4>How Meta, er, meta</h4> <p>Google-owned DeepMind has applied reinforced learning techniques to the multiplication of mathematical matrices, beating some human-made algorithms that have lasted 50 years and working toward improvements in computer science.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepMind sets sights on automating the discovery of new algorithms]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/06/deepmind_ai_matrix_multiplication/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/06/deepmind_ai_matrix_multiplication/"/>
-        <updated>2022-10-06T15:15:11.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Google-owned company claims another scalp with applications in computer science</h4> <p>Google-owned DeepMind has applied reinforced learning techniques to the multiplication of mathematical matrices, beating some human-made algorithms that have lasted 50 years and working toward improvements in computer science.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ex-Uber security chief convicted of hiding hack from federal regulators]]></title>
-        <id>https://arstechnica.com/?p=1887551</id>
-        <link href="https://arstechnica.com/?p=1887551"/>
-        <updated>2022-10-06T15:11:37.000Z</updated>
-        <summary type="html"><![CDATA[Former security chief may be first exec found guilty of hiding a data breach.]]></summary>
-        <author>
-            <name>Ashley Belanger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rust Programming Language To Land in Linux Kernel 6.1]]></title>
-        <id>GNHKEAbQY6y5uChH2cF3fh</id>
-        <link href="https://www.tomshardware.com/news/rust-in-linux-kernel"/>
-        <updated>2022-10-06T15:10:08.000Z</updated>
-        <summary type="html"><![CDATA[Linux will support the Rust programming language in its kernel from version 6.1.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looks like pet petting is coming to Disney Dreamlight Valley]]></title>
-        <id>https://www.eurogamer.net/looks-like-pet-petting-is-coming-to-disney-dreamlight-valley</id>
-        <link href="https://www.eurogamer.net/looks-like-pet-petting-is-coming-to-disney-dreamlight-valley"/>
-        <updated>2022-10-06T15:09:59.000Z</updated>
-        <summary type="html"><![CDATA[For those who have been immersing themselves in Disney Dreamlight Valley's cosy content over the last few weeks or so, well, it looks like it could be about to get a whole lot cosier.
-
-
-A survey on the official Twitter feed has asked fans if they would like to be "able to interact with [their] animal companions?"
-
-
-There are then three options presented for you to choose from. These are: "Yes", "YES" (an important use of all capital letters there for emphasis) or "Yes (in the next update)!" 
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Invincible will ask much of the audience, but the rewards could be well worth it]]></title>
-        <id>https://www.vg247.com/the-invincible-will-ask-much-of-the-audience-but-the-rewards-could-be-well-worth-it</id>
-        <link href="https://www.vg247.com/the-invincible-will-ask-much-of-the-audience-but-the-rewards-could-be-well-worth-it"/>
-        <updated>2022-10-06T15:00:25.000Z</updated>
-        <summary type="html"><![CDATA[^Stay tuned for 1080p gameplay and expanded impressions through your vidscreen: it's futuristic!
-
-Headed up by Starward Industries, which is a super-group of devs who can list such esteemed projects as The Witcher 3, Dying Light, and Call of Juarez on their collective CV, The Invincible is an adventure game based on an acclaimed genre work by a celebrated Polish author which I haven’t read and neither have you.
-
-
-That’s where its similarities with The Witcher games start and end. The Invincible is a landmark work of hard science fiction which explores the perils of space colonisation and the very nature of alien life: the forms it may take, whether we’d recognise it, and how our prejudices might affect our decision making when encountering it. The game of the same name is not a beat-for-beat adaptation of the book, but a re-telling centred around a new character named Yasna: a female protagonist who doesn’t exist in the novel, but has been created fresh for the game as a concession to the fact that it is no longer the mid-sixties. 
- 
-Read more]]></summary>
-        <author>
-            <name>Jim Trinca</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RimWorld’s Biotech expansion introduces families and genetic engineering]]></title>
-        <id>https://www.rockpapershotgun.com/rimworlds-biotech-expansion-introduces-families-and-genetic-engineering</id>
-        <link href="https://www.rockpapershotgun.com/rimworlds-biotech-expansion-introduces-families-and-genetic-engineering"/>
-        <updated>2022-10-06T15:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Sci-fi colony simulator RimWorld is capable of generating some scenarios that could make The Sims 4 blush, and the newly announced Biotech expansion isn’t likely to change that. Y’see, Biotech introduces pregnancy, child-rearing, and families. It isn’t stopping there, because there’s also genetic engineering now. Your character will be able to psychically command semi-living machines too thanks to a special implant, making them your thralls. That’s one word for it, anyway.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You can play Dead by Daylight for free this Halloween]]></title>
-        <id>https://www.eurogamer.net/you-can-play-dead-by-daylight-for-free-this-halloween</id>
-        <link href="https://www.eurogamer.net/you-can-play-dead-by-daylight-for-free-this-halloween"/>
-        <updated>2022-10-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[As part of its Halloween season, Dead by Daylight will be free to play for the last weekend in October.
-
-
-That's from 27th October to 1st November, but there's more happening in the horror game all month in its Haunted by Daylight season, including outfits and a new tome.
-
-
-That tome is called Malevolence and will include memories for Killer Ghost Face and Survivor Mikaela Reid.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Continues Working Toward HDR Display Support For The Linux Desktop]]></title>
-        <id>https://www.phoronix.com/news/AMD-2022-Linux-HDR-Display-Hard</id>
-        <link href="https://www.phoronix.com/news/AMD-2022-Linux-HDR-Display-Hard"/>
-        <updated>2022-10-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[One of the rather elusive items on the Linux desktop is High Dynamic Range (HDR) display support... There's been code in the works for years but across desktops and drivers, it's still a long-term effort getting HDR support on the Linux desktop. Even going back to 2016, with NVIDIA's cross-platform driver code the Linux desktop remained the bottleneck. There is at least some ongoing work to address this long-term issue with AMD this week presenting on the topic...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Electronic Wireless Show podcast episode 203: the best villainous breakdowns in games special]]></title>
-        <id>https://www.rockpapershotgun.com/electronic-wireless-show-podcast-episode-203-the-best-villainous-breakdowns-in-games-special</id>
-        <link href="https://www.rockpapershotgun.com/electronic-wireless-show-podcast-episode-203-the-best-villainous-breakdowns-in-games-special"/>
-        <updated>2022-10-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We're back with a bang, a villainous laugh, and a dose of coronavirus I've brought back from somewhere in Tenerife. The two week drought is broken with a shower of Electronic Wireless Show podcast rain, were we discuss the best villainous breakdowns we've enjoyed in video games. Matthew is sadly away this week because, while my coronavirus dose is mild, like the tingle of delicious Rio Tropical on your tongue, Matthew's is wild and aggressive, like a super-charged Electricity Cop.
-In his absence, Nate and I talk about some proper good villains, and even discuss some sensible things like evil cartoon monsters vs. villains you can sort of sympathise with. Handsome Jack? GLaDOS? LeChuck? Andrew Ryan? That's one hell of an awkward dinner party. Plus stick around for a Cavern Of Lies that proves Warhammer 40k is essentially the same as Tumblr.
-Read more]]></summary>
-        <author>
-            <name>Alice Bell</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omröstning - Vilket Need for Speed är bäst?]]></title>
-        <id>https://www.fz.se/artikel/291707</id>
-        <link href="https://www.fz.se/artikel/291707-omrostning-vilket-need-for-speed-ar-bast"/>
-        <updated>2022-10-06T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Du har drygt 20 spel att välja bland.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Far Cry 6 Game of the Year Edition will include the unannounced Lost Between Worlds expansion]]></title>
-        <id>https://www.vg247.com/far-cry-6-game-of-the-year-edition-lost-between-worlds-expansion</id>
-        <link href="https://www.vg247.com/far-cry-6-game-of-the-year-edition-lost-between-worlds-expansion"/>
-        <updated>2022-10-06T14:55:57.000Z</updated>
-        <summary type="html"><![CDATA[A Game of the Year Edition has been released for Far Cry 6, and it includes an expansion that has yet to be announced by Ubisoft.
-The GOTY version of Far Cry 6 will run you a hefty $119.99/£99.99, but if you already own the game, you can upgrade to this edition for $59.99/£49.99.
-As noted by VGC, this edition features the game, the new Lost Between Worlds expansion ("coming soon"), the Season Pass which includes three DLC episodes and Far Cry 3: Blood Dragon Classic Edition, and three packs: Vice, Croc Hunter, and Jungle Expedition.
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Pixel Watch is official: $349, good looks, and a four-year-old SoC]]></title>
-        <id>https://arstechnica.com/?p=1886799</id>
-        <link href="https://arstechnica.com/?p=1886799"/>
-        <updated>2022-10-06T14:45:16.000Z</updated>
-        <summary type="html"><![CDATA[Google prices itself way above Apple and Samsung, with slower hardware.]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google’s Pixel 7 is official, with wider 17-country rollout]]></title>
-        <id>https://arstechnica.com/?p=1886601</id>
-        <link href="https://arstechnica.com/?p=1886601"/>
-        <updated>2022-10-06T14:45:09.000Z</updated>
-        <summary type="html"><![CDATA[They get aluminum camera bars and a "gen 2" Tensor chip that hasn't changed much.]]></summary>
-        <author>
-            <name>Ron Amadeo</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OG Overwatch 2 players are finding their characters locked away in frustrating character select bug]]></title>
-        <id>https://www.vg247.com/og-overwatch-2-players-are-finding-their-characters-locked-away-in-frustrating-character-select-bug</id>
-        <link href="https://www.vg247.com/og-overwatch-2-players-are-finding-their-characters-locked-away-in-frustrating-character-select-bug"/>
-        <updated>2022-10-06T14:43:45.000Z</updated>
-        <summary type="html"><![CDATA[Overwatch 2 is out, and is having a range of serious problems in its early days. This includes a massive DDOS attack that has led to server queues up in the 40,000s, as well as a a mandatory phone verification system for players (although this has now been removed for Overwatch 1 players). However, that doesn’t mean that original Overwatch players are out of the mud quite yet, as some are finding their hero roster locked away.
-This bug is likely a result of the intended new-player experience for those who weren’t Overwatch 1 players, as this group will need to grind through over 100 matches in order to unlock all of the original roster.The bad news is that it seems like the game is applying this restriction to players who are anything but new, forcing them to reboot the game as the only current fix which throws them back into the queue.
-This includes Reddit user GumpaGumpa, who posted their issue onto the Overwatch 2 Reddit yesterday showing their largely locked roster. Below the original post, numerous other players express their frustration with the bug, and some even claiming a single restart didn’t help at all, leaving them still without their full arsenal of characters several hours later.
- Read more]]></summary>
-        <author>
-            <name>Connor Makar</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Are CD Projekt's Cyberpunk and Witcher plans too ambitious?]]></title>
-        <id>https://www.eurogamer.net/eurogamer-newscast-cdprojekt-plans-witcher-cyberpunk-ambitious</id>
-        <link href="https://www.eurogamer.net/eurogamer-newscast-cdprojekt-plans-witcher-cyberpunk-ambitious"/>
-        <updated>2022-10-06T14:42:45.000Z</updated>
-        <summary type="html"><![CDATA[This week on the Eurogamer Newscast we're discussing the avalance of announcements to come from CD Projekt Red, maker of The Witcher series and Cyberpunk 2077.
-
-
-Taking a leaf out of Ubisoft's recent playbook - when it lay the entirety of its Assassin's Creed plans on the table - CD Projekt Red has done similar, discussing projects which we'll see release across the whole of the next decade. There's going to be a new trilogy of new Witcher games, a Cyberpunk sequel, a new IP and various other spin-offs - though there was no word on Cyberpunk's standalone multiplayer portion, and still no firm date for The Witcher 3's long-awaited current-gen console update.
-
-With questions still to answer about what we'd known was coming, how likely is it we'll see any of these fresh projects soon? And if not, why announce them now? Tom Phillips, Ed Nightingale, Victoria Kennedy and Ishraq Subhan share their thoughts.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IoT harmony? What Matter and Thread really mean for your smart home]]></title>
-        <id>https://arstechnica.com/?p=1887208</id>
-        <link href="https://arstechnica.com/?p=1887208"/>
-        <updated>2022-10-06T14:37:41.000Z</updated>
-        <summary type="html"><![CDATA[An explainer on how Matter and Thread work and how they might actually help.]]></summary>
-        <author>
-            <name>Kevin Purdy</name>
         </author>
     </entry>
 </feed>
