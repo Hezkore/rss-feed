@@ -2,10 +2,104 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-20T19:30:27.698Z</updated>
+    <updated>2022-10-20T20:30:32.244Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Two Point Campus's Halloween update adds zombies, pumpkins and a new challenge mode]]></title>
+        <id>https://www.rockpapershotgun.com/two-point-campuss-halloween-update-adds-zombies-pumpkins-and-a-new-challenge-mode</id>
+        <link href="https://www.rockpapershotgun.com/two-point-campuss-halloween-update-adds-zombies-pumpkins-and-a-new-challenge-mode"/>
+        <updated>2022-10-20T20:21:41.000Z</updated>
+        <summary type="html"><![CDATA['Tis the season to add zombies to your video game. Two Point Campus is the latest to get into the Halloween action with a new update, out now, which adds pumpkins, shambling undead, and a new challenge mode.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Psychedelic survival horror Saturnalia is next week's free Epic Store game]]></title>
+        <id>https://www.eurogamer.net/psychedelic-survival-horror-saturnalia-is-next-weeks-free-epic-store-game</id>
+        <link href="https://www.eurogamer.net/psychedelic-survival-horror-saturnalia-is-next-weeks-free-epic-store-game"/>
+        <updated>2022-10-20T20:02:07.000Z</updated>
+        <summary type="html"><![CDATA[Saturnalia - the striking new survival horror from acclaimed studio Santa Ragione - is free on the Epic Games Store next week, alongside Warhammer 40,000: Mechanicus.
+
+
+Santa Ragione, if you're unfamiliar, previously released the celebrated likes of MirrorMoon EP and Fotonica, but Saturnalia - which is heavily influenced by the folklore of Sardinia - looks to be its most ambitious title yet, trapping players in an ancient village steeped in murky rituals and challenging them to uncover its many secrets.
+
+
+Although a solo experience, players take control of four different characters as they investigate the village's labyrinthine, and decidedly psychedelic, streets. If one character get captured - horrible things lurk in the shadows - players can switch to another and attempt a rescue, but once all four are dead, the village physically reconfigures itself for another attempt. Thankfully, narrative and puzzle progress is retained across game-overs.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Releases First Arc Graphics Driver Package For Ubuntu]]></title>
+        <id>s9D237UfjXniJtY6qjjLP6</id>
+        <link href="https://www.tomshardware.com/news/intel-releases-first-arc-graphics-driver-package-for-ubuntu"/>
+        <updated>2022-10-20T20:01:55.000Z</updated>
+        <summary type="html"><![CDATA[Intel has officially released its first graphics driver package, designed for Linux Ubuntu 22.04 LTS. The new driver stack will allow any PC user to quickly set up an Arc GPU in their system as if it were a Windows-based system.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mike Gabriel: Ubuntu Touch development - Wanna sponsor ARM64 CPU power for CI build infrastructure?]]></title>
+        <id>https://sunweavers.net/141 at https://sunweavers.net/blog</id>
+        <link href="https://sunweavers.net/blog/node/141"/>
+        <updated>2022-10-20T19:59:40.000Z</updated>
+        <summary type="html"><![CDATA[What is Ubuntu Touch? (And what does sunweaver have to do with it?)
+With Ubuntu Touch, the UBports Foundation offers a truly unique mobile experience - a viable alternative to Android and iOS. The UBports community provides a free and open-source GNU/Linux-based mobile operating system. One that can be installed and used today.
+Currently, there is an intensive effort going on lifting Ubuntu Touch from its current Ubuntu 16.04 base up to an Ubuntu 20.04 base. (And very soon after that to an Ubuntu 22.04 base...).
+With the Ubuntu Touch 20.04 base the progress bar is already at (I'd say) 89%, but we recently got hit by a drawback.
+I am currently involved in the Ubuntu Touch core development team at UBports and on medium short notice our current ARM64 server sponsor has announced to decommission our ARM64 build server that currently powers all the ARM64 and armhf CI builds.
+Call for Hardware Sponsoring
+So, the UBports core development team is currently desperately looking for a sponsor (or a few sponsors) who can provide us with (datacenter-hosted) ARM-based CPU power. It is important, that also 32-bit ARM builds are possible with the hardware provided.
+For testing, I recently ordered a HoneyComb LX2 (by SolidRun) as a possible solution (multi-node in the end), but the board arrived in a non-usable state, it seems. So this also didn't work out as easy as expected.
+As the former provider/sponsor is about to pull the plug, this call for help is kind of urgent. 
+Please get in touch if you can help us out or know people who can.
+Thanks!!!]]></summary>
+        <author>
+            <name>Planet Debian</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Texas sues Google over alleged nonconsensual harvesting of biometric data]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/20/texas_ag_sues_google_biometrics/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/20/texas_ag_sues_google_biometrics/"/>
+        <updated>2022-10-20T19:45:11.000Z</updated>
+        <summary type="html"><![CDATA[<h4>You can kiss my Californian ass, says ad giant</h4> <p>Texas Attorney General Ken Paxton has sued Google claiming the internet titan captured biometric data from millions of Texans without notice and consent.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Street Fighter 6 beta gets update to delete the .exe so people stop playing it]]></title>
+        <id>https://www.rockpapershotgun.com/street-fighter-6-beta-gets-update-to-delete-the-exe-so-people-stop-playing-it</id>
+        <link href="https://www.rockpapershotgun.com/street-fighter-6-beta-gets-update-to-delete-the-exe-so-people-stop-playing-it"/>
+        <updated>2022-10-20T19:35:14.000Z</updated>
+        <summary type="html"><![CDATA[Street Fighter 6's beta ran from October 7th until the 10th - or at least it was meant to. Some cheeky players found a way to keep playing the beta after it ended, prompting Capcom to release a new update earlier today to delete it from player's hard drives.
+
+ 
+Read more]]></summary>
+        <author>
+            <name>Graham Smith</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Record 1.84 Petabit/s Data Transfer Achieved With Photonic Chip, Fiber Optic Cable]]></title>
+        <id>KgAtqh7QaovdhcjnvPaJna</id>
+        <link href="https://www.tomshardware.com/news/record-184-petabit-per-second-data-transfers-achieved-using-photonic-chip-and-fiber-optic-cable"/>
+        <updated>2022-10-20T19:31:32.000Z</updated>
+        <summary type="html"><![CDATA[Current worldwide internet bandwidth is said to be approximately 1 petabit/s, and this technology could almost double that over a single cable.]]></summary>
+        <author>
+            <name>Tomshardware</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Football Manager 2023's early access beta is live now for those who pre-order]]></title>
         <id>https://www.rockpapershotgun.com/football-manager-2023s-early-access-beta-is-live-now-for-those-who-pre-order</id>
@@ -18593,26 +18687,6 @@ There are two versions of Tactical Conquest, and each will be available for a fu
         <summary type="html"><![CDATA[<h4>They can't be any worse than some human developers</h4> <p>Machine-learning models that power next-gen code-completion tools like GitHub Copilot can help software developers write more functional code, without making it less secure.…</p>]]></summary>
         <author>
             <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There in Spirit]]></title>
-        <id>https://loadingartist.com/comic/there-in-spirit/</id>
-        <link href="https://loadingartist.com/comic/there-in-spirit/"/>
-        <updated>2022-10-07T08:06:48.000Z</updated>
-        <summary type="html"><![CDATA[a comic about a ghost]]></summary>
-        <author>
-            <name>Gregor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Japp, Elle Fanning är inblandad i Kojimas nästa spel]]></title>
-        <id>https://www.fz.se/artikel/291713</id>
-        <link href="https://www.fz.se/artikel/291713-japp-elle-fanning-ar-inblandad-i-kojimas-nasta-spel"/>
-        <updated>2022-10-07T07:57:00.000Z</updated>
-        <summary type="html"><![CDATA[Den kryptiska "Who Am I"-bilden har avtäckts.]]></summary>
-        <author>
-            <name>FZ.se</name>
         </author>
     </entry>
 </feed>
