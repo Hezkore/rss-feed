@@ -2,10 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-19T23:33:00.165Z</updated>
+    <updated>2022-10-20T02:37:39.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[SolarWinds and Dynatrace directors resign over antitrust concerns]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/20/doj_solarwinds_dynatrace_interlocking_directors/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/20/doj_solarwinds_dynatrace_interlocking_directors/"/>
+        <updated>2022-10-20T02:28:13.000Z</updated>
+        <summary type="html"><![CDATA[<h4>DoJ cracks down on competing companies that share board members</h4> <p>Directors at tech firms SolarWinds, DynaTrace, Skillsoft, and Udemy have resigned after the US Department of Justice raised concerns about overlapping board membership it felt created antitrust problems.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Health insurer's infosec incident diagnosis goes from 'take a chill pill' to emergency ward]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/20/medibank_data_breach_worsens/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/20/medibank_data_breach_worsens/"/>
+        <updated>2022-10-20T01:34:10.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Australia's Medibank has suspended itself from share trading amid demands for payments to prevent data release</h4> <p>Australian health insurer Medibank has revealed it's been contacted by a group that claims to have its customers' data and is threatening to distribute it.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CISA warns of security holes in industrial Advantech, Hitachi kit]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/20/cisa_flaws_advantech_hitachi/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/20/cisa_flaws_advantech_hitachi/"/>
+        <updated>2022-10-20T00:35:59.000Z</updated>
+        <summary type="html"><![CDATA[<h4>When we concede that everything has bugs, we wish it wasn't quite everything</h4> <p>This week, the US government's Cybersecurity and Infrastructure Security Agency (CISA) expanded its ever-growing list of vulnerability in industrial control systems (ICS) and critical infrastructure technology.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cost of a health insurance security breach? NY watchdogs say it's $4.5m]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/19/eyemed_data_breach_settlement/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/19/eyemed_data_breach_settlement/"/>
+        <updated>2022-10-19T23:54:44.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Hundreds of thousands of people's sensitive info poorly protected</h4> <p>New York regulators continue turning the screws on organizations with slapdash computer security.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corsair PSU Linux Driver Patched To Work With The New HX1500i PSU]]></title>
+        <id>https://www.phoronix.com/news/Corsair-HX1500i-Linux-Driver</id>
+        <link href="https://www.phoronix.com/news/Corsair-HX1500i-Linux-Driver"/>
+        <updated>2022-10-19T23:47:54.000Z</updated>
+        <summary type="html"><![CDATA[Corsair this summer launched the HX1500i power supply as the latest in their HX series. The Corsair HX1500i provides three EPS12V connectors, a fully modular design, and as implied by the model is sized for providing 1500 Watts. This $399 USD power supply can now also interface with the Linux kernel for monitoring support...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GPS interference caused the FAA to reroute Texas air traffic. Experts stumped]]></title>
+        <id>https://arstechnica.com/?p=1891367</id>
+        <link href="https://arstechnica.com/?p=1891367"/>
+        <updated>2022-10-19T23:30:38.000Z</updated>
+        <summary type="html"><![CDATA[Episode lasting almost 2 days prompted the closure of a runway at Dallas airport.]]></summary>
+        <author>
+            <name>Dan Goodin</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IBM Consulting orders staff back to the office for at least three days a week]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/19/ibm_consulting_three_day_week/</id>
@@ -14,6 +74,26 @@
         <summary type="html"><![CDATA[<h4>And would you believe it, employees are not thrilled</h4> <p><strong>Exclusive</strong>  IBM Consulting on Tuesday issued a policy telling US employees located near IBM or client offices that they are expected to be in the office at least three days a week.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
         <author>
             <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stunning new Webb Telescope image showcases the “Pillars of Creation“]]></title>
+        <id>https://arstechnica.com/?p=1891200</id>
+        <link href="https://arstechnica.com/?p=1891200"/>
+        <updated>2022-10-19T22:56:59.000Z</updated>
+        <summary type="html"><![CDATA[Protostars steal the show in this new image from the telescope's Near Infrared Camera.]]></summary>
+        <author>
+            <name>Jennifer Ouellette</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Death etched a mark on our genetics, warping immune responses, study finds]]></title>
+        <id>https://arstechnica.com/?p=1891350</id>
+        <link href="https://arstechnica.com/?p=1891350"/>
+        <updated>2022-10-19T22:42:36.000Z</updated>
+        <summary type="html"><![CDATA[The plague may have put selective pressure on mutations in four genes.]]></summary>
+        <author>
+            <name>Beth Mole</name>
         </author>
     </entry>
     <entry>
@@ -18484,465 +18564,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[An explainer on how Matter and Thread work and how they might actually help.]]></summary>
         <author>
             <name>Kevin Purdy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Block this: Using satellites to plaster ads over our skies could work, say boffins]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/06/space_satellite_advertising/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/06/space_satellite_advertising/"/>
-        <updated>2022-10-06T14:30:07.000Z</updated>
-        <summary type="html"><![CDATA[<h4>They can't hurt us if we stay indoors</h4> <p>"Space: the final frontier" – not just for humanity but also marketeers, it would seem, as Russian scientists have undertaken a feasibility study on satellite-displayed advertising. They conclude that not only is it possible, but it could also turn a profit.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Block this: Scientists show how satellite advertising could be economically viable]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/06/space_advertising/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/06/space_advertising/"/>
-        <updated>2022-10-06T14:30:07.000Z</updated>
-        <summary type="html"><![CDATA[<h4>They can't hurt us if we stay indoors</h4> <p>"Space: the final frontier" – not just for humanity but also marketeers, it would seem, as Russian scientists have undertaken a feasibility study on satellite-based advertising. They conclude that not only is it possible, but it could also turn a profit.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quiz: Vad kan du om Windows?]]></title>
-        <id>https://www.sweclockers.com/artikel/35037</id>
-        <link href="https://www.sweclockers.com/artikel/35037-quiz-vad-kan-du-om-windows"/>
-        <updated>2022-10-06T14:25:08.000Z</updated>
-        <summary type="html"><![CDATA[Windows 11 fyller ett år i veckan och det firas genom att testa dina kunskaper om Windows och operativsystemets historia.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's the first trailer for Need for Speed Unbound]]></title>
-        <id>https://www.eurogamer.net/heres-the-first-trailer-for-need-for-speed-unbound</id>
-        <link href="https://www.eurogamer.net/heres-the-first-trailer-for-need-for-speed-unbound"/>
-        <updated>2022-10-06T14:23:36.000Z</updated>
-        <summary type="html"><![CDATA[After months of speculation, leaks and rumours, EA has finally revealed the next installment of the Need for Speed in a swanky new trailer. 
-
-
-Need for Speed Unbound is lush with an anime aesthetic that's combined with the grungy street racing vibes of early Need for Speed games. 
-
-
-The trailer features American rapper A$AP Rocky, who is heard narrating in the beginning of the trailer before finishing off with what appears to be a brand-new track from the rapper. 
- 
-Read more]]></summary>
-        <author>
-            <name>Ishraq Subhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noctua Paste Guard for Ryzen 7000 Prevents Thermal Paste Spillovers]]></title>
-        <id>Yjn2PZCNJ2zDiSMjHV3fH6</id>
-        <link href="https://www.tomshardware.com/news/noctua-paste-guard-for-ryzen-7000-prevents-thermal-paste-spillovers"/>
-        <updated>2022-10-06T14:21:32.000Z</updated>
-        <summary type="html"><![CDATA[This is simply a heat-resistant polycarbonate frame precisely cut to leave no gaps around the octo-leg AM5 heat spreader. It becomes available this December, bundled with wipes and pastes, starting from $7.90.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft's proposed acquisition of Activision Blizzard approved in Brazil]]></title>
-        <id>https://www.eurogamer.net/microsofts-proposed-acquisition-of-activision-blizzard-approved-in-brazil</id>
-        <link href="https://www.eurogamer.net/microsofts-proposed-acquisition-of-activision-blizzard-approved-in-brazil"/>
-        <updated>2022-10-06T14:21:29.000Z</updated>
-        <summary type="html"><![CDATA[Brazil has approved Microsoft's proposed acquisition of Activision Blizzard.
-
-
-In new documentation issued by the country's Administrative Council for Economic Defence (CADE) on Wednesday, the regulator stated it has approved of this deal "without restrictions".
-
-
-Along with this approval, CADE did touch on the more high-profile elements of this proposed acquisition, including Activision's Call of Duty franchise - a franchise which has recently felt like it's been caught up in a custody battle between Xbox and PlayStation. 
- 
-Read more]]></summary>
-        <author>
-            <name>Victoria Kennedy</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VisionFive 2 RISC-V Board Available For Pre-Order]]></title>
-        <id>eNLuaTXHszwoGHo9AAmTzD</id>
-        <link href="https://www.tomshardware.com/news/visionfive-2-risc-v-board"/>
-        <updated>2022-10-06T14:14:45.000Z</updated>
-        <summary type="html"><![CDATA[A quad-core RISC-V based Raspberry Pi alternative is now available for preorder.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Need for Speed Unbound trailer shows off a new look for the series]]></title>
-        <id>https://www.vg247.com/need-for-speed-unbound-trailer-shows-off-a-new-look-for-the-series</id>
-        <link href="https://www.vg247.com/need-for-speed-unbound-trailer-shows-off-a-new-look-for-the-series"/>
-        <updated>2022-10-06T14:14:40.000Z</updated>
-        <summary type="html"><![CDATA[EA has released the reveal trailer for Need for Speed Unbound a bit earlier than originally planned today.
-This is likely due to the game leaking yesterday thanks to a Japanese retail listing.
-While there isn't any information on the game available at present, as the official website still has a countdown clock going, the video does a good job showing off a new look for the series.
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genshin Impact devs don't want to "create excessive anxiety" with more endgame content]]></title>
-        <id>https://www.eurogamer.net/genshin-impact-devs-dont-want-to-create-excessive-anxiety-with-more-endgame-content</id>
-        <link href="https://www.eurogamer.net/genshin-impact-devs-dont-want-to-create-excessive-anxiety-with-more-endgame-content"/>
-        <updated>2022-10-06T14:13:50.000Z</updated>
-        <summary type="html"><![CDATA[Genshin Impact developer miHoYo has said it does not want to add further endgame content similar to the Spiral Abyss because of the "excessive anxiety" it could create for players.
-
-
-Spiral Abyss is the only true endgame content for players at high Adventure Ranks. In a recent Gamespot interview, a miHoYo spokesperson was asked if there were plans to release more permanent endgame content in the "same vein".
-
-
-"The Spiral Abyss is one of the most effective ways [for] players [to] test out their party composition and combat strength," miHoYo replied. "If we design another type of permanent endgame that is similar to the Spiral Abyss, it might end up creating excessive anxiety for our players - not everyone is interested in Musk Reef."
- 
-Read more]]></summary>
-        <author>
-            <name>Jessica Orr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dead Space-remaken kan även släppas till gammelkonsolerna]]></title>
-        <id>https://www.fz.se/artikel/291705</id>
-        <link href="https://www.fz.se/artikel/291705-dead-space-remaken-kan-aven-slappas-till-gammelkonsolerna"/>
-        <updated>2022-10-06T14:05:00.000Z</updated>
-        <summary type="html"><![CDATA[Har dock inte bekräftats av EA.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The robot takeout revolution is closer than you think]]></title>
-        <id>https://arstechnica.com/?p=1887260</id>
-        <link href="https://arstechnica.com/?p=1887260"/>
-        <updated>2022-10-06T14:00:17.000Z</updated>
-        <summary type="html"><![CDATA[I learned a lot ordering a donut and a muffin from delivery robots.]]></summary>
-        <author>
-            <name>Timothy B. Lee</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pokémon Scarlet and Violet trailer shows off auto-battling Let's Go feature]]></title>
-        <id>https://www.eurogamer.net/pokemon-scarlet-and-violet-trailer-shows-off-auto-battling-lets-go-feature</id>
-        <link href="https://www.eurogamer.net/pokemon-scarlet-and-violet-trailer-shows-off-auto-battling-lets-go-feature"/>
-        <updated>2022-10-06T13:51:31.000Z</updated>
-        <summary type="html"><![CDATA[The Pokémon Company has released a new gameplay trailer for the forthcoming Pokémon Scarlet and Violet, with 14 minutes of footage.
-
-
-The trailer follows four different Trainers as they explore the Paldean region, showing the variety of adventuring available.
-
-
-Most significant is the game's Let's Go feature that allows partner Pokémon to be sent off to battle others alone in the world, or gather items, which should make grinding much smoother.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overwatch 2 is the latest in a long line of terrible game launches – and I’m not even talking about the queues]]></title>
-        <id>https://www.vg247.com/overwatch-2-bad-launch</id>
-        <link href="https://www.vg247.com/overwatch-2-bad-launch"/>
-        <updated>2022-10-06T13:51:02.000Z</updated>
-        <summary type="html"><![CDATA[“Heroes never die.” That’s Overwatch’s little mantra – a motto you’ve probably heard a million times over if you or one of your teammates has ever been a Mercy main. It sort-of became a de facto rallying cry for the game, too: no matter how many times Blizzard slowed down the drip feed of new content, it always came back. Often with a bang. Like a true hero, Overwatch – or the original Overwatch at least – could never stay down. 
-
-That was until its own creator came along to put a bullet in its head. In order for a new hero to rise, the original one had to die. So Blizzard stood above its favourite creation, placed the cold steel to its forehead, and pulled the trigger without a second thought. In theory, what rose from the ashes would be harder, better, faster, stronger… but in reality, it’s been a pale imitation of what came before.
-Overwatch 2, let’s face it, has had an appalling launch. If you’ve spent even a fraction of a second online this past week, you’ll have seen stories about the queues. Blizzard notes that a lot of the issue with logging in comes down to DDoS attacks on its servers. Fast-forward 48 hours, though, and little has changed; I have the Xbox version of the game open as I write this, and I have gone from 400 people ahead of me in the queue, to 300, to 800, and now to 1600. 
- 
-Read more]]></summary>
-        <author>
-            <name>Dom Peppiatt</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Call of Duty: Modern Warfare 2's campaign entangles Task Force 141 in the bloody War on Drugs]]></title>
-        <id>https://www.eurogamer.net/call-of-duty-modern-warfare-2s-campaign-entangles-task-force-141-in-the-bloody-war-on-drugs</id>
-        <link href="https://www.eurogamer.net/call-of-duty-modern-warfare-2s-campaign-entangles-task-force-141-in-the-bloody-war-on-drugs"/>
-        <updated>2022-10-06T13:46:44.000Z</updated>
-        <summary type="html"><![CDATA[Activision has released its first gameplay trailer of the upcoming Call of Duty: Modern Warfare 2, which gives us our first glimpse of the first-person shooter's campaign.
-
-
-The trailer largely confirms the rumours and leaks of the past few months which suggested the campaign would involve the global War on Drugs. 
-
-
-Task Force 141 is deployed in an unnamed South American country, as it seeks out a terrorist that appears to be allied with drug traffickers. Essentially, the story entangles the War on Terror with the War on Drugs. 
- 
-Read more]]></summary>
-        <author>
-            <name>Ishraq Subhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlayStation trailer which lists Dead Space remake for PS4 is a mistake]]></title>
-        <id>https://www.eurogamer.net/playstation-trailer-which-lists-dead-space-remake-for-ps4-is-a-mistake</id>
-        <link href="https://www.eurogamer.net/playstation-trailer-which-lists-dead-space-remake-for-ps4-is-a-mistake"/>
-        <updated>2022-10-06T13:46:34.000Z</updated>
-        <summary type="html"><![CDATA[A PlayStation trailer listing that suggested EA Motive's upcoming Dead Space remake will launch for PS4 as well as PS5 is a mistake, Eurogamer understands. 
-
-
-EA's latest trailer for the game was published today on PlayStation's official YouTube channel for Latin America, which has 664,000 subscribers, and wrongly labels the revived survival horror as coming to both PS4 and PS5. 
-
-
-The listing sparked fan speculation and media reports that the game was also quietly being developed for PS4 and Xbox One.
- 
-Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft warns admins that Windows 11 update breaks provisioning]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/06/windows_11_22h2/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/06/windows_11_22h2/"/>
-        <updated>2022-10-06T13:45:14.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Plus: It wouldn't be a Windows update without printing issues</h4> <p>The Windows 11 2022 Update that Microsoft started rolling out in September is in its teething phase, with warnings of unexpected restarts and half-completed out of box experiences for users when deploying on new devices.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Pokemon Scarlet and Violet video covers terastallizing, having picnics with your Pokemon, and more]]></title>
-        <id>https://www.vg247.com/new-pokemon-scarlet-and-violet-video-covers-terastallizing-having-picnics-with-your-pokemon-and-more</id>
-        <link href="https://www.vg247.com/new-pokemon-scarlet-and-violet-video-covers-terastallizing-having-picnics-with-your-pokemon-and-more"/>
-        <updated>2022-10-06T13:44:56.000Z</updated>
-        <summary type="html"><![CDATA[A new Pokemon Scarlet and Violet trailer has been released, and it goes over some of the things you will be up to in the game.
-It goes over all sorts of things, ranging from customization to raids, picnics, and tera-type formations.
-The video discusses how as a student you will participate in an independent study program called Treasure Hunt. It goes on to show four upcoming trainers' journeys as they search for a "treasure" of their own. Which we assume are Pokemon.
- Read more]]></summary>
-        <author>
-            <name>Stephany Nunneley</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Need for Speed: Unbound avtäckt - släpps i december]]></title>
-        <id>https://www.fz.se/artikel/291704</id>
-        <link href="https://www.fz.se/artikel/291704-need-for-speed-unbound-avtackt-slapps-i-december"/>
-        <updated>2022-10-06T13:25:00.000Z</updated>
-        <summary type="html"><![CDATA[EA släppte trailern i förtid efter läckor.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[17:00 - Se nya Need for Speed avtäckas]]></title>
-        <id>https://www.fz.se/artikel/291704</id>
-        <link href="https://www.fz.se/artikel/291704-1700-se-nya-need-for-speed-avtackas"/>
-        <updated>2022-10-06T13:25:00.000Z</updated>
-        <summary type="html"><![CDATA[Stämmer ryktena?]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Big Tech shreds millions of storage devices it could reuse]]></title>
-        <id>https://arstechnica.com/?p=1887511</id>
-        <link href="https://arstechnica.com/?p=1887511"/>
-        <updated>2022-10-06T13:23:20.000Z</updated>
-        <summary type="html"><![CDATA[There are better options than destroying used hard drives in the name of data security.]]></summary>
-        <author>
-            <name>Financial Times</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Arc A770 och A750 testas i spel]]></title>
-        <id>https://www.sweclockers.com/artikel/35036</id>
-        <link href="https://www.sweclockers.com/artikel/35036-intel-arc-a770-och-a750-testas-i-spel"/>
-        <updated>2022-10-06T13:14:37.000Z</updated>
-        <summary type="html"><![CDATA[Under gårdagen släppte Intel på spärrarna för toppkorten i Arc A-serien, som fått bekänna färg i ett gäng spel i både tysk och amerikansk hårdvarupress.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Modern Warfare 2 launch trailer is hot with campaign footage]]></title>
-        <id>https://www.vg247.com/modern-warfare-2-gameplay-launch-trailer-watch</id>
-        <link href="https://www.vg247.com/modern-warfare-2-gameplay-launch-trailer-watch"/>
-        <updated>2022-10-06T13:04:54.000Z</updated>
-        <summary type="html"><![CDATA[Infinity Ward and Activision debuted the Modern Warfare 2 gameplay launch trailer moments ago. This was a livestream-style reveal, with the trailer having just aired on Call of Duty's YouTube channel. 
-We're still several weeks away from the launch of the game, of course, so while a dropping a launch trailer now might seem strange, it's a thing more and more publishers have been doing in recent years, mainly to ramp up pre-orders.
-Love the tactic or hate it, though, this new Modern Warfare 2 trailer is good. The focus is squarely on the single-player campaign here. We get treated to plenty of new footage, showing both gameplay and cutscenes from various missions.
- Read more]]></summary>
-        <author>
-            <name>Sherif Saed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rusticl Shows Great Start For Rust OpenCL In Mesa - Might Support SYCL In The Future]]></title>
-        <id>https://www.phoronix.com/news/Rusticl-2022-XDC-State</id>
-        <link href="https://www.phoronix.com/news/Rusticl-2022-XDC-State"/>
-        <updated>2022-10-06T13:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Merged last month into Mesa 22.3 was Rusticl as a Rust-written OpenCL implementation for Gallium3D that is beginning to work with the open-source Radeon Linux driver, the Intel "Iris" Gallium3D driver, and others. This is also the first Rust-written component within the Mesa code-base. Karol Herbst of Red Hat who has led Rusticl development presented this week in Minnesota on this promising cross-vendor OpenCL implementation that may also support SYCL in the future...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel inching closer to mass production of spin qubit chips]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/06/intel_spin_qubit_chips/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/06/intel_spin_qubit_chips/"/>
-        <updated>2022-10-06T13:00:10.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Biggest demo yet of single and double quantum dots, company claims</h4> <p>Intel claims to have achieved a milestone in efforts to produce silicon spin qubit devices using existing manufacturing processes, a move they think might pave the way for large-scale production of quantum computers.…</p> <p><!--#include virtual='/data_centre/_whitepaper_textlinks_top.html' --></p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dead Cells’ boss rush update dares you to tangle with back-to-back big bads]]></title>
-        <id>https://www.rockpapershotgun.com/dead-cells-boss-rush-update-dares-you-to-tangle-with-back-to-back-big-bads</id>
-        <link href="https://www.rockpapershotgun.com/dead-cells-boss-rush-update-dares-you-to-tangle-with-back-to-back-big-bads"/>
-        <updated>2022-10-06T12:43:53.000Z</updated>
-        <summary type="html"><![CDATA[Fantasy roguelike Dead Cells has brought out the big guns for its latest update, adding a promised boss rush mode. You can now go head to head in a sequence of four stages, pitting you against familiar bosses and their enhanced versions. Oh, and there’s a humongous fancy statue to decorate for some reason. Get your dander up by watching the trailer below.
-
- 
-Read more]]></summary>
-        <author>
-            <name>CJ Wheeler</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upgrade Various Kinds of Packages in Linux at Once With Topgrade]]></title>
-        <id>https://itsfoss.com/?p=101951</id>
-        <link href="https://itsfoss.com/topgrade/"/>
-        <updated>2022-10-06T12:39:00.000Z</updated>
-        <summary type="html"><![CDATA[With so many package managers, it is not easy to keep track of various packages and update them timely. topgrade tries to address this issue.]]></summary>
-        <author>
-            <name>Sagar Sharma</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tung RPG-rea - 200 kr för Baldur's Gate, Planescape Torment, Icewind Dale med mera]]></title>
-        <id>https://www.fz.se/artikel/291703</id>
-        <link href="https://www.fz.se/artikel/291703-tung-rpg-rea-200-kr-for-baldurs-gate-planescape-torment-icewind-dale-med-mera"/>
-        <updated>2022-10-06T12:34:37.000Z</updated>
-        <summary type="html"><![CDATA[Du har knappt tre veckor på dig att shoppa.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australian Federal Police arrest man suspected of exploiting Optus cyberattack]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/06/optus_blackmail_arrest/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/06/optus_blackmail_arrest/"/>
-        <updated>2022-10-06T12:30:07.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Customers were allegedly sent texts demanding $1,300 or face having ID used in financial crime</h4> <p>Aussie police have cuffed a 19-year-old Sydney resident accused of trying to extort money from victims of the recent cyberattack and digital burglary at national telecommunications provider Optus.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stadia fans trying hard to stop their controllers from becoming e-waste]]></title>
-        <id>https://www.eurogamer.net/stadia-fans-trying-hard-to-stop-their-controllers-from-becoming-e-waste</id>
-        <link href="https://www.eurogamer.net/stadia-fans-trying-hard-to-stop-their-controllers-from-becoming-e-waste"/>
-        <updated>2022-10-06T12:17:33.000Z</updated>
-        <summary type="html"><![CDATA[Following last week's surprise announcement that Google would be shutting down Stadia in January, the platform's small but dedicated community have petitioned Google to allow the controller to work on other platforms wirelessly. 
-
-
-The Stadia controller currently works on other devices via a USB cable, but it also has wireless functionality in the form of Wi-Fi and Bluetooth that's firmware locked. 
-
-
-While owners wait for a response from Google, some have taken matters into their own hands with some quirky workarounds. 
- 
-Read more]]></summary>
-        <author>
-            <name>Ishraq Subhan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tävla inför Komplett Bonanza Live – tema skärmar och bildkvalitet]]></title>
-        <id>https://www.sweclockers.com/artikel/35031</id>
-        <link href="https://www.sweclockers.com/artikel/35031-tavla-infor-komplett-bonanza-live-tema-skarmar-och-bildkvalitet"/>
-        <updated>2022-10-06T12:16:51.000Z</updated>
-        <summary type="html"><![CDATA[I den nästa deltävling inför Komplett Bonanza Live är temat nästa generations bildskärmar. Var med och tävla och få chansen att snurra på lyckohjulet.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Card Cowboy roots and toots even more in an expanded version]]></title>
-        <id>https://www.rockpapershotgun.com/card-cowboy-roots-and-toots-even-more-in-an-expanded-version</id>
-        <link href="https://www.rockpapershotgun.com/card-cowboy-roots-and-toots-even-more-in-an-expanded-version"/>
-        <updated>2022-10-06T12:14:14.000Z</updated>
-        <summary type="html"><![CDATA[Last month, I enjoyed playing Card Cowboy, a wee wild west adventure which uses cards to tell silly stories. As you cross the land in search of revenge, you build a hand of cards representing resources and events, which you use to resolve situations—often with strange and surprising results. What does happen if you try to lasso a villain with a mezcal worm? That free version was fun, and now the devs have expanded it into a £2 paid version with new cards, conundrums, and voice acting. It too is fun!
-Read more]]></summary>
-        <author>
-            <name>Alice O'Connor</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dead Cells now has a Boss Rush mode if you like pain]]></title>
-        <id>https://www.gamingonlinux.com/2022/10/dead-cells-now-has-a-boss-rush-mode-if-you-like-pain/</id>
-        <link href="https://www.gamingonlinux.com/2022/10/dead-cells-now-has-a-boss-rush-mode-if-you-like-pain/"/>
-        <updated>2022-10-06T12:01:29.000Z</updated>
-        <summary type="html"><![CDATA[Love pain? Want to make your life difficult? Good news for you then as Dead Cells now has a fresh upgrade out with a Boss Rush mode so you can sweat against the toughest.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DeepCool LS320 Review: Small Size, Medium Bite]]></title>
-        <id>XETSxgztj6XatTLb6LnqjR</id>
-        <link href="https://www.tomshardware.com/reviews/deepcool-ls320"/>
-        <updated>2022-10-06T12:00:27.000Z</updated>
-        <summary type="html"><![CDATA[DeepCool’s LS320 AIO cooler is small and runs quietly, but don’t expect it to handle high-TDP CPUs like Intel’s 12900K.]]></summary>
-        <author>
-            <name>Tomshardware</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A bold effort to cure HIV—using Crispr]]></title>
-        <id>https://arstechnica.com/?p=1887401</id>
-        <link href="https://arstechnica.com/?p=1887401"/>
-        <updated>2022-10-06T12:00:24.000Z</updated>
-        <summary type="html"><![CDATA[Key is whether the gene-editing technology can stop the virus from replicating.]]></summary>
-        <author>
-            <name>WIRED</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You can now pay £100 for a version of Far Cry 6 with an expansion Ubisoft is yet to announce]]></title>
-        <id>https://www.eurogamer.net/you-can-now-pay-100-for-a-version-of-far-cry-6-with-an-expansion-ubisoft-is-yet-to-announce</id>
-        <link href="https://www.eurogamer.net/you-can-now-pay-100-for-a-version-of-far-cry-6-with-an-expansion-ubisoft-is-yet-to-announce"/>
-        <updated>2022-10-06T11:49:34.000Z</updated>
-        <summary type="html"><![CDATA[Far Cry 6 fans can now pay £100 for a new "Game of the Year Edition" version which includes the Lost Between Worlds expansion.
-
-
-What is the Lost Between Worlds expansion? That's a good question - since Ubisoft is yet to announce it. We've asked the publisher for more information today.
-
-
-Still, details for the Far Cry 6 Game of the Year Edition are now live via listings on the Xbox and PlayStation stores. These note that Lost Between Worlds is "coming soon" - so your £100 purchase will simply grant access whenever it does become available. 
- Read more]]></summary>
-        <author>
-            <name>Tom Phillips</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dragon Ball Z: Kakarot coming to PS5 and Xbox Series X/S next year]]></title>
-        <id>https://www.eurogamer.net/dragon-ball-z-kakarot-coming-to-ps5-and-xbox-series-xs-next-year</id>
-        <link href="https://www.eurogamer.net/dragon-ball-z-kakarot-coming-to-ps5-and-xbox-series-xs-next-year"/>
-        <updated>2022-10-06T11:49:01.000Z</updated>
-        <summary type="html"><![CDATA[Dragon Ball Z: Kakarot is on its way to PlayStation 5 and Xbox Series X/S next year.
-
-
-The action role playing game was released in 2020 for PS4, Xbox One and Windows, followed by a Switch version the following year.
-
-
-These new versions will provide faster loading times, smooth gameplay up to 60fps, and added details in the world when it arrives on 13th January.
- 
-Read more]]></summary>
-        <author>
-            <name>Ed Nightingale</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nuh-uh, Meta, we can do text-to-video AI, too, says Google]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/06/google_ai_imagen_video/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/06/google_ai_imagen_video/"/>
-        <updated>2022-10-06T11:38:27.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Brace yourself for a weird future where everything is imagined by magic sand we taught how to think</h4> <p>Hot on the heels of Meta's Make-A-Video, Google said on Wednesday it too has built an AI-powered text-to-video system. This one's called Imagen Video.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
