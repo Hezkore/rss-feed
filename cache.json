@@ -763,6 +763,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/uk-competition-regulator-seeking-public-opinion-on-microsoft-activision-acquisition",
+          "author": "Matt Wales",
+          "description": "The UK's Competition and Markets Authority (CMA) is calling on the public to share its views regarding Microsoft's proposed $69bn USD acquisition of Activision Blizzard.\r\n\n\r\nThis is the next in the CMA's ongoing investigation into the acquisition, which entered Phase 2 at the start of September when the regulator decided the deal required more in-depth scrutiny.\r\n\n\r\nLast week, as part of Phase 2, the CMA released its Issues Statement, detailing the focus of the inquiry's second stage and setting out the potential areas of concern - known as \"theories of harm\" - it's investigating. These relate to the acquisition's impact on multi-game subscription services, the future of cloud gaming, and the availability of Activision content on rival platforms.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/uk-competition-regulator-seeking-public-opinion-on-microsoft-activision-acquisition",
+          "publishedOn": "2022-10-20T17:44:50.000Z",
+          "wordCount": 4433,
+          "title": "UK competition regulator seeking public opinion on Microsoft-Activision acquisition",
+          "imageUrl": "https://assets.reedpopcdn.com/abk.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/abk.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/two-point-campus-adds-vomiting-zombie-students-this-halloween",
           "author": "Ed Nightingale",
           "description": "A free Halloween update is available in Two Point Campus that adds vomiting zombies, werewolf teachers and more creepy content.\r\n\n\r\nThe update is available from today until 1st November, although Two Point Studios promises some items and costumes will be kept in the game permanently.\r\n\n\r\nThe below trailer gives a rundown of what horrifying happenings to expect.\r\n \nRead more",
@@ -4446,6 +4456,16 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/Intel-Arc-Graphics-Driver-22.04",
+          "author": null,
+          "description": "If as an Ubuntu Linux user you have been held off on purchasing one of the new Arc Graphics discrete graphics cards due to the prospects of having to upgrade your own kernel, Mesa, and linux-firmware packages, Intel has a solution for Ubuntu 22.04 LTS users in the form of a packaged driver...",
+          "link": "https://www.phoronix.com/news/Intel-Arc-Graphics-Driver-22.04",
+          "publishedOn": "2022-10-20T18:09:42.000Z",
+          "wordCount": 1561,
+          "title": "Intel Releases Packaged Arc Graphics Driver For Ubuntu 22.04 LTS",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Coreboot-MSI-Z690-A-DDR5",
           "author": null,
@@ -11549,6 +11569,16 @@
       "siteUrl": "https://www.fz.se",
       "articles": [
         {
+          "id": "https://www.fz.se/artikel/291853",
+          "author": null,
+          "description": "Lever definitivt inte upp till Arkhams toppar.",
+          "link": "https://www.fz.se/artikel/291853-gotham-knights-recensionerna-ar-hyfsade-men-inte-mer-an-sa",
+          "publishedOn": "2022-10-20T18:27:00.000Z",
+          "wordCount": 1763,
+          "title": "Gotham Knights-recensionerna är hyfsade, men inte mer än så",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291853"
+        },
+        {
           "id": "https://www.fz.se/artikel/291854",
           "author": null,
           "description": "Den här gången med fokus på berättelsen.",
@@ -13694,16 +13724,6 @@
           "wordCount": 1713,
           "title": "Steam Deck blir tillgänglig för köp utan förbokning",
           "imageUrl": "https://www.sweclockers.com/artikel/35044/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/35040",
-          "author": null,
-          "description": "När kylartillverkaren Noctua märkte att AMD:s Ryzen 7000-processorers utskärningar lätt samlar rester av kylpasta valde företaget att ta fram en lösning.",
-          "link": "https://www.sweclockers.com/artikel/35040-noctuas-ram-haller-ryzen-7000-ren-fran-kylpasta",
-          "publishedOn": "2022-10-07T06:43:37.000Z",
-          "wordCount": 1771,
-          "title": "Noctuas ram håller Ryzen 7000 ren från kylpasta",
-          "imageUrl": "https://www.sweclockers.com/artikel/35040/og-image"
         }
       ]
     },
@@ -13972,6 +13992,16 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/20/displayport_revision_usb/",
+          "author": null,
+          "description": "<h4>Video Electronics Standards Association shows the USB Implementers Forum how it's done</h4> <p>The USB Implementers Forum, USB-IF, rolled out the spec of USB 4 version 2 just last month, as you've probably read in <em>The</em> <em>Register</em>. We noted at the time that the nitty-gritty stuff would debut in time for developer events scheduled for November.…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/20/displayport_revision_usb/",
+          "publishedOn": "2022-10-20T18:00:05.000Z",
+          "wordCount": 1282,
+          "title": "DisplayPort standards bods school USB standards bods with latest revision",
+          "imageUrl": "https://regmedia.co.uk/2022/10/20/shutterstock_displayport.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/20/ubs_azure/",
           "author": null,
@@ -16471,16 +16501,6 @@
           "wordCount": 1218,
           "title": "No, working in IT does not mean you can fix anything with a soldering iron",
           "imageUrl": "https://regmedia.co.uk/2022/10/06/shutterstock_soldering_iron_on_pcb.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/07/nominet_dirrector_election_register/",
-          "author": null,
-          "description": "<h4>Kieren's here to chew gum and kick some Nominet ass. And he's all out of gum</h4> <p>Former Register journo Kieren McCarthy was this week elected to the board of Nominet, the domain registry in charge of the .uk name space.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/07/nominet_dirrector_election_register/",
-          "publishedOn": "2022-10-07T06:24:13.000Z",
-          "wordCount": 1285,
-          "title": "He's only gone and done it. Ex-Register vulture elected to board of .uk registry",
-          "imageUrl": "https://regmedia.co.uk/2020/11/04/election.jpg"
         }
       ]
     }

@@ -2,10 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-20T17:48:08.040Z</updated>
+    <updated>2022-10-20T18:46:10.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Gotham Knights-recensionerna är hyfsade, men inte mer än så]]></title>
+        <id>https://www.fz.se/artikel/291853</id>
+        <link href="https://www.fz.se/artikel/291853-gotham-knights-recensionerna-ar-hyfsade-men-inte-mer-an-sa"/>
+        <updated>2022-10-20T18:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Lever definitivt inte upp till Arkhams toppar.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Releases Packaged Arc Graphics Driver For Ubuntu 22.04 LTS]]></title>
+        <id>https://www.phoronix.com/news/Intel-Arc-Graphics-Driver-22.04</id>
+        <link href="https://www.phoronix.com/news/Intel-Arc-Graphics-Driver-22.04"/>
+        <updated>2022-10-20T18:09:42.000Z</updated>
+        <summary type="html"><![CDATA[If as an Ubuntu Linux user you have been held off on purchasing one of the new Arc Graphics discrete graphics cards due to the prospects of having to upgrade your own kernel, Mesa, and linux-firmware packages, Intel has a solution for Ubuntu 22.04 LTS users in the form of a packaged driver...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DisplayPort standards bods school USB standards bods with latest revision]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/20/displayport_revision_usb/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/20/displayport_revision_usb/"/>
+        <updated>2022-10-20T18:00:05.000Z</updated>
+        <summary type="html"><![CDATA[<h4>Video Electronics Standards Association shows the USB Implementers Forum how it's done</h4> <p>The USB Implementers Forum, USB-IF, rolled out the spec of USB 4 version 2 just last month, as you've probably read in <em>The</em> <em>Register</em>. We noted at the time that the nitty-gritty stuff would debut in time for developer events scheduled for November.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UK competition regulator seeking public opinion on Microsoft-Activision acquisition]]></title>
+        <id>https://www.eurogamer.net/uk-competition-regulator-seeking-public-opinion-on-microsoft-activision-acquisition</id>
+        <link href="https://www.eurogamer.net/uk-competition-regulator-seeking-public-opinion-on-microsoft-activision-acquisition"/>
+        <updated>2022-10-20T17:44:50.000Z</updated>
+        <summary type="html"><![CDATA[The UK's Competition and Markets Authority (CMA) is calling on the public to share its views regarding Microsoft's proposed $69bn USD acquisition of Activision Blizzard.
+
+
+This is the next in the CMA's ongoing investigation into the acquisition, which entered Phase 2 at the start of September when the regulator decided the deal required more in-depth scrutiny.
+
+
+Last week, as part of Phase 2, the CMA released its Issues Statement, detailing the focus of the inquiry's second stage and setting out the potential areas of concern - known as "theories of harm" - it's investigating. These relate to the acquisition's impact on multi-game subscription services, the future of cloud gaming, and the availability of Activision content on rival platforms.
+ 
+Read more]]></summary>
+        <author>
+            <name>Matt Wales</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UBS throws lot in with Microsoft, migrating 50% of apps to Azure]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/20/ubs_azure/</id>
@@ -18542,26 +18590,6 @@ There are two versions of Tactical Conquest, and each will be available for a fu
         <summary type="html"><![CDATA[Först ut är The Tribe Must Survive.]]></summary>
         <author>
             <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Noctuas ram håller Ryzen 7000 ren från kylpasta]]></title>
-        <id>https://www.sweclockers.com/artikel/35040</id>
-        <link href="https://www.sweclockers.com/artikel/35040-noctuas-ram-haller-ryzen-7000-ren-fran-kylpasta"/>
-        <updated>2022-10-07T06:43:37.000Z</updated>
-        <summary type="html"><![CDATA[När kylartillverkaren Noctua märkte att AMD:s Ryzen 7000-processorers utskärningar lätt samlar rester av kylpasta valde företaget att ta fram en lösning.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[He's only gone and done it. Ex-Register vulture elected to board of .uk registry]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/07/nominet_dirrector_election_register/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/07/nominet_dirrector_election_register/"/>
-        <updated>2022-10-07T06:24:13.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Kieren's here to chew gum and kick some Nominet ass. And he's all out of gum</h4> <p>Former Register journo Kieren McCarthy was this week elected to the board of Nominet, the domain registry in charge of the .uk name space.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
         </author>
     </entry>
 </feed>
