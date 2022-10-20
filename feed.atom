@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-20T05:45:02.223Z</updated>
+    <updated>2022-10-20T06:41:46.060Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[AWS Snowball edge compute capacity snowballs beyond 100 vCPUs, 400GB of memory]]></title>
+        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/20/snowball_edge_compute_optimized_scale_up/</id>
+        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/20/snowball_edge_compute_optimized_scale_up/"/>
+        <updated>2022-10-20T05:58:11.000Z</updated>
+        <summary type="html"><![CDATA[<h4>There's a fat AMD Rome under the hood and 28TB of storage too</h4> <p>Amazon Web Services has doubled the specs of its Snowball edge compute device.…</p>]]></summary>
+        <author>
+            <name>The Register</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hong Kong hopes to trawl the world for tech talent to build IT city]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/20/hongkong_tech_talent_trawl/</id>
@@ -17957,59 +17967,6 @@ Now, some 15 months after reservations for Steam Deck initially opened, Valve ha
 Read more]]></summary>
         <author>
             <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Canonical makes Ubuntu Pro free for up to five machines]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/06/ubuntu_pro_free/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/06/ubuntu_pro_free/"/>
-        <updated>2022-10-06T18:32:08.000Z</updated>
-        <summary type="html"><![CDATA[<h4>Kernel live-patching and a full decade of software updates</h4> <p>Canonical has opened up its previously paid-for Ubuntu Pro update service. Now it's free of charge for up to five physical boxes.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GOTY-versionen av Far Cry 6 kommer med (okända) expansionen Lost Between Worlds]]></title>
-        <id>https://www.fz.se/artikel/291709</id>
-        <link href="https://www.fz.se/artikel/291709-goty-versionen-av-far-cry-6-kommer-med-okanda-expansionen-lost-between-worlds"/>
-        <updated>2022-10-06T18:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Ett mysterium är vad den är.]]></summary>
-        <author>
-            <name>FZ.se</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No more Steam Deck reservation queue — buy it now, plus Docking Station available]]></title>
-        <id>https://www.gamingonlinux.com/2022/10/no-more-steam-deck-reservation-queue-m-buy-it-now-plus-docking-station-available/</id>
-        <link href="https://www.gamingonlinux.com/2022/10/no-more-steam-deck-reservation-queue-m-buy-it-now-plus-docking-station-available/"/>
-        <updated>2022-10-06T18:21:41.000Z</updated>
-        <summary type="html"><![CDATA[The day is finally here. Valve has removed the reservation queue for the Steam Deck, so you can buy it right now. Additionally, the Steam Deck Docking Station is also now available.]]></summary>
-        <author>
-            <name>Liam Dawe</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung Details GDDR7 and 1,000-Layer V-NAND Plans]]></title>
-        <id>o2dnDQHjrPxoa5TQzpi8Dh</id>
-        <link href="https://www.tomshardware.com/news/samsung-details-gddr7-1000-later-vnand-plans"/>
-        <updated>2022-10-06T18:03:06.000Z</updated>
-        <summary type="html"><![CDATA[Samsung has announced plans for an aggressive technological innovation schedule that includes GDDR7 and 1,000-layer V-NAND tech. This investment comes despite reported slowdowns in the NAND and memory sectors.]]></summary>
-        <author>
-            <name>francisco.pires@outlook.com (Francisco Pires)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Battlefield 2042's adds close-combat spin on Conquest in its next event]]></title>
-        <id>https://www.rockpapershotgun.com/battlefield-2042s-adds-close-combat-spin-on-conquest-in-its-next-event</id>
-        <link href="https://www.rockpapershotgun.com/battlefield-2042s-adds-close-combat-spin-on-conquest-in-its-next-event"/>
-        <updated>2022-10-06T17:57:30.000Z</updated>
-        <summary type="html"><![CDATA[Battlefield 2042 is getting a new in-game event from October 11th until the 25th. Called The Liquidators Event, it adds a new mode focused on fast-paced, close-quarters combat featuring only infantry and no vehicles. You'll find a trailer and more details below.
-
- 
-Read more]]></summary>
-        <author>
-            <name>Graham Smith</name>
         </author>
     </entry>
 </feed>
