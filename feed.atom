@@ -2,10 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-20T08:35:24.087Z</updated>
+    <updated>2022-10-20T09:32:03.094Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[FineIBT Updated For Linux As Alternative Control Flow Integrity (CFI) Approach]]></title>
+        <id>https://www.phoronix.com/news/FineIBT-Linux-Updated</id>
+        <link href="https://www.phoronix.com/news/FineIBT-Linux-Updated"/>
+        <updated>2022-10-20T09:14:48.000Z</updated>
+        <summary type="html"><![CDATA[Back in August 2021 saw initial patches by Intel for "FineIBT" for the Linux kernel as aiming to combine the best of their Control-flow Enforcement Technology (CET) and Control Flow Integrity for upping the kernel security protections in an efficient manner...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I dag släpps COD: Modern Warfare 2-kampanjen]]></title>
+        <id>https://www.fz.se/artikel/291844</id>
+        <link href="https://www.fz.se/artikel/291844-i-dag-slapps-cod-modern-warfare-2-kampanjen"/>
+        <updated>2022-10-20T09:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Men bara om man har förhandsbokat digitalt.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House of the Dragon reminds me of one of my favourite features from Dragon Age 2]]></title>
+        <id>https://www.eurogamer.net/house-of-the-dragon-reminds-me-of-one-of-my-favourite-features-from-dragon-age-2</id>
+        <link href="https://www.eurogamer.net/house-of-the-dragon-reminds-me-of-one-of-my-favourite-features-from-dragon-age-2"/>
+        <updated>2022-10-20T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[House of the Dragon and Dragon Age 2 have something in common, and every time I watch an episode of Targaryen Family Dinners I am reminded of it. It's nothing to do with dragons, nor is it anything to do with inbreeding, because that would be weird. But it has everything to do with time.
+
+
+One of the most interesting ideas in Dragon Age 2, which was fairly criticised at the time (2011) for being rushed out and cutting corners, was that the game would take place across a number of years. It wasn't many: it jumped one year, then three years, then another three years, each leap happening at the beginning of each major act in the game. It wasn't rooted, as others are, in events taking place across days or weeks or months. This meant Dragon Age 2 could show you long-term consequences to your actions, and fast-forward storylines to get you back to the interesting bits.
+
+
+House of the Dragon does exactly the same thing. So far in the series we've jumped something like 19 years forwards in time. Part of this is out of necessity of course: the Fire and Blood novel it's based on is more like a history book than the zoomed-in adventure of A Song of Fire and Ice (which most people know as Game of Thrones). It charts 300 years of Targaryen rule, and only occasionally does it dive into notable rulers and passages of time - House of the Dragon being an example of this.
+ 
+Read more]]></summary>
+        <author>
+            <name>Robert Purchese</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Firmware DRM Driver "OFDRM" Queuing For Linux 6.2]]></title>
+        <id>https://www.phoronix.com/news/Linux-6.2-OFDRM</id>
+        <link href="https://www.phoronix.com/news/Linux-6.2-OFDRM"/>
+        <updated>2022-10-20T08:55:59.000Z</updated>
+        <summary type="html"><![CDATA[A first batch of "drm-misc-next" patches have been sent in for DRM-Next to queue until the Linux 6.2 merge window comes about in December. With this initial batch of new material for v6.2 is a new Direct Rendering Manager driver: OFDRM...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Arc A770 slår Geforce RTX 4090 i AV1]]></title>
+        <id>https://www.sweclockers.com/artikel/35100</id>
+        <link href="https://www.sweclockers.com/artikel/35100-intel-arc-a770-slar-geforce-rtx-4090-i-av1"/>
+        <updated>2022-10-20T08:41:10.000Z</updated>
+        <summary type="html"><![CDATA[När flaggskeppen på prov i videoavkodning med AV1 kliver Intel segrande ur striden i både 4K- och 8K-upplösning.]]></summary>
+        <author>
+            <name>SweClockers</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Public cloud prices to surge in US and Europe next year]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/20/public_cloud_price_rise/</id>
@@ -17781,93 +17839,6 @@ Dirk Eddelbuettel originated on his Thinking inside the box blog. Please report 
         <summary type="html"><![CDATA[Plus, SteamOS 3.3.2 claims to improve the experience with third-party docks.]]></summary>
         <author>
             <name>Samuel Axon</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boston Dynamics *really* does not want you to add weapons to its robots]]></title>
-        <id>https://arstechnica.com/?p=1887736</id>
-        <link href="https://arstechnica.com/?p=1887736"/>
-        <updated>2022-10-06T21:28:31.000Z</updated>
-        <summary type="html"><![CDATA[Open letter cites concerns about misuse of "widely available" commercial robots among the public.]]></summary>
-        <author>
-            <name>Benj Edwards</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roblox sued for allegedly enabling young girl’s sexual, financial exploitation]]></title>
-        <id>https://arstechnica.com/?p=1887790</id>
-        <link href="https://arstechnica.com/?p=1887790"/>
-        <updated>2022-10-06T21:20:39.000Z</updated>
-        <summary type="html"><![CDATA[Meta, Snap, and Discord are also defendants in the lawsuit.]]></summary>
-        <author>
-            <name>Ashley Belanger</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Untitled]]></title>
-        <id>https://shencomix.tumblr.com/post/697397528640061440</id>
-        <link href="https://shencomix.tumblr.com/post/697397528640061440"/>
-        <updated>2022-10-06T21:01:51.000Z</updated>
-        <author>
-            <name>Shen Comix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google reveals Pixel 7 phones with 1.7 Stadias of security fixes promised]]></title>
-        <id>https://go.theregister.com/feed/www.theregister.com/2022/10/06/made_by_google_pixel_phones/</id>
-        <link href="https://go.theregister.com/feed/www.theregister.com/2022/10/06/made_by_google_pixel_phones/"/>
-        <updated>2022-10-06T20:58:40.000Z</updated>
-        <summary type="html"><![CDATA[<h4>This and wearables fortified with machine learning to serve you, human</h4> <p>On Thursday Google held an event in Brooklyn, New York to introduce revised Pixel phones, along with the Pixel Watch mentioned at the search giant's developer conference in May. There was also a glimpse of a Pixel tablet due next year.…</p>]]></summary>
-        <author>
-            <name>The Register</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Downgrades Q3 Revenue by $1.1 Billion, Cites PC Market]]></title>
-        <id>u4EozR22CeSMY4Uku5wEyE</id>
-        <link href="https://www.tomshardware.com/news/amd-warns-of-dollar11-billion-q3-shortfall-cites-pc-market-and-supply-chain"/>
-        <updated>2022-10-06T20:58:04.000Z</updated>
-        <summary type="html"><![CDATA[AMD pre-announced that it would miss its revenue targets for the third quarter by $1.1 billion due to PC market weakness and supply chain disruptions.]]></summary>
-        <author>
-            <name>palcorn@outlook.com (Paul Alcorn)</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naturvårdsverket drabbas av dataintrång]]></title>
-        <id>https://www.sweclockers.com/artikel/35041</id>
-        <link href="https://www.sweclockers.com/artikel/35041-naturvardsverket-drabbas-av-dataintrang"/>
-        <updated>2022-10-06T20:52:36.000Z</updated>
-        <summary type="html"><![CDATA[Under onsdag eftermiddag upptäckte tekniker på Naturvårdsverket att myndigheten utsatts för ett intrång där information stulits och hamnat på avvägar.]]></summary>
-        <author>
-            <name>SweClockers</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here's the first trailer for Nintendo's animated Mario movie]]></title>
-        <id>https://www.eurogamer.net/heres-the-first-trailer-for-nintendos-animated-mario-movie</id>
-        <link href="https://www.eurogamer.net/heres-the-first-trailer-for-nintendos-animated-mario-movie"/>
-        <updated>2022-10-06T20:41:19.000Z</updated>
-        <summary type="html"><![CDATA[After years of behind-the-scenes chatter, Nintendo has shared the first trailer for its Chris-Pratt-starring animated Super Mario movie.
-
-
-Announced back in 2018, The Super Mario Bros. Movie is a collaboration between Nintendo and Universal Pictures' Illumination animation division. It sees Pratt heading an all-star cast that includes Jack Black as Bowser and Anya Taylor-Joy as Princess Peach.
-
-
-Since initial casting details broke last year, all has been largely quiet, but the veil of secrecy has finally been lifted today with the first official teaser trailer, which you can see below.
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Super Mario Bros. Movie trailer is out, and it looks pretty solid]]></title>
-        <id>https://arstechnica.com/?p=1887779</id>
-        <link href="https://arstechnica.com/?p=1887779"/>
-        <updated>2022-10-06T20:37:23.000Z</updated>
-        <summary type="html"><![CDATA[Illumination's changes to familiar Mushroom Kingdom characters are finally confirmed.]]></summary>
-        <author>
-            <name>Sam Machkovech</name>
         </author>
     </entry>
 </feed>

@@ -703,6 +703,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/house-of-the-dragon-reminds-me-of-one-of-my-favourite-features-from-dragon-age-2",
+          "author": "Robert Purchese",
+          "description": "House of the Dragon and Dragon Age 2 have something in common, and every time I watch an episode of Targaryen Family Dinners I am reminded of it. It's nothing to do with dragons, nor is it anything to do with inbreeding, because that would be weird. But it has everything to do with time.\r\n\n\r\nOne of the most interesting ideas in Dragon Age 2, which was fairly criticised at the time (2011) for being rushed out and cutting corners, was that the game would take place across a number of years. It wasn't many: it jumped one year, then three years, then another three years, each leap happening at the beginning of each major act in the game. It wasn't rooted, as others are, in events taking place across days or weeks or months. This meant Dragon Age 2 could show you long-term consequences to your actions, and fast-forward storylines to get you back to the interesting bits.\r\n\n\r\nHouse of the Dragon does exactly the same thing. So far in the series we've jumped something like 19 years forwards in time. Part of this is out of necessity of course: the Fire and Blood novel it's based on is more like a history book than the zoomed-in adventure of A Song of Fire and Ice (which most people know as Game of Thrones). It charts 300 years of Targaryen rule, and only occasionally does it dive into notable rulers and passages of time - House of the Dragon being an example of this.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/house-of-the-dragon-reminds-me-of-one-of-my-favourite-features-from-dragon-age-2",
+          "publishedOn": "2022-10-20T09:00:00.000Z",
+          "wordCount": 4654,
+          "title": "House of the Dragon reminds me of one of my favourite features from Dragon Age 2",
+          "imageUrl": "https://assets.reedpopcdn.com/houseofthedragonage2_title_2.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/houseofthedragonage2_title_2.jpg"
+        },
+        {
           "id": "https://www.eurogamer.net/silent-hill-f-announced-from-resident-evil-reverse-developer",
           "author": "Victoria Kennedy",
           "description": "As part of the Silent Hill: Transmission stream this evening, a new game known simply as Silent Hill f was announced. This marks the first new mainline game for the series in over a decade.\r\n\n\r\nThere are still very few details about this particular entry to the Silent Hill franchise. We do know its story is by Ryukishi07 (who created the When They Cry visual novel series), its characters and creatures are designed by Kera and its producer is Motoi Okamoto, whose name you may recognise from Nintendo.\nDevelopment duties are being handled by Neobards Entertainment, which has previously worked with Capcom as a support studio on several its Resident Evil games including Re:Verse.\r\n \nRead more",
@@ -2751,16 +2761,6 @@
           "wordCount": 4803,
           "title": "RimWorld's new Biotech expansion adds babies, mechanoids, and gene modding",
           "imageUrl": "https://assets.reedpopcdn.com/rimworld-biotech-art.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/rimworld-biotech-art.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/heres-the-first-trailer-for-nintendos-animated-mario-movie",
-          "author": "Matt Wales",
-          "description": "After years of behind-the-scenes chatter, Nintendo has shared the first trailer for its Chris-Pratt-starring animated Super Mario movie.\r\n\n\r\nAnnounced back in 2018, The Super Mario Bros. Movie is a collaboration between Nintendo and Universal Pictures' Illumination animation division. It sees Pratt heading an all-star cast that includes Jack Black as Bowser and Anya Taylor-Joy as Princess Peach.\r\n\n\r\nSince initial casting details broke last year, all has been largely quiet, but the veil of secrecy has finally been lifted today with the first official teaser trailer, which you can see below.\r\n \nRead more",
-          "link": "https://www.eurogamer.net/heres-the-first-trailer-for-nintendos-animated-mario-movie",
-          "publishedOn": "2022-10-06T20:41:19.000Z",
-          "wordCount": 4527,
-          "title": "Here's the first trailer for Nintendo's animated Mario movie",
-          "imageUrl": "https://assets.reedpopcdn.com/mario-movie-still.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/mario-movie-still.jpg"
         }
       ]
     },
@@ -4186,6 +4186,26 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/FineIBT-Linux-Updated",
+          "author": null,
+          "description": "Back in August 2021 saw initial patches by Intel for \"FineIBT\" for the Linux kernel as aiming to combine the best of their Control-flow Enforcement Technology (CET) and Control Flow Integrity for upping the kernel security protections in an efficient manner...",
+          "link": "https://www.phoronix.com/news/FineIBT-Linux-Updated",
+          "publishedOn": "2022-10-20T09:14:48.000Z",
+          "wordCount": 1482,
+          "title": "FineIBT Updated For Linux As Alternative Control Flow Integrity (CFI) Approach",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-6.2-OFDRM",
+          "author": null,
+          "description": "A first batch of \"drm-misc-next\" patches have been sent in for DRM-Next to queue until the Linux 6.2 merge window comes about in December. With this initial batch of new material for v6.2 is a new Direct Rendering Manager driver: OFDRM...",
+          "link": "https://www.phoronix.com/news/Linux-6.2-OFDRM",
+          "publishedOn": "2022-10-20T08:55:59.000Z",
+          "wordCount": 1322,
+          "title": "Open Firmware DRM Driver \"OFDRM\" Queuing For Linux 6.2",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/SVT-AV1-1.3",
           "author": null,
@@ -8984,21 +9004,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/tD4Z55eNgzjUGnh7ggZzQ3.jpg"
-        },
-        {
-          "id": "u4EozR22CeSMY4Uku5wEyE",
-          "author": "palcorn@outlook.com (Paul Alcorn)",
-          "description": "AMD pre-announced that it would miss its revenue targets for the third quarter by $1.1 billion due to PC market weakness and supply chain disruptions.",
-          "link": "https://www.tomshardware.com/news/amd-warns-of-dollar11-billion-q3-shortfall-cites-pc-market-and-supply-chain",
-          "publishedOn": "2022-10-06T20:58:04.000Z",
-          "wordCount": 21471,
-          "title": "AMD Downgrades Q3 Revenue by $1.1 Billion, Cites PC Market",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/HsPwvKdLHT29UDMsXCsgmR.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/HsPwvKdLHT29UDMsXCsgmR.jpg"
         }
       ]
     },
@@ -11040,36 +11045,6 @@
           "wordCount": 1554,
           "title": "Now you can order the Steam Deck (and its dock) without a reservation",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/b9124c46776c4d59d6c1cebd49345348cfa8a7ee-760x380.png"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1887736",
-          "author": "Benj Edwards",
-          "description": "Open letter cites concerns about misuse of \"widely available\" commercial robots among the public.",
-          "link": "https://arstechnica.com/?p=1887736",
-          "publishedOn": "2022-10-06T21:28:31.000Z",
-          "wordCount": 1580,
-          "title": "Boston Dynamics *really* does not want you to add weapons to its robots",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/boston_dynamics_police_dog-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1887790",
-          "author": "Ashley Belanger",
-          "description": "Meta, Snap, and Discord are also defendants in the lawsuit.",
-          "link": "https://arstechnica.com/?p=1887790",
-          "publishedOn": "2022-10-06T21:20:39.000Z",
-          "wordCount": 1762,
-          "title": "Roblox sued for allegedly enabling young girl’s sexual, financial exploitation",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/GettyImages-1235736525-760x380.jpg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1887779",
-          "author": "Sam Machkovech",
-          "description": "Illumination's changes to familiar Mushroom Kingdom characters are finally confirmed.",
-          "link": "https://arstechnica.com/?p=1887779",
-          "publishedOn": "2022-10-06T20:37:23.000Z",
-          "wordCount": 1809,
-          "title": "The Super Mario Bros. Movie trailer is out, and it looks pretty solid",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/mario-movie-listing-760x380.png"
         }
       ]
     },
@@ -11078,6 +11053,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291844",
+          "author": null,
+          "description": "Men bara om man har förhandsbokat digitalt.",
+          "link": "https://www.fz.se/artikel/291844-i-dag-slapps-cod-modern-warfare-2-kampanjen",
+          "publishedOn": "2022-10-20T09:02:00.000Z",
+          "wordCount": 1805,
+          "title": "I dag släpps COD: Modern Warfare 2-kampanjen",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291844"
+        },
         {
           "id": "https://www.fz.se/artikel/291842",
           "author": null,
@@ -12486,6 +12471,16 @@
       "siteUrl": "https://www.sweclockers.com",
       "articles": [
         {
+          "id": "https://www.sweclockers.com/artikel/35100",
+          "author": null,
+          "description": "När flaggskeppen på prov i videoavkodning med AV1 kliver Intel segrande ur striden i både 4K- och 8K-upplösning.",
+          "link": "https://www.sweclockers.com/artikel/35100-intel-arc-a770-slar-geforce-rtx-4090-i-av1",
+          "publishedOn": "2022-10-20T08:41:10.000Z",
+          "wordCount": 1728,
+          "title": "Intel Arc A770 slår Geforce RTX 4090 i AV1",
+          "imageUrl": "https://www.sweclockers.com/artikel/35100/og-image"
+        },
+        {
           "id": "https://www.sweclockers.com/artikel/35097",
           "author": null,
           "description": "Efter en testrunda i Latinamerika förbereder streamingjätten insatser mot kontodelning med hjälp av underkonton och profilöverföring.",
@@ -13114,16 +13109,6 @@
           "wordCount": 1771,
           "title": "Noctuas ram håller Ryzen 7000 ren från kylpasta",
           "imageUrl": "https://www.sweclockers.com/artikel/35040/og-image"
-        },
-        {
-          "id": "https://www.sweclockers.com/artikel/35041",
-          "author": null,
-          "description": "Under onsdag eftermiddag upptäckte tekniker på Naturvårdsverket att myndigheten utsatts för ett intrång där information stulits och hamnat på avvägar.",
-          "link": "https://www.sweclockers.com/artikel/35041-naturvardsverket-drabbas-av-dataintrang",
-          "publishedOn": "2022-10-06T20:52:36.000Z",
-          "wordCount": 1610,
-          "title": "Naturvårdsverket drabbas av dataintrång",
-          "imageUrl": "https://www.sweclockers.com/artikel/35041/og-image"
         }
       ]
     },
@@ -13384,16 +13369,6 @@
           "wordCount": 722,
           "title": "Untitled",
           "imageUrl": "https://64.media.tumblr.com/44e316082e1c3bebd25484e714f1c90b/962d8d6ae1d9a2be-2c/s1280x1920/b5e7e193204188913c243572c185af238633c2be.png"
-        },
-        {
-          "id": "https://shencomix.tumblr.com/post/697397528640061440",
-          "author": null,
-          "description": "",
-          "link": "https://shencomix.tumblr.com/post/697397528640061440",
-          "publishedOn": "2022-10-06T21:01:51.000Z",
-          "wordCount": 714,
-          "title": "Untitled",
-          "imageUrl": "https://64.media.tumblr.com/be027b47acfab34391a820abbd59cef3/e649166fb09c0193-7b/s1280x1920/f3807aae0726239d99efa68aa606f0821c9b1454.png"
         }
       ]
     },
@@ -15881,16 +15856,6 @@
           "wordCount": 1340,
           "title": "Huge nonprofit hospital network suffers IT meltdown after 'security incident'",
           "imageUrl": "https://regmedia.co.uk/2022/10/06/ambulance_speeding_shutterstock.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/06/made_by_google_pixel_phones/",
-          "author": null,
-          "description": "<h4>This and wearables fortified with machine learning to serve you, human</h4> <p>On Thursday Google held an event in Brooklyn, New York to introduce revised Pixel phones, along with the Pixel Watch mentioned at the search giant's developer conference in May. There was also a glimpse of a Pixel tablet due next year.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/06/made_by_google_pixel_phones/",
-          "publishedOn": "2022-10-06T20:58:40.000Z",
-          "wordCount": 1658,
-          "title": "Google reveals Pixel 7 phones with 1.7 Stadias of security fixes promised",
-          "imageUrl": "https://regmedia.co.uk/2022/10/06/pixel_family.jpg"
         }
       ]
     }
