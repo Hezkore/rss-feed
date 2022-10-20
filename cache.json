@@ -110,16 +110,6 @@
           "wordCount": 8631,
           "title": "How to Install Ubuntu Linux in VMWare",
           "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/10/install-ubuntu-in-vmware.png"
-        },
-        {
-          "id": "https://itsfoss.com/?p=101878",
-          "author": "Anuj Sharma",
-          "description": "Btrfs is the talk of the Linux town. And if you curious about this filesystem, read about its features and pros and cons over other filesystems like ext4.",
-          "link": "https://itsfoss.com/btrfs/",
-          "publishedOn": "2022-10-07T03:34:00.000Z",
-          "wordCount": 7570,
-          "title": "Pros and Cons of Using Btrfs Filesystem in Linux",
-          "imageUrl": "https://itsfoss.com/wp-content/uploads/2022/10/btrfs-filesystem.png"
         }
       ]
     },
@@ -165,6 +155,16 @@
       "feedUrl": "http://www.gamingonlinux.com/news_rss.php",
       "siteUrl": "https://www.gamingonlinux.com/",
       "articles": [
+        {
+          "id": "https://www.gamingonlinux.com/2022/10/an-interview-with-the-creator-of-deckmate-the-steam-deck-attachment-system/",
+          "author": "Liam Dawe",
+          "description": "Have you seen the Deckmate yet? I'm a big fan and use it quite often. A thoroughly useful attachment system for the Steam Deck and I had the chance to speak to the creator about it.",
+          "link": "https://www.gamingonlinux.com/2022/10/an-interview-with-the-creator-of-deckmate-the-steam-deck-attachment-system/",
+          "publishedOn": "2022-10-20T16:15:03.000Z",
+          "wordCount": 2542,
+          "title": "An interview with the creator of Deckmate, the Steam Deck attachment system",
+          "imageUrl": "https://www.gamingonlinux.com/uploads/articles/tagline_images/1596863540id21761gol.jpg"
+        },
         {
           "id": "https://www.gamingonlinux.com/2022/10/someone-released-the-foss-rts-0-ad-on-steam-without-speaking-to-the-developers/",
           "author": "Liam Dawe",
@@ -752,6 +752,16 @@
       "feedUrl": "https://www.eurogamer.net/feed",
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
+        {
+          "id": "https://www.eurogamer.net/two-point-campus-adds-vomiting-zombie-students-this-halloween",
+          "author": "Ed Nightingale",
+          "description": "A free Halloween update is available in Two Point Campus that adds vomiting zombies, werewolf teachers and more creepy content.\r\n\n\r\nThe update is available from today until 1st November, although Two Point Studios promises some items and costumes will be kept in the game permanently.\r\n\n\r\nThe below trailer gives a rundown of what horrifying happenings to expect.\r\n \nRead more",
+          "link": "https://www.eurogamer.net/two-point-campus-adds-vomiting-zombie-students-this-halloween",
+          "publishedOn": "2022-10-20T15:41:00.000Z",
+          "wordCount": 4391,
+          "title": "Two Point Campus adds vomiting zombie students this Halloween",
+          "imageUrl": "https://assets.reedpopcdn.com/Halloween-Trailer-_-Two-Point-Campus-0-27-screenshot-(1).png/BROK/thumbnail/1600x900/format/jpg/quality/80/Halloween-Trailer-_-Two-Point-Campus-0-27-screenshot-(1).png"
+        },
         {
           "id": "https://www.eurogamer.net/final-fantasy-16-ambition-trailer-shows-fresh-glimpse-at-eikon-battles",
           "author": "Ed Nightingale",
@@ -4427,6 +4437,16 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/news/Coreboot-MSI-Z690-A-DDR5",
+          "author": null,
+          "description": "Earlier this year Coreboot and the Dasharo downstream were ported to the MSI PRO Z690-A DDR4 motherboard. This was very exciting in that a current-generation Intel desktop motherboard could run Coreboot and readily available through various Internet retailers. But many inquired about whether the MSI PRO Z690-A DDR5 variant would see similar support and now that too is being worked on...",
+          "link": "https://www.phoronix.com/news/Coreboot-MSI-Z690-A-DDR5",
+          "publishedOn": "2022-10-20T16:30:00.000Z",
+          "wordCount": 1467,
+          "title": "Coreboot/Dasharo Being Ported To The MSI PRO Z690-A DDR5 Motherboard",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.phoronix.com/news/System76-Thelio-RPL-Zen-4",
           "author": null,
           "description": "After last month launching the redesigned Thelio chassis, System76 today has rolled out their latest System76 Thelio desktop options with Intel 13th Gen Core \"Raptor Lake\" and AMD Ryzen 7000 \"Zen 4\" processor options now available...",
@@ -5623,6 +5643,36 @@
       "feedUrl": "https://www.rockpapershotgun.com/feed",
       "siteUrl": "https://www.rockpapershotgun.com/feed",
       "articles": [
+        {
+          "id": "https://www.rockpapershotgun.com/have-you-played-gartic-phone-1",
+          "author": "Ollie Toms",
+          "description": "A while back I wrote about Codenames, an excellent board game with a free browser-based version that made for some great long-distance family time during lockdown. Now, dear reader, I return once again with a free browser-based game that's perfect for long-distance fun. But this time, it's just about the funniest game I can remember playing. It's called Gartic Phone.\nRead more",
+          "link": "https://www.rockpapershotgun.com/have-you-played-gartic-phone-1",
+          "publishedOn": "2022-10-20T16:00:00.000Z",
+          "wordCount": 4828,
+          "title": "Have You Played... Gartic Phone?",
+          "imageUrl": "https://assets2.rockpapershotgun.com/gartic-phone-prompt.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/gartic-phone-prompt.jpg"
+        },
+        {
+          "id": "https://www.rockpapershotgun.com/final-fantasy-16s-bombastic-new-trailer-is-all-about-its-eikon-summons",
+          "author": "Katharine Castle",
+          "description": "Square Enix have released a new cinematic (with a teeny sliver of gameplay) trailer for Final Fantasy 16 today, and crikey, there's a heck of a lot of summons action in there. Technically, the summons are called Eikons in this version of Squeenix's long-running JRPG series, and from the looks of the trailer, you'll be battling as them directly in big, dramatic battle sequences. A bit like in Final Fantasy X, just with an infinitely higher number of enormous explosions. Let's take a look, shall we?\nRead more",
+          "link": "https://www.rockpapershotgun.com/final-fantasy-16s-bombastic-new-trailer-is-all-about-its-eikon-summons",
+          "publishedOn": "2022-10-20T15:48:40.000Z",
+          "wordCount": 4926,
+          "title": "Final Fantasy 16's bombastic new trailer is all about its Eikon summons",
+          "imageUrl": "https://assets2.rockpapershotgun.com/FFXVI_Dominant_vs._Dominant.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/FFXVI_Dominant_vs._Dominant.jpg"
+        },
+        {
+          "id": "https://www.rockpapershotgun.com/fallout-3-and-evoland-are-free-to-keep-from-the-epic-games-store-this-week",
+          "author": "CJ Wheeler",
+          "description": "It’s that time of week again, as the Epic Games Store rotates its free games and grants us two fresh things to play for nowt. If we don’t own them already, that is. There’s a strong chance that you might have already picked up either or both of this week’s freebies. One is Bethesda’s first instalment of their take on the retro-futuristic post-apocalypse in Fallout 3. There’s also Shiro Games’ ode to classic console RPGs, the Evoland series.\r\n\n \nRead more",
+          "link": "https://www.rockpapershotgun.com/fallout-3-and-evoland-are-free-to-keep-from-the-epic-games-store-this-week",
+          "publishedOn": "2022-10-20T15:33:35.000Z",
+          "wordCount": 4978,
+          "title": "Fallout 3 and Evoland are free to keep from the Epic Games Store this week",
+          "imageUrl": "https://assets2.rockpapershotgun.com/fallout-3-c.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/fallout-3-c.jpg"
+        },
         {
           "id": "https://www.rockpapershotgun.com/silent-hill-2-remakes-pc-system-requirements-are-spooky-but-namedrop-dlss",
           "author": "James Archer",
@@ -7130,6 +7180,21 @@
       "feedUrl": "https://www.tomshardware.com/feeds/all",
       "siteUrl": "http://airedale.futurecdn.net/feeds/en_feed_3a953301.rss-fse?site=tomshardware",
       "articles": [
+        {
+          "id": "SCeeRCxhrTuGQEPgjWHYUY",
+          "author": null,
+          "description": "Performance memory brands have prepared kits specially for the new Intel 13th Gen Core CPU and Z790 motherboard platforms. Corsair, G.Skill and Team Group want to be part of your high-end system upgrade plans.",
+          "link": "https://www.tomshardware.com/news/memory-makers-put-together-speedy-ddr5-kits-to-welcome-intel-raptor-lake",
+          "publishedOn": "2022-10-20T15:27:09.000Z",
+          "wordCount": 22026,
+          "title": "Memory Makers Put Together Speedy DDR5 Kits to Welcome Intel Raptor Lake",
+          "enclosure": {
+            "url": "http://cdn.mos.cms.futurecdn.net/WLJj6YQKWFQxtH8TS4YMo7.jpg",
+            "type": "image/jpeg",
+            "length": "0"
+          },
+          "imageUrl": "http://cdn.mos.cms.futurecdn.net/WLJj6YQKWFQxtH8TS4YMo7.jpg"
+        },
         {
           "id": "wqVkPdNWYuSToffY9Lhet9",
           "author": null,
@@ -9409,21 +9474,6 @@
             "length": "0"
           },
           "imageUrl": "http://cdn.mos.cms.futurecdn.net/LGg8NFSUHgTVavDguqMkHG.jpg"
-        },
-        {
-          "id": "VasFGpvkXYHvKobA6jjLdP",
-          "author": null,
-          "description": "Acer's new Swift Edge laptop is a 16-inch notebook using AMD Ryzen Pro processors and Microsoft Pluton for security.",
-          "link": "https://www.tomshardware.com/news/acer-swift-edge-ryzen-price-specs",
-          "publishedOn": "2022-10-07T04:30:32.000Z",
-          "wordCount": 24593,
-          "title": "Acer Adopts Ryzen Pro for New Swift Edge Laptop",
-          "enclosure": {
-            "url": "http://cdn.mos.cms.futurecdn.net/nwmBALZGaVchL6n6PZnLwR.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          },
-          "imageUrl": "http://cdn.mos.cms.futurecdn.net/nwmBALZGaVchL6n6PZnLwR.jpg"
         }
       ]
     },
@@ -9796,6 +9846,26 @@
       "feedUrl": "http://feeds.arstechnica.com/arstechnica/index",
       "siteUrl": "https://arstechnica.com",
       "articles": [
+        {
+          "id": "https://arstechnica.com/?p=1891279",
+          "author": "Aaron Zimmerman",
+          "description": "The popular indie darling is out of Early Access—and it’s a no-brainer pickup.",
+          "link": "https://arstechnica.com/?p=1891279",
+          "publishedOn": "2022-10-20T15:37:01.000Z",
+          "wordCount": 1632,
+          "title": "Vampire Survivors—a cheap, minimalistic indie game—is my game of the year",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/20221019182441_1-760x380.jpg"
+        },
+        {
+          "id": "https://arstechnica.com/?p=1891490",
+          "author": "Jonathan M. Gitlin",
+          "description": "There's a new EnergyStar-like label program for connected devices—but not cars.",
+          "link": "https://arstechnica.com/?p=1891490",
+          "publishedOn": "2022-10-20T15:22:54.000Z",
+          "wordCount": 1361,
+          "title": "74% say connected cars and EV chargers need cybersecurity ratings",
+          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/hacker-star-car-760x380.jpg"
+        },
         {
           "id": "https://arstechnica.com/?p=1891452",
           "author": "Jonathan M. Gitlin",
@@ -11425,16 +11495,6 @@
           "wordCount": 1919,
           "title": "Rocket Report: Falcon Heavy launch on tap; South Korea seeks Russia alternative",
           "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/IHPeuQJA-760x380.jpeg"
-        },
-        {
-          "id": "https://arstechnica.com/?p=1887624",
-          "author": "Scharon Harding",
-          "description": "The AMD-based Swift Edge is bigger and OLED-ier than the Intel-based Swift ultralight.",
-          "link": "https://arstechnica.com/?p=1887624",
-          "publishedOn": "2022-10-07T04:30:44.000Z",
-          "wordCount": 1768,
-          "title": "Acer’s Ryzen 6000-powered Swift Edge laptop has a 16-inch OLED screen for $1,500",
-          "imageUrl": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/Acer-Swift-Edge-SFA16-41-right-facing-Windows-760x380.jpeg"
         }
       ]
     },
@@ -11443,6 +11503,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291852",
+          "author": null,
+          "description": "Konsolen beskrevs i veckan som en \"potatis\".",
+          "link": "https://www.fz.se/artikel/291852-utvecklare-havdar-att-manga-studior-vill-skippa-xbox-series-s-kompatibilitet",
+          "publishedOn": "2022-10-20T15:35:00.000Z",
+          "wordCount": 2126,
+          "title": "Utvecklare hävdar att \"många\" studior vill skippa Xbox Series S-kompatibilitet",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291852"
+        },
         {
           "id": "https://www.fz.se/artikel/291851",
           "author": null,
@@ -13837,6 +13907,26 @@
       "feedUrl": "https://www.theregister.com/headlines.atom",
       "siteUrl": "https://www.theregister.com/",
       "articles": [
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/20/musk_overpaying_twitter/",
+          "author": null,
+          "description": "<h4>Tick tick tick ... just 8 days to go</h4> <p>Billionaire Tesla boss Elon Musk told analysts last night he was excited about his upcoming deal to buy Twitter despite his apparent belief that he will be \"obviously overpaying.\"…</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/20/musk_overpaying_twitter/",
+          "publishedOn": "2022-10-20T16:30:15.000Z",
+          "wordCount": 1236,
+          "title": "Musk grumbles about 'overpaying' for Twitter but says he's excited",
+          "imageUrl": "https://regmedia.co.uk/2022/09/07/musk_shutterstock.jpg"
+        },
+        {
+          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/20/curiosity_mount_sharp/",
+          "author": null,
+          "description": "<h4>NASA had been aiming for the region since before landing because there are 'signs of past water'</h4> <p>NASA's long-serving Curiosity Mars rover has finally reached an objective it has been ambling toward since landing on the red planet a decade ago: the \"sulfate-bearing unit\" of Mount Sharp. …</p>",
+          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/20/curiosity_mount_sharp/",
+          "publishedOn": "2022-10-20T15:45:15.000Z",
+          "wordCount": 1402,
+          "title": "Mars rover Curiosity reaches sulfate-rich Mount Sharp after 10-year journey",
+          "imageUrl": "https://regmedia.co.uk/2022/10/20/paraitepuy-pass-mars.jpg"
+        },
         {
           "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/20/microsoft_data_leak_socradar/",
           "author": null,
@@ -16326,16 +16416,6 @@
           "wordCount": 1429,
           "title": "Top of the Pops: US authorities list the 20 hottest vulns that China's hackers love to hit",
           "imageUrl": "https://regmedia.co.uk/2022/10/07/shutterstock_top_20.jpg"
-        },
-        {
-          "id": "https://go.theregister.com/feed/www.theregister.com/2022/10/07/amazon_halts_scout_delivery_bot/",
-          "author": null,
-          "description": "<h4>Meanwhile in China, Alibaba runs 500 delivery-bots and they’ve delivered 10 million items to Easy Street</h4> <p>E-commerce behemoth Amazon.com has stopped work on its “Scout” parcel delivery robots.…</p>",
-          "link": "https://go.theregister.com/feed/www.theregister.com/2022/10/07/amazon_halts_scout_delivery_bot/",
-          "publishedOn": "2022-10-07T04:02:12.000Z",
-          "wordCount": 1117,
-          "title": "Amazon halts work on ‘Scout’ delivery-bot that delivered parcels no faster than humans",
-          "imageUrl": "https://regmedia.co.uk/2022/10/07/supplied_amazon_scout_deliverybot.jpg"
         }
       ]
     }
