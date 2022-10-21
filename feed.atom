@@ -2,10 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hezweb.github.io/news/index.html</id>
     <title>Hez News</title>
-    <updated>2022-10-21T08:37:29.957Z</updated>
+    <updated>2022-10-21T09:31:16.742Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hezweb.github.io/news/index.html"/>
     <link rel="self" href="https://hezweb.github.io/news/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Dicebreaker Recommends: Detective Club, the most creative lying experience you'll ever have]]></title>
+        <id>https://www.eurogamer.net/dicebreaker-recommends-detective-club-the-most-creative-lying-experience-youll-ever-have</id>
+        <link href="https://www.eurogamer.net/dicebreaker-recommends-detective-club-the-most-creative-lying-experience-youll-ever-have"/>
+        <updated>2022-10-21T09:19:06.000Z</updated>
+        <summary type="html"><![CDATA[Dicebreaker Recommends is a series of monthly board game, RPG and other tabletop recommendations from our friends at our sibling site, Dicebreaker. If you enjoy these articles, maybe consider supporting them through their new memberships programme! 
+Over a decade ago, a little card game called Dixit was released. Featuring a deck of incredibly weird and beautifully illustrated cards, Dixit kind of revolutionised the tabletop industry – offering players a game where the ultimate goal wasn't winning, but telling a story.  
+As revolutionary and charming as Dixit was, and is, it's not especially fun to play. With no clear objective in place, playing Dixit feels rather pointless. Telling stories is fun and the cards are lovely to look at, but it gets very old, very quickly. 
+ Read more]]></summary>
+        <author>
+            <name>Alex Meehan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AVX-VNNI-INT8 & AVX-IFMA Land In GCC 13]]></title>
+        <id>https://www.phoronix.com/news/AVX-VNNI-INT8-AVX-IFMA-GCC-13</id>
+        <link href="https://www.phoronix.com/news/AVX-VNNI-INT8-AVX-IFMA-GCC-13"/>
+        <updated>2022-10-21T09:15:03.000Z</updated>
+        <summary type="html"><![CDATA[As part of Intel's work starting to enable the compiler support for their Sierra Forest CPUs, AVX-VNNI-INT8 and AVX-IFMA support has been merged into the GCC 13 compiler for supporting these instructions being first introduced with Intel's Sierra Forest and Grand Ridge...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Testa att spela Resident Evil Village ur tredjepersonsvy]]></title>
+        <id>https://www.fz.se/artikel/291859</id>
+        <link href="https://www.fz.se/artikel/291859-testa-att-spela-resident-evil-village-ur-tredjepersonsvy"/>
+        <updated>2022-10-21T09:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Ny demo ute nu.]]></summary>
+        <author>
+            <name>FZ.se</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Getting Rumble Support For Latest Microsoft Xbox Controllers]]></title>
+        <id>https://www.phoronix.com/news/Linux-Latest-Xbox-Rumble-Driver</id>
+        <link href="https://www.phoronix.com/news/Linux-Latest-Xbox-Rumble-Driver"/>
+        <updated>2022-10-21T08:55:30.000Z</updated>
+        <summary type="html"><![CDATA[Thanks to a Google engineer in communication with Microsoft engineers, the "hid-microsoft" upstream Linux driver is seeing work to support the rumble mode on newer Xbox controllers...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bias toward office staff will cost you: Your WFH crew could walk, say execs]]></title>
         <id>https://go.theregister.com/feed/www.theregister.com/2022/10/21/proximity_bias_workforce_productivity/</id>
@@ -17703,37 +17746,6 @@ Read more]]></summary>
         <summary type="html"><![CDATA[Ground, space-based telescopes, and a nearby cubesat have all captured the impact.]]></summary>
         <author>
             <name>John Timmer</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arkane finally confirms, yes, Deathloop is set in the Dishonored universe]]></title>
-        <id>https://www.eurogamer.net/arkane-finally-confirms-yes-deathloop-is-set-in-the-dishonored-universe</id>
-        <link href="https://www.eurogamer.net/arkane-finally-confirms-yes-deathloop-is-set-in-the-dishonored-universe"/>
-        <updated>2022-10-07T21:26:06.000Z</updated>
-        <summary type="html"><![CDATA[Ever since the release of Deathloop last year, fans have speculated that the acclaimed time loop shooter was, in fact, set in the same universe as Arkane Studios' much-loved Dishonored series - and now theorists can given finally themselves a pat on the back and pack away their cork boards: the developer has confirmed it is indeed so.
-
-
-Creative director Dinga Bakaba broke the news during the latest episode of the Xbox podcast (thanks PC Gamer), confirming that Deathloop is "one of the futures of the Dishonored world."
-
-
-When asked directly about the possible connection between the two games, Bakaba explained, "We have a number of systems [that mean] not everyone has seen the same thing [in Deathloop], not everyone has heard the same song hidden somewhere, not everyone has seen every room. So it was nice to see the community pick up the little clues that we did sprinkle everywhere that, yes, indeed, we envisioned Deathloop to be happening in the future after [the third Dishonored game] Death of the Outsider."
- 
-Read more]]></summary>
-        <author>
-            <name>Matt Wales</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reproducible Builds: Reproducible Builds in September 2022]]></title>
-        <id>https://reproducible-builds.org/reports/2022-09/</id>
-        <link href="https://reproducible-builds.org/reports/2022-09/"/>
-        <updated>2022-10-07T21:25:12.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to the September 2022 report from the Reproducible Builds project! In our reports we try to outline the most important things that we have been up to over the past month. As a quick recap, whilst anyone may inspect the source code of free software for malicious flaws, almost all software is distributed to end users as pre-compiled binaries. If you are interested in contributing to the project, please visit our Contribute page on our website.
-
-David A. Wheeler reported to us that the US National Security Agency (NSA), Cybersecurity and Infrastructure Security Agency (CISA) and the Office of the Director of National Intelligence (ODNI) have released a document called Securing the Software Supply Chain: Recommended Practices Guide for Developers (PDF).
-As David remarked in his post to…]]></summary>
-        <author>
-            <name>Planet Debian</name>
         </author>
     </entry>
 </feed>

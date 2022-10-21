@@ -723,6 +723,16 @@
       "siteUrl": "https://www.eurogamer.net/feed",
       "articles": [
         {
+          "id": "https://www.eurogamer.net/dicebreaker-recommends-detective-club-the-most-creative-lying-experience-youll-ever-have",
+          "author": "Alex Meehan",
+          "description": "Dicebreaker Recommends is a series of monthly board game, RPG and other tabletop recommendations from our friends at our sibling site, Dicebreaker. If you enjoy these articles, maybe consider supporting them through their new memberships programme! \nOver a decade ago, a little card game called Dixit was released. Featuring a deck of incredibly weird and beautifully illustrated cards, Dixit kind of revolutionised the tabletop industry – offering players a game where the ultimate goal wasn't winning, but telling a story.  \nAs revolutionary and charming as Dixit was, and is, it's not especially fun to play. With no clear objective in place, playing Dixit feels rather pointless. Telling stories is fun and the cards are lovely to look at, but it gets very old, very quickly. \n Read more",
+          "link": "https://www.eurogamer.net/dicebreaker-recommends-detective-club-the-most-creative-lying-experience-youll-ever-have",
+          "publishedOn": "2022-10-21T09:19:06.000Z",
+          "wordCount": 5085,
+          "title": "Dicebreaker Recommends: Detective Club, the most creative lying experience you'll ever have",
+          "imageUrl": "https://assets.reedpopcdn.com/detectiveclub.png/BROK/thumbnail/1600x900/format/jpg/quality/80/detectiveclub.png"
+        },
+        {
           "id": "https://www.eurogamer.net/resident-evil-4s-remake-is-surprisingly-bold-while-reassuringly-familiar",
           "author": "Martin Robinson",
           "description": "It's been a hot topic of late about when a classic game is ripe for a remake, but given how Resident Evil 4 seems to have been rolled out for re-release in one shape or another almost annually since it first appeared in 2005 it feels like a special case. There was a waggle-enhanced Wii version, HD versions for the Xbox 360 and PS3, mobile versions for Android and iOS and VR versions for Oculus Quest - by this point, Capcom's iconic survival horror feels as ubiquitous as Skyrim. \r\n\n\r\nWhen Capcom announced it was giving Resident Evil 4 the same remake treatment it gave RE2 and RE3 recently, eyebrows were understandably raised. What exactly can a remake bring to make it worth playing through again? Going hands-on with a short section of the forthcoming remake showed there's a fair amount to make it more than worthwhile, and this remake provides an effective remix of some moments we know inside out, refreshing them enough to make it feel like you're playing through this classic for the first time. \r\n\n\r\nBefore we get to that, though, there's obviously a fairly hefty visual makeover in effect here. The original Resident Evil 4 has aged admirably and still looks pretty fine today, but it doesn't look quite like this. In keeping with other games that have excellently employed Capcom's RE Engine, this is a proper looker with moody lighting and an incredible *wetness* to the gore. There are some truly disturbing sights here, from fresh corpses of recently ripped apart rabbits to the enhanced horror of seeing a villager tied to the stake in astounding new detail. Perhaps most importantly, there's an extra floppiness to Leon's curtains, and an extra fluffiness to the collar of his famous jacket. \r\n \nRead more",
@@ -2751,16 +2761,6 @@
           "wordCount": 5801,
           "title": "How I became an Elden Ring detective",
           "imageUrl": "https://assets.reedpopcdn.com/elden-ring-world-tree.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/elden-ring-world-tree.jpg"
-        },
-        {
-          "id": "https://www.eurogamer.net/arkane-finally-confirms-yes-deathloop-is-set-in-the-dishonored-universe",
-          "author": "Matt Wales",
-          "description": "Ever since the release of Deathloop last year, fans have speculated that the acclaimed time loop shooter was, in fact, set in the same universe as Arkane Studios' much-loved Dishonored series - and now theorists can given finally themselves a pat on the back and pack away their cork boards: the developer has confirmed it is indeed so.\r\n\n\r\nCreative director Dinga Bakaba broke the news during the latest episode of the Xbox podcast (thanks PC Gamer), confirming that Deathloop is \"one of the futures of the Dishonored world.\"\r\n\n\r\nWhen asked directly about the possible connection between the two games, Bakaba explained, \"We have a number of systems [that mean] not everyone has seen the same thing [in Deathloop], not everyone has heard the same song hidden somewhere, not everyone has seen every room. So it was nice to see the community pick up the little clues that we did sprinkle everywhere that, yes, indeed, we envisioned Deathloop to be happening in the future after [the third Dishonored game] Death of the Outsider.\"\r\n \nRead more",
-          "link": "https://www.eurogamer.net/arkane-finally-confirms-yes-deathloop-is-set-in-the-dishonored-universe",
-          "publishedOn": "2022-10-07T21:26:06.000Z",
-          "wordCount": 4915,
-          "title": "Arkane finally confirms, yes, Deathloop is set in the Dishonored universe",
-          "imageUrl": "https://assets.reedpopcdn.com/deathloop-review-1631529480656.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/deathloop-review-1631529480656.jpg"
         }
       ]
     },
@@ -4146,6 +4146,26 @@
       "feedUrl": "https://www.phoronix.com/phoronix-rss.php",
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
+        {
+          "id": "https://www.phoronix.com/news/AVX-VNNI-INT8-AVX-IFMA-GCC-13",
+          "author": null,
+          "description": "As part of Intel's work starting to enable the compiler support for their Sierra Forest CPUs, AVX-VNNI-INT8 and AVX-IFMA support has been merged into the GCC 13 compiler for supporting these instructions being first introduced with Intel's Sierra Forest and Grand Ridge...",
+          "link": "https://www.phoronix.com/news/AVX-VNNI-INT8-AVX-IFMA-GCC-13",
+          "publishedOn": "2022-10-21T09:15:03.000Z",
+          "wordCount": 1300,
+          "title": "AVX-VNNI-INT8 & AVX-IFMA Land In GCC 13",
+          "imageUrl": null
+        },
+        {
+          "id": "https://www.phoronix.com/news/Linux-Latest-Xbox-Rumble-Driver",
+          "author": null,
+          "description": "Thanks to a Google engineer in communication with Microsoft engineers, the \"hid-microsoft\" upstream Linux driver is seeing work to support the rumble mode on newer Xbox controllers...",
+          "link": "https://www.phoronix.com/news/Linux-Latest-Xbox-Rumble-Driver",
+          "publishedOn": "2022-10-21T08:55:30.000Z",
+          "wordCount": 1352,
+          "title": "Linux Getting Rumble Support For Latest Microsoft Xbox Controllers",
+          "imageUrl": null
+        },
         {
           "id": "https://www.phoronix.com/news/Intel-Arc-Graphics-Driver-22.04",
           "author": null,
@@ -9286,16 +9306,6 @@
           "wordCount": 719,
           "title": "Steve Kemp: Trivial benchmarks of toy languages",
           "imageUrl": null
-        },
-        {
-          "id": "https://reproducible-builds.org/reports/2022-09/",
-          "author": null,
-          "description": "Welcome to the September 2022 report from the Reproducible Builds project! In our reports we try to outline the most important things that we have been up to over the past month. As a quick recap, whilst anyone may inspect the source code of free software for malicious flaws, almost all software is distributed to end users as pre-compiled binaries. If you are interested in contributing to the project, please visit our Contribute page on our website.\n\nDavid A. Wheeler reported to us that the US National Security Agency (NSA), Cybersecurity and Infrastructure Security Agency (CISA) and the Office of the Director of National Intelligence (ODNI) have released a document called Securing the Software Supply Chain: Recommended Practices Guide for Developers (PDF).\nAs David remarked in his post to…",
-          "link": "https://reproducible-builds.org/reports/2022-09/",
-          "publishedOn": "2022-10-07T21:25:12.000Z",
-          "wordCount": 1978,
-          "title": "Reproducible Builds: Reproducible Builds in September 2022",
-          "imageUrl": null
         }
       ]
     },
@@ -11048,6 +11058,16 @@
       "feedUrl": "https://www.fz.se/feeds/nyheter",
       "siteUrl": "https://www.fz.se",
       "articles": [
+        {
+          "id": "https://www.fz.se/artikel/291859",
+          "author": null,
+          "description": "Ny demo ute nu.",
+          "link": "https://www.fz.se/artikel/291859-testa-att-spela-resident-evil-village-ur-tredjepersonsvy",
+          "publishedOn": "2022-10-21T09:02:00.000Z",
+          "wordCount": 1810,
+          "title": "Testa att spela Resident Evil Village ur tredjepersonsvy",
+          "imageUrl": "https://www.fz.se/artikel/og-image/291859"
+        },
         {
           "id": "https://www.fz.se/artikel/291858",
           "author": null,
